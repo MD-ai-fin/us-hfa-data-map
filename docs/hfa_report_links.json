@@ -324,8 +324,8 @@
     "hfa_name": "South Carolina State Housing Finance and Development Authority",
     "hfa_abbr": "SCHFDA",
     "page_url": "https://www.schousing.com/",
-    "fy2024_pdf": null,
-    "fy2025_pdf": null
+    "fy2024_pdf": "https://schousing.sc.gov/sites/schousing/files/Documents/About/Financials/SC%20Housing%20Financials%20FY24.pdf",
+    "fy2025_pdf": "https://schousing.sc.gov/sites/schousing/files/Documents/About/Financials/SC%20Housing%20Financial%20Statements%20-%20FY25.pdf"
   },
   "SD": {
     "state": "SD",

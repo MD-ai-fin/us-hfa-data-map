@@ -39,7 +39,7 @@ const MANUAL_FY2024 = [
   },
   { state: "UT", url: "https://www.utah.gov/pmn/files/1278910.pdf" },
   { state: "TN", url: "https://dogvxws799i6n.cloudfront.net/wp-content/uploads/THDA-Audited-Financial-Statement-6-30-2024-FINAL.pdf" },
-  { state: "SC", url: "https://osa.sc.gov/wp-content/uploads/2024/10/Updated-SC-Housing-Financial-Statements-FY24.pdf" },
+  { state: "SC", url: "https://schousing.sc.gov/sites/schousing/files/Documents/About/Financials/SC%20Housing%20Financials%20FY24.pdf" },
   // PA Commonwealth ACFR is NOT the PHFA report — omit until a PHFA entity PDF is available.
   { state: "ND", url: "https://www.ndhousing.nd.gov/sites/www/files/documents/Investors/AuditedFinancialStatements2024and2023.pdf" },
   { state: "MT", url: "https://archive.legmt.gov/content/Committees/Administration/audit/2024-25/Meetings/April-2025/24-07.pdf" },
@@ -164,6 +164,12 @@ const PDF_FIXES = {
   DE: {
     fy2024_pdf:
       "https://auditor.delaware.gov/wp-content/uploads/sites/209/2024/12/Delaware-State-Housing-Authority-Financial-Statement-Audit-Report-FY24.pdf",
+  },
+  SC: {
+    fy2024_pdf:
+      "https://schousing.sc.gov/sites/schousing/files/Documents/About/Financials/SC%20Housing%20Financials%20FY24.pdf",
+    fy2025_pdf:
+      "https://schousing.sc.gov/sites/schousing/files/Documents/About/Financials/SC%20Housing%20Financial%20Statements%20-%20FY25.pdf",
   },
   // Commonwealth of PA ACFR is not PHFA; clear until a PHFA entity PDF is known.
   PA: { fy2024_pdf: null, fy2025_pdf: null },
