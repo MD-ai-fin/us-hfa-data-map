@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>美国州级住房金融机构数据地图 | U.S. State HFA Data Map</title>
+  <title>U.S. State HFA Data Map</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -334,45 +334,45 @@
 </head>
 <body>
   <header>
-    <h1 id="title">美国州级住房金融机构数据地图</h1>
-    <p id="subtitle">基于 FY2024/FY2025 ACFR 报告及美国政府公开统计数据</p>
+    <h1 id="title">U.S. State Housing Finance Agency Data Map</h1>
+    <p id="subtitle">Based on FY2024/FY2025 ACFR reports and U.S. government open data</p>
   </header>
 
   <div class="controls">
     <div class="control-group">
-      <label id="lbl-year">财年</label>
+      <label id="lbl-year">Fiscal Year</label>
       <div class="toggle-group" id="year-toggle">
         <button data-year="2024" class="active">2024</button>
         <button data-year="2025">2025</button>
       </div>
     </div>
-    <div class="control-group">
-      <label id="lbl-lang">语言</label>
+    <div class="control-group" id="lang-group" hidden>
+      <label id="lbl-lang">Language</label>
       <div class="toggle-group" id="lang-toggle">
-        <button data-lang="zh" class="active">中文</button>
-        <button data-lang="en">English</button>
+        <button data-lang="zh">中文</button>
+        <button data-lang="en" class="active">English</button>
       </div>
     </div>
-    <button type="button" class="btn-report" id="btn-report">FY2025 综合分析报告</button>
+    <button type="button" class="btn-report" id="btn-report">FY2025 Comprehensive Analysis Report</button>
   </div>
 
   <div class="layout">
     <div id="map-wrap" style="position:relative">
       <div id="map"></div>
       <div class="legend" id="legend">
-        <h3 id="legend-title">图例</h3>
+        <h3 id="legend-title">Legend</h3>
         <div class="legend-bar"></div>
         <div class="legend-labels"><span id="legend-min">—</span><span id="legend-max">—</span></div>
       </div>
     </div>
     <aside class="sidebar">
       <div>
-        <h2 id="sidebar-title">地图显示选项</h2>
-        <p class="sub" id="sidebar-hint">勾选要在地图上浮现的数据项，支持多项同时显示</p>
+        <h2 id="sidebar-title">Map Display Options</h2>
+        <p class="sub" id="sidebar-hint">Select metrics to show on the map; multiple selections supported</p>
       </div>
       <div class="sidebar-actions">
-        <button type="button" id="btn-select-all">全选</button>
-        <button type="button" id="btn-clear-all">清除</button>
+        <button type="button" id="btn-select-all">Select All</button>
+        <button type="button" id="btn-clear-all">Clear</button>
       </div>
       <div class="metric-options" id="metric-options"></div>
       <div class="sources" id="sources"></div>
@@ -382,7 +382,7 @@
   <div class="report-modal" id="report-modal" aria-hidden="true">
     <div class="report-panel" role="dialog" aria-modal="true" aria-labelledby="report-title">
       <div class="report-header">
-        <h2 id="report-title">FY2025 综合分析报告</h2>
+        <h2 id="report-title">FY2025 Comprehensive Analysis Report</h2>
         <button type="button" class="report-close" id="btn-report-close" aria-label="Close">×</button>
       </div>
       <div class="report-body" id="report-body"></div>
@@ -563,7 +563,7 @@
       "District of Columbia":"DC",
     };
 
-    let lang = "zh", year = "2024";
+    let lang = "en", year = "2024";
     let dataset = null, stateLayer = null;
     const reportCache = {};
     let reportOpen = false;
