@@ -1,0 +1,3023 @@
+NORTH DAKOTA HOUSING FINANCE AGENCY
+BISMARCK, NORTH DAKOTA
+AUDITED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED JUNE 30, 2025 AND 2024
+Table of Contents
+INDEPENDENT AUDITOR’S REPORT 1
+MANAGEMENT’S DISCUSSION AND ANALYSIS 5
+FINANCIAL STATEMENTS
+Statements of Net Position 11
+Statements of Revenues, Expenses and Changes in Net Position 13
+Statements of Cash Flows 14
+Statement of Appropriations 16
+Notes to the Financial Statements 17
+REQUIRED SUPPLEMENTARY INFORMATION
+Schedules of Employer’s Share of Net Pension Liability 58
+Schedules of Employer Contributions - Pension 58
+Schedule of Employer’s Share of Net OPEB Liability 59
+Schedule of Employer Contributions – OPEB 59
+Notes the Required Supplementary Information 60
+SUPPLEMENTARY INFORMATION
+Combining Statements of Net Position 61
+Combining Statements of Revenues, Expenses and Changes in Fund Net Position 63
+Combining Statements of Cash Flows 64
+Housing and Urban Development - Section 8 Financial Data Schedule 67
+Adjusted Net Worth Calculation 69
+Insurance Coverage Schedule 70
+Capital Requirement Calculation 71
+Liquid Asset Requirement Calculation 72
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER
+FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED
+IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS 73
+Summary of North Dakota Housing Finance Agency Audit 75
+Independent Auditor’s Communication to Governor and Legislative Assembly 76
+INDEPENDENT AUDITOR'S REPORT
+Go vernor Kelly Armstrong
+The Legislative Assembly
+Sta te of North Dakota
+Bis marck, North Dakota
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of the business-type activities of the
+No rth Dakota Housing Finance Agency, a department of the State of North Dakota, as of and for
+the years ended June 30, 2025 and 2024, and the related notes to the financial statements,
+wh ich collectively comprise the North Dakota Housing Finance Agency’s basic financial
+sta tements as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects,
+the respective financial position of the business-type activities of the North Dakota Housing
+Finance Agency, as of June 30, 2025 and 2024, and the respective changes in financial
+position, cash flows thereof and statement of appropriations for the years then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Em phasis of Matter
+As discussed in Note 1 to the financial statements, the financial statements of the North Dakota
+Ho using Finance Agency are intended to present the net position, revenues, expenses and
+cash flows of only that portion of the financial statement of the State of North Dakota that is
+attributable to the transactions of the North Dakota Housing Finance Agency. They do not
+purport to, and do not, present fairly the financial position of the State of North Dakota as of
+June 30, 2025 and 2024, the changes in its financial position or its cash flows for the years then
+ended in conformity with accounting principles generally accepted in the United States of
+Am erica. Our opinion is not modified with respect to this matter.
+Ba sis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United
+States of America and the standards applicable to financial audits contained in Government
+Auditing Standards, issued by the Comptroller General of the United States. Our responsibilities
+under those standards are further described in the Auditor’s Responsibilities for the Audit of the
+Financial Statements section of our report. We are required to be independent of the North
+Dakota Housing Finance Agency, and to meet our other ethical responsibilities, in accordance
+with the relevant ethical requirements relating to our audit. We believe that the audit evidence
+we have obtained is sufficient and appropriate to provide a basis for our audit opinion.
+- 1 -
+Make Every Day Count | www.bradymartz.com
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements
+in accordance with accounting principles generally accepted in the United States of America,
+and for the design, implementation, and maintenance of internal control relevant to the
+preparation and fair presentation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about the North
+Dakota Housing Finance Agency’s ability to continue as a going concern for twelve months
+beyond the financial statement date, including any currently known information that may raise
+substantial doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditor’s report that includes our opinions. Reasonable assurance is a high level of assurance
+but is not absolute assurance and therefore is not a guarantee that an audit conducted in
+accordance with generally accepted auditing standards and Government Auditing Standards will
+always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal
+control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user
+based on the financial statements.
+In performing an audit in accordance with generally accepted auditing standards and
+Government Auditing Standards, we:
+(cid:120) Exercise professional judgment and maintain professional skepticism throughout the
+audit.
+(cid:120) Identify and assess the risks of material misstatement of the financial statements,
+whether due to fraud or error, and design and perform audit procedures responsive to
+those risks. Such procedures include examining, on a test basis, evidence regarding the
+amounts and disclosures in the financial statements.
+(cid:120) Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of
+expressing an opinion on the effectiveness of the North Dakota Housing Finance
+Agency’s internal control. Accordingly, no such opinion is expressed.
+(cid:120) Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+(cid:120) Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the North Dakota Housing Finance
+Agency’s ability to continue as a going concern for a reasonable period of time.
+- 2 -
+Make Every Day Count www.bradymartz.com
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control-related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management’s discussion and analysis, schedule of employer’s share of net pension liability,
+schedule of employer contributions – pension, schedule of employer’s share of net OPEB
+liability, schedule of employer contributions – OPEB and notes to the required supplementary
+information be presented to supplement the basic financial statements. Such information is the
+responsibility of management and, although not a part of the basic financial statements, is
+required by the Governmental Accounting Standards Board who considers it to be an essential
+part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the
+required supplementary information in accordance with auditing standards generally accepted in
+the United States of America, which consisted of inquiries of management about the methods of
+preparing the information and comparing the information for consistency with management’s
+responses to our inquiries, the basic financial statements, and other knowledge we obtained
+during our audit of the basic financial statements. We do not express an opinion or provide any
+assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the North Dakota Housing Finance Agency’s basic financial statements.
+The combining financial statements are presented for purposes of additional analysis and are
+not a required part of the basic financial statements. The accompanying supplementary
+information as listed in the table of contents on pages 61-72 is presented for purposes of
+additional analysis as required by the Uniform Financial Report Standards issued by the U.S.
+Department of Housing and Urban Development, Office of the Inspector General, and is not a
+required part of the financial statements. Such information is the responsibility of management
+and was derived from and relates directly to the underlying accounting and other records used
+to prepare the basic financial statements. The information has been subjected to the auditing
+procedures applied in the audit of the basic financial statements and certain additional
+procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the basic financial statements or to the basic
+financial statements themselves, and other additional procedures in accordance with auditing
+standards generally accepted in the United States of America. In our opinion, the Combining
+Statements of Net Position, Combining Statements of Revenues, Expenses and Changes in
+Fund Net Position, Combining Statements of Cash Flows, Housing and Urban Development
+Section 8 Financial Data Schedule, Adjusted Net Worth Calculation, Insurance Coverage
+Schedule, Capital Requirement Calculation, and Liquid Asset Requirement Calculation, are
+fairly stated, in all material respects, in relation to the basic financial statements as a whole.
+- 3 -
+Make Every Day Count www.bradymartz.com
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+November 24, 2025, on our consideration of the North Dakota Housing Finance Agency’s
+internal control over financial reporting and on our tests of its compliance with certain provisions
+of laws, regulations, contracts, and grant agreements and other matters. The purpose of that
+report is solely to describe the scope of our testing of internal control over financial reporting
+and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the North Dakota Housing Finance Agency’s internal control over financial
+reporting or on compliance. That report is an integral part of an audit performed in accordance
+with Government Auditing Standards in considering North Dakota Housing Finance Agency’s
+internal control over financial reporting and compliance.
+BRADY MARTZ
+BISMARCK, NORTH DAKOTA
+November 24, 2025
+- 4 -
+Make Every Day Count www.bradymartz.com
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+JUNE 30, 2025 AND 2024
+(In Thousands)
+The discussion and analysis of the financial performance of the North Dakota Housing Finance
+Agency (Agency) that follows is meant to provide additional insight into the Agency’s activities for
+the years ended June 30, 2025 and 2024. Please read it in conjunction with the Agency’s financial
+statements and footnotes, which are presented within this report.
+North Dakota Housing Bonds issued by North Dakota Housing Finance Agency are mortgage
+revenue bonds that are neither a general nor a moral obligation of the state but are a general
+obligation of the Agency.
+Financial Highlights
+In FY2025, mortgage loans receivable increased $331,760 to $2,224,268. This included $488,717
+of new loans purchased, $165,905 of repaid principal on mortgage loans and an increase in loan
+premiums of $8,951 and decrease in mortgage loan loss reserve of $3.
+In FY2024, mortgage loans receivable increased $316,385 to $1,892,508. This included $436,910
+of new loans purchased, $703 of Loans sold to BND, $126,899 of repaid principal on mortgage
+loans and an increase in loan premiums of $7,090 and decrease in mortgage loan loss reserve
+of $13.
+In FY2025, bonds payable increased $525,526 from the FY2024 bonds payable to $2,463,794.
+This included the issuance of $655,000 new mortgage revenue bonds, $135,665 bonds being
+called or maturing and a net decrease in bond premiums of $6,191. See Note 12 in the
+accompanying Notes to the Financial Statements for more information regarding long term debt
+In FY2024, bonds payable increased $337,891 from the FY2023 bonds payable to $1,938,268.
+This included the issuance of $464,000 new bonds, $126,840 bonds being called or maturing and
+a net increase in bond premiums of $731. See Note 12 in the accompanying Notes to the Financial
+Statements for more information regarding long term debt.
+The Agency did not draw on either the BND or Federal Home Loan Bank lines of credit in FY2025
+and FY2024, however both lines remained available to the Agency. The beginning and ending
+balances in FY2025 and FY2024 were $0 for both FHLB and BND.
+The Agency’s FY2025 net position increased $24,355 to $280,805 as a result of the year’s
+program operations and financing activities.
+The Agency’s FY2024 net position increased $24,246 to $256,450 as a result of the year’s
+program operations and financing activities.
+FY2025 Income Before Transfers of $24,455 was higher than FY2024 by $109 as a result of
+increases in investment income due to the rising interest rate environment during the past fiscal
+year offset by increases in interest expense and administrative costs. Additionally, non-federal
+grants decreased $3,500 due to a one time grant that was received in FY2024.
+- 5 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Operating revenues in FY2025 of $114,908 were up $25,457 as a result of higher mortgage and
+investment income than in the prior year. The Agency continues to fund mortgage loans at a fast
+pace given the rise in mortgage rates and the rates on mortgage revenue bonds over the last year
+continuing to be competitive in the mortgage market. Overall this has not had a large effect on
+the funding of mortgage loans, however the Agency has seen a decrease in loan payoffs due to
+this increase in mortgage rating making refinances less favorable.
+Operating revenues in FY2024 of $89,451 were up $24,080 as a result of higher mortgage and
+investment income than in the prior year along with an increase in fee income. This was partially
+offset by a small loss on the sale of investments. The Agency continues to fund mortgage loans
+at a fast pace. Although mortgage rates have started to drop slightly, the pricing of mortgage
+revenue bonds continues to be competitive. With the higher interest rates over the last few years,
+the Agency has and continues to see a decrease in loan payoffs making refinances or move up
+mortgage purchases less favorable.
+Operating expenses for FY2025 of $92,412 were up $21,909 from the FY2024 Operating
+expenses as a result of higher bond interest expense and administrative expenses.
+Operating expenses for FY2024 of $70,503 were up $18,269 from the FY2023 Operating
+expenses as a result of higher bond interest expense, increase in Agency grants and higher bond
+admin expenses than what was incurred in the prior year. The pension expense decreased when
+compared to the prior year.
+- 6 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Overview of the Financial Statements
+The annual financial report consists of two parts: Management’s Discussion and Analysis (this
+section) and the Basic Financial Statements. The financial statements of the Agency provide
+accounting information similar to that of many other business entities. The Statement of Net
+Position summarizes the assets and liabilities, with the difference between the two reported as
+net position. The Statement of Revenues, Expenses and Changes in Net Position summarizes
+the Agency’s operating performance for the year. The Statement of Cash Flows summarizes the
+flow of cash through the Agency.
+Condensed Statements of Net Position
+June 30, 2025, 2024 and 2023
+(In Thousands)
+2025 2024 2023 Change Percentage
+ASSETS
+Unrestricted current assets $ 2 2,846 $ 19,928 $ 15,824 $ 2,918 15 %
+Restricted current assets 5 59,668 321,596 259,589 238,072 74
+Total current assets 5 82,514 341,524 275,413 240,990 71
+Unrestricted noncurrent assets 9,622 8,792 7,915 830 9
+Restricted noncurrent assets 2,226,816 1,905,525 1,600,851 321,291 17
+Total noncurrent assets 2,236,438 1,914,317 1,608,766 322,121 17
+Total assets $ 2,818,952 $ 2,255,841 $ 1,884,179 $ 563,111 25 %
+DEFERRED OUTFLOWS OF RESOURCES
+Total deferred outflows of resources $ 2,053 $ 3,829 $ 5,732 $ (1,776) (46) %
+LIABILITIES
+Current liabilities $ 142,425 $ 121,509 $ 106,464 $ 20,916 17 %
+Noncurrent liabilities 2,379,175 1,857,055 1,532,278 522,120 28
+Total liabilities $ 2,521,600 $ 1,978,564 $ 1,638,742 $ 543,036 27 %
+DEFERRED INFLOWS OF RESOURCES
+Total deferred inflows of resources $ 1 8,600 $ 24,656 $ 18,965 $ (6,056) (25) %
+NET POSITION
+Net investment in capital assets $ 75 $ 92 $ 112 $ (17) (18) %
+Restricted for debt service 2 55,575 235,456 217,892 20,119 9
+Unrestricted 25,155 20,902 14,200 4,253 20
+Total net position $ 280,805 $ 256,450 $ 232,204 $ 24,355 9 %
+- 7 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Statements of Revenues, Expenses and Changes in Net Position
+Years Ended June 30, 2025, 2024, and 2023
+(In Thousands)
+2025 2024 2023 Change Percentage
+OPERATING REVENUES
+Mortgage interest income $ 83,643 $ 63,706 $ 49,722 $ 19,937 31 %
+Investment income 26,105 21,152 10,977 4,953 23
+Gain (loss) on sale of investment - (9) (176) 9 (100)
+Fee income 5,160 4,602 4,848 5 58 12
+Total revenues 114,908 89,451 65,371 25,457 28 %
+OPERATING EXPENSES
+Interest expense 74,356 54,623 39,393 19,733 36 %
+Agency grants 1,657 1,413 80 244 17
+Administrative and operating
+expenses 15,779 13,662 11,381 2,117 15
+Pension expense 3 32 512 1,092 ( 180) (35)
+OPEB expense 35 47 49 (12) (26)
+Amortization 2 20 213 207 7 3
+Depreciation 33 33 32 - -
+Total expenses 92,412 70,503 52,234 21,909 31 %
+OPERATING INCOME 22,496 18,948 13,137 3,548 19 %
+NONOPERATING REVENUES
+(EXPENSES)
+Federal grants 29,711 20,648 22,117 9,063 44 %
+Non-federal grants 1,469 5,060 1 13 (3,591) (71)
+Investment income (loss) 4 90 338 43 152 45
+Federal grants (29,711) (20,648) (22,117) (9,063) 44
+1,959 5,398 1 56 (3,439) (64) %
+INCOME BEFORE
+TRANSFERS 24,455 24,346 13,293 1 09 1 %
+TRANSFERS
+Transfers to Industrial Commission ( 100) (100) (8) - -
+CHANGE IN NET POSITION 24,355 24,246 13,285 1 09 1 %
+TOTAL NET POSITION, BEGINNING OF YEAR 256,450 232,204 218,919 24,246 10 %
+TOTAL NET POSITION, END OF YEAR $ 280,805 $ 256,450 $ 232,204 $ 24,355 9 %
+- 8 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Operating interest income is comprised of the sum of interest earnings on funds held in trust for
+the Home Mortgage Finance Program. These funds are invested in investment contracts as
+reported in Notes 2 and 3 to the financial statements.
+FY2025 Operating investment interest income of $26,105 was up $4,953 from the prior year as a
+result of the higher interest rate environment. The Agency uses the Bond Proceeds as Non-
+purpose investments on a temporary basis to fund mortgage loans until permanent financing is
+available. The interest rates are substantially higher than the Agency would receive if investing in
+investment contracts. The interest earned on these Non-purpose investments is considered
+investment income rather than mortgage loan interest.
+FY2024 Operating investment interest income of $21,152 was up $10,175 from the prior year as
+a result of the higher interest rate environment. The Agency uses the Bond Proceeds as Non-
+purpose investments on a temporary basis to fund mortgage loans until permanent financing is
+available. The interest rates are substantially higher than the Agency would receive if investing in
+investment contracts. The interest earned on these Non-purpose investments is considered
+investment income rather than mortgage loan interest
+Non-operating interest income represents earnings on the Agency investments, excluding the
+Homeownership funds. These funds are invested in mortgage-backed securities or the Bank of
+North Dakota money market and demand accounts. The FY2025 Non-Operating Interest Income
+was $490 compared to $338 in FY2024. This was a direct result of the fair market value increases
+or decreases on MBS investments. As investment rates increase, the current fair market value of
+the MBS investments owned by the Agency decrease. If investment rates decrease, the market
+value of the Agency’s current MBS investments should increase. The Agency does not actively
+trade the MBS investments but intends to hold them until maturity.
+Outlook
+NDHFA continues to be successful in obtaining taxable and tax-exempt bond financing to
+purchase mortgage loans by implementing various bond structures including issuing fixed rate
+and variable rate bonds and entering Interest Rate SWAP agreements. The structure depends
+on current rates available in both the bond market and the mortgage loans. The Agency continues
+to monitor the markets to determine if GNMA eligible loans should be securitized into an MBS or
+if bond financing is the better option. In addition, NDHFA is exploring other financing options in
+addition to taxable bonds for the non-government insured ROOTS loans. GNMA only allows
+government insured loans to be securitized.
+NDHFA continues to offer the ROOTS program allowing a larger number of families to enjoy the
+benefits of North Dakota Housing Finance Agency’s programs and affordable rates. The ROOTS
+program has slowed down this year due to the Agency putting more focus on the First Home
+Program which continues to be robust. Currently, both programs continue to be utilized. Similar
+to the past few years, Prepayments made by borrowers have been coming in at a slower pace
+due to the current increase in mortgage rates. This appears to be a result of fewer mortgages
+being refinanced due to the smaller economic gain associated with refinancing to a lower rate.
+The Agency’s First Home program continues to purchase loans at a high level from the Agency’s
+lender partners. The Agency’s program offers down payment and closing cost assistance to
+eligible borrowers which helps a majority of borrowers qualify for purchasing a home. The
+- 9 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+MANAGEMENT’S DISCUSSION AND ANALYSIS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+continuation of the oil industry production in the western part of North Dakota has been relatively
+stable at the current time. The unpredictable oil field boom and bust cycle may have an effect but
+does not appear to present a major problem for the Agency at this time. Due to income limits with
+the Agency’s programs, most oil industry workers do not qualify for our First Home programs,
+however they may qualify under the ROOTS program. The purchase of affordable housing
+remains robust in the more populous areas of the State.
+The Agency has also been successful in issuing multi-family bonds for 4% Low Income Housing
+Tax Credit projects. This has enabled the developers to attract more equity to housing projects
+in the state addressing the needs of vulnerable populations.
+In FY2023, the Agency took over the administration of the HUD Emergency Solutions Grant and
+the North Dakota Homeless Grant.
+Budgetary Information
+As discussed in Note 1 to the financial statements, the North Dakota Housing Finance Agency is
+funded under a biennial appropriation approved by the state legislature. The biennial
+appropriation does not provide any state General Fund dollars. Hence, total Agency appropriation
+is funded from Agency operations.
+Contacting the North Dakota Housing Finance Agency’s Financial Management
+The information in this report is intended to provide the reader with an overview of the Agency’s
+operations along with the Agency’s accountability for those operations. Questions concerning
+any of the information provided in this report or request for additional financial information should
+be addressed to the North Dakota Housing Finance Agency, P.O. Box 1535, Bismarck, ND
+58502-1535.
+- 10 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENTS OF NET POSITION
+JUNE 30, 2025 AND 2024
+(In Thousands)
+2025 2024
+ASSETS
+CURRENT ASSETS - UNRESTRICTED
+Cash and cash equivalents $ 1 9,731 $ 16,135
+Due from State Agencies 294 331
+Receivables
+Interest
+Loans 1 1
+Investments 2 9 31
+Due from HUD 375 438
+Other 838 1,616
+Current portion of service release premium 1,468 1,272
+Prepaid expenses 110 104
+Total unrestricted current assets 2 2,846 19,928
+CURRENT ASSETS - RESTRICTED
+Cash and cash equivalents 501,559 271,866
+Receivables
+Current portion of loans receivable, net of allowance 4 6,605 40,820
+Interest
+Loans 8,988 6,827
+Investments 2,369 2,083
+Other 147 -
+Total restricted current assets 559,668 321,596
+Total current assets 582,514 341,524
+NONCURRENT ASSETS - UNRESTRICTED
+Service release premium, net 9,547 8,476
+Equipment, net 75 96
+Lease assets, net - 220
+Total unrestricted noncurrent assets 9,622 8,792
+NONCURRENT ASSETS - RESTRICTED
+Loans receivable, net of current portion and allowance 2,177,663 1,851,688
+Investments 4 9,153 53,837
+Total restricted noncurrent assets 2,226,816 1,905,525
+Total noncurrent assets 2,236,438 1,914,317
+Total assets 2,818,952 2,255,841
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred outflow - pension 1,981 3,713
+Deferred outflow - OPEB 72 116
+Total deferred outflows of resources 2,053 3,829
+See Notes to Financial Statements
+- 11 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENTS OF NET POSITION - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+2025 2024
+LIABILITIES
+CURRENT LIABILITIES
+Due to HUD $ 23 $ 13
+Due to state agencies 571 519
+Other 726 2,017
+Current portion of compensated absences 121 380
+Current portion of bonds payable, net of premium 7 3,800 65,667
+Accrued interest 4 3,296 32,765
+Funds held in trust 2 3,888 20,148
+Total current liabilities 142,425 121,509
+NONCURRENT LIABILITIES
+Rebate due to IRS 84 -
+Net pension liability 4,848 4,972
+Net OPEB liability 204 244
+Financial derivative instrument ( 16,316) ( 20,762)
+Compensated absences, net of current portion 361 -
+Bonds payable, net of current portion and premium 2,389,994 1,872,601
+Total noncurrent liabilities 2,379,175 1,857,055
+Total liabilities 2,521,600 1,978,564
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflow - pension 2,254 3,864
+Deferred inflow - OPEB 30 30
+Financial derivative instrument 1 6,316 20,762
+Total deferred inflows of resources 1 8,600 24,656
+NET POSITION
+Net investment in capital assets 75 92
+Restricted for debt service 255,575 235,456
+Unrestricted 2 5,155 20,902
+Total net position $ 280,805 $ 256,450
+See Notes to Financial Statements
+- 12 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENTS OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+2025 2024
+OPERATING REVENUES
+Mortgage interest income $ 83,643 $ 63,706
+Investment income 2 6,105 21,152
+Gain (loss) on sale of investments - (9)
+Fee income 5,160 4,602
+Total revenues 114,908 8 9,451
+OPERATING EXPENSES
+Interest expense 7 4,356 54,623
+Agency grants 1,657 1,413
+Administrative and operating expenses 1 5,779 13,662
+Pension expense 332 512
+OPEB expense 35 47
+Amortization 220 213
+Depreciation 33 33
+Total expenses 9 2,412 70,503
+OPERATING INCOME 2 2,496 18,948
+NONOPERATING REVENUES (EXPENSES)
+Federal grants 2 9,711 20,648
+Non-federal grants 1,469 5,060
+Investment income (loss) 490 338
+Federal grants ( 29,711) (20,648)
+Total nonoperating revenues (expenses) 1,959 5,398
+INCOME BEFORE TRANSFERS 24,455 24,346
+TRANSFERS
+Transfer to Industrial Commission (100) (100)
+CHANGE IN NET POSITION 2 4,355 24,246
+TOTAL NET POSITION, BEGINNING OF YEAR 256,450 232,204
+TOTAL NET POSITION, END OF YEAR $ 280,805 $ 256,450
+See Notes to the Financial Statements
+- 13 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+2025 2024
+OPERATING ACTIVITIES
+Receipts from customers $ 452,358 $ 320,618
+Proceeds from sale of loans receivable 145 703
+Interfund mortgages loan purchases and sales (461,668) (279,531)
+Payment of grants (1,583) (1,023)
+Payments to service providers
+State agencies (6,245) (6,146)
+Mortgage loan purchases (208,683) (270,105)
+Other ( 12,635) (11,000)
+Payments to employees (5,851) (5,378)
+Net cash provided (used) by operating activities (244,162) (251,862)
+NONCAPITAL FINANCING ACTIVITIES
+Principal payments on bonds payable (135,665) (126,840)
+Proceeds from bond issuance 669,204 472,107
+Interest paid on loans and bonds ( 63,819) (45,897)
+Proceeds from federal grants 2 9,711 20,648
+Proceeds from non-federal grants 1,469 5,060
+Payment of federal grants ( 29,711) (20,648)
+Transfers to Industrial Commission (100) (100)
+Net cash provided (used) by noncapital financing activities 471,089 304,330
+CAPITAL AND RELATED FINANCING ACTIVITIES
+Purchase of equipment (12) ( 8)
+Principal payments on lease payable (224) (218)
+Interest paid on lease payable ( 4) (9)
+Net cash used for capital and related
+financing activities (240) (235)
+INVESTING ACTIVITIES
+Purchase of investments (496) -
+Proceeds from sale of investments 6,683 5,843
+Interest received from investments 415 470
+Net cash provided (used) by for investing activities 6,602 6,313
+NET CHANGE IN CASH AND CASH EQUIVALENTS 233,289 5 8,546
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR 288,001 229,455
+CASH AND CASH EQUIVALENTS AT END OF YEAR $ 521,290 $ 288,001
+CASH AND CASH EQUIVALENTS - UNRESTRICTED $ 19,731 $ 16,135
+CASH AND CASH EQUIVALENTS - RESTRICTED 501,559 271,866
+$ 521,290 $ 288,001
+See Notes to the Financial Statements
+- 14 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENTS OF CASH FLOWS - CONTINUED
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+2025 2024
+RECONCILIATION OF OPERATING INCOME TO NET
+CASH USED BY OPERATING ACTIVITIES
+Operating income $ 22,496 $ 18,948
+Adjustments to reconcile operating income to net cash from
+operating activities:
+Depreciation 33 33
+Amortization
+Original issue discounts and premiums (8,013) (7,375)
+Service release premium 2,062 1,658
+Leased asset 220 213
+Fair value (increases) decreases of investments (1,428) 694
+Reclassification of interest income/expense to other
+activities 7 4,069 53,939
+Effect on cash flows due to changes in:
+Deferred outflow - pension 1,732 1,853
+Deferred outflow - OPEB 44 50
+Deferred inflows - pension (1,610) 848
+Deferred inflows - OPEB - 17
+Effect on cash flows due to changes in:
+Due from HUD 63 406
+Due from State Agencies 37 (331)
+Other receivables 631 6
+Service release premium (3,329) (2,959)
+Prepaid expenses ( 5) (5)
+Loan interest receivable (2,161) (1,730)
+Loans receivable (331,760) (316,383)
+Due to HUD 10 (17)
+Due to State Agencies 52 86
+Rebate due to IRS 84 -
+Other liabilities (1,067) (606)
+Compensated absences 102 4
+Funds held in trust 3,740 1,324
+Net pension liability (164) (2,535)
+Net cash used by operating activities $ (244,162) $ (251,862)
+Non-cash disclosures:
+Increase (decrease) in fair value of investments $ 1 ,504 $ (775)
+See Notes to the Financial Statements
+- 15 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+STATEMENT OF APPROPRIATIONS
+FOR THE BIENNIUM ENDED JUNE 30, 2025
+(In Thousands)
+The Agency’s total appropriations of $77,956 consist of funding of $2,500 from general funds,
+$53,598 from federal funds and $21,858 from special funds. The Agency has a continuing
+appropriation for operating expenses authorized by Section 4 of HB 1014. As of June 30, 2025,
+the Agency has disbursed $2,500 of the $2,500 general fund transfer included in the grants,
+benefits, and claims appropriations below.
+This statement includes only those expenditures for which there are appropriations. A
+reconciliation to the expenses on the statement of revenues, expenses and changes in fund net
+position follows (in thousands).
+2023-2025 2023-2025
+Appropriations Appropriations 2023-2025 Unexpended
+Original As Adjusted Expenditures Appropriations
+Administrative Expenses:
+Salaries, wages and benefits $ 11,113 $ 1 2,627 $ 11,821 $ 8 06
+Operating expenses 10,904 1 0,904 8,279 2 ,625
+Capital assets 20 2 0 19 1
+Grants, benefits and claims 48,805 5 4,305 53,429 8 76
+Contingency 100 1 00 - 100
+Total $ 70,942 $ 7 7,956 $ 73,548 $ 4 ,408
+2025 2024
+Total expenditures $ 42,375 $ 3 1,173
+Less: Grants, benefits and claims ( 31,368) (22,061)
+Administrative and operating expenses relating to
+Rental, Homeownership Bonds and Agency expenses 2,725 2 ,909
+Amortization of service release premium 2,062 1 ,658
+Depreciation 33 3 3
+Interest expense on leased asset ( 4) (9)
+Capital assets ( 11) (8)
+Total administrative and operation expenses
+and depreciation $ 15,812 $ 1 3,695
+See Notes to the Financial Statements
+- 16 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Principal Activity
+The North Dakota Housing Finance Agency (Agency) was created in 1980 by an initiated
+measure. The Agency is authorized, among other things, to make mortgage and construction
+loans to housing sponsors; to make loans to mortgage lenders, requiring the proceeds thereof
+to be used for making new qualified residential mortgage loans; to purchase qualified mortgage
+loans from mortgage lenders; and to apply for and receive assistance and subsidies under
+programs of the federal government.
+The Agency is authorized to issue bonds and notes in order to exercise its authorized powers.
+Bonds and notes issued by the Agency under the 1994 and 2009 General Resolutions are not a
+debt or liability of the State of North Dakota and the state is not liable for repayment of such
+obligations. Bonds under the 1994 and 2009 General Resolutions are general obligations of the
+Agency.
+Reporting Entity
+In accordance with Governmental Accounting Standards Board (GASB) statements, the Agency
+should include all component units over which the Agency exercises such aspects as (1)
+appointing a voting majority of an organization’s governing body and (2) has the ability to
+impose its will on that organization or (3) the potential for the organization to provide specific
+financial benefits to, or impose specific burdens on the Agency.
+Based on the criteria as set forth by the GASB, no other organizations were determined to be
+part of the reporting entity. The North Dakota Housing Finance Agency is included as part of
+the primary government of the State of North Dakota’s reporting entity.
+Budgetary Process
+The Agency operates through a biennial appropriation provided by the State Legislature. The
+Agency prepares a biennial budget which is included in the Governor's budget that is presented
+to the General Assembly at the beginning of each legislative session. The General Assembly
+enacts the budgets of the various state departments through passage of specific appropriation
+bills. The Governor has line item veto powers over all legislation subject to legislative override.
+Once passed and signed, the appropriation becomes the Agency's financial plan for the next
+two years. The Agency has a continuous appropriation of any additional income from federal or
+other funds which may become available to the Agency. Changes to the appropriation not
+falling under the continuing appropriation are subject to approval by the State Emergency
+Commission.
+The State’s budgeting system does not include revenues and thus, a Statement of Revenues
+and Expenses – Budget and Actual cannot be prepared as required by generally accepted
+accounting principles. In its place, a Statement of Appropriations has been presented. The
+Statement of Appropriations has been prepared using the accrual basis of accounting and
+includes only those expenses for which an appropriation has been established.
+- 17 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Accounting Standards
+The Agency follows the pronouncements of the Governmental Accounting Standards Board,
+which is the nationally accepted standard-setting body for establishing generally accepted
+accounting principles for governmental entities.
+Fund Accounting
+The accounts of the Agency are organized on the basis of funds, each of which is considered a
+separate accounting entity. Each fund is accounted for by a separate set of self-balancing
+accounts that comprise its assets, deferred outflows of resources, liabilities, deferred inflows of
+resources, net position, revenues, and expenses. The funds account for the flow of resources
+of carrying on specific activities in accordance with laws, regulations, or debt restrictions.
+The Agency’s funds are:
+Agency Operating Funds
+These funds account for (1) activities related to the development and administration of Agency
+financial programs, (2) HUD Section 8 Housing Assistance Payment programs, (3) Agency
+owned assets and (4) any activities of the Agency not applicable to the other funds.
+Homeownership Bond Funds
+These funds account for the proceeds from the sale of Homeownership Bonds, the debt service
+requirements of the bond indebtedness, and mortgage loans and assets acquired with bond
+proceeds to finance single family home ownership.
+Basis of Accounting and Measurement Focus
+The accounting and financial reporting treatment applied to a fund is determined by its
+measurement focus. All enterprise funds are accounted for using the economic resources
+measurement focus. With this measurement focus, all assets and deferred outflows of
+resources, and liabilities and deferred inflows of resources associated with the operation of
+these funds are included on the statement of net position. Net position is segregated into
+invested in capital assets, restricted and unrestricted components. The statements of revenues,
+expenses and changes in fund net position present increases (e.g., revenues) and decreases
+(e.g., expenses) in total net position. When both restricted and unrestricted net position are
+available for use, generally it is the Agency’s policy to use restricted net position first, and then
+unrestricted net position as they are needed. The statements of cash flows present the cash
+flows for operating activities, investing activities, capital and related financing activities and non-
+capital financing activities.
+Significant Group Concentrations of Credit Risk
+All of the Agency's mortgage loans are secured by houses located within the State of North
+Dakota.
+- 18 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Use of Estimates
+In preparing financial statements in conformity with accounting principles generally accepted in
+the United States of America, management is required to make estimates and assumptions that
+affect reported amounts of assets, deferred outflows of resources, liabilities and deferred inflows
+of resources at the date of the balance sheet and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from these estimates.
+Cash and Cash Equivalents
+The Agency considers all highly liquid investments purchased with an original maturity of three
+months or less to be cash equivalents.
+Investments
+Investments are reported at fair value. All investment income, including changes in the fair
+value of investments, is recognized in the statements of revenues, expenses, and changes in
+net position.
+Funds held by trustees or the Agency under bond resolutions are to be invested to the fullest
+extent possible in investment obligations selected by the Agency. The maturity date or the date
+on which such investment obligations may be redeemed shall coincide as nearly as practicable
+with the date or dates on which moneys in the funds or accounts for which the investments were
+made will be required. The restricted bond accounts have their moneys invested in various debt
+securities such as mortgage-backed securities and investment contracts.
+Interfund Receivables and Payables
+Advances between funds during the year resulting in interfund receivables and payables have
+been eliminated from the financial statements.
+Mortgage Loans Receivable
+Mortgage loans receivable are recorded at amounts advanced less principal payments and, in
+the Homeownership Bond Fund, net of purchase discounts. Interest income on loans is
+accrued at the specific rate on the unpaid principal balance.
+Service Release Premium
+The Agency purchases the rights to service mortgage loans from the originating financial
+institutions. The payments to the originating financial institutions are recorded as a service
+release premium. The premium is amortized over eleven years which is the average life of the
+mortgage loans including prepayments and refinancing of the loans.
+Equipment
+Equipment and furnishings are stated at cost, net of accumulated depreciation. Equipment and
+furnishings with a cost of $5,000 or more per unit are capitalized and reported in the
+accompanying financial statements.
+- 19 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Depreciation is computed using the straight-line method over the estimated useful lives of the
+assets which range from three to five years.
+Funds Held in Trust
+These amounts consist of escrow, buy-down and partial payments made by mortgagors on
+loans serviced by the Agency.
+Compensated Absences
+Annual leave and sick leave are a part of permanent employees' compensation as set forth in
+Section 54-06-14 of the North Dakota Century Code. Annual leave is earned based on tenure
+of employment, within a range of a minimum of one working day per month of employment, to a
+maximum of two working days per month of employment, to be fixed by rules and regulations
+adopted by the employing unit. In general, accrued annual leave cannot exceed 30 days at
+each year-end, as set by the Agency. Employees are paid for unused annual leave upon
+termination or retirement.
+Sick leave is earned based on tenure at the rate of one to a maximum of one and one-half
+working days per month of employment. There are no limitations on the amount of sick leave
+that an employee can accumulate. Employees who have ten continuous years of service are
+paid one-tenth of their accumulated sick leave upon leaving service under chapter 54-52 of the
+North Dakota Century Code.
+The Agency accounts for compensated absences using a days-used approach for annual leave.
+This approach consists of gathering the historical usage of compensated absences used to
+determine both a liability related to leave to be used as time off and leave to be settled in cash
+upon termination of employment. Salary-related employer payments are included in the
+calculation of the compensated absence liability.
+The Agency accounts for compensated absences using a LIFO approach for sick leave. This
+approach consists of estimating how much leave is to be used in future periods and how much
+leave is expected to be earned in future periods. Under the LIFO method, the estimated leave to
+be earned in future periods will offset the estimated leave to be used as time off in future
+periods. A liability will be calculated for situations where the estimated leave to be earned in
+future periods does not exceed the estimated leave to be taken as time off in future periods.
+Salary-related employer payments are included in the calculation of the compensated absence
+liability.
+Pensions
+For purposes of measuring the net pension liability, deferred outflows of resources and deferred
+inflows of resources related to pensions, and pension expense, information about the fiduciary
+net position of the North Dakota Public Employees Retirement System (NDPERS) and additions
+to/deductions from NDPERS’ fiduciary net position have been determined on the same basis as
+they are reported by NDPERS. For this purpose, benefit payments (including refunds of
+employee contributions) are recognized when due and payable in accordance with the benefit
+terms. Investments are reported at fair value.
+- 20 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Other Post Employment Benefits (OPEB)
+For purposes of measuring the net OPEB liability, deferred outflows of resources and deferred
+inflows of resources related to OPEB, and OPEB expense, information about the fiduciary net
+position of the North Dakota Public Employees Retirement System (NDPERS) and additions
+to/deductions from NDPERS’ fiduciary net position have been determined on the same basis as
+they are reported by NDPERS. For this purpose, benefit payments are recognized when due
+and payable in accordance with the benefit terms. Investments are reported at fair value.
+Financial Derivative Instrument
+North Dakota Housing Finance Agency enters into interest rate swap agreements to modify
+interest rates on outstanding debt.
+Operating and Non-Operating Revenues
+Operating revenues consist of sales of goods and services, interest earned and proceeds from
+lending activities, quasi-external operating transactions with other funds, grant revenue for
+specific activities that are considered to be operating activities of the grantor, receipts from other
+agencies for reimbursement of operating transactions and other miscellaneous revenue. Grants
+that would qualify as an operating activity are those that do not subsidize an existing program,
+rather they finance a program the Agency would not otherwise undertake. Investment income in
+the Homeownership Bond Fund is recorded as operating income as these revenues are
+generated from the Agency’s operations needed to carry out its statutory purpose.
+All other revenues that do not meet the above criteria are classified as non-operating.
+Leases
+The determination of whether an arrangement contains a lease is made at inception by
+evaluating whether the arrangement conveys the right to use an identified asset and whether
+the Agency has control of the right to use asset. Control includes the right to obtain present
+service capacity and the right to determine the nature and manner of use of the underlying
+asset, as specified in the contract.
+Leases with an initial lease term of more than 12 months, or that contain an option to purchase
+that the Agency is reasonably certain to exercise, are recognized based on the present value of
+lease payments over the lease term discounted using the interest rate implicit in the lease. In
+cases where the implicit rate is not readily determinable, the Agency uses its incremental
+borrowing rate based on the information available at the lease commencement date. The
+Agency has made an accounting policy election to use a risk free rate based on US Treasury T-
+bill rate as of the lease commencement. The Agency accounts for lease agreements with lease
+and non-lease components together as a single lease component for all underlying classes of
+assets.
+The Agency continues to record rent expense for short term leases on a straight-line basis over
+the lease term. Short term leases have a term of 12 months or less at lease commencement
+and do not include an option to purchase the underlying asset that the Agency is reasonably
+certain to exercise.
+- 21 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+The depreciable life of assets and leasehold improvements are limited by the expected lease
+term unless there is a transfer of title or purchase option reasonably certain of exercise.
+The Agency’s lease agreements do not include any material residual value guarantees or
+restrictive covenants.
+Fair Value of Financial Statements
+Fair value measurements are used to record fair value adjustments to certain assets, deferred
+outflows of resources, liabilities and deferred inflows of resources to determine fair value
+disclosures.
+Fair Value Hierarchy
+Assets, deferred outflows of resources, liabilities and deferred inflows of resources are grouped
+at fair value in three levels, based on the markets in which the assets and liabilities are traded
+and the reliability of the assumptions used to determine fair value. These levels are:
+Level 1: Valuation is based upon quoted prices in active markets for identical assets or
+liabilities that the reporting entity has the ability to access at the measurement date.
+Level 2: Valuation is based upon quoted prices for similar assets or liabilities in active markets,
+quoted prices for identical or similar assets or liabilities in markets that are not active,
+and model-based valuation techniques for which all significant assumptions are
+observable in the market.
+Level 3: Valuation is generated from model-based techniques that use significant assumptions
+not observable in the market. These unobservable assumptions reflect our own
+estimates of assumptions that market participants would use in pricing the asset or
+liability. Valuation techniques include use of option pricing models, discounted cash
+flow models and similar techniques.
+Determination of Fair Value
+Fair values are based on the price that would be received to sell an asset or paid to transfer a
+liability in an orderly transaction between market participants at the measurement date. It is the
+Agency’s policy to maximize the use of observable inputs and minimize the use of unobservable
+inputs when developing fair value measurements, in accordance with the fair value hierarchy.
+The following is a description of the methodologies used for instruments measured at fair value.
+Securities
+Securities consist primarily of Federal agencies and mortgage backed securities. Securities are
+recorded at fair value on a recurring basis. Fair value is based upon quoted prices, if available.
+If quoted market prices are not available, fair values are measured using observable market
+prices from independent pricing models, or other model-based valuation techniques such as the
+present value of future cash flows, adjusted for the security’s credit rating, prepayment
+assumptions and other factors such as credit loss assumptions. Level 1 securities include those
+traded in an active market; examples would include U.S. Treasuries. Level 2 securities as
+defined above would include mortgage-backed securities and municipal bonds.
+- 22 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest Rate Swap Agreements
+Fair values for interest rate swap agreements are based upon the settlement value adjusted by
+estimated nonperformance risk.
+Change in Accounting Principles
+The Agency implemented GASB Statement No. 101, Compensated Absences in the year ended
+June 30, 2025. GASB Statement No. 101 enhances the accounting and financial reporting
+requirements for accounting for compensated absences. The adoption of GASB 101 resulted in
+no adjustment to beginning net position.
+NOTE 2 DEPOSITS
+Custodial Credit Risk
+State law generally requires that all state funds be deposited in the Bank of North Dakota.
+NDCC 21-04-01 provides that public funds belonging to or in the custody of the state shall be
+deposited in the Bank of North Dakota. Also, NDCC 6-09-07 states, “all state funds must be
+deposited in the Bank of North Dakota” or must be deposited in accordance with constitutional
+and statutory provisions.
+The bank balances of deposits of the Agency at June 30, 2025 and 2024 was $44,959 and
+$37,548, respectively, consisting of interest-bearing and noninterest-bearing operating cash
+deposited at the Bank of North Dakota.
+The deposits at the Bank of North Dakota are guaranteed by the State of North Dakota through
+NDCC Section 6-09-10. The carrying amounts of the deposits of the Agency at the Bank of
+North Dakota at June 30, 2025 and 2024 was $43,607 and $36,268, respectively.
+The carrying amounts of the Agency’s cash and cash equivalents as reported on the balance
+sheet at June 30, 2025 and 2024 is as follows:
+2025 2024
+Unrestricted
+Cash and cash equivalents
+Deposits at Bank of North Dakota $ 19,727 $ 16,129
+Deposits at Federal Home Loan Bank 4 6
+Total cash and cash equivalents $ 19,731 $ 16,135
+Restricted
+Cash and cash equivalents
+Deposits at Bank of North Dakota $ 23,945 $ 20,139
+Deposits at Federal Home Loan Bank 8 11
+Deposits at Wilmington Trust 2,654 2,739
+Cash and cash equivalents held in trust 466,988 241,159
+Fixed rate investment agreements
+reported as cash equivalents 7,964 7,818
+Total cash and cash equivalents $ 501,559 $ 271,866
+- 23 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 3 INVESTMENTS
+The Agency does not have an investment policy that specifically addresses the risks below.
+However, the respective bond resolutions permit only investments that will not adversely affect
+the rating quality of the outstanding bonds. The maturity date or the date on which such
+investment obligations may be redeemed shall coincide as nearly as practicable with the date or
+dates on which moneys in the funds or accounts for which the investments were made will be
+required.
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates of debt investments will adversely
+affect the fair value of investments. The following shows the investments by investment type,
+amount and the duration at June 30, 2025:
+Total Market Less than 1 - 5 5 - 10 More Than
+Value 1 Year Years Years 10 Years
+Total Debt Securities $ 49,153 $ - $ - $ - $ 49,153
+The following shows the investments by investment type, amount and the duration at June 30,
+2024:
+Total Market Less than 1 - 5 5 - 10 More Than
+Value 1 Year Years Years 10 Years
+Total Debt Securities $ 53,837 $ - $ - $ - $ 53,837
+Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its
+obligations. The fixed rate investment agreements and the U.S. Treasury Bonds are not rated.
+As of June 30, 2025, the Agency owned $6,397 and the 1994 General Resolution Bond Issues
+owned $42,756 of the $49,153 Mortgage Backed Securities. The $42,756 is restricted funds
+through the Bond Issue requirements. The Agency operating fund investment securities with a
+carrying amount of approximately $7,256, (all of which are MBS owned by the Agency), at June
+30, 2025 were pledged as requested by rating agencies in conjunction with the 1994 and 2009
+General Resolutions and as collateral on bank loans.
+As of June 30, 2024, the Agency owned $6,235 and the 1994 General Resolution Bond Issues
+owned $47,602 of the $53,837 Mortgage Backed Securities. The $47,602 is restricted funds
+through the Bond Issue requirements. The Agency operating fund investment securities with a
+carrying amount of approximately $7,171, (all of which are MBS owned by the Agency), at June
+30, 2024 were pledged as requested by rating agencies in conjunction with the 1994 and 2009
+General Resolutions and as collateral on bank loans.
+- 24 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 4 FAIR VALUE OF FINANCIAL INSTRUMENTS
+The table below presents the balances of assets, deferred outflows of resources and deferred
+inflows of resources measured at fair value on a recurring basis at June 30, 2025.
+Quoted Significant
+Prices in Other Significant
+Active Observable Unobservable
+Markets Inputs Inputs
+Total Level 1 Level 2 Level 3
+ASSETS
+Mortgage-backed securities
+Agency $ 49,153 $ - $ 49,153 $ -
+Total $ 49,153 $ - $ 49,153 $ -
+Interest rate swap $ 16,316 $ - $ 16,316 $ -
+The table below presents the balances of assets, deferred outflows of resources and deferred
+inflows of resources measured at fair value on a recurring basis at June 30, 2024.
+Quoted Significant
+Prices in Other Significant
+Active Observable Unobservable
+Markets Inputs Inputs
+Total Level 1 Level 2 Level 3
+ASSETS
+Mortgage-backed securities
+Agency $ 53,837 $ - $ 53,837 $ -
+Total $ 53,837 $ - $ 53,837 $ -
+Interest rate swap $ 20,762 $ - $ 20,762 $ -
+- 25 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 5 LOANS RECEIVABLE
+Loans receivable at June 30, 2025 and 2024 consist of the following:
+2025 2024
+Restricted:
+Agency operating funds $ 206 $ 231
+Less: current portion 25 27
+Total loan receivable, net of current portion $ 181 $ 204
+Restricted:
+Homeownership bond funds $ 2,224,062 $ 1,892,277
+Less: current portion 46,580 40,793
+Total loan receivable, net of current portion $ 2,177,482 $ 1,851,484
+Mortgage loans are secured by first liens on real property.
+Agency and Homeownership mortgage loans are insured by a private primary mortgage insurer,
+the Federal Housing Administration or guaranteed by the Veterans Administration, USDA-RD,
+or uninsured with a loan to value of 80% or less.
+Interest rates on Agency and Homeownership mortgage loans vary from 0.00% to 9.13% for the
+year ended June 30, 2025 and 2024 with maturities of such loans ranging from less than one
+year to 40 years.
+Included in Homeownership and Agency mortgage loans are loans totaling $812 which have
+been foreclosed on and are owned by the Agency (REO), $87 in real estate loans in judgment
+(REJ), and 54 loans totaling $8,263 that were in the foreclosure process at June 30, 2025. At
+June 30, 2024, Homeownership and Agency mortgage loans included loans totaling $644 which
+have been foreclosed on and are owned by the Agency (REO), $252 in real estate loans in
+judgement (REJ), and 53 loans totaling $8,177 that were in the foreclosure process. Since such
+loans are at least partially insured or guaranteed by outside parties, it is anticipated that the
+Agency will recover substantially all of the unpaid principal and interest on the loans through
+insurance payments or sale of foreclosed property.
+At June 30, 2025, the Agency has $3,000 of HOME ARP loans and $23,354 of HOME loans
+recorded which are not expected to be collected and an allowance has been recorded for full
+loan balance. At June 30, 2024, the Agency has $1,359 of HOME ARP loans and $18,257 of
+HOME loans recorded which are not expected to be collected and an allowance has been
+recorded for full loan balance.
+- 26 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 6 INTERGOVERNMENTAL RECEIVABLES AND PAYABLES
+The Agency operates various Department of Housing and Urban Development (HUD) Section 8
+rent subsidy programs. Under these programs the Agency draws down, in advance, sufficient
+funds to cover estimated rent subsidies. An estimate of rents is used because occupancy of
+rental units is not known until rent payments become due. The use of rent estimates results in
+over-and-under drawdowns of HUD funds. These amounts cannot be offset and are shown at
+year-end as intergovernmental receivables and payables as follows:
+2025 2024
+Due from HUD $ 375 $ 438
+Due to HUD $ 23 $ 13
+NOTE 7 EQUIPMENT
+A summary of changes in equipment and accumulated depreciation is as follows:
+Accumulated Net
+Equipment Depreciation Equipment
+Balance July 1, 2023 $ 3 62 $ 241 $ 121
+Additions 8 33
+Deletions (6) (6)
+Balance July 1, 2024 $ 3 64 $ 268 $ 9 6
+Additions 1 2 33
+Deletions - -
+Balance June 30, 2025 $ 3 76 $ 301 $ 7 5
+- 27 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 8 OTHER RECEIVABLES
+A detail of other receivables as of June 30, 2025 and 2024 is as follows:
+2025 2024
+Unrestricted:
+Receivable from developers $ 517 $ 663
+Accounts receivable 321 953
+$ 838 $ 1,616
+Restricted:
+Accounts receivable $ 147 $ -
+NOTE 9 OTHER LIABILITIES
+A detail of other liabilities as of June 30, 2025 and 2024 is as follows:
+2025 2024
+Remarketing fees $ 43 $ 39
+Commitment fees 104 87
+Lease payable - 224
+Accounts payable 579 1,667
+$ 726 $ 2,017
+- 28 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 10 RELATED PARTY TRANSACTIONS
+The Agency had the following transactions with related parties as of June 30, 2025 and 2024:
+2025 2024
+Cash and cash equivalents - unrestricted
+Bank of North Dakota $ 19,727 $ 16,129
+Cash and cash equivalents - restricted
+Bank of North Dakota $ 23,945 $ 20,139
+Due from state agencies
+Housing Incentive Fund $ - $ 77
+Department of Health and Human Services 7 -
+Office of Management and Budget 287 254
+$ 294 $ 331
+Due to state agencies
+Information Technology Department $ 12 $ 10
+Attorney General 1 4
+Department of Transportation 1 1
+Office of Management and Budget 557 504
+$ 571 $ 519
+Transfers out
+Industrial Commission $ 100 $ 100
+Administrative and operating expenses
+Information Technology Department
+Telephone and data processing $ 23 $ 23
+Data processing 105 104
+Attorney General
+Legal fees 14 18
+Office of Management and Budget
+Supplies and conferences 2 2
+Printing 32 27
+Indirect cost allocation 28 15
+Payroll and benefits 6,109 5,698
+Department of Transportation
+Slate fleet rental 9 6
+Department of Insurance
+State fire and tornado fund premium 1 1
+Human Resource Management Services
+Training sessions 1 1
+ND Suplus Property
+Laptops 2 2
+Risk Management
+RM fund contribution 2 2
+WC premiums 4 2
+$ 6,332 $ 5,901
+- 29 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 11 LEASES
+The Agency leases office space in Bismarck, North Dakota. The term of the lease is for a period
+of 24 months, commencing on July 1, 2023 and terminating June 30, 2025. The annual rent
+under this is $227. The Agency entered into a new lease commencing on July 1, 2025 and
+terminating on June 30, 2027. The annual rent under this is $227.
+Following is the total lease expense for the years ended June 30, 2025 and 2024.
+Year Ending Year Ending
+Lease Expense 6/30/25 6/30/24
+Amortization expense by
+class of underlying asset
+Building $ 2 20 $ 213
+Total amortization expense 220 213
+Interest on lease liabilities 4 9
+Variable lease expense - -
+Total $ 2 24 $ 222
+Following is a schedule of activity in leased assets and the lease liability for the year ended
+June 30, 2025.
+Modifi-
+cations & Amounts
+Beginning of Remeasure- End of Due Within
+Lease Asset: Year Additions ments Subtractions Year One Year
+Building $ 832 $ - $ - $ (832) $ -
+Less: Accumulated Amortization
+Building (612) (220) - 832 -
+Total Lease Assets, net $ 220 $ (220) $ - $ - $ -
+Lease Liabilities $ 224 $ - $ - $ (224) $ - $ -
+- 30 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Following is a schedule of activity in leased assets and leased liability for the year ended June
+30, 2024:
+Modifi-
+cations & Amounts Due
+Beginning of Remeasure- Within One
+Lease Asset: Year Additions ments Subtractions End of Year Year
+Building $ 832 $ - $ - $ - $ 832
+Less: Accumulated Amortization
+Building (399) (213) - - (612)
+Total Lease Assets, net $ 433 $ (213) $ - $ - $ 220
+Lease Liabilities $ 442 $ - $ - $ (218) $ 224 $ 224
+NOTE 12 LONG-TERM LIABILITIES
+Change in Long-Term Liabilities
+A summary of changes in long-term liabilities for the year ended June 30, 2025 is as follows:
+Amounts Due
+Balance Balance Within One
+7/1/24 Additions Reductions 6/30/25 Year
+Homeownership bond funds, par $ 1,915,700 $ 655,000 $ 135,665 $ 2,435,035 $ 6 6,165
+Premium on bond funds 22,568 14,204 8,013 28,759 7 ,635
+Compensated absences 380 102 * - 482 121
+$ 1,938,648 $ 669,306 $ 143,678 $ 2,464,276 $ 7 3,921
+* The change in compensated absences is presented as a net change.
+A summary of changes in long-term liabilities for the year ended June 30, 2024 is as follows:
+Amounts Due
+Balance Balance Within One
+7/1/23 Additions Reductions 6/30/24 Year
+Homeownership bond funds, par $ 1,573,540 $ 464,000 $ 121,840 $ 1,915,700 $ 5 9,020
+Multi-family revenue bonds 5,000 - 5,000 - -
+Premium on bond funds 21,837 8,106 7,375 22,568 6 ,647
+Compensated absences 376 299 295 380 380
+$ 1,600,753 $ 472,405 $ 134,510 $ 1,938,648 $ 6 6,047
+- 31 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Bonds Payable
+The bonds of the various Agency funds have been issued to provide financing to purchase
+mortgage loans and to finance rental housing projects. The bonds are direct obligations of the
+Agency and are secured by the mortgage loans purchased under the applicable resolutions; the
+revenues, prepayments, insurance and foreclosure proceeds received related to the mortgage
+loans; and certain funds and accounts established pursuant to the applicable bond resolution.
+Maturities of Bonds Payable
+Maturities of principal and interest on all bonds are as follows:
+Total Debt
+Years Ending June 30, Principal Interest Service
+2026 $ 66,165 $ 92,541 $ 158,706
+2027 75,510 96,519 172,029
+2028 69,365 94,545 163,910
+2029 64,995 92,662 157,657
+2030 63,565 90,753 154,318
+2031 - 2035 340,255 422,472 762,727
+2036 - 2040 408,735 358,103 766,838
+2041 - 2045 438,185 275,958 714,143
+2046 - 2050 502,525 174,438 676,963
+2051 - 2055 387,720 59,241 446,961
+2056 - 2060 18,015 712 18,727
+Premiums 28,759 (28,759) -
+$ 2,463,794 $ 1,729,185 $ 4,192,979
+- 32 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Schedules of Bonds Payable
+The following summarizes the Agency’s bonds payable outstanding at June 30, 2025 and 2024.
+The term bonds of all bond series have mandatory sinking fund requirements. All of the bonds
+payable relate to the Agency’s Homeownership Bond Fund.
+Interest
+Rate 2025 2024
+Series 2008 B
+Term Bond 7/1/38 Variable $ 12,735 $ 12,735
+Series 2015A
+Serial Bonds 7/1/23 - 7/1/24 2.65 - 2.90 - 1,235
+Term Bond 1/1/38 (Premium) 4.00 - 915
+Series 2015BC
+Term Bond 1/1/36 (Premium) 4.00 - 810
+Term Bond 1/1/46 Variable 12,370 14,240
+Series 2015DE
+Term Bond 7/1/46 (Premium) 4.00 - 2,215
+Term Bond 7/1/36 Variable 16,585 16,930
+Premium (Discount) - 8
+Series 2015F
+Term Bond 1/1/47 Variable 25,000 25,000
+Series 2016AB
+Serial Bonds 7/1/22 - 1/1/27 1.80 - 2.55 1 1,110 16,495
+Term Bond 7/1/31 2.95 5,010 5,010
+Term Bond 1/1/35 3.20 3,280 3,280
+Term Bond 1/1/47 (Premium) 4.00 6,905 9,850
+Premium (Discount) 34 133
+Series 2016CDE
+Serial Bonds 1/1/23 - 7/1/25 1.80 - 2.15 1 ,135 4,045
+Serial Bonds 7/1/25 - 7/1/28 2.15 - 2.60 13,750 13,750
+Term Bond 7/1/32 2.85 3,850 3,850
+Term Bond 1/1/36 3.15 3,365 3,365
+Term Bond 7/1/46 (Premium) 3.50 11,310 13,605
+Premium (Discount) 87 224
+Series 2017A
+Serial Bonds 1/1/23 - 7/1/27 2.20 - 2.95 6,890 10,080
+Term Bond 7/1/47 (Premium) 4.00 4,920 7,155
+Premium (Discount) 24 91
+Series 2017BC
+Term Bond 1/1/47 Variable 13,235 13,940
+- 33 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest
+Rate 2025 2024
+Series 2017DE
+Serial Bonds 7/1/22 - 1/1/28 1.50 - 2.65 $ 6,995 $ 9,175
+Term Bonds 7/1/32 3.15 5 ,985 5,985
+Term Bonds 7/1/37 3.45 4 ,695 4,695
+Term Bonds 7/1/40 3.55 2 ,400 2,400
+Term Bonds 7/1/47 (Premium) 4.00 6 ,415 9,135
+Premium (Discount) 7 4 201
+Series 2017FGH
+Serial Bonds 1/1/23 - 1/1/25 2.25 - 2.55 - 495
+Term Bonds 7/1/48 (Premium) 4.00 6 ,745 10,460
+Term Bond 7/1/39 Variable 2 8,250 28,250
+Premium (Discount) 7 7 188
+Series 2018A
+Serial Bonds 7/1/22 - 7/1/29 2.35 - 3.20 8 ,870 11,260
+Term Bonds 7/1/33 3.55 5 ,160 5,160
+Term Bonds 7/1/38 3.75 5 ,320 5,320
+Term Bonds 1/1/42 3.85 4 ,360 4,360
+Term Bonds 7/1/49 (Premium) 4.00 9 ,435 13,450
+Premium (Discount) 8 8 197
+Series 2018BC
+Serial Bonds 7/1/22 - 1/1/25 3.25 - 3.55 - 1,120
+Term Bond 1/1/49 Variable 9 ,355 9,355
+Series 2018D
+Serial Bonds 7/1/22 - 7/1/29 2.15 - 3.25 1 3,920 16,780
+Term Bond 7/1/33 3.55 4 ,130 4,130
+Term Bond 7/1/38 3.85 3 ,875 3,875
+Term Bond 7/1/42 3.95 3 ,560 3,560
+Term Bond 1/1/49 (premium) 4.25 1 5,085 19,310
+Premium (discount) 1 58 339
+Series 2019AB
+Serial Bonds 1/1/23 - 1/1/28 2.20 - 2.85 4 ,940 6,810
+Term Bonds 7/1/42 Variable 2 5,000 25,000
+Term Bond 7/1/49 (premium) 4.25 9 ,075 12,735
+Premium (discount) 1 55 301
+Series 2019C
+Serial Bonds 7/1/22 - 1/1/30 1.80 - 2.55 1 6,165 19,190
+Term Bonds 7/1/32 2.80 6 ,730 6,730
+Term Bonds 7/1/34 3.00 7 ,215 7,215
+Term Bonds 7/1/39 3.20 1 2,650 12,650
+Term Bonds 7/1/42 3.35 8 ,155 8,155
+Term Bonds 1/1/50 (premium) 4.00 2 4,225 29,770
+Premium (discount) 9 89 1,407
+Series 2019DE
+Serial Bonds 7/1/22 - 7/1/29 2.65 - 3.45 2 ,565 3,080
+Term Bonds 7/1/33 3.70 2 ,705 2,705
+Term Bonds 7/1/39 4.00 3 ,050 3,050
+Term Bonds 1/1/50 Variable 1 2,265 12,265
+- 34 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest
+Rate 2025 2024
+Series 2019F
+Serial Bonds 7/1/22 - 7/1/32 1.40 - 2.50 $ 15,830 $ 17,750
+Term Bonds 7/1/34 2.70 4 ,085 4,085
+Term Bonds 7/1/39 2.95 9 ,540 9,540
+Term Bonds 7/1/43 3.05 7 ,750 7,750
+Term Bonds 7/1/50 (premium) 3.75 1 1,165 14,875
+Premium (discount) 3 09 530
+Series 2020A
+Serial Bonds 1/1/23 - 7/1/32 1.45 - 2.45 2 0,005 22,445
+Term Bonds 7/1/35 2.70 9 ,080 9,080
+Term Bonds 7/1/40 3.00 1 6,170 16,170
+Term Bonds 1/1/44 3.05 9 ,825 9,825
+Term Bonds 1/1/51 (premium) 4.00 1 6,115 20,705
+Premium (discount) 5 31 833
+Series 2020B
+Serial Bonds 7/1/22 - 7/1/32 0.375 - 2.05 2 4,810 27,880
+Term Bonds 7/1/35 2.10 1 1,205 11,205
+Term Bonds 7/1/40 2.35 1 9,285 19,285
+Term Bonds 7/1/44 2.50 1 5,490 15,490
+Term Bonds 7/1/51 (premium) 3.00 2 3,920 29,875
+Premium (discount) 8 82 1,360
+Series 2021A
+Serial Bonds 7/1/22 - 7/1/32 0.20 - 1.95 2 4,090 27,120
+Serial Bonds 1/1/33 - 7/1/33 (premium) 2.00 3 ,490 3,490
+Term Bonds 7/1/36 2.05 1 0,980 10,980
+Term Bonds 7/1/41 2.25 2 0,280 20,280
+Term Bonds 7/1/44 2.35 1 3,310 13,310
+Term Bonds 1/1/52 (premium) 3.00 2 7,635 31,885
+Premium (discount) 1 ,095 1,621
+Series 2021 BC
+Serial Bonds 7/1/22 - 1/1/27 0.25 - 1.40 6 ,130 9,865
+Serial Bonds 1/1/27 - 7/1/33 1.10 - 2.20 2 8,460 28,460
+Term Bond 7/1/36 2.30 1 3,430 13,430
+Term Bonds 7/1/41 2.45 2 3,925 23,925
+Term Bonds 1/1/43 2.60 5 ,885 5,885
+Term Bonds 1/1/52 (premium) 3.00 4 1,195 46,865
+Premium (discount) 1 ,819 2,436
+Series 2022A
+Serial Bonds 1/1/23 - 7/1/34 1.55 - 3.40 2 9,630 32,375
+Term Bonds 7/1/37 3.45 1 1,215 11,215
+Term Bonds 7/1/42 3.65 2 1,380 21,380
+Term Bonds 1/1/46 3.70 1 6,115 16,115
+Term Bonds 1/1/53 (premium) 4.00 3 3,990 38,135
+Premium (discount) 8 56 1,209
+- 35 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest
+Rate 2025 2024
+Series 2022BC
+Serial Bonds 1/1/23 - 7/1/29 2.39 - 3.60 $ 19,860 $ 25,260
+Term Bonds 1/1/50 Variable 3 0,000 30,000
+Series 2022DE
+Serial Bonds 7/1/23 - 7/1/33 2.86 - 4.70 1 3,005 14,265
+Term Bonds 7/1/37 4.92 8 ,105 8,105
+Term Bonds 7/1/42 5.05 1 2,765 12,765
+Term Bonds 1/1/47 5.15 1 3,645 13,645
+Term Bonds 1/1/53 Variable 2 5,000 25,000
+Series 2022F
+Serial Bonds 7/1/23 - 7/1/34 1.55 - 3.85 1 4,845 16,125
+Term Bonds 7/1/37 3.95 6 ,135 6,135
+Term Bonds 7/1/42 4.10 1 2,425 12,425
+Term Bonds 1/1/47 4.25 1 4,150 14,150
+Term Bonds 1/1/53 (Premium) 5.00 2 1,030 23,790
+Premium (Discount) 8 79 1,223
+Series 2023A
+Serial Bonds 1/1/24 - 7/1/35 2.65 - 4.15 2 6,785 28,795
+Term Bonds 7/1/38 4.45 1 0,380 10,380
+Term Bonds 7/1/43 4.60 2 1,280 21,280
+Term Bonds 7/1/47 4.70 2 0,990 20,990
+Term Bonds 7/1/53 (Premium) 5.75 3 9,345 42,280
+Premium (Discount) 2 ,116 2,846
+Series 2023BC
+Serial Bonds 1/1/24 - 7/1/34 4.260 - 5.359 7 ,290 7,865
+Term Bonds 7/1/39 5.45 5 ,135 5,135
+Term Bonds 7/1/47 Variable 1 3,330 13,330
+Term Bonds 7/1/53 (Premium) 6.00 1 2,040 13,170
+Premium (Discount) 2 44 327
+Series 2023D
+Serial Bonds 7/1/24 - 7/1/35 3.250 - 4.000 2 5,995 27,900
+Term Bonds 7/1/38 4.2 1 0,005 10,005
+Term Bonds 7/1/43 4.5 2 0,620 20,620
+Term Bonds 7/1/48 4.55 2 5,175 25,175
+Term Bonds 1/1/54 (Premium) 5.75 3 9,620 41,300
+Premium (Discount) 2 ,076 2,713
+Series 2023E
+Serial Bonds 7/1/24 - 7/1/33 5.266 - 5.371 1 1,250 12,240
+Term Bonds 7/1/38 5.421 9 ,535 9,535
+Term Bonds 7/1/43 5.537 1 2,800 12,800
+Term Bonds 7/1/48 5.587 1 6,175 16,175
+Term Bonds 1/1/54 (Premium) 6.25 2 3,305 24,250
+Premium (Discount) 5 16 676
+- 36 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest
+Rate 2025 2024
+Series 2023F
+Serial Bonds 1/1/25 - 7/1/35 3.600 - 4.400 $ 14,925 $ 15,475
+Term Bonds 7/1/38 4.65 5 ,915 5,915
+Term Bonds 7/1/43 4.9 1 2,300 12,300
+Term Bonds 7/1/48 5.1 1 6,310 16,310
+Term Bonds 1/1/50 5.125 5 ,650 5,650
+Term Bonds 1/1/54 (Premium) 6.25 1 8,870 19,350
+Premium (Discount) 9 58 1,231
+Series 2024A
+Serial Bonds 1/1/25 - 7/1/36 3.100 - 3.950 3 4,610 35,545
+Term Bonds 7/1/39 4.05 1 2,280 12,280
+Term Bonds 7/1/44 4.55 2 5,040 25,040
+Term Bonds 7/1/49 4.7 3 2,595 32,595
+Term Bonds 1/1/52 4.75 1 7,990 17,990
+Term Bonds 7/1/54 (Premium) 6 2 5,450 25,550
+Premium (Discount) 1 ,791 2,267
+Series 2024B
+Term Bonds 7/1/34 5.25 6 ,325 6,325
+Term Bonds 7/1/39 5.543 5 ,010 5,010
+Term Bonds 7/1/44 5.781 6 ,785 6,785
+Term Bonds 7/1/49 5.861 9 ,285 9,285
+Term Bonds 1/1/52 5.931 5 ,545 5,545
+Term Bonds 7/1/54 (Premium) 6.25 6 ,970 7,050
+Premium (Discount) 1 63 207
+Series 2024C
+Serial Bonds 7/1/25 - 7/1/37 3.400 - 4.150 5 4,270 -
+Term Bonds 7/1/39 4.3 1 1,495 -
+Term Bonds 7/1/42 (Premium) 5 1 9,240 -
+Term Bonds 7/1/44 4.65 1 4,375 -
+Term Bonds 1/1/49 4.75 4 2,410 -
+Term Bonds 1/1/51 4.8 1 6,010 -
+Term Bonds 7/1/55 (Premium) 6.25 4 2,200 -
+Premium (Discount) 5 ,159 -
+Series 2024D
+Serial Bonds 1/1/26 - 7/1/30 3.200 - 3.500 1 7,960 -
+Serial Bonds 1/1/31 - 7/1/31 (Premium) 5.5 4 ,020 -
+Serial Bonds 1/1/32 - 7/1/36 3.700 - 4.000 2 2,640 -
+Term Bonds 7/1/39 4.175 1 6,020 -
+Term Bonds 7/1/44 (Discount) 4.5 3 1,980 -
+Term Bonds 7/1/49 (Discount) 4.65 4 0,495 -
+Term Bonds 1/1/52 4.7 2 1,105 -
+Term Bonds 7/1/54 (Premium) 6 4 0,780 -
+Premium (Discount) 4 ,525 -
+- 37 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Interest
+Rate 2025 2024
+Series 2025A
+Serial Bonds 7/1/26 - 7/1/35 3.450 - 4.400 $ 32,965 $ -
+Term Bonds 7/1/31 4 3 ,885 -
+Term Bonds 7/1/37 4.5 9 ,745 -
+Term Bonds 7/1/40 4.7 1 6,380 -
+Term Bonds 7/1/45 4.94 3 3,315 -
+Term Bonds 7/1/50 5 4 3,210 -
+Term Bonds 7/1/53 5.05 2 7,500 -
+Term Bonds 1/1/56 (Premium) 6 3 3,000 -
+Premium (Discount) 2 ,765 -
+Series 2025B
+Serial Bonds 7/1/26 - 7/1/37 4.559 - 5.768 1 1,485 -
+Term Bonds 7/1/40 6.008 4 ,605 -
+Term Bonds 7/1/45 6.203 9 ,890 -
+Term Bonds 7/1/50 6.223 1 3,595 -
+Term Bonds 1/1/54 6.263 1 0,875 -
+Term Bonds 7/1/56 (Premium) 6.25 9 ,550 -
+Premium (Discount) 3 89 -
+$ 2,463,794 $ 1,938,268
+The Agency is allowed to earn a mortgage yield of 1.125% more than the yield on the
+corresponding tax-exempt bonds. The Agency monitors the yield related to the bonds and
+mortgages to ensure the Agency is in compliance with the yield requirements.
+Revenues Pledged
+The Agency has homeownership bonds outstanding in the amount of $2,463,794 maturing at
+various times from July 1, 2025 through July 1, 2056. The bonds have been issued to provide
+financing to purchase mortgage loans. Annual principal and interest payments on the bonds are
+expected to require 98 percent of net revenues. Principal and interest paid net of premium
+(discount) amortization for the current year were $135,665 and $63,819, respectively for the
+year ended June 30, 2025. Principal and interest paid net of premium amortization for the year
+were $121,840 and $45,856, respectively for the year ended June 30, 2024.
+Pursuant to the Series Resolutions adopted to date under the 1994 and 2009 General
+Resolutions, the revenues generated by the program loans (but not the program loans
+themselves) are pledged to secure the Bonds. The Agency is permitted by terms of the General
+Resolutions to issue bonds and to pledge revenues pursuant to the Series Resolution which
+exceed the amount required to meet the obligations of that series of bonds. In such event, it is
+likely that any such series of bonds would produce excess revenues which could be available to
+redeem the related series of bonds or any other series of bonds prior to the stated maturities
+thereof.
+- 38 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 13 FINANCIAL DERIVATIVE INSTRUMENT
+Objective of the Interest Rate Swap
+As a means to lower its borrowing costs, when compared against fixed-rate bonds at the time of
+issuance2, the agency entered into several cash flow hedges or swaps in connection with
+various variable-rate housing bond series1. All Agency cash flow hedges are pay-fixed. The
+intention of these swaps was to effectively change the Agency’s interest rate on the bonds to a
+fixed rate6. The Agency also has cash flow hedges that were entered into in connection with
+variable-rate housing bond series that no longer have bonds outstanding as those bonds have
+been called. The cash flow hedges that are not connected to a specific bond series hedge the
+risk related to the Agency’s other variable-rate housing bonds that are un-hedged.
+Terms
+The bonds and the related swap agreements have a stated issuance2 and maturity date3. Some
+of the swaps have optional termination dates15. Under the swaps, the Agency pays the
+counterparty a fixed payment and receives a variable payment computed as a percent of the
+London Interbank Offered Rate (LIBOR) or the Secured Overnight Financing Rate (SOFR)7 plus
+a fixed percentage8 on the swap notional amount4. On the other hand, the bond’s variable-rate9
+coupons are determined by the remarketing agent. If for any reason the remarketing agent fails
+to act, the rate shall be the lesser of (i) the TBMA (Bond Market Association) Index plus 0.25%
+or (ii) the Maximum Rate as defined within the applicable series resolution. The net change in
+fair value of the individual swaps is presented in the terms table below14.
+Credit Risk
+As of June 30, 2025, the Agency had 11 swaps with a positive fair value totaling $16,316. As of
+June 30, 2024, the Agency had 11 swaps with a positive fair value totaling $20,762. Of the
+swaps with negative fair value, the agency is not exposed to credit risk. However, the swap
+exposes the Agency to basis risk should the relationship between LIBOR/SOFR and TBMA
+converge, changing the synthetic rate on the bonds. The swap counterparty has guaranteed all
+payments and is rated AAa/AA+/AAA by Moody’s Investor Services, Standard & Poor’s, and
+Fitch, respectively. To mitigate potential credit risk, the counterparty has entered into Credit
+Support Agreements with the Royal Bank of Canada and Wells Fargo as a credit enhancement.
+The Agency has entered into netting arrangements whenever it has entered into more than one
+derivative instrument transaction with counterparties. Under the terms of these arrangements
+netting provisions permit each party to net the transactions’ fair values so that a single sum will
+be owed by, or owed to, the other party. At June 30, 2025 the Agency owed the swap providers
+a fixed rate on the notional amount of the swaps of $5,903 and the swap providers owed the
+Agency a variable rate on the notional amounts of $7,989 making the net payment the Agency
+is owed from the swap providers $2,086. At June 30, 2024 the Agency owed the swap providers
+a fixed rate on the notional amount of the swaps of $5,962 and the swap providers owed the
+Agency a variable rate on the notional amounts of $9,927 making the net payments the Agency
+owes the swap providers $3,965.
+- 39 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Fair Value
+Due to the difference in the variable rate indices, the swaps had a net positive fair value10 of
+$16,316 and $20,762 at June 30, 2025 and 2024, respectively. Accordingly, the financial
+derivative instrument is reported as a liability and the accumulated changes in fair value of the
+swaps were reported as a deferred inflow at June 30, 2025 and 2024. The coupon on the
+government’s variable-rate bonds adjust to changing interest rates, the bonds do not have a
+corresponding fair value increase. All valuations are as of the valuation date indicated. Mid-
+Market or indicative unwind valuations may be derived from broker quotations or from
+proprietary models that take into consideration estimates about relevant present and future
+market conditions as well as the size and liquidity of the position and any related actual or
+potential hedging transactions. Valuations based on other models or different assumptions may
+yield different results.
+Basis Risk
+The swap exposes the Agency to basis risk should the relationship between LIBOR/SOFR and
+the actual variable rates converge, changing the synthetic rate on the bonds. The effect of this
+difference in basis is indicated by the difference between the intended synthetic rate6 and the
+synthetic rate12 as of June 30, 2025 and 2024. If a change occurs that results in the rates’
+moving to convergence, the expected cost savings may not be realized.
+Termination Risk
+The derivative contract uses the International Swap Dealers Association Master Agreement,
+which includes standard termination events, such as failure to pay and bankruptcy. The
+Schedule to the Master Agreement includes an “additional termination event.” That is, the swap
+may be terminated if counterparty’s credit quality rating falls below “A3” as issued by Moody’s
+Investors Service or “A-“ as issued by Fitch Ratings or Standard & Poor’s. The swap may be
+terminated at any time by the agency or the counterparty with 30 days written notice up to limits
+specified in the swap agreement. If the swap or swaps were terminated, the variable-rate bonds
+would no longer carry a synthetic interest rate. Also, if at the time of termination the swap has a
+negative fair value, the Agency would be liable to the counterparty for payment equal to the
+swap’s fair value, but in the event the fair value is positive, the counterparty would be liable to
+the Agency.
+Rollover Risk
+The Agency is exposed to rollover risk on hedging derivative instruments that are hedges of
+debt that mature or may be terminated prior to the maturity of the hedged debt. When these
+hedging derivative instruments terminate, or in the case of a termination option, if the
+counterparty exercises its option, the Agency will be re-exposed to the risks being hedged by
+the hedging derivative instrument. The Agency also is exposed to rollover risk on the swaps
+that mature and the Agency does not call the related variable rate debt.
+- 40 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+The terms of the interest rate swaps at June 30, 2025 are as follows:
+1 Bond Series 2015 C 2015 E 2015 F 2017C
+2 Issuance Date 6/23/2015 5/1/2016 12/8/2015 5/10/2017
+3 Maturity Date 1/1/2046 7/1/2036 1/1/2047 7/1/2047
+4 Notional Amount 11,745 18,840 11,540 19,505
+5 Variable-rate Bonds 11,745 18,840 11,540 19,505
+6 Fixed Rate 2.486% 2.257% 2.320% 2.783%
+7 LIBOR Percentage 66.20% 66.40% 100.00% 100.00%
+8 Additional Percentage 0.10% 0.22% 0.00% 0.00%
+9 Bonds Variable-rate 0.91000% 0.91000% 1.65000% 2.73904%
+10 Fair Value 736 623 1,190 1,569
+11 Percentage of LIBOR 3.03185% 3.16071% 4.42878% 4.42878%
+12 Synthetic Rate 0.36415% 0.00629% -0.45878% 1.09276%
+13 Actual Synthetic Rate 2.96749% 1.80143% 2.27431% 2.70952%
+14 Change in Fair Value (160) (459) (436) (657)
+15 Optional Termination Date N/A N/A N/A 7/1/2027
+1 Bond Series 2017H 2018C 2019B 2019E
+2 Issuance Date 12/21/2017 6/14/2018 2/13/2019 6/25/2019
+3 Maturity Date 7/1/2039 1/1/2049 1/1/2043 1/1/2050
+4 Notional Amount 28,250 9 ,355 25,000 12,265
+5 Variable-rate Bonds 28,250 9 ,355 25,000 12,265
+6 Fixed Rate 2.266% 3.515% 2.693% 3.171%
+7 LIBOR Percentage 66.40% 100.00% 70.00% 100.00%
+8 Additional Percentage 0.09% 0.00% 0.00% 0.00%
+9 Bonds Variable-rate 0.90000% 1.60000% 1.11000% 1.60000%
+10 Fair Value 1,508 550 1,223 2,083
+11 Percentage of LIBOR 3.03071% 4.42878% 3.10015% 4.42878%
+12 Synthetic Rate 0.13529% 0.68622% 0.70235% 0.34222%
+13 Actual Synthetic Rate 2.14803% 3.45177% 2.85418% 3.11545%
+14 Change in Fair Value (645) (282) (413) (153)
+15 Optional Termination Date N/A 7/1/2027 N/A 7/1/2028
+1 Bond Series 2022C 2022E 2023C
+2 Issuance Date 4/28/2022 6/14/2022 2/16/2023
+3 Maturity Date 7/1/2052 1/1/2053 7/1/2047
+4 Notional Amount 30,000 25,000 13,330
+5 Variable-rate Bonds 30,000 25,000 13,330
+6 Fixed Rate 2.644% 3.808% 4.493%
+7 LIBOR Percentage 100.00% 100.00% 100.00%
+8 Additional Percentage 0.05% 0.05% 0.15%
+9 Bonds Variable-rate 1.60000% 1.60000% 1.60000%
+10 Fair Value 3,417 2,919 498
+11 Percentage of LIBOR 4.47878% 4.47878% 4.57878%
+12 Synthetic Rate -0.23478% 0.92922% 1.51422%
+13 Actual Synthetic Rate 2.53755% 3.69373% 4.24509%
+14 Change in Fair Value (911) (97) (233)
+15 Optional Termination Date 1/1/2032 1/1/2032 7/1/2028
+- 41 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+The terms of the interest rate swaps at June 30, 2024 are as follows:
+1 Bond Series 2015 C 2015 E 2015 F 2017C
+2 Issuance Date 6/23/2015 5/1/2016 12/8/2015 5/10/2017
+3 Maturity Date 1/1/2046 7/1/2036 1/1/2047 7/1/2047
+4 Notional Amount 11,745 18,840 12,830 20,545
+5 Variable-rate Bonds 11,745 18,840 12,830 20,545
+6 Fixed Rate 2.486% 2.257% 2.320% 2.783%
+7 LIBOR Percentage 66.20% 66.40% 100.00% 100.00%
+8 Additional Percentage 0.10% 0.22% 0.00% 0.00%
+9 Bonds Variable-rate 0.91000% 0.91000% 1.65000% 2.73904%
+10 Fair Value 896 1,082 1,626 2,226
+11 Percentage of LIBOR 3.70703% 3.83792% 5.44868% 5.44868%
+12 Synthetic Rate -0.31103% -0.67092% -1.47868% 0.07286%
+13 Actual Synthetic Rate 3.00534% 1.87677% 2.28415% 2.73484%
+14 Change in Fair Value 194 64 46 233
+15 Optional Termination Date N/A N/A 1/1/2025 7/1/2027
+1 Bond Series 2017H 2018C 2019B 2019E
+2 Issuance Date 12/21/2017 6/14/2018 2/13/2019 6/25/2019
+3 Maturity Date 7/1/2039 1/1/2049 1/1/2043 1/1/2050
+4 Notional Amount 28,250 9 ,355 25,000 12,265
+5 Variable-rate Bonds 28,250 9 ,355 25,000 12,265
+6 Fixed Rate 2.266% 3.515% 2.693% 3.171%
+7 LIBOR Percentage 66.40% 100.00% 70.00% 100.00%
+8 Additional Percentage 0.09% 0.00% 0.00% 0.00%
+9 Bonds Variable-rate 0.90000% 1.60000% 1.11000% 1.60000%
+10 Fair Value 2,153 832 1,636 2,236
+11 Percentage of LIBOR 3.70792% 5.44868% 3.81408% 5.44868%
+12 Synthetic Rate -0.54192% -0.33368% -0.01158% -0.67768%
+13 Actual Synthetic Rate 2.17791% 3.47119% 2.95053% 3.14039%
+14 Change in Fair Value 324 210 362 571
+15 Optional Termination Date N/A 7/1/2027 N/A 7/1/2028
+1 Bond Series 2022C 2022E 2023C
+2 Issuance Date 4/28/2022 6/14/2022 2/16/2023
+3 Maturity Date 7/1/2052 1/1/2053 7/1/2047
+4 Notional Amount 30,000 25,000 13,330
+5 Variable-rate Bonds 30,000 25,000 13,330
+6 Fixed Rate 2.644% 3.808% 4.493%
+7 LIBOR Percentage 100.00% 100.00% 100.00%
+8 Additional Percentage 0.05% 0.05% 0.15%
+9 Bonds Variable-rate 1.60000% 1.60000% 1.60000%
+10 Fair Value 4,328 3,016 731
+11 Percentage of LIBOR 5.49868% 5.49868% 5.59868%
+12 Synthetic Rate -1.25468% -0.09068% 0.49432%
+13 Actual Synthetic Rate 2.56684% 3.72103% 4.26228%
+14 Change in Fair Value 816 1,439 567
+15 Optional Termination Date 1/1/2032 1/1/2032 7/1/2028
+- 42 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Swap Payments and Associated Debt
+Using rates as of June 30, 2025, debt service requirements of the variable-rate debt and net
+swap payments are as follows. Interest calculations were based on rates as of June 30, 2025.
+As rates vary, variable-rate bond interest payments and net swap payments will vary.
+Fiscal year Variable-Rate Bond Interest Rate
+Ending June 30 Principal Interest Swap, Net Total
+2026 $ 1,595 $ 2,955 $ (2,072) $ 2,478
+2027 4,935 2,871 (2,003) 5,803
+2028 4,655 2,788 (1,934) 5,509
+2029 4,940 2,707 (1,868) 5,779
+2030 8,320 2,583 (1,758) 9,145
+2031 - 2035 46,915 10,884 (6,916) 50,883
+2036 - 2040 52,815 7,536 (4,124) 56,227
+2041 - 2045 38,595 4,498 (2,257) 40,836
+2046 - 2050 29,290 2,131 (1,028) 30,393
+2051 - 2055 12,770 224 (99) 12,895
+$ 204,830 $ 39,177 $ (24,059) $ 219,948
+NOTE 14 LINE OF CREDIT - BANK OF NORTH DAKOTA
+The Agency has a line of credit with the Bank of North Dakota to fund mortgages. As of June
+30, 2025, the line of credit has no outstanding balance, has a credit limit of $60,000 and expires
+on July 1, 2025. The line of credit bears interest at 5.89%.
+The Agency has a line of credit with the Bank of North Dakota to fund mortgages. As of June
+30, 2024, the line of credit has no outstanding balance, has a credit limit of $60,000 and expires
+on July 1, 2024. The line of credit bears interest at 6.93%.
+The Agency did not make draws on this line of credit during the years ended June 30, 2025 and
+2024.
+NOTE 15 LETTER OF CREDIT - FEDERAL HOME LOAN BANK OF DES MOINES
+The Agency maintains a collateral pledge agreement with the Federal Home Loan Bank (FHLB)
+covering secured advances whereby the Agency has agreed to retain residential real estate
+loans and marketable securities, free of all other pledges, liens and encumbrances. The
+pledged loans and securities are discounted by FHLB when determining their borrowing
+capacity. The aggregate borrowing capacity of eligible collateral was approximately $13,978 as
+of June 30, 2025. In addition, borrowings are collateralized by $22,220 of loans receivable and
+$12 of cash and investments. The aggregate borrowing capacity of eligible collateral was
+approximately $14,618 as of June 30, 2024. In addition, borrowings are collateralized by
+$23,386 of loans receivable and $17 of cash and investments.
+- 43 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 16 PENSION PLAN
+North Dakota Public Employees Retirement System (Main System)
+The following brief description of NDPERS is provided for general information purposes only.
+Participants should refer to NDCC Chapter 54-52 for more complete information.
+NDPERS is a cost-sharing multiple-employer defined benefit pension plan that covers
+substantially all employees of the State of North Dakota, its agencies and various participating
+political subdivisions. NDPERS provides for pension, death and disability benefits. The cost to
+administer the plan is financed through the contributions and investment earnings of the plan.
+Responsibility for administration of the NDPERS defined benefit pension plan is assigned to a
+board comprised of eleven members. The Governor is responsible for appointing three other
+members in addition to the Chairman of the Board. Four members are appointed by legislative
+management, and the remaining three Board members are elected from active employees
+currently contributing to PERS.
+Pension Benefits
+Benefits are set by statute. NDPERS has no provisions or policies with respect to automatic
+and ad hoc post-retirement benefit increases. Member of the Main System are entitled to
+unreduced monthly pension benefits beginning when the sum of age and years of credited
+service equal or exceed 85 (Rule of 85), or at normal retirement age (65). For members hired
+on or after January 1, 2016 the Rule of 85 was be replaced with the Rule of 90 with a minimum
+age of 60. The monthly pension benefit is equal to 2.00% of their average monthly salary, using
+the highest 36 months out of the last 180 months of service, for each year of service. For
+members hired on or after January 1, 2020 the 2.00% multiplier was replaced with a 1.75%
+multiplier. The plan permits early retirement at ages 55-64 with three or more years of service.
+Members may elect to receive the pension benefits in the form of a single life, joint and survivor,
+term-certain annuity, or partial lump sum with ongoing annuity. Members may elect to receive
+the value of their accumulated contributions, plus interest, as a lump sum distribution upon
+retirement or termination, or they may elect to receive their benefits in the form of an annuity.
+For each member electing an annuity, total payment will not be less than the members’
+accumulated contributions plus interest.
+Death and Disability Benefits
+Death and disability benefits are set by statute. If an active member dies with less than three
+years of service for the Main System, a death benefit equal to the value of the member’s
+accumulated contributions, plus interest, is paid to the member’s beneficiary. If the member has
+earned more than three years of credited service for the Main System, the surviving spouse will
+be entitled to a single payment refund, life-time monthly payments in an amount equal to 50% of
+the member’s accrued normal retirement benefit, or monthly payments in an amount equal to
+the member’s accrued 100% Joint and Survivor retirement benefit if the member had reached
+normal retirement age prior to date of death. If the surviving spouse dies before the member’s
+accumulated pension benefits are paid, the balance will be payable to the surviving spouse’s
+designated beneficiary.
+- 44 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Eligible members who become totally disabled after a minimum of 180 days of service, receive
+monthly disability benefits equal to 25% of their final average salary with a minimum benefit of
+$100. To qualify under this section, the member has to become disabled during the period of
+eligible employment and apply for benefits within one year of termination. The definition for
+disabled is set by the NDPERS in the North Dakota Administrative Code.
+Refunds of Member Account Balance
+Upon termination, if a member of the Main System is not vested (is not 65 or does not have
+three years of service), they will receive the accumulated member contributions and vested
+employer contributions, plus interest, or may elect to receive this amount at a later date. If the
+member has vested, they have the option of applying for a refund or can remain as a terminated
+vested participant. If a member terminated and withdrew their accumulated member
+contribution and is subsequently reemployed, they have the option of repurchasing their
+previous service.
+Member and Employer Contributions
+Member and employer contributions paid to NDPERS are set by statute and are established as
+a percent of salaries and wages. Member contribution rates are 7% and employer contribution
+rates are 8.12% of covered compensation. For members hired on or after January 1, 2020
+member contribution rates are 7% and employer contribution rates are 9.26% of covered
+compensation.
+The member’s account balance includes the vested employer contributions equal to the
+member’s contributions to an eligible deferred compensation plan. The minimum member
+contribution is $25 and the maximum may not exceed the following:
+1 to 12 months of service – Greater of one percent of monthly salary or $25
+13 to 24 months of service – Greater of two percent of monthly salary or $25
+25 to 36 months of service – Greater of three percent of monthly salary or $25
+Longer than 36 months of service – Greater of four percent of monthly salary or $25
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred
+Inflows of Resources Related to Pensions
+At June 30, 2025 and 2024, the Agency reported a liability of $4,848 and $4,972 for its
+proportionate share of the net pension liability, respectively. The net pension liability was
+measured as of June 30, 2024 and 2023 and the total pension liability used to calculate the net
+pension liability was determined by an actuarial valuation as of that date. The Agency's
+proportion of the net pension liability was based on the Agency's share of covered payroll in the
+Main System pension plan relative to the covered payroll of all participating Main System
+employers. At June 30, 2024, the Agency's proportion was 0.259223 percent, which was an
+increase of 0.001381 percent from its proportion measured as of June 30, 2023.
+- 45 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+For the year ended June 30, 2025, the Agency recognized pension expense of $332. At June
+30, 2025, the Agency reported deferred outflows of resources and deferred inflows of resources
+related to pensions from the following sources:
+Deferred Outflows Deferred Inflows of
+of Resources Resources
+Differences between expected and
+actual experience $ 230 $ -
+Changes of assumptions 1,168 (2,200)
+Net difference between projected and
+actual earnings on pension plan
+investments - (44)
+Changes in proportion and
+differences between employer
+contributions and proportionate share
+of contributions 251 ( 10)
+Employer contributions subsequent to
+the measurement date 332 -
+Total $ 1,981 $ (2,254)
+$332 reported as deferred outflows of resources related to pensions resulting from Agency
+contributions subsequent to the measurement date will be recognized as a reduction of the net
+pension liability in the year ending June 30, 2026.
+Other amounts reported as deferred outflows of resources and deferred inflows of resources
+related to pensions will be recognized in pension expense as follows:
+Year ended June 30:
+2026 $ (428)
+2027 142
+2028 (289)
+2029 (30)
+- 46 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Actuarial Assumptions
+The total pension liability in the July 1, 2024 actuarial valuation was determined using the
+following assumptions, applied to all periods included in the measurement:
+Inflation 2.25%
+Salary increases 3.5% to 17.75% including inflation
+Investment rate of return 6.50%, net of investment expenses
+Cost-of-living adjustments None
+For active members, inactive members and healthy retirees, mortality rates were based on the
+Sex-distinct Pub-2010 table for General Employees, with scaling based on actual experience.
+Respective corresponding tables were used for healthy retirees, disabled retirees, and active
+members. Mortality rates are projected from 2010 using the MP-2019 scale.
+The long-term expected rate of return on pension plan investments was determined using a
+building-block method in which best-estimate ranges of expected future real rates of return
+(expected returns, net of pension plan investment expense and inflation) are developed for each
+major asset class. These ranges are combined to produce the long-term expected rate of return
+by weighting the expected future real rates of return by the target asset allocation percentage
+and by adding expected inflation. Best estimates of arithmetic real rates of return for each major
+asset class included in the Fund’s target asset allocation is summarized in the following table:
+Target Long-Term Expected
+Asset Class Allocation Real Rate of Return
+Domestic Equity 31.9% 5.40%
+International Equity 19.1% 7.00%
+Private Equity 7.0% 8.50%
+Domestic Fixed 23.0% 2.88%
+Global Real Assets 19.0% 6.10%
+Discount Rate
+For PERS, GASB Statement No. 67 includes a specific requirement for the discount rate that is
+used for the purpose of the measurement of the Total Pension Liability. This rate considers the
+ability of the System to meet benefit obligations in the future. To make this determination,
+employer contributions, employee contributions, benefit payments, expenses and investment
+returns are projected into the future. The current employer and employee fixed rate
+contributions are assumed to be made in each future year. The Plan Net Position (assets) in
+future years can then be determined and compared to its obligation to make benefit payments in
+those years. In years where assets are not projected to be sufficient to meet benefit payments,
+which is the case for the PERS plan, the use of a municipal bond rate is required.
+- 47 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+The Single Discount Rate (SDR) is equivalent to applying these two rates to the benefits that
+are projected to be paid during the different time periods. The SDR reflects (1) the long-term
+expected rate of return on pension plan investments (during the period in which the fiduciary net
+position is projected to be sufficient to pay benefits) and (2) a tax-exempt municipal bond rate
+based on an index of 20-year general obligation bonds with an average AA credit rating as of
+the measurement date (to the extent that the contributions for use with the long-term expected
+rate of return are not met).
+For the purpose of this valuation, the expected rate of return on pension plan investments is
+6.50%; the municipal bond rate is 3.97%; and the resulting Single Discount Rate is 6.50%.
+Sensitivity of the Agency's Proportionate Share of the Net Pension Liability to Changes
+in the Discount Rate
+The following presents the Agency's proportionate share of the net pension liability calculated
+using the discount rate of 6.50 percent, as well as what the Agency's proportionate share of the
+net pension liability would be if it were calculated using a discount rate that is 1-percentage-
+point lower (5.50 percent) or 1-percentage-point higher (7.50 percent) than the current rate at
+June 30, 2025:
+Current
+1% Decrease Discount Rate 1% Increase
+5.50% 6.50% 7.50%
+Employer's proportionate share
+of the net pension liability $ 6,852 $ 4,848 $ 3,187
+Pension Plan Fiduciary Net Position
+Detailed information about the pension plan's fiduciary net position is available in the separately
+issued NDPERS financial report.
+NOTE 17 OPEB PLAN
+North Dakota Public Employees Retirement System
+The following brief description of NDPERS is provided for general information purposes only.
+Participants should refer to NDAC Chapter 71-06 for more complete information.
+NDPERS OPEB plan is a cost-sharing multiple-employer defined benefit OPEB plan that covers
+members receiving retirement benefits from the PERS, the HPRS, and Judges retired under
+Chapter 27-17 of the North Dakota Century Code a credit toward their monthly health insurance
+premium under the state health plan based upon the member's years of credited service.
+Effective July 1, 2015, the credit is also available to apply towards monthly premiums under the
+state dental, vision and long-term care plan and any other health insurance plan. Effective
+August 1, 2019 the benefit may be used for any eligible health, prescription drug plan, dental,
+vision, or long term care plan premium expense. The Retiree Health Insurance Credit Fund is
+advance-funded on an actuarially determined basis.
+- 48 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Responsibility for administration of the NDPERS defined benefit OPEB plan is assigned to a
+Board comprised of nine members. The Board consists of a Chairman, who is appointed by the
+Governor; one member appointed by the Attorney General; one member appointed by the State
+Health Officer; three members elected by the active membership of the NDPERS system, one
+member elected by the retired public employees and two members of the legislative assembly
+appointed by the chairman of the legislative management.
+OPEB Benefits
+The employer contribution for the PERS, the HPRS and the Defined Contribution Plan is set by
+statute at 1.14% of covered compensation. The employer contribution for employees of the
+state board of career and technical education is 2.99% of covered compensation for a period of
+eight years ending October 1, 2015. Employees participating in the retirement plan as part-
+time/temporary members are required to contribute 1.14% of their covered compensation to the
+Retiree Health Insurance Credit Fund. Employees purchasing previous service credit are also
+required to make an employee contribution to the Fund. The benefit amount applied each year
+is shown as "prefunded credit applied" on the Statement of Changes in Plan Net Position for the
+OPEB trust funds. Beginning January 1, 2020, members first enrolled in the NDPERS Main
+System and the Defined Contribution Plan on or after that date will not be eligible to participate
+in RHIC. Therefore, RHIC will become for the most part a closed plan. There were no other
+benefit changes during the year.
+Retiree health insurance credit benefits and death and disability benefits are set by statute.
+There are no provisions or policies with respect to automatic and ad hoc post-retirement benefit
+increases. Employees who are receiving monthly retirement benefits from the PERS, the HPRS,
+the Defined Contribution Plan, the Chapter 27-17 judges or an employee receiving disability
+benefits, or the spouse of a deceased annuitant receiving a surviving spouse benefit or if the
+member selected a joint and survivor option are eligible to receive a credit toward their monthly
+health insurance premium under the state health plan.
+Effective July 1, 2015, the credit is also available to apply towards monthly premiums under the
+state dental, vision and long-term care plan and any other health insurance plan. Effective
+August 1, 2019 the benefit may be used for any eligible health, prescription drug plan, dental,
+vision, or long term care plan premium expense. The benefits are equal to $5.00 for each of the
+employee’s, or deceased employee's years of credited service not to exceed the premium in
+effect for selected coverage. The retiree health insurance credit is also available for early
+retirement with reduced benefits.
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources and Deferred
+Inflows of Resources Related to OPEB
+At June 30, 2025 and 2024, the Agency reported a liability of $204 and $244 for its
+proportionate share of the net OPEB liability, respectively. The net OPEB liability was measured
+as of June 30, 2024 and 2023 and the total OPEB liability used to calculate the net OPEB
+liability was determined by an actuarial valuation as of that date. The Employer's proportion of
+the net OPEB liability was based on the Employer's share of covered payroll in the OPEB plan
+relative to the covered payroll of all participating OPEB employers. At June 30, 2024, the
+Agency's proportion was 0.236005 percent, which is a decrease of 0.008391 percent from its
+proportion measured as of June 30, 2023.
+- 49 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+For the year ended June 30, 2025, the Employer recognized OPEB expense of $35. At June 30,
+2025, the Employer reported deferred outflows of resources and deferred inflows of resources
+related to OPEB from the following sources:
+Deferred Outflows Deferred Inflows of
+of Resources Resources
+Differences between expected and
+actual experience $ 3 $ (2)
+Changes of assumptions 31 (14)
+Net difference between projected and
+actual earnings on OPEB plan
+investments - (8)
+Changes in proportion and
+differences between employer
+contributions and proportionate share
+of contributions 6 (6)
+Employer contributions subsequent to
+the measurement date 32 -
+Total $ 72 $ (30)
+$32 reported as deferred outflows of resources related to OPEB resulting from Agency
+contributions subsequent to the measurement date will be recognized as a reduction of the net
+OPEB liability in the year ending June 30, 2026.
+Other amounts reported as deferred outflows of resources and deferred inflows of resources
+related to OPEBs will be recognized in OPEB expense as follows:
+Year ending June 30:
+2026 $ 10
+2027 18
+2028 (13)
+2029 (5)
+- 50 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Actuarial Assumptions
+The total OPEB liability in the July 1, 2024 actuarial valuation was determined using the
+following actuarial assumptions, applied to all periods included in the measurement:
+Inflation 2.25%
+Salary increases Not applicable
+Investment rate of return 5.75%, net of investment expenses
+Cost-of-living adjustments None
+For active members, inactive members and healthy retirees, mortality rates were based on the
+MortalityPub-2010 Healthy Retiree Mortality table (for General Employees), sex-distinct, with
+rates multiplied by 103% for males and 101% for females. Pub-2010 Disabled Retiree Mortality
+table (for General Employees), sex-distinct, with rates multiplied by 117% for males and 112%
+for females. Pub-2010 Employee Mortality table (for General Employees), sex-distinct, with
+rates multiplied by 92% for both males and females. Mortality rates are projected from 2010
+using the MP-2019 scale.
+The long-term expected investment rate of return assumption for the RHIC fund was determined
+using a building-block method in which best-estimate ranges of expected future real rates of
+return (expected returns, net of RHIC investment expense and inflation) are developed for each
+major asset class. These ranges are combined to produce the long-term expected rate of return
+by weighting the expected future real rates of return by the target asset allocation percentage
+and by adding expected inflation. Estimates of arithmetic real rates of return, for each major
+asset class included in the RHIC’s target asset allocation as of July 1, 2024 is summarized in
+the following table:
+Long-Term Expected Real
+Asset Class Target Allocation Rate of Return
+Large Cap Domestic Equities 33% 4.00%
+Small Cap Domestic Equities 6% 6.00%
+Domestic Fixed Income 35% 3.29%
+International Equities 26% 7.00%
+Discount Rate
+The discount rate used to measure the total OPEB liability was 5.75%. The projection of cash
+flows used to determine the discount rate assumed plan member and statutory rates described
+in this report. For this purpose, only employer contributions that are intended to fund benefits of
+current RHIC members and their beneficiaries are included. Projected employer contributions
+that are intended to fund the service costs of future plan members and their beneficiaries are
+not included. Based on those assumptions, the RHIC fiduciary net position was projected to be
+sufficient to make all projected future benefit payments of current plan members. Therefore, the
+long-term expected rate of return on RHIC investments was applied to all periods of projected
+benefit payments to determine the total OPEB liability.
+- 51 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Sensitivity of the Agency's Proportionate Share of the Net OPEB Liability to Changes in
+the Discount Rate
+The following presents the net OPEB liability of the Plans as of June 30, 2024, calculated using
+the discount rate of 5.75%, as well as what the RHIC net OPEB liability would be if it were
+calculated using a discount rate that is 1-percentage-point lower (4.75 percent) or 1-percentage-
+point higher (6.75 percent) than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+4.75% 5.75% 6.75%
+Employer's proportionate share
+of the net OPEB liability $ 279 $ 204 $ 141
+NOTE 18 COMMITMENTS AND CONTINGENCIES
+Amounts received from federal grantor agencies are subject to audit and adjustment by the
+federal grantor agencies. Any disallowed grant costs may constitute a liability. The amount, if
+any, of costs which may be disallowed by the grantor will be recognized in the year determined.
+In the normal course of business, the Agency makes various commitments that are not reflected
+in the accompanying financial statements. These commitments include commitments to extend
+credit and the debt reduction required when related loan acquisition funds are not drawn down
+within prescribed time frames set by the specific bond resolutions.
+The Agency’s exposure to credit loss is represented by the contractual amount of these
+commitments. The Agency follows the same credit policies in making commitments as it does
+for on-balance-sheet instruments.
+2025 2024
+Commitments to extend credit $ 80,691 $ 155,462
+Loan Acquisition Fund $ 221,199 $ 69,120
+Commitments to extend credit are agreements to lend to a customer as long as there is no
+violation of any condition established in the contract. Commitments generally have fixed
+expiration dates or other termination clauses. Since many of the commitments may expire
+without being drawn upon, the total commitment amounts do not necessarily represent future
+cash requirements. The amount of collateral obtained, if it is deemed necessary by the Agency,
+is based on management’s credit evaluation of the customer.
+The Bond resolutions require that the funds in the loan acquisition accounts be expended within
+42 months of the related bond delivery date. Any remaining funds must be used for debt
+reductions.
+As of June 30, 2025 and 2024, the Agency had no outstanding guarantees on loans owned by
+financial institutions.
+- 52 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 19 FUND NET POSITION
+Based on certain bond covenants, all assets and fund net position of the Homeownership Bond
+fund are restricted for debt service.
+The Agency operating fund has investment securities pledged under the 1994 and 2009
+General Bond Resolutions. The financial statements identify this fund as unrestricted, however,
+all Agency net position is a reserved general obligation of the bond series. The general
+obligation (issuer) rating by Moody’s Investor Service (a national financial rating service) is
+influenced by the relationship of Agency net position to several other financial statement factors
+and major investors monitor the amount of net position as additional collateral for the publicly
+traded bond investments.
+NOTE 20 RISK MANAGEMENT
+The Agency is exposed to various risks of loss related to torts; theft of, damage to, and
+destruction of assets; errors and omissions; injuries to employees; and natural disasters. The
+following are funds/pools established by the State for risk management issues:
+The 1995 Legislative Session established the Risk Management Fund (RMF), an internal
+service fund, to provide a self-insurance vehicle for funding the liability exposures of state
+agencies resulting from the elimination of the state's sovereign immunity. The RMF manages
+the tort liability of the state, its agencies' employees, and the University System. All state
+agencies participate in the RMF and their fund contribution was determined using a projected
+cost allocation approach. The statutory liability of the State is limited to a total of $438 per
+person and $1,750 per occurrence. The Agency is also covered through a casualty obligatory
+excess of loss reinsurance contract that RMF has with an outside party that provides additional
+coverage amount of $250 per person and $2,000 per occurrence.
+The Agency also participates in the North Dakota Fire and Tornado Fund and the State Bonding
+Fund. The Agency pays an annual premium to the Fire and Tornado Fund to cover property
+damage to personal property. Replacement cost coverage is provided by estimating
+replacement cost in consultation with the Fire and Tornado Fund. The Fire and Tornado Fund
+is reinsured by a third party insurance carrier for losses in excess of one million dollars per
+occurrence during a twelve-month period. The State Bonding Fund currently provides the
+Agency with blanket fidelity bond coverage in the amount of $2,000 for its employees. The
+State Bonding Fund does not currently charge any premium for this coverage. In addition to the
+State Bonding Fund, the Agency has a separate $1,000 insurance policy with Great American
+Insurance Group.
+The Agency, as a contributor to RMF, participates in the North Dakota Workforce Safety &
+Insurance (NDWSI), an Enterprise Fund of the State of North Dakota. The NDWSI is a state
+insurance fund and a "no fault" insurance system covering the State's employers and
+employees financed by premiums assessed to employers. The premiums are available for the
+payment of claims to employees injured in the course of employment.
+There have been no significant reductions in insurance coverage from the prior year and settled
+claims resulting from these risks have not exceeded insurance coverage in any of the past three
+fiscal years.
+- 53 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 21 SEGMENT INFORMATION
+The Agency maintains two Enterprise Funds which provide loans to finance construction of
+residential housing and single family homeownership.
+Statement of Net Position segment information as of and for the year ended June 30, 2025, was
+as follows:
+Agency
+Operating Homeownership Total
+Funds Bond Funds Eliminations Enterprise
+Statement of Net Position
+Current assets - other $ 50,617 $ 543,612 $ (11,715) $ 582,514
+Capital assets - net 75 - - 75
+Noncurrent assets - other 9 ,728 2,226,635 - 2,236,363
+Total assets 60,420 2,770,247 (11,715) 2,818,952
+Deferred outflow of resources 2 ,053 - - 2,053
+Current liabilities - other 29,546 1 24,594 (11,715) 142,425
+Noncurrent liabilities - other 5 ,413 2,373,762 - 2,379,175
+Total liabilities 34,959 2,498,356 (11,715) 2,521,600
+Deferred inflow of resources 2 ,284 1 6,316 - 18,600
+Invested in capital assets 75 - - 75
+Net position - unrestricted 25,155 - - 25,155
+Net position - restricted - 255,575 - 255,575
+Total net position $ 25,230 $ 255,575 $ - $ 280,805
+Statement of Net Position segment information as of and for the year ended June 30, 2024, was
+as follows:
+Agency
+Operating Homeownership Total
+Funds Bond Funds Eliminations Enterprise
+Statement of Net Position
+Current assets - other $ 43,460 $ 303,394 $ (5,330) $ 341,524
+Capital assets - net 96 - - 96
+Noncurrent assets - other 8 ,900 1,905,321 - 1,914,221
+Total assets 52,456 2,208,715 ( 5,330) 2,255,841
+Deferred outflow of resources 3 ,829 - - 3,829
+Current liabilities - other 26,181 1 00,658 (5,330) 121,509
+Noncurrent liabilities - other 5 ,216 1,851,839 - 1,857,055
+Total liabilities 31,397 1,952,497 ( 5,330) 1,978,564
+Deferred inflow of resources 3 ,894 2 0,762 - 24,656
+Invested in capital assets 92 - - 92
+Net position - unrestricted 20,902 - - 20,902
+Net position - restricted - 235,456 - 235,456
+Total net position $ 20,994 $ 235,456 $ - $ 256,450
+- 54 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Statement of Revenues, Expenses and Change in Fund Net Position and Statement of Cash
+Flows segment information as of and for the year ended June 30, 2025, was as follows:
+Agency
+Operating Homeownership Total
+Funds Bond Funds Eliminations Enterprise
+Statement of Revenues, Expenses and
+Change in Fund Net Position
+Operating revenues
+Mortgage interest income $ 1 2 $ 83,631 $ - $ 83,643
+Investment income - 26,105 - 26,105
+Gain on sale of investments - - - -
+Fee income 14,519 - (9,359) 5,160
+Depreciation (33) - - (33)
+Other operating expenses (12,044) ( 89,694) 9,359 (92,379)
+Operating income 2 ,454 2 0,042 - 22,496
+Nonoperating revenues (expenses)
+Federal grants 29,711 - - 29,711
+Non-federal grants 1 ,469 - - 1,469
+Investment income 4 90 - - 490
+Federal grants (29,711) - - (29,711)
+Transfers ( 100) - - (100)
+Change in net position 4 ,313 2 0,042 - 24,355
+Total net position, beginning of year 20,994 2 35,456 - 256,450
+Equity transfer in (out) (77) 7 7 - -
+Total net position, end of year $ 25,230 $ 255,575 $ - $ 280,805
+Statement of Cash Flows
+Net cash used by operating activities $ 5,855 $ (250,017) $ - $ (244,162)
+Net cash used for noncapital
+financing activities 1 ,369 4 69,720 - 471,089
+Net cash used for capital and related
+financing activities ( 240) - - (240)
+Net cash from (used by) investing activities 4 15 6,187 - 6,602
+Change in cash and cash equivalents 7 ,399 2 25,890 - 233,289
+Cash and cash equivalents,
+beginning of year 36,344 2 51,657 - 288,001
+Cash and cash equivalents, end of year $ 43,743 $ 477,547 $ - $ 521,290
+- 55 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Statement of Revenues, Expenses and Change in Fund Net Position and Statement of Cash
+Flows segment information as of and for the year ended June 30, 2024, was as follows:
+Agency
+Operating Homeownership Total
+Funds Bond Funds Eliminations Enterprise
+Statement of Revenues, Expenses and
+Change in Fund Net Position
+Operating revenues
+Mortgage interest income $ 1 4 $ 63,692 $ - $ 63,706
+Investment income - 21,152 - 21,152
+Gain on sale of investments - ( 9) - (9)
+Fee income 12,466 - (7,864) 4 ,602
+Depreciation (33) - - (33)
+Other operating expenses (11,144) ( 67,190) 7,864 (70,470)
+Operating income 1 ,303 1 7,645 - 18,948
+Nonoperating revenues (expenses)
+Federal grants 20,648 - - 20,648
+Non-federal grants 5 ,060 - - 5,060
+Investment income 3 38 - - 338
+Federal grants (20,648) - - (20,648)
+Transfers ( 100) - - (100)
+Change in net position 6 ,601 1 7,645 - 24,246
+Total net position, beginning of year 14,312 2 17,892 - 232,204
+Equity transfer in (out) 81 ( 81) - -
+Total net position, end of year $ 20,994 $ 235,456 $ - $ 256,450
+Statement of Cash Flows
+Net cash by operating activities $ 1 91 $ (252,053) $ - $ (251,862)
+Net cash used for noncapital
+financing activities (81) 304,411 - 304,330
+Net cash used for capital and related
+financing activities ( 235) - - (235)
+Net cash from (used by) investing activities 4 70 5,843 - 6,313
+Change in cash and cash equivalents 3 45 5 8,201 - 58,546
+Cash and cash equivalents,
+beginning of year 35,999 1 93,456 - 229,455
+Cash and cash equivalents, end of year $ 36,344 $ 251,657 $ - $ 288,001
+NOTE 22 ISSUED BUT NON-EFFECTIVE PRONOUNCEMENTS
+GASB Statement No. 103, Financial Reporting Model Improvements, revises the requirements
+for management’s discussion and analysis with the goal of making it more readable and
+understandable, requires unusual or infrequent items to be presented separately, defines
+operating and nonoperating revenues, includes a new section for noncapital subsidies for
+proprietary funds’ statement of revenues, expenses and changes in net position, removes the
+option to disclose major component information in the notes and requires them to be shown
+individually or in combine financial statements following the fund financial statements and
+requires budgetary comparisons to be presented as RSI with new columns for variances
+between original-to-final budget and final budget-to-actual results. This statement is effective
+for fiscal years beginning after June 15, 2025.
+- 56 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTES TO THE FINANCIAL STATEMENTS - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+GASB Statement No. 104, Disclosure of Certain Capital Assets, establishes requirements for
+certain types of capital assets to be disclosed separately in the capital assets note. These items
+include disclosing separately lease assets, intangible right-to-use assets, subscription assets
+and intangible assets. In addition, additional disclosures will be required for capital assets held
+for sale. This statement is effective for fiscal years beginning after June 15, 2025. Earlier
+application is encouraged.
+Management has not yet determined what effect these statements will have on the Agency’s
+financial statements.
+NOTE 23 SUBSEQUENT EVENTS
+No significant events occurred subsequent to the Agency’s year end. Subsequent events have
+been evaluated through November 24, 2025, the date these financial statements were available
+to be issued.
+- 57 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+REQUIRED SUPPLEMENTARY INFORMATION
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+North Dakota Public Employees Retirement System
+Schedule of Employer’s Share of Net Pension Liability
+Last 10 Fiscal Years
+Employer’s Employer’s Employer’s proportionate Plan fiduciary
+proportion of proportionate Employer’s share of the net pension net position as a
+the net share of the covered- liability (asset) as a percentage of
+pension net pension employee percentage of its covered- the total pension
+liability (asset) liability (asset) payroll employee payroll liability
+2025 0.25922% $ 4,848 $ 3,714 130.56% 68.02%
+2024 0.25784% 4 ,972 3,281 151.54% 65.31%
+2023 0.25885% 7 ,455 2,973 250.76% 54.47%
+2022 0.23202% 2 ,418 2,604 92.87% 78.26%
+2021 0.21535% 6 ,775 2,426 279.27% 48.91%
+2020 0.23548% 2 ,760 2,443 112.98% 71.66%
+2019 0.23697% 4 ,000 2,510 159.36% 62.80%
+2018 0.24299% 3 ,906 2,481 157.44% 61.98%
+2017 0.23284% 2 ,269 2,346 96.72% 70.46%
+2016 0.24345% 1 ,655 2,169 76.30% 77.15%
+North Dakota Public Employees Retirement System
+Schedule of Employer Contributions - Pension
+Last 10 Fiscal Years
+Contributions in Contributions as a
+Statutorily relation to the Contribution Employer’s percentage of
+required statutorily required deficiency covered- covered-employee
+contribution contribution (excess) employee payroll payroll
+2025 $ 3 32 $ (332) $ - $ 3,940 8.43%
+2024 295 (295) - 3,714 7.95%
+2023 242 (242) - 3,281 7.38%
+2022 218 (218) - 2,973 7.33%
+2021 188 (188) - 2,604 7.22%
+2020 173 (173) - 2,426 7.13%
+2019 174 (174) - 2,443 7.12%
+2018 179 (179) - 2,510 7.13%
+2017 180 (180) - 2,474 7.28%
+2016 170 (170) - 2,314 7.35%
+See Note to the Required Supplementary Information
+- 58 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+REQUIRED SUPPLEMENTARY INFORMATION - CONTINUED
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+North Dakota Public Employees Retirement System
+Schedule of Employer’s Share of Net OPEB Liability
+Last 10 Fiscal Years*
+Employer’s Employer’s proportionate Plan fiduciary
+Employer’s proportionate Employer’s share of the net OPEB net position as a
+proportion of share of the covered- liability (asset) as a percentage of
+the net OPEB net OPEB employee percentage of its covered- the total OPEB
+liability (asset) liability (asset) payroll employee payroll liability
+2025 0.236005% $ 2 04 $ 2,447 8.33% 68.35%
+2024 0.244396% 244 2,457 9.95% 62.74%
+2023 0.246500% 296 2,576 11.49% 56.28%
+2022 0.229916% 128 2,520 5.07% 76.63%
+2021 0.211870% 178 2,415 7.37% 63.38%
+2020 0.235151% 189 2,618 7.22% 63.13%
+2019 0.241393% 190 2,661 7.15% 61.89%
+2018 0.241038% 191 2,608 7.31% 58.78%
+North Dakota Public Employees Retirement System
+Schedule of Employer Contributions - OPEB
+Last 10 Fiscal Years*
+Contributions in Employer’s Contributions as a
+Statutorily relation to the Contribution covered- percentage of
+required statutorily required deficiency employee covered-employee
+contribution contribution (excess) payroll payroll
+2025 $ 32 $ (32) $ - $ 2,768 1.14%
+2024 31 (31) - 2,727 1.14%
+2023 30 (30) - 2,643 1.14%
+2022 29 (29) - 2,576 1.14%
+2021 29 (29) - 2,520 1.15%
+2020 29 (29) - 2,580 1.12%
+2019 30 (30) - 2,618 1.15%
+2018 30 (30) - 2,661 1.13%
+*Complete data for these schedules is not available prior to 2018.
+See Note to the Required Supplementary Information
+- 59 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+NOTE TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025 AND 2024
+(In Thousands)
+NOTE 1 CHANGE OF BENEFIT TERMS AND ASSUMPTIONS
+NDPERS Pension Plan
+Change of Benefit Terms
+In 2023, House Bill 1040 was passed, which closes the Main System to employees newly
+enrolled into the system on January 1, 2025 and later. The state employer contribution for 2026
+and later was changed to be the amount sufficient to fund the Main System on actuarial basis,
+with the amortization of the unfunded liability determined on a level percent of payroll basis over
+a closed period beginning on January 1, 2026 and ending June 30, 2056.
+Changes of Assumptions.
+All actuarial assumptions used in the actuarial valuation as of July 1, 2024 were based on an
+experience review for the period from July 1, 2014 to July 1, 2019, and were adopted for first
+use commencing with the actuarial valuation as of July 1, 2020. There have been no changes in
+actuarial assumptions since the previous actuarial valuation as of July 1, 2023.
+NDPERS OPEB
+Changes of Benefit Terms
+Beginning January 1, 2020, members first enrolled in the NDPERS Main System and the
+Defined Contribution Plan on or after that date will not be eligible to participate in RHIC.
+Therefore, RHIC will become for the most part a closed plan. There have been no other
+changes in plan provisions since the previous actuarial valuation as of July 1, 2023.
+Changes of Assumptions.
+All actuarial assumptions used in the actuarial valuation as of July 1, 2024 were based on an
+experience review for the period from July 1, 2014 to July 1, 2019, and were adopted for first
+use commencing with the actuarial valuation as of July 1, 2020. There have been no changes in
+actuarial assumptions since the previous actuarial valuation as of July 1, 2023.
+- 60 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF NET POSITION
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Total
+Operating 1994 General 2009 General Homeownership
+Funds Resolution Resolution Bond Funds Total Elimination 2025 2024
+ASSETS
+CURRENT ASSETS - UNRESTRICTED
+Cash and cash equivalents $ 19,731 $ - $ - $ - $ 19,731 $ - $ 19,731 $ 16,135
+Due from State Agencies 2 94 - - - 294 - 294 331
+Receivables
+Interest
+Loans 1 - - - 1 - 1 1
+Investments 29 - - - 29 - 29 31
+Due from HUD 3 75 - - - 375 - 375 438
+Other 4,603 - - - 4,603 (3,765) 8 38 1,616
+Current portion of service release premium 1,468 - - - 1,468 - 1,468 1,272
+Prepaid expenses 79 31 - 31 110 - 110 104
+Total unrestricted current assets 26,580 31 - 31 26,611 (3,765) 22,846 1 9,928
+CURRENT ASSETS - RESTRICTED
+Cash and cash equivalents 24,012 472,706 4,841 477,547 501,559 - 501,559 271,866
+Receivables
+Current portion of loans receivable, net of allowance 25 44,544 2,036 4 6,580 46,605 - 46,605 4 0,820
+Interest
+Loans - 8,809 179 8,988 8,988 - 8,988 6,827
+Investments - 2,343 26 2,369 2,369 - 2,369 2,083
+Other - 6,929 1,168 8,097 8,097 (7,950) 1 47 -
+Total restricted current assets 24,037 535,331 8,250 543,581 567,618 (7,950) 559,668 321,596
+Total current assets 50,617 535,362 8,250 543,612 594,229 (11,715) 582,514 341,524
+NONCURRENT ASSETS - UNRESTRICTED
+Service release premium, net 9,547 - - - 9,547 - 9,547 8,476
+Equipment, net 75 - - - 75 - 75 96
+Leased asset, net - - - - - - - 220
+Total unrestricted noncurrent assets 9,622 - - - 9,622 - 9,622 8,792
+NONCURRENT ASSETS - RESTRICTED
+Loans receivable, net of current portion, net of allowance 1 81 2,130,564 4 6,918 2,177,482 2,177,663 - 2,177,663 1,851,688
+Investments - 45,953 3,200 4 9,153 49,153 - 49,153 5 3,837
+Total restricted noncurrent assets 1 81 2,176,517 5 0,118 2,226,635 2,226,816 - 2,226,816 1,905,525
+Total noncurrent assets 9,803 2,176,517 5 0,118 2,226,635 2,236,438 - 2,236,438 1,914,317
+Total assets 60,420 2,711,879 5 8,368 2,770,247 2,830,667 (11,715) 2,818,952 2,255,841
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred outflow - pension 1,981 - - - 1,981 - 1,981 3,713
+Deferred outflow - OPEB 72 - - - 72 - 72 116
+Total deferred outflows of resources 2,053 - - - 2,053 - 2,053 3,829
+- 61 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF NET POSITION - CONTINUED
+JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Homeownership Total
+Operating 1994 General 2009 General Bond
+Funds Resolution Resolution Funds Total Elimination 2025 2024
+LIABILITIES
+CURRENT LIABILITIES
+Due to HUD $ 2 3 $ - $ - $ - $ 23 $ - $ 23 $ 13
+Due to State Agencies 5 71 - - - 571 - 571 519
+Other 4,943 7,474 24 7,498 12,441 (11,715) 7 26 2,017
+Current portion of compensated absences 1 21 - - - 121 - 121 380
+Current portion of bonds payable, net of premium - 70,685 3,115 7 3,800 73,800 - 73,800 6 5,667
+Accrued interest - 42,810 486 43,296 43,296 - 43,296 3 2,765
+Funds held in trust 23,888 - - - 23,888 - 23,888 2 0,148
+Total current liabilities 29,546 120,969 3,625 124,594 154,140 (11,715) 142,425 121,509
+NONCURRENT LIABILITIES
+Rebate due to IRS - 84 - 84 84 - 84 -
+Net pension liability 4,848 - - - 4,848 - 4,848 4,972
+Net OPEB liability 2 04 - - - 204 - 204 244
+Financial derivative instrument - (16,316) - (16,316) (16,316) - (16,316) ( 20,762)
+Compensated absences, net of current portion 3 61 - - - 361 - 361 -
+Bonds payable, net of current portion and premium - 2,359,611 3 0,383 2,389,994 2,389,994 - 2,389,994 1,872,601
+Total noncurrent liabilities 5,413 2,343,379 3 0,383 2,373,762 2,379,175 - 2,379,175 1,857,055
+Total liabilities 34,959 2,464,348 3 4,008 2,498,356 2,533,315 (11,715) 2,521,600 1,978,564
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflow - pension 2,254 - - - 2,254 - 2,254 3,864
+Deferred inflow - OPEB 30 - - - 30 - 30 30
+Financial derivative instrument - 16,316 - 16,316 16,316 - 16,316 2 0,762
+Total deferred inflows of resources 2,284 16,316 - 16,316 18,600 - 18,600 2 4,656
+NET POSITION
+Invested in capital assets 75 - - - 75 - 75 92
+Restricted for debt service - 231,215 24,360 255,575 255,575 - 255,575 235,456
+Unrestricted 25,155 - - - 25,155 - 25,155 2 0,902
+Total net position $ 25,230 $ 231,215 $ 24,360 $ 255,575 $ 280,805 $ - $ 280,805 $ 256,450
+- 62 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Total
+Operating 1994 General 2009 General Homeownership
+Funds Resolution Resolution Bond Funds Total Elimination 2025 2024
+OPERATING REVENUES
+Mortgage interest income $ 1 2 $ 81,790 $ 1 ,841 $ 83,631 $ 83,643 $ - $ 83,643 $ 63,706
+Investment income - 25,849 256 26,105 26,105 - 26,105 2 1,152
+Gain (loss) on sale of investments - - - - - - - ( 9)
+Fee income 14,519 - - - 14,519 (9,359) 5,160 4,602
+Total revenues 14,531 107,639 2,097 109,736 124,267 (9,359) 114,908 8 9,451
+OPERATING EXPENSES
+Interest expense 3 73,485 868 74,353 74,356 - 74,356 5 4,623
+Agency grants 1,657 - - - 1,657 - 1,657 1,413
+Administrative and operating
+expenses 9,797 15,112 229 15,341 25,138 (9,359) 15,779 1 3,662
+Pension expense 3 32 - - - 332 - 332 512
+OPEB expense 35 - - - 35 - 35 47
+Amortization 2 20 - - - 220 - 220 213
+Depreciation 33 - - - 33 - 33 33
+Total expenses 12,077 8 8,597 1,097 8 9,694 101,771 (9,359) 92,412 7 0,503
+OPERATING INCOME 2,454 19,042 1,000 2 0,042 22,496 - 22,496 1 8,948
+NONOPERATING REVENUE (EXPENSES)
+Federal grants 29,711 - - - 29,711 - 29,711 2 0,648
+Non-federal grants 1,469 - - - 1,469 - 1,469 5,060
+Investment income (loss) 4 90 - - - 490 - 490 338
+Federal grants (29,711) - - - (29,711) - (29,711) ( 20,648)
+Total nonoperating revenues (expenses) 1,959 - - - 1,959 - 1,959 5,398
+CHANGE IN ASSETS BEFORE TRANSFERS 4,413 19,042 1,000 2 0,042 24,455 - 24,455 2 4,346
+TRANSFERS
+Transfer to Industrial Commission ( 100) - - - (100) - (100) (100)
+CHANGE IN NET POSITION 4,313 1 9,042 1,000 2 0,042 24,355 - 24,355 2 4,246
+TOTAL NET POSITION, BEGINNING OF YEAR 20,994 212,096 2 3,360 235,456 256,450 - 256,450 232,204
+TRANSFER IN (OUT) (77) 77 - 77 - - - -
+TOTAL NET POSITION, END OF YEAR $ 25,230 $ 231,215 $ 24,360 $ 255,575 $ 280,805 $ - $ 280,805 $ 256,450
+- 63 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Total
+Operating 1994 General 2009 General Homeownership
+Funds Resolution Resolution Bond Funds Total Elimination 2025 2024
+OPERATING ACTIVITIES
+Receipts from customers $ 16,856 $ 432,668 $ 5,808 $ 438,476 $ 455,332 $ (2,974) $ 452,358 $ 320,618
+Proceeds from sale of loans receivable - 145 - 145 145 - 145 703
+Interfund mortgages loan purchases and sales - (461,668) - (461,668) (461,668) - (461,668) (279,531)
+Grant funds received in advance - - - - - - - -
+Payment of grants (1,583) - - - (1,583) - (1,583) (1,023)
+Payments to service providers
+State agencies (6,245) - - - (6,245) - (6,245) (6,146)
+Mortgage loan purchases - (208,683) - (208,683) (208,683) - (208,683) (270,105)
+Other 2,678 (17,927) ( 360) (18,287) (15,609) 2,974 (12,635) ( 11,000)
+Payments to employees (5,851) - - - (5,851) - (5,851) (5,378)
+Net cash provided by (used for)
+operating activities 5,855 (255,465) 5,448 (250,017) (244,162) - (244,162) (251,862)
+NONCAPITAL FINANCING
+ACTIVITIES
+Principal payments on bonds payable - (130,460) (5,205) (135,665) (135,665) - (135,665) (126,840)
+Proceeds from bond issuance - 669,204 - 669,204 669,204 - 669,204 472,107
+Interest paid on loans and bonds - (62,884) ( 935) (63,819) (63,819) - (63,819) ( 45,897)
+Proceeds from non-federal grants 1,469 - - - 1,469 - 1,469 5,060
+Proceeds from federal grants 29,711 - - - 29,711 - 29,711 2 0,648
+Payment of federal grants (29,711) - - - (29,711) - (29,711) ( 20,648)
+Transfers to Industrial Commission ( 100) - - - (100) - (100) (100)
+Net cash provided by (used for)
+noncapital financing activities 1,369 475,860 (6,140) 469,720 471,089 - 471,089 304,330
+- 64 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF CASH FLOWS - CONTINUED
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Total
+Operating 1994 General 2009 General Homeownership
+Funds Resolution Resolution Bond Funds Total Elimination 2025 2024
+CAPITAL AND RELATED
+FINANCING ACTIVITIES
+Purchase of equipment $ ( 12) $ - $ - $ - $ (12) $ - $ (12) $ (8)
+Principal payments on lease payable ( 224) - - - (224) - (224) (218)
+Interest paid on lease payable (4) - - - (4) - (4) ( 9)
+Net cash used for capital
+and related financing activities ( 240) - - - (240) - (240) (235)
+INVESTING ACTIVITIES
+Purchase of investments - - (496) (496) (496) - (496) -
+Proceeds from sale of investments - 6,683 - 6,683 6,683 - 6,683 5,843
+Interest received from investments 4 15 - - - 415 - 415 470
+Net cash provided by (used for)
+investing activities 4 15 6,683 ( 496) 6,187 6,602 - 6,602 6,313
+NET CHANGE IN CASH
+AND CASH EQUIVALENTS 7,399 227,078 (1,188) 225,890 233,289 - 233,289 5 8,546
+CASH AND CASH EQUIVALENTS
+AT BEGINNING OF YEAR 36,344 245,628 6,029 251,657 288,001 - 288,001 229,455
+CASH AND CASH EQUIVALENTS
+AT END OF YEAR $ 43,743 $ 472,706 $ 4,841 $ 477,547 $ 521,290 $ - $ 521,290 $ 288,001
+Cash and Cash Equivalents - Unrestricted $ 19,731 $ - $ - $ - $ 19,731 $ - $ 19,731 $ 16,135
+Cash and Cash Equivalents - Restricted 24,012 472,706 4,841 477,547 501,559 - 501,559 271,866
+$ 43,743 $ 472,706 $ 4,841 $ 477,547 $ 521,290 $ - $ 521,290 $ 288,001
+- 65 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+COMBINING STATEMENTS OF CASH FLOWS - CONTINUED
+FOR THE YEARS ENDED JUNE 30, 2025 AND 2024
+(In Thousands)
+Agency Homeownership Bond Funds Total
+Operating 1994 General 2009 General Homeownership
+Funds Resolution Resolution Bond Funds Total Elimination 2025 2024
+RECONCILIATION OF OPERATING INCOME
+(LOSS) TO NET CASH PROVIDED
+BY (USED FOR) OPERATING ACTIVITIES
+Operating income (loss) $ 2,454 $ 19,042 $ 1,000 $ 20,042 $ 22,496 $ - $ 22,496 $ 18,948
+Adjustments to reconcile operating income
+to net cash from operating activities:
+Depreciation 33 - - - 33 - 33 33
+Amortization
+Original issue discounts and premiums - (7,876) ( 137) (8,013) (8,013) - (8,013) (7,375)
+Service release premiums 2,062 - - - 2,062 - 2,062 1,658
+Leased assets 2 20 - - - 220 - 220 213
+(Increase) decrease in fair value of investments - (1,444) 16 (1,428) (1,428) - (1,428) 694
+Reclassification of interest
+expense to other activities 3 73,188 8 78 74,066 74,069 - 74,069 5 3,939
+Effect on cash flows due to changes in:
+Deferred outflow - pension 1,732 - - - 1,732 - 1,732 1,853
+Deferred outflow - OPEB 44 - - - 44 - 44 50
+Deferred inflows - pension (1,610) - - - (1,610) - (1,610) 848
+Deferred inflows - OPEB - - - - - - - 17
+Effect on cash flows due to changes in:
+Due from HUD 63 - - - 63 - 63 406
+Due from State Agencies 37 - - - 37 - 37 (331)
+Service release premium (3,329) - - - (3,329) - (3,329) (2,959)
+Other receivables 3 39 (4,939) (1,154) (6,093) (5,754) 6,385 6 31 6
+Prepaid expenses (4) (1) - ( 1) (5) - (5) ( 5)
+Loan interest receivable - (2,169) 8 (2,161) (2,161) - (2,161) (1,730)
+Loans receivable 25 (336,625) 4,840 (331,785) (331,760) - (331,760) (316,383)
+Due to HUD 10 - - - 10 - 10 (17)
+Due to State Agencies 52 - - - 52 - 52 86
+Rebate due to IRS - 84 - 84 84 - 84 -
+Other liabilities 46 5,275 (3) 5,272 5,318 (6,385) (1,067) (606)
+Compensated absences 1 02 - - - 102 - 102 4
+Funds held in trust 3,740 - - - 3,740 - 3,740 1,324
+Net pension liability ( 164) - - - (164) - (164) (2,535)
+Net cash provided by (used for)
+operating activities $ 5,855 $ (255,465) $ 5,448 $ (250,017) $ (244,162) $ - $ (244,162) $ (251,862)
+Non-cash disclosures:
+Increase (decrease) in fair value of investments $ 7 7 $ 1,444 $ ( 17) $ 1 ,427 $ 1,504 $ - $ 1,504 $ (775)
+- 66 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+HOUSING AND URBAN DEVELOPMENT -
+SECTION 8 FINANCIAL DATA SCHEDULE
+FOR THE YEAR ENDED JUNE 30, 2025
+Lower Income Lower Income Lower Income Lower Income Lower Income
+Rent Housing Assistance Housing Assistance Housing Assistance Housing Assistance Housing Assistance
+Supplements - Program_Section 8 Program_Section 8 Program_Section 8 Program_Section 8 Program_Section 8
+Rental Housing Moderate Moderate Moderate Moderate Moderate
+for Lower Income Rehabilitate Rehabilitat Rehabilitat Rehabilitat Rehabilitat
+Line Item # Description Families ND901MR0001 ND901MR0004 ND901MR0005 ND901MR0006 ND901MR0008
+Assets
+111 Cash - Unrestricted 1 ,027,435 107,171 39,006 52,286 153,339 31,878
+113 Cash - Other Restricted 16 - - - - -
+115 Cash - Restricted for payment of current liability - 2,667 7,488 4,596 3,726 4,771
+100 Total Cash 1 ,027,451 109,838 46,494 56,882 157,065 36,649
+122 Accounts Receivable - HUD Other Projects 165,707 - - - - -
+125 Accounts Receivable - Miscellaneous - - - - - -
+126.1 Allowance for Doubtful Accounts - Dwelling Rents - - - - - -
+126.2 Allowance for Doubtful Accounts - Other - - - - - -
+120 Total Receivables, net of allowances for 165,707 - - - - -
+142 Prepaid Expenses and Other Assets 13,892 - - - - -
+150 Total Current Assets 1 ,207,050 109,838 46,494 56,882 157,065 36,649
+Total Fixed Assets, Net of Accumulated
+160 Depreciation - - - - - -
+180 Total Non-Current Assets - - - - - -
+190/290 Total Assets 1 ,207,050 109,838 46,494 56,882 157,065 36,649
+Liabilities and Equity
+311 Bank Overdraft - - - - - -
+312 Accounts Payable <= 90 Days 43,701 8 29 718 939 1,381 -
+331 Accounts Payable - HUD PHA Programs 16 2,667 7,488 4,596 3,726 4,771
+310 Total Current Liabilities 43,717 3,496 8,206 5,535 5,107 4,771
+350 Total Noncurrent Liabilities - - - - - -
+300 Total Liabilities 43,717 3,496 8,206 5,535 5,107 4,771
+508 Total Contributed Capital - - - - - -
+508.4 Net Investment in Capital Assets - - - - - -
+509.2 Fund Balance Reserved - - - - - -
+511.4 Restricted Net Position 16 2,667 7,488 4,596 3,726 4,771
+512.4 Unrestricted Net Position 1 ,163,317 103,675 30,800 46,751 148,232 27,107
+513 Total Equity/Net Assets 1 ,163,333 106,342 38,288 51,347 151,958 31,878
+600 Total Liabilities and Equity/Net Assets 1,207,050 109,838 46,494 56,882 157,065 36,649
+- 67 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+HOUSING AND URBAN DEVELOPMENT -
+SECTION 8 FINANCIAL DATA SCHEDULE - CONTINUED
+FOR THE YEAR ENDED JUNE 30, 2025
+Revenue
+70500 Total Tenant Revenue - - - - - -
+70600 HUD PHA Operating Grants 14,881,670 94,102 73,365 119,057 80,489 -
+71100 Investment Income - Unrestricted - - - - - -
+72000 Investment Income - Restricted 1,724 1 1 1 2 -
+700 Total Revenue 14,883,394 94,103 73,366 119,058 80,491 -
+Expenses
+91100 Administrative Salaries 317,458 5,560 4,818 6,301 9,266 -
+91200 Auditing Fees 13,644 1 30 113 147 217 -
+91500 Employee Benefit Contribution - Administrative 159,981 2,790 2,418 3,162 4,650 -
+91600 Office Expense 33,976 6 36 551 721 1,060 -
+91800 Travel 13,912 10 9 11 17 -
+91900 Other 116,734 2,004 1,736 2,271 3,339 -
+96900/91000 Total Operating Expenses 655,705 11,130 9,645 12,613 18,549 -
+Excess Operating Revenue over Operating
+97000 Expenses 14,227,689 82,973 63,721 106,445 61,942 -
+97300 Housing Assistance Payments 14,068,515 77,817 59,251 100,601 53,347 -
+90000 Total Expenses 14,724,220 88,947 68,896 113,214 71,896 -
+10100 Total Other Financing Sources (Uses) - - - - - -
+Excess (Deficiency) of Operating Revenue
+10000 Over (Under) Expenses 159,174 5,156 4,470 5,844 8,595 -
+Memo Account Information
+11020 Debt Principal Payments - Enterprise Funds - - - - - -
+11030 Beginning Equity 1 ,004,159 101,186 33,818 45,503 143,363 31,878
+Prior Period Adjustments, Equity Transfers and
+11040 Correction of Errors - - - - - -
+Maximum Annual Contributions Commitment (per
+11130 ACC) 15,210,903 102,972 78,178 111,590 105,320 -
+Prorate Maximum Annual Contributions Applicable
+11140 to a Period of less than Twelve Months - - - - - -
+11150 Contingency Reserve, ACC Program Reserve 2 ,017,023 85,500 12,586 28,743 66,506 36,622
+11160 Total Annual Contributions Available 17,227,926 188,472 90,764 140,333 171,826 36,622
+11190/11200 Unit Months Available 30,371 1 80 156 204 300 -
+11210 Number of Unit Months Leased 30,371 1 68 133 200 249 -
+- 68 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+ADJUSTED NET WORTH CALCULATION
+FOR THE YEAR ENDED JUNE 30, 2025
+(In Thousands)
+A. Adjusted net worth calculation
+Stockholder's equity per statement of financial
+condition at end of reporting period $ 280,805
+Less:
+Itemized unacceptable assets
+1. Due from state agencies $ (294)
+2. $ -
+3. $ -
+Total unacceptable assets $ (294)
+Adjusted net worth $ 280,511
+B. Required net worth calculation
+Unpaid principal balance of securities outstanding
+(Note: number of pools = 40) $ 126,741
+Plus:
+Outstanding balance of commitment authority
+issued and requested $ -
+Total outstanding portfolio and authority $ 126,741
+Required net worth $ 2,944
+C.Excess (deficit) net worth
+(Adjusted net worth - required net worth) $ 277,567
+- 69 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+INSURANCE COVERAGE SCHEDULE
+FOR THE YEAR ENDED JUNE 30, 2025
+(In Thousands)
+A. Identification of affiliated Ginnie Mae issuers
+Affiliated Ginnie Mae issuers
+(Issuer name and Ginnie Mae issuer identification code) None
+Affiliated issuers on same insurance policies
+(Issuer name and Ginnie Mae issuer identification number) None
+B. Required insurance calculation
+Servicing portfolio
+Ginnie Mae $ 126,741
+Conventional (other) 2,098,355
+Total servicing portfolio $ 2,225,096
+Required fidelity bond coverage 2,750
+Required mortgage servicing errors and omissions coverage 2,750
+C. Verification of insurance coverage
+Fidelity bond coverage at end of reporting period 3,000
+Mortgage servicing errors and omissions coverage at end
+of reporting period 3,750
+D. Excess (deficit) insurance coverage
+Fidelity bond coverage 250
+Required servicing errors and omissions coverage 1,000
+E. Ginnie Mae loss payable endorsement
+Fidelity bond coverage Yes
+Mortgage servicing errors and omissions coverage Yes
+- 70 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+CAPITAL REQUIREMENT CALCULATION
+FOR THE YEAR ENDED JUNE 30, 2025
+(In Thousands)
+A. Capital requirement for depository institutions
+Tier 1 capital $ -
+Total capital $ -
+Risk-based assets $ -
+Total assets $ -
+Tier 1 capital / total assets - %
+Tier 1 capital / risk-based assets - %
+Total capital / risk-based assets - %
+Meets
+5% of tier 1 capital / total assets $ - N/A
+6% of tier 1 capital / risk-based assets $ - N/A
+10% of total capital / risk-based assets $ - N/A
+B. Capital requirement for nondepository institutions
+Total adjusted net worth $ 280,511
+Total assets $ 2,818,952
+Meets
+Total adjusted net worth / total assets 9.95% Yes
+- 71 -
+NORTH DAKOTA HOUSING FINANCE AGENCY
+LIQUID ASSET REQUIREMENT CALCULATION
+FOR THE YEAR ENDED JUNE 30, 2025
+(In Thousands)
+A. Liquid asset calculation
+Required net worth (from adjusted
+net worth calculation, page 69) $ 2 ,944
+Acceptable liquid assets
+1. Cash and cash equivalents $ 19,731
+Total liquid assets $ 1 9,731
+B. Required liquid asset
+Meets
+Requirement?
+Excess (deficit) liquid
+(Total liquid assets / required net worth) 670% Yes
+- 72 -
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER FINANCIAL
+REPORTING AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT OF
+FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH
+GOVERNMENT AUDITING STANDARDS
+Go vernor Kelly Armstrong
+The Legislative Assembly
+State of North Dakota
+Bismarck, North Dakota
+We have audited, in accordance with the auditing standards generally accepted in the United
+Sta tes of America and the standards applicable to financial audits contained in Government
+Aud iting Standards issued by the Comptroller General of the United States, the business-type
+act ivities of the North Dakota Housing Finance Agency, a department of the State of North
+Da kota, as of and for the year ended June 30, 2025, and the related notes to the financial
+sta tements, which collectively comprise the North Dakota Housing Finance Agency’s basic
+financial statements, and have issued our report thereon dated November 24, 2025.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered North Dakota
+Ho using Finance Agency’s internal control over financial reporting (internal control) as a basis
+for designing audit procedures that are appropriate in the circumstances for the purpose of
+exp ressing our opinion on the financial statements, but not for the purpose of expressing an
+opi nion on the effectiveness of North Dakota Housing Finance Agency’s internal control.
+Acc ordingly, we do not express an opinion on the effectiveness of North Dakota Housing
+Finance Agency’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to
+prevent, or detect and correct, misstatements on a timely basis. A material weakness is a
+def iciency, or a combination of deficiencies, in internal control, such that there is a reasonable
+pos sibility that a material misstatement of the entity’s financial statements will not be prevented,
+or detected and corrected, on a timely basis. A significant deficiency is a deficiency, or a
+com bination of deficiencies, in internal control that is less severe than a material weakness, yet
+imp ortant enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph
+of this section and was not designed to identify all deficiencies in internal control that might be
+material weaknesses or, significant deficiencies. Given these limitations, during our audit we did
+not identify any deficiencies in internal control that we consider to be material weaknesses.
+Ho wever, material weaknesses or significant deficiencies may exist that were not identified.
+- 73 -
+Make Every Day Count | www.bradymartz.com
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether North Dakota Housing Finance
+Agency’s financial statements are free from material misstatement, we performed tests of its
+compliance with certain provisions of laws, regulations, contracts, and grant agreements,
+noncompliance with which could have a direct and material effect on the financial statements.
+However, providing an opinion on compliance with those provisions was not an objective of our
+audit, and accordingly, we do not express such an opinion. The results of our tests disclosed no
+instances of noncompliance or other matters that are required to be reported under Government
+Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of
+the entity’s internal control or on compliance. This report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the North Dakota
+Housing Finance Agency’s internal control and compliance. Accordingly, this communication is
+not suitable for any other purpose.
+BRADY MARTZ
+BISMARCK, NORTH DAKOTA
+November 24, 2025
+- 74 -
+Make Every Day Count www.bradymartz.com
+SUMMARY OF NORTH DAKOTA
+HOUSING FINANCE AGENCY AUDIT
+FOR FISCAL YEAR ENDED JUNE 30, 2025
+PREPARED BY BRADY MARTZ
+November 24, 2025
+Purpose of the audit: To determine the financial statements are free from material
+misstatement.
+Type of Opinion: Unmodified
+Summary of findings/recommendations: There was one compliance funding noted, see page
+82 for further details.
+Explanations of significant audit adjustments and corrected or uncorrected
+misstatements:
+1. The following material misstatements were identified as a result of the audit procedures
+performed, which were corrected by management:
+a. None
+2. The following uncorrected misstatements were identified as a result of the audit
+procedures performed, which were determined by management to be immaterial both
+individually and in the aggregate:
+a. None
+Disagreements with management or difficulties encountered in performing the audit:
+None
+Other items to highlight in the report: None
+Cost of the audit:
+Current audit $63,782
+Prior audit $55,375
+- 75 -
+November 24, 2025
+Go vernor Kelly Armstrong
+The Legislative Assembly
+Sta te of North Dakota
+Bis marck, North Dakota
+We have audited the financial statements of the business-type activities of North Dakota
+Housing Finance Agency, a department of the State of North Dakota, for the year ended June
+30, 2025. Professional standards require that we provide you with information about our
+responsibilities under generally accepted auditing standards and Government Auditing
+Sta ndards and the Uniform Guidance, as well as certain information related to the planned
+sco pe and timing of our audit. We have communicated such information in our letter to you
+dat ed June 6, 2025. Professional standards also require that we communicate to you the
+foll owing information related to our audit.
+Significant Audit Matters
+Qualitative Aspects of Accounting Practices
+Management is responsible for the selection and use of appropriate accounting policies. The
+sig nificant accounting policies used by North Dakota Housing Finance Agency are described in
+No te 1 to the financial statements. As described in Note 1, the Agency changed accounting
+pol icies related to compensated absences by adopting GASB Statement No. 101, Compensated
+Abs ences, during the current year. We noted no transactions entered into by the governmental
+uni t during the year for which there is a lack of authoritative guidance or consensus. All
+significant transactions have been recognized in the financial statements in the proper period.
+Accounting estimates are an integral part of the financial statements prepared by management
+and are based on management’s knowledge and experience about past and current events and
+assumptions about future events. Certain accounting estimates are particularly sensitive
+bec ause of their significance to the financial statements and because of the possibility that
+futu re events affecting them may differ significantly from those expected. The most sensitive
+est imates affecting the financial statements were:
+Fair value of investments – Management’s estimate of investments is based on the
+exchange value of investments between two willing parties. We evaluated the key
+factors and assumptions used to develop the fair value of investments in determining
+that it is reasonable in relation to the financial statements taken as a whole.
+- 76 -
+Make Every Day Count | www.bradymartz.com
+Fair value of financial derivative instruments – Management’s estimate of the fair value
+of financial derivative instruments is based on the zero-coupon method and the
+discounted cash flow method. We evaluated the key factors and assumptions used to
+develop the fair value of the instruments in determining that they are reasonable in
+relation to the financial statements taken as a whole.
+Compensated absences – Management’s estimate of compensated absences is based
+on the days-used approach and the LIFO approach. We evaluated the key factors and
+assumptions used to determine future compensated absences in determining that they
+are reasonable in relation to the financial statements taken as a whole.
+Net pension liability – Management’s estimate of its actuarially calculated pension
+liability is based on several factors including but not limited to, anticipated investment
+return rate, retirement age for active employees, life expectancy, salary increase, and
+form of annuity payment upon retirement. We evaluated the key factors and
+assumptions used to determine future liabilities in determining that they are reasonable
+in relation to the financial statements taken as a whole.
+Net OPEB liability – Management’s estimate of its actuarially calculated OPEB liability is
+based on several factors including but not limited to, anticipated investment return rate,
+retirement age for active employees, and life expectancy. We evaluated the key factors
+and assumptions used to determine future liabilities in determining that they are
+reasonable in relation to the financial statements taken as a whole.
+The financial statement disclosures are neutral, consistent, and clear.
+Difficulties Encountered in Performing the Audit
+We encountered no significant difficulties in dealing with management in performing and
+completing our audit.
+Corrected and Uncorrected Misstatements
+Professional standards require us to accumulate all known and likely misstatements identified
+during the audit, other than those that are clearly trivial, and communicate them to the
+appropriate level of management. There were no such misstatements noted.
+Disagreements with Management
+For purposes of this letter, a disagreement with management is a financial accounting,
+reporting, or auditing matter, whether or not resolved to our satisfaction, that could be significant
+to the financial statements or the auditor’s report. We are pleased to report that no such
+disagreements arose during the course of our audit.
+Management Representations
+We have requested certain representations from management that are included in the
+management representation letter dated November 24, 2025.
+- 77 -
+Make Every Day Count www.bradymartz.com
+Management Consultations with Other Independent Accountants
+In some cases, management may decide to consult with other accountants about auditing and
+accounting matters, similar to obtaining a “second opinion” on certain situations. If a
+consultation involves application of an accounting principle to the governmental unit’s financial
+statements or a determination of the type of auditor’s opinion that may be expressed on those
+statements, our professional standards require the consulting accountant to check with us to
+determine that the consultant has all the relevant facts. To our knowledge, there were no such
+consultations with other accountants.
+Other Audit Findings or Issues
+We generally discuss a variety of matters, including the application of accounting principles and
+auditing standards, with management each year prior to retention as the governmental unit’s
+auditors. However, these discussions occurred in the normal course of our professional
+relationship and our responses were not a condition to our retention.
+Other Matters
+We applied certain limited procedures to the management’s discussion and analysis, schedule
+of employer’s share of net pension liability, schedule of employer contributions – pension,
+employer’s share of net OPEB liability, schedule of employer contributions – OPEB and notes to
+the required supplementary information, which are required supplementary information (RSI)
+that supplements the basic financial statements. Our procedures consisted of inquiries of
+management regarding the methods of preparing the information and comparing the information
+for consistency with management’s responses to our inquiries, the basic financial statements,
+and other knowledge we obtained during our audit of the basic financial statements. We did not
+audit the RSI and do not express an opinion or provide any assurance on the RSI.
+We were engaged to report on the combining statement of net position, combining statement of
+revenues, expenses and changes in fund net position, combining statement of cash flows,
+Housing and Urban Development – Section 8 Financial Data Schedule, adjusted net worth
+calculation, insurance coverage schedule, capital requirement calculation and liquid asset
+requirement calculation, which accompany the financial statements but are not RSI. With
+respect to the supplementary information accompanying the financial statements, we made
+certain inquiries of management and evaluated the form, content, and methods of preparing the
+information to determine that the information complies with accounting principles generally
+accepted in the United States of America, the method of preparing it has not changed from the
+prior period, and the information is appropriate and complete in relation to our audit of the
+financial statements. We compared and reconciled the supplementary information to the
+underlying accounting records used to prepare the financial statements or to the financial
+statements themselves.
+- 78 -
+Make Every Day Count www.bradymartz.com
+Restriction on Use
+This information is intended solely for the use of the North Dakota Industrial Commission,
+Legislative Audit and Fiscal Review Committee, Advisory Board and management of the North
+Dakota Housing Finance Agency and is not intended to be and should not be used by anyone
+other than these specified parties.
+Very truly yours,
+BRADY MARTZ
+BISMARCK, NORTH DAKOTA
+- 79 -
+Make Every Day Count www.bradymartz.com

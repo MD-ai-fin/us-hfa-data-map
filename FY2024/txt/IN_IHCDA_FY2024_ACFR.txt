@@ -1,0 +1,2607 @@
+A COMPONENT UNIT OF THE STATE OF INDIANA
+
+                 FINANCIAL STATEMENTS
+                                AND
+
+         INDEPENDENT AUDITOR'S REPORT
+
+                      December 31, 2024
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Contents
+December 31, 2024
+
+    Independent Auditor's Report....................................................................................................................... 1
+    Management's Discussion and Analysis (Unaudited)................................................................................ 4
+    Financial Statements
+
+            Statement of Net Position........................................................................................................................ 12
+            Statement of Revenues, Expenses and Changes in Net Position .......................................................... 14
+            Statements of Cash Flows ...................................................................................................................... 15
+            Notes to Financial Statements ................................................................................................................ 17
+    Required Supplementary Information
+            Schedule of the Authority's Proportionate Share of the Net Pension Liability ........................................ 45
+            Consolidating Schedule - Statements of Income Information ................................................................ 46
+    Supplementary Information
+            Combining Schedule of Net Position....................................................................................................... 47
+            Combining Schedule of Revenues, Expenses and Changes in Net Position ......................................... 48
+            Combining Schedule of Cash Flows ....................................................................................................... 49
+         Independent Auditor's Report
+
+          Board of Directors
+          Indiana Housing and Community Development Authority
+          Indianapolis, Indiana
+
+         Report on the Audit of the Financial Statements
+
+         Opinion
+
+          We have audited the financial statements of the Indiana Housing and Community Development Authority
+          (Authority), a component unit of the State of Indiana, as of and for the year ended December 31, 2024, and
+          the related notes to the financial statements, which collectively comprise the Authority's basic financial
+          statements as listed in the table of contents.
+
+          In our opinion, the accompanying financial statements referred to above present fairly, in all material
+          respects, the financial position of the Authority as of December 31, 2024, and the changes in financial
+          position and its cash flows for the year then ended in accordance with accounting principles generally
+          accepted in the United States of America.
+
+         Basis for Opinion
+
+          We conducted our audit in accordance with auditing standards generally accepted in the United States of
+          America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+          Standards, issued by the Comptroller General of the United States (Government Auditing Standards). Our
+          responsibilities under those standards are further described in the "Auditor's Responsibilities for the Audit
+          of the Financial Statements" section of our report. We are required to be independent of the Authority, and
+          to meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating to
+          our audit. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+          basis for our audit opinion.
+
+         Responsibilities of Management for the Financial Statements
+
+          Management is responsible for the preparation and fair presentation of the financial statements in
+          accordance with accounting principles generally accepted in the United States of America, and for the
+          design, implementation, and maintenance of internal control relevant to the preparation and fair
+          presentation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+          In preparing the financial statements, management is required to evaluate whether there are conditions or
+          events, considered in the aggregate, that raise substantial doubt about the Authority's ability to continue as
+          a going concern for 12 months beyond the financial statement date, including any currently known
+          information that may raise substantial doubt shortly thereafter.
+
+Forvis Mazars, LLP is an independent member of Forvis Mazars Global Limited
+                                                                                                                      Board of Directors
+                                                                  Indiana Housing and Community Development Authority
+
+Auditor's Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes
+our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore
+is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards
+will always detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are considered
+material if there is a substantial likelihood that, individually or in the aggregate, they would influence the
+judgment made by a reasonable user based on the financial statements.
+
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+
+      Exercise professional judgment and maintain professional skepticism throughout the audit.
+
+      Identify and assess the risks of material misstatement of the financial statements, whether due to
+          fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+          include examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+          statements.
+
+      Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+          that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+          effectiveness of the Authority's internal control. Accordingly, no such opinion is expressed.
+
+      Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+          accounting estimates made by management, as well as evaluate the overall presentation of the
+          financial statements.
+
+      Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+          that raise substantial doubt about the Authority's ability to continue as a going concern for a
+          reasonable period of time.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+
+Required Supplementary Information
+
+Accounting principles generally accepted in the United States of America require that the management's
+discussion and analysis and the schedules of the Authority's proportionate share of the net pension liability
+and the Authority's contributions as listed in the table of contents be presented to supplement the basic
+financial statements. Such information is the responsibility of management and, although not a part of the
+basic financial statements, is required by the Governmental Accounting Standards Board, who considers it
+to be an essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with GAAS, which consisted of inquiries of management about
+the methods of preparing the information and comparing the information for consistency with management's
+responses to our inquiries, the basic financial statements, and other knowledge we obtained during our
+audit of the basic financial statements. We do not express an opinion or provide any assurance on the
+information because the limited procedures do not provide us with sufficient evidence to express an opinion
+or provide any assurance.
+
+                                                                                                                                                                     2
+                                                                                                                      Board of Directors
+                                                                  Indiana Housing and Community Development Authority
+
+Supplementary Information
+
+Our audit was conducted for the purpose of forming an opinion on the financial statements that collectively
+comprise the Authority's basic financial statements. The accompanying supplementary information,
+including the combining schedule of net position, combining schedule of revenues, expenses, and changes
+in net positions and combining schedule of cash flows, as listed in the table of contents is presented for
+purposes of additional analysis and are not a required part of the basic financial statements. Such
+information is the responsibility of management and was derived from and relates directly to the underlying
+accounting and other records used to prepare the basic financial statements. The information has been
+subjected to the auditing procedures applied in the audit of the basic financial statements and certain
+additional procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the basic financial statements or to the basic financial
+statements themselves, and other additional procedures in accordance with GAAS. In our opinion, the
+supplementary information is fairly stated, in all material respects, in relation to the basic financial
+statements as a whole.
+
+Other Reporting Required by Government Auditing Standards
+
+In accordance with Government Auditing Standards, we have also issued our report dated April 15, 2025,
+on our consideration of Authority's internal control over financial reporting and on our tests of its compliance
+with certain provisions of laws, regulations, contracts and grant agreements, and other matters. The
+purpose of that report is solely to describe the scope of our testing of internal control over financial reporting
+and compliance and the results of that testing, and not to provide an opinion on the effectiveness of
+Authority's internal control over financial reporting or on compliance. That report is an integral part of an
+audit performed in accordance with Government Auditing Standards in considering Authority's internal
+control over financial reporting and compliance.
+
+Indianapolis, Indiana
+April 15, 2025
+
+                                                                                                                                                                     3
+MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Management's discussion and analysis of the Indiana Housing and Community Development Authority's (Authority)
+financial performance provides an overview of the financial activities for the year ended December 31, 2024. This
+information is being presented to provide additional information regarding the activities of the Authority. The
+management's discussion and analysis should be read in conjunction with the independent auditor's report, financial
+statements, and accompanying notes. Notes to the financial statements provide additional information that is
+essential to a full understanding of the information contained within the financial statements.
+
+Introduction - The Indiana Housing and Community Development Authority
+
+The Authority was created in 1978 as a public body corporate and politic of the State of Indiana (the State). The
+Authority is almost entirely self-supporting and does not rely upon the general taxing authority of the State. The
+Authority has been given certain powers, including the power to enter into contracts and agreements, acquire, hold,
+and convey property, and issue notes and bonds, for the purpose of financing residential housing for persons and
+families of low and moderate income. The Authority's funding comes from a variety of sources, including sales of
+its own securities to private investors, grants from the Federal government, program fees, investment interest
+earnings and interest earned on loan portfolios.
+
+The Authority's financial statements include the operations of funds the Authority has established to achieve its
+purpose. The financial transactions of the Authority are recorded in the funds that consist of a separate set of self-
+balancing accounts that comprise its assets, liabilities, deferred inflows and outflows of resources, net position,
+revenues, and expenses as appropriate. The Authority follows enterprise fund reporting. The Authority is
+considered a component unit of the State and is discretely presented in the State's financial statements.
+
+This discussion and analysis is designed to assist the reader in focusing on significant financial issues and activities
+and to identify any noteworthy changes in financial position of the Authority. Readers are encouraged to consider
+the information presented in conjunction with the financial statements, which follow this section.
+
+Overview of the Financial Statements
+
+The basic financial statements include the Statement of Net Position, the Statement of Revenues, Expenses and
+Changes in Net Position and the Statement of Cash Flows. These statements provide current and long-term
+information about the Authority and its activities.
+
+The Statement of Net Position answers the question, "How was our financial health at the end of the year?" This
+statement provides information about the financial position of the Authority at a specific date. The organization of
+the statement separates assets and liabilities into current and noncurrent balances. The statement shows the totals
+of assets, deferred outflows of resources, liabilities, deferred inflows of resources and net position using the accrual
+basis of accounting, which is like the accounting method used by most private-sector companies. Over time,
+changes in net position may serve as a useful indicator of whether the financial position of the Authority is improving
+or deteriorating.
+
+The Statement of Revenues, Expenses and Changes in Net Position accounts for all the current year's revenues
+and expenses. This statement measures the success of the Authority's operations over the past year and can be
+used to determine whether the Authority has successfully recovered all its costs through mortgages and loans,
+externally funded programs, and other revenue sources. This statement also helps answer the question "Is the
+Authority, as a whole, better, or worse as a result of the year's activities?"
+
+                                                                                                                                                                                  4
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+The primary purpose of the Statement of Cash Flows is to provide information about the Authority's cash receipts
+and cash payments during the accounting period. This statement reports cash transactions, including receipts,
+payments, and net changes resulting from operations, noncapital financing, capital financing and investing activities.
+It provides answers to such questions as "Where did the cash come from?"; "What was the cash used for?"; and
+"What was the change in cash balance during the reporting period?"
+The Notes to Financial Statements provide additional information that is essential to a full understanding of the data
+provided in the entity-wide financial statements.
+The financial statements present the activities of the Authority's General Fund, Program Fund, Single Family Fund,
+and the Mortgage-Backed Security Pass-thru Fund. See Note 1 for a complete description of each of these funds.
+
+                                                                                                                                                                                  5
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Financial Highlights
+
+The following is a comparative analysis between years for the Statements of Net Position:
+
+                                                                                 2024                 2023                Change         % Change
+
+Assets and Deferred Outflows of Resources                                     $  100,225,170       $  100,902,278      $    (677,108)         -1%
+                                                                                                                          43,938,215          10%
+  Current Assets                                                                 468,950,031          425,011,816
+     Cash and cash equivalents                                                                                                248,149         14%
+        Unrestricted                                                                2,042,486            1,794,337         3,151,571          65%
+        Restricted                                                                  7,973,513            4,821,942        (5,355,342)        -26%
+     Accrued interest receivable                                                  14,963,375           20,318,717                            120%
+        Investments                                                                                                           216,300         8%
+        Investments held against bonds                                                395,998               179,698       41,521,785
+     Accounts and loan receivable, net                                           594,550,573          553,028,788                             3%
+     Other assets                                                                                                                             46%
+           Total current assets                                                    194,379,203          189,053,470          5,325,733        23%
+                                                                                 1,716,479,236        1,178,650,657       537,828,579         28%
+  Noncurrent Assets                                                                                                                           -4%
+     Investments                                                                   223,651,604          182,461,716        41,189,888        -14%
+        Unrestricted                                                                   3,809,560           2,975,199           834,361        37%
+     Investments held against bonds                                                    1,371,459           1,423,153           (51,694)       30%
+     Accounts and loans receivable, net                                                5,812,992           6,768,209
+     Derivative instrument - interest rate swap agreements                                                                    (955,217)      -15%
+     Capital assets, at cost, less accumulated depreciation                      2,145,504,054        1,561,332,404       584,171,650        -12%
+     Lease and subscription assets, less accumulated amortization                2,740,054,627        2,114,361,192       625,693,435        -14%
+           Total noncurrent assets
+           Total assets                                                          3,008,338            3,539,610           (531,272)           30%
+                                                                                   716,171              814,340            (98,169)
+  Deferred Outflows of Resources                                                                                                              30%
+     Pension-related                                                             3,724,509            4,353,950           (629,441)           64%
+     Deferred refunding costs                                                                                                                -41%
+           Total deferred outflows of resources                               $ 2,743,779,136      $ 2,118,715,142     $  625,063,994        -53%
+                                                                                                                                              7%
+           Total assets and deferred outflows of resources                                                                                    -7%
+                                                                                                                                             -23%
+Liabilities, Deferred Inflows of Resources and Net Position                   $  29,430,000 $         22,660,000 $        6,770,000
+                                                                                                                                              50%
+  Current Liabilities                                                            40,876,345           24,895,693          15,980,652          -4%
+     Bonds payable                                                                                                                            49%
+     Accrued interest payable                                                    116,318,065          197,213,694         (80,895,629)        -5%
+     Unearned revenue                                                                                                                         18%
+     Government advances                                                         300,263              635,105             (334,842)           2%
+     Lease and subscription liability                                                                                                        -13%
+     Accounts payable and other liabilities                                      941,964              882,195             59,769             -71%
+           Total current liabilities                                                                                                          47%
+                                                                                 16,635,270           17,942,436          (1,307,166)         36%
+  Noncurrent Liabilities
+     Bonds payable                                                               204,501,907          264,229,123         (59,727,216)      -100%
+     Original issue premium                                                                                                                   28%
+        Bonds payable, net                                                       1,958,310,111        1,303,876,050       654,434,061         28%
+     Notes payable                                                                   33,274,202           34,603,018       (1,328,816)
+     Pension liability                                                                                                                       -34%
+     Government advances                                                         1,991,584,313        1,338,479,068       653,105,245         17%
+     Lease and subscription liability                                                  1,318,551           1,394,772           (76,221)       1%
+     Other non-current liabilities                                                     7,154,594           6,059,160                          6%
+           Total noncurrent liabilities                                                                                      1,095,434
+           Total liabilities                                                         31,650,393           30,969,151           681,242        30%
+                                                                                       5,874,220           6,747,853
+  Deferred Inflows of Resources                                                            35,687             121,319         (873,633)
+     Pension-related                                                                                                           (85,632)
+     Accumulated increase in fair value of derivative                            2,037,617,758        1,383,771,323
+           Total deferred inflows of resources                                   2,242,119,665        1,648,000,446       653,846,435
+                                                                                                                          594,119,219
+  Net Position
+     Net investment in capital assets                                                       -              2,125           (2,125)
+     Restricted                                                                  3,809,560            2,975,199           834,361
+     Unrestricted                                                                3,809,560            2,977,324           832,236
+           Total net position
+                                                                                      368,267               561,314         (193,047)
+           Total liabilities, deferred inflows of resources and net position     185,221,339          157,764,715         27,456,624
+                                                                                 312,260,305          309,411,343
+                                                                                 497,849,911          467,737,372          2,848,962
+                                                                                                                          30,112,539
+
+                                                                              $ 2,743,779,136      $ 2,118,715,142     $  625,063,994
+
+                                                                                                                                                   6
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Total assets and deferred outflows of resources increased by $625.1 million, or 30%, when compared to 2023.
+Total current assets increased $41.5 million while the noncurrent assets increased by $584.2 million. Total deferred
+outflow of resources decreased by $0.6 million.
+
+The overall increase in total assets was driven by an increase in Investments held against bonds of $537.8 million.
+This incorporates an increase in Single Family Fund of $541.5 million and a decrease in MBS Pass-thru Fund of
+$3.7 million. These investments represent new mortgages purchased from the proceeds of new bonds issued less
+repayments and redemptions. An additional increase in total assets is attributed to accounts and loans receivable
+in the amount of $35.8 million. This increase is due in large part to down payment assistance loans made to first
+time home buyers through the Single Family Fund.
+
+Total liabilities increased by $594.1 million, or 36%, when compared to 2023. Total deferred inflows of resources
+increased by $0.8 million and total net position increased by $30.1 million.
+
+The increase in bonds payable of $659.9 million is being driven by the $730.8 million in new bonds issued in 2024
+for the Single Family Fund, as mentioned above and detailed below, less paydowns. This is partially offset by a
+decrease of $80.9 million in unearned revenue. In 2023, the Indiana Emergency Rental Assistance (IERA)
+comprised a significant portion of the total Unearned revenue balance. During 2024, IERA recognized most of
+those dollars in the form of benefits paid to help Hoosiers stay in their homes.
+
+Total net position at December 31, 2024 and 2023 was as follows (in millions of dollars):
+
+                                                        2024                               2023
+
+Assets and deferred outflows of resources            $  2,743.8 $                          2,118.7
+Liabilities and deferred inflows of resources
+                                                        2,245.9                            1,651.0
+       Net position
+                                                     $        497.9 $                            467.7
+
+                                                                                                        7
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Operating Analysis
+
+The following is a comparative analysis between years of the Statements of Revenues, Expenses and Changes in
+Net Position:
+
+                                                2024            2023           Change         % Change
+
+Revenues                                     $  22,713,942 $    17,612,616 $   5,101,326      29%
+  Interest income                                                                             70%
+     Investments                                81,759,167      48,211,717     33,547,450     -6%
+     Investments held against bonds                                                           38%
+     Loans                                      1,379,056       1,468,257      (89,201)       -14%
+  Fee income                                                                                  -27%
+  Program income                                10,522,337      7,602,631      2,919,706      -91%
+  Sale of Next Home investments                                                               -29%
+  Net increase in fair value of investments     608,276,482     709,588,242    (101,311,760)  -9%
+  Other income
+        Total revenues                          904,843         1,240,812      (335,969)
+
+                                                1,035,984       11,989,882     (10,953,898)
+
+                                                1,506,084       2,112,507      (606,423)
+
+                                                728,097,895     799,826,664    (71,728,769)
+
+Expenses                                             239,282         412,192       (172,910)  -42%
+  Investment expense (down payment                   620,009         960,349       (340,340)  -35%
+     assistance)                                 70,961,612      42,345,533     28,616,079    68%
+  Loss on sale of investments                      6,798,300       4,898,416      1,899,884   39%
+  Interest expense                              571,385,740     658,580,346    (87,194,606)   -13%
+  Issuance costs                                      (85,632)       121,319       (206,951)  100%
+  Program expenses                               48,066,045      53,809,315      (5,743,270)  -11%
+  Arbitrage expense                             697,985,356     761,127,470    (63,142,114)    -8%
+  General and administrative expenses
+        Total expenses
+
+Change in Net Position                          30,112,539      38,699,194     (8,586,655)    -22%
+Net Position, Beginning of Year                                                38,699,194      9%
+Net Position, End of Year                       467,737,372     429,038,178    30,112,539      6%
+
+                                             $  497,849,911 $   467,737,372 $
+
+For 2024, the change in net position decreased by $8.6 million, or 22%, when compared to 2023. Total revenue
+decreased by $71.7 million, or 9%. Total expenses decreased by $63.1 million, or 8%.
+
+The decrease in total revenues is largely being driven by the decrease in program income of $101.3 million when
+compared to 2023. The Low-Income Energy Assistance Program (LIHEAP), Indiana Emergency Rental Assistance
+(IERA) and Homeowner Assistance Fund (HAF) programs have declined in program revenue when compared to
+2023. Interest income has increased by $38.6 million from 2023. This is primarily due to continued increases in
+Single Family Fund activity coupled with higher interest rates on investments and deposit balances.
+
+The decrease in total expenses is being driven primarily by program expense of $87.2 million. As mentioned above,
+there is a net decrease in activity for LIHEAP, IERA and HAF. The associated program expenses from these
+programs have also decreased. There is also a decrease in General and Administrative expenses of $5.7 million.
+This is partially offset by an increase of $28.6 million in interest expense. This increase is due to the continued
+issuance of new bonds for the Single Family Fund as discussed in further details below.
+
+                                                                                                        8
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Total operating income/change in net position for 2024 and 2023 was as follows (in millions of dollars):
+
+                                                                         2024                           2023
+
+Operating revenues, gains and losses                               $                 728.1 $                  799.8
+Operating expenses
+                                                                                     698.0                    761.1
+       Operating income/change in net position
+                                                                   $                 30.1 $                   38.7
+
+Governmental Accounting Standards Board (GASB) Statement No. 31, Accounting and Financial Reporting for
+Certain Investments and for External Investment Pools (GASB No. 31) requires the Authority's investments to be
+reported at fair value. The change in the fair value of investments is an unrealized gain or loss and has no direct
+effect on actual cash flows of the Authority. The related adjustment should be tempered with the understanding
+that the underlying assets primarily are not readily marketable due to their relationship with the bond indentures.
+The change in net position is shown both with and without the GASB No. 31 adjustment below. In the current year,
+there was a net increase of $1.0 million in the net fair value of investments held at year end. Without the GASB No.
+31 adjustment, the change in net position for 2024 was $29.1 million, resulting in a net increase in the change in
+net position of $2.4 million between years.
+
+                                                2024               2023              Change               % Change
+
+Change in net position                          $ 30,112,539       $ 38,699,194      $ (8,586,655)            -22%
+Net increase in fair value of investments               1,035,984        11,989,882       (10,953,898)        -91%
+
+       Change in net position excluding         $ 29,076,555 $ 26,709,312 $ 2,367,243                           9%
+          GASB No. 31 adjustment
+
+Financial Condition
+
+IHCDA's Board of Directors, working with IHCDA's Budget Committee, annually approves the Authority's general
+fund budget, which encompasses review, oversight, and approval of the Authority's net position, liquidity, mortgage
+portfolio performance, and unrestricted asset levels. Net position on December 31, 2024, consisted of $185.2
+million restricted by funding sources, $312.3 million unrestricted and available to meet the obligations of the
+Authority's operations, and $0.4 million net investment in capital assets. The Authority believes these balances to
+be sufficient to meet the objectives of the Board of Directors.
+
+Capital, Lease and Subscription Assets
+
+As of December 31, 2024 and 2023, the Authority had $7.2 million and $8.2 million, respectively, invested in capital,
+lease and subscription assets, primarily the building, computer software and hardware, and computer software
+subscriptions. Depreciation and amortization expense was $1.5 in 2024 and $1.4 million in 2023, respectively.
+
+                                                                                                                     9
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+
+Debt Administration
+
+Total current and noncurrent bonds payable, not including any original issue premium or discount, as of
+December 31, 2024, was $2.0 billion, which increased $661.2 million compared to $1.3 billion as of December 31,
+2023. This increase was due to the $730.8 million in mortgage revenue bond issuances in 2024, offset against the
+$69.6 million of maturities and redemptions of bonds previously issued by the Authority. The Authority has
+maintained its long-term bond rating of Aaa from Moody's Investors Services. On August 1, 2023, Fitch Ratings
+downgraded the United States of America's Long-Term Foreign-Currency Issuer Default Rating (IDR) to AA+ from
+AAA. The Rating Watch Negative was removed and a Stable Outlook assigned. Fitch sighted "erosion of
+governance", "rising general government deficits", "medium term fiscal challenges unaddressed", and other
+concerns in support of the USA downgrade. Further, Fitch went on to define the categories of debt that would be
+affected by the downgrade to include municipal housing bonds that are primarily secured by mortgage-backed
+securities issued by Ginnie Mae, Fannie Mae, and Freddie Mac. Since all IHCDA's mortgage revenue bonds are
+secured by Ginnie, Fannie, or Freddie guaranties, both the Single Family and MBS Pass Through resolutions were
+subsequently downgraded to AA+ with a Stable Outlook. The MBS Pass-thru Indenture is only rated by Fitch. More
+detailed information about the Authority's debt is presented in Note 6 to the financial statements.
+
+The following new bonds were issued during 2024 (dollars in thousands):
+
+Bond Series    Tax-Exempt  Taxable                   Total               Moody's   Fitch
+                 Amount    Amount                                         Rating  Rating
+
+2024 Series A  $ 101,250 $ 33,050 $ 134,300                              Aaa      AA+
+
+2024 Series B  90,000      109,480                   199,480             Aaa      AA+
+
+2024 Series C  99,245      98,655                    197,900             Aaa      AA+
+
+2024 Series D  100,000     99,125                    199,125             Aaa      AA+
+
+Total          $ 390,495 $ 340,310 $ 730,805
+
+Economic Factors and Other Financial Information
+
+The primary business activity of the Authority is funding the purchase of single-family home mortgages, multi-family
+development tax credits, tax exempt conduit bond financing and administering various federal programs. The
+Authority's mortgage financing activities are sensitive to the level of interest rates, the spread between the rate
+available on Authority loans, rates available in the conventional mortgage markets, the availability of affordable
+housing and the availability of private activity bond volume cap. The availability of long-term tax-exempt and taxable
+financing on favorable terms is a key element in providing the funding necessary for the Authority to continue its
+mortgage financing activities.
+
+The Authority's single-family programs and investment income are the main sources of revenues. Market interest
+rates influence both the Single-Family program and investment income revenues. If interest rates continue at
+current levels, the Authority expects single family and investment income to be stable. If interest rates rise, the
+Authority expects single family and investment income to increase as new loans are originated, and new
+investments are purchased at the higher rates. If interest rates fall, the Authority expects single family and
+investment income to decrease as new loans are originated and new investments are purchased at the lower rates.
+The Authority also expects a drop in market rates to cause an increase in prepayments on higher rate mortgages.
+The Authority uses these prepayments to call the corresponding series bonds, which lowers the rate of return on
+those bond series.
+
+                                                                                          10
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Management's Discussion and Analysis (Unaudited)
+December 31, 2024
+Contacting the Authority's Financial Management
+
+This financial report is designed to provide the citizens of Indiana, our constituents, and investors with a general
+overview of the Authority's finances and resources. If you have questions about this report or need additional
+financial information, contact the Chief Financial Officer at Indiana Housing and Community Development Authority,
+30 South Meridian Street, Suite 900, Indianapolis, IN 46204 or visit our website at www.in.gov/ihcda/.
+
+                                                                                                                                                                                11
+BASIC FINANCIAL STATEMENTS
+Indiana Housing and Community Development Authority                   2024
+(A Component Unit of the State of Indiana)
+Statement of Net Position                                    $ 100,225,170
+December 31, 2024                                                    468,950,031
+
+Assets and Deferred Outflows of Resources                               2,042,486
+                                                                        7,973,513
+   Current Assets                                                      14,963,375
+     Cash and cash equivalents
+        Unrestricted                                                       395,998
+        Restricted                                                   594,550,573
+     Accrued interest receivable
+        Investments                                                  194,379,203
+        Investments held against bonds                            1,716,479,236
+     Accounts and loans receivable, net
+     Other assets                                                    223,651,604
+          Total current assets                                          3,809,560
+                                                                        1,371,459
+   Noncurrent Assets
+     Investments                                                        5,812,992
+        Unrestricted                                              2,145,504,054
+     Investments held against bonds                               2,740,054,627
+     Accounts and loans receivable, net
+     Derivative instruments - interest rate swap agreements             3,008,338
+     Capital assets, at cost, less accumulated depreciation                716,171
+     Lease and subscription assets, less accumulated
+        amortization                                                    3,724,509
+          Total noncurrent assets
+          Total assets
+
+   Deferred Outflows of Resources
+     Pension-related
+     Deferred refunding costs
+          Total deferred outflows of resources
+
+Total assets and deferred outflows of resources              $ 2,743,779,136
+
+See Notes to Financial Statements                            12
+Indiana Housing and Community Development Authority        2024
+(A Component Unit of the State of Indiana)
+Statement of Net Position (Continued)                   $  29,430,000
+December 31, 2024
+                                                           40,876,345
+Liabilities, Deferred Inflows of Resources
+  and Net Position                                         116,318,065
+
+   Current Liabilities                                     300,263
+     Bonds payable
+     Accrued interest payable                              941,964
+     Unearned revenue
+     Government advances                                   16,635,270
+     Lease and subscription liability
+     Accounts payable and other liabilities                204,501,907
+          Total current liabilities
+                                                           1,958,310,111
+   Noncurrent Liabilities                                      33,274,202
+     Bonds payable
+     Original issue premium                                1,991,584,313
+          Bonds payable, net                                    1,318,551
+     Notes payable                                              7,154,594
+     Pension liability
+     Government advances                                       31,650,393
+     Lease and subscription liability                           5,874,220
+     Other non-current liabilities                                   35,687
+          Total noncurrent liabilities
+          Total liabilities                                2,037,617,758
+                                                           2,242,119,665
+   Deferred Inflows of Resources
+     Accumulated increase in fair value of derivatives     3,809,560
+          Total deferred outflows of resources             3,809,560
+
+   Net Position                                                 368,267
+     Net investment in capital assets
+     Restricted                                               3,542,877
+        General fund                                       151,708,237
+        Program fund
+        Single Family fund                                  29,970,225
+          Total restricted net position                    185,221,339
+     Unrestricted                                          312,260,305
+          Total net position                               497,849,911
+
+          Total liabilities, deferred inflows of        $ 2,743,779,136
+             resources and net position
+
+See Notes to Financial Statements                                13
+Indiana Housing and Community Development Authority             2024
+(A Component Unit of the State of Indiana)
+Statement of Revenues, Expenses and Changes in Net Position  $  22,713,942
+Year Ended December 31, 2024
+                                                                81,759,167
+Revenues
+   Interest income                                              1,379,056
+     Investments
+     Investments held against bonds                             10,522,337
+     Loans
+   Fee income                                                   608,276,482
+   Program income
+   Sale of Next Home investments                                904,843
+   Net increase in fair value of investments
+   Other income                                                 1,035,984
+          Total revenues
+                                                                1,506,084
+Expenses
+   Investment expense (down payment assistance)                 728,097,895
+   Loss on sale of investments
+   Interest expense                                                        239,282
+   Issuance costs                                                          620,009
+   Program expenses                                                   70,961,612
+   Arbitrage expense                                                    6,798,300
+   General and administrative expenses                               571,385,740
+          Total expenses                                                   (85,632)
+                                                                      48,066,045
+Change in Net Position                                               697,985,356
+
+Net Position, Beginning of Year                                        30,112,539
+
+Net Position, End of Year                                            467,737,372
+
+                                                             $ 497,849,911
+
+See Notes to Financial Statements                                     14
+Indiana Housing and Community Development Authority                                      2024
+(A Component Unit of the State of Indiana)
+Statement of Cash Flows                                                               $  12,226,319
+Year Ended December 31, 2024
+                                                                                         521,891,641
+Cash Flows From Operating Activities
+   Receipts for services                                                                 (1,862,541)
+   Receipts for program revenue
+   Principal issued on loans receivable                                                  22,465,793
+   Interest received on investments
+   Interest received on investments held against bonds                                   73,100,751
+   Interest received on loans
+   Payments for program expenses                                                         1,379,056
+   Interest paid on bonds and bank loans
+   Debt issuance costs incurred                                                          (611,190,628)
+   Payments for suppliers and employees
+             Net cash provided by (used in) operating activities                         (54,882,791)
+
+Cash Flows From Noncapital Financing Activities                                          (6,798,300)
+   Proceeds from bond issues
+   Repayments and redemption of bonds and bank loans                                     (6,706,930)
+             Net cash provided by (used in) noncapital financing activities
+                                                                                         (50,377,630)
+Cash Flows From Capital and Related Financing Activities
+   Purchases of capital assets                                                           734,983,030
+   Payments on lease                                                                     (69,677,161)
+             Net cash provided by (used in) capital and related financing activities     665,305,869
+
+Cash Flows From Investing Activities                                                       (373,110)
+   Proceeds from sale and maturities of investments                                        (909,937)
+   Principal received on investments held against bonds                                  (1,283,047)
+   Purchases of investments held against bonds
+   Purchase of investments                                                                114,848,029
+   Purchase of DPA loans                                                                    93,697,020
+             Net cash provided by (used in) investing activities
+                                                                                         (631,287,144)
+Net Increase in Cash and Cash Equivalents                                                (119,719,184)
+
+Cash and Cash Equivalents, January 1                                                      (27,922,806)
+                                                                                         (570,384,085)
+Cash and Cash Equivalents, December 31
+                                                                                         43,261,107
+Cash and Cash Equivalents
+   Cash                                                                                  525,914,094
+   Money market investments
+                                                                                      $  569,175,201
+             Total cash and cash equivalents
+                                                                                      $  195,824,756
+
+                                                                                         373,350,445
+
+                                                                                      $  569,175,201
+
+See Notes to Financial Statements                                                              15
+Indiana Housing and Community Development Authority                       2024
+(A Component Unit of the State of Indiana)
+Statement of Cash Flows (Continued)                                    $        96,073
+Year Ended December 31, 2024
+                                                                       $  30,112,539
+Noncash Transactions From Capital and Related Financing Activities
+   Issuance of capital lease obligation                                   (1,035,984)
+                                                                              342,951
+Reconciliation of Change in Net Position to Net Cash
+   Provided by Operating Activities:                                       1,476,094
+     Change in net position                                               (5,506,845)
+     Adjustment to reconcile change in net position to net cash
+        provided by operating activities:                                  (7,911,740)
+          Net increase in fair value of investments                        (3,399,720)
+          Loss on sale of investments
+          Depreciation and amortization                                       (216,300)
+          Amortization of bond premium/discount                                531,272
+          Changes in operating assets and liabilities:                           98,169
+             Accounts and loan receivable
+             Accrued interest receivable                                  (80,895,629)
+             Other assets                                                  (1,392,798)
+             Deferred pension costs                                        15,980,652
+             Deferred refunding costs                                        1,095,434
+             Unearned revenue                                                    (2,125)
+             Accounts payable and other liabilities                            346,400
+             Accrued interest payable
+             Net pension liability                                        (80,490,169)
+             Deferred pension revenue
+             Government advances                                       $  (50,377,630)
+                  Total adjustments
+
+                  Net cash provided by (used in) operating activities
+
+See Notes to Financial Statements                                               16
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Note 1. Authorizing Legislation and Funds
+
+The Indiana Housing and Community Development Authority (the Authority) was created in 1978 by an act of the
+Indiana Legislature (the Act). The Authority has been given numerous powers under the Act, including the power
+to enter into contracts and agreements, acquire, hold and convey property and issue notes and bonds, for the
+purpose of financing residential housing for persons and families of low and moderate incomes.
+
+The powers of the Authority are vested by the Act in seven members who constitute the Board of Directors, four of
+whom are appointed by the Governor of Indiana and three of whom serve by virtue of holding other Indiana state
+offices. The three ex-officio members are the Lieutenant Governor, the State Treasurer, and the Public Finance
+Director of the State of Indiana. The Authority is considered a component unit of the State of Indiana and is
+discretely presented in the State's financial statements.
+
+The Act empowers the Authority to (1) make or participate in the making of construction loans and mortgage loans
+to sponsors of federally assisted multi-family residential housing; (2) purchase or participate in the purchase from
+mortgage lenders, mortgage loans made to persons of low and moderate income for residential housing; and (3)
+make loans to mortgage lenders for the purpose of furnishing funds to be used for making mortgage loans to
+persons and families of low and moderate incomes. The Act authorizes the Authority to issue its bonds and notes
+to carry out its purposes, and neither the Act nor the Bond Trust Indentures establish any limitation as to the
+aggregate amount of obligations which the Authority may have outstanding.
+
+The Authority's financial statements include the operations of funds that the Authority has established to achieve
+its purposes under powers granted to it by the Act. The financial transactions of the Authority are recorded in the
+funds, which consist of a separate set of self-balancing accounts that comprise its assets, deferred outflows of
+resources, liabilities, deferred inflows of resources, net position, revenues and expenses, as appropriate. The
+Authority's resources are allocated to and accounted for in individual funds based upon the purposes for which they
+are to be spent and the means by which financial activity is controlled. The Authority's funds are described below.
+
+General Fund
+
+The General Fund was established by the Authority to account for all fee income and charges that are not required
+to be recorded in other funds and for operating expenses of the Authority.
+
+Program Fund
+
+The Program Fund accounts for grant and loan activity related to various federal and state programs administered
+by the Authority.
+
+Single Family and Mortgage-Backed Securities Pass-Thru Funds
+
+The Single Family and Mortgage-Backed Securities (MBS) Pass-thru funds are bond indentures which use bond
+proceeds to fund the Single Family Mortgage Programs (the Mortgage Programs).
+
+The Mortgage Programs provide for the purchase of mortgage loans made to eligible borrowers for owner occupied
+housing, which are then securitized into GNMA, FNMA or FHLMC certificates (collectively MBS). Borrowers
+meeting certain income guidelines may qualify under the Authority's down payment assistance programs.
+
+Commencing in June 1980, the Authority entered into mortgage purchase agreements with certain commercial
+banks, savings and loan associations and mortgage banking companies admitted to do business in the State of
+Indiana whereby the lenders agreed to originate mortgage loans on newly constructed and existing dwellings
+meeting criteria established by the Authority and to sell them to the Authority.
+
+                                                                                                                                                                                17
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Note 2. Summary of Significant Accounting Policies
+
+Basis of Presentation
+
+The Authority's financial statements have been prepared in accordance with accounting principles generally
+accepted in the United States of America as prescribed by the Governmental Accounting Standards Board (GASB).
+The Authority accounts for all of its activity as a proprietary fund, which includes business-type activities that are
+financed in whole or in part by fees charged to external parties.
+
+Measurement Focus and Basis of Accounting
+
+The Authority's financial statements are reported using the economic resources measurement focus and the accrual
+basis of accounting. Under the accrual basis, revenues are recognized when earned, and expenses are recorded
+when incurred.
+
+Use of Estimates
+
+The preparation of the financial statements in conformity with accounting principles generally accepted in the United
+States of America requires estimates and assumptions that affect the reported amount of assets and liabilities and
+contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period. Actual results could differ from those estimates.
+
+The Authority invests in various investment securities. Investment securities are exposed to various risks such as
+interest rate, market and credit risks. Due to the level of risk associated with certain investment securities, it is at
+least reasonably possible that changes in the values of investment securities will occur in the near term and that
+such changes could materially affect the amounts reported in the accompanying statement of net position.
+
+IHCDA provides down payment assistance (DPA) for most of its Single Family Fund homeownership programs.
+DPA is provided in the form of a noninterest-bearing, non-amortizing second mortgage recorded against the home
+at the time of closing and forgivable after nine years. IHCDA estimates an allowance for loan losses on DPA loans
+based on current economic conditions and historical collection information.
+
+Cash and Cash Equivalents
+
+For purposes of reporting cash flows, cash and cash equivalents include cash on hand and on deposit and
+investments with a maturity of three months or less.
+
+Investment Securities
+
+The Authority reports its investments securities, including MBS, at fair value. Fair value is the price that would be
+received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the
+measurement date. Interest income is recorded on the accrual basis. Realized gains and losses on the sale of
+investments are determined using the specific-identification method. Changes in the fair value of investments are
+reported in the statement of revenues, expenses and changes in net position.
+
+                                                                                                                                                                                18
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Following is a summary of the effects of valuing investment securities at fair value on total assets and deferred
+outflows of resources, net position and operating income as of and for the year ended December 31, 2024:
+
+                                                           Total Assets and Deferred
+
+                                                           Outflows of Resources
+
+                                                           Fair Value                Cost
+
+General Fund                                            $ 223,329,184        $ 224,915,554
+Program Fund                                                    311,120,464          311,120,464
+Single Family Fund
+MBS Pass-thru Fund                                           2,185,943,538        2,221,639,528
+                                                                 23,385,950           23,909,960
+       Total assets and deferred outflows of resources
+                                                        $ 2,743,779,136      $ 2,781,585,506
+
+                                                                       Net Position
+
+                                                           Fair Value                Cost
+
+General Fund                                            $ 202,699,419 $ 204,285,789
+Program Fund
+Single Family Fund                                         151,748,348               151,748,348
+MBS Pass-thru Fund
+                                                           143,734,522               179,430,512
+       Total net position
+                                                           (332,378)                 191,632
+
+                                                        $ 497,849,911 $ 535,656,281
+
+                                                           Operating Income
+
+                                                           Fair Value                Cost
+
+General Fund                                            $  11,777,246 $              10,979,717
+Program Fund
+Single Family Fund                                         13,486,819                13,486,819
+MBS Pass-thru Fund
+                                                           5,101,739                 4,504,110
+       Total operating income
+                                                           (253,265)                 105,909
+
+                                                        $  30,112,539 $              29,076,555
+
+Accounts and Loans Receivable
+
+Accounts and loans receivable consist primarily of forgivable and non-forgivable loans made to sub-recipients as
+part of federal and state programs, forgivable loans provided to individuals for down payment assistance, and
+reimbursements due from other governments for amounts billed or billable for expenses incurred or services
+provided. The Authority considers all forgivable loans to be uncollectible and reserves the entire balances in the
+allowance for uncollectible loans. Any additional allowance for uncollectible accounts or loans is determined by
+periodic management review based upon historical losses, specific circumstances, and general economic
+conditions.
+
+Interfund Accounts and Transfers
+
+Funds are transferred from one fund to support expenses of other funds, including operating activities, bond
+issuances, and bond redemptions in accordance with authority established for the individual fund. To the extent
+that certain transactions between funds are not paid or received in the current period, net interfund receivable and
+payable balances are recorded on the statement of net position at the end of the year.
+
+                                                                                           19
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Capital Assets
+
+Capital assets are stated at cost, less accumulated depreciation. The Authority capitalizes fixed asset purchases
+over $5,000. Depreciation is calculated on the straight-line method over the estimated useful lives of the assets,
+which range from three to ten years.
+
+Lease Assets
+
+At the commencement of the lease term, the Authority, as lessee, recognizes a lease liability and an intangible
+right-to-use lease asset. The lease asset is amortized in a systematic and rational manner (straight-line method)
+over the shorter of the lease term or the useful life of the underlying asset.
+
+Subscription Assets
+
+Subscription assets are initially recorded at the initial measurement of the subscription liability, plus subscription
+payments made at or before the commencement of the subscription-based information technology arrangement
+(SBITA) term, less any SBITA vendor incentives received from the SBITA vendor at or before the commencement
+of the SBITA term, plus capitalizable initial implementation costs. Subscription assets are amortized on a straight-
+line basis over the shorter of the SBITA term or the useful life of the underlying IT asset.
+
+Deferred Outflows of Resources
+
+The Authority reports the consumption of net position that is applicable to a future reporting period as deferred
+outflows of resources in a separate section of its Statement of Net Position. The deferred outflows of resources in
+the current year are related to pension and debt refunding costs. The deferred outflows of resources related to
+pension are for contributions made to the defined-benefit plan between the measurement date of the net pension
+liabilities from the plan and the end of the year. The debt refunding costs are being amortized over the life of the
+refunding bonds as a part of interest expense.
+
+Deferred Inflows of Resources
+
+The Authority's Statement of Net Position reports a separate section for deferred inflows of resources, which is an
+acquisition of net position that is applicable to a future reporting period. Deferred inflows of resources are reported
+for actual pension plan investment earnings in excess of the expected amounts included in determining pension
+expense and the accumulated increase in the fair value of hedging derivative instruments. The deferred inflows of
+resources related to pension is attributable to pension expense over a total of ten years, including the current year.
+In addition, deferred inflows of resources include the fair value of interest rate swap agreements (see Note 7).
+
+Compensated Absences
+
+During 2024, the Authority implemented GASB Statement No. 101, Accounting for Compensated Absences. In
+accordance with the vesting method provided in this statement, accumulated vacation, personal and sick time is
+accrued when earned by the employee and the accrual is based on assumptions concerning the probability that
+certain employees will become eligible to receive these benefits in the future.
+
+Risk Management
+
+The Authority is exposed to various risks of loss related to torts; theft of, damage to and destruction of assets;
+business interruption; errors and omissions; employee injuries and illnesses; natural disasters and employee health
+and accident benefits. Commercial insurance coverage is purchased for claims arising from such matters other
+than those related to workers' compensation and natural disasters. Settled claims have not exceeded this
+commercial coverage in any of the three preceding years. The state of Indiana self-insures workers' compensation
+benefits for all state employees, including Authority employees.
+
+                                                                                                                                                                                20
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Unearned Revenue
+
+Unearned revenue is reported in the financial statements. The availability period does not apply; however, amounts
+may not be considered earned due to eligibility requirements or other reasons. As eligibility requirements are met,
+the corresponding revenue is recognized.
+
+Cost-Sharing Defined-Benefit Pension Plan
+
+The employees of the Authority participate in the Indiana Public Retirement System (INPRS). The Authority
+recognizes its proportionate share of the collective net pension liability, deferred outflows of resources and deferred
+inflows of resources related to the pension and pension expense. Deferred outflows and inflows of resources
+represent changes in the Authority's allocated proportion from the previous year; differences between the Authority's
+contributions to the Plan and its proportionate share, actual Plan investment earnings and expected amounts, and
+expected and actual experience on the Plan included in determining pension expense; and the impact of changes
+in assumptions on the net pension liability, all of which are being amortized into pension expense over the average
+expected remaining services life, except for the differences between expected and actual investment earnings,
+which is amortized over five years. Deferred outflows of resources also includes contributions made to the Plan
+between the Plan's measurement date for the net pension liability and the end of the Authority's fiscal year.
+
+Interest Rate Swap Agreements
+
+The Authority uses interest rate swap agreements to protect against the potential of rising interest rates. The
+agreements are reported at fair value on the Statement of Net Position; however, changes in fair value are deferred
+until the termination or expiration of the instruments. The accumulated increase in the fair value of the interest rate
+swap agreements is reported as a deferred inflows of resources.
+
+Deferred Refunding Costs
+
+In 2012, the Authority issued 2012 series bonds under the MBS Pass-thru Fund, the proceeds from which were
+used to redeem bonds with an outstanding swap agreement. As part of the swap termination upon the bond
+redemption, the Authority was required to pay swap termination fees of $9,114,000 to the counterparty. The
+Authority capitalized amounts paid in connection with the swap termination fees and is amortizing the balance
+ratably in proportion to 2012 series redeemed during the year. Accumulated amortization of refunding costs was
+$8,397,829 at December 31, 2024, and amortization expense, which is reported as part of interest expense, was
+$98,169 for the year then ended.
+
+Original Issue Premiums and Discounts
+
+Original issue premiums and discounts on bonds are amortized using a method that approximates the effective
+interest method over the life of the bonds to which they relate.
+
+Net Position
+
+The Authority's resources are classified for accounting and financial reporting purposes into the following net
+position categories:
+
+      Net investment in capital assets - resources resulting from capital acquisition, net of accumulated
+          depreciation.
+
+      Restricted - net position subject to externally imposed stipulations as to use.
+      Unrestricted - net position, which are available for use of the Authority.
+
+                                                                                                                                                                                21
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Use of Restricted and Unrestricted Resources
+
+When both restricted and unrestricted resources are available for use, it is the Authority's policy to use restricted
+resources first, and then unrestricted resources as they are needed.
+
+Overdraws of Section 8 Housing Assistance
+
+HUD Notice PIH 2006-03 and subsequent interpretive guidance issued by HUD requires Section 8 voucher funds
+to be reported as restricted net position in the Financial Data Schedule filings. Therefore, the Authority includes
+Section 8 overdraws in net position as restricted.
+
+Operating Revenues
+
+The Authority records all revenues derived from mortgages, investment income and federal programs as operating
+revenues since these revenues are generated from the Authority's daily operations needed to carry out its statutory
+purpose.
+
+Program Income
+
+Program income is recognized as earned as the eligible expenses are incurred or activities are completed. Funding
+received in advance of being earned are recognized as unearned revenue. Program expenses are subject to audit
+and acceptance by the granting agency and, because of such audits, adjustments could be required.
+
+Fee Income
+
+Fees for Mortgage Credit Certificate and Mortgage Revenue Bond Programs are recorded as fee income in the
+General Fund as certificates are issued. Rental Housing Tax Credit fees are recognized as applications are
+submitted. The Authority also receives certain administrative fees for a federal grant program that are recorded as
+earned.
+
+Bond Issuance Costs
+
+Bond issuance costs are expensed as incurred.
+
+Allocation of Expenses Between Funds
+
+The Program, Single Family and MBS Pass-thru Funds provide that funds may be transferred to the General Fund
+for the purpose of paying reasonable and necessary program expenses.
+
+Income Taxes
+
+As an instrumentality of the state, the income of the Authority is exempt from federal and state income taxes under
+Section 115(a) of the Internal Revenue Code and a similar provision of state law.
+
+                                                                                                                                                                                22
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Note 3. Deposits and Investments
+
+                                                      General              Program                Single Family           MBS                        2024
+                                                        Fund                 Fund                       Fund           Pass-Thru                    Total
+
+                                                $ 66,987,705                                    $ 33,237,465              Fund              $ 100,225,170
+                                                         3,542,877                                    278,927,436                                   468,950,031
+Current                                                                 $           -                 312,164,901   $             -                 569,175,201
+  Cash and cash equivalents                            70,530,582
+     Unrestricted                                                          186,417,318                  82,673,403     62,400                       194,379,203
+     Restricted                                       111,705,800                                  1,693,937,599                                  1,716,479,236
+       Total current cash and cash equivalents                       -     186,417,318             1,776,611,002       62,400                     1,910,858,439
+
+Noncurrent Assets                                     111,705,800                            -  $ 2,088,775,903                          -  $ 2,480,033,640
+  Investments                                                                                -                             22,541,637
+     Unrestricted                               $ 182,236,382                                -                             22,541,637
+  Investments held against bonds
+       Total noncurrent investments                                     $ 186,417,318                               $ 22,604,037
+
+       Total cash, cash equivalents, and
+          investments
+
+Cash, cash equivalents and investments held by the Authority as of December 31, 2024 were as follows:
+
+                                                                                                Fair Value                                  Cost
+
+Deposits                                                                                        $ 195,773,880          $ 195,773,880
+  Cash                                                                                                  373,401,321            373,380,384
+  Money market mutual funds
+                                                                                                         45,902,586             45,743,523
+Investments                                                                                             148,476,617            151,765,735
+  US Treasuries                                                                                      1,716,479,236          1,751,176,488
+  Federal agency obligations
+  Federal agency obligations held against bonds                                                 $ 2,480,033,640        $ 2,517,840,010
+
+       Total cash, cash equivalents and investments
+
+Investment Policy
+
+General
+
+Indiana Code 5-20-1 authorizes the Authority to invest in obligations of the United States or any of its component
+states, or their agencies or instrumentalities and such other obligors as may be permitted under the terms of any
+resolution authorizing the issuance of the Authority's obligations.
+
+Indentures
+
+The Bond Indentures permit investments in the direct obligations of, or obligations guaranteed by, the United States
+or any of its component states, obligations issued by certain agencies of the Federal government, and investments
+collateralized by those types of investments. At December 31, 2024, all investments held by the Authority were in
+compliance with the requirements of the Indentures.
+
+                                                                                                                                                  23
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+The Authority's cash and investments are subject to several types of risk, which are examined in more detail below.
+
+Interest Rate Risk
+
+Interest rate risk is the risk that the value of investments will decrease as a result of a rise in interest rate. The
+Authority's investment policy does not restrict investment maturities. As of December 31, 2024, the Authority had
+the following investments and maturities (in thousands):
+
+                                                                        Investment Maturities (in Years)
+
+                                               Fair Value  Less Than 1  1 - 5          6 - 10             More Than 10
+
+Money market mutual funds                      $ 373,401 $ 373,401 $           - $             - $                    -
+US Treasuries
+Federal agency obligations                     45,903      28,267       17,636                 -                      -
+Federal agency obligations held against bonds
+                                               148,477     26,521       110,511         7,293             4,152
+
+                                               1,716,479   15                  660      3,344             1,712,460
+
+                                               $ 2,284,260 $ 428,204 $ 128,807 $        10,637 $ 1,716,612
+
+Custodial Credit Risk
+
+Custodial credit risk is the risk that the Authority will not be able to recover the value of its deposits, investments or
+collateral securities that are in the possession of an outside party if the counterparty fails. Investment securities are
+exposed to risk if the securities are uninsured, are not registered in the name of the Authority, and are held by either
+the counterparty of the counterparty's trust department or agent but not in the Authority's name. As of
+December 31, 2024, the Authority had not entered into any agreements subject to this paragraph.
+
+In 1937, the State created the Public Deposit Insurance Fund (PDIF) to protect the public funds of the state and its
+political subdivisions deposited in approved financial institutions. The PDIF insures those public funds deposited in
+approved financial institutions, which exceed the limits of coverage provided by any federal deposit insurance. As
+of December 31, 2024, all of the Authority's cash was deposited in approved financial institutions.
+
+Credit Risk
+
+Credit risk is the risk that the issuer or other counterparty to an investment will not fulfill its obligations. The
+Authority's policy for credit risk requires compliance with the provisions of Indiana statutes. The following table
+provides information on the credit ratings associated with the Authority's investments in debt securities:
+
+                                               S&P         Fitch               Moody's                    Fair Value
+
+Money market mutual funds                      AAAm        AAAmmf              Aaa-mf          $ 373,401,321
+US Treasuries                                   AA+          AAA                 Aaa                    45,902,586
+Federal agency obligations                      AA+          AAA                 Aaa
+Federal agency obligations held against bonds   AA+          AAA                 Aaa                  148,476,617
+                                                                                                    1,716,479,236
+
+                                                                                               $ 2,284,259,760
+
+                                                                                                                      24
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Concentration of Credit Risk
+
+The Authority places no limit on the amount it may invest in any one issuer. The following table shows investments
+in issuers that represent five percent or more of total investments.
+
+Investment                                                              Fair Value
+
+Ginnie Mae                                                              50.1%
+Freddie Mac                                                             15.2%
+Fannie Mae                                                              11.6%
+Dreyfus Institutional Government Money Market Fund                      11.5%
+
+Note 4. Accounts and Loans Receivable                                $ 101,095,119
+                                                                             18,383,945
+Accounts and loans receivable at December 31, 2024 were as follows:           2,682,546
+                                                                              1,637,416
+   General Fund:                                                                  30,037
+     Hardest hit fund loans                                                       11,025
+     Tax credit assistance program loans
+     Next Home ownership mortgage down payment assistance loans            123,840,088
+     Accounts receivable                                                  (104,327,475)
+     Mortgage loans
+     Loans provided to sub-recipients of certain programs                    19,512,613
+                                                                             (1,867,924)
+        Less: allowance for credit losses
+                                                                     $ 17,644,689
+          Current
+                                                                     $  189,934
+          Noncurrent
+                                                                        107,115,473
+   Single Family Fund
+     Down payment assistance interest                                   107,305,407
+     Down payment assistance loans
+                                                                        (19,708,532)
+        Less: allowance for uncollectible loans
+                                                                        87,596,875
+          Current
+                                                                        (189,934)
+          Noncurrent
+                                                                     $ 87,406,941
+
+                                                                                    25
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+(Continued)                                                                                   $ 91,656,922
+                                                                                                      27,525,686
+Program Fund:                                                                                         18,174,511
+  Development fund loans                                                                              13,475,882
+  Section 1602 tax credit exchange program loans                                                      11,793,915
+  Reimbursements due from other governments                                                            1,248,958
+  Home investment partnership program loans
+  Community development block grant loans                                                           163,875,874
+  Rural rental housing loans                                                                         (32,370,383)
+                                                                                                    131,505,491
+     Less: allowance for credit losses                                                               (12,905,517)
+
+       Current                                                                                $ 118,599,974
+
+       Noncurrent
+
+The section 1602 Tax Credit Exchange Program loans, the Hardest Hit Fund loans, and the Next Home Ownership
+Mortgage Down Payment Assistance (DPA) loans are forgivable, as long as borrowers comply with the provisions
+of the related agreements. Therefore, these loans are included in the allowance for uncollectible loans. Additionally,
+the Authority creates allowances for accounts and loans receivable to correspond with their perceived collectability.
+The General Fund provides the up-front funding for the DPA loans initially, but the cash is reimbursed through the
+sale of the related securitized loans.
+
+Note 5. Capital, Lease and Subscription Assets
+
+Capital assets activity for the year ended December 31, 2024 was:
+
+                                  January 1,         Additions                  Disposals        December 31,
+                                     2024                                                              2024
+
+Computer software              $  7,977,177       $ 347,135                  $             -  $  8,324,312
+Computer hardware
+Furniture and equipment           1,135,048                        -                       -     1,135,048
+Leasehold Improvements
+                                  948,472                          15,850                  -     964,322
+Less accumulated depreciation
+                                  196,000                          10,125                  -     206,125
+       Capital assets, net
+                                  10,256,697         373,110                               -     10,629,807
+
+                                  (8,833,544)        (424,804)                             -     (9,258,348)
+
+                               $  1,423,153       $                (51,694)  $             -  $  1,371,459
+
+                                                                                                 26
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Lease assets activity for the year ended December 31, 2024 was:
+
+                                    January 1,       Additions                    Disposals        December 31,
+                                       2024                                                              2024
+
+Building                         $  8,806,801     $                     -      $             -  $  8,806,801
+Furniture and equipment
+                                    585,587                             -                    -     585,587
+Less accumulated amortization
+                                    9,392,388                           -                    -     9,392,388
+       Leased assets, net
+                                    (2,967,637)                  (793,670)                   -     (3,761,307)
+
+                                 $  6,424,751     $ (793,670)                  $             -  $  5,631,081
+
+Subscription assets activity for the year ended December 31, 2024 was:
+
+                                    January 1,       Additions                    Disposals        December 31,
+                                       2024                                                              2024
+
+Subscription asset               $  544,231       $              96,073        $             -  $  640,304
+Less accumulated amortization
+                                    (200,773)                    (257,620)                   -     (458,393)
+       Subscription assets, net
+                                 $  343,458       $ (161,547)                  $             -  $  181,911
+
+Note 6. Bonds Payable                                                             Original         Balance
+                                                                                  Amount
+Bonds payable at December 31, 2024, consist of (dollars in thousands):
+
+                                Single Family Fund
+
+2016 Series A-1                                                             $     14,735        $           685
+  Term bonds (2.85%), due 2031
+                                                                                  14,735                    685
+2016 Series A-2
+  PAC bonds (3.50%), due 2038                                                     25,990           1,125
+                                                                                  25,990           1,125
+2017 Series B-1
+  Serial bonds (2.00% to 2.75%), due 2025 - 2028                                  15,210           6,395
+                                                                                  15,210           6,395
+2017 Series B-2
+  PAC bonds (4.00%), due 2038                                                     15,740           1,035
+                                                                                  15,740           1,035
+
+                                                                                                                 27
+Indiana Housing and Community Development Authority        Original  Balance
+(A Component Unit of the State of Indiana)                 Amount
+Notes to Financial Statements
+December 31, 2024                                       $  17,000 $  17,000
+                                                                      6,000
+                        Single Family Fund (Continued)     6,000
+                                                                     23,000
+   2017 Series B-3                                         23,000
+     Term bonds (variable), due 2047                                  4,545
+     Term bonds (variable), due 2047                       7,355      4,545
+                                                           7,355
+   2017 Series C-1                                                   20,705
+     Serial bonds (2.45% to 2.85%), due 2025 - 2027        20,705    20,705
+                                                           20,705
+   2017 Series C-3                                                    6,690
+     Term bonds (variable), due 2047                       20,590     6,690
+                                                           20,590
+   2018 Series A                                                      6,150
+     PAC bonds (4.00%), due 2048                           15,990     6,150
+                                                           15,990
+   2019 Series A                                                      3,910
+     PAC bonds (4.25%), due 2048                           16,240     2,720
+                                                            3,420     2,125
+   2019 Series B                                            9,835     8,305
+     Serial bonds (2.05% to 2.25%), due 2030 - 2032                  17,060
+     Term bonds (2.40%), due 2034                          17,845
+     Term bonds (2.65%), due 2039                          47,340     8,925
+     PAC bonds (3.50%), due 2049                                     10,580
+                                                           18,545    19,505
+   2020 Series A:                                          20,485
+     Serial bonds (2.20% to 5.00%), due 2025 - 2032        39,030    31,315
+     PAC bonds (3.75%), due 2049                                         900
+                                                            31,315
+   2020 Series B:                                           12,715   14,850
+     Serial bonds (1.15% to 5.00%), due 2025 - 2032         14,850       715
+     Serial bonds (5.00%), due 2025                         21,355
+     Term bonds (1.95%), due 2035                           32,980   14,855
+     Term bonds (2.05%), due 2039                          113,215   62,635
+     PAC bonds (3.25%), due 2049
+                                                           16,300    12,725
+   2021 Series A:                                           5,160     5,160
+     Serial bonds (1.35% to 5.00%), due 2025 - 2033         9,825     9,825
+     Term bonds (1.90%), due 2036                           6,745     6,745
+     Term bonds (2.05%), due 2041
+     Term bonds (2.15%), due 2045                          17,915    12,100
+     PAC bonds (3.00%), due 2051                           55,945    46,555
+
+                                                                              28
+Indiana Housing and Community Development Authority        Original  Balance
+(A Component Unit of the State of Indiana)                 Amount
+Notes to Financial Statements
+December 31, 2024                                       $  32,625 $  26,075
+
+                        Single Family Fund (Continued)     10,690    10,690
+
+   2021 Series B:                                          22,685    22,090
+     Serial bonds (1.30% to 5.00%), due 2025 - 2033
+     Term bonds (1.90%), due 2036                          33,205    23,380
+     Term bonds (2.13%), due 2041
+     PAC bonds (3.00%), due 2050                           99,205    82,235
+
+   2021 Series C-1:                                        12,940    12,940
+     Serial bonds (1.95% to 5.00%), due 2027 - 2033        11,460    11,460
+     Term bonds (2.20%), due 2036                          12,745    12,745
+     Term bonds (2.40%), due 2041
+     Term bonds (2.55%), due 2044                           5,135     5,135
+     PAC bonds (3.00%), due 2052                           27,010    22,140
+                                                           69,290    64,420
+   2021 Series C-2:
+     Serial bonds (0.85% to 1.15%), due 2025 - 2026        6,710     3,205
+                                                           6,710     3,205
+   2022 Series A:
+     Serial bonds (2.00% to 5.00%), due 2025 - 2034        23,095    19,925
+     Term bonds (2.35%), due 2037                          10,305    10,305
+     Term bonds (2.60%), due 2042                          19,950    19,950
+     Term bonds (2.70%), due 2045
+     PAC bonds (3.00%), due 2052                            2,360     2,360
+                                                           29,860    26,030
+   2022 Series B:                                          85,570    78,570
+     Serial bonds (3.85% to 5.00%), due 2025 - 2034
+     Term bonds (4.15%), due 2037                           24,845    22,000
+     Term bonds (4.30%), due 2042                           10,255    10,255
+     Term bonds (4.38%), due 2047                           19,110    19,110
+     PAC bonds (4.75%), due 2052                            20,650    20,650
+                                                            41,995    37,830
+   2022 Series C-1:                                        116,855   109,845
+     Serial bonds (4.00% to 4.15%), due 2033 - 2034
+     Term bonds (4.35%), due 2037                             7,160     7,160
+     Term bonds (4.60%), due 2042                           12,570    12,570
+     Term bonds (4.75%), due 2047                           27,025    27,025
+     Term bonds (4.85%), due 2051                           37,015    37,015
+     PAC bonds (5.00%), due 2053                            41,055    41,055
+                                                            25,000    23,090
+   2022 Series C-2:                                        149,825   147,915
+     Serial bonds (3.20%), due 2025
+                                                           3,780     1,000
+   2022 Series D:                                          3,780     1,000
+     Serial bonds (3.93% to 4.88%), due 2025 - 2032
+                                                           20,000    19,850
+                                                           20,000    19,850
+
+                                                                              29
+Indiana Housing and Community Development Authority        Original  Balance
+(A Component Unit of the State of Indiana)                 Amount
+Notes to Financial Statements
+December 31, 2024                                       $  3,630 $   3,630
+
+                        Single Family Fund (Continued)     5,310     5,310
+
+   2023 Series A-1:                                        11,810    11,810
+     Serial bonds (3.70% to 4.00%), due 2033 - 2035
+     Term bonds (4.30%), due 2038                          16,880    16,880
+     Term bonds (4.50%), due 2043
+     Term bonds (4.65%), due 2048                          10,455    10,455
+     Term bonds (4.70%), due 2050
+     PAC bonds (5.75%), due 2053                           24,560    23,595
+
+   2023 Series A-2:                                        72,645    71,680
+     Serial bonds (4.28% to 5.22%), due 2025 - 2033
+     Term bonds (5.24%), due 2038                          12,485    11,450
+     Term bonds (5.41%), due 2043                           2,720     2,720
+     Term bonds (5.46%), due 2049                           3,905     3,905
+                                                            5,890     5,890
+   2023 Series B-1:
+     Serial bonds (2.90% to 3.55%), due 2028 - 2034        25,000    23,965
+     Term bonds (4.00%), due 2038
+     Term bonds (4.35%), due 2043                           2,545     2,545
+     Term bonds (4.60%), due 2048                           4,400     4,400
+     Term bonds (4.70%), due 2053                           7,690     7,690
+                                                           11,155    11,155
+   2023 Series B-2:                                        19,015    19,015
+     Serial bonds (5.00%), due 2025 - 2027                 44,805    44,805
+
+   2023 Series B-3:                                        5,020     3,890
+     Serial bonds (4.67% to 5.25%), due 2027 - 2033        5,020     3,890
+     Term bonds (5.32%), due 2038
+     Term bonds (5.38%), due 2043                          11,585    11,585
+     Term bonds (5.43%), due 2048                          11,060    11,060
+     PAC bonds (5.75%), due 2054                           15,275    15,275
+                                                           26,835    26,835
+   2023 Series C-1:                                        34,175    33,410
+     Serial bonds (4.00%), due 2034 - 2035                 98,930    98,165
+     Term bonds (4.13%), due 2038
+     Term bonds (4.45%), due 2043                           7,160     7,160
+     Term bonds (4.55%), due 2048                           3,090     3,090
+     Term bonds (4.60%), due 2053                          11,490    11,490
+                                                            9,770     9,770
+   2023 Series C-2:                                        13,490    13,490
+     Serial bonds (5.07% to 5.40%), due 2025 - 2033        45,000    45,000
+     Term bonds (5.47%), due 2038
+     Term bonds (5.55%), due 2043                          16,660    15,890
+     Term bonds (5.60%), due 2047                          18,465    18,465
+                                                           26,380    26,380
+                                                           28,495    28,495
+                                                           90,000    89,230
+
+                                                                              30
+Indiana Housing and Community Development Authority         Original  Balance
+(A Component Unit of the State of Indiana)                  Amount
+Notes to Financial Statements
+December 31, 2024                                        $  3,880 $   3,880
+
+                         Single Family Fund (Continued)     4,580     4,580
+
+   2023 Series D-1:                                         10,325    10,325
+     Serial bonds (4.15% to 4.80%), due 2028 - 2035
+     Term bonds (4.80%), due 2038                           15,000    15,000
+     Term bonds (5.00%), due 2043
+     Term bonds (5.13%), due 2048                           32,105    32,105
+     Term bonds (5.20%), due 2053
+                                                            65,890    65,890
+   2023 Series D-2:
+     Serial bonds (4.40 to 4.50%), due 2025 - 2027          4,110     3,685
+                                                            4,110     3,685
+   2023 Series D-3:
+     Serial bonds (5.55% to 6.09%), due 2027 - 2033          9,745     9,745
+     Term bonds (6.13%), due 2038                            8,070     8,070
+     Term bonds (6.27%), due 2043                            5,405     5,405
+     Term bonds (6.37%), due 2048                           14,330    14,330
+     Term bonds (6.40%), due 2053                           12,060    12,060
+     PAC bonds (6.50%), due 2054                            15,000    14,980
+                                                            64,610    64,590
+   2024 Series A-1:
+     Serial bonds (3.65% to 3.85%), due 2034 - 2036            4,995     4,995
+     Term bonds (4.00%), due 2039                              7,250     7,250
+     Term bonds (4.50%), due 2044                            15,985    15,985
+     Term bonds (4.65%), due 2049                            23,285    23,285
+     Term bonds (4.75%), due 2054                            49,735    49,735
+                                                            101,250   101,250
+   2024 Series A-2:
+     Serial bonds (4.674% to 5.064%), due 2025 - 2031       11,225    11,070
+     PAC bonds (6.00%), due 2049                            21,825    21,825
+                                                            33,050    32,895
+   2024 Series B-1:
+     Serial bonds (3.50% to 4.05%), due 2028 - 2036          6,070     6,070
+     Term bonds (4.15%), due 2039                            6,305     6,305
+     Term bonds (4.65%), due 2044                           13,975    13,975
+     Term bonds (4.75%), due 2049                           19,885    19,885
+     Term bonds (4.85%), due 2054                           39,700    39,700
+                                                            85,935    85,935
+   2024 Series B-2:
+     Serial bonds (3.90% to 3.95%), due 2025 - 2027         4,065     4,065
+                                                            4,065     4,065
+   2024 Series B-3:
+     Serial bonds (5.029% to 5.688%), due 2025 - 2035        21,280    21,280
+     Term bonds (5.808%), due 2039                             9,895     9,895
+     Term bonds (5.932%), due 2044
+     Term bonds (5.962%), due 2049                           17,030    17,030
+     PAC bonds (6.25%), due 2054                             30,350    30,350
+                                                             30,925    30,925
+                                                            109,480   109,480
+
+                                                                               31
+Indiana Housing and Community Development Authority        Original  Balance
+(A Component Unit of the State of Indiana)                 Amount
+Notes to Financial Statements
+December 31, 2024                                       $  3,770 $   3,770
+
+                        Single Family Fund (Continued)     2,350     2,350
+
+   2024 Series C-1:                                        5,000     5,000
+     Serial bonds (3.90% to 3.95%), due 2035 - 2036
+     Term bonds (4.10%), due 2039                          10,155    10,155
+     Term bonds (5.00%), due 2039
+     Term bonds (4.55%), due 2044                          5,000     5,000
+     Term bonds (5.00%), due 2044
+     Term bonds (4.70%), due 2049                          21,785    21,785
+     Term bonds (4.80%), due 2054
+                                                           51,185    51,185
+   2024 Series C-2:
+     Serial bonds (4.554% to 5.319%), due 2025 - 2035      99,245    99,245
+     Term bonds (5.449%), due 2039
+     Term bonds (5.794%), due 2044                         25,970    25,970
+     Term bonds (5.894%), due 2048                          8,670     8,670
+     Term bonds (6.250%), due 2054
+                                                           15,095    15,095
+   2024 Series D-1:                                        16,730    16,730
+     Serial bonds (3.30% to 4.05%), due 2027 - 2036        32,190    32,190
+     Term bonds (4.10%), due 2039                          98,655    98,655
+     Term bonds (4.55%), due 2044
+     Term bonds (4.70%), due 2049                            6,035     6,035
+     Term bonds (4.75%), due 2054                            7,075     7,075
+                                                           15,220    15,220
+   2024 Series D-2:                                        21,060    21,060
+     Serial bonds (3.80% to 3.85%), due 2025 - 2027        47,735    47,735
+                                                           97,125    97,125
+   2024 Series D-3:
+     Serial bonds (4.445% to 5.398%), due 2026 - 2035      2,875     2,875
+     Term bonds (5.518%), due 2039                         2,875     2,875
+     Term bonds (5.874%), due 2044
+     Term bonds (5.944%), due 2049                         23,045    23,045
+     PAC bonds (6.00%), due 2054                             9,520     9,520
+
+          Total Single Family Fund                         15,140    15,140
+                                                           20,750    20,750
+                                                           30,670    30,670
+                                                           99,125    99,125
+
+                                                        $ 2,212,895 $ 1,964,675
+
+                                                                              32
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+                         MBS Pass-thru Fund                             Original                     Balance
+                                                                        Amount
+2012 Series 1
+  Term bonds (3.029%), due 2038                                      $            73,532 $                  5,933
+
+2013 Series 1                                                                     62,674                    8,204
+  Taxable term bonds (3.027%), due 2041
+                                                                                  51,839                    6,033
+2013 Series 2
+  Taxable term bonds (4.038%), due 2036                                           28,667                     2,895
+                                                                                                            23,065
+2014 Series 1                                                        $            216,712 $
+  Taxable term bonds (4.050%), due 2038
+                                                                     $        2,429,607 $                   1,987,740
+       Total MBS Pass-Thru Fund
+
+       Total Bonds Payable
+
+The Single Family and MBS Pass-thru bonds are special obligations of the Authority. The bonds are payable solely
+from the revenues and assets pledged to the payment thereof pursuant to the Bond Trust Indentures.
+
+The 2017 Series B-3 bond and 2017 Series C-3 bond mature on July 1, 2047, and are variable rate demand
+obligations (3.80% at December 31, 2024).
+
+The following are the scheduled amounts of principal and interest payments on bond payable obligations in the five
+years subsequent to December 31, 2024 and thereafter (all amounts in thousands). The Authority typically has
+significant prepayments of principal amounts and, therefore, does not expect to make all interest payments in their
+scheduled amounts.
+
+                           Single Family Fund             MBS Pass-thru Fund                         Total
+                                                                                      Principal
+                           Principal         Interest     Principal     Interest                            Interest
+
+         2025           $  29,430 $            85,229 $           - $       789    $      29,430     $      86,018
+         2026                                                     -         789
+         2027              32,260              88,022             -         789           32,260            88,811
+         2028                                                     -         789
+         2029              33,565              86,586             -         789           33,565            87,375
+     2030-2034                                                    -      3,945
+     2035-2039             33,510              85,129     14,861         2,637            33,510            85,918
+     2040-2044                                             8,204            465
+     2045-2049             32,870              83,698             -                       32,870            84,487
+     2050-2054                                                    -             -
+                           209,795           396,634      23,065                -         209,795           400,579
+Original issue premium                                        587       10,992
+                           275,400           349,513                            -         290,261           352,150
+                                                          23,652 $
+                           353,650           284,102                    10,992            361,854           284,567
+
+                           454,685           191,142                                      454,685           191,142
+
+                           509,510             70,084                                     509,510           70,084
+
+                           1,964,675         1,720,139                                    1,987,740         1,731,131
+
+                           32,687                      -                                  33,274                      -
+
+                        $ 1,997,362 $ 1,720,139 $                                  $ 2,021,014       $ 1,731,131
+
+                                                                                                                      33
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+The summary of bonds payable as of December 31, 2024 was as follows:
+
+   Interest                                             Maturity                Payment                                                  Total
+Rate Ranges                                              Range                    Range
+
+                                                                               of Principal
+
+0.85 to 6.50%                                   2025 to 2054                   $29,430 to $115,780                   $                   1,987,740
+
+Changes in Obligations
+
+The following are changes in noncurrent liabilities of the Authority for the year ended December 31, 2024 (dollars
+in thousands):
+
+                                    January 1,          Additions              Reductions        December 31,        Due Within              Due
+                                       2024                                                            2024           One Year           Thereafter
+
+Bonds payable                       $ 1,326,536,050     $ 730,805,000          $ 69,600,939      $ 1,987,740,111     $ 29,430,000        $ 1,958,310,111
+Premium                                    34,603,018            4,178,030           5,506,846          33,274,202                    -         33,274,202
+Note payable                                 1,394,772                      -            76,221           1,318,551                   -           1,318,551
+Net pension liability                        6,059,160           2,430,662           1,335,228            7,154,594                   -           7,154,594
+Lease and subscription liability             7,630,048               96,073            909,937            6,816,184                               5,874,220
+Government advances                        31,604,256              530,000             183,600          31,950,656           941,964            31,650,393
+                                                                                                                             300,263
+       Total long-term obligations  $ 1,407,827,304     $ 738,039,765          $ 77,612,771      $ 2,068,254,298                         $ 2,037,582,071
+                                                                                                                     $ 30,672,227
+
+Due to the nature of the net pension liability, which cannot be classified into the amounts due within one year, is
+included in due thereafter, and as such the related balance is reflected as a long-term obligation above.
+
+The Single Family are subject to optional redemption provisions at various dates at 100 percent of the principal
+amount, extraordinary optional redemption at par from unexpended or uncommitted funds, prepayments of
+mortgage loans and proportionate amounts in certain related accounts or excess revenues. The Authority
+redeemed $69,600,939 of bonds in 2024 from mortgage loan payments and prepayments. The bond redemptions
+resulted in write-offs of unamortized premium related to the redeemed bonds.
+
+Conduit Debt Obligations
+
+The Authority is authorized by law to issue conduit revenue bonds for the purpose of financing residential housing
+for persons and families of low and moderate income. Except as described below, the Authority's revenue bonds
+are payable solely from revenues of the Authority specifically pledged thereto. The bonds are not, in any respect,
+a general obligation of the Authority, nor are they payable in any manner from revenues raised by the Authority.
+
+The Authority has issued debt obligations on behalf of developers and certain 501(c) (3) organizations (the Debtors)
+for the purpose of acquiring and rehabilitating facilities for housing persons of low and moderate income. These
+bonds and the interest thereof do not constitute a debt or liability of the Authority, but are special obligations between
+investors and the debtors payable solely from the payments received by the trustee under the loan agreements and
+meet the definition of conduit debt in GASB Statement No. 91, Conduit Debt Obligations. Accordingly, the bonds
+are not reported as liabilities in the accompanying financial statements. In addition, the Authority has not made any
+commitments associated with the bonds. At December 31, 2024, the Authority had outstanding conduit debt of
+$721,126,179.
+
+                                                                                                                                                     34
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Note 7. Interest Rate Swap Agreements - Hedging Derivative Instruments
+
+The Authority entered a swap arrangement with Bank of New York Mellon in 2018. The objective of the swap
+agreement(s) is to create, with respect to the 2017 Series B-3 Bonds in an amount totaling $17,250,000 and the
+2017 Series C-3 Bonds in an amount totaling $15,525,000, an approximately fixed rate net obligation. Payments
+made to the Counterparty by the Authority under this swap agreement are made semi-annually, based on a notional
+principal amount and a fixed interest rate of 2.420% for 2017 Series B-3 and 2.495% for 2017 Series C-3. Payments
+received by the Authority from the Counterparty under the swap agreement bear interest at a variable rate calculated
+by reference to the 3 Month Fallback Rate (SOFR).
+
+Objective of the Swap: The Authority entered the pay-fixed, receive-variable interest rate swap agreements as a
+strategy to maintain acceptable levels of exposure to the risk of future changes in the interest rate related to the
+existing variable rate debt. The primary intention of the swap agreements is to effectively convert the Authority's
+variable interest rates on its long-term debt to synthetic fixed rates.
+
+Terms, Fair Value and Credit Risk: The terms, including, the fair value and credit rating of the outstanding swaps
+as of December 31, 2024, are as follows:
+
+  Bond Series       Notional     Effective    Fixed                  Variable              Fair           Swap        Counterparty
+                    Amounts        Date     Rate Paid                  Rate               Value       Termination     Credit Rating
+2017 Series B-3                                                                                                    S&P/Moody's/Fitch
+2017 Series C-3  $ 17,250,000    1/1/2018    2.420%                 Received         $ 2,124,228           Date
+                     15,525,000  7/1/2018    2.495%                                        1,685,332                    AA-/Aa1/AA
+                                                       70% 3 M Fallback Rate (SOFR)                     7/1/2047        AA-/Aa1/AA
+                                                       70% 3 M Fallback Rate (SOFR)  $ 3,809,560        7/1/2047
+
+                                                                       Total
+
+The Authority's swap agreements contain scheduled reductions to outstanding notional amounts that are expected
+to approximately follow scheduled or anticipated reductions of the associated bonds.
+
+Fair Value: The fair values of the swap agreements are based upon a third party's discounted cash flow
+methodology pursuant to the guidance set forth in GASB No. 72, Fair Value Measurement and Application. These
+discounted cash flows consider the net present value of the future scheduled payments from each leg of the swap.
+For the floating leg of the swap, future coupon rates are estimated based on forward rates derived from the relevant
+interest rate swap yield curve date (e.g., SOFR, SIFMA, etc.) as of the valuation date. The present value discounted
+factors applied to each future scheduled payment is determined by the SOFR, or Overnight Index Swap, curve data
+using the zero-coupon method. A credit valuation adjustment is applied, which quantifies the nonperformance risk
+of both reporting entity as well as the counterparty.
+
+The fair values of the swap agreements are classified as a noncurrent asset on the statement of net position of
+$3,809,560 as of December 31, 2024. As the swap agreements are effective hedging instruments, the offsetting
+balance is reflected as a deferred inflow of resources on the Authority's balance sheet at December 31, 2024 of
+$3,809,560.
+
+Credit Risk: The fair value of each of the swap agreements represents the Authority's credit exposure to the
+counterparties as of December 31, 2024. Should the counterparties to these transactions fail to perform according
+to the terms of the swap agreements, the Authority has a maximum possible loss equivalent to the fair value at that
+date. As of December 31, 2024, the Authority was exposed to credit risk because the swap had a positive fair
+value. The Authority's exposure to credit risk is in the amount of the derivative instrument's fair value. If the credit
+ratings fall below the agreed-upon threshold, the fair value of the swaps is to be fully collateralized with eligible
+securities (as defined in the Master Agreement) to be held by a third-party custodian on behalf of the Authority.
+
+                                                                                                                   35
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Basis Risk: The swap agreements expose the Authority to basis risk should the relationship between SOFR and
+the rate set by the Authority's lender change in a manner adverse to the Authority. If an adverse change occurs in
+the relationship between these rates, the expected cost savings may not be realized.
+
+Termination Risk: The Authority or the Counterparty may terminate the swap agreement if the other party fails to
+perform under the terms of the contract. If the swap agreement is terminated, the associated floating-rate bonds
+would no longer carry synthetic interest rates. Also, if at the time of the termination the fair value of the swap
+agreement is not positive, the Authority would be liable to the Counterparty for a payment equal to the swap
+agreement's fair value.
+
+Rollover Risk: The Authority is exposed to rollover risk if the swap agreement matures or is terminated prior to
+the maturity of the associated debt. When the swap agreement terminates, the Authority will not realize the synthetic
+rate offered by the swap agreement on the underlying debt issue.
+
+Swap Payments and Associated Debt: As of December 31, 2024, debt service requirements of the Authority's
+hedged outstanding variable rate debt and net swap payments (assuming current interest rates remain the same
+for their term and bonds are called as the swap amortizes) are as follows:
+
+                Principal     Interest               Net Swap              Total
+                                                     Payments
+
+    2025     $             -  $ 1,186,455            $ (331,585)        $  854,870
+    2026                             1,186,455               (331,585)
+    2027                   -         1,186,455               (331,585)     854,870
+    2028                             1,186,455               (331,585)
+    2029                   -         1,186,455               (331,585)     854,870
+2030 - 2034                          5,932,275
+2035 - 2039                -         5,588,647             (1,657,923)     854,870
+2040 - 2044                          3,145,509             (1,564,468)
+2045 - 2047                -            599,925                            854,870
+                                                             (885,074)
+    Total                  -  $ 21,198,631                   (169,772)     4,274,352
+
+                7,275,000                            $ (5,935,162)         11,299,179
+
+                14,335,000                                                 16,595,435
+
+                11,165,000                                                 11,595,153
+
+             $ 32,775,000                                               $ 48,038,469
+
+Note 8. Fair Value Measurements
+
+The Authority has categorized its assets and liabilities that are measured at fair value into a three-level fair value
+hierarchy as part of the implementation of GASB Statement No. 72. The hierarchy prioritizes the inputs to valuation
+techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in
+active markets for identical assets or liabilities (Level 1) and the lowest priority to unobservable inputs (Level 3).
+The asset or liability's fair value measurement level within the fair value hierarchy is based on the lowest level of
+any input that is significant to the fair value measurement. Valuation techniques used need to maximize the use of
+observable inputs and minimize the use of unobservable inputs.
+
+                                                                                  36
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+The three levels of the fair value hierarchy are described as follows:
+
+Level 1  Inputs to the valuation methodology are unadjusted quoted prices for identical assets or liabilities in
+Level 2  active markets that the Authority has the ability to access.
+
+Level 3  Inputs to the valuation methodology may include: quoted prices for similar assets or liabilities in
+         active markets; quoted prices for identical or similar assets or liabilities in inactive markets; inputs
+         other than quoted prices that are observable for the asset or liability; and/or inputs that are derived
+         principally from or corroborated by observable market data by correlation or other means. If the
+         asset or liability has a specified (contractual) term, the Level 2 input must be observable for
+         substantially the full term of the asset or liability.
+
+         Inputs to the valuation methodology are unobservable and significant to the fair value measurement.
+         In situations where there is little or no market activity for the asset or liability, the Authority makes
+         estimates and assumptions related to the pricing of the asset or liability including assumptions
+         regarding risk.
+
+Following is a description of the valuation methodologies used by the Authority for assets and liabilities that are
+measured at fair value on a recurring basis. There have been no changes in the methodologies used at
+December 31, 2024.
+
+Money Market Fund Shares: Valued at the published net asset value (NAV), as reported by each fund, of the
+shares held by the Authority at the reporting date. These funds are deemed to be actively traded.
+
+US Treasuries: Valued using pricing models maximizing the use of observable inputs for similar securities.
+
+Federal Agency Obligations: Valued using pricing models maximizing the use of observable inputs for similar
+securities.
+
+Interest Rate Swaps: Valued by a third-party using models which include assumptions about the USD-SIFMA
+interest rate at the reporting date. The Authority uses the fair value provided by the third-party without adjustment.
+See Note 7.
+
+For those assets and liabilities measured at fair value, management determines the fair value measurement
+policies. Those policies and procedures are reassessed at least annually to determine if the current valuation
+techniques are still appropriate. At that time, the unobservable inputs used in the fair value measurements are
+evaluated and adjusted, as necessary, based on current market conditions and other third-party information.
+
+The preceding methods may produce a fair value calculation that may not be indicative of net realizable value or
+reflective of future fair values. Furthermore, although the Authority's management believes its valuation methods
+are appropriate and consistent with other market participants, the use of different methodologies or assumptions to
+determine the fair value of these assets and liabilities could result in a different fair value measurement at the
+reporting date.
+
+                                                                                                            37
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Following is a summary, by major nature and risks class within each level of the fair value hierarchy, of the
+Authority's assets and liabilities that are measured at fair value on a recurring basis as of December 31, 2024:
+
+                                              Fair          Quoted Prices    Significant       Significant
+                                             Value             in Active        Other        Unobservable
+                                                                Markets
+                                                               (Level 1)     Observable          Inputs
+                                                                                Inputs          (Level 3)
+                                                                              (Level 2)
+
+Investment by Fair Value Level            $ 373,401,321 $ 373,401,321 $                   - $                -
+  Money market mutual funds
+  US Treasuries                              45,902,586        45,902,586                 -                  -
+  Federal agency obligations
+                                             1,864,955,853              -    1,864,955,853                   -
+
+Total investments measured at fair value  $ 2,284,259,760 $ 419,303,907 $ 1,864,955,853 $                    -
+
+Hedging Derivative Instruments            $  3,809,560 $                - $               - $ 3,809,560
+  Interest rate swaps
+
+Note 9. Lease and Subscription Liability
+
+Lease Liability: The Authority leases office space, the terms of which expire in various years through 2032. The
+building leases accrue interest at 5.75%.
+
+Future principal and interest requirements to maturity for the lease liability as of December 31, 2024 are:
+
+                                                    Principal              Interest            Total
+
+2025                                         $              735,463  $       360,329         $ 1,095,792
+2026                                                                         316,520                 1,110,281
+2027                                                        793,761          269,268                 1,124,770
+2028                                                                         218,371                 1,139,271
+2029                                                        855,502          163,613                 1,153,759
+2030 - 2032                                                                  148,260                 2,451,513
+                                                            920,900
+
+                                                            990,146
+
+                                                    2,303,253
+
+                                             $ 6,599,025             $ 1,476,361             $ 8,075,386
+
+Subscription Liability: The Authority leases software, the terms of which expire in various years through 2026.
+The software leases accrue interest at 5.65%.
+
+                                                                                                             38
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Future principal and interest requirements to maturity for the subscription liability as of December 31, 2024 are:
+
+         Principal                                      Interest          Total
+
+2025  $  206,501                                     $  6,816          $  213,317
+2026                                                                       11,040
+         10,658                                                   382
+
+      $  217,159                                     $  7,198          $  224,357
+
+Note 10. Retirement Plan
+
+Plan Description
+
+The Authority contributed to the Public Employees' Retirement Fund (PERF), which is administered by INPRS as a
+cost-sharing, multiple-employer defined benefit pension plan. PERF was established to provide retirement,
+disability, and survivor benefits to full-time employees of the State of Indiana not covered by another plan, those
+political subdivisions that elect to participate in the retirement plan, and certain INPRS employees. The fund
+provides supplemental retirement benefits to Public Employees' Defined Benefit Account (PERF DB) members and
+serves as the primary retirement benefit for the My Choice: Retirement Savings Plan for Public Employees (My
+Choice Plan) members.
+
+New employees hired by the State or a participating political subdivision have a one-time election to join either the
+Public Employees' Hybrid Plan (PERF Hybrid Plan) or the My Choice Plan, which is covered in the Defined
+Contributions section below. A new hire that is an existing member of PERF Hybrid Plan and was not given the
+option for My Choice is given the option to elect My Choice Plan or remain in PERF Hybrid Plan. The PERF Hybrid
+Plan consists of two components: PERF DB, the employer-funded monthly defined-benefit component, and the
+Public Employees' Hybrid Members Defined Contribution Account, the defined-contribution component.
+
+Effective January 1, 2018, funds previously known as annuity savings accounts (which were reported within defined-
+benefit funds) were re-categorized as defined contribution funds based on Internal Revenue Private Letter Rulings
+PLR-193-2016 and PLR-110249-18. PERF Defined Contribution member balances (previously known as annuity
+savings accounts) reported within PERF DB were transferred to the appropriate defined-contribution fund as of
+January 1, 2018.
+
+Retirement Benefits - Defined Benefit Pension
+
+A member who has reached age 65 and has at least ten years of creditable service, or eight years for certain elected
+officials, is eligible for normal retirement and, as such, is entitled to 100 percent of the pension benefit component.
+This annual pension benefit is equal to 1.1 percent times the average annual compensation times the number of
+years of creditable service. The average annual compensation in this calculation uses the highest 20 calendar
+quarters of salary in a covered position, or only four quarters for an elected official. All 20 calendar quarters do not
+need to be continuous, but they must be in groups of four consecutive calendar quarters. The same calendar
+quarter may not be included in two different groups. Member contributions paid by the employer on behalf of the
+member and severance pay up to $2,000 are included as part of the member's annual compensation.
+
+A member who has reached age 60 and has at least 15 years of creditable service is eligible for normal retirement
+and, as such, is entitled to 100 percent of the pension benefit. A member who is at least 55 years old and whose
+age plus number of years of creditable service is at least 85 is entitled to 100 percent of the benefits as described
+above.
+
+                                                                                                                    39
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+A member who has reached at least age 50 and has at least 15 years of creditable service is eligible for early
+retirement with a reduced pension. A member retiring early receives a percentage of the normal annual pension
+benefit. The percentage of the pension benefit at retirement remains the same for the member's lifetime. For
+age 59, the early retirement percentage of the normal annual pension benefit is 89 percent. This amount is reduced
+five percentage points per year (e.g., age 58 is 84 percent) to age 50 being 44 percent.
+
+The monthly pension benefits for members in pay status may be increased periodically as cost of living adjustments
+(COLA). Such increases are not guaranteed by statute and have historically been provided on an "ad hoc" basis
+and can only be granted by the Indiana General Assembly. There was a COLA adjustment of 1.00% on January 1,
+2022 and no additional adjustment on January 1, 2023 or January 1, 2024. For 2025, there will be an indexed 13th
+check issued to retired member.
+
+The PERF Plan also provides disability and survivor benefits. A member who has at least five years of creditable
+service and becomes disabled while in active service, on FMLA leave, receiving workers' compensation benefits,
+or receiving employer-provided disability insurance benefits may retire for the duration of the disability, if the
+member has qualified for social security disability benefits and has furnished proof of the qualification. The disability
+benefit is calculated the same as that for a normal retirement without reduction for early retirement. The minimum
+benefit is $180 per month, or the actuarial equivalent.
+
+Upon the death in service of a member with 15 or more years of creditable service as of January 1, 2007, a survivor
+benefit may be paid to the surviving spouse to whom the member had been married for two or more years, or
+surviving dependent children under the age of 18. This payment is equal to the benefit which would have been
+payable to a beneficiary if the member had retired at age 50 or at death, whichever is later, under an effective
+election of the joint and survivor option available for retirement benefits. A surviving spouse or surviving dependent
+children are also entitled to a survivor benefit upon the death in service after January 1, 2007, of a member who
+was at least 65 years of age and had at least 10 but not more than 14 years of creditable service.
+
+Retirement Benefits - Defined Contribution Pension
+
+The My Choice Plan is a multiple employer defined contribution pension plan that serves as the primary retirement
+benefit for the My Choice: Retirement Savings Plan for Public Employees (My Choice) members. New employees
+hired have a one-time election to join either the PERF Hybrid Plan or My Choice Plan, which both include defined-
+contribution funds.
+
+The Public Employees' Hybrid Members Defined Contribution Account (PERF Hybrid DC) is the defined-contribution
+component of the Public Employees' Hybrid Plan. The Public Employees' Defined Benefit Account is the other
+component of the Public Employees' Hybrid Plan. Member contributions are set by statute at three percent of
+compensation, and the employer may choose to make these contributions on behalf of the member. Members are
+100 percent vested in their account balance, which includes all contributions and earnings.
+
+My Choice: Retirement Savings Plan for Public Employees (My Choice) is for members who are full-time employees
+of the State of Indiana or a participating political subdivision that elected to become members of My Choice.
+Member contributions are set by statute at three percent of compensation, plus these members may receive
+additional employer contributions in lieu of the Public Employees' Defined Benefit Account. The Authority does not
+currently offer My Choice to any of its employees. Members are 100 percent vested in all member contributions
+and vest in employer contributions in increments of 20% for each full year of service until 100% is reached at 5
+years.
+
+                                                                                                                                                                                40
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Investments are self-directed, members may make changes daily, and investments are reported at fair value.
+Market risk is assumed by the member, and the member may choose among the following eight investment options
+with varying degrees of risk and return potential: Stable Value Fund, Large Cap Equity Index Fund, Small/Mid Cap
+Equity Fund, International Equity Fund, Fixed Income Fund, Inflation-Linked Fixed Income Fund, Target Date
+Funds, and Money Market Fund.
+
+INPRS issues a publicly available financial report that includes financial statements and required supplementary
+information. That report may be obtained at http://www.inprs.in.gov/.
+
+Significant Actuarial Assumptions
+
+The total pension liability is determined by INPRS actuaries as part of their annual actuarial valuation for each
+defined-benefit retirement plan. Actuarial valuations of an ongoing plan involve estimates of the value of reported
+amounts (e.g., salaries, credited service) and assumptions about the probability of occurrence of events far into the
+future (e.g., mortality, disabilities, retirements, employment terminations). Actuarially determined amounts are
+subject to continual review and potential modifications, as actual results are compared with past expectations and
+new estimates are made about the future.
+
+Key methods and assumptions used in calculating the total pension liability in the latest actuarial valuations are
+presented below:
+
+Asset valuation date: June 30, 2024
+
+Liability valuation date and method:  June 30, 2023 - Member census data as of June 30, 2023 was used in the
+                                      valuation and adjusted, where appropriate, to reflect changes between June 30,
+                                      2023 and June 30, 2024. Standard actuarial roll forward techniques were then
+                                      used to project the total pension liability computed as of June 30, 2023 to the
+                                      June 30, 2024 measurement date.
+
+Actuarial cost method: Entry age normal - level percent of payroll
+
+Experience study date: Period of five years ended June 30, 2019
+
+Investment rate of return: 6.25%
+
+Cost of living adjustment:            2025 - 13th check. Beginning July 1, 2025 - For members retired before
+                                      7/1/2025 - indexed 13th check. For members retired on or after 7/1/2025 - 1%
+                                      COLA.
+
+Projected salary increases: 2.65% - 8.65%
+
+Inflation: 2.00%
+
+The long-term return expectation for the defined-benefit retirement plan has been determined by using a building-
+block approach and assumes a time horizon, as defined in the INPRS Investment Policy Statement. A forecasted
+rate of inflation serves as the baseline for the return expectation. Various real return premiums over the baseline
+inflation rate have been established for each asset class. The long-term expected nominal rate of return has been
+determined by calculating a weighted-average of the expected real return premiums for each asset class, adding
+the projected inflation rate, and adding the expected return from rebalancing uncorrelated asset classes.
+
+                                                                                                                    41
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+                                 Asset Class                         Target           Long-Term
+                                                                   Allocation       Expected Real
+Public equity                                                                       Rate of Return
+Private equity                                                              20.0%
+Fixed income - ex inflation linked                                          15.0%         4.6%
+Fixed income - inflation linked                                             20.0%         7.1%
+Commodities                                                                 15.0%         3.6%
+Real estate                                                                 10.0%         2.1%
+Absolute return                                                             10.0%         2.8%
+Risk parity                                                                               5.4%
+Cash and cash overlay                                                         5.0%        2.5%
+                                                                            20.0%         6.3%
+                                                                           -15.0%         1.7%
+
+                                                                             100%
+
+Total pension liability for the Plan was calculated using the discount rate of 6.25 percent. The projection of cash
+flows used to determine the discount rate assumed the contributions from employers and where applicable from
+the members, would at the minimum be made at the actuarially determined required rates computed in accordance
+with the current funding policy adopted by the INPRS Board, and contributions required by the State (the non-
+employer contributing entity) would be made as stipulated by State statute. Projected inflows from investment
+earnings were calculated using the long-term assumed investment rate of return (6.25 percent). Based on those
+assumptions, the Plan's fiduciary net position was projected to be available to make all projected future benefit
+payments of current Plan members; therefore, the long-term expected rate of return on pension plan investments
+was applied to all periods of projected benefits to determine the total pension liability for the Plan.
+
+Net pension liability is sensitive to changes in the discount rate, and to illustrate the potential impact the following
+table presents the net pension liability of the Plan calculated using the discount rate of 6.25 percent, as well as what
+the Plan's net pension liability would be if it were calculated using a discount rate that is one percentage point lower
+(5.25%), or one percentage point higher (7.25%) than the current rate:
+
+   1% Decrease                                Current Discount     1% Increase
+      (5.25%)                                    Rate (6.25%)         (7.25%)
+
+$  11,398,297                                 $  7,154,594      $  3,626,040
+
+Investment Valuation and Benefit Payment Policies
+
+The pooled and nonpooled investments are reported at fair value by INPRS.
+
+Pension, disability, special death benefits, and distributions of contributions and interest are recognized when due
+and payable to members or beneficiaries. Benefits are paid once the retirement or survivor applications have been
+processed and approved. Distributions of contributions and interest from inactive, nonvested members' annuity
+savings accounts may be requested by members or auto-distributed by the fund when certain criteria are met.
+
+                                                                                    42
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+Funding Policy
+
+The State is obligated by statute to make contributions to the PERF Hybrid Plan or the My Choice Plan. Any political
+subdivision that elects to participate in the PERF Hybrid Plan is obligated by statute to make contributions to the
+Plan. The required contributions are determined by the INPRS Board of Trustees based on actuarial investigation
+and valuation in accordance with IC 5-10.2-2-11. The funding policy provides for periodic employer contributions
+at actuarially determined rates that, expressed as percentages of annual covered payroll, are sufficient to fund the
+pension benefits when they become due. As PERF is a cost-sharing plan, all risks and costs, including benefit
+costs, are shared proportionately by the participating employers. During the fiscal year ended June 30, 2024, all
+participating employers were required to contribute 11.2% of covered payroll for members employed by the State.
+
+In October 2018, the funding policy was restated to incorporate changes up to that point, and additional edits were
+made to clarify current practice. In addition, 2018 SEA 373 introduced a new funding mechanism for postretirement
+benefit increases and restated the actuarially determined contribution. As a result, the funding policy was updated
+to be in compliance with the new statute.
+
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows
+of Resources Related to Pensions
+
+At December 31, 2024, the Authority reported a liability of $7,154,594 for its proportionate share of the net pension
+liability. The Authority's proportionate share of the net pension liability was based on the Authority's wages as a
+proportion of total wages for the PERF Hybrid Plan. The proportionate share used at the June 30, 2024
+measurement date was 0.0017749.
+
+For the year ended December 31, 2024, the Authority recognized pension expense of $2,940,637, which included
+net amortization of deferred amounts from changes in proportion and differences between employer contributions
+and proportionate share of contributions of $548,727. At December 31, 2024, the Authority reported deferred
+outflows of resources and deferred inflows of resources related to the PERF Hybrid Plan from the following sources:
+
+                                                                    Deferred       Deferred
+
+                                                                  Outflows of     Inflows of
+                                                                  Resources       Resources
+
+Differences between expected and actual experience             $  733,259      $              -
+
+Net difference between projected and actual earnings on
+
+pension plan investments                                          947,854                     -
+
+Changes in proportion and differences between the Authority's
+
+contributions and proportionate share contributions               676,403                     -
+
+Authority's contributions subsequent
+
+to the measurement date                                           650,822                     -
+
+Total                                                          $  3,008,338    $              -
+
+                                                                                              43
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Notes to Financial Statements
+December 31, 2024
+
+The Authority reported $650,822 as deferred outflows of resources that will be recognized as a reduction of the net
+pension liability for the year ending December 31, 2025. Other amounts reported as deferred outflows of resources
+and deferred inflows of resources related to pensions will be recognized in pension expense (income) as follows:
+
+2025                                                 $  736,839
+2026
+2027                                                    1,327,366
+2028
+                                                        351,833
+
+                                                        (58,522)
+
+      Total future minimum payments                  $  2,357,516
+
+Note 11. Commitments and Contingencies
+
+Litigation
+
+The Authority is subject to various claims which arise primarily in the ordinary course of conducting its business. In
+management's opinion, the ultimate resolution of such matters will not have a material adverse effect on the
+Authority's financial position or its results of operations.
+
+Investments
+
+The Authority invests in various investment securities. Investment securities are exposed to various risks such as
+interest rate, market and credit risks. Due to the level of risk associated with certain investment securities, it is at
+least reasonably possible that changes in the values of investment securities will occur in the near term and that
+such changes could materially affect the amounts reported in the accompanying statement of net position.
+
+Excess Investment Earnings
+
+In order to preserve the exemption of federal and state income taxation on interest received by the bond holders,
+each bond issue is subject to certain Internal Revenue Code (IRC) and U.S. Treasury Regulations for arbitrage.
+Under these regulations, the Authority is required to pay the Federal government any excess earnings as defined
+by IRC Section 148(f) on all non-purpose investments if such investments were invested at a rate greater than the
+yield on the bond issue.
+
+Note 12. Subsequent Events
+
+Debt Issuance
+
+On January 30, 2025, the Authority issued $124,440,000 of Indiana Housing and Community Development Authority
+Single Family Mortgage Revenue Bonds, 2025 Series A (2025 Series A Bonds). The 2025 Series A Bonds include
+serial bonds maturing through 2037, and term bonds, which mature in 2040, 2045, 2050, 2055 and PAC bonds due
+2055. The 2024 Series A Bonds bear interest at rates ranging from 3.80% to 6.00%.
+
+In May of 2025, the Authority plans to issue an estimated $200,000,000 of Indiana Housing and Community
+Development Authority Single Family Mortgage Revenue Bonds, 2025 Series B (2025 Series B Bonds). The 2025
+Series B Bonds are anticipated to include serial bonds, term bonds, and PAC bonds bearing fixed interest rates.
+
+                                                                   44
+REQUIRED SUPPLEMENTARY INFORMATION
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Required Supplementary Information
+Schedule of the Authority's Proportionate Share of the Net Pension Liability
+Indiana Public Employee's Retirement Fund (PERF)
+Last 10 Fiscal Years*
+
+                                                    2024      2023      2022      2021      2020                                                         2019      2018      2017      2016      2015
+
+Authority's proportion of the net pension           0.17749%  0.17168%  0.14032%  0.10912%  0.10234%                                                     0.10232%  0.09831%  0.09670%  0.10992%  0.09270%
+  liability
+                                                    $ 7,154,594 $ 6,059,160 $ 4,425,456 $ 1,435,852 $ 3,091,072 $ 3,381,471 $ 3,339,635 $ 4,314,313 $ 4,988,658 $ 3,775,580
+Authority's proportionate share of the net
+  pension liability
+
+Authority's covered payroll                         $ 11,921,706 $ 10,793,631 $ 8,075,593 $ 6,016,439 $ 5,524,718 $ 5,330,879 $ 5,016,583 $ 4,797,552 $ 5,268,120 $ 4,440,142
+
+Authority's proportionate share of the net pension  60.0%     56.1%     54.8%     23.9%     55.9%                                                        63.4%     66.6%     89.9%     94.7%     85.0%
+  liability as a percentage of its covered payroll
+
+Plan fiduciary net position as a percentage         79.5%     80.8%     82.5%     92.5%     81.4%                                                        80.1%     78.9%     72.7%     71.2%     73.3%
+  of the total pension liability (a)
+
+(a) 2015 - 2017 were adjusted to reflect defined benefit activity only due to split of the defined benefit/contribution plan effective January 1, 2018.
+
+* The amounts presented for each fiscal year were determined as of June 30.
+
+Notes to Schedule:
+
+Benefit changes: No changes.
+
+Changes of assumption: The COLA assumption was revised by the passage of HEA 1004-2024.
+
+Changes in actuarial methods: Change in surcharge rate effective with the 2024 valuation, which is required by HEA 1004-2024 to begin funding
+for an inflation-indexed 13th Check and 1% COLA.
+
+                                                                                                                                                                                                       45
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Required Supplementary Information
+Schedule of the Authority's Contributions
+Indiana Public Employee's Retirement Fund (PERF)
+Last 10 Fiscal Years*
+
+                                                     2024       2023       2022       2021       2020       2019       2018       2017       2016       2015
+
+Contractually required contribution               $ 1,316,055 $ 1,306,729 $ 1,101,307 $ 697,724 $ 636,878 $ 632,393 $ 588,395 $ 538,661 $ 528,036 $ 475,408
+Contributions in relation to the contractually
+                                                     1,316,055  1,306,729  1,101,307  697,724    636,878    632,393    588,395    538,661    528,036    475,408
+  required contribution
+Contribution deficiency (excess)                  $        - $        - $        - $        - $        - $        - $        - $        - $        - $        -
+
+Authority's covered payroll                       $ 11,750,522 $ 11,627,969 $ 9,836,244 $ 6,247,065 $ 5,686,451 $ 5,646,363 $ 5,253,524 $ 4,809,471 $ 4,719,016 $ 4,244,707
+Contributions as a percentage of covered payroll
+                                                     11.2%      11.2%      11.2%      11.2%      11.2%      11.2%      11.2%      11.2%      11.2%      11.2%
+
+* The amounts presented for each fiscal year were determined as of December 31.
+
+Notes to Schedule:
+
+Benefit changes: No changes.
+
+Changes of assumption: The COLA assumption was revised by the passage of HEA 1004-2024.
+
+Changes in actuarial methods: Change in surcharge rate effective with the 2024 valuation, which is required by HEA 1004-2024 to begin funding
+for an inflation-indexed 13th Check and 1% COLA.
+
+                                                                                                                                                              46
+Supplementary Information
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Supplementary Information
+Combining Schedule of Net Position
+December 31, 2024
+
+                                                                General           Program           Single                 MBS          2024
+                                                                 Fund               Fund            Family              Pass-thru       Total
+                                                                                                    Fund
+                                                                                                                           Fund
+
+Assets and Deferred Outflows of Resources                    $  66,987,705 $               - $      33,237,465 $                 - $    100,225,170
+  Current Assets                                                                                                         62,400         468,950,031
+     Cash and cash equivalents                                  3,542,877         186,417,318       278,927,436
+       Unrestricted                                                                                                              -         2,042,486
+       Restricted                                                1,154,078                       -       888,408         65,742            7,973,513
+     Accrued interest receivable                                             -                   -     7,907,771                         14,963,375
+       Investments                                                                 12,905,517                                    -
+       Investments held against bonds                            1,867,924             232,250           189,934                 -           395,998
+     Accounts and loans receivable, net                             163,748       199,555,085                      -    128,142         594,550,573
+     Other assets
+          Total current assets                                  73,716,332                          321,151,014
+
+  Noncurrent Assets                                             111,705,800                      -      82,673,403                   -    194,379,203
+     Investments                                                               -                 -  1,693,937,599       22,541,637      1,716,479,236
+       Unrestricted                                                               118,599,974
+     Investments held against bonds                              17,644,689                      -      87,406,941                   -    223,651,604
+     Accounts and loans receivable, net                                        -         80,037          3,809,560                           3,809,560
+     Derivative instrument - interest rate swap agreements                                                           -               -       1,371,459
+     Capital assets, at cost, less accumulated depreciation        1,291,422           121,677
+     Lease and subscription assets, less                                           (7,236,309)                       -               -       5,812,992
+       accumulated amortization                                    5,691,315      111,565,379           (3,034,979)                  -                   -
+     Interfund accounts                                          10,271,288       311,120,464       1,864,792,524       22,541,637
+          Total noncurrent assets                               146,604,514                         2,185,943,538       22,669,779      2,145,504,054
+          Total assets                                          220,320,846                                                             2,740,054,627
+
+  Deferred Outflows of Resources                                3,008,338                  -                -                        -             3,008,338
+     Pension-related                                                                                                        716,171                   716,171
+     Deferred refunding costs                                            -                 -                -               716,171
+          Total deferred outflows of resources                                                                                                     3,724,509
+                                                                3,008,338                  -                -           23,385,950
+          Total assets and deferred outflows of resources                                                                               $ 2,743,779,136
+                                                             $ 223,329,184 $ 311,120,464 $ 2,185,943,538 $
+Liabilities, Deferred Inflows of Resources
+  and Net Positions                                          $           - $               - $      29,430,000 $               - $       29,430,000
+  Current Liabilities                                                                                                   65,742           40,876,345
+     Bonds payable                                                       -                 -        40,810,603                          116,318,065
+     Accrued interest payable                                                                                                  -
+     Unearned revenue                                           7,265             116,310,800               -                  -             300,263
+     Government advances                                                                                                       -             941,964
+     Lease and subscription liability                                    -        300,263                   -                  -         16,635,270
+     Accounts payable and other liabilities                                                                             65,742          204,501,907
+          Total current liabilities                             784,792           157,172                   -
+
+  Noncurrent Liabilities                                        6,813,325         9,630,506         191,439
+     Bonds payable
+     Original issue premium                                     7,605,382         126,398,741       70,432,042
+          Bonds payable, net
+     Notes payable                                                           -                   -  1,935,245,000       23,065,111      1,958,310,111
+     Pension liability                                                       -                   -      32,686,727          587,475         33,274,202
+     Government advances                                                                         -
+     Lease and subscription liability                                        -       1,318,551      1,967,931,727       23,652,586      1,991,584,313
+     Other non-current liabilities                               7,154,594                       -                   -               -       1,318,551
+          Total noncurrent liabilities                                             31,650,393                        -               -       7,154,594
+          Total liabilities                                                  -             4,431                     -               -
+                                                                 5,869,789                       -                   -               -      31,650,393
+  Deferred Inflows of Resources                                                    32,973,375                                        -       5,874,220
+     Accumulated increase in fair value of derivative                        -    159,372,116                 35,687                              35,687
+          Total deferred inflows of resources                   13,024,383                          1,967,967,414       23,652,586
+                                                                20,629,765                          2,038,399,456       23,718,328      2,037,617,758
+  Net Position                                                                                                                          2,242,119,665
+     Net investment in capital assets
+     Restricted                                                          -                 -        3,809,560                      -    3,809,560
+     Unrestricted
+          Total net position                                             -                 -        3,809,560                      -    3,809,560
+
+          Total liabilities, deferred inflows of                     328,156             40,111                    -              -          368,267
+            resources and net position                             3,542,877      151,708,237        29,970,225                   -     185,221,339
+                                                                198,828,386                         113,764,297         (332,378)       312,260,305
+                                                                202,699,419                      -  143,734,522         (332,378)       497,849,911
+                                                                                  151,748,348
+
+                                                             $ 223,329,184 $ 311,120,464 $ 2,185,943,538 $              23,385,950 $ 2,743,779,136
+
+                                                                                                                                               47
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Supplementary Information
+Combining Schedule of Revenues, Expenses and Changes in Net Position
+Year Ended December 31, 2024
+
+                                                           General          Program            Single              MBS        2024
+                                                            Fund              Fund                                            Total
+                                                                                               Family           Pass-thru
+                                                                                               Fund                Fund
+
+Revenues                                                $  6,954,743 $      1,823,652 $ 13,932,019 $            3,528 $ 22,713,942
+  Interest income
+     Investments                                                    -                -         80,699,428       1,059,739     81,759,167
+     Investments held against bonds
+     Loans                                                          -       1,379,056                  -                   -  1,379,056
+  Fee income
+  Program income                                           10,522,337                -                 -                   -  10,522,337
+  Gain on sale of Next Home investments
+  Net increase (decrease) in fair value of investments     2,876,638        605,399,844                -                   -  608,276,482
+  Other income
+           Total revenues                                  627,785                   -         277,058                     -  904,843
+
+Expenses                                                   797,529                   -         597,629          (359,174)     1,035,984
+  Investment expense (down payment assistance)
+  Loss on sale of investments                              1,506,084                 -                 -                   -  1,506,084
+  Interest expense
+  Issuance costs                                           23,285,116       608,602,552        95,506,134       704,093       728,097,895
+  Program expenses
+  Arbitrage expense                                            239,282                      -                -            -        239,282
+  General and administrative expenses                          198,414                      -      421,595                -        620,009
+           Total expenses                                                        350,423       69,586,365       939,174        70,961,612
+                                                                85,650                      -   6,798,300                 -      6,798,300
+Operating Income                                                         -  558,973,753         9,893,823                 -   571,385,740
+                                                                                            -       (85,632)              -         (85,632)
+Transfers                                                   2,518,164        35,791,557         3,789,944         18,184       48,066,045
+  Interfund transfers                                                    -  595,115,733        90,404,395       957,358       697,985,356
+
+Increase (Decrease) in Net Position                         8,466,360         13,486,819         5,101,739      (253,265)      30,112,539
+                                                           11,507,870
+Net Position, Beginning of Year
+                                                           11,777,246
+Net Position, End of Year
+                                                           21,228           (21,228)           117,383          (117,383)            -
+
+                                                           11,798,474       13,465,591         5,219,122        (370,648)     30,112,539
+
+                                                           190,900,945      138,282,757        138,515,400      38,270        467,737,372
+
+                                                        $ 202,699,419 $ 151,748,348 $ 143,734,522 $             (332,378) $ 497,849,911
+
+                                                                                                                                     48
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Supplementary Information
+Combining Schedule of Cash Flows
+Year Ended December 31, 2024
+
+                                                                                           General              Program           Single Family           MBS             2024
+                                                                                            Fund                  Fund                  Fund           Pass-thru          Total
+
+                                                                                                                                                          Fund
+
+Cash Flows From Operating Activities                                                    $  12,226,319        $           -     $                 -  $            -     $  12,226,319
+  Receipts for services                                                                                                                                          -
+  Receipts for program revenue                                                             2,861,357            518,974,448       55,836                         -        521,891,641
+  Principal issued on loans receivable                                                                                                                     3,528
+  Interest received on investments                                                         (1,862,541)                   -                       -      984,438           (1,862,541)
+  Interest received on investments held against bonds                                                                                                            -
+  Interest received on loans                                                               6,652,922            1,823,652         13,985,691                     -        22,465,793
+  Payments for program expenses                                                                                                                        (850,667)
+  Interest paid on bonds and bank loans                                                             -                    -        72,116,313                     -        73,100,751
+  Debt issuance costs incurred                                                                                                                          (18,184)
+  Payments for suppliers and employees                                                              -           1,379,056                        -               -        1,379,056
+  Interfund activity                                                                                                                                    119,115
+            Net cash provided by (used in) operating activities                            (2,518,164)          (598,778,641)     (9,893,823)                             (611,190,628)
+
+Cash Flows From Noncapital and Related Financing Activities                                (85,650)             (350,423)         (53,596,051)                            (54,882,791)
+  Proceeds from bond issues
+  Repayments and redemption of bonds and bank loans                                                 -                    -        (6,798,300)                             (6,798,300)
+  Transfers
+            Net cash provided by (used in) noncapital and related financing activities     (2,934,646)                   -        (3,754,100)                             (6,706,930)
+
+Cash Flows From Capital and Related Financing Activities                                   (1,362,738)          519,042           843,696                                        -
+  Purchases of capital assets
+  Payments on lease and subscription liability                                             12,976,859           (76,432,866)      12,959,262                              (50,377,630)
+            Net cash provided by (used in) capital and related financing activities
+                                                                                                  -                      -        734,983,030                       -     734,983,030
+Cash Flows From Investing Activities                                                              -             (76,221)          (66,250,001)         (3,350,939)        (69,677,161)
+  Proceeds from sale and maturities of investments                                         21,228               (21,228)
+  Principal received on investments held against bonds                                     21,228               (97,449)               117,383           (117,383)                       -
+  Purchases of investments held against bonds                                                                                     668,850,412          (3,468,322)        665,305,869
+  Purchase of DPA loans
+  Purchase of investments                                                                  (373,110)                     -                       -                -       (373,110)
+            Net cash provided by (used in) investing activities
+                                                                                           (770,433)            (139,504)                        -                -       (909,937)
+Net Increase (Decrease) in Cash and Cash Equivalents
+                                                                                           (1,143,543)          (139,504)                        -                -       (1,283,047)
+Cash and Cash Equivalents, January 1
+                                                                                            87,147,450                   -        27,700,579                      -            114,848,029
+Cash and Cash Equivalents, December 31                                                                    -                                            3,350,965                 93,697,020
+                                                                                                          -              -        90,346,055
+Cash and Cash Equivalents                                                                                 -                                                       -          (631,287,144)
+          Cash                                                                                                           -        (631,287,144)                   -            (27,922,806)
+          Money market investments                                                         (95,000,000)                                                           -
+                                                                                            (7,852,550)                  -        (27,922,806)         3,350,965             (119,719,184)
+                         Total cash and cash equivalents                                                                                                                     (570,384,085)
+                                                                                                                         -        (24,719,184)              1,758
+                                                                                                                                                                                 43,261,107
+                                                                                                                         -        (565,882,500)            60,642
+                                                                                                                                                                               525,914,094
+                                                                                           4,001,994            (76,669,819)      115,927,174              62,400
+                                                                                                                                                                       $ 569,175,201
+                                                                                           66,528,588           263,087,137       196,237,727
+
+                                                                                        $  70,530,582        $ 186,417,318     $ 312,164,901        $
+
+                                                                                        $  54,549,298        $ 141,224,583     $  50,875            $         -        $ 195,824,756
+                                                                                                                                                       62,400                  373,350,445
+                                                                                           15,981,284           45,192,735        312,114,026
+                                                                                                                                                       62,400          $ 569,175,201
+                                                                                        $  70,530,582        $ 186,417,318     $ 312,164,901        $
+
+                                                                                                                                                                                 49
+Indiana Housing and Community Development Authority
+(A Component Unit of the State of Indiana)
+Supplementary Information
+Combining Schedule of Cash Flows (Continued)
+Year Ended December 31, 2024
+
+                                                                       General            Program              Single Family           MBS           2024
+                                                                        Fund                Fund                     Fund           Pass-thru        Total
+
+                                                                                                                                       Fund
+
+Noncash Transactions From Capital and Related Financing Activities  $  17,793          $  78,280            $                 -  $             -  $  96,073
+  Issuance of lease and subscription obligation
+                                                                    $  11,777,246      $  13,486,819        $  5,101,739         $  (253,265)     $  30,112,539
+Reconciliation of Change in Net Position to Net Cash
+  Provided by Operating Activities:                                    (797,529)                   -             (597,629)           359,174                (1,035,984)
+     Change in net position                                              198,414                   -               144,537                    -                 342,951
+     Adjustment to reconcile change in net position to net cash                           247,283                           -                 -
+       provided by (used in) operating activities:                     1,228,811                   -                                                         1,476,094
+          Net increase in fair value of investments                               -                            (5,421,883)           (84,962)               (5,506,845)
+          Loss on sale of investments
+          Depreciation                                                 (2,292,428)         (5,675,148)              55,836                    -             (7,911,740)
+          Amortization of bond premium/discount                          (301,821)                       -     (3,107,560)               9,661              (3,399,720)
+          Changes in operating assets and liabilities:
+            Accounts and loan receivable                               (1,385,284)             325,288             843,696                    -               (216,300)
+            Accrued interest receivable                                    531,272                       -                  -                 -                 531,272
+            Other assets                                                            -                    -                  -          98,169                    98,169
+            Deferred pension costs                                            7,265                                         -                 -
+            Deferred refunding costs                                                      (80,902,894)                                        -           (80,895,629)
+            Unearned revenue                                            2,917,604          (4,260,614)             (49,788)            (9,662)              (1,392,798)
+            Accounts payable and other liabilities                                  -                    -     15,990,314                     -             15,980,652
+            Accrued interest payable                                                                     -                                    -              1,095,434
+            Net pension liability                                       1,095,434                        -                  -                 -                  (2,125)
+            Deferred pension revenue                                        (2,125)            346,400                      -        372,380                    346,400
+            Government advances                                                     -                                       -
+               Total adjustments                                                          (89,919,685)          7,857,523            119,115              (80,490,169)
+                                                                        1,199,613
+               Net cash provided by (used in) operating activities                                                                                $ (50,377,630)
+                                                                    $  12,976,859      $ (76,432,866)       $  12,959,262        $
+
+                                                                                                                                                            50
+

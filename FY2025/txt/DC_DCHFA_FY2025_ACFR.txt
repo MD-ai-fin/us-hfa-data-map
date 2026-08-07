@@ -1,0 +1,2602 @@
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Financial Statements
+For the Years Ended September 30, 2025 and 2024
+With Independent Auditor’s Report
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Financial Statements
+For the Years Ended September 30, 2025 and 2024
+TABLE OF CONTENTS
+Page(s)
+INDEPENDENT AUDITOR’S REPORT 1–4
+REQUIRED SUPPLEMENTARY INFORMATION
+Management’s Discussion and Analysis (Unaudited) 5–10
+BASIC FINANCIAL STATEMENTS
+Statements of Net Position 11–13
+Statements of Revenues, Expenses and Changes in Net Position 14
+Statements of Cash Flows 15–16
+Notes to Financial Statements 17–47
+SUPPLEMENTARY INFORMATION
+Combining Statements of Net Position 48–51
+Combining Statements of Revenues, Expenses and Changes in Net Position 52–53
+Combining Statements of Cash Flows 54–56
+Schedules of Cash/Cash Equivalents, Investments and Mortgage-Backed
+Securities by Program 57–72
+Independent Auditor’s Report on Internal Control over Financial
+Reporting and on Compliance and Other Matters Based on an
+Audit of Financial Statements Performed in Accordance with
+Government Auditing Standards 73–74
+INDEPENDENT AUDITOR’S REPORT
+To the Board of Directors
+District of Columbia Housing Finance Agency
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the District of Columbia Housing Finance Agency
+(the Agency), a component unit of the Government of the District of Columbia, as of and for the
+years ended September 30, 2025 and 2024, and the related notes to the financial statements,
+which collectively comprise the Agency’s basic financial statements as listed in the table of
+contents.
+In our opinion, the accompanying financial statements present fairly, in all material respects, the
+financial position of the Agency as of September 30, 2025 and 2024, and the changes in its
+financial position and its cash flows for the years then ended in accordance with accounting
+principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the
+United States of America (GAAS) and the standards applicable to financial audits contained in
+Government Auditing Standards issued by the Comptroller General of the United States
+(Government Auditing Standards). Our responsibilities under those standards are further
+described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of
+our report. We are required to be independent of the Agency and to meet our other ethical
+responsibilities, in accordance with the relevant ethical requirements relating to our audits. We
+believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis
+for our audit opinion.
+Responsibilities of Management for the Financial Statements
+The Agency’s management is responsible for the preparation and fair presentation of the
+financial statements in accordance with accounting principles generally accepted in the United
+States of America, and for the design, implementation, and maintenance of internal control
+relevant to the preparation and fair presentation of financial statements that are free from
+material misstatement, whether due to fraud or error.
+80 Pine Street
+New York, NY 10005
+T +1 212 709 4500
+F +1 212 709 4680
+1 mitchelltitus.com
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about the
+Agency’s ability to continue as a going concern for twelve months beyond the financial
+statement date, including any currently known information that may raise substantial doubt
+shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance
+but is not absolute assurance and, therefore, is not a guarantee that an audit conducted in
+accordance with GAAS and Government Auditing Standards will always detect a material
+misstatement when it exists. The risk of not detecting a material misstatement resulting from
+fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they
+would influence the judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks.
+Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Agency’s internal control. Accordingly, no such opinion
+is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Agency’s ability to continue as a going
+concern for a reasonable period of time.
+2
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audits, significant audit findings, and certain
+internal control-related matters that we identified during the audits.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management’s discussion and analysis on pages 5 through 10 be presented to supplement the
+basic financial statements. Such information is the responsibility of management and, although
+not a part of the basic financial statements, is required by the Governmental Accounting
+Standards Board who considers it to be an essential part of financial reporting for placing the
+basic financial statements in an appropriate operational, economic, or historical context. We
+have applied certain limited procedures to the required supplementary information in
+accordance with GAAS, which consisted of inquiries of management about the methods of
+preparing the information and comparing the information for consistency with management’s
+responses to our inquiries, the basic financial statements, and other knowledge we obtained
+during our audit of the basic financial statements.
+We do not express an opinion or provide any assurance on the information because the limited
+procedures do not provide us with sufficient evidence to express an opinion or provide any
+assurance.
+Supplementary Information
+Our audits were conducted for the purpose of forming an opinion on the financial statements
+that collectively comprise the Agency’s basic financial statements. The combining statements of
+net position, combining statements of revenues, expenses and changes in net position,
+combining statements of cash flows, and schedules of cash/cash equivalents, investments and
+mortgage-backed securities by program (the “supplementary information”) are presented for
+purposes of additional analysis and are not a required part of the basic financial statements.
+The supplementary information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the basic
+financial statements. The information has been subjected to the auditing procedures applied in
+our audit of the basic financial statements and certain additional procedures, including
+comparing and reconciling such information directly to the underlying accounting and other
+records used to prepare the basic financial statements or to the basic financial statements
+themselves, and other additional procedures in accordance with GAAS. In our opinion, the
+supplementary information is fairly stated, in all material respects, in relation to the basic
+financial statements as a whole.
+3
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+December 16, 2025, on our consideration of the Agency’s internal control over financial
+reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to
+describe the scope of our testing of internal control over financial reporting and compliance and
+the results of that testing, and not to provide an opinion on the effectiveness of internal control
+over financial reporting or on compliance. That report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the Agency’s internal control
+over financial reporting and compliance.
+December 16, 2025
+4
+REQUIRED SUPPLEMENTARY INFORMATION
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis
+September 30, 2025 and 2024 (Unaudited)
+Our discussion and analysis of the District of Columbia Housing Finance Agency’s financial
+performance provides an overview of the Agency’s financial activities for the years ended
+September 30, 2025, and 2024. The financial statements, accompanying notes, and additional
+information should be read in conjunction with the following discussion.
+OVERVIEW
+The District of Columbia Housing Finance Agency (the Agency) was established in 1979 to
+stimulate and expand homeownership and rental housing opportunities for low- and moderate-
+income families in the District of Columbia (the District). The Agency primarily issues taxable
+and tax-exempt mortgage revenue bonds to lower the financing costs for single family
+homebuyers and multifamily developers acquiring, constructing, and rehabilitating rental
+housing in the District of Columbia. The amount of tax-exempt bonds the Agency can issue
+each year is prescribed in a formula embedded in Federal legislation. In addition, the Agency
+administers the issuance of 4% low-income housing tax credits on behalf of the District of
+Columbia Department of Housing and Community Development (DHCD), to achieve its
+affordable housing preservation, rehabilitation, and development objectives. The Agency is self-
+sustaining, and its budget, finances, procurement, and personnel system are independent of the
+District of Columbia Government.
+The Agency accounts for its financial activities using program revenues and funds, through
+housing revenue bonds financing, mortgage enhancements and lending programs, for its single
+family and multifamily loan programs and its general operations. The Agency’s General Fund is
+used to record the receipt of income not directly pledged for repayment of debt securities and to
+pay expenses related to the Agency’s administrative functions and operations, including bond
+program administration, mortgage servicing, the United States Department of Housing and
+Urban Development (“HUD”) Risk-Sharing insurance program and the McKinney Act loan
+program. The Agency’s active bond programs include (i) single family mortgage revenue bonds,
+(ii) multifamily housing revenue bonds (conduit financing), and (iii) multifamily development
+program bonds, for acquisition, construction, rehabilitation of multifamily residential rental
+projects, and refinancing of existing debt. In conjunction with the Agency’s multifamily revenue
+bonds, developers may be entitled to 4% Low Income Housing Tax Credits under the Internal
+Revenue Code.
+The Agency also operates programs that include down payment and closing cost assistance,
+pre-development loans, construction monitoring services, multifamily mortgage loan servicing
+and a wide range of other technical assistance services that are available to prospective
+homeowners, developers and to the District of Columbia at large.
+The Single Family and Multifamily program funds are used to account for:
+ Proceeds of bonds, notes, debentures or other financial indebtedness of the Agency;
+ Cash and investments held under the bond indenture revenue fund;
+ Debt service reserve fund, rebate fund, redemption fund and program subsidy fund; and
+ Mortgage loans held pursuant to the bond indenture, and repayments and prepayments
+collected from mortgage loans originated under the bond indenture.
+5
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis (continued)
+September 30, 2025 and 2024 (Unaudited)
+FINANCIAL HIGHLIGHTS FOR THE YEAR ENDED SEPTEMBER 30, 2025, AND
+COMPARATIVE FINANCIAL HIGHLIGHTS FOR THE YEARS ENDED SEPTEMBER 30,
+2024, AND 2023
+Significant Macroeconomic Factors and Program Updates
+Fiscal year 2025 (FY2025) reflected relatively flat volume for the Agency’s Single-Family and
+Multifamily programs. Economic data during FY2025 remained mixed leading the Federal
+Reserve to move cautiously in lowering interest rates. For the fiscal year, the Single-Family
+program generated just under $16 million of new first trust DC Open Door loans versus just
+under $20 million in FY2024. The Multifamily program volume slightly increased to $240 million
+from $200 million in FY2024.
+In March 2017, the Agency entered into a grant agreement with DHCD as the sub-recipient in
+the administration of the homebuyer assistance programs that included Home Purchase
+Assistance Program (HPAP) funded by a variety of sources to include the Community
+Development Block Grant (CDBG) funds. During FY2025, the Agency expanded programs to
+include the Employer Assisted Housing Program (EAHP) funded by local, District of Columbia,
+sources. The Agency continued to be one of two program administrators for the HPAP program
+in FY2025 and has been selected for FY2026, as well. The Agency processed 141 HPAP and
+three EAHP loans in FY2025 on behalf of the DC Government and DHCD. The Agency
+maintains a $10,000,000 line of credit with Industrial Bank to serve as a facility to fund
+HPAP/EAHP loans. The line is paid down upon receipt of reimbursements from DHCD. As of
+September 30, 2025, the outstanding balance on the line was $400,000.
+BASIC FINANCIAL STATEMENTS
+The accompanying financial statements include statements of net position, statements of
+revenues, expenses and changes in net position and statements of cash flows. The statements
+of net position show the financial position of the Agency and its programs as of the end of the
+reporting period, while the statements of revenues, expenses and changes in net position show
+the results of operations for the reporting period. The statements of cash flows show sources
+and uses of cash in the operating, investing, and financing activities of the Agency and its
+programs.
+6
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis (continued)
+September 30, 2025 and 2024 (Unaudited)
+FINANCIAL STATEMENT ANALYSIS
+The following information is an analysis of the Agency’s financial statements as of and for the
+year ended September 30, 2025, compared to the financial statements as of and for the years
+ended September 30, 2024, and 2023:
+Net Net
+2025 Change 2024 Change 2023
+ASSETS
+Current assets $ 215,324,042 11.6% $ 192,921,223 (4.8)% $ 202,717,321
+Non-current other assets 526,253,087 6.4% 494,719,402 5.9% 467,107,560
+Non-current capital assets, net 1,994,812 17.6% 1,696,373 (16.4)% 2,029,902
+Total assets $ 743,571,941 7.9% $ 689,336,998 2.6% $ 671,854,783
+LIABILITIES
+Current liabilities $ 132,748,179 15.2% $ 115,202,940 (25.4)% $ 154,352,914
+Non-current liabilities 399,299,430 9.0% 366,375,863 12.0% 327,066,057
+Total liabilities 532,047,609 10.5% 481,578,803 0.0% 481,418,971
+NET POSITION
+Net investment in capital assets 1,956,687 20.9% 1,617,835 (15.4)% 1,912,141
+Restricted for
+Bond fund, collateral and Risk Share Program 38,293,013 8.7% 35,222,814 4.4% 33,729,290
+McKinney Act Program 10,677,628 4.5% 10,219,074 7.1% 9,545,342
+Total restricted 48,970,641 7.8% 45,441,888 5.0% 43,274,632
+Unrestricted 160,597,004 (.1)% 160,698,472 10.6% 145,249,039
+Total net position 211,524,332 1.8% 207,758,195 9.1% 190,435,812
+Total liabilities and net position $ 743,571,941 7.9% $ 689,336,998 2.6% $ 671,854,783
+7
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis (continued)
+September 30, 2025 and 2024 (Unaudited)
+FINANCIAL STATEMENT ANALYSIS (continued)
+Net Net
+2025 Change 2024 Change 2023
+OPERATING REVENUES
+Investment interest income $ 7,662,492 19.3% $ 6,425,390 30.6% $ 4,919,657
+Mortgage-backed security interest income 396,236 (10.2)% 441,378 (8.5)% 482,451
+Interest on mortgage and construction loans 8,323,373 15.9% 7,183,948 14.2% 6,293,299
+Construction and development admin fees 3,291,201 (30.6)% 4,744,386 16.3% 4,078,138
+Financing fee income 4,751,200 17.1% 4,057,198 (68.6)% 12,927,765
+Tax credit fee income 1,210,549 20.8% 1,002,312 (69.2)% 3,251,154
+Bond administration fee income 9,267,080 9.4% 8,471,544 (5.8)% 8,997,570
+McKinney Act interest revenue 457,234 -8.1% 497,356 13.0% 439,962
+Application and commitment fees 190,655 81.7% 104,945 (84.9)% 693,024
+Bond counsel fees 270,000 20.0% 225,000 (71.6)% 792,208
+Gain on sale of single family loans 312,974 14.0% 274,602 (31.8)% 402,682
+Mortgage prepayment income - (100.0)% 937,991 N/A -
+Project revenue 6,807,726 287.6% 1,756,542 (40.2)% 2,938,856
+Other 950,258 (42.4)% 1,650,189 47.8% 1,116,844
+Total operating revenues 43,890,978 16.2% 37,772,781 (20.2)% 47,333,610
+OPERATING EXPENSES
+General and administrative 4,066,438 (.5)% 4,085,951 (5.6)% 4,329,223
+Personnel and related costs 11,131,489 16.2% 9,581,685 16.5% 8,223,552
+Interest expense 13,412,005 13.2% 11,843,438 39.3% 8,499,265
+Depreciation and amortization 322,637 (16.8)% 387,770 (29.3)% 548,119
+Trustee fees and other expenses 493,217 (24.3)% 651,488 2541.7% 24,662
+Total operating expenses 29,425,786 10.8% 26,550,332 22.8% 21,624,821
+Operating income 14,465,192 28.9% 11,222,449 (56.3)% 25,708,789
+Non-operating revenues (expenses) (10,699,055) (275.4)% 6,099,934 2880.6% 204,657
+Change in net position 3,766,137 (78.3)% 17,322,383 (33.2)% 25,913,446
+Net position, beginning of year 207,758,195 9.1% 190,435,812 15.8% 164,522,366
+Net position, end of year $ 211,524,332 1.8% $ 207,758,195 9.1% $ 190,435,812
+Operating Results
+During FY2025, the Agency’s combined net position increased by $3.8 million, which comprises
+operating income of $14.5 million and a non-operating expense of $10.7 million reflecting
+deployment of the Portfolio Stabilization Grants.
+Total assets increased by $54.2 million, or 7.9%, primarily attributed to a new multifamily HUD
+risk share transaction.
+FY2025 operating income of $14.5 million was up 28.9% compared to FY2024 operating
+income of $11.2 million, primarily attributed to higher project revenue, related to construction
+timing, as well as a higher interest income related to a continued higher interest rate
+environment.
+Combined operating expenses in FY2025 were $2.9 million, or 10.8%, higher than FY2024,
+primarily as a result of slightly higher interest expense and personnel expenses, which include
+annual compensation adjustments.
+8
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis (continued)
+September 30, 2025 and 2024 (Unaudited)
+DEBT MANAGEMENT
+Debt activity and mortgage revenue bonds issued for the years ended September 30, 2025,
+2024 and 2023 was as follows:
+2025 2024 2023
+Beginning balance $ 374,802,451 $ 339,008,947 $ 280,782,284
+New issuance/draws 59,356,438 49,360,733 72,103,880
+Redemptions/maturities (31,071,078) (13,568,550) (13,868,991)
+Amortization of premium 14,869 1,321 (8,226)
+Ending balance $ 403,102,680 $ 374,802,451 $ 339,008,947
+The outstanding debt numbers represent the Agency’s risk share portfolio where it takes
+financial risk along with the Department of Housing and Urban Development in a portfolio of 22
+multifamily projects.
+The overall outstanding debt position increased in FY2025 from $374.8 million on September
+30, 2024 to $403.1 million on September 30, 2025, primarily due to one new risk share deal that
+was added during FY2025.
+In March 2017, the Agency established a line of credit with Industrial Bank for the purpose of
+funding HPAP loans. As of September 30, 2025, there was an outstanding balance on the
+Industrial credit line of $400,000.
+During FY2025, the Agency financed six new multifamily projects for approximately $240
+million.
+During FY2024, the Agency financed four new multifamily projects and supplemental
+bonds for one existing deal for approximately $200 million.
+KEY BOND PROGRAMS
+Multifamily Development Program (MFDP)
+The Agency desired to implement a program that provides flexible financing options for loans
+made to finance housing projects through the issuance of bonds, notes, or other obligations by
+the Agency. In spring 2017, the Agency established a new multifamily bonds indenture to issue
+its multifamily mortgage revenue bonds, for the purpose of (i) providing funds to finance, among
+other things, the acquisitions, construction, rehabilitation and equipping and/or permanent
+financing or refinancing of housing projects in the District of Columbia for occupancy by low-
+and moderate-income persons and (ii) refunding bonds previously issued by the Agency. The
+MFDP includes other indentures used prior to the 2017 indenture for the same purposes.
+9
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Management’s Discussion and Analysis (continued)
+September 30, 2025 and 2024 (Unaudited)
+KEY BOND PROGRAMS (continued)
+Single-Family Bond Program
+Due to the executive management decision several years ago, the Agency changed its single-
+family business model from bond financing to a purchase and sale of the mortgage-backed
+securities approach. These purchase and sale transactions are accounted for under the
+Agency’s General Activities and not under the Single-Family Program Funds.
+At the beginning of 2021, the Agency had three outstanding Single-Family indentures: 1988,
+1996 and 2009. During FY2022, the Agency consolidated the 1996 and 2009 indenture into the
+1988 indenture to concentrate assets and reduce administrative costs. The Agency did not
+issue any new Mortgage Revenue Bonds in FY2025 but is always analyzing the market for
+possible financial benefits versus the existing strategy of leveraging the “To Be
+Announced”/MBS execution. The total bonds outstanding in the now consolidated Single-Family
+indenture is $0.17 million on September 30, 2025.
+HUD Risk-Sharing Program and Agency General Activities
+The Agency has two risk-sharing agreements with HUD where HUD pays 100% of the amount
+needed to retire bonds issued in connection with a defaulted project at the time of the initial
+claim. Both agreements provide loss sharing in the event of default. The most recent program
+enhancement allows the Agency to share premiums and losses 50% between the Federal
+Housing Administration (FHA) and the Agency whereas the older program splits premiums and
+losses between FHA at 90% and the Agency at 10%. Due to the Agency’s ‘AA-’ S&P rating,
+HUD does not require that the Agency hold reserves against its risk-sharing portfolio of
+multifamily loans. The Agency has or will have permanent mortgages of approximately $262.7
+million when all current projects complete construction. The risk-sharing portfolio contains eight
+(8) projects with permanent mortgages of approximately $18.9 million, which have 10% risk
+share exposure to the Agency. The remaining 14 projects totaling approximately $243.8 million
+in permanent mortgages or commitments of permanent mortgages when construction is
+complete have a 50% risk share exposure to the Agency.
+CAPITAL ASSETS
+Capital assets, net of accumulated depreciation and amortization, were $2.0 million and $1.7
+million as of September 30, 2025 and 2024, respectively. The detailed analysis of changes in
+capital assets is in Note 5.
+CONCLUSION
+Management’s discussion and analysis is presented to provide additional information regarding
+the activities of the Agency and to meet the disclosure requirements of the Governmental
+Accounting Standards Board (GASB). If you have questions about the report or need additional
+financial information, contact the Chief Financial Officer, Melissa Lee, District of Columbia
+Housing Finance Agency, (202) 777-1620, 815 Florida Avenue, N.W. Washington DC 20001,
+mlee@DCHFA.org or go to our website at www.DCHFA.org.
+10
+BASIC FINANCIAL STATEMENTS
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Net Position
+As of September 30, 2025 and 2024
+2025 2024
+CURRENT ASSETS
+Unrestricted current assets
+Cash and cash equivalents $ 21,373,069 $ 31,852,698
+Investments 60,322,614 54,363,940
+Other receivables 5,260,906 5,005,537
+Accrued interest receivable 1,696,192 1,418,429
+Prepaid expenses 374,404 325,404
+Total unrestricted current assets 89,027,185 92,966,008
+Restricted current assets
+Cash and cash equivalents 82,270,966 55,147,068
+Investments 36,755,756 40,581,903
+Mortgage-backed securities at fair value 5,545 6,981
+Other receivables 1,567,441 461,012
+Accounts receivable - HPAP program 789,567 401,868
+McKinney Act loans receivable, net 4,076,678 2,641,615
+Accrued interest receivable 830,904 714,768
+Total restricted current assets 126,296,857 99,955,215
+Total current assets 215,324,042 192,921,223
+NON-CURRENT ASSETS
+Unrestricted non-current assets
+Investments 64,141,755 63,021,081
+Mortgage-backed securities at fair value 4,062,647 4,389,471
+Mortgage and construction loans receivable, net 6,958,346 6,548,907
+Total unrestricted non-current assets 75,162,748 73,959,459
+Restricted non-current assets
+Investments held in trust 161,646,834 161,385,586
+Investments in joint ventures 2,814,486 2,300,000
+Mortgage-backed securities at fair value 4,894,824 5,869,268
+Mortgage and construction loans receivable, net 281,734,195 251,149,360
+Loans receivable - 55,729
+Total restricted non-current assets 451,090,339 420,759,943
+The accompanying notes are an integral part of these financial statements.
+11
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Net Position (continued)
+As of September 30, 2025 and 2024
+2025 2024
+CAPITAL ASSETS
+Land $ 573,000 $ 573,000
+Depreciable and amortizable capital assets 7,380,268 6,791,069
+Less: Accumulated depreciation and amortization (5,958,456) (5,667,696)
+Total capital assets, net 1,994,812 1,696,373
+Total non-current assets 528,247,899 496,415,775
+Total assets $ 743,571,941 $ 689,336,998
+LIABILITIES AND NET POSITION
+CURRENT LIABILITIES
+Current liabilities payable from unrestricted assets
+Accounts payable and accrued liabilities $ 607,061 $ 389,320
+Accrued salary and vacation payable 791,026 685,178
+Lease liability 38,125 40,412
+Unearned income 8,501,647 11,582,477
+Total current liabilities payable from
+unrestricted assets 9,937,859 12,697,387
+Current liabilities payable from restricted assets
+Accounts payable and accrued liabilities 44,032 42,571
+Project funds held for borrower and other liabilities 117,540,989 92,893,023
+Interest payable 1,422,049 1,105,246
+Current portion of loan payable 400,050 250,400
+Current portion of bonds payable 3,403,200 8,214,313
+Total current liabilities payable from restricted
+assets 122,810,320 102,505,553
+Total current liabilities 132,748,179 115,202,940
+The accompanying notes are an integral part of these financial statements.
+12
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Net Position (continued)
+As of September 30, 2025 and 2024
+2025 2024
+NON-CURRENT LIABILITIES
+Non-current liabilities payable from unrestricted
+assets
+Lease liability $ - $ 38,125
+Total non-current liabilities payable from
+unrestricted assets - 38,125
+Non-current liabilities payable from restricted assets
+Bonds payable - less current portion 399,299,430 366,337,738
+Total non-current liabilities payable from
+restricted assets 399,299,430 366,337,738
+Total non-current liabilities 399,299,430 366,375,863
+Total liabilities 532,047,609 481,578,803
+NET POSITION
+Net investment in capital assets 1,956,687 1,617,835
+Restricted for
+Bond Fund, collateral and Risk Share Program 38,293,013 35,222,814
+McKinney Act Program 10,677,628 10,219,074
+Total restricted net position 48,970,641 45,441,888
+Unrestricted net position 160,597,004 160,698,472
+Total net position 211,524,332 207,758,195
+Total liabilities and net position $ 743,571,941 $ 689,336,998
+The accompanying notes are an integral part of these financial statements.
+13
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Revenues, Expenses and Changes in Net Position
+For the Years Ended September 30, 2025 and 2024
+2025 2024
+OPERATING REVENUES
+Investment interest income $ 7,662,492 $ 6,425,390
+Mortgage-backed security interest income 396,236 441,378
+Interest on mortgage and construction loans 8,323,373 7,183,948
+Construction and development admin fees 3,291,201 4,744,386
+Financing fee income 4,751,200 4,057,198
+Tax credit fee income 1,210,549 1,002,312
+Bond administration fee income 9,267,080 8,471,544
+McKinney Act interest revenue 457,234 497,356
+Application and commitment fees 190,655 104,945
+Bond counsel fees 270,000 225,000
+Gain on sale of single family loans 312,974 274,602
+Mortgage prepayment income - 937,991
+Project revenue 6,807,726 1,756,542
+Other 950,258 1,650,189
+Total operating revenue 43,890,978 37,772,781
+OPERATING EXPENSES
+General and administrative 4,066,438 4,085,951
+Personnel and related costs 11,131,489 9,581,685
+Interest expense 13,412,005 11,843,438
+Depreciation and amortization 322,637 387,770
+Trustee fees and other expenses 493,217 651,488
+Total operating expenses 29,425,786 26,550,332
+Operating income 14,465,192 11,222,449
+NON-OPERATING REVENUES (EXPENSES)
+Federal and city grant programs
+Grant program revenue 20,253,278 23,966,242
+Grant program expenses (20,358,064) (23,965,698)
+Program subsidy grants (9,836,329) -
+(Decrease) increase in fair value of mortgage-
+backed securities and investments (757,940) 6,099,390
+Total non-operating revenues (expenses) (10,699,055) 6,099,934
+Change in net position 3,766,137 17,322,383
+Net position, beginning of year 207,758,195 190,435,812
+Net position, end of year $ 211,524,332 $ 207,758,195
+The accompanying notes are an integral part of these financial statements.
+14
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Cash Flows
+For the Years Ended September 30, 2025 and 2024
+2025 2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Interest received on loans $ 8,323,373 $ 7,183,948
+Administrative and financing cash receipts 16,007,557 14,459,688
+Other cash receipts 8,353,398 4,854,989
+Payments to vendors (4,384,725) (4,757,748)
+Payments to employees (11,025,641) (9,498,509)
+Net mortgage and construction loans principal receipts
+(disbursements) (32,100,703) (19,442,782)
+Principal received on loans receivable 55,729 32,971
+Principal and interest received on mortgage-backed
+securities 1,604,153 1,435,895
+Principal and interest received on McKinney Act loans 261,421 193,430
+Principal advances on McKinney Act loans (1,461,411) (1,742,390)
+Net cash receipts (disbursements) projects funds held for borrower 22,391,890 (34,198,877)
+Net cash provided by (used in) operating activities 8,025,041 (41,479,385)
+CASH FLOWS FROM NON-CAPITAL FINANCING
+ACTIVITIES
+Interest paid on bonds and loans (13,080,333) (11,452,377)
+Proceeds from bond issuances and loans 59,356,438 49,360,733
+Principal payments on issued debt and loans (31,071,078) (13,568,550)
+Grant program cash receipts 19,232,508 43,452,812
+Grant program cash disbursements (20,358,064) (23,965,698)
+Program subsidy grant disbursements (9,836,329) -
+Net cash provided by non-capital financing activities 4,243,142 43,826,920
+CASH FLOWS FROM CAPITAL AND RELATED FINANCING
+ACTIVITIES
+Acquisition of capital assets (638,244) (64,906)
+Principal payments on lease from operations (40,412) (39,224)
+Net cash used in capital and related financing activities (678,656) (104,130)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Investment in joint ventures (514,486) (391,546)
+Interest received on investments 7,131,980 7,185,484
+Maturities and sales of investments 96,291,019 82,172,582
+Purchase of investments (97,853,771) (94,485,325)
+Net cash provided by (used in) investing activities 5,054,742 (5,518,805)
+Net increase (decrease) in cash and cash equivalents 16,644,269 (3,275,400)
+Cash and cash equivalents, beginning of year 86,999,766 90,275,166
+Cash and cash equivalents, end of year $ 103,644,035 $ 86,999,766
+The accompanying notes are an integral part of these financial statements.
+15
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Statements of Cash Flows (continued)
+For the Years Ended September 30, 2025 and 2024
+2025 2024
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+Cash and cash equivalents $ 21,373,069 $ 31,852,698
+Restricted cash and cash equivalents 82,270,966 55,147,068
+Total cash, cash equivalents and restricted cash $ 103,644,035 $ 86,999,766
+RECONCILIATION OF OPERATING INCOME TO
+NET CASH PROVIDED BY (USED IN)
+OPERATING ACTIVITIES
+Operating income $ 14,465,192 $ 11,222,449
+Adjustments to reconcile operating income to net cash
+provided by (used in) operating activities
+Depreciation and amortization 322,637 387,770
+Loss on disposal of capital assets 12,440 10,665
+Computers donated 4,728 -
+Bond premium amortization/discount accretion 14,869 1,321
+Interest received on investments (7,546,356) (7,279,383)
+Interest paid on bonds/loans 13,080,333 11,452,377
+Mckinney Act receivable bad debt recovery - (149,225)
+Loans receivable written off - 1,538,681
+Effects of changes in operating assets and liabilities
+Asset/(liability) adjustment
+Decrease (increase) in assets
+Other receivables (1,361,798) (1,989,600)
+Accrued interest receivable (338,297) 699,292
+Prepaid expenses (49,000) (58,497)
+McKinney Act receivable (1,435,063) (1,742,390)
+Mortgage and construction loans (30,994,274) (18,981,770)
+Mortgage-backed securities 1,207,917 994,517
+Loan receivable 55,729 32,971
+Increase (decrease) in liabilities
+Accounts payable and accrued liabilities 219,202 38,188
+Accrued salary and vacation payable 105,848 83,176
+Unearned income (2,447,759) (3,930,790)
+Project funds held for borrower and other liabilities 22,391,890 (34,198,877)
+Interest payable 316,803 389,740
+Net cash provided by (used in) operating activities $ 8,025,041 $ (41,479,385)
+The accompanying notes are an integral part of these financial statements.
+16
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 1 ORGANIZATION AND PURPOSE
+The District of Columbia Housing Finance Agency (the Agency or DCHFA) was
+created as a corporate body which has a legal existence separate from the
+Government of the District of Columbia (the District) but which is an
+instrumentality of the District, created to effectuate certain public purposes. The
+Agency is empowered to, among other activities, generate funds from public and
+private sources to increase the supply and lower the cost of funds available for
+residential mortgages and notes and for the construction of permanent
+multifamily rental properties.
+In 1991, the Governmental Accounting Standards Board (GASB) issued
+Statement No. 14, The Financial Reporting Entity. The definition of the reporting
+entity is based primarily on the notion of financial accountability. In determining
+financial accountability for legally separate organizations, the Agency considered
+whether its officials appoint a voting majority of an organization’s governing body
+and the Agency is either able to impose its will on that organization or if there is a
+potential for the organization to provide specific financial benefits to, or to impose
+specific financial burdens on, the Agency. The Agency also considered whether
+there are organizations that are fiscally dependent on it. It was determined that
+there are no component units of the Agency.
+These financial statements present only financial information about the Agency.
+The Agency qualifies for inclusion in the District’s reporting entity pursuant to
+GASB Statement No. 39, Determining Whether Certain Organizations are
+Component Units and GASB Statement No. 61, The Financial Reporting Entity:
+Omnibus. These financial statements do not purport to, and do not, present fairly
+the financial position of the District and the changes in its financial position and
+its cash flows, in conformity with accounting principles generally accepted in the
+United States of America (U.S. GAAP). The Agency is included in the District’s
+Annual Comprehensive Financial Report as a discretely presented component
+unit.
+The accompanying combined financial statements include DCHFA’s General
+Activities and Revenue Obligation Programs: Single Family Program and
+Multifamily Program. Within each Revenue Obligation Program are separate
+accounts maintained for each obligation in accordance with the respective
+indentures.
+The bonds and notes issued by the Agency are special obligations of the Agency
+payable principally from revenue and repayments of mortgage loans and
+mortgage-backed securities and investments, financed by or purchased from the
+proceeds of such bonds under applicable indentures and are not a debt of the
+District. Neither the faith and credit nor the taxing power of the District is pledged
+for the repayment of the bonds.
+The Agency’s line of credit is backed by the Agency’s unrestricted assets and
+constitutes the Agency’s general obligation.
+17
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 1 ORGANIZATION AND PURPOSE (continued)
+The following is a description of the activities and programs maintained by the
+Agency:
+General Activities
+The general activities record the receipt and accrual of income not directly
+pledged for repayment of debt securities under the Revenue Obligation
+Programs, to pay expenses related to the Agency’s administrative functions and
+operations, including mortgage servicing, HUD Risk-Share Insurance Program,
+McKinney Act Loan Program and purchase and sale of single-family, mortgage-
+backed securities.
+Single-Family Program
+The Single-Family Program is used to account for the proceeds of single-family
+mortgage revenue bond issues, investments, mortgage loans and mortgage-
+backed securities held pursuant to the indentures authorizing the issuance of the
+bonds, the debt service requirements on the bonds, and debt service collected
+from mortgage loans purchased for the financing of owner-occupied single-family
+residences in the District. The Single-Family Program includes the 1988
+Collateralized Single-Family Mortgage Revenue Bonds, which consolidated the
+1996 and 2009 indentures into the 1988 indenture to concentrate assets and
+reduce administrative costs in 2021.
+Multifamily Program
+The Multifamily Program is used to account for proceeds of bonds, notes,
+debentures or other financial indebtedness of the Agency issued under the
+Multifamily Development Program Indenture (MFDP) and smaller indentures
+under the multifamily HUD Risk-Share Insurance Program (the “Indentures”),
+cash and investments held under the Indentures’ revenue funds, debt service
+reserve funds, rebate funds, redemption funds and program subsidy funds,
+mortgage loans held pursuant to the Indentures, and repayments and
+prepayments collected from mortgage loans originated to finance multifamily
+residential rental facilities within the District for persons or families of limited
+income.
+18
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The following is a summary of the Agency’s significant accounting policies:
+Basis of Accounting and Measurement Focus
+For financial reporting purposes only, the Agency is a component unit of the
+District. The Agency’s General Activities and Revenue Obligation Programs are
+accounted as enterprise funds. Accordingly, the accompanying financial
+statements have been prepared using the accrual basis of accounting following
+U.S. GAAP.
+Operating Revenues and Expenses
+The Agency distinguishes operating revenues and expenses from non-operating
+items in conformity with GASB Statement No. 34. Operating revenues and
+expenses are identified with those activities that are directly related to financing
+affordable housing in the District. Operating revenue primarily consists of interest
+on mortgage-backed securities, interest on mortgage and construction loans and
+investment of bond proceeds, issuer fees, construction monitoring fees, servicing
+fees and other revenue. Operating expenses primarily consist of bond interest,
+personnel costs, bond issuance costs, bond administrative fees, trustee, legal
+and financial advisory fees, accretion of discounts and amortization of premiums
+and other operating expenses.
+Non-Operating Revenues and Expenses
+Non-operating revenue and expenses mainly consist of changes in fair value of
+mortgage-backed securities and other investments and of federal and city grant
+program related transactions. Federal and city grants and similar items are
+recognized as revenue as soon as all eligibility requirements imposed by the
+provider have been met.
+Cash and Cash Equivalents
+Cash and cash equivalents consist of cash, demand deposits, money market
+funds and investments in highly liquid short-term instruments with original
+maturities of three months or less at the time of purchase.
+19
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Investments
+Investments consist of debt obligations of the U.S. Treasury and U.S.
+Government agencies, U.S. Government-sponsored enterprises (GSEs),
+corporate and municipal debt securities, certificates of deposit and investment
+agreements. Investments are reported at fair value as determined by financial
+services providers, except for certificates of deposit and certain non-participating
+fixed interest investment contracts, which are valued using cost-based measures.
+Debt securities are stated at fair value, based on the quoted market prices.
+General activities’ investments are made in accordance with the Agency’s
+investment policy. Investments in the Revenue Obligation Programs follow the
+Agency investment policy and consist of those permitted by the respective trust
+indentures adopted by the Agency providing for the issuance of notes and bonds.
+Investments reported at fair value in the statements of net position report
+changes in the fair value of investments in the statements of revenues, expenses
+and changes in net position as part of non-operating revenues.
+Mortgage-Backed Securities
+Mortgage-backed securities represent certificates issued by the Government
+National Mortgage Association (Ginnie Mae or GNMA), the Federal National
+Mortgage Association (Fannie Mae or FNMA) and the Federal Home Loan
+Mortgage Corporation (Freddie Mac or FHLMC). These securities are stated at
+fair value as determined by financial services providers or financial publications.
+These guaranteed securities are issued in connection with single family
+mortgage loans and mortgage loans on multifamily projects. Each of these
+securities is generally intended to be held to maturity or optional par redemption
+date for the underlying bonds or until the payoff of the related loans. The
+repayment and prepayments of the mortgage-backed securities are at par value
+based on the guarantees embedded in these securities. Mortgage-backed
+securities are reported at fair value on the statements of net position and
+unrealized changes in the fair value of mortgage-backed securities are
+recognized in the statements of revenues, expenses and changes in net position
+as part of non-operating revenues.
+Mortgage and Construction Loans Receivable
+Mortgage loans are carried at their unpaid principal balances, and construction
+loans are carried at amounts advanced, net of collections and allowances for
+potential loan losses. The Agency’s allowance for doubtful accounts policy is to
+charge expenses for estimated probable losses which are established as an
+allowance for loan losses. The allowance is an amount that management
+believes will be adequate to absorb losses inherent in existing loans based on
+evaluations of collectability and prior loss experience as well as a competitive
+benchmarking study.
+20
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Capital Assets
+Capital asset purchases are recorded as general activities, capitalized at cost
+and depreciated using the straight-line method over the estimated useful lives.
+Depreciable capital assets are depreciated over five to 40 years. Software is
+amortized over five years. Right-to-use lease assets are amortized over 63
+months.
+Bond Discounts and Premiums
+Bond discounts or premiums arising from the sale of serial or term bonds are
+accreted/amortized using the straight-line method, which approximates the
+effective yield method, over the life of the bond issue.
+Net Position
+The Agency first applies restricted resources when an expense is incurred, for
+purposes for which both restricted and unrestricted net position is available. Net
+position is reported in three separate categories:
+ Net investment in capital assets - Capital assets, net of accumulated
+depreciation/amortization and outstanding principal balances of debt and
+lease liabilities attributable to the acquisition, construction or improvement of
+those assets.
+ Restricted - Net position whose use by the Agency is subject to externally
+imposed stipulations (such as bond covenants, grantors, contributors, or laws
+or regulations of other governments; or are imposed by law through
+constitutional provisions or enabling legislation) that can be fulfilled by actions
+of the Agency pursuant to those stipulations or that expire with the passage of
+time. Such net assets include all Revenue Obligation Programs, Home
+Purchase Assistance Program and DC Open Doors Program funds under the
+Single-Family Program, certain holdings under General Activities including the
+McKinney Act Program funds, HUD Risk-Share Reserve, and assets used as
+collateral for the credit line draws or as warehouse securities for future bond
+issues.
+ Unrestricted - Net position that is not subject to externally imposed
+stipulations. Unrestricted net position may be designated for specific purposes
+by action of management or the Board of Directors or may otherwise be
+limited by contractual agreements with outside parties.
+21
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (continued)
+Financing and Other Fee Revenue
+The Agency originates single-family mortgage loans that are pooled into
+mortgage-backed securities used as direct collateral for the respective bonds. As
+part of this securitization, the Agency earns servicing release fees net of
+originating lender fees.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. GAAP requires
+management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.
+GASB Pronouncements
+The Agency adopted the following GASB pronouncements that were effective for
+the year ended September 30, 2025.
+ Statement No. 101 Compensated Absences issued June 2022, effective for
+fiscal years beginning after December 15, 2023.
+ Statement No. 102 Certain Risk Disclosures issued December 2023,
+effective for fiscal years beginning after June 15, 2024.
+The adoption of these pronouncements did not have a material effect on the
+Agency’s financial statements for the year ended September 30, 2025.
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES
+Bond proceeds and revenues from mortgages, mortgage-backed securities and
+investments are invested in authorized investments as defined in the respective
+indentures and, for General Activities, in accordance with the Agency’s
+Investment Policy, until required for purchasing mortgage-backed securities or
+originating mortgage loans, funding reserves, paying debt service or redeeming
+outstanding bonds and notes, and funding program and administrative and
+operating expenses.
+22
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+The following assets, held at September 30, 2025, were evaluated in accordance
+with GASB Statement No. 40, Deposit and Investment Risk Disclosures for
+interest rate risk, credit risk, concentration of credit risk and custodial credit risk.
+Single Family
+Program Multifamily FHA - Insured
+1988 Pass-Through
+Collateralized Revenue
+Single Family Refunding
+General Mortgage Bonds Multifamily
+Assets Activities Revenue Bonds (MFDP) Program Total
+Cash and cash equivalents
+Non-money market deposits $ 12,616,550 $ - $ - $ - $ 12,616,550
+Demand money market deposits 21,832,868 - - 1,468,590 23,301,458
+Money market funds 6,616,942 13,683,019 47,180,198 245,868 67,726,027
+Total cash and cash equivalents 41,066,360 13,683,019 47,180,198 1,714,458 103,644,035
+Investments
+Certificate of deposit 20,422,339 - - - 20,422,339
+U.S. Treasury obligations 24,602,748 - 67,721,743 - 92,324,491
+Investment agreements - 10,000,000 119,985,558 - 129,985,558
+Corporate obligations 79,202,359 - - - 79,202,359
+GSE obligations 236,923 - 695,289 - 932,212
+Total investments 124,464,369 10,000,000 188,402,590 - 322,866,959
+Mortgage-backed securities
+Ginnie Mae 355,612 1,212,497 - - 1,568,109
+Fannie Mae 868,274 1,272,223 - - 2,140,497
+Freddie Mac 2,838,761 2,415,649 - - 5,254,410
+Total mortgage-backed securities 4,062,647 4,900,369 - - 8,963,016
+Total cash, investments and
+mortgage-backed securities $ 169,593,376 $ 28,583,388 $ 235,582,788 $ 1,714,458 $ 435,474,010
+23
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+The following assets, held at September 30, 2024, were evaluated in accordance
+with GASB Statement No. 40, Deposit and Investment Risk Disclosures for
+interest rate risk, credit risk, concentration of credit risk and custodial credit risk.
+Single-Family
+Program Multifamily FHA - Insured
+1988 Pass-Through
+Collateralized Revenue
+Single-Family Refunding
+General Mortgage Bonds Multifamily
+Assets Activities Revenue Bonds (MFDP) Program Total
+Cash and cash equivalents
+Non-money market deposits $ 11,103,817 $ - $ 1,022,407 $ 12 $ 12,126,236
+Demand money market deposits 36,544,481 - - 1,484,154 38,028,635
+Money market funds 4,210,965 11,513,708 20,828,205 292,017 36,844,895
+Total cash and cash equivalents 51,859,263 11,513,708 21,850,612 1,776,183 86,999,766
+Investments
+Certificates of deposit 14,666,892 - - - 14,666,892
+U.S. Treasury obligations 44,192,853 - 68,004,006 - 112,196,859
+Municipal obligations - - - - -
+Investment agreements - 10,000,000 123,270,558 - 133,270,558
+Corporate obligations 57,208,491 - - - 57,208,491
+GSE obligations 1,316,785 - 692,925 - 2,009,710
+Total investments 117,385,021 10,000,000 191,967,489 - 319,352,510
+Mortgage-backed securities
+Ginnie Mae 378,499 1,440,855 - - 1,819,354
+Fannie Mae 909,043 1,574,195 - - 2,483,238
+Freddie Mac 3,101,929 2,861,199 - - 5,963,128
+Total mortgage-backed securities 4,389,471 5,876,249 - - 10,265,720
+Total cash, investments and
+mortgage-backed securities $ 173,633,755 $ 27,389,957 $ 213,818,101 $ 1,776,183 $ 416,617,996
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the
+fair value of an investment. Under the Revenue Obligation Programs, the terms
+of the investments are set to allow for no market value loss at the time the
+invested funds are drawn for uses authorized under the indentures. As a means
+of limiting its exposure to fair value losses from rising interest rates for general
+activities, the Agency’s investment policy requires that the maturities of the
+investment portfolio are structured to be concurrent with cash needs in order to
+minimize losses that may be incurred from sale of investments prior to maturity.
+The money market funds operate in accordance with Rule 2a-7 of the Investment
+Company Act of 1940, as amended. These funds can reasonably be expected to
+have a fair value that will be unaffected by interest rate changes because the
+interest rates are variable, and the principal can be recovered on demand. The
+cost of the money market mutual funds approximated fair value.
+24
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Interest Rate Risk (continued)
+As of September 30, 2025, the amortized cost, carrying value and maturities for
+the cash, cash equivalents, investments and mortgage-backed securities for
+general activities are as follows:
+General Activities as of September 30, 2025:
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less than 1 From 1 Up To 5 To 10 To 15 15 and More
+Cash and cash equivalents
+Non-money market deposits $ 12,616,550 $ 12,616,550 $ 12,616,550 $ - $ - $ - $ -
+Demand money market deposits 21,832,868 21,832,868 21,832,868 - - - -
+Money market funds 6,616,942 6,616,942 6,616,942 - - - -
+Total cash and cash equivalents 41,066,360 41,066,360 41,066,360 - - - -
+Investments
+Certificate of deposit 20,422,339 20,422,339 18,202,464 2,219,875 - - -
+U.S. Treasury obligations 24,575,552 24,602,748 19,313,460 5,289,288 - - -
+Corporate obligations 78,884,070 79,202,359 22,657,615 56,284,770 259,974 - -
+GSE obligations 265,192 236,923 149,075 - 87,848 - -
+Total investments 124,147,153 124,464,369 60,322,614 63,793,933 347,822 - -
+Mortgage-backed securities
+Ginnie Mae 375,083 355,612 - - - - -
+Fannie Mae 907,264 868,274 - - - - -
+Freddie Mac 3,488,818 2,838,761 - - - - -
+Total mortgage-backed securities 4,771,165 4,062,647 - - - - -
+General activities total cash,
+investments and mortgage-backed
+securities $ 169,984,678 $ 169,593,376 $ 101,388,974 $ 63,793,933 $ 347,822 $ - $ -
+As of September 30, 2024, the amortized cost, carrying value and maturities for
+the cash, cash equivalents, investments and mortgage-backed securities for
+general activities were as follows:
+General Activities as of September 30, 2024:
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less than 1 From 1 Up To 5 To 10 To 15 15 and More
+Cash and cash equivalents
+Non-money market deposits $ 11,103,817 $ 11,103,817 $ 11,103,817 $ - $ - $ - $ -
+Demand money market deposits 36,544,481 36,544,481 36,544,481 - - - -
+Money market funds 4,210,965 4,210,965 4,210,965 - - - -
+Total cash and cash equivalents 51,859,263 51,859,263 51,859,263 - - - -
+Investments
+Certificate of deposit 14,666,892 14,666,892 12,536,456 2,130,436 - - -
+U.S. Treasury obligations 44,232,047 44,192,853 24,541,619 19,651,234 - - -
+Corporate obligations 56,762,658 57,208,491 16,202,632 40,689,329 316,530 - -
+GSE obligations 1,369,030 1,316,785 1,083,233 148,075 85,477 - -
+Total investments 117,030,627 117,385,021 54,363,940 62,619,074 402,007 - -
+Mortgage-backed securities
+Ginnie Mae 387,463 378,499 - - - - 378,499
+Fannie Mae 937,103 909,043 - - - - 909,043
+Freddie Mac 3,734,843 3,101,929 - - - - 3,101,929
+Total mortgage-backed securities 5,059,409 4,389,471 - - - - 4,389,471
+General activities total cash,
+investments and mortgage-backed
+securities $ 173,949,299 $ 173,633,755 $ 106,223,203 $ 62,619,074 $ 402,007 $ - $ 4,389,471
+25
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Interest Rate Risk (continued)
+Combined Revenue Obligation Programs as of September 30, 2025:
+As of September 30, 2025, the amortized cost, carrying value and maturities for
+the cash, cash equivalents, investments and mortgage-backed securities for the
+Combined Revenue Obligation Programs are as follows:
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less than 1 From 1 Up To 5 To 10 To 15 15 and More
+Cash and cash equivalents
+Demand money market deposits $ 1,468,590 $ 1,468,590 $ 1,468,590 $ - $ - $ - $ -
+Money market funds 61,109,085 61,109,085 61,109,085 - - - -
+Total cash and cash equivalents 62,577,675 62,577,675 62,577,675 - - - -
+Investments
+U.S. Treasury obligations 66,029,164 67,721,743 2,255,198 64,516,745 - - 949,800
+Investment agreements 129,985,558 129,985,558 34,500,558 95,485,000 - - -
+GSE obligations 689,822 695,289 - 695,289 - - -
+Total investments 196,704,544 198,402,590 36,755,756 160,697,034 - - 949,800
+Mortgage-backed securities
+Ginnie Mae 1,251,749 1,212,497 5,545 12,283 348,953 - 845,716
+Fannie Mae 1,260,904 1,272,223 - - - 1,109,293 162,930
+Freddie Mac 2,301,347 2,415,649 - - - 2,415,649 -
+Total mortgage-backed securities 4,814,000 4,900,369 5,545 12,283 348,953 3,524,942 1,008,646
+Combined revenue obligation
+programs total cash, investments
+and mortgage-backed securities $ 264,096,219 $ 265,880,634 $ 99,338,976 $ 160,709,317 $ 348,953 $ 3,524,942 $ 1,958,446
+Combined Revenue Obligation Programs as of September 30, 2024:
+As of September 30, 2024, the amortized cost, carrying value and maturities for
+the cash, cash equivalents, investments and mortgage-backed securities for the
+Combined Revenue Obligations were as follows:
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less than 1 From 1 Up To 5 To 10 To 15 15 and More
+Cash and cash equivalents
+Non-money market deposits $ 1,022,419 $ 1,022,419 $ 1,022,419 $ - $ - $ - $ 12
+Demand money market deposits 1,484,154 1,484,154 1,484,154 - - - -
+Money market funds 32,633,930 32,633,930 32,633,930 - - - -
+Total cash and cash equivalents 35,140,503 35,140,503 35,140,503 - - - 12
+Investments
+U.S. Treasury obligations 65,683,089 68,004,006 2,231,902 65,182,304 - - 589,800
+Investment agreements 133,270,558 133,270,558 38,350,000 47,340,558 47,580,000 - -
+GSE obligations 689,822 692,925 - 692,925 - - -
+Total investments 199,643,469 201,967,489 40,581,902 113,215,787 47,580,000 - 589,800.00
+Mortgage-backed securities
+Ginnie Mae 1,458,577 1,440,855 6,981 70,560 418,990 - 944,324
+Fannie Mae 1,550,638 1,574,195 - - - 1,403,614 170,581
+Freddie Mac 2,724,457 2,861,199 - - - 2,779,866 81,333
+Total mortgage-backed securities 5,733,672 5,876,249 6,981 70,560 418,990 4,183,480 1,196,238
+Combined revenue obligation
+programs total cash, investments
+and mortgage-backed securities $ 240,517,644 $ 242,984,241 $ 75,729,386 $ 113,286,347 $ 47,998,990 $ 4,183,480 $ 1,786,050
+As of September 30, 2025 and 2024, the amortized cost, carrying value and
+maturities for the cash, cash equivalents, investments and mortgage-backed
+securities for each Revenue Obligation Program are included as supplemental
+information to these financial statements.
+26
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Custodial Credit Risk
+Custodial credit risk is the risk that in the event of a bank failure, the Agency’s
+deposits or investments may not be returned. The Agency does not have a policy
+for custodial credit risk.
+As of September 30, 2025, $55,340,347 of the Agency’s bank balances of
+$56,340,347 was exposed to custodial credit risk as follows:
+Uninsured and uncollateralized $ 2,897,402
+Uninsured and collateral held by pledging bank 52,442,945
+Total $ 55,340,347
+In addition, investments (excluding certificates of deposit which are included
+above as deposits) including U.S. Treasury obligations, corporate obligations,
+municipal obligations, GSE obligations, and mortgage-backed securities are not
+subject to custodial credit risk since they are held at the Federal Reserve or DTC
+in the Agency’s name.
+Credit Risk and Concentration of Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not
+fulfill its obligations. All general activity cash and investments are either
+collateralized, FDIC-insured, or invested in the U.S. Government, U.S.
+Government agency or GSEs or highly rated corporate debt securities. In
+general, all investment securities under the Revenue Obligation Programs must
+be at a rating not adversely affecting the rating of the respective bonds; and
+financial institutions who are counterparty to the Agency must be rated at least
+comparable to the existing rating on the Agency’s bonds, unless counterparty
+ratings lower than the bond ratings are permitted in a specific indenture and do
+not affect the ratings on the bonds as determined at the time the investment
+securities are acquired or investment agreements are executed. The ratings on
+the 1988 Collateralized Single Family Mortgage Revenue Bonds as of
+September 30, 2025 and 2024, were ‘AA+’ by Standard & Poor’s Global Ratings.
+All multifamily bond indentures under the Multifamily Development and
+Multifamily Programs were rated by Moody’s Investor Service or Standard &
+Poor’s Global Ratings at various levels depending on the credit quality of the
+underlying collateral or were unrated private placements where investment
+ratings conformed to the specific bond investor requirements.
+27
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Credit Risk and Concentration of Credit Risk (continued)
+As of September 30, 2025, the credit quality and percentages of the total portfolio
+of cash equivalents and investments under the Agency’s general activities are as
+follows:
+General Activities as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+Cash and cash equivalents
+Non-money market deposits $ 12,616,550 7.4% Not Rated Third Party-Held Aaa Collateral
+Demand money market deposits 20,404,056 12.0% Not Rated Federal Reserve-Held Aaa Collateral
+Demand money market deposits 1,428,812 0.8% P-1 Moody's
+Money market funds 6,616,942 3.9% Aaa-mf Moody's
+Total cash and cash equivalents 41,066,360 24.2%
+Investments
+Certificate of deposit 20,422,339 12.0% Not Rated Federal Reserve-Held Aaa Collateral
+U.S. Treasury obligations 24,602,748 14.5% Aaa Moody's
+Corporate obligations 232,311 0.1% Aaa Moody's
+Corporate obligations 2,044,960 1.2% Aa1 Moody's
+Corporate obligations 5,043,259 3.0% Aa2 Moody's
+Corporate obligations 13,373,810 7.9% Aa3 Moody's
+Corporate obligations 19,669,681 11.6% A1 Moody's
+Corporate obligations 21,172,661 12.5% A2 Moody's
+Corporate obligations 16,671,737 9.8% A3 Moody's
+Corporate obligations 993,940 0.6% Baa1 Moody's
+GSE obligations 236,923 0.1% Aaa Moody's
+Total investments 124,464,369 73.4%
+Mortgage-backed securities
+Ginnie Mae 355,612 0.2% Aaa Moody's
+Fannie Mae 868,274 0.5% Aaa Moody's
+Freddie Mac 2,838,761 1.7% Aaa Moody's
+Total investments 4,062,647 2.4%
+General activities total cash,
+investments and mortgage-
+backed securities $ 169,593,376 100.0%
+28
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Credit Risk and Concentration of Credit Risk (continued)
+As of September 30, 2024, the credit quality and percentages of the total portfolio
+of cash equivalents and investments under the Agency's general activities were
+as follows:
+General Activities as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+Cash and cash equivalents
+Non-money market deposits $ 11,103,817 6.4% Not Rated Third Party-Held Aaa Collateral
+Demand money market deposits 35,746,769 20.6% Not Rated Federal Reserve-Held Aaa Collateral
+Demand money market deposits 797,712 0.5% P-1 Moody's
+Money market funds 4,210,965 2.4% Aaa-mf Moody's
+Total cash and cash equivalents 51,859,263 29.9%
+Investments
+Certificate of deposit 14,666,892 8.4% Not Rated Federal Reserve-Held Aaa Collateral
+U.S. Treasury obligations 44,192,853 25.5% Aaa Moody's
+Corporate obligations 230,219 0.1% Aaa Moody's
+Corporate obligations 1,540,125 0.9% Aa1 Moody's
+Corporate obligations 1,608,882 0.9% Aa2 Moody's
+Corporate obligations 2,636,149 1.5% Aa3 Moody's
+Corporate obligations 16,503,784 9.5% A1 Moody's
+Corporate obligations 13,255,440 7.6% A2 Moody's
+Corporate obligations 16,174,101 9.3% A3 Moody's
+Corporate obligations 5,259,791 3.0% Baa1 Moody's
+GSE obligations 1,316,785 0.8% Aaa Moody's
+Total investments 117,385,021 67.6%
+Mortgage-backed securities
+Ginnie Mae 378,499 0.2% Aaa Moody's
+Fannie Mae 909,043 0.5% Aaa Moody's
+Freddie Mac 3,101,929 1.8% Aaa Moody's
+Total investments 4,389,471 2.5%
+General activities total cash,
+investments and mortgage-
+backed securities $ 173,633,755 100.0%
+29
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Credit Risk and Concentration of Credit Risk (continued)
+As of September 30, 2025, the credit quality and percentages of the total portfolio
+of cash equivalents, investments and mortgage-backed securities under the
+Revenue Obligation Programs are as follows:
+Combined Revenue Obligation Programs as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+Cash and cash equivalents
+Demand money market deposits $ 1,468,590 0.6% P-1 Moody's
+Money market funds 61,109,085 23.0% Aaa-mf Moody's
+Total cash and cash equivalents 62,577,675 23.5%
+Investments
+U.S. Treasury obligations 67,721,743 25.5% Aa1 Moody's
+Investment agreements 129,985,558 48.9% Aa3 Moody's
+GSE obligations 695,289 0.3% Aa1 Moody's
+Total investments 198,402,590 74.6%
+Mortgage-backed securities
+Ginnie Mae 1,212,497 0.5% Aa1 Moody's
+Fannie Mae 1,272,223 0.5% Aa1 Moody's
+Freddie Mac 2,415,649 0.9% Aa1 Moody's
+Total mortgage-backed securities 4,900,369 1.8%
+Combined revenue obligation
+programs total cash, investments
+and mortgage-backed
+securities $ 265,880,634 100.0%
+As of September 30, 2024, the credit quality and percentages of the total portfolio
+of cash equivalents, investments and mortgage-backed securities under the
+Revenue Obligation Programs were as follows:
+Combined Revenue Obligation Programs as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+Cash and cash equivalents
+Non-money market deposits $ 1,022,419 0.4% Not Rated Uncollateralized, Uninsured
+Demand money market deposits 1,484,154 0.6% P-1 Moody's
+Money market funds 32,633,930 13.4% Aaa-mf Moody's
+Total cash and cash equivalents 35,140,503 14.5%
+Investments
+U.S. Treasury obligations 68,004,006 28.0% Aaa Moody's
+Investment agreements 94,920,558 39.1% Aa2 Moody's
+Investment agreements 38,350,000 15.8% Aa3 Moody's
+GSE obligations 692,925 0.3% Aaa Moody's
+Total investments 201,967,489 83.1%
+Mortgage-backed securities
+Ginnie Mae 1,440,855 0.6% Aaa Moody's
+Fannie Mae 1,574,195 0.6% Aaa Moody's
+Freddie Mac 2,861,199 1.2% Aaa Moody's
+Total mortgage-backed securities 5,876,249 2.4%
+Combined revenue obligation
+programs total cash, investments
+and mortgage-backed
+securities $ 242,984,241 100.0%
+30
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Credit Risk and Concentration of Credit Risk (continued)
+The cash and cash equivalents, investment and mortgage-backed security
+portfolio with breakdown by credit quality and percentage of total portfolio for
+each of the Revenue Obligation Programs at September 30, 2025 and 2024, are
+listed as supplemental information to these financial statements.
+Cash and Cash Equivalents
+The Agency’s combined cash and cash equivalents balance as of September 30,
+2025 and 2024, consists primarily of amounts held in fully collateralized demand
+deposit bank accounts for general activities and in highly rated money market
+fund trust accounts set up for each revenue bond indenture and administered by
+the Agency’s bond trustees. The collateral for the demand deposits is held by
+either the Federal Reserve Bank or a third-party, as a collateral agent under the
+third-party agreements.
+Investments
+The Agency follows the investment policy guidelines with regards to its general
+activities’ financial assets and Revenue Obligation Program indentures. The
+policy states that the Agency financial assets shall be held in cash and cash
+equivalents or invested and managed with the intention of obtaining the highest
+possible total return consistent with the Agency’s liquidity needs and a prudent
+level of investment risk. Under the bond programs, the permitted investments are
+stipulated in the respective covenants of the indentures of trust.
+Investments of proceeds from bond issuances in investment agreements are
+governed by the covenants of the respective indentures of trust entered between
+the Agency, the trustee and the investment agreement provider. All investment
+agreements are fixed interest rate investment contracts with rated financial
+institutions. In case of a downgrade beyond a preset threshold, the investment
+providers are required to collateralize both principal and interest with qualifying
+securities to be held by a designated collateral agent with mark to market and
+undervalue cure provisions.
+Investments in money market funds are short-term in nature and are held by
+bond trustees for the benefit of the respective indentures. They carry the highest
+short-term credit ratings by nationally recognized statistical rating agencies, such
+as Standard & Poor’s Global Ratings and Moody’s Investors Service.
+Investments in the U.S. Treasury securities are guaranteed by the full faith and
+credit of the United States Government.
+31
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Mortgage-backed Securities
+Ginnie Mae mortgage-backed securities are guaranteed by the Government
+National Mortgage Association (Ginnie Mae or GNMA), an instrument of the
+United States Government. GNMA securities are “fully modified pass-through”
+mortgage-backed securities which require monthly payments by an FHA lender,
+as the issuer of the Guaranteed Security to the Agency. GNMA guarantees
+timely payment of principal and interest on Guaranteed Securities.
+Fannie Mae and Freddie Mac mortgage-backed pass-through securities are top-
+rated by Standard & Poor’s and Moody’s Investors Service. The principal and
+interest payment on these mortgage-backed securities are guaranteed by Fannie
+Mae and Freddie Mac, accordingly. Though there is no explicit guarantee that
+Fannie Mae and Freddie Mac mortgage-backed securities are backed by the full
+faith and credit of the U.S. Government, there is, however, an implicit guarantee,
+as government-sponsored enterprises are chartered by the U.S. Congress. In
+2008 both Freddie Mac and Fannie Mae were placed into the U.S. Government
+conservatorship. The rating agencies continue to assign high credit ratings to
+both of these entities.
+Ginnie Mae, Fannie Mae and Freddie Mac mortgage-backed securities are
+reported at their fair values in accordance with GASB Statement No. 31. It is the
+intention of the Agency and the indentures to hold these mortgage-backed
+securities until the underlying loans are paid in full, or, if allowed, until the
+respective bonds become optionally redeemable and the sale of these securities
+does not negatively affect the indenture cash flows.
+For the years ended September 30, 2025 and 2024, under the Agency’s Single-
+Family Program, $(56,207) and $381,650, respectively, of non-operating
+(expenses) revenues was recorded in the statements of revenues, expenses and
+changes in net position to record the unrealized gain (loss) in the fair value of the
+program’s mortgage-backed security and investment portfolio.
+For the years ended September 30, 2025 and 2024, under the Agency’s
+Multifamily Program, $(625,975) and $2,150,836, respectively, of non-operating
+(expenses) revenues was recorded in the statements of revenue, expenses and
+changes in net position to record the unrealized gain (loss) in the fair value of the
+program’s mortgage-backed security and investment portfolio.
+For the years ended September 30, 2025 and 2024, for the Agency’s General
+Activities, $(75,758) and $3,566,904, respectively, of non-operating revenues
+(expenses) was recorded in the statements of revenue, expenses and changes
+in net position to record the unrealized gain (loss) in the fair value of the general
+activity’s mortgage-backed security and investment portfolio.
+32
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Investments in Joint Ventures
+DCHFA established the Housing Investment Platform (HIP) in June 2017 to
+make innovative investments in support of the District of Columbia housing
+market outside of its traditional bond and tax credit financing. The investments
+are targeted towards developing workforce housing by partnering with emerging
+developers. DCHFA is the sole member of the DCHFA HIP Manager, LLC, which
+is the general partner of DC Housing Investment Platform, LP. DC Housing
+Investment Platform, LP is the limited partner in the ultimate development entity.
+As of September 30, 2025 and 2024, the investment in joint ventures totaled
+$2,814,486 and $2,300,000, respectively.
+Fair Value of Investments
+The Agency has adopted GASB No. 72, Fair Value Measurement and
+Application. This statement establishes a hierarchy of inputs to valuation
+techniques used to measure fair value:
+Level 1: Quoted market prices in active markets.
+Level 2: Inputs other than quoted market prices that are observable either
+directly or indirectly.
+Level 3: Unobservable inputs.
+The following tables present the investments that the Agency measured at fair
+value as of September 30, 2025 and 2024. Certificates of deposit of $20,422,339
+and $14,666,892 and Investment Agreements of $129,985,558 and
+$133,270,558, as of September 30, 2025 and 2024, respectively, are included in
+Investments on the statements of net position but are not included in the
+following schedule since they are not carried at fair value.
+2025 Total Level 1 Level 2 Level 3
+Corporate obligations $ 79,202,359 $ - $ 79,202,359 $ -
+GSE obligations 932,212 - 932,212 -
+U.S. Treasury obligations 92,324,491 92,324,491 - -
+Mortgage-backed securities 8,963,016 - 8,963,016 -
+Total investments and mortgage-
+backed securities $ 181,422,078 $ 92,324,491 $ 89,097,587 $ -
+33
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 3 CASH/CASH EQUIVALENTS, INVESTMENTS AND MORTGAGE-BACKED
+SECURITIES (continued)
+Fair Value of Investments (continued)
+2024 Total Level 1 Level 2 Level 3
+Corporate obligations $ 57,208,491 $ - $ 57,208,491 $ -
+GSE obligations 2,009,710 - 2,009,710 -
+U.S. Treasury obligations 112,196,859 112,196,859 - -
+Mortgage-backed securities 10,265,720 - 10,265,720 -
+Total investments and MBS $ 181,680,780 $ 112,196,859 $ 69,483,921 $ -
+Debt securities classified in Level 1 of the fair value hierarchy are valued using
+prices quoted in active markets for those securities. Debt securities classified in
+Level 2 of the fair value hierarchy are valued using a matrix pricing technique.
+Matrix pricing is used to value securities based on the securities’ relationship to
+benchmark quoted prices.
+ Amounts invested in U.S. treasury securities are comprised of securities
+valued using quoted market prices (Level 1) which are then allocated to
+position holders.
+ Amounts invested in corporate obligations, municipal obligations, GSE
+obligations and mortgage-backed securities are comprised of securities which
+are priced by industry standard vendors, using observable inputs such as
+benchmark yields, reported trades broker/dealer quotes, and issuer spreads
+(Level 2) which are then allocated to position holders at a per unit value.
+NOTE 4 MORTGAGE AND CONSTRUCTION LOANS RECEIVABLE
+Multifamily mortgage and construction loans receivable are assets primarily
+under the Multifamily Development Program secured by deeds of trust
+evidencing first mortgage liens on related real property. These loans are insured
+by the FHA, and the Agency through the Risk-Share Program. Fixed interest
+rates on these mortgage and construction loans as of September 30, 2025,
+range from 3.1% to 6.9% with a loan repayment period of up to 40 years.
+The Agency offers a deferred second-lien loan that will become immediately due
+and payable upon the occurrence of specific events as defined in the Loan
+Disclosure document(s) of the DC Open Doors Down Payment Assistance Loan
+program. The amount of the deferred loans under this program as of September
+30, 2025 and 2024, was $6,958,346 and $6,548,907, respectively.
+Combined restricted mortgage and construction loans as of September 30, 2025
+and 2024 were $281,734,195 and $251,149,360, respectively. For the years
+ended September 30, 2025 and 2024, there was no allowance for bond program
+loan losses under the Agency Revenue Obligation Programs.
+34
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 4 MORTGAGE AND CONSTRUCTION LOANS RECEIVABLE (continued)
+As part of its General Activity operations, the Agency performs loan servicing
+under the risk-sharing agreement with HUD, where HUD pays 100% of the
+amount needed to retire bonds issued in connection with a defaulted risk-share
+loan at the time of the initial claim. Any loss at the time of final claim on a
+defaulted multifamily project is risk-shared between FHA at 90% and the Agency
+at 10%. The most recent program enhancement allows the Agency to share
+losses on a 50%/50% basis with FHA. As of September 30, 2025, the Agency
+had 21 loans, with a balance of $282 million. As of September 30, 2024, the
+Agency had 22 loans, with a balance of $251 million.
+In addition to its bond programs, as a General Activity the Agency administers
+the McKinney Act Program. Under its McKinney Act Program, the Agency
+originates predevelopment McKinney Act bridge loans to finance acquisition,
+predevelopment and rehabilitation costs associated with multifamily housing
+developments applying for bond financing with the Agency. These loans are
+typically unenhanced loans repaid at the time the bond financing is put in place.
+At September 30, 2025, the balance of total loans outstanding, before the
+allowance for uncollectible loans, was $4,576,678, including $500,000 in loans at
+various stages of default process. At September 30, 2024, the balance of total
+loans outstanding, before the allowance for uncollectible loans, was $3,141,615,
+including $500,000 in loans at various stages of default process.
+The Agency had an allowance for uncollectible McKinney Act Program loans as
+of September 30, 2025 and 2024 in the amount of $500,000. The Agency
+recorded a net change in the allowance for uncollectible McKinney Act Program
+loans of $0 and $(175,057) for the years ended September 30, 2025 and 2024,
+respectively.
+2025 2024
+Beginning balance $ 500,000 $ 675,057
+Net decrease in allowance
+for uncollectible loans - (175,057)
+Ending balance $ 500,000 $ 500,000
+35
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 4 MORTGAGE AND CONSTRUCTION LOANS RECEIVABLE (continued)
+The Agency’s allowance for uncollectible accounts policy is to charge expenses
+for estimated probable losses, which are established as an allowance for loan
+losses. The allowance is an amount that management believes will be adequate
+to absorb losses inherent in existing loans based on evaluations of collectability
+and prior loss experience as well as a competitive benchmarking study.
+NOTE 5 CAPITAL ASSETS
+The following is the detail of changes in capital assets during the year ended
+September 30, 2025:
+September 30, September 30,
+2024 Additions Dispositions 2025
+Non-depreciable assets
+Land $ 573,000 $ - $ - $ 573,000
+Total non-depreciable assets 573,000 - - 573,000
+Depreciable and amortizable capital assets
+Building and improvements 3,760,488 - - 3,760,488
+Furniture and equipment 906,903 100,417 (49,045) 958,275
+Software 1,918,064 537,827 - 2,455,891
+Right-to-use leased assets 205,614 - - 205,614
+Total depreciable and amortizable capital assets 6,791,069 638,244 (49,045) 7,380,268
+Less: Accumulated depreciation and amortization
+Building and improvements (3,164,993) (81,155) - (3,246,148)
+Furniture and equipment (608,810) (119,852) 31,877 (696,785)
+Software (1,766,608) (82,466) - (1,849,074)
+Right to use leased assets (127,285) (39,164) - (166,449)
+Total accumulated depreciation/amortization (5,667,696) (322,637) 31,877 (5,958,456)
+Total depreciable/amortizable capital assets, net 1,123,373 315,607 (17,168) 1,421,812
+Total capital assets $ 1,696,373 $ 315,607 $ (17,168) $ 1,994,812
+36
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 5 CAPITAL ASSETS (continued)
+The following is the detail of changes in capital assets during the year ended
+September 30, 2024:
+September 30, September 30,
+2023 Additions Dispositions 2024
+Non-depreciable assets
+Land $ 573,000 $ - $ - $ 573,000
+Total non-depreciable assets 573,000 - - 573,000
+Depreciable and amortizable capital assets
+Building and improvements 3,752,187 8,301 - 3,760,488
+Furniture and equipment 983,658 56,605 (133,360) 906,903
+Software 1,918,064 - - 1,918,064
+Right-to-use leased assets 205,614 - - 205,614
+Total depreciable and amortizable capital assets 6,859,523 64,906 (133,360) 6,791,069
+Less: Accumulated depreciation and amortization
+Building and improvements (3,084,069) (80,924) - (3,164,993)
+Furniture and equipment (590,863) (140,642) 122,695 (608,810)
+Software (1,639,568) (127,040) - (1,766,608)
+Right to use leased assets (88,121) (39,164) - (127,285)
+Total accumulated depreciation/amortization (5,402,621) (387,770) 122,695 (5,667,696)
+Total depreciable/amortizable capital assets, net 1,456,902 (322,864) (10,665) 1,123,373
+Total capital assets $ 2,029,902 $ (322,864) $ (10,665) $ 1,696,373
+Depreciation and amortization expense for fiscal years 2025 and 2024 was
+$322,637 and $387,770, respectively.
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS
+The loans, bonds and notes issued by the Agency are special obligations of the
+Agency and are payable from the revenue and special funds of the applicable
+indentures. The bonds and notes do not constitute debt of and are not
+guaranteed by the District or any other program of the District. All mortgage
+revenue bond multifamily projects financed to date have been issued by the
+Agency as stand-alone pass-through financings with no direct economic recourse
+to the Agency as the issuer.
+The provisions of the various bond indentures require or allow for the special
+redemption of bonds at par through the use of unexpended bond proceeds and
+excess funds accumulated primarily through prepayment of mortgage loans and
+mortgage-backed securities. All outstanding bonds are subject to redemption at
+the option of the Agency or the borrower, in whole or in part at any time, after
+certain dates, as specified in the respective bond indentures and bond
+resolutions, at prescribed redemption prices.
+Under the Multifamily Programs, this option generally cannot be exercised until
+the bonds have been outstanding for 10 years as provided in the various
+indentures. Term bonds are generally subject to redemption, without premium,
+from mandatory sinking fund payments.
+37
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+Bonds issued to provide financing for the Agency’s housing programs are
+collateralized by:
+ Mortgage-backed securities made in connection with underlying loans.
+ Mortgage loans made on the related multifamily developments or single-family
+residential mortgage loans purchased.
+ Investments of bond proceeds, debt service reserves and escrow accounts, all
+revenues, mortgage payments, and recovery payments received by the
+Agency from investments, mortgage loans and mortgage-backed securities
+made on the related developments and pledged to the respective trust
+indentures.
+38
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+The following is a summary of the debt activity for the year ended September 30, 2025 and the debt outstanding as of
+September 30, 2025:
+Debt Debt Activity Debt Debt
+Outstanding Scheduled Outstanding Outstanding
+Range of Range of Balance at New Maturity Obligations Balance at Premium (+)/ Balance at Due Within
+General Activities Interest Rates Maturities 9/30/2024 Obligations Payments Paid 9/30/2025 Discount (-) 9/30/2025 One Year
+Industrial Bank Credit Line Variable 2025 $ 250,400 $ 11,091,438 $ - $ 10,941,788 $ 400,050 $ - $ 400,050 $ 400,050
+Total $ 250,400 $ 11,091,438 $ - $ 10,941,788 $ 400,050 $ - $ 400,050 $ 400,050
+Bond Activity
+Bond Scheduled Bond Bond
+Range of Range of Payable at New Bonds Maturity Bond Payable at Premium (+)/ Payable at Due Within
+Interest Rates Maturities 9/30/2024 Issued Payments Redeemed 9/30/2025 Discount (-) 9/30/2025 One Year
+1988 Single Family Mortgage
+Revenue Bonds
+1988 Series E-4 6.38% 2026 $ 325,000 $ - $ - $ 155,000 $ 170,000 $ - $ 170,000 $ 170,000
+Total Single Family Indenture $ 325,000 $ - $ - $ 155,000 $ 170,000 $ - $ 170,000 $ 170,000
+Bond Activity
+Bonds Scheduled Bonds Bonds Bonds
+Range of Range of Payable New Bonds Maturity Redeemed/ Payable Premium (+)/ Payable Due Within
+Project Name Interest Rates Maturities at 9/30/2024 Issued Payments Adjustment at 9/30/2025 Discount (-) at 9/30/2025 One Year
+MF Development Program
+Series 2017 Pass Through Refunding (Taxable) 3.24% 2049 $ 16,594,161 $ - $ - $ 517,398 $ 16,076,763 $ - $ 16,076,763 $ -
+Series 2018 A Woodmont Crossing Apartments 3.05%-4.35% 2023-2058 23,595,000 - 330,000 - 23,265,000 - 23,265,000 340,000
+Series 2018 B-2 Delta Towers and Capitol Vista 3.00%-4.10% 2023-2039 39,050,000 - 415,000 - 38,635,000 - 38,635,000 430,000
+Series 2022A Delta Towers and Capitol Vista 4.05% 2023-2039 3,315,000 - 35,000 - 3,280,000 - 3,280,000 40,000
+Series 2019 A-1 and A-2 Petworth 2.30%-3.40% 2023-2040 8,980,000 - 110,000 - 8,870,000 - 8,870,000 110,000
+Series 2019 B-1 and B-2 Randle Hills 1.95%-3.00% 2023-2039 16,915,000 - 310,000 - 16,605,000 - 16,605,000 300,000
+Series 2021 A-1 Hill East 1.75%-2.05% 2031-2033 2,505,000 - - - 2,505,000 - 2,505,000 -
+Series 2021 A-2 Hill East 2.20% 2034-2036 2,890,000 - - - 2,890,000 - 2,890,000 -
+Series 2021 A-3 Hill East 2.50% 2034-2036 44,080,000 - - - 44,080,000 - 44,080,000 -
+Series 2021 B-1 Hill East 1.20%-2.05% 2024-2030 4,350,000 - 755,000 - 3,595,000 - 3,595,000 765,000
+Series 2021 B-2 Hill East 2.15% 2030-2031 590,000 - - - 590,000 - 590,000 -
+Series 2021 B-1 1530 First .75%-2.10% 2025-2033 3,550,000 - 370,000 - 3,180,000 - 3,180,000 370,000
+Series 2021 B-2 1530 First 2.25% 2034-2036 1,355,000 - - - 1,355,000 - 1,355,000 -
+Series 2021 B-3 1530 First 2.55% 2037-2042 20,240,000 - - - 20,240,000 - 20,240,000 -
+Series 2021 B-4 1530 First 0.50% 2027 8,205,000 - - 8,205,000 - - - -
+Series 2021 B-5 1530 First 0.90% 2024 5,000,000 - 5,000,000 - - - - -
+Series 2022 B-1 Terrace Manor 2.80%-4.25% 2026-2043 13,190,000 - - - 13,190,000 - 13,190,000 60,000
+Series 2022 B-2 Terrace Manor 3.00% 2028 24,105,000 - - - 24,105,000 22,146 24,127,146 -
+Series 2023 A-1 Carl F. West 4.10-5.13% 2028-2045 18,415,000 - - - 18,415,000 (87,596) 18,327,404 -
+Series 2023 A-2 Carl F. West 4.40% 2025-2045 46,280,000 - - - 46,280,000 - 46,280,000 -
+NoMa Union Market 3.800%-4.200% 2029-2036 1,460,000 - - - 1,460,000 - 1,460,000 -
+NoMa Union Market 4.125%-4.750% 2037-2046 19,260,000 - - - 19,260,000 (362,620) 18,897,380 -
+NoMa Union Market 4.10% 2040-2046 27,835,000 - - - 27,835,000 - 27,835,000 -
+Harvard Court 3.40%-4.65% 2040-2046 - 965,000 - - 965,000 - 965,000 -
+Harvard Court 4.85%-5.20% 2040-2046 - 10,985,000 - - 10,985,000 - 10,985,000 -
+Harvard Court 3.60% 2040-2046 - 36,315,000 - - 36,315,000 - 36,315,000 -
+Total 351,759,161 48,265,000 7,325,000 8,722,398 383,976,763 (428,070) 383,548,693 2,415,000
+MF Program
+DCCH Pool: Euclid Street 5.75% 2023-2039 1,050,000 - 65,000 - 985,000 - 985,000 40,000
+DCCH Pool: Chapin Street 5.75% 2023-2039 890,000 - 65,000 - 825,000 - 825,000 30,000
+DCHFA Pass-Through Refunding 3.88% 2023-2045 20,970,829 - 752,265 3,044,627 17,173,937 - 17,173,937 748,200
+Total 22,910,829 - 882,265 3,044,627.00 18,983,937 - 18,983,937 818,200
+Combined MF Program
+Bonds total 374,669,990 48,265,000 8,207,265 11,767,025 402,960,700 (428,070) 402,532,630 3,233,200
+Bonds total $ 374,994,990 $ 48,265,000 $ 8,207,265 $ 11,922,025 $ 403,130,700 $ (428,070) $ 402,702,630 $ 3,403,200
+39
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+The following is a summary of the debt activity for the year ended September 30, 2024 and the debt outstanding as of
+September 30, 2024:
+Debt Debt Activity Debt Debt
+Outstanding Scheduled Outstanding Outstanding
+Range of Range of Balance at New Maturity Obligations Balance at Premium (+)/ Balance at Due Within
+General Activities Interest Rates Maturities 9/30/2023 Obligations Payments Paid 9/30/2024 Discount (-) 9/30/2024 One Year
+Industrial Bank Credit Line Variable 2024 $ 9,956,367 $ 1,190,933 $ - $ 10,896,900 $ 250,400 $ - $ 250,400 $ 250,400
+Total $ 9,956,367 $ 1,190,933 $ - $ 10,896,900 $ 250,400 $ - $ 250,400 $ 250,400
+Bond Activity
+Bond Scheduled Bond Bond
+Range of Range of Payable at New Bonds Maturity Bond Payable at Premium (+)/ Payable at Due Within
+Interest Rates Maturities 9/30/2023 Issued Payments Redeemed 9/30/2024 Discount (-) 9/30/2024 One Year
+1988 Single Family Mortgage
+Revenue Bonds
+1988 Series E-4 6.38% 2026 $ 455,000 $ - $ - $ 130,000 $ 325,000 $ - $ 325,000 $ -
+Total Single Family Indenture $ 455,000 $ - $ - $ 130,000 $ 325,000 $ - $ 325,000 $ -
+Bond Activity
+Bonds Scheduled Bonds Bonds
+Range of Range of Payable New Bonds Maturity Redeemed/ Payable Premium (+)/ Bond Payable at Due Within
+Project Name Interest Rates Maturities at 9/30/2023 Issued Payments Adjustment at 9/30/2024 Discount (-) at 9/30/2024 One Year
+MF Development Program
+Series 2017 Pass Through Refunding (Taxable) 3.24% 2049 $ 17,083,560 $ - $ - $ 489,399 $ 16,594,161 $ - 16,594,161 $ -
+Series 2018 A Woodmont Crossing Apartments 2.55%-4.35% 2023-2058 23,915,000 - 320,000 - 23,595,000 - 23,595,000 330,000
+Series 2018 B-2 Delta Towers and Capitol Vista 2.50%-4.10% 2023-2039 39,445,000 - 395,000 - 39,050,000 - 39,050,000 415,000
+Series 2022A Delta Towers and Capitol Vista 4.05% 2023-2039 3,345,000 - 30,000 - 3,315,000 - 3,315,000 35,000
+Series 2019 A-1 and A-2 Petworth Variable 2023-2040 9,090,000 - 110,000 - 8,980,000 - 8,980,000 110,000
+Series 2019 B-1 and B-2 Randle Hills Variable 2023-2039 17,230,000 - 315,000 - 16,915,000 - 16,915,000 310,000
+Series 2021 A-1 Hill East 1.75%-2.05% 2031-2033 2,505,000 - - - 2,505,000 - 2,505,000 -
+Series 2021 A-2 Hill East 2.20% 2034-2036 2,890,000 - - - 2,890,000 - 2,890,000 -
+Series 2021 A-3 Hill East 2.50% 2034-2036 44,080,000 - - - 44,080,000 - 44,080,000 -
+Series 2021 B-1 Hill East .95%-2.05% 2024-2030 4,410,000 - 60,000 - 4,350,000 - 4,350,000 755,000
+Series 2021 B-2 Hill East 2.15% 2030-2031 590,000 - - - 590,000 - 590,000 -
+Series 2021 B-1 1530 First .55%-2.10% 2025-2033 3,550,000 - - - 3,550,000 - 3,550,000 370,000
+1530 First 2.25% 2034-2036 1,355,000 - - - 1,355,000 - 1,355,000 -
+1530 First 2.55% 2037-2042 20,240,000 - - - 20,240,000 - 20,240,000 -
+1530 First 0.50% 2027 8,205,000 - - - 8,205,000 - 8,205,000 -
+Series 2021 B-2 1530 First 0.90% 2024 5,000,000 - - - 5,000,000 - 5,000,000 5,000,000
+Series 2021 B-3 Terrace Manor 2.80%-4.25% 2026-2043 13,190,000 - - - 13,190,000 - 13,190,000 -
+Series 2021 B-4 Terrace Manor 3.00% 2028 24,105,000 - - - 24,105,000 29,739 24,134,739 -
+Series 2021 B-5 Carl F. West 4.10-5.13% 2028-2045 18,415,000 - - - 18,415,000 (91,994) 18,323,006 -
+Series 2022 B-1 Carl F. West 4.40% 2025-2045 46,280,000 - - - 46,280,000 - 46,280,000 -
+Series 2022 B-2 NoMa Union Market 3.800%-4.200% 2029-2036 - 1,460,000 - - 1,460,000 - 1,460,000 -
+Series 2023 A-1 NoMa Union Market 4.125%-4.750% 2037-2046 - 19,260,000 - - 19,260,000 (380,684) 18,879,316 -
+Series 2023 A-2 NoMa Union Market 4.100%-4.100% 2040-2046 - 27,835,000 - - 27,835,000 - 27,835,000 -
+Total 304,923,560 48,555,000 1,230,000 489,399 351,759,161 (442,939) 351,316,222 7,325,000
+MF Program
+DCCH Pool: Euclid Street 5.75% 2023-2039 1,080,000 - 30,000 - 1,050,000 - 1,050,000 35,000
+DCCH Pool: Chapin Street 5.75% 2023-2039 920,000 - 30,000 - 890,000 - 890,000 30,000
+DCHFA Pass-Through Refunding 3.88% 2023-2045 21,733,080 - 762,251 - 20,970,829 - 20,970,829 824,313
+Total 23,733,080 - 822,251 - 22,910,829 - 22,910,829 889,313
+Combined MF Program
+Bonds total 328,656,640 48,555,000 2,052,251 489,399 374,669,990 (442,939) 374,227,051 8,214,313
+Bonds total $ 329,111,640 $ 48,555,000 $ 2,052,251 $ 619,399 $ 374,994,990 $ (442,939) $ 374,552,051 $ 8,214,313
+40
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+The required principal and interest payments for all Agency debt outstanding as
+of September 30, 2025 (including mandatory sinking fund payments but
+excluding special and optional redemptions) for each of the next five years and in
+five-year increments thereafter are as follows:
+For the 1988 Collateralized Single Family
+Year Ending Mortgage Revenue Bonds
+September 30, Interest Principal
+2026 $ 10,838 $ 170,000
+Totals $ 10,838 170,000
+Bonds payable $ 170,000
+For the
+Year Ending Multifamily Development Program Multifamily Program
+September 30, Interest Principal Interest Principal
+2026 $ 14,258,859 $ 2,415,000 $ 755,418 $ 818,200
+2027 14,038,664 2,540,000 721,565 865,755
+2028 13,981,679 26,765,000 686,307 882,940
+2029 13,191,018 2,970,000 649,915 935,894
+2030 13,107,413 3,135,000 611,022 989,421
+2031-2035 64,078,289 16,645,000 2,374,858 6,041,576
+2036-2040 59,374,276 72,015,000 977,636 6,975,344
+2041-2045 42,932,970 137,145,000 138,446 1,474,807
+2046-2050 7,071,992 111,686,763 - -
+2051-2055 1,368,509 5,435,000 - -
+2056-2060 213,694 3,225,000 - -
+Totals $ 243,617,363 383,976,763 $ 6,915,167 18,983,937
+Unamortized
+Premium/(Discount) (428,070) -
+Bonds payable $ 383,548,693 $ 18,983,937
+The interest calculations on outstanding variable rate bonds under the Multifamily
+Development Programs are based on the variable rates in effect on September
+30, 2025, and are not indicative of the actual interest expense that will be
+incurred in future years. As rates vary, variable rate bond interest payments will
+vary.
+In March 2017, DCHFA entered into a grant agreement with the DC DHCD as
+the sub-recipient in the administration of Community Development Block Grant
+funds. Accordingly, the Agency established a line of credit with Industrial Bank to
+serve as a facility to fund Home Purchase Assistance Program loans. The credit
+line is paid down upon receipt of reimbursements for DHCD on a monthly basis.
+During the fiscal year 2025, the Agency maintained a $10,000,000 line of credit.
+As of September 30, 2025 and 2024, the total outstanding balance of the credit
+line totaled $400,000 and $250,000, respectively.
+41
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+Leased Assets
+The Agency is the lessee of equipment under lease agreements expiring through
+2026. As a lessee, the Agency recognizes a lease liability at the present value of
+the payments expected to be made during the lease term. Subsequently, the
+lease liability is reduced by the principal portion of lease payments made. Right-
+to-use leased assets are initially recorded as the sum of 1) the amount of the
+initial measurement of the lease liability, 2) lease payments made at or before the
+commencement of the lease term, less any lease incentives received from the
+lessor at or before the commencement of the lease term, 3) initial direct costs
+that are ancillary charges necessary to place the asset into service. Right-to-use
+leased assets are amortized on a straight-line basis over the shorter of the lease
+term or useful life of the underlying assets.
+Included in capital assets are right-to-use assets under these leases with a cost
+of $205,614 as of September 30, 2025 and 2024. Amortization expense related
+to the leases was $39,164 for both the years ended September 30, 2025 and
+2024. Accumulated amortization relating to the leases was $166,449 and
+$127,285 as of September 30, 2025 and 2024, respectively.
+Principal and interest requirements to maturity under the leases are as follows:
+For the
+Year Ending
+September 30, Principal Interest
+2026 $ 38,125 $ 574
+Total minium lease
+payments $ 38,125 $ 574
+Lease Liability
+The following is a summary of changes in lease liability for the year ended
+September 30, 2025:
+Balance Balance
+October 1, September 30, Due Within
+2024 Increase Decrease 2025 One Year
+Lease liability $ 78,537 $ - $ (40,412) $ 38,125 $ 38,125
+Total $ 78,537 $ - $ (40,412) $ 38,125 $ 38,125
+42
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 6 BONDS PAYABLE AND OTHER DEBT OBLIGATIONS (continued)
+Lease Liability (continued)
+The following is a summary of changes in lease liability for the year ended
+September 30, 2024:
+Balance Balance
+October 1, September 30, Due Within
+2023 Increase Decrease 2024 One Year
+Lease liability $ 117,761 $ - $ (39,224) $ 78,537 $ 40,412
+Total $ 117,761 $ - $ (39,224) $ 78,537 $ 40,412
+NOTE 7 REBATE LIABILITY
+In accordance with the Internal Revenue Service Code (the Code), the Agency
+has recorded a rebate liability for excess investment earnings in connection with
+tax-exempt bonds and notes issued after 1981. The excess investment earnings
+arise due to actual investment yields permitted to be retained by the indentures
+under the Code. The Code requires 90.0% of such excess investment earnings
+to be remitted to the United States Treasury every five years and in full at the
+final redemption of the bonds. Interest income on the statements of revenue,
+expenses and changes in net position is reduced by the rebate liability due to
+excess investment earnings. The increase/decrease in fair value of investments
+on the statements of revenue, expenses and changes in net position is adjusted
+by the change in the estimated rebate liability due to the change in fair value of
+investments. The Revenue Obligation Programs had no rebate liability from
+interest income or from unrealized gains on investments. For the years ended
+September 30, 2025 and 2024, the rebate liability in the single-family program
+was $40,095.
+NOTE 8 PROJECT FUNDS HELD FOR BORROWER AND OTHER LIABILITIES
+The project funds held for borrower and other liabilities include funds contributed
+by the owners of the projects and/or funds received from low-income housing tax
+credit equity providers, District agencies, and the Department of Housing and
+Community Development. The Agency includes in the financial statements, funds
+received from these providers to the extent of unexpended monies in the project
+accounts.
+43
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 8 PROJECT FUNDS HELD FOR BORROWER AND OTHER LIABILITIES
+(continued)
+Under the 1996 Single Family Mortgage Revenue Bonds, the Agency
+administers grant funds received from the District’s DHCD under the U.S.
+Department of Housing and Urban Development’s Home Investment Partnership
+Program (HOME). These funds were either blended with the bond proceeds to
+yield interest rate subsidy on mortgage loans securitized into mortgage-backed
+securities or were used to help homebuyers with closing costs, including down-
+payment assistance. Under the respective grant agreements, the Agency may
+recycle repayments of HOME funds into its bond programs. There was no
+transfer by the Agency of HOME funds back to DHCD during fiscal year 2025. As
+of September 30, 2025 and 2024, total HOME Program-restricted assets were
+$1,100,773, for both years.
+NOTE 9 UNEARNED INCOME
+Unearned income includes funds related to non-refundable construction
+monitoring fees and bond issuer fees associated with multifamily financing
+activities. The income is recognized over each project’s anticipated construction
+period.
+NOTE 10 NET POSITION
+Net Investment in Capital Assets
+Net investment in capital assets includes capital assets, net of related
+accumulated amortization and related debt (i.e., lease liability). Net investment in
+capital assets at September 30, 2025 and 2024, was $1,956,687 and
+$1,617,835, respectively.
+Revenue Obligations Programs
+The Revenue Obligation Programs net position is restricted through debt
+covenants as collateral for the respective bond issues. Combined restricted net
+position related to the Revenue Obligation Programs as of September 30, 2025
+and 2024, was $38,293,013 and $35,222,814, respectively.
+McKinney Act Program
+The Agency qualified for 50.0% of the savings resulting from Financing
+Adjustment Factors (FAF) on Section (11)(b) bond refunding transactions. These
+funds are programmatically restricted as they are only to be used to benefit very
+low-income people. As a result, the Agency established a revolving loan fund to
+provide credit enhancement or loan guarantees. Restricted net position related to
+the McKinney Act Program as of September 30, 2025 and 2024, was
+$10,677,628 and $10,219,074, respectively.
+44
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 10 NET POSITION (continued)
+Unrestricted Net Position
+As of September 30, 2025 and 2024, unrestricted net position for General
+Activities amounted to $160,597,004 and $160,698,472, respectively. The
+unrestricted net position is used to support the Agency’s issuer credit rating.
+NOTE 11 RETIREMENT PLAN
+The Agency established a 457(b) deferred compensation plan (the 457(b) Plan)
+for the benefit of its eligible employees, effective October 1, 1997. The Plan was
+amended and changed recordkeepers, effective October 1, 2015. The amended
+Plan allows the Agency to match an employee’s salary at a discretionary
+percentage. The match amount was 10% for the years ended September 30,
+2025 and 2024, respectively. Plan expense for the years ended September 30,
+2025 and 2024, was $451,387 and $414,637, respectively.
+NOTE 12 OTHER INCOME
+The Agency’s other income for fiscal year 2025 and 2024 is comprised of the
+following:
+General Activities
+Description 2025 2024
+MIP Risk Share Program $ 171,250 $ 290,214
+Interest income advances - HPAP 102,015 209,077
+Portfolio asset management fees 223,500 267,250
+Insurance proceeds water damage 40,007 -
+Other 413,486 883,648
+Total $ 950,258 $ 1,650,189
+45
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 13 FEDERAL AND CITY PROGRAMS
+On March 1, 2017, DCHFA signed a Subrecipient Grant Agreement with the
+District of Columbia Department of Housing and Community Development to
+administer $5.7 million of Community Development Block Grant funds, allocated
+to the District of Columbia by the U.S. Department of HUD under Title 1 of the
+U.S. Housing and Community Development Act of 1974. During 2020, the
+Subrecipient Grant Agreement was amended to include HOME Grant Funds. The
+Community Development Block and HOME Grant funds were used to fund down
+payment assistance activities and services. During the years ended September
+30, 2025 and 2024, respectively, the DCHFA received a funding extension under
+the program in the total amounts of $21.5 million and $24.9 million, which
+includes $6.6 million and $5.7 million, to be funded from federal funds and $14.9
+million and $19.2 million, to be funded from local funds. For the years ended
+September 30, 2025 and 2024, the Agency incurred program expenses, and
+recorded a corresponding amount of revenues, of $19.7 million and $23.4 million,
+included in grant program revenues and expenses on the statement of revenues,
+expenses and change in net position. Of the program expenses incurred during
+the years ended September 30, 2025 and 2024, $4.8 million and $5.6 million,
+respectively, were funded by federal funds and $14.9 million and $17.8 million,
+respectively, were funded by local funds.
+In fiscal year 2019, DCHFA, by enactment by the Council of the District of
+Columbia, established an 18-month pilot program, Reverse Mortgage Insurance
+and Tax Payment (ReMIT), that allows qualified homeowners to apply for and
+receive up to $25,000 in financial assistance for payment of past due property
+taxes and property insurance debts that have put qualified homeowners at risk of
+foreclosure. The program was extended during fiscal year 2020. DCHFA records
+a lien on the subject property in the amount of the financial assistance provided
+to the qualified homeowner, which is subordinate to the reverse mortgage lender
+in the first position. During fiscal year 2025 the Council of the District of Columbia
+amended the program, including an increase to $40,000 in financial assistance.
+NOTE 14 COMMITMENTS AND CONTINGENCIES
+As of September 30, 2025, the Agency had total mortgage commitments in the
+amount of $174.7 million on projects under construction in the Multifamily
+Development Program, of which $67.8 million has been drawn and $106.9 million
+remains to be drawn.
+The Agency is a plaintiff in one lawsuit. It is the opinion of the General Counsel
+that the lawsuit will not have a material adverse impact on the Agency’s financial
+condition.
+46
+DISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Notes to Financial Statements
+For the Years Ended September 30, 2025 and 2024
+NOTE 15 CONDUIT DEBT OBLIGATIONS
+The Agency has issued bonds that provide mortgage loan financing for newly
+constructed or rehabilitated multifamily rental housing developments in the
+District. No individual conduit multifamily project’s assets are available to
+collateralize other project’s debt obligations. Neither the faith and credit of the
+Agency nor the assets of any other Program have been pledged as security for
+these bonds. The developments financed are pledged as collateral, and the
+bonds are payable solely from payments received from the mortgages on the
+underlying promissory notes. As of September 30, 2025 and 2024, the bonds
+have an aggregate outstanding principal amount payable of $2,249,710,949 and
+$2,121,597,473, respectively.
+NOTE 16 SUBSEQUENT EVENTS
+The events that occur after the date of the Statement of Net Position but before
+the financial statements were available to be issued must be evaluated for
+recognition or disclosure. The effects of subsequent events that provide evidence
+about conditions that existed at the date of the Statement of Net Position are
+recognized in the accompanying financial statements. Subsequent events which
+provide evidence about conditions that existed after the date of the Statement of
+Net Position require disclosure in the accompanying notes. Management
+evaluated the activity of DCHFA through December 16, 2025 (the date the
+financial statements were available to be issued), and concluded that no
+subsequent events have occurred that would require recognition in the financial
+statements or disclosure in the notes to the financial statements.
+47
+SUPPLEMENTARY INFORMATION
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Net Position
+September 30, 2025
+(With Comparative Totals For 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+ASSETS
+CURRENT ASSETS
+Unrestricted current assets
+Cash and cash equivalents $ 21,373,069 $ - $ - $ 21,373,069 $ 31,852,698
+Investments 60,322,614 - - 60,322,614 54,363,940
+Other receivables 5,260,906 - - 5,260,906 5,005,537
+Accrued interest receivable 1,696,192 - - 1,696,192 1,418,429
+Prepaid expenses 374,404 - - 374,404 325,404
+Total unrestricted current assets 89,027,185 - - 89,027,185 92,966,008
+Restricted current assets
+Cash and cash equivalents 19,693,291 13,683,019 48,894,656 82,270,966 55,147,068
+Investments held in trust - 10,000,000 26,755,756 36,755,756 40,581,903
+Mortgage backed securities - 5,545 - 5,545 6,981
+Other receivables - - 1,567,441 1,567,441 461,012
+Accounts receivable - HPAP Program 789,567 - - 789,567 401,868
+McKinney Act loans receivable, net 4,076,678 - - 4,076,678 2,641,615
+Accrued interest receivable - 242,474 588,430 830,904 714,768
+Total restricted current assets 24,559,536 23,931,038 77,806,283 126,296,857 99,955,215
+Total current assets 113,586,721 23,931,038 77,806,283 215,324,042 192,921,223
+NON-CURRENT ASSETS
+Unrestricted non-current assets
+Investments 64,141,755 - - 64,141,755 63,021,081
+Mortgage-backed securities at fair value 4,062,647 - - 4,062,647 4,389,471
+Mortgage and construction loans
+receivable, net 6,958,346 - - 6,958,346 6,548,907
+Due from (to) other programs 181,655 - (181,655) - -
+Total unrestricted non-current
+assets 75,344,403 - (181,655) 75,162,748 73,959,459
+See Accompanying Independent Auditor’s Report.
+48
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Net Position (continued)
+September 30, 2025
+(With Comparative Totals For 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+NON-CURRENT ASSETS (continued)
+Restricted non-current assets
+Investments held in trust $ - $ - $ 161,646,834 $ 161,646,834 $ 161,385,586
+Investments in joint ventures 2,814,486 - - 2,814,486 2,300,000
+Mortgage-backed securities at fair value - 4,894,824 - 4,894,824 5,869,268
+Mortgage and construction loans
+receivable, net - 265,000 281,469,195 281,734,195 251,149,360
+Loans receivable - - - - 55,729
+Total restricted non-current assets 2,814,486 5,159,824 443,116,029 451,090,339 420,759,943
+Capital assets
+Land 573,000 - - 573,000 573,000
+Depreciable and amortizable capital assets 7,380,268 - - 7,380,268 6,791,069
+Less: Accumulated depreciation and
+amortization (5,958,456) - - (5,958,456) (5,667,696)
+Total capital assets, net 1,994,812 - - 1,994,812 1,696,373
+Total non-current assets 80,153,701 5,159,824 442,934,374 528,247,899 496,415,775
+Total assets $ 193,740,422 $ 29,090,862 $ 520,740,657 $ 743,571,941 $ 689,336,998
+LIABILITIES AND NET POSITION
+CURRENT LIABILITIES
+Current liabilities payable from unrestricted
+assets
+Accounts payable and accrued liabilities $ 607,061 $ - $ - $ 607,061 $ 389,320
+Accrued salary and vacation payable 791,026 - - 791,026 685,178
+Lease liability 38,125 - - 38,125 40,412
+Unearned income 8,501,647 - - 8,501,647 11,582,477
+Total current liabilities payable from
+unrestricted assets 9,937,859 - - 9,937,859 12,697,387
+See Accompanying Independent Auditor’s Report.
+49
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Net Position (continued)
+September 30, 2025
+(With Comparative Totals For 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+LIABILITIES AND NET POSITION (continued)
+CURRENT LIABILITIES (continued)
+Current liabilities payable from restricted
+assets
+Accounts payable and accrued liabilities $ 3,937 $ 40,095 $ - $ 44,032 $ 42,571
+Project funds held for borrower and
+other liabilities 10,167,257 1,100,773 106,272,959 117,540,989 92,893,023
+Interest payable - 3,612 1,418,437 1,422,049 1,105,246
+Current portion of loans payable 400,050 - - 400,050 250,400
+Current portion of bonds payable - 170,000 3,233,200 3,403,200 8,214,313
+Total current liabilities payable from
+restricted assets 10,571,244 1,314,480 110,924,596 122,810,320 102,505,553
+Total current liabilities 20,509,103 1,314,480 110,924,596 132,748,179 115,202,940
+NON-CURRENT LIABILITIES
+Non-current liabilities payable from
+unrestricted assets
+Lease liability - - - - 38,125
+Total non-current liabilities payable
+from unrestricted assets - - - - 38,125
+Non-current liabilities payable from
+restricted assets
+Bonds payable - less current portion - - 399,299,430 399,299,430 366,337,738
+Total non-current liabilities payable
+from restricted assets - - 399,299,430 399,299,430 366,337,738
+Total non-current liabilities - - 399,299,430 399,299,430 366,375,863
+Total liabilities 20,509,103 1,314,480 510,224,026 532,047,609 481,578,803
+See Accompanying Independent Auditor’s Report.
+50
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Net Position (continued)
+September 30, 2025
+(With Comparative Totals For 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+NET POSITION
+Net investment in capital assets $ 1,956,687 $ - $ - $ 1,956,687 $ 1,617,835
+Restricted for
+Bond fund, collateral and Risk Share
+Program - 27,776,382 10,516,631 38,293,013 35,222,814
+McKinney Act Program 10,677,628 - - 10,677,628 10,219,074
+Total restricted net position 10,677,628 27,776,382 10,516,631 48,970,641 45,441,888
+Unrestricted net position 160,597,004 - - 160,597,004 160,698,472
+Total net position 173,231,319 27,776,382 10,516,631 211,524,332 207,758,195
+Total liabilities and net position $ 193,740,422 $ 29,090,862 $ 520,740,657 $ 743,571,941 $ 689,336,998
+See Accompanying Independent Auditor’s Report.
+51
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Revenues, Expenses and Changes in Net Position
+Year Ended September 30, 2025
+(With Comparative Totals for 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+OPERATING REVENUES
+Investment interest income $ 5,479,305 $ 1,144,644 $ 1,038,543 $ 7,662,492 $ 6,425,390
+Mortgage-backed security interest income 124,591 271,645 - 396,236 441,378
+Interest on mortgage and construction loans - - 8,323,373 8,323,373 7,183,948
+Construction and development admin fees 3,291,201 - - 3,291,201 4,744,386
+Financing fee income 4,751,200 - - 4,751,200 4,057,198
+Tax credit fee income 1,210,549 - - 1,210,549 1,002,312
+Bond administration fee income 9,206,167 - 60,913 9,267,080 8,471,544
+McKinney Act interest revenue 457,234 - - 457,234 497,356
+Application and commitment fees 190,655 - - 190,655 104,945
+Bond counsel fees 270,000 - - 270,000 225,000
+Gain on sale of single family loans 312,974 - - 312,974 274,602
+Mortgage prepayment income - - - - 937,991
+Project revenue - - 6,807,726 6,807,726 1,756,542
+Other 950,258 - - 950,258 1,650,189
+Total operating revenues 26,244,134 1,416,289 16,230,555 43,890,978 37,772,781
+OPERATING EXPENSES
+General and administrative 4,066,192 246 - 4,066,438 4,085,951
+Personnel and related costs 11,131,489 - - 11,131,489 9,581,685
+Interest expense 1,789 15,034 13,395,182 13,412,005 11,843,438
+Depreciation and amortization 322,637 - - 322,637 387,770
+Trustee fees and other expenses 9,216 1,750 482,251 493,217 651,488
+Total operating expenses 15,531,323 17,030 13,877,433 29,425,786 26,550,332
+Operating income 10,712,811 1,399,259 2,353,122 14,465,192 11,222,449
+See Accompanying Independent Auditor’s Report.
+52
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Revenues, Expenses and Changes in Net Position (continued)
+Year Ended September 30, 2025
+(With Comparative Totals for 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+NON-OPERATING REVENUES (EXPENSES)
+Federal and city programs
+Grant program revenue $ 20,253,278 $ - $ - $ 20,253,278 $ 23,966,242
+Grant program expenses (20,358,064) - - (20,358,064) (23,965,698)
+Program subsidy grants (9,836,329) - - (9,836,329) -
+Increase (decrease) in fair value of mortgage-backed
+securities and investments (75,758) (56,207) (625,975) (757,940) 6,099,390
+Total non-operating revenues/(expenses) (10,016,873) (56,207) (625,975) (10,699,055) 6,099,934
+Change in net position 695,938 1,343,052 1,727,147 3,766,137 17,322,383
+Net position, beginning of year 172,535,381 26,433,330 8,789,484 207,758,195 190,435,812
+Net position, end of year $ 173,231,319 $ 27,776,382 $ 10,516,631 $ 211,524,332 $ 207,758,195
+See Accompanying Independent Auditor’s Report.
+53
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Cash Flows
+Year Ended September 30, 2025
+(With Comparative Totals for 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Interest received on loans $ - $ - $ 8,323,373 $ 8,323,373 $ 7,183,948
+Administrative and financing cash receipts 15,946,644 - 60,913 16,007,557 14,459,688
+Other cash receipts 1,545,672 - 6,807,726 8,353,398 4,854,989
+Payments to vendors (3,900,477) (1,997) (482,251) (4,384,725) (4,757,748)
+Payments to employees (11,025,641) - - (11,025,641) (9,498,509)
+Net mortgage and construction loans principal
+receipts (disbursements) (409,439) 10,000 (31,701,264) (32,100,703) (19,442,782)
+Principal received on loans receivable 55,729 - - 55,729 32,971
+Principal and interest received on mortgage-
+backed securities 412,835 1,191,318 - 1,604,153 1,435,895
+Principal and interest received on McKinney Act
+loans 261,421 - - 261,421 193,430
+Principal advances on McKinney Act loans (1,461,411) - - (1,461,411) (1,742,390)
+Net cash receipts (disbursements) projects funds
+held for borrower 1,481,753 - 20,910,137 22,391,890 (34,198,877)
+Net cash provided by (used in) operating
+activities 2,907,086 1,199,321 3,918,634 8,025,041 (41,479,385)
+CASH FLOWS FROM NON-CAPITAL FINANCING
+ACTIVITIES
+Interest paid on bonds and loans (1,789) (18,327) (13,060,217) (13,080,333) (11,452,377)
+Proceeds from bond issuances and loans 11,091,438 - 48,265,000 59,356,438 49,360,733
+Principal payments on issued debt and loans (10,941,788) (155,000) (19,974,290) (31,071,078) (13,568,550)
+Grant program cash receipts 19,232,508 - - 19,232,508 43,452,812
+Grant program cash disbursements (20,358,064) - - (20,358,064) (23,965,698)
+Program subsidy grant disbursements (9,836,329) - - (9,836,329) -
+Net cash (used in) provided by non-capital
+financing activities (10,814,024) (173,327) 15,230,493 4,243,142 43,826,920
+See Accompanying Independent Auditor’s Report.
+54
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Cash Flows (continued)
+Year Ended September 30, 2025
+(With Comparative Totals for 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+CASH FLOWS FROM CAPITAL AND RELATED
+FINANCING ACTIVITIES
+Acquisition of capital assets $ (638,244) $ - $ - $ (638,244) $ (64,906)
+Principal payments on lease from operations (40,412) - - (40,412) (39,224)
+Net cash used in capital and related financing
+activities (678,656) - - (678,656) (104,130)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Investment in joint ventures (514,486) - - (514,486) (391,546)
+Interest received on investments 5,064,929 1,143,317 923,734 7,131,980 7,185,484
+Maturities and sales of investments 42,831,019 - 53,460,000 96,291,019 82,172,582
+Purchase of investments (49,588,771) - (48,265,000) (97,853,771) (94,485,325)
+Net cash (used in) provided by investing
+activities (2,207,309) 1,143,317 6,118,734 5,054,742 (5,518,805)
+Net increase (decrease) in cash and cash equivalents (10,792,903) 2,169,311 25,267,861 16,644,269 (3,275,400)
+Cash and cash equivalents, beginning of year 51,859,263 11,513,708 23,626,795 86,999,766 90,275,166
+Cash and cash equivalents, end of year $ 41,066,360 $ 13,683,019 $ 48,894,656 $ 103,644,035 $ 86,999,766
+CASH, CASH EQUIVALENTS AND RESTRICTED
+CASH
+Cash and cash equivalents $ 21,373,069 $ - $ - $ 21,373,069 $ 31,852,698
+Restricted cash and cash equivalents 1 9,693,291 13,683,019 48,894,656 82,270,966 55,147,068
+Total cash, cash equivalents and restricted
+cash $ 41,066,360 $ 13,683,019 $ 48,894,656 $ 103,644,035 $ 86,999,766
+See Accompanying Independent Auditor’s Report.
+55
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Combining Statements of Cash Flows (continued)
+Year Ended September 30, 2025
+(With Comparative Totals for 2024)
+General Single Family Multifamily
+Activities Program Program 2025 2024
+RECONCILIATION OF OPERATING INCOME
+TO NET CASH PROVIDED BY (USED IN)
+OPERATING ACTIVITIES
+Operating income (loss) $ 10,712,811 $ 1,399,259 $ 2,353,122 $ 14,465,192 $ 11,222,449
+Adjustments to reconcile operating income to net
+cash provided by (used in) operating activities
+Depreciation and amortization 322,637 - - 322,637 387,770
+Loss on disposal of capital assets 12,440 - - 12,440 10,665
+Computers donated 4,728 - - 4,728 -
+Bond premium amortization/discount accretion - - 14,869 14,869 1,321
+Interest received on investments (5,479,305) (1,143,317) (923,734) (7,546,356) (7,279,383)
+Interest paid on bonds/loans 1,789 18,327 13,060,217 13,080,333 11,452,377
+Mckinney Act receivable bad debt recovery - - - - (149,225)
+Loans receivable written off - - - - 1,538,681
+Effects of changes in operating assets and liabilities
+Decrease (increase) in assets
+Other receivables (255,369) - (1,106,429) (1,361,798) (1,989,600)
+Accrued interest receivable (222,161) (1,327) (114,809) (338,297) 699,292
+Prepaid expenses (49,000) - - (49,000) (58,497)
+McKinney Act receivable (1,435,063) - - (1,435,063) (1,742,390)
+Mortgage and construction loans (409,439) 10,000 (30,594,835) (30,994,274) (18,981,770)
+Mortgage-backed securities 288,244 919,673 - 1,207,917 994,517
+Loan receivable 55,729 - - 55,729 32,971
+(Decrease) increase in liabilities
+Accounts payable and accrued liabilities 219,203 (1) - 219,202 38,188
+Accrued salary and vacation payable 105,848 - - 105,848 83,176
+Unearned income (2,447,759) - - (2,447,759) (3,930,790)
+Project funds held for borrower and other
+liabilities 1,481,753 - 20,910,137 22,391,890 (34,198,877)
+Interest payable - (3,293) 320,096 316,803 389,740
+Net cash provided by (used in) operating
+activities $ 2,907,086 $ 1,199,321 $ 3,918,634 $ 8,025,041 $ (41,479,385)
+See Accompanying Independent Auditor’s Report.
+56
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program
+September 30, 2025 and 2024
+1988 Collateralized Single Family Mortgage Revenue Bonds as of September 30, 2025
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Money market funds $ 13,683,019 $ 13,683,019 $ 13,683,019 $ - $ - $ - $ -
+Total cash and cash equivalents 13,683,019 13,683,019 13,683,019 - - - -
+INVESTMENTS
+Investment agreements 10,000,000 10,000,000 10,000,000 - - - -
+Total investments 10,000,000 10,000,000 10,000,000 - - - -
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,251,749 1,212,497 5,545 12,283 348,953 - 845,716
+Fannie Mae 1,260,904 1,272,223 - - - 1,109,293 162,930
+Freddie Mac 2,301,347 2,415,649 - - - 2,415,649 -
+Total mortgage-backed securities 4,814,000 4,900,369 5,545 12,283 348,953 3,524,942 1,008,646
+1988 Collateralized Single Family
+Mortgage Revenue Bonds total
+cash and investments $ 28,497,019 $ 28,583,388 $ 23,688,564 $ 12,283 $ 348,953 $ 3,524,942 $ 1,008,646
+See Accompanying Independent Auditor’s Report.
+57
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+1988 Collateralized Single Family Mortgage Revenue Bonds as of September 30, 2024
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Money Market Funds $ 11,513,708 $ 11,513,708 $ 11,513,708 $ - $ - $ - $ -
+Total cash and cash equivalents 11,513,708 11,513,708 11,513,708 - - - -
+INVESTMENTS
+Investment agreements 10,000,000 10,000,000 - 10,000,000 - - -
+Total investments 10,000,000 10,000,000 - 10,000,000 - - -
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,458,577 1,440,855 6,980 70,560 418,990 - 944,325
+Fannie Mae 1,550,638 1,574,195 - - - 1,403,614 170,581
+Freddie Mac 2,724,457 2,861,199 - - - 2,779,866 81,333
+Total mortgage-backed securities 5,733,672 5,876,249 6,980 70,560 418,990 4,183,480 1,196,239
+1988 Collateralized Single Family
+Mortgage Revenue Bonds total
+cash and investments $ 27,247,380 $ 27,389,957 $ 11,520,688 $ 10,070,560 $ 418,990 $ 4,183,480 $ 1,196,239
+See Accompanying Independent Auditor’s Report.
+58
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Development Program (MFDP) as of September 30, 2025
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Money market funds $ 47,180,198 $ 47,180,198 $ 47,180,198 $ - $ - $ - $ -
+Total cash and cash equivalents 47,180,198 47,180,198 47,180,198 - - - -
+INVESTMENTS
+U.S. Treasury obligations 66,029,164 67,721,743 2,255,198 64,516,745 - - 949,800
+Investment agreements 119,985,558 119,985,558 24,500,558 95,485,000 - - -
+GSE obligations 689,822 695,289 - 695,289 - - -
+Total investments 186,704,544 188,402,590 26,755,756 160,697,034 - - 949,800
+Multifamily MFDP Program total
+cash and investments $ 233,884,742 $ 235,582,788 $ 73,935,954 $ 160,697,034 $ - $ - $ 949,800
+See Accompanying Independent Auditor’s Report.
+59
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Development Program (MFDP) as of September 30, 2024
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 1,022,407 $ 1,022,407 $ 1,022,407 $ - $ - $ - $ -
+Money market funds 20,828,205 20,828,205 20,828,205 - - - -
+Total cash and cash equivalents 21,850,612 21,850,612 21,850,612 - - - -
+INVESTMENTS
+U.S. Treasury obligations 65,683,089 68,004,007 2,231,903 65,182,304 - - 589,800
+Investment agreements 123,270,558 123,270,558 38,350,000 37,340,558 47,580,000 - -
+GSE obligations 689,822 692,924 - 692,924 - - -
+Total investments 189,643,469 191,967,489 40,581,903 103,215,786 47,580,000 - 589,800
+Multifamily MFDP Program total
+cash and investments $ 211,494,081 $ 213,818,101 $ 62,432,515 $ 103,215,786 $ 47,580,000 $ - $ 589,800
+See Accompanying Independent Auditor’s Report.
+60
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Program as of September 30, 2025
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Demand money market deposits $ 1,468,590 $ 1,468,590 $ 1,468,590 $ - $ - $ - $ -
+Money market funds 245,868 245,868 245,868 - - - -
+Total cash and cash equivalents 1,714,458 1,714,458 1,714,458 - - - -
+Multifamily Program total cash $ 1,714,458 $ 1,714,458 $ 1,714,458 $ - $ - $ - $ -
+See Accompanying Independent Auditor’s Report.
+61
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Program as of September 30, 2024
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 12 $ 12 $ 2 $ - $ - $ 4 $ 6
+Demand money market deposits 1,484,154 1,484,154 1,484,154 - - - -
+Money market funds - 292,017 292,017 - - - -
+Total cash and cash equivalents 1,484,166 1,776,183 1,776,173 - - 4 6
+Multifamily Program total cash $ 1,484,166 $ 1,776,183 $ 1,776,173 $ - $ - $ 4 $ 6
+See Accompanying Independent Auditor’s Report.
+62
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Combined Revenue Obligation Programs and General Activities as of September 30, 2025
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 12,616,550 $ 12,616,550 $ 12,616,550 $ - $ - $ - $ -
+Demand money market deposits 23,301,458 23,301,458 23,301,458 - - - -
+Money market funds 67,726,027 67,726,027 67,726,027 - - - -
+Total cash and cash equivalents 103,644,035 103,644,035 103,644,035 - - - -
+INVESTMENTS
+Certificates of deposits 20,422,339 20,422,339 18,202,465 2,219,874 - - -
+U.S, Treasury obligations 90,604,716 92,324,491 21,568,658 69,806,033 - - 949,800
+Investment agreements 129,985,558 129,985,558 34,500,558 95,485,000 - - -
+Corporate obligations 78,884,070 79,202,359 22,657,614 56,284,770 259,975 - -
+GSE obligations 955,014 932,212 149,075 695,289 87,848 - -
+Total investments 320,851,697 322,866,959 97,078,370 224,490,966 347,823 - 949,800
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,626,831 1,568,109 5,545 12,283 348,953 - 1,201,328
+Fannie Mae 2,168,168 2,140,497 - - - 1,109,293 1,031,204
+Freddie Mac 5,790,165 5,254,410 - - - 2,415,649 2,838,761
+Total mortgage-backed securities 9,585,164 8,963,016 5,545 12,283 348,953 3,524,942 5,071,293
+Combined General Activities and
+Revenue Obligation Programs total
+cash, investments and Mortgage-
+Backed Securities $ 434,080,896 $ 435,474,010 $ 200,727,950 $ 224,503,249 $ 696,776 $ 3,524,942 $ 6,021,093
+See Accompanying Independent Auditor’s Report.
+63
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Combined Revenue Obligation Programs and General Activities as of September 30, 2024
+Maturities (in years)
+From 5 Up From 10 Up
+Assets Cost Carrying Value Less Than 1 From 1 Up To 5 To 10 To 15 15 and More
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 12,126,236 $ 12,126,236 $ 12,126,224 $ - $ - $ 6 $ 6
+Demand money market deposits 38,028,636 38,028,636 38,028,636 - - - -
+Money market funds 36,844,894 36,844,894 36,844,894 - - - -
+Total cash and cash equivalents 86,999,766 86,999,766 86,999,754 - - 6 6
+INVESTMENTS
+Certificates of deposits 14,666,892 14,666,892 12,536,456 2,130,436 - - -
+U.S, Treasury obligations 109,915,136 112,196,859 26,773,521 84,833,538 - - 589,800
+Investment agreements 133,270,558 133,270,558 38,350,000 47,340,558 47,580,000 - -
+Corporate obligations 56,762,658 57,208,491 16,202,632 40,689,329 316,530 - -
+GSE obligations 2,058,852 2,009,710 1,083,233 841,000 85,477 - -
+Total investments 316,674,096 319,352,510 94,945,842 175,834,861 47,982,007 - 589,800
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,846,040 1,819,354 6,981 70,560 418,990 - 1,322,823
+Fannie Mae 2,487,741 2,483,238 - - - 1,403,614 1,079,624
+Freddie Mac 6,459,301 5,963,128 - - - 2,779,866 3,183,262
+Total mortgage-backed securities 10,793,082 10,265,720 6,981 70,560 418,990 4,183,480 5,585,709
+Combined General Activities and
+Revenue Obligation Programs total
+cash, investments and Mortgage-
+Backed Securities $ 414,466,944 $ 416,617,996 $ 181,952,577 $ 175,905,421 $ 48,400,997 $ 4,183,486 $ 6,175,515
+See Accompanying Independent Auditor’s Report.
+64
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+1988 Collateralized Single Family Mortgage Revenue Bonds as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Money market funds $ 13,683,019 47.9% Aaa-mf Moody's Uncollateralized, Uninsured
+Total cash and cash equivalents 13,683,019 47.9%
+INVESTMENTS
+Investment agreements 10,000,000 35.0% Aa3 Moody's
+Total investments 10,000,000 35.0%
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,212,497 4.2% Aa1 Moody's
+Fannie Mae 1,272,223 4.5% Aa1 Moody's
+Freddie Mac 2,415,649 8.5% Aa1 Moody's
+Total mortgage-backed securities 4,900,369 17.1%
+1988 Collateralized Single Family
+Mortgage Revenue Bonds total cash,
+investments and Mortgage-Backed
+Securities $ 28,583,388 100.0%
+See Accompanying Independent Auditor’s Report.
+65
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+1988 Collateralized Single Family Mortgage Revenue Bonds as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Money market funds $ 11,513,708 42.0% Aaa-mf Moody's Uncollateralized, Uninsured
+Total cash and cash equivalents 11,513,708 42.0%
+INVESTMENTS
+Investment Agreements 10,000,000 36.5% Aa2 Moody's
+Total investments 10,000,000 36.5%
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,440,855 5.3% Aaa Moody's
+Fannie Mae 1,574,195 5.7% Aaa Moody's
+Freddie Mac 2,861,199 10.4% Aaa Moody's
+Total mortgage-backed securities 5,876,249 21.5%
+1988 Collateralized Single Family
+Mortgage Revenue Bonds total cash,
+investments and Mortgage-Backed
+Securities $ 27,389,957 100.0%
+See Accompanying Independent Auditor’s Report.
+66
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Development Program (MFDP) as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Money market funds $ 47,180,198 20.0% Aaa-mf Moody's
+Total cash and cash equivalents 47,180,198 20.0%
+INVESTMENTS
+U.S. Treasury obligations 67,721,743 28.7% Aa1 Moody's
+Investment agreements 119,985,558 50.9% Aa3 Moody's
+GSE obligations 695,289 0.3% Aa1 Moody's
+Total investments 188,402,590 80.0%
+Multifamily MFDP Program total cash
+and investments $ 235,582,788 100.0%
+See Accompanying Independent Auditor’s Report.
+67
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Development Program (MFDP) as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 1,022,407 0.5% Not Rated Uncollateralized, Uninsured
+Money market funds 20,828,205 9.7% Aaa-mf Moody's
+Total cash and cash equivalents 21,850,612 10.2%
+INVESTMENTS
+U.S. Treasury obligations 68,004,007 31.8% Aaa Moody's
+Investment agreements 84,920,558 39.7% Aa2 Moody's
+Investment agreements 38,350,000 17.9% A1 Moody's
+GSE obligations 692,924 0.3% Aaa Moody's
+Total investments 191,967,489 89.8%
+Multifamily MFDP Program total cash
+and investments $ 213,818,101 100.0%
+See Accompanying Independent Auditor’s Report.
+68
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Program as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Demand money market deposits $ 1,468,590 85.7% P-1 Moody's
+Money market funds 245,868 14.3% Aaa-mf Moody's
+Total cash and cash equivalents 1,714,458 100.0%
+Multifamily Program total cash and
+investments $ 1,714,458 100.0%
+See Accompanying Independent Auditor’s Report.
+69
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Multifamily Program as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 12 0.0% Not Rated Uncollateralized, Uninsured
+Demand money market deposits 1,484,154 83.6% P-1 Moody's
+Money market funds 292,017 16.4% Aaa-mf Moody's
+Total cash and cash equivalents 1,776,183 100.0%
+Multifamily Program total cash and
+investments $ 1,776,183 100.0%
+See Accompanying Independent Auditor’s Report.
+70
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Combined Revenue Obligation Programs and General Activities as of September 30, 2025
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 12,616,550 2.9% Not Rated Moody's Third Party-Held Aaa Collateral
+Demand money market deposits 20,404,056 4.7% Not Rated Moody's Federal Reserve-Held Aaa Collateral
+Demand money market deposits 2,897,402 0.7% P-1 Moody's
+Money market funds 67,726,027 15.6% Aaa-mf Moody's
+Total cash and cash equivalents 103,644,035 23.8%
+INVESTMENTS
+Certificates of deposits 20,422,339 4.7% Not Rated Moody's Federal Reserve-Held Aaa Collateral
+U.S. Treasury obligations 92,324,491 21.2% Aa1 Moody's
+Investment agreements 129,985,558 29.8% Aa3 Moody's
+Corporate obligations 232,312 0.1% Aaa Moody's
+Corporate obligations 2,044,960 0.5% Aa1 Moody's
+Corporate obligations 5,043,259 1.2% Aa2 Moody's
+Corporate obligations 13,373,810 3.1% Aa3 Moody's
+Corporate obligations 19,669,681 4.5% A1 Moody's
+Corporate obligations 21,172,661 4.9% A2 Moody's
+Corporate obligations 16,671,737 3.8% A3 Moody's
+Corporate obligations 993,940 0.2% Baa2 Moody's
+GSE obligations 932,211 0.2% Aaa Moody's
+Total investments 322,866,959 74.1%
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,568,109 0.4% Aa1 Moody's
+Fannie Mae 2,140,497 0.5% Aa1 Moody's
+Freddie Mac 5,254,410 1.2% Aa1 Moody's
+Total mortgage-backed securities 8,963,016 2.1%
+Combined general activities and revenue
+obligation programs total cash, investments
+and mortgage-backed securities $ 435,474,010 100.0%
+See Accompanying Independent Auditor’s Report.
+71
+D ISTRICT OF COLUMBIA HOUSING FINANCE AGENCY
+Schedules of Cash/Cash Equivalents, Investments and
+Mortgage-Backed Securities By Program (continued)
+September 30, 2025 and 2024
+Combined Revenue Obligation Programs and General Activities as of September 30, 2024
+Percentage
+of Total Underlying Securities Credit
+Asset Carrying Value Investments Credit Rating Rating Agency Rating/Supporting Collateral
+CASH AND CASH EQUIVALENTS
+Non-money market deposits $ 11,103,817 2.7% Not Rated Moody's Third Party-Held Aaa Collateral
+Non-money market deposits 1,022,419 0.2% Not Rated Moody's Uncollateralized, Uninsured
+Demand money market deposits 35,746,769 8.6% Not Rated Moody's Federal Reserve-Held Aaa Collateral
+Demand money market deposits 2,281,867 0.5% P-1 Moody's
+Money market funds 36,844,894 8.8% Aaa-mf Moody's
+Total cash and cash equivalents 86,999,766 20.9%
+INVESTMENTS
+Certificates of deposits 14,666,892 3.5% Not Rated Moody's Federal Reserve-Held Aaa Collateral
+U.S. Treasury obligations 112,196,859 26.9% Aaa Moody's
+Investment agreements 94,920,558 22.8% Aa2 Moody's
+Corporate obligations 38,350,000 9.2% A1 Moody's
+Corporate obligations 230,219 0.1% Aaa Moody's
+Corporate obligations 1,540,125 0.4% Aa1 Moody's
+Corporate obligations 1,608,882 0.4% Aa2 Moody's
+Corporate obligations 2,636,149 0.6% Aa3 Moody's
+Corporate obligations 16,503,784 4.0% A1 Moody's
+Corporate obligations 13,255,440 3.2% A2 Moody's
+Corporate obligations 16,174,101 3.9% A3 Moody's
+Corporate obligations 5,259,791 1.3% Baa1 Moody's
+GSE obligations 2,009,710 0.5% Aaa Moody's
+Total investments 319,352,510 76.7%
+MORTGAGE-BACKED SECURITIES
+Ginnie Mae 1,819,354 0.4% Aaa Moody's
+Fannie Mae 2,483,238 0.6% Aaa Moody's
+Freddie Mac 5,963,128 1.4% Aaa Moody's
+Total Mortgage-Backed Securities 10,265,720 2.5%
+Combined general activities and revenue
+obligation programs total cash, investments
+and mortgage-backed securities $ 416,617,996 100.0%
+See Accompanying Independent Auditor’s Report.
+72
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER
+FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED
+IN ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS
+To the Board of Directors
+District of Columbia Housing Finance Agency
+We have audited, in accordance with auditing standards generally accepted in the United States
+of America and the standards applicable to financial audits contained in Government Auditing
+Standards issued by the Comptroller General of the United States, the financial statements of
+the District of Columbia Housing Finance Agency (the ”Agency”), a component unit of the
+Government of the District of Columbia, as of and for the year ended September 30, 2025, and
+the related notes to the financial statements, which collectively comprise the Agency’s basic
+financial statements, and have issued our report thereon dated December 16, 2025.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Agency’s
+internal control over financial reporting (internal control) as a basis for designing audit
+procedures that are appropriate in the circumstances for the purpose of expressing our opinion
+on the financial statements, but not for the purpose of expressing an opinion on the
+effectiveness of the Agency’s internal control. Accordingly, we do not express an opinion on the
+effectiveness of the Agency’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees in the normal course of performing their assigned functions, to
+prevent, or detect and correct misstatements on a timely basis. A material weakness is a
+deficiency, or a combination of deficiencies, in internal control, such that there is a reasonable
+possibility that a material misstatement of the entity’s financial statements will not be prevented,
+or detected and corrected on a timely basis. A significant deficiency is a deficiency, or a
+combination of deficiencies, in internal control that is less severe than a material weakness, yet
+important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph
+of this section and was not designed to identify all deficiencies in internal control that might be
+material weaknesses or significant deficiencies. Given these limitations, during our audit we did
+not identify any deficiencies in internal control that we consider to be material weaknesses.
+However, material weaknesses or significant deficiencies may exist that were not identified.
+80 Pine Street
+New York, NY 10005
+T +1 212 709 4500
+F +1 212 709 4680
+73 mitchelltitus.com
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Agency’s financial statements are
+free from material misstatement, we performed tests of its compliance with certain provisions of
+laws, regulations, contracts, and grant agreements, noncompliance with which could have a
+direct and material effect on the financial statements. However, providing an opinion on
+compliance with those provisions was not an objective of our audit and, accordingly, we do not
+express such an opinion. The results of our tests disclosed no instances of noncompliance or
+other matters that are required to be reported under Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of
+the entity’s internal control or on compliance. This report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the entity’s
+internal control and compliance. Accordingly, this communication is not suitable for any other
+purpose.
+December 16, 2025
+74

@@ -1,0 +1,2231 @@
+Audit Report as of
+June 30, 2025 and 2024
+Idaho Housing and Finance Association
+Table of Contents
+June 30, 2025 and 2024
+Independent Auditor’s Report ................................................................................................................................... 1
+Management's Discussion and Analysis .................................................................................................................... 4
+Financial Statements
+Statements of Net Position .................................................................................................................................. 10
+Statements of Revenues, Expenses, and Changes in Net Position ...................................................................... 11
+Statements of Cash Flows .................................................................................................................................... 12
+Consolidated Statement of Financial Position ‐ The Housing Company .............................................................. 14
+Consolidated Statement of Activities ‐ The Housing Company ........................................................................... 15
+Notes to Financial Statements ............................................................................................................................. 16
+Supplementary Information
+Combined Statement of Net Position – Association Accounts ............................................................................ 57
+Combined Statement of Revenues, Expenses, and Changes in Net Position – Association Accounts ................ 58
+Combined Statement of Net Position – Combined Bondholder Trusts ............................................................... 59
+Combined Statement of Revenues, Expenses and Changes in Net Position – Combined Bondholder Trusts .... 60
+Independent Auditor’s Report
+To the Board of Commissioners
+Idaho Housing and Finance Association
+Boise, Idaho
+Report on the Financial Statements
+Opinions
+We have audited the accompanying financial statements of the business‐type activities and the
+discretely presented component unit of Idaho Housing and Finance Association (the Association), a
+component unit of the State of Idaho, as of and for the years ended June 30, 2025 and 2024, and the
+related notes to the financial statements, which collectively comprise the Association’s basic financial
+statements as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the business‐type activities and the discretely presented component unit
+of the Association as of June 30, 2025 and 2024, and the respective changes in financial position and,
+where applicable, cash flows thereof for the years then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards (Government Auditing Standards), issued by the Comptroller General of the United States.
+Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the
+Audit of the Financial Statements section of our report. We are required to be independent of the
+Association, and to meet our other ethical responsibilities, in accordance with the relevant ethical
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+1
+eidebailly.com
+877 W. Main St., Ste. 800 • Boise, ID 83702-5858 • T 208.344.7150 • F 208.344.7435 • EOE
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the Association’s ability to
+continue as a going concern for twelve months beyond the financial statement date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinions. Reasonable assurance is a high level of assurance but is not absolute
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS and
+Government Auditing Standards will always detect a material misstatement when it exists. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based on
+the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Association’s internal control. Accordingly, no such opinion is
+expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about the Association’s ability to continue as a going concern for a
+reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control‐related
+matters that we identified during the audit.
+2
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis be presented to supplement the basic financial statements. Such information is
+the responsibility of management and although not a part of the basic financial statements, is required
+by the Governmental Accounting Standards Board, who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or
+historical context. We have applied certain limited procedures to the required supplementary
+information in accordance with auditing standards generally accepted in the United States of America,
+which consisted of inquiries of management about the methods of preparing the information and
+comparing the information for consistency with management’s responses to our inquiries, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial
+statements. We do not express an opinion or provide any assurance on the information because the
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any
+assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Idaho Housing and Finance Association’s basic financial statements. The
+supplementary financial information listed in the table of contents is presented for purposes of
+additional analysis and is not a required part of the basic financial statements. Such information is the
+responsibility of management and was derived from and relates directly to the underlying accounting
+and other records used to prepare the basic financial statements. The information has been subjected to
+the auditing procedures applied in the audit of the basic financial statements and certain additional
+procedures, including comparing and reconciling such information directly to the underlying accounting
+and other records used to prepare the basic financial statements or to the basic financial statements
+themselves, and other additional procedures in accordance with auditing standards generally accepted
+in the United States of America. In our opinion, the supplementary information listed in the table of
+contents is fairly stated, in all material respects, in relation to the basic financial statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated September
+26, 2025 on our consideration of the Association’s internal control over financial reporting and on our
+tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and
+other matters. The purpose of that report is solely to describe the scope of our testing of internal
+control over financial reporting and compliance and the results of that testing, and not to provide an
+opinion on the effectiveness of the Association’s internal control over financial reporting or on
+compliance. That report is an integral part of an audit performed in accordance with Government
+Auditing Standards in considering the Association’s internal control over financial reporting and
+compliance.
+Boise, Idaho
+September 26, 2025
+3
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The Idaho Housing and Finance Association’s (the Association) Management Discussion and Analysis presents
+readers of the Association’s financial statements a narrative overview and analysis of the financial activities of
+the Association for the years ended June 30, 2025 and 2024.
+Organizational Overview
+The Association is a self‐supporting organization that must generate all revenue necessary to cover the cost of
+its operations. The Association services loans for single‐family borrowers in Idaho, Connecticut, Iowa, New
+Mexico, South Dakota, Texas, Oregon, and Washington, and multifamily affordable housing projects in Idaho.
+The Association administers seventeen (17) Housing and Urban Development (HUD) programs‐‐‐Emergency
+Solutions Grants Program, HOME Investment Partnerships Program, Home – American Rescue Plan, Housing
+Trust Fund, Neighborhood Stabilization Program, Continuum of Care Program, Youth Homelessness
+Demonstration Program, Youth Homelessness System Improvement, Comprehensive Housing and Counseling
+Program, Family Self‐Sufficiency Program, Section 8 Performance Based Contract Administration, Housing
+Choice Voucher Program, Emergency Housing Voucher Program, Mainstream 5 Year Program, Coronavirus State
+and Local Fiscal Recovery Funds (Workforce Housing and Idaho Collateral Support Program), Federal Housing
+Administration Insured Mortgage Loans, and Public and Indian Housing Loan Guarantee program; three (3) U.S.
+Treasury programs‐‐‐Tax Credit Assistance Program, Homeowner Assistance Fund, and Emergency Rental
+Assistance; one (1) Department of Veterans Affairs (VA) program‐‐‐Guaranteed Mortgage Loans; and one (1) U.S.
+Department of Agriculture (USDA) program‐‐‐USDA Rural Housing Services Insured Mortgage Loans. The
+Association also issues bonds to finance nonprofit facilities, economic development projects, and road
+improvements throughout the State of Idaho.
+Financial Highlights
+The Association reported a positive operating income during fiscal year 2025, reflecting continued robust loan
+acquisition production, a growing servicing portfolio, higher servicing revenue, and on‐going cost containment
+measures. The sustained high interest rates experienced during the fiscal year drove up both interest income
+and interest expense as compared to the prior year. The Association continued to pursue its strategy of selling
+mortgage‐backed securities via the most favorable avenue offered by the market. In fiscal year 2023, many
+sales were shifted into bond indentures rather than being immediately sold on the open market. Similar market
+conditions continued into fiscal year 2025. As a result, gain on loan sales reported on the Statements of
+Revenues, Expenses, and Changes in Net Position remained relatively comparable to the prior year.
+The issuance of new bonds in fiscal year 2025 caused large increases to both the assets and liabilities of the
+Association’s balance sheet. This activity was somewhat offset by existing mortgage‐backed securities
+continuing to pay down, decreasing the liabilities and the associated assets. Other assets increased mostly due
+to receivables associated with real estate owned. The principal associated with the majority of these properties
+is guaranteed by insurance from the Federal Housing Administration, the Department of Veterans Affairs, or the
+United States Department of Agriculture.
+4
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The financial highlights of the Association as of June 30, 2025 compared to June 30, 2024, are as follows:
+ Operating income increased from $10.633 million to $27.361 million which is an increase of $16.728
+million.
+ Total net position, after fair market value and federal pass‐through adjustments, increased $56.009
+million mainly attributable to positive operating income and an increase in the fair value of the
+Association’s investments.
+ Total assets and deferred outflows of resources increased $1.183 billion or 24% mainly due to new
+bond issuances.
+ Total liabilities and deferred inflows of resources increased $1.127 billion or 27% mainly due to new
+bond issuances.
+The Financial Analysis section of this Management’s Discussion and Analysis includes a table that summarizes
+the changes in assets and liabilities that occurred during the years ended June 30, 2025, 2024, and 2023, as well
+as the changes in net position.
+Fiscal year 2025 was characterized by relatively stable interest rates and a continued strength in the real estate
+market in Idaho. The Association also experienced stable loan purchases of tax‐exempt bond eligible loans by
+first time home buyers.
+The Association has various joint‐venture or subservicing relationships with Connecticut Housing Finance
+Authority (CHFA), Iowa Finance Authority (IFA), New Mexico Mortgage Finance Authority (MFA), South Dakota
+Housing Development Authority (SDHDA), Texas Department of Housing and Community Affairs (TDHCA), and
+Washington State Housing Finance Commission (WSHFC). The Association also has master servicing
+relationships with Oregon Housing and Community Services (OHCS), and Montana Board of Housing (MBOH).
+Overall, the Association has successfully managed its loan and financing programs during this period. Looking
+forward, the Association, in line with market expectations, anticipates more uncertainty in the economic, legal,
+political, and mortgage‐lending environments as volatilities in interest rates, tariffs, and inflation impacts the
+Association’s business.
+See the Financial Analysis section of this Management’s Discussion and Analysis for additional information on
+the Government Accounting Standards Board (GASB) required fair value adjustments.
+Overview of the Financial Statements
+This annual financial report consists of three parts: Management’s Discussion and Analysis; the financial
+statements, including notes to the financial statements; and supplemental schedules. Summary information is
+presented for separate mortgage revenue bond programs in the supplemental schedules.
+5
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+According to the American Institute of Certified Public Accountants (AICPA), in its Audit Guide for Not‐For‐Profit
+Organizations, the Association meets the definition of a governmental entity and incorporates GASB accounting
+standards into its financial statements. However, due to the nature of the Association, it is considered a Special
+Purpose Governmental Entity engaged only in business‐type activities. Accordingly, the Association uses
+Proprietary Enterprise Fund reporting and the financial statements are presented using the economic resources
+measurement focus and the accrual basis of accounting.
+The Association’s financial statements provide detailed information about the most significant activities within
+the Proprietary Fund. Some of the activities are required by the Department of Housing and Urban Development
+(HUD) or by certain bond requirements. However, the Association has established others to help it control and
+manage money for particular purposes or to show that it is meeting legal responsibilities for using grants and
+other money.
+Component units are organizations legally separate from but financially accountable to the Association and their
+relationship with the Association is such that exclusion would cause the Association’s financial statements to be
+misleading. The Association has determined that The Housing Company, the Home Partnership Foundation, and
+IHFA Community Investment Holdings LLC are integral and material components of the Association’s reporting
+entity and their respective financial statements have been incorporated as such.
+Accordingly, The Housing Company’s basic financial statements are presented immediately following the
+Association’s basic financial statements while the Home Partnership Foundation’s and IHFA Community
+Investment Holdings LLC’s basic financial statements have been blended with the Association’s basic financial
+statements.
+6
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+Financial Analysis
+The following table summarizes the changes in assets and liabilities that occurred during the years ended June
+30, 2025 and 2024, as well as the changes in net position.
+for the Period Ended June 30, 2025 2025 2024 2023
+(in thousands) % Change % Change
+from from
+Balance prior period Balance prior period Balance
+Cash and cash equivalents (partially restricted) $ 590,265 9.7% $ 538,108 10.1% $ 488,665
+Investments (partially held in trust) 3,077,370 26.3% 2,435,960 77.9% 1,368,916
+Loans held for investment, net 322,717 12.3% 287,306 7.1% 268,183
+Loans available for sale 157,061 81.7% 8 6,452 (8.3%) 94,289
+Mortgage servicing rights 305,048 1.8% 299,781 26.0% 237,912
+Government bond payments receivable 1,371,045 27.0% 1,079,191 28.7% 838,359
+Capital assets and right of use leases 1 1,261 16.6% 9,660 (30.8%) 13,956
+Derivative assets 1,822 130.9% 789 (72.4%) 2,855
+Other assets 188,631 80.7% 104,389 (0.8%) 105,207
+Interest rate swap contracts, amortized value 372 (51.1%) 760 (89.3%) 7,095
+Interest rate swap contracts, fair value 614 (51.0%) 1,253 53.6% 816
+Total assets and deferred outflow $ 6,026,206 24.4% $ 4,843,649 41.4% $ 3 ,426,253
+Bonds and Notes $ 4,135,789 20.9% $ 3,420,498 72.6% $ 1 ,982,203
+Short‐term borrowings 608,864 119.2% 277,814 (28.5%) 388,370
+Escrow and project reserve deposits 279,716 4.1% 268,798 31.9% 203,795
+Investor remittance liability 155,261 44.0% 107,810 (0.8%) 108,700
+Derivative liabilities 4,679 120.1% 2,126 (85.8%) 14,965
+Other liabilities 125,890 18.1% 106,605 (27.9%) 147,953
+Total liabilities and deferred inflow $ 5,310,199 26.9% $ 4,183,651 47.0% $ 2 ,845,986
+Net investment in capital assets 1 0,215 12.8% 9,053 (29.2%) 12,779
+Restricted 139,648 111.8% 6 5,937 62,560
+Unrestricted 566,144 (3.2%) 585,008 15.9% 504,928
+Total net position $ 716,007 8.5% $ 659,998 13.7% $ 580,267
+7
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+For the years ended June 30, 2025 2024 2023
+(in thousands) % Change % Change
+from from
+Balance prior period Balance prior period Balance
+Interest on cash and investments $ 128,176 37.7% $ 93,094 296.5% $ 23,479
+Interest on loans receivable 7 2,778 18.3% 6 1,520 23.8% 49,690
+Loan servicing revenues 8 6,296 11.7% 7 7,289 23.1% 62,803
+Gain on sale of loans 1 2,271 (6.2%) 1 3,076 2.7% 12,733
+Grant and contract administration fees 1 4,646 (11.6%) 1 6,571 (7.4%) 17,901
+Other operating revenues 9,479 145.4% 3,862 (0.1%) 3,864
+Total revenues 323,646 21.9% 265,412 55.7% 170,470
+Interest expense 191,499 26.2% 151,700 112.9% 71,265
+Salaries and benefits 3 8,026 8.2% 3 5,131 6.6% 32,956
+General operating 2 8,788 33.8% 2 1,521 (5.2%) 22,704
+Loan acquisition costs 3 0,159 (18.7%) 3 7,090 52.8% 24,277
+Net provision for loan losses 4,874 8.3% 4,501 8.4% 4,154
+Grants to others 330 (89.9%) 3,266 172.6% 1,198
+Bond financing costs 171 52.7% 112 3.7% 108
+Other operating expenses 2,438 67.2% 1,458 (8.4%) 1,591
+Total expenses 296,285 16.3% 254,779 61.0% 158,253
+Operating income/(loss) 2 7,361 157.3% 1 0,633 (13.0%) 12,217
+Net increase (decrease) in fair value of investments 2 6,108 (699.2%) (4,357) (73.2%) (16,250)
+Net increase in fair value of servicing contracts 5,267 (91.5%) 6 1,869 (114,371)
+Net increase (decrease) in fair value of derivatives (3,058) (124.9%) 1 2,305 (199.4%) (12,376)
+Federal/State pass‐through revenues 9 5,923 (23.2%) 124,842 8.6% 114,918
+Federal/State pass‐through expenses (95,592) (23.9%) (125,561) 9.5% (114,633)
+Total non‐operating revenues and expenses 2 8,648 (58.5%) 6 9,098 (148.4%) (142,712)
+Increase/(decrease) in net position $ 56,009 (29.8%) $ 79,731 (161.1%) $ ( 130,495)
+The fair value adjustments reported in the Statement of Net Position on page 10 and the Statement of
+Revenues, Expenses, and Changes in Net Position on page 11 are required under GASB Statements No. 31,
+Accounting and Financial Reporting for Certain Investments and for External Investment Pools, No. 53,
+Accounting and Financial Reporting for Derivative Instruments, and No. 72, Fair Value Measurement and
+Application.
+Capital Asset and Debt Administration
+Capital Assets: The Association’s capital assets include land, buildings, office, and computer equipment. Capital
+assets are presented in the financial statements at $11.261 million (net of accumulated depreciation).
+8
+Idaho Housing and Finance Association
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The Association periodically sells bonds to investors to raise capital. Bonds are marketable securities‐backed by
+mortgage loans on residential and multifamily properties. The Association’s bond issues are highly rated
+because, in addition to a mortgage on the property being financed, the bond issue requires cash reserves along
+with mortgage insurance and other safeguards, giving the investor or bondholder additional assurance that the
+bond issuer (the Association) will repay the loan.
+Additional information about our long‐term liabilities is presented in the notes to the financial statements.
+Economic Factors
+The primary business activity of the Association is funding the purchase and servicing of single‐family home
+mortgages. The Association’s mortgage financing activities are sensitive to the level of interest rates, the spread
+between the rate available on Association loans and those available in the conventional mortgage markets and
+the availability of affordable housing. The availability of Federal National Mortgage Association (FNMA), Federal
+Home Loan Mortgage Corporation (FHLMC), and Government National Mortgage Association (GNMA) to
+purchase loans or guarantee loan securities; the availability of the Federal Housing Administration (FHA), the
+Veterans Administration (VA), and the Department of Agriculture’s Office of Rural Development (RD) to
+guarantee loans; the continuation of servicing relationships outside of Idaho; and the availability of long‐term,
+tax‐exempt financing on favorable terms are key elements in providing the resources necessary for the
+Association to continue its mortgage financing and servicing activities. In addition, the funding of the
+Association’s federal programs activities is dependent on budget appropriations from the U.S. Department of
+Housing and Urban Development, as contained in the Federal budget.
+Contacting the Association’s Financial Management
+This financial report is designed to provide a general overview of Idaho Housing and Finance Association’s
+finances for all those with an interest. Questions concerning any of the information provided in this report or
+requests for additional information should be addressed to the Controller at Idaho Housing and Finance
+Association, P.O. Box 7899, Boise, ID 83707‐1899, or contact our website at www.idahohousing.com.
+9
+Idaho Housing and Finance Association
+Statements of Net Position
+June 30, 2025 and 2024
+(in thousands)
+2025 2024
+Assets
+Cash and cash equivalents (partially restricted) $ 5 90,265 $ 538,108
+Investments (partially held in trust) 3,077,370 2,435,960
+Loans held for investment, net 322,717 287,306
+Loans available for sale 157,061 86,452
+Mortgage servicing rights 305,048 299,781
+Government bond payments receivable 1,371,045 1,079,191
+Capital assets and right of use leases 11,261 9,660
+Derivative assets 1,822 789
+Other assets 188,631 104,389
+Total assets 6,025,220 4,841,636
+Deferred Outflow of Resources
+Interest rate swap contracts, amortized value 372 760
+Interest rate swap contracts, fair value 614 1,253
+Total deferred outflow of resources 986 2,013
+Total assets and deferred outflow of resources $ 6,026,206 $ 4,843,649
+Liabilities
+Bonds and Notes $ 4,135,789 $ 3,420,498
+Short‐term borrowings 608,864 277,814
+Escrow and project reserve deposits 279,716 268,798
+Investor remittance liability 155,261 107,810
+Derivative liabilities 4,679 2,126
+Other liabilities 125,890 106,605
+Total liabilities 5,310,199 4,183,651
+Net Position
+Net investment in capital assets 10,215 9,053
+Restricted 139,648 65,937
+Unrestricted 566,144 585,008
+Total net position 716,007 659,998
+Total liabilities, deferred inflow of resources, and net position $ 6,026,206 $ 4,843,649
+See Notes to Financial Statements 10
+Idaho Housing and Finance Association
+Statements of Revenues, Expenses, and Changes in Net Position
+Years Ended June 30, 2025 and 2024
+(in thousands)
+2025 2024
+Operating Revenues
+Interest on cash and investments $ 128,176 $ 93,094
+Interest on loans receivable 72,778 61,520
+Loan servicing revenues 86,296 77,289
+Gain on sale of loans 12,271 13,076
+Grant and contract administration fees 14,646 16,571
+Other operating revenues 9,479 3,862
+Total operating revenues 323,646 265,412
+Operating Expenses
+Interest expense 191,499 151,700
+Salaries and benefits 38,026 35,131
+General operating 28,788 21,521
+Loan acquisition costs 30,159 37,090
+Net provision for loan losses 4,874 4,501
+Grants to others 330 3,266
+Bond financing costs 171 112
+Other operating expenses 2,438 1,458
+Total operating expenses 296,285 254,779
+Operating Income 27,361 10,633
+Nonoperating Revenues and (Expenses)
+Net increase (decrease) in fair value of investments 26,108 (4,357)
+Net increase in fair value of servicing contracts 5,267 61,869
+Net increase (decrease) in fair value of derivatives (3,058) 12,305
+Federal/State pass‐through revenues 95,923 124,842
+Federal/State pass‐through expenses (95,592) (125,561)
+Total nonoperating revenues and (expenses) 28,648 69,098
+Increase in Net Position 56,009 79,731
+Net Position, Beginning of Year 659,998 580,267
+Net Position, End of Year $ 716,007 $ 659,998
+See Notes to Financial Statements 11
+Idaho Housing and Finance Association
+Statements of Cash Flows
+Years Ended June 30, 2025 and 2024
+(in thousands)
+2025 2024
+Operating Activities
+Receipts from customers, loan interest, and other $ 3 ,985,952 $ 2 ,949,699
+Loan principal payments 54,128 46,465
+Principal and interest pass‐through remittances as servicing agent (3,860,206) (2,711,105)
+Escrow deposits 1,366,694 1,178,384
+Escrow disbursements (1,355,775) (1,113,381)
+Loan sales 6,733,629 6,938,867
+Loan acquisition costs (30,159) (37,090)
+Interest paid (174,709) (128,371)
+Payments to suppliers (4,119) (485)
+Payments for transportation program costs 85,188 28,737
+Payments for loans available for sale (7,028,461) (7,200,582)
+Payments to employees for services and benefits (37,413) (34,494)
+Loan principal additions (91,575) (121,469)
+Net Cash used for Operating Activities (356,826) (204,825)
+Noncapital Financing Activities
+Bond financing 26,761 41,586
+Bond and short‐term borrowings payments (979,275) (993,966)
+Bond and short‐term borrowings issued 2,004,424 2,271,335
+Federal pass‐through revenues 95,923 124,842
+Federal pass‐through expenses (95,592) (125,561)
+Net Cash from Noncapital Financing Activities 1,052,241 1,318,236
+Capital and Related Financing Activities
+Acquisition and construction of capital assets (1,860) (265)
+Net Cash used for Capital and Related Financing Activities (1,860) (265)
+Investing Activities
+Proceeds from sale of assets 13 3,344
+Investment purchases (4,137,371) (5,091,316)
+Investment redemptions 3,367,784 3,931,175
+Investment income 128,176 93,094
+Net Cash used for Investing Activities (641,398) (1,063,703)
+Net Change in Cash and Cash Equivalents 52,157 49,443
+Cash and Cash Equivalents, Beginning of Year 538,108 488,665
+Cash and Cash Equivalents, End of Year $ 590,265 $ 538,108
+See Notes to Financial Statements 12
+Idaho Housing and Finance Association
+Statements of Cash Flows
+Years Ended June 30, 2025 and 2024
+(in thousands)
+2025 2024
+Reconciliation of Operating Income to Net Cash
+from Operating Activities
+Operating income $ 27,361 $ 10,633
+Adjustments to reconcile operating income to net cash
+used for operating activities
+Loan principal received 54,128 46,465
+Loans issued (91,575) (121,469)
+Bond financing 26,761 41,586
+Depreciation and other amortization 246 1,218
+Changes in assets and liabilities
+Interest receivable 664 67
+Interest payable 16,730 28,465
+Interest on investments (128,176) (93,094)
+Pledged revenues (399,512) (289,249)
+Other assets 243,660 267,217
+Accounts payable and other liabilities (107,113) (96,664)
+(384,187) (215,458)
+Net Cash used for Operating Activities $ ( 356,826) $ ( 204,825)
+See Notes to Financial Statements 13
+The Housing Company
+A Component Unit of Idaho Housing and Finance Association
+Consolidated Statements of Financial Position
+December 31, 2024 and 2023
+2024 2023
+Assets
+Cash and cash equivalents $ 14,714,576 $ 11,111,062
+Investments in subsidiaries 4,768 5,746
+Restricted cash 6,751,128 5,968,851
+Receivables 1,408,810 1,499,976
+Mortgage proceeds held in trust ‐ 1,033,535
+Prepaid expenses 809,855 705,280
+Land 1 3,915,031 1 3,290,033
+Buildings and equipment (net of accumulated depreciation) 114,808,913 9 4,060,326
+Tax credit fees and other (net of accumulated amortization) 535,330 512,805
+$ 152,948,411 $ 128,187,614
+Liabilities and Net Assets
+Liabilities
+Accounts payable and accrued liabilities $ 2 ,859,550 $ 1 ,763,962
+Interest payable 413,750 295,492
+Real estate taxes payable 458,117 431,655
+Long‐term debt (net of unamortized debt issuance costs) 87,619,392 71,762,177
+Security deposits payable 523,923 508,991
+91,874,732 74,762,277
+Net Assets Without Donor Restrictions
+Controlling interests 1 2,994,260 1 1,200,892
+Noncontrolling interests 4 8,079,419 4 2,224,445
+$ 152,948,411 $ 128,187,614
+See Notes to Financial Statements 14
+The Housing Company
+A Component Unit of Idaho Housing and Finance Association
+Consolidated Statements of Activities
+Years Ended December 31, 2024 and 2023
+2024 2023
+Revenues
+Tenant rents $ 13,361,230 $ 12,261,365
+Housing assistance payments 2,851,568 2,741,011
+Grants and other contributions 1,889,112 434,130
+Interest and dividends 3 99,681 370,983
+Forgiveness of debt on tax credit exchange loan 3 10,605 310,605
+Property management services 249,268 245,674
+Other 380,240 503,823
+Total revenues 19,441,704 16,867,591
+Expenses
+Administrative 4,962,505 4,418,331
+Utilities and maintenance 4,524,345 4,070,890
+Real estate taxes and insurance 2,085,298 1,880,556
+Depreciation and amortization 6,329,999 6,188,987
+Interest 2,327,767 2,323,812
+Total expenses 20,229,914 18,882,576
+Net Operating Loss (788,210) (2,014,985)
+Non‐Operating Expenses
+Loss on disposal of assets (427,409) (179,020)
+Gain or loss in subsidiaries (977) (831)
+Total net assets without donor restrictions before
+noncontrolling Interests (1,216,596) (2,194,836)
+Noncontrolling Interests in Partnership Losses 3,009,964 2,921,190
+Change in Net Assets Without Donor Restrictions $ 1,793,368 $ 726,354
+See Notes to Financial Statements 15
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 1 ‐ Authorizing Legislation
+The Idaho Housing and Finance Association (Association) is created, as an independent public body corporate
+and politic, by the Idaho Legislature under the provisions of Chapter 62, Title 67 of the Idaho Code, as amended
+by the Act. The Act empowers the Association, among other things, to issue notes and bonds in furtherance of
+its purpose of providing safe and sanitary housing for persons and families of limited income residing in Idaho
+and, in addition, to coordinate and encourage cooperation among private enterprise and State and local
+governments to sponsor, build and rehabilitate residential housing for such persons; to issue notes and bonds in
+furtherance of its purpose of financing economic development projects in partnership with private financial
+institutions and State and local economic development entities; and to issue notes and bonds to finance projects
+that improve the transportation infrastructure in Idaho.
+The enabling legislation, along with bond indentures and bond resolutions adopted by the Association, contains
+specific provisions pertaining to (a) the use of the proceeds from the sale of notes and bonds, (b) the application
+of pledged receipts and recoveries of principal from mortgages, and (c) the creation of certain accounts along
+with the accounting policies of such accounts. Association administrative obligations from bond and other
+housing programs extend to the year 2056.
+Note 2 ‐ Summary of Significant Accounting Policies
+Basis of Accounting
+The accounting and reporting policies of the Association conform to generally accepted accounting principles of
+the Governmental Accounting Standards Board (GASB) and follow the accrual basis of accounting. The
+Association is accounted for as an Enterprise Fund.
+The accompanying combined financial statements include the accounts of the Enterprise Fund of the
+Association. All inter‐fund balances and transactions have been eliminated.
+When an expense is incurred that can be paid using either restricted or unrestricted resources, the Association’s
+policy is to first apply the expense towards restricted resources, and then toward unrestricted resources.
+Reporting Entity
+Although the State of Idaho considers the Association a component unit for financial reporting purposes in
+accordance with GASB Statement No. 61, The Financial Entity: Omnibus an amendment of GASB Statements No.
+14 and No. 34, and the State’s governor appoints the Board of Commissioners of the Association, the Association
+is legally separate from the State of Idaho, is not a State agency under State law, and uses no State funds or
+State employees to support its operations.
+16
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Home Partnership Foundation (HPF), The Housing Company (THC), and IHFA Community Investment
+Holdings LLC (ICIH LLC) are component units of the Association and the financial statements of each have been
+incorporated into these financial statements and notes. The degree of control governs the reporting
+presentation; as such, HPF’s and ICIH LLC’s presentations have been blended and THC’s presentation has been
+discretely presented.
+HPF and ICIH LLC report under GASB standards in the same manner as the Association with the same fiscal year‐
+end. THC reports under FASB standards, including FASB ASC 958, Financial Reporting for Not‐for‐Profit
+Organizations. As such, certain revenue recognition criteria and presentation features are different from GASB
+revenue recognition criteria and presentation features. No modifications have been made to THC’s entity
+presentation in the Association’s financial statements for these differences. THC uses a calendar year basis as its
+fiscal year and the most recent audited financial statements are presented as of December 31, 2024.
+Use of Estimates
+Management uses estimates and assumptions in preparing financial statements. Those estimates and
+assumptions affect the reported amounts of assets and liabilities, the disclosure of contingent assets and
+liabilities, and reported revenues and expenses. Significant estimates used in preparing these financial
+statements include those assumed in determining the collectability of receivables, determining the
+recoverability on other real estate owned property, the fair value of interest rate swaps, and loan servicing
+contracts. It is at least reasonably possible that the significant estimates used will change within the next year.
+Program Accounting
+Financial activities of the Association are recorded in business units established under various bond indentures
+and bond resolutions and in business units established for the administration of the various programs
+empowered by the Act.
+Business Operations includes the General Operating business unit and various custodial accounts established to
+administer the ongoing responsibilities of programs maintained by the Association. Direct administrative and
+operational activities, including the operating expenses of various programs, are recorded in this business unit.
+Revenues are primarily generated from fees earned for administering federal programs, fees earned for
+servicing loans, and earnings on investments held to finance future programs.
+The Federally Assisted Program area was established to account for activities directly related to the limited‐
+income rental assistance and other related programs funded by the U.S. Department of Housing and Urban
+Development (HUD). This business unit is primarily used for housing assistance pass‐through funds and for
+properties owned and utilized in affordable housing programs. The funding of the Association’s federal
+programs activities is dependent on budget appropriations from HUD, as contained in the Federal budget.
+17
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Affordable Housing Investment Trust was established to account for activities intended for affordable
+housing projects in Idaho. This business unit consists primarily of investments and loans receivable and the
+earnings thereon, as well as the residual income generated through Business Operations each year.
+The Rating Compliance and Loan Guaranty Trust, established to account for activities intended to meet bond
+rating agency requirements for asset security and bond debt service liquidity. This business unit consists
+primarily of investments and loans receivable and earnings thereon.
+Single‐Family Mortgage Bonds, established under separate trust indentures, account for the proceeds from the
+sale of Single‐Family Mortgage Bonds and the debt service requirements of these bonds. Activities within these
+business units are, in general, limited to the purchase of mortgage loans made by mortgage lenders to
+qualifying, limited‐income persons for single‐family, owner‐occupied housing in Idaho.
+Grant and Revenue Anticipation Bonds (GARVEE) and Transportation Expansion/Congestion Mitigation (TECM),
+established under a separate trust indenture, account for the proceeds from the sale of GARVEE/TECM Bonds
+and the debt service requirements of these bonds. The GARVEE/TECM Bonds program allows the Association to
+advance funds to the State of Idaho for improving and enhancing the State’s highway infrastructure.
+Tax‐exempt mortgage‐backed securities (TEMS), established under a separate trust indenture, account for the
+pass‐through activities associated with TEMS. TEMS are tax‐exempt securities which are collateralized by
+mortgage loan pools. The TEMS are special, limited obligations of the Association and are payable solely from
+pledged mortgages and their revenues. The TEMS are secured by the mortgages, their related revenues, and
+the Ginnie Mae mortgage‐backed security guarantee. Neither the State of Idaho nor any political subdivision
+thereof is obligated to pay the TEMS. Nor is the faith and credit, nor the taxing power of the State of Idaho or of
+any political subdivision thereof pledged for the payment of the principal or interest on the TEMS.
+TEMS are collateralized by the mortgage loan pool with the same maturity terms as the TEMS. The payments
+from the mortgages are used to pay the principal and interest payments of the TEMS. The Association is the
+servicer for the mortgages. The Ginnie Mae trustee holds the deed of trust and the first lien on the properties
+that underlie the mortgages in a trust that benefits the Association as mortgage pool owner as well as Ginnie
+Mae as mortgage pool guarantor.
+Cash and Cash Equivalents
+Cash and cash equivalents include General Operating Account cash, Federally Assisted Program cash and
+Affordable Housing Investment Trust cash held at Zions Bank. Investments with maturities of less than three
+months at the date of purchase are also included in cash and cash equivalents. Non‐escrow cash and cash
+equivalents deposited at Zions Bank are collateralized with U.S. Treasury obligations and U.S. Agency obligations
+and are held by Zions Bank in the Association’s name. Custodial credit risk is the risk that the Association’s
+deposits may not be returned in the event of a bank failure. The Association does not have a formal deposit
+policy for custodial credit risk. In the opinion of management, the Association is adequately protected from this
+risk at June 30, 2025 and 2024. Restricted cash as of June 30, 2025, consists of $44.878 million in Federal
+Programs, $302.198 million in escrow deposits, and $176.114 million in General Operating. Restricted cash as of
+June 30, 2024 consists of $56.275 million in Federal Programs, $284.932 million in escrow deposits, and
+$123.959 million in General Operating.
+18
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Bond Financing Costs/Bond Financing Cost Expense
+Bond financing costs are expensed in the period incurred.
+Loan Sale Gains, Acquisition Costs, and Servicing Contracts
+GASB Statement No. 48 Sales and Pledges of Receivables and Future Revenues and Intra‐Entity Transfers of
+Assets and Future Revenues establishes criteria for determining the reporting of proceeds from loan sales. This
+standard provides that net gain or loss on a sale be calculated by subtracting the carrying value of loans from the
+proceeds. Since the Association’s seller/servicing relationships are independent of the loan acquisition process,
+service release premiums paid are included in the carrying value of loans and are reported as loan acquisition
+costs and expensed in the current period. Statement No. 48 does not require an analysis of, or valuation of
+servicing contracts created in the sales process.
+Mortgage Servicing Rights (MSR) is an asset that represents the rights to service mortgage loans for others. The
+Association recognizes MSR when loans are sold, securitized, or acquired. The Association has adopted a
+principle of valuing these servicing contracts determined by FASB ASC 860 Transfers and Servicing and reported
+using GASB Statement No. 72 Fair Value Measurement and Application Guidance. The Association reports MSR
+at fair values in the Statements of Net Position and changes in the fair value reported in the Statements of
+Revenues, Expenses, and Changes in Net Position. The Association uses the services of a reputable, nationally
+recognized company to estimate the fair value of MSR. The Association calculates the present value of estimated
+future net servicing income and incorporates inputs and assumptions that market participants use in estimating
+fair value. MSR is fair valued using a third‐party proprietary financial model (Level 3 input).
+During the years of June 30, 2025 and 2024 the Association has MSR fair valued on its statements of net position
+at $305.048 million and $299.781. During the years ended June 30, 2025 and 2024, the Association had an
+unrealized MSR fair value increase of $5.267 million and $61.869 million, respectively. The Association holds
+these assets until maturity meaning that the value will ultimately be realized over a long‐time horizon as loan
+servicing fees.
+Risks considered in determination of MSR fair value include prepayment speeds, market discount rates,
+delinquency and foreclosure rates, and interest rate change shock rates. Assumptions included prepayment
+speeds, market interest rates, earnings rates, servicing costs, acquisition costs, ancillary income, and borrower
+rates. The average discount rate used in this analysis was 10.87%. The range of prepayment speeds used were
+from 62 to 216 PSA with an average of 157 PSA.
+Federally Assisted Program Advances and Fees
+In accordance with the terms of contracts between the Association and HUD, the Association administers rental
+assistance programs as HUD’s agent in certain areas of Idaho. Under these programs, persons of limited income
+receive rental subsidies from HUD through the Association. HUD advances funds sufficient to cover the monthly
+housing assistance payments and the Association’s management service fees. These management service fees
+are recognized as revenue to the Association when earned. Federal Pass‐Through Revenues and Expenses on the
+Statement of Revenues, Expenses and Changes in Net Position represent housing assistance payments and
+related federal funding that is passed through the Association to carry out such programs. Federal program
+revenues are recorded when all eligibility requirements have been met.
+19
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Capital Assets
+Capital Assets held by the General Operating and Federally Assisted Program Accounts are recorded at cost and
+depreciated over the estimated useful lives of the related assets. The Association uses the straight‐line method
+of depreciation with estimated lives of three to seven years for office and computer equipment and 40 years for
+real property and buildings. Depreciation expense for the years ending June 30, 2025 and 2024, was $0.749
+million and 0.716 million. Capital Assets are presented in the Statement of Net Position, net of accumulated
+depreciation at $10.213 million and $9.053 million at June 30, 2025 and 2024, respectively.
+Provisions for Loan Losses
+Periodic evaluation of the loans receivable portfolio is performed in order to determine whether an allowance
+for loan losses should be established and reflected in current operations. The evaluation of a loan loss provision
+considers both loans receivable and real estate owned (REO) property, estimated value of the collateral,
+subsidies, guarantees, mortgage insurance, economic conditions, and historical loss experience for each loan
+type. The provision’s charge against current operations considers holding costs, including accrued interest.
+The Association has established an allowance for losses in the General Operating Account on recourse
+obligations related to FNMA‐held, FHLMC‐held, and GNMA‐secured loan foreclosures. The Association estimates
+this amount to be $8.500 million as of June 30, 2025 and $8.064 million as of June 30, 2024. The Association has
+established an allowance for loan loss and REO activity in the Loan Guarantee and Compliance Fund for
+Association‐held loan losses not recoverable. As of June 30, 2025 and 2024, the Association estimates this
+amount to be $0.834 million and $0.834 million. Actual losses are charged against this provision and allocated,
+via an operating transfer, on a pro‐rata basis to bond trusts with current year losses. The Association has
+established an allowance for loan losses in the Affordable Housing Investment Trust for Association down
+payment assistance loans due to the forgivability on an Association‐held primary loan. The Association has
+established an allowance for forgivable loans in the Affordable Housing Investment Trust for Association down
+payment assistance loans not recoverable due to borrowers meeting their obligation on the primary loan and
+therefore qualifying for loan forgiveness. The Association estimates that amount to be $8.324 million and $9.405
+million as of June 30, 2025 and 2024, respectively.
+Generally, loans in default are reported in Loans until foreclosed. A loan is considered past due when payment is
+30 days late. When payment is 90 days late, a 30‐day demand to “pay in full or bring the account current” letter
+is issued. If payment is not made and payment is 120 days late, the loan is then moved to the foreclosure
+process. Once a loan is foreclosed, it is reclassified from Loans to Other Assets as REO mortgage receivable,
+pending recovery from the relevant source(s) of security and subject to indemnification limitations of those
+guarantors and insurance providers.
+Escrow and Project Reserve Deposits
+Escrow and project reserve deposits represent amounts held by the Association for insurance, real estate taxes
+and as reserves for replacement and operation. The Association invests these funds and allows earnings on
+multifamily project escrows to accrue to the benefit of the mortgagors of those projects. All escrow and project
+reserve deposits are included in Cash and Cash Equivalents in the Statement of Net Position.
+20
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Investor Remittance Liability
+Investor Remittance Liability is composed of borrower principal and interest payment funds held by the
+Association pending remittance to the owners of the loans, primarily GNMA, FNMA, and FHLMC. These funds
+are remitted according to the loan owners’ contractual requirements, which vary, but in no case exceed 30 days.
+Investor Remittance liabilities payable were $155.261 million and $107.810 million at June 30, 2025 and 2024
+respectively.
+Short‐Term and Other Borrowings
+The Association has a commercial paper facility that provides funds to purchase single‐family mortgage loans on
+an interim basis as well as financing for multifamily construction loans. Additionally, the Association has three
+lines of bank revolving credit facilities, and a warehouse facility with Federal Home Loan Bank.
+Other Real Estate Owned
+Assets acquired through, or in lieu of, loan foreclosure are to be sold and are initially recorded at the lower of
+cost basis in the loan or fair value at the date of foreclosure less estimated costs to sell, establishing a new cost
+basis. After foreclosure, valuations are periodically performed by management and the asset is carried at the
+lower of cost or fair value less cost to sell. Expenses from operations are included in other expenses. Revenues,
+net gains and losses on sales, other disposals of real estate owned, and changes in valuation are included in
+losses on real estate‐owned property.
+Net Position
+Net Position, the amount total assets plus deferred outflows of resources exceeding total liabilities plus deferred
+inflow of resources, is an aggregation of all Association bond trust and program accounts. Restricted net
+positions are those required to meet the various covenants as defined in bond indentures or other laws or
+regulations. Designated net position indicates that position set aside at the discretion of the Association to be
+used for a specific purpose and not for general operations. Net position in the amount of $133.601 million and
+$61.539 million at June 30, 2025 and 2024, respectively, are restricted by bond indentures and programmatic
+requirements; $3.933 million and $2.434 million are restricted, associated with Federal Programs; and $2.114
+million and $1.964 million are restricted, associated with the Home Partnership Foundation. Unrestricted net
+position includes $13.492 million and $9.700 million associated with the IHFA Community Investment Holdings,
+LLC and $522.652 million and $575.308 million, respectively, associated with general operating business at June
+30, 2025 and 2024.
+Classification of Revenues
+Operating revenues include activities that have the characteristics of exchange transactions, such as (1) interest
+on loans and investments and (2) administration and loan servicing fees. Non‐operating revenues include
+activities that have the characteristics of non‐exchange transactions, such as (1) federal pass‐through awards, (2)
+change in the fair value of investments, and (3) any other revenue sources that the Association may receive that
+are defined as non‐operating revenues by GASB Statement No. 9, Reporting Cash Flows of Proprietary and
+Nonexpendable Trust Funds and Governmental Entities That Use Proprietary Fund Accounting.
+21
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+New Accounting Principles
+GASB has issued the following standards effective for fiscal year 2025:
+GASB Statement No. 101, Compensated Absences, GASB Statement No. 102 Certain Risk Disclosures. The
+Association’s implementation of GASB Statement No. 101 is documented in footnote 7 which covers
+compensated absences. The Association had already been accruing for compensated absences, so the only
+result of the implementation was the additional disclosures in the footnote. In the opinion of the management,
+GASB Statement No. 102 does not have a material impact on the Association’s financial position given current
+operations and obligations.
+GASB has issued the following standards effective for fiscal year 2026 or later:
+GASB Statement No. 103 Financial Reporting Model Improvements and GASB Statement No. 104, Disclosure of
+Certain Capital Assets. Management has not fully studied these standards but is of the opinion that any impact
+will be minimal.
+Note 3 ‐ Investments
+GASB Statement No. 31, Accounting and Financial Reporting for Certain Investments and for External Investment
+Pools and GASB Statement No. 72, Fair Value Measurement and Application require certain investments be
+reported at fair value in the Statements of Net Position. The Association reports all investments at fair value in
+the Statements of Net Position. The Association has entered into investing agreements with Zions Bank where
+excess cash balances (classified as cash and cash equivalents) are invested overnight in money market mutual
+funds and repurchase agreements. Investments are held in the Association’s account in the name of the
+respective bank. As of June 30, 2025 and 2024, the Association has overnight investments of $23.323 million and
+$41.374, respectively.
+GASB Statement No. 72 addresses accounting and financial reporting issues related to fair value measurements.
+It defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an orderly
+transaction between market participants at the measurement date. The fair value focuses on market price from
+the perspective of a seller (exit price). The fair value of a financial asset is determined based on real or potential
+market transactions in the Association’s principal market, or in the absence of a principal market, the
+Association’s most advantageous market. The fair value of a nonfinancial asset takes into account the highest
+and best use of that asset, which normally is presumed its current use. A fair value measurement of a liability
+assumes that the liability would be transferred to a market participant and not settled with the counterparty
+(such as certain liabilities related to derivatives). Therefore, the fair value would be the price that would have to
+be paid for a third party to assume the liability, not the price that would have to be paid to the counterparty to
+settle the obligation. GASB Statement No. 72 explains that the Association may determine the market price of
+an asset in one of three ways: 1) actual market transactions for identical or similar items (market approach); 2)
+the current cost to replace the service capacity of an asset (cost approach); or 3) discounting the current value
+of future cash flows (income approach). It also establishes a three‐tier hierarchy of input quality as follows:
+ Level 1 inputs‐‐‐quoted prices in active markets for identical items;
+ Level 2 inputs‐‐‐directly or indirectly observable prices, but not Level 1; and
+ Level 3 inputs‐‐‐unobservable inputs such as financial models.
+22
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+As of June 30, 2025, the Association categorizes the combined fair value of $3.077 billion of Investments and
+Investments held in trust within this hierarchy. Money market funds of $365.713 million, U.S. Agency obligations
+of $3.610 million, U.S. Agency pooled obligations of $1.997 billion, U.S. Government mortgage‐backed securities
+of $210.624 million, U.S. Treasury bonds of $301.068 million, Municipal bonds of $1.700 million, guaranteed
+investment contracts of $183.497 million, and accrued interest of $14.196 million are valued using quoted
+market prices (Level 1). Interest rate swaps of $(0.326) million are valued using a propriety‐pricing model (Level
+2).
+As of June 30, 2024, the Association categorizes the combined fair value of $2.436 billion of Investments and
+Investments held in trust within this hierarchy. Money market funds of $249.439 million, U.S. Agency obligations
+of $1.565 billion, U.S. Government mortgage‐backed securities of $39.718 million, U.S. Treasury bonds of
+$223.883 million, Municipal bonds of $1.800 million, guaranteed investment contracts of $345.459 million, and
+accrued interest of $10.744 million are valued using quoted market prices (Level 1). Interest rate swaps of
+$(0.182) million are valued using a propriety‐pricing model (Level 2).
+Interest Rate Risk: The Association has adopted bond indentures, bond resolutions, and trust resolutions as
+policy for the determination of investment maturities. These indentures and resolutions provide that investment
+maturities be based upon the cash requirements of the Association’s accounts, as determined by authorized
+Association investment officers.
+June 30, 2025 Investment Maturities (in Years)
+Fair Less More
+Investment Type Value Than 1 1‐5 6‐10 11‐15 16‐20 21‐25 26‐30 Than 30
+Interest rate swaps $ ( 326) $ (326) $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+Money market funds 365,713 365,713 ‐ ‐ ‐ ‐ ‐ ‐ ‐
+U.S. Agency obligations 3 ,610 ‐ 743 2,048 819 ‐ ‐ ‐ ‐
+U.S. Agency/Pooled obligation 1 ,997,288 ‐ ‐ ‐ ‐ ‐ 11,564 1 ,920,317 65,407
+U.S. Government mortgage
+backed securities 2 10,624 210,624 ‐ ‐ ‐ ‐ ‐ ‐ ‐
+U.S. Treasury Bonds 3 01,068 78,950 222,118 ‐ ‐ ‐ ‐ ‐ ‐
+Municipal Bonds 1 ,700 ‐ ‐ ‐ ‐ ‐ 700 1,000 ‐
+Guaranteed Investment Contract 1 83,497 ‐ 183,497 ‐ ‐ ‐ ‐ ‐ ‐
+$ 3,063,174 $6 54,961 $4 06,358 $2 ,048 $ 819 $ ‐ $1 2,264 $1 ,921,317 $ 65,407
+Accrued interest 1 4,196
+All Investments $ 3,077,370
+23
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+June 30, 2024 Investment Maturities (in Years)
+Fair Less More
+Investment Type Value Than 1 1‐5 6‐10 11‐15 16‐20 21‐25 26‐30 Than 30
+Interest rate swaps $ (182) $ ‐ $ (182) $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+Money market funds 2 49,439 249,439 ‐ ‐ ‐ ‐ ‐ ‐ ‐
+U.S. Agency obligations 6 ,560 2,976 406 2,430 748 ‐ ‐ ‐ ‐
+U.S. Agency/Pooled obligation 1 ,558,539 ‐ ‐ ‐ ‐ ‐ ‐ 1,529,738 28,801
+U.S. Government mortgage
+backed securities 39,718 39,718 ‐ ‐ ‐ ‐ ‐ ‐ ‐
+U.S. Treasury Bonds 223,883 24 223,859 ‐ ‐ ‐ ‐ ‐ ‐
+Municipal Bonds 1,800 ‐ ‐ ‐ ‐ ‐ 800 1,000 ‐
+Guaranteed Investment Contract 3 45,459 ‐ 345,459 ‐ ‐ ‐ ‐ ‐ ‐
+$ 2,425,216 $2 92,157 $ 569,542 $ 2,430 $ 748 $ ‐ $ 800 $ 1,530,738 $ 28,801
+Accrued interest 10,744
+All Investments $ 2,435,960
+At June 30, 2025, the Association had 1,105 U.S. agency mortgage‐backed security pools, which pay monthly
+principal and interest.
+At June 30, 2024, the Association had 843 U.S. agency mortgage‐backed security pools, which pay monthly
+principal and interest.
+At June 30, 2025, the Association had $8.975 million in notional amount of fixed payer/variable receiver interest
+rate swap contracts outstanding in connection with its outstanding variable rate demand note mortgage
+revenue bond issues. The Association pays fixed‐rate payments between 3.7% and 5.0% and receives variable
+rate payments based on SIFMA (Securities Industry and Financial Markets Association) and LIBOR (London
+Interbank Offered Rate) indices. The Association entered into the swap contracts in November 2008, which
+mature between 2025 and 2029. These contracts are not rated.
+At June 30, 2024, the Association had $17.560 million in notional amount of fixed payer/variable receiver
+interest rate swap contracts outstanding in connection with its outstanding variable rate demand note mortgage
+revenue bond issues. The Association pays fixed‐rate payments between 3.7% and 5.5% and receives variable
+rate payments based on SIFMA and LIBOR indices. The Association entered into the swap contracts in November
+2008, which mature between 2024 and 2030. These contracts are not rated.
+At June 30, 2025 and 2024, the Association has $492.500 million and $250.000 million, respectively, in forward
+sales contracts (“To Be Announced” or “TBA” contracts) or GNMA securities in order to lock in the sales price for
+the securitization of single‐family loans.
+24
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Credit Risk: Investments for each bond issue are those permitted by the various bond indentures and bond
+resolutions adopted by the Association. Program account investments are restricted to those empowered by the
+Act or by Federal regulations. The Association has adopted resolutions as policy for the Affordable Housing
+Investment, Loan Guarantee Trusts, and Business Operations investments. As of June 30, 2025 and 2024, the
+Association’s investments were rated by Moody’s Investor Service as follows (in thousands):
+Investment Type Rating 2025
+U.S. Agency Obligations Aa1 $ 2,000,898
+Money market funds Aaa 365,713
+U.S. Government mortgage backed securities Aaa 210,624
+U.S. Treasury Bonds Aa1 301,068
+Municipal Bonds (Maine) Aa1 1,000
+Municipal Bonds (New York) Aa2 7 00
+Guaranteed Investment Contract A1 183,497
+The Association’s U.S. government and U.S. agency obligations are held by the Association’s trustee in the
+Association’s name. Corporate and other obligations are held by the Association’s trustee in either the
+Association’s account or in the Association’s name.
+Investment agreements are non‐participating investments with financial institutions, are carried at cost, and not
+rated by rating agencies. Securities are not used as collateral for these investment agreements. Investment
+agreements are structured for both short‐term and long‐term bond proceeds in connection with the
+Association’s single‐family mortgage bond programs. Financial institutions providing the agreements have been
+rated by nationally recognized rating agencies at debt ratings sufficient to rate the Association’s mortgage
+revenue bonds investment grade by those rating agencies.
+Concentration of Credit Risk: The Association places no limit on the amount the Association may invest in any
+one issuer. The Affordable Housing Investment Trust investment policy places limits on the amounts the
+Association may invest in certain types of investments authorized by the Act.
+As of June 30, 2025, the Association had investments of five percent or more in Ginnie Mae obligations of
+$1.750 billion, Fidelity obligations of $365.141 million, U.S. Treasury Note obligations of $300.916 million,
+Federal Home Loan Bank obligations of $210.727 million, and Natixis obligations of $183.5497 million.
+As of June 30, 2024, the Association had investments of five percent or more in Ginnie Mae obligations of
+$1.300 billion, Natixis obligations of $345.459 million, Fidelity obligations of $248.891 million, U.S. Treasury Note
+obligations of $223.705 million and Federal National Mortgage Association obligations of $140.886 million.
+25
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+During the years ended June 30, 2025 and 2024, the Association realized net gains of $3.929 million and $7.714
+million, respectively, from sales of investments. The calculation of realized gains is independent of the
+calculation of the change in the fair value of investments. Realized gains and losses on investments that had
+been held in more than one fiscal year and sold in a current year may have been recognized as an increase or
+decrease in the fair value of investments reported in the prior year. The net change in the fair value of
+investments as of June 30, 2025 and 2024, were a $24.782 million and $4.993 decrease, respectively. This
+amount takes into account all changes in fair value (including purchases and sales) that occurred during the
+fiscal year. Included in the amount for the years ending June 30, 2025 and 2024, was a decrease of $0.143 and
+$2.481 million, respectively, related to derivative interest rate swap contracts fair market value considered
+investments.
+The unrealized gain on investments held at June 30, 2025 was $4.491 million and the unrealized loss on
+investments held at June 30, 2024, was $19.950 million. The Association matches the duration of its investments
+with the maturity debt in various bond accounts, and therefore, does not anticipate material unrealized gains or
+losses to be realized. For the years ending June 30, 2025 and 2024, the Association’s financial report uses GASB
+Statement No. 53, Accounting and Financial Reporting for Derivative Instruments, as amended, to report
+derivative interest rate swap and forward sale contracts.
+Note 4 ‐ Loans Held for Investment and Loans Serviced as Agent
+The Association has single‐family, multifamily and other loans. The majority of the Association’s loan portfolio
+consists of single‐family mortgage loans to persons of limited income residing in Idaho. The Association has
+obtained various levels of security for loans. All loans are secured by mortgages or deeds of trust on the related
+properties. Additionally, loans are insured or guaranteed by the federal government, commercial mortgage
+insurers or by Association self‐insurance reserves. In some cases, as required by bond resolutions or bond
+indentures, master mortgage guaranty insurance (pool insurance) provides a final level of security for certain
+losses sustained by reason of default, which are in excess of FHA, VA or primary insurance.
+26
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+A summary of security for loans as of June 30, 2025, is as follows (in thousands):
+Non‐Pool Pool 2025
+Insured Insured Total
+FHA Insurance $ 95,898 $ ‐ $ 95,898
+VA Guaranteed 9,126 ‐ 9,126
+Commercially Insured 19,016 2,242 21,258
+USDA Rural Development Insurance 8,188 ‐ 8,188
+Association Insured 12,610 ‐ 12,610
+Public Indian Housing 196 ‐ 196
+$ 145,034 $ 2 ,242 147,276
+Other
+Single Family IHFA Capital Pool 5,770
+Multifamily IHFA Capital Pool 1,894
+Social Service and Development IHFA Capital Pool 121,030
+Construction 10,051
+State Small Business Credit Initiative 35,278
+SRP 2,016
+Loan Loss Provision on Forgivable Loans (8,324)
+Loan Loss Provision (835)
+Loans Pending Modification 5,888
+Interest Receivable on Loans 2,673
+Total loans held for investment, net $ 322,717
+27
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+A summary of security for loans as of June 30, 2024, is as follows (in thousands):
+Non‐Pool Pool 2024
+Insured Insured Total
+FHA Insurance $ 84,583 $ ‐ $ 84,583
+VA Guaranteed 7,258 ‐ 7,258
+Commercially Insured 18,385 1,645 20,030
+USDA Rural Development Insurance 9,902 ‐ 9,902
+Association Insured 13,280 ‐ 13,280
+Public Indian Housing 91 ‐ 91
+$ 133,499 $ 1 ,645 135,144
+Other
+Single Family IHFA Capital Pool 2,524
+Multifamily IHFA Capital Pool 2,033
+Social Service and Development IHFA Capital Pool 124,475
+Construction 8,780
+State Small Business Credit Initiative 18,628
+SRP 2,187
+Loan Loss Provision on Forgivable Loans (9,405)
+Loan Loss Provision (834)
+Loans Pending Modification 1,765
+Interest Receivable on Loans 2,009
+Total loans held for investment, net $ 287,306
+As of June 30, 2025 and 2024, the loans receivable includes $2.032 million and $2.735 million, respectively, in
+notes receivable from The Housing Company (THC), which require repayment within 15 years and 16 years,
+respectively. The notes are secured by various multifamily housing projects and accrue interest at 4.50 percent.
+Construction, bridge and permanent financing, and multifamily projects, throughout Idaho are included as
+“Other.” In addition to holding a first lien on the majority of these loans, performance bonds are in place to
+ensure completion of the projects under construction.
+Interest charged on loans ranged from approximately 0 to 10.13 percent during fiscal year 2025. Loan interest
+rates are fixed over the loan term at levels exceeding yields on corresponding debt issued to purchase the loans.
+Federal tax law limits such excess yields. Loan terms range from less than one year to 40 years.
+Each mortgage loan for all single‐family financing programs is serviced pursuant to a Mortgage Loan Servicing
+Agreement. A master servicing arrangement was implemented beginning with the 1983 Series B Single‐Family
+Mortgage purchase program. The mortgage servicer may, but need not, be a lending institution and a program
+participant.
+The Association records loan servicing fee income, which is netted out of interest income. Fees are collected in
+the general operating account, and the principal and remaining interest are remitted to the loan owner or its
+trustee.
+28
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Mortgage loans to be serviced externally or by the Association are purchased at par or a discount of one to two
+percent of the outstanding principal balance as of the date of purchase. For loans serviced, but not owned, by
+the Association, loans are purchased at a premium of up to 3%, at par, or a discount of 1% or 2% of the
+outstanding principal balance is paid to the originating lender as of the date of purchase as consideration for the
+assignment of the servicing rights.
+Loans and bonds are valued at their carrying amounts, which approximate par value. Due to the structured
+financing characteristics of the Association’s bond issues and restrictions under various trust indentures, the
+Association is restricted from selling loans at a value that would impair its ability to service the bonds to which
+those loans are specifically pledged. These loans are specifically identified with a particular bond issue and
+pledged under the applicable trust indenture. Any changes in market interest rates subsequent to bond issuance
+and loan origination would be expected to approximate an equal impact on the fair value of the bonds and the
+related mortgages, if sold. The Association establishes the yield spread between the interest rate on the
+mortgages and related tax‐exempt bonds to not exceed 1.125 percent, the maximum allowed by Section 143 of
+the Internal Revenue Code.
+Loans originated and intended for sale to FNMA or FHLMC or securitized through GNMA are carried at the lower
+of aggregate cost or fair value. IHFA services loans sold to FNMA or FHLMC or secured by GNMA. Gains or losses
+are recognized based on the difference between the selling price and the carrying value of the related mortgage
+loan sold. Net unrealized losses are charged to Operating Expenses in the Statement of Revenues, Expenses and
+Changes in Net Position.
+Loans available for sale are determined as a function of the Association’s liquidity preference, customer
+preference, contractual requirements, and regulatory requirements. For the fiscal years ending June 30, 2025
+and 2024, the Association realized $12.271 million and $13.076 million, respectively, in gains on the sale of loans
+to FNMA, FHLMC, and GNMA. As of June 30, 2025 and 2024, the Association had commitments to sell or secure
+$228.363 million and $50.779 million, respectively, of single‐family mortgages to FNMA and FHLMC or through
+GNMA. As of June 30, 2025 and 2024, the Association had commitments to sell or secure $54.720 million and
+$74.193 million, respectively, of single‐family mortgages on behalf of Connecticut Housing Finance Authority. As
+of June 30, 2025 and 2024, the Association had commitments to sell or secure $67.550 million and $53.174
+million, respectively, of single‐family mortgages on behalf of South Dakota Housing Development Authority. As
+of June 30, 2025 and 2024, the Association had commitments to sell or secure $26.756 million and $30.917
+million, respectively, of single‐family mortgages on behalf of Iowa Finance Authority. As of June 30, 2025 and
+2024, the Association had commitments to sell or secure $44.867 million and $51.967 million, respectively, on
+behalf of New Mexico Mortgage Finance Authority. As of June 30, 2025 and 2024, the Association had
+commitments to sell or secure $1.853 million and $54.445 million, respectively on behalf of Texas Department
+of Housing and Community Affairs. As of June 30, 2025 and 2024, the Association had commitments to sell or
+secure $146.804 million and $117.717 million, respectively on behalf of Washington State Housing Finance
+Commission. As of June 30, 2025 and 2024, the Association had commitments to sell or secure $20.680 million
+and $2.954 million, respectively on behalf of Oregon Housing and Community Services Department. As of June
+30, 2025, the Association had commitments to sell or secure $13.313 million on behalf of Montana Board of
+Housing.
+29
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+As of June 30, 2025 and 2024, the Association estimates $57.119 million and $46.638 million, respectively, of
+loans receivable as current. Estimates consider loan principal due during the next twelve months plus
+anticipated prepayments made on outstanding principal balances. The Association had commitments to
+purchase $1,068.519 million and $1,140.554 million, respectively of single‐family mortgages, which had not yet
+been funded as of June 30, 2025 and 2024.
+As of June 30, 2025 and 2024, the Association was an agent for the following loans (in thousands):
+Loans serviced as agent 2025 2024
+Federal Home Loan Mortgage Corporation $ 4,655,432 $ 3,610,711
+Federal National Mortgage Association 7,787,850 7,377,045
+Government National Mortgage Association 23,586,377 20,565,882
+Iowa Finance Authority 91,140 68,311
+Connecticut Housing Finance Authority 2 00,403 2 27,743
+South Dakota Housing Development Authority 1 15,551 96,810
+New Mexico Mortgage Finance Authority 65,930 67,231
+Texas Department of Housing and Community Affairs 3 30,594 3 91,571
+Washington State Housing Finance Commission 4 14,729 2 76,018
+Montana Board of Housing 1,247 ‐
+Oregon Housing and Community Services 6,948 1,697
+Idaho Community Reinvestment Corporation 10,181 10,471
+Neighborhood Housing Services 2,489 2,511
+Boise Valley Habitat 850 684
+Lewiston‐Clarkston Habitat for Humanity 1,220 1,055
+HOME Loan Balances 90,224 87,414
+Neighborhood Stabilization Program 13,761 11,132
+Housing Trust Fund 14,944 14,019
+Workforce Housing 35,755 24,180
+Tax Credit Assistance Program 10,051 10,051
+TCEP Loan Program 3,654 5,349
+Other 3,592 4,010
+Total loans serviced as agent $ 37,442,922 $ 32,853,895
+30
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 5 ‐ Capital Assets and Leases
+A summary of activity in the capital assets and leases is as follows:
+Balance at Balance at
+(in thousands) July 1, 2024 Additions Reclass Retirements June 30,2025
+Capital assets
+Land $ 2,183 $ 6 64 $ ‐ $ ‐ $ 2,847
+Buildings and improvements 9,755 939 ‐ ‐ 10,694
+Furniture and equipment 5,634 222 ‐ (483) 5,373
+Leasehold improvements 872 ‐ ‐ ‐ 8 72
+Computer software 391 34 ‐ ‐ 4 25
+Total capital assets 18,835 1,859 ‐ (483) 20,211
+Less accumulated depreciation for
+Buildings and improvements ( 4,075) (259) ‐ ‐ (4,334)
+Furniture and equipment ( 4,930) (430) ‐ 534 (4,826)
+Leasehold improvements (415) (35) ‐ ‐ (450)
+Computer software (362) (25) ‐ ‐ (387)
+Total accumulated depreciation ( 9,782) (749) ‐ 534 (9,997)
+Right of Use Asset
+July 1, 2024 Additions Deletions June 30, 2025
+Office space $ 3,479 $ 1,006 $ (2,758) $ 1,727
+Amortization ( 2,872) (580) 2,771 (680)
+Total Right‐to‐Use Asset $ 607 $ 4 26 $ 13 $ 1,047
+Total capital assets, net $ 9,660 $ 1,536 $ ‐ $ 64 $ 11,261
+31
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Balance at Balance at
+(in thousands) July 1, 2023 Additions Reclass Retirements June 30,2024
+Capital assets
+Land $ 5,404 $ ‐ $ ‐ $ (3,221) $ 2,183
+Buildings and improvements 9,732 23 ‐ ‐ 9,755
+Furniture and equipment 5,522 156 ‐ (44) 5,634
+Leasehold improvements 8 72 ‐ ‐ ‐ 8 72
+Computer software 3 59 32 ‐ ‐ 3 91
+Total capital assets 21,889 211 ‐ (3,265) 18,835
+Less accumulated depreciation for
+Buildings and improvements (3,827) (248) ‐ ‐ (4,075)
+Furniture and equipment (4,550) (424) ‐ 44 (4,930)
+Leasehold improvements (380) (35) ‐ ‐ (415)
+Computer software (353) ( 9) ‐ ‐ (362)
+Total accumulated depreciation (9,110) (716) ‐ 44 (9,782)
+Right of Use Asset
+July 1, 2023 Additions Deletions June 30, 2024
+Office space $ 3,479 $ ‐ $ ‐ $ 3,479
+Equipment 2 62 ‐ (262) ‐
+Amortization (2,564) (570) 262 (2,872)
+Total Right‐to‐Use Asset $ 1,177 $ (570) $ ‐ $ 607
+Total capital assets, net $ 13,956 $ (1,075) $ ‐ $ (3,221) $ 9,660
+At June 30, 2025 and 2024, the Association has recognized right‐to‐use assets of $1.047 million and $0.607
+million and lease liabilities of $1.061 million and $0.678 million respectively. During the fiscal years, the
+Association recorded $0.426 million and $(0.570) million in amortization expense and $0.039 million and $0.014
+in interest expense.
+32
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Remaining obligations associated with these leases are as follows:
+June 30, 2025 Period Interest
+2025 $ 601 $ 3 1
+2026 450 8
+2027 10 ‐
+2028 ‐ ‐
+2029 ‐ ‐
+Total $ 1,061 $ 3 9
+June 30, 2024 Period Interest
+2025 $ 503 $ 1 0
+2026 108 3
+2027 57 1
+2028 10 ‐
+2029 ‐ ‐
+Total $ 678 $ 1 4
+33
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 6 ‐ Other Assets and Liabilities
+Other assets and other liabilities as of June 30, 2025 and 2024, are composed of the accounts and balances as
+follows (in thousands):
+2025 2024
+Other Assets
+Accounts receivable $ 85,244 $ 52,482
+Multifamily trusts' pledged revenues receivable ‐ ‐
+Prepaid expenses 2,825 2,092
+Insurance receivable 15,936 12,257
+Loans Pending Foreclosure ‐ ‐
+Nonconforming loans‐held for sale ‐ ‐
+REO mortgages receivable 84,626 37,558
+$ 188,631 $ 104,389
+2025 2024
+Other Liabilities
+Accounts payable $ 346 $ 214
+Accrued vacation and other payroll related liabilities 3,000 2,387
+Arbitrage rebate 58 122
+Deferred buydowns
+Federal programs advances and unapplied program income 58,175 62,425
+Multifamily trusts' pledged revenues payable
+Security deposits
+Unapplied payments 33,154 18,888
+Reserve on loans serviced 11,763 11,327
+Other accrued liability 1 9,394 11,242
+$ 125,890 $ 106,605
+34
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 7 ‐ Compensated Absences
+Vacation and sick accrual liability are recognized at the following schedule. A maximum of 192 hours during the
+first five years of continuous employment. A maximum of 240 hours between five years plus one and the tenth
+year of service. A maximum of 288 hours between the tenth year plus 1 day and the fifteenth year of service. A
+maximum of 336 hours after the fifteenth plus 1 year of service. Sick leave in excess of 180 hours is to be
+contributed to the Deferred Compensation Plan. Specifically, accrued sick leave hours exceeding 180 and up to
+240 will be contributed at a rate of 50%. All accumulated sick leave hours exceeding 250 will be contributed at a
+rate of 100%. Compensated absences activity for the years ended June 30, 2025 and 2024, was as follows (in
+thousands):
+Beginning Balance Ending Balance Amounts Due
+July 1, 2024 Additions Reductions June 30, 2025 within One Year
+Compensated Absences $ 1 ,244 $ 2,345 $ ( 2,102) $ 1,487 $ 2,513
+Beginning Balance Ending Balance Amounts Due
+July 1, 2023 Additions Reductions June 30, 2024 within One Year
+Compensated Absences $ 1 ,172 $ 2,100 $ ( 2,028) $ 1,244 $ 2,152
+Note 8 ‐ Short‐Term and Other Borrowings
+The commercial paper facility provides funds to purchase single‐family mortgage loans on an interim basis as
+well as financing for multifamily construction loans. Commercial paper activity is recorded in the General
+Operating business unit. The Association transfers mortgage loans purchased with proceeds from commercial
+paper to bond accounts or to sell to FNMA or FHLMC or to securitize through GNMA. Mortgage acquisition
+monies from bond accounts or from FNMA or FHLMC sale proceeds or GNMA securitization proceeds,
+respectively, reimburse the commercial paper facility. Transfers associated with bond accounts will be made
+prior to the end of the acquisition period as specified in the applicable bond indentures. The commercial paper
+borrowing is not backed by collateral. As of June 30, 2025, the Association had $197.850 million of commercial
+paper outstanding maturing in 62 to 92 days, with weighted average interest rates of 0.04429%. As of June 30,
+2024, the Association had $157.850 million of commercial paper outstanding maturing in 51 to 100 days, with
+weighted average interest rates of .05506%.
+The borrowings at PNC Bank, Zions Bank and Royal Bank of Canada are not backed by collateral. As of June 30,
+2025, the Association had $60.000 million of borrowings outstanding with PNC Bank maturing in April 2027 with
+a variable interest rate equal to the “Bank Index Rate”, which means a per annum rate of interest equal to the
+sum of Daily 1M SOFR (Secured Overnight Financing Rate) and sixty hundredths of a percent (0.60%). As of June
+30, 2024, the Association had $10.000 million of borrowings outstanding with PNC Bank maturing in May 2025
+with a variable interest rate equal to the “Bank Index Rate”, which means the sum of the Daily BSBY (Bloomberg
+Short‐Term Bank Yield) Rate and sixty hundredths of a percent (0.60%). As of June 30, 2025, the Association had
+$144.964 million of borrowings outstanding with Zions Bank maturing in June 2027, with a variable interest rate
+equal to the “Bank Index Rate” which means a per annum rate of interest equal to the sum of the Lender’s Term
+SOFR 1 Month and sixty‐four hundredths and thirty six of a percent (0.6436%). As of June 30, 2024 the
+Association had $109.964 million of borrowings outstanding with Zions Bank maturing in June 2025, with a
+35
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+variable interest rate equal to the sum of the BSBY 1 Month Rate and sixty hundredths of a percent (0.60%). As
+of June 30, 2025 the Association had $27.550 million of borrowings outstanding with Royal Bank of Canada, with
+a variable interest rate equal to the “Bank Index Rate”, which means for Daily Simple SOFR Rate loans, a per
+annum rate of interest equal to the sum of Daily Simple SOFR and seventy hundredths of a percent (0.70%) and
+for term SOFR Rate loans, a per annum rate of interest equal to the sum of the Term SOFR and seventy
+hundredths of a percent (0.70%). As of June 30, 2024 the Association had no borrowings outstanding with Royal
+Bank of Canada. The borrowings at Federal Home Loan Bank (FHLB) are backed by collateral. As of June 30,
+2025 the Association had $178.500 million of borrowings outstanding with FHLB maturing in August 2025 with a
+weighted average interest rate of 4.504%. As of June 30, 2024 the Association had no outstanding borrowings
+with FHLB.
+Note 9 ‐ Bonds
+Average
+Description and Due Date Bond Yield 2025 2024
+Single‐Family Mortgage Bonds
+2000 Indenture
+Variable Rate Class 1 5.010% $ 1,113 $ 3,932
+2003 Indenture
+Class I Bonds 3.731% 11,420 13,655
+Variable Rate Class I 4.182% 11,035 16,705
+Variable Rate Class II 4.302% 1,975 2,235
+3.981% 24,430 32,595
+2019 Indenture
+Class I Bonds 5.485% 1 ,837,430 1,367,830
+Variable Rate Class I 4.302% 32,855 37,105
+5.464% 1 ,870,285 1,404,935
+Total single‐family mortgage bonds 1,895,828 1,441,462
+Grant and Revenue Anticipation Bonds
+2010 Series A 6.348% 54,805 57,680
+2014 Series A 4.922% 37,465 41,835
+2015 Series A 5.000% 53,685 76,090
+2017 Series A 5.000% 50,935 59,615
+2019 Series A 5.000% 114,090 1 14,090
+2021 Series A 4.539% 172,860 1 72,860
+4.981% 483,840 5 22,170
+36
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Average
+Description and Due Date Bond Yield 2025 2024
+Transportation Expansion and Congestion Mitigation Bonds
+2022 Series A 5.000% 176,795 1 80,790
+2023 Series A 4.986% 342,755 3 49,685
+2024 Series A 4.828% 338,780 3 38,780
+2025 Series A 4.756% 320,795 ‐
+4.901% 1 ,179,125 8 69,255
+Multifamily Housing Revenue Bonds
+Sunset 2021 Series A
+Class I Bonds 2.961% 8,030 13,740
+Tax Exempt Mortgage Securities 3.732% 141,848 1 64,319
+Total bonds 3 ,708,671 3,010,946
+Interest Payable 75,465 58,734
+Net Unamortized (Discount)/Premium 223,737 1 96,806
+Notes Payable 127,916 1 54,012
+Total bonds and notes $ 4,135,789 $ 3,420,498
+Premiums and discounts on bonds are amortized using the bonds outstanding method over the life of the bonds
+to which they relate.
+The bonds are either special or general obligations of the Association and do not constitute a debt of the State
+of Idaho or any political subdivision thereof. Each bond issue is secured by the pledge of repayments of
+mortgage loans purchased with the bond proceeds and of all revenue earned relating to those bonds.
+The Association has issued debt in a variable rate mode. The bulk of the variable rate debt is re‐marketed on a
+weekly basis by a Remarketing Agent, retained by the Association, to periodically re‐market the debt at the
+prevailing interest rates.
+On November 14, 2024, the Association issued the 2024C Single Family Mortgage Bonds in furtherance of the
+Single‐Family Mortgage Program and to assist other state housing finance agencies in other states to finance the
+purchase or servicing of housing by low income persons. On March 11, 2025, the Association issued
+Transportation Expansion and Congestion Mitigation Fund, Series 2024A Sales Tax Revenue Bonds. On March 25,
+2025, the Association issued the 2025A Single Family Mortgage Bonds in furtherance of the Single‐Family
+Mortgage Program and to assist other state housing finance agencies in other states to finance the purchase or
+servicing of housing by low income persons. On June 3, 2025, the Association issued the 2025B Single Family
+Mortgage Bonds in furtherance of the Single‐Family Mortgage Program and to assist other state housing finance
+agencies in other states to finance the purchase or servicing of housing by low income persons.
+37
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The scheduled principal debt service, including July 1, 2025 special redemptions, for the periods subsequent to,
+and as of June 30, 2025, is as follows (in thousands):
+2031
+2026 2027 2028 2029 2030 2035
+Single‐Family Mortgage Bonds
+2000 Indenture $ 1 ,113 $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+2003 Indenture 4,185 760 865 910 1,405 1 3,975
+2019 Indenture 7 6,740 8 7,075 9 8,630 9 2,585 7 6,185 399,400
+Total Single‐Family 8 2,038 8 7,835 9 9,495 9 3,495 7 7,590 413,375
+GARVEE Bonds
+2010 Series A 3,060 3,260 3,465 4 5,020 ‐ ‐
+2014 Series A 4,595 4,830 5,075 5,325 5,595 1 2,045
+2015 Series A 2 2,620 3 1,065 ‐ ‐ ‐ ‐
+2017 Series A 1 0,075 3,315 3 7,545 ‐ ‐ ‐
+2019 Series A ‐ ‐ ‐ ‐ ‐ 5 9,695
+2021 Series A ‐ ‐ ‐ ‐ 4 6,430 3 7,905
+Total GARVEE 4 0,350 4 2,470 4 6,085 5 0,345 5 2,025 109,645
+TECM Bonds
+2022 Series A 4,200 4,415 4,640 4,880 5,130 2 9,870
+2022 Series A 7,285 7,660 8,050 8,465 8,895 5 1,815
+2022 Series A 6,195 6,510 6,850 7,195 7,570 4 4,080
+2025 Series A ‐ 5,355 5,630 5,920 6,220 3 6,240
+Total TECM 1 7,680 2 3,940 2 5,170 2 6,460 2 7,815 162,005
+Multifamily Housing Revenue Bonds
+Sunset 2021 Series A 110 110 115 120 120 650
+Tax Exempt Mortgage Securities 4,721 4,901 5,087 5,280 5,480 3 0,683
+Total principal $ 144,899 $ 159,256 $ 175,952 $ 175,700 $ 163,030 $ 716,358
+Variable rate principal 4,793 650 680 710 860 5,620
+Interest
+Fixed $ 182,081 $ 174,156 $ 164,950 $ 154,951 $ 146,471 $ 620,448
+Variable $ 1 ,818 $ 1 ,794 $ 1 ,765 $ 1 ,735 $ 1 ,699 $ 7 ,876
+Total interest $ 183,899 $ 175,950 $ 166,715 $ 156,686 $ 148,170 $ 628,324
+38
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+2036 2041 2046 2051 2056
+2040 2045 2050 2055 2060 TOTAL
+Single‐Family Mortgage Bonds
+2000 Indenture $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ 1,113
+2003 Indenture 2,330 ‐ ‐ ‐ ‐ 24,430
+2019 Indenture 247,820 284,480 327,085 179,915 370 1,870,285
+Total Single‐Family 250,150 284,480 327,085 179,915 370 1,895,828
+GARVEE Bonds
+2010 Series A ‐ ‐ ‐ ‐ ‐ 54,805
+2014 Series A ‐ ‐ ‐ ‐ ‐ 37,465
+2015 Series A ‐ ‐ ‐ ‐ ‐ 53,685
+2017 Series A ‐ ‐ ‐ ‐ ‐ 50,935
+2019 Series A 5 4,395 ‐ ‐ ‐ ‐ 114,090
+2021 Series A 8 8,525 ‐ ‐ ‐ ‐ 172,860
+Total GARVEE 142,920 ‐ ‐ ‐ ‐ 483,840
+TECM Bonds
+2022 Series A 3 8,365 4 9,255 3 6,040 ‐ ‐ 176,795
+2022 Series A 6 6,530 8 5,430 9 8,625 ‐ ‐ 342,755
+2022 Series A 5 6,600 7 2,685 131,095 ‐ ‐ 338,780
+2025 Series A 4 6,525 5 9,745 7 6,730 7 8,430 ‐ 320,795
+Total TECM 208,020 267,115 342,490 7 8,430 ‐ 1,179,125
+Multifamily Housing Revenue Bonds
+Sunset 2021 Series A 755 880 1,040 4,130 ‐ 8,030
+Tax Exempt Mortgage Securities 3 6,966 4 4,536 4,194 ‐ ‐ 141,848
+Total principal $ 638,811 $ 597,011 $ 674,809 $ 262,475 $ 370 $ 3,708,671
+Variable rate principal 1,390 ‐ 1 7,675 1 4,600 ‐ 46,978
+Interest
+Fixed $ 450,712 $ 300,709 $ 132,205 $ 14,229 $ ‐ $ 2,340,912
+Variable $ 6 ,974 $ 6 ,942 $ 5 ,350 $ 821 $ ‐ $ 36,774
+Total interest $ 457,686 $ 307,651 $ 137,555 $ 15,050 $ ‐ $ 2,377,686
+39
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Long‐term bond liability and short‐term borrowing activity for the year ended June 30, 2025 and 2024, was as
+follows (in thousands):
+June 30, 2025 Amounts
+Beginning Ending Due Within
+Balance Additions Reductions Balance One year
+Par Bonds Payable $ 3,010,946 $ 1,538,271 $ ( 840,545) $ 3,708,672 $ 149,621
+Note Payable 154,012 ‐ (26,097) 127,915 3,820
+Interest Payable 58,734 (137,719) 154,449 75,464 183,899
+Net Unamortized (Discount)/Premium 196,806 (17,546) 44,478 223,738 26,932
+Total bonds payable
+at June 30, 2025 $ 3,420,498 $ 1,383,006 $ ( 667,715) $ 4,135,789 $ 364,272
+Short‐Term And Other Borrowings at June 30, 2025 $ 277,814 $ 1,083,513 $ ( 752,463) $ 6 08,864 $ 608,864
+June 30, 2024 Amounts
+Beginning Ending Due Within
+Balance Additions Reductions Balance One year
+Par Bonds Payable $ 1,796,714 $ 2,691,070 $ (1,476,838) $ 3,010,946 $ 111,228
+Note Payable ‐ 175,000 (20,988) 154,012 3,549
+Interest Payable 30,269 106,294 (77,829) 58,734 143,175
+Net Unamortized (Discount)/Premium 155,220 (14,511) 56,097 196,806 4,825
+Total bonds payable
+at June 30, 2024 $ 1,982,203 $ 2,957,853 $ (1,519,558) $ 3,420,498 $ 262,777
+Short‐Term And Other Borrowings at June 30, 2024 $ 388,370 $ 776,620 $ ( 887,176) $ 2 77,814 $ 277,814
+Note 10 ‐ Redemption of Bonds
+Special redemptions were made in the following bond issues for the year ended June 30, 2025 and 2024 (in
+thousands):
+Bond Series Redeemed Par Value of Bonds Redeemed
+For the For the
+Year Ended Year Ended
+July 1, 2025 June 30, 2025 June 30, 2024
+Single‐Family Mortgage Bonds
+2000 Indenture $ 1,009 $ 2,250 $ 2,235
+2003 Indenture 2,650 5,245 4,855
+2006 Indenture ‐ ‐ 17,135
+2009 Indenture 34,195 ‐ ‐
+2019 Indenture ‐ 120,370 9,325
+Special redeem all bonds 37,854 127,865 33,550
+40
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 11 ‐ Tax Exempt Mortgage‐Backed Securities
+Tax‐exempt mortgage‐backed securities (TEMS) are tax‐exempt securities which are collateralized by mortgage‐
+backed securities. The TEMS are special, limited obligations of the Association and are payable solely from
+pledged mortgages and their revenues. The TEMS are secured by the mortgages, their related revenues, and the
+Ginnie Mae mortgage‐backed security guarantee. Neither the State of Idaho nor any political subdivision thereof
+is obligated to pay the TEMS. Nor is the faith and credit, nor the taxing power of the State of Idaho or of any
+political subdivision thereof pledged for the payment of the principal or interest on the TEMS.
+TEMS are collateralized by the mortgage loan pool with the same maturity terms as the TEMS. The payments
+from the mortgages are used to pay the principal and interest payments of the TEMS. The Association is the
+servicer for the mortgages. A Ginnie Mae authorized document custodian holds note and the deed of trust while
+the underlying mortgage loans are insured by the U.S. Federal Housing Administration (FHA) or the U.S.
+Department of Agriculture (USDA). These loans are then contributed to a mortgage‐backed security, which is
+guaranteed by Ginnie Mae.
+Series Maturity Date Security Rate 2025 2024
+IHFA HOMES 2014 A May 2044 3.50% $ 1,762 $ 2,133
+IHFA HOMES 2014 B August 2044 3.50% 2 ,213 2,297
+IHFA HOMES 2014 C December 2044 3.50% 1 ,051 1,197
+IHFA HOMES 2015 A April 2045 3.00% 1 ,338 1,528
+IHFA HOMES 2015 B May 2045 3.00% 1 ,208 1,931
+IHFA HOMES 2015 C July 2045 3.00% 4 ,019 6,158
+IHFA TEMS 2015A October 2045 3.50% 4 ,360 4,726
+IHFA TEMS 2015B November 2045 0.00% ‐ 3,429
+IHFA TEMS 2015C December 2045 3.00% 1 ,633 4,446
+IHFA TEMS 2016A February 2046 3.00% 7 ,476 8,323
+IHFA TEMS 2016B March 2046 3.00% 2 ,048 2,116
+IHFA TEMS 2016C April 2046 3.00% 3 ,397 3,506
+IHFA TEMS 2016D May 2046 3.00% 3 ,894 4,699
+IHFA TEMS 2016E June 2046 3.00% 3 ,456 3,913
+IHFA TEMS 2016F July 2046 3.00% 2 ,948 3,580
+IHFA TEMS 2016G August 2046 3.00% 7 ,318 7,866
+IHFA TEMS 2016H September 2046 3.00% 2 ,910 3,099
+IHFA TEMS 2016I December 2046 3.00% 3 ,233 3,332
+IHFA TEMS 2017A January 2047 3.00% 4 ,568 5,147
+IHFA TEMS 2017B February 2047 3.00% 2 ,122 2,463
+IHFA TEMS 2017C April 2047 3.50% 3 ,454 3,901
+IHFA TEMS 2017D May 2047 3.50% 3 ,558 3,910
+IHFA TEMS 2017E July 2047 3.50% 3 ,091 3,175
+41
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Series Maturity Date Security Rate 2025 2024
+IHFA TEMS 2017F August 2048 3.00% 4 ,952 5,541
+IHFA TEMS 2017G September 2047 3.00% 3 ,832 4,182
+IHFA TEMS 2017H October 2047 3.00% 4 ,282 4,857
+IHFA TEMS 2017I November 2047 3.00% 4 ,638 4,879
+IHFA TEMS 2017J December 2047 3.00% 6 ,172 6,614
+IHFA TEMS 2018A January 2048 3.00% 2 ,722 2,840
+IHFA TEMS 2018B April 2048 3.50% 2 ,629 2,695
+IHFA TEMS 2018C July 2048 4.00% 2 ,387 2,727
+IHFA TEMS 2018D August 2048 4.00% 3 ,307 4,107
+IHFA TEMS 2018E October 2048 4.00% 5 ,917 6,297
+IHFA TEMS 2018F December 2048 4.00% 7 ,354 7,669
+IHFA TEMS 2019A January 2049 4.50% 4 ,349 4,439
+IHFA TEMS 2019B April 2049 4.00% 4 ,642 5,075
+IHFA TEMS 2019C June 2049 3.50% 5 ,157 5,619
+IHFA TEMS 2019D July 2019 4.00% 3 ,576 3,986
+IHFA TEMS 2019E August 2049 3.50% 4 ,875 5,917
+Total Tax‐Exempt Mortgage‐back Securities (TEMS) $ 141,848 $ 164,319
+A summary of TEMS activity for the periods reported is as follows (in thousands):
+Beginning Ending
+Balance as of Balance as of
+July 1, 2024 Additions Reductions June 30, 2025
+Tax Exempt
+Mortgage Securities $ 164,319 $ ‐ $ (22,471) $ 141,848
+Beginning Ending
+Balance as of Balance as of
+June 30, 2023 Additions Reductions June 30, 2024
+Tax Exempt
+Mortgage Securities $ 183,999 $ ‐ $ (19,680) $ 164,319
+42
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The scheduled principal payments for the periods subsequent to, and as of, June 30, 2025, is as follows (in
+thousands):
+Principal Interest
+Original Payments Payments
+Year (in thousands) (in thousands)
+2026 $ 4,721 $ 5,195
+2027 4 ,901 5,016
+2028 5 ,087 4,830
+2029 5 ,280 4,637
+2030 5 ,480 4,437
+2031‐2035 30,683 18,900
+2036‐2040 36,966 12,617
+2041‐2045 44,536 5,047
+2046‐2047 4 ,194 33
+Total $ 141,848 $ 60,712
+Note 12 ‐ Derivatives
+The Association has entered into multiple interest rate swap agreements to reduce the Association’s overall cost
+of borrowing long‐term capital and protect against the risk of rising interest rates. To do this, the Association
+issued variable rate debt in connection with the same Single‐Family Mortgage Bond issues. The swap
+agreements, when combined with the associated variable rate debt, create a synthetic fixed rate debt
+obligation. From 2000 through 2008, the Association’s use of these instruments allowed it to competitively price
+and acquire single‐family loans while reducing interest rate risk.
+GASB Statement No. 53, Accounting and Financial Reporting for Derivative Instruments defines derivative
+instruments and requires that they be reported at fair value in the Statements of Net Position. The swap
+agreements the Association has entered into are characterized as derivatives. Offsetting changes in fair value
+are carried on the Statements of Net Position as either a deferred inflow or outflow or recognized in earnings of
+the current period as a change in investments fair value. Changes in fair value are reported depending on
+whether the derivative instrument is considered an effective hedge. Effective hedge fair value changes are
+reported as deferred inflows or outflows while non‐effective hedge fair value changes are recognized in earnings
+in the current period. Statement No. 53 provides several methods for determining effectiveness.
+43
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The fair values of swap agreements were estimated as the approximate amount the Association’s would pay a
+market participant to terminate the contractual positions as of June 30, 2025. While key assumptions and
+methods used in deriving fair value are proprietary; in general, the fair values are determined as the difference
+between the present value of the fixed‐rate payments made to the counterparty and the variable‐rate (based on
+interest rates as of June 30, 2025) payments paid to the Association. A positive fair value indicates the amount
+the Association is entitled to receive from the counterparty upon termination of the swap and is reported under
+Other Assets. Conversely, a negative fair value reflects the amount the Association must pay, which is recorded
+under Other Liabilities. As of June 30, 2025, and 2024, these amounts are $(0.224) million and $(0.490) million,
+respectively, as shown in the Statement of Net Position.
+The Association has determined that a substantial portion of its interest rate swaps effectively hedge against
+changes in variable interest rates. As such, changes in fair value for hedge swaps are reported as a deferred
+outflow of resources in the Statement of Net Position of $0.986 million and $2.013 million as of June 30, 2025
+and 2024, respectively. A portion of the interest rate swaps are considered non‐effective for hedging purposes
+and are reported in the Statement of Net Position in Investments at June 30, 2025 and 2024 of $(0.326) million
+and $(0.182) million, respectively. This portion represents the notional amount of interest rate swaps that falls
+short of the notional amount of underlying variable debt.
+The Association engaged an independent third party to calculate the fair values of contracts as of June 30, 2025
+and 2024. The results of the calculation correlate materially with the fair values provided by the Association’s
+counterparties.
+Credit risk: As of June 30, 2025, the Association is exposed to a negligible amount of counterparty credit risk on
+certain outstanding swaps due to their positive fair values. The Association’s counterparty has a current rating of
+A+ (Fitch), A1 (Moody’s), and AA‐ (S&P).
+Basis risk: All but 22 of the Association’s swaps have a dual basis: 68% of Securities Industry and Financial
+Markets Association (SIFMA) index plus 20 basis points when the one‐month Secured Overnight Financing Rate
+(SOFR) is less than either 3.5% or 4.0% (depending on the bond series). Four non‐dual basis swaps have a basis
+of SIFMA plus 20 basis points, two have a basis of SOFR plus 76 basis points, three have a basis of SOFR plus 75
+basis points, three have a basis of SOFR plus 71 basis points, five have a basis of SOFR plus 45 basis points, and
+five have a basis of SOFR plus 5 basis points. The Association is exposed to basis risk on dual basis swaps when
+variable payments received are based on SOFR and do not offset the variable rate paid on bonds, which is based
+on SIFMA. On June 30, 2025, SIFMA was 1.920% and one‐month SOFR was 4.450%.
+Rollover risk: Rollover risk relates to a mismatch in the amortization of the swaps with the amortization of the
+variable rate bonds. The Association has structured its debt such that not all variable debt is matched by interest
+rate swaps and calls certain variable rate bonds independent of the expiration of the associated interest rate
+swap. This exposes the Association to the risk of incurring a higher interest expense than it might otherwise
+incur. Swap notional amounts no longer associated with variable rate debt are reported as investment
+derivatives.
+44
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Termination risk: The Association or Barclays Capital may terminate an interest rate swap if the other party fails
+to perform under the terms of the contract. If any of the swaps are terminated, the associated variable rate
+bonds would no longer carry synthetic fixed interest rates and the Association would be exposed to changing
+interest rates and incurring interest rate risk. A termination event also results in the loss of hedge accounting,
+requiring all fair value deferrals to be recognized immediately. The economic risk also includes requiring making
+payments to the counter party to the extent of any negative fair value amounts. The risk may be offset by
+identifying a suitable counter party willing to enter into identical swap contracts at the termination date.
+The swaps were entered into for the purpose of hedging the change in interest rates of specific series of variable
+rate bonds. From time to time, certain hedged bonds may be redeemed early, refinanced or reissued resulting in
+the termination of existing hedging relationships and the creation of new hedging relationships if permitted.
+The accounting rules provide that at the time such events occur, the swap’s then fair value, or balance in the
+deferral account, for the related swap should be reduced to zero and offset by a new balance which shall be
+amortized on fixed rate interest expense basis over a period equal to the shorter of the remaining term of the
+refunding bonds, refunded bonds, or swap. In future periods reductions in the amortizing balances are recorded
+as interest expense, and to the extent a new hedging relationship can be established by the swap, it is a hedging
+swap and future changes in fair value are recorded as deferred inflows/outflows. If no new hedging relationship
+can be established, it is an investment swap and the change in fair value for the swap is recognized as
+investment earnings in the current period.
+45
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Hedging Fair Values in the table below include the value of the amortizing balances.
+Interest Rate Swap Agreements
+(in thousands)
+2025
+Outstanding
+Parity Notional Amount Fair Values Change in Fair Values
+Indenture Series Hedging Investment Hedging Investment Hedging Investment
+2015A 2003 Series A $ 435 $ ‐ $ (5) $ ‐ $ 1 $ ‐
+2015A 2003 Series C ‐ 10 ‐ ‐ 2 ‐
+2014A 2003 Series D 195 ‐ (1) ‐ 4 ‐
+2016A 2003 Series E ‐ 195 ‐ (1) 8 (7)
+2016A 2004 Series A 355 ‐ (2) ‐ (3) ‐
+2016A 2004 Series B ‐ 825 (14) 1 13 ( 20)
+2016A 2004 Series C ‐ 260 ‐ (1) 9 (9)
+2016A 2004 Series D 1 ,730 ‐ (33) ‐ (30) ‐
+2016A 2005 Series A 2 ,025 ‐ (51) ‐ (36) ‐
+2009A 2005 Series B ‐ 1,855 ‐ (68) (35) 8
+2009A 2005 Series C ‐ 1,910 ‐ (63) (34) 2
+2016A 2005 Series D 2 ,000 ‐ (47) ‐ (37) ‐
+2016A 2005 Series E 2 ,105 ‐ (54) ‐ (39) ‐
+2009A 2005 Series F ‐ 2,285 ‐ (97) (44) 7
+2009A 2006 Series A ‐ 2,340 ‐ (96) 62 ( 95)
+2009A 2006 Series B 130 ‐ (3) ‐ 10 ‐
+2009A 2006 Series C ‐ ‐ ‐ ‐ 12 ‐
+2009A 2006 Series D ‐ ‐ ‐ ‐ 14 ‐
+2013A 2007 Series A ‐ 960 (14) (1) 11 ( 29)
+$ 8,975 $ 10,640 $ (224) $ (326) $ (112) $ (143)
+46
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Interest Rate Swap Agreements
+(in thousands)
+2025
+Variable Rate
+Fixed Rate Received by IHFA from Scheduled
+Parity Paid by Interest Rate Contract Interest Rate Credit Termination Inception
+Indenture Series IHFA Provider Contract Provider Rating Date Date
+2015A 2003 Series A 4.519% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 1/1/2026 11/6/2008
+2015A 2003 Series C 3.780% 100% 1W SIFMA + 20 bp Barclays Capital A+/A1/AA‐ 7/1/2025 11/6/2008
+2014A 2003 Series D 4.840% 100% 1W SIFMA + 20 bp Barclays Capital A+/A1/AA‐ 7/1/2025 11/6/2008
+2016A 2003 Series E 4.530% 100% 1W SIFMA + 20 bp Barclays Capital A+/A1/AA‐ 7/1/2025 7/6/2016
+2016A 2004 Series A 4.029% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 1/1/2026 7/6/2016
+2016A 2004 Series B 4.370% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 1/1/2027 7/6/2016
+2016A 2004 Series C 4.330% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 7/1/2025 7/6/2016
+2016A 2004 Series D 3.850% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 1/1/2028 7/6/2016
+2016A 2005 Series A 3.900% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 1/1/2029 7/6/2016
+2009A 2005 Series B 3.985% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 7/1/2028 11/7/2008
+2009A 2005 Series C 3.730% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A+/A1/AA‐ 7/1/2028 11/7/2008
+2016A 2005 Series D 3.865% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 7/1/2028 7/6/2016
+2016A 2005 Series E 3.930% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 1/1/2029 7/6/2016
+2009A 2005 Series F 4.095% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 1/1/2029 11/7/2008
+2009A 2006 Series A 4.100% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 1/1/2029 11/7/2008
+2009A 2006 Series B 4.350% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 7/1/2025 11/7/2008
+2009A 2006 Series C 4.360% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 1/1/2025 11/7/2008
+2009A 2006 Series D 4.450% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A+/A1/AA‐ 1/1/2025 11/7/2008
+2013A 2007 Series A 5.031% 100% 1M LIBOR + 45 bp Barclays Capital A+/A1/AA‐ 7/1/2026 7/3/2017
+47
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Interest Rate Swap Agreements
+(in thousands)
+2024
+Outstanding
+Parity Notional Amount Fair Values Change in Fair Values
+Indenture Series Hedging Investment Hedging Investment Hedging Investment
+2009A 2005 Series C $ ‐ $ ‐ $ ‐ $ ‐ $ 3 $ ‐
+2016A 2005 Series D ‐ ‐ ‐ ‐ 3 ‐
+2016A 2005 Series E 1,025 ‐ (15) ‐ (59) ‐
+2009A 2005 Series F 60 ‐ (0) ‐ (1) ‐
+2009A 2006 Series A ‐ 325 (2) (0) (17) (0)
+2009A 2006 Series B 7 40 ‐ (10) ‐ (42) ‐
+2009A 2006 Series C ‐ 740 (13) 6 (23) ( 19)
+2009A 2006 Series D 9 00 ‐ (6) ‐ (50) ‐
+2013A 2006 Series E ‐ 1,390 (45) 21 (96) 21
+2013A 2006 Series F ‐ 855 (15) 8 (26) ( 22)
+2013A 2006 Series G 2,330 ‐ (35) ‐ (114) ‐
+2013A 2007 Series A 2,600 ‐ (52) ‐ (124) ‐
+2013A 2007 Series B ‐ 2,450 ‐ ( 77) (162) 31
+2013A 2007 Series C ‐ 2,495 ‐ ( 65) (154) 25
+2012A 2007 Series D 2,590 ‐ (46) ‐ (124) ‐
+2012A 2007 Series G 2,695 ‐ (55) ‐ (129) ‐
+2012A 2007 Series H ‐ 2,895 ‐ (104) (196) 41
+2012A 2007 Series J 2,925 ‐ (108) ‐ (157) ‐
+2012A 2007 Series K 6 25 ‐ (16) ‐ (29) ‐
+2013A 2008 Series A 4 95 ‐ (12) ‐ (21) ‐
+2013A 2008 Series B 5 75 ‐ (14) ‐ (25) ‐
+2013A 2008 Series C ‐ ‐ ‐ ‐ 56 ( 29)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 50 ( 28)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 19 ‐
+2013A 2008 Series C ‐ 1,660 (47) 29 (155) 29
+2013A 2008 Series C ‐ ‐ ‐ ‐ 34 ‐
+2013A 2008 Series C ‐ ‐ ‐ ‐ 1 12 ( 67)
+2013A 2008 Series C ‐ ‐ ‐ ‐ (7) ‐
+2013A 2008 Series C ‐ ‐ ‐ ‐ 3 70 ‐
+2013A 2008 Series C ‐ ‐ ‐ ‐ 1,520 (1,190)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 3 49 ‐
+2013A 2008 Series C ‐ ‐ ‐ ‐ 8 87 (474)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 9 03 (475)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 3 47 (237)
+2013A 2008 Series C ‐ ‐ ‐ ‐ 92 ( 63)
+2013A 2008 Series D ‐ ‐ ‐ ‐ 29 ( 24)
+$ 17,560 $ 12,810 $ (490) $ (182) $ 3,064 $ (2,481)
+48
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Interest Rate Swap Agreements
+(in thousands)
+2024
+Variable Rate
+Fixed Rate Received by IHFA from Scheduled
+Parity Paid by Interest Rate Contract Interest Rate Credit Termination Inception
+Indenture Series IHFA Provider Contract Provider Rating Date Date
+2009A 2005 Series C 3.730% 68% 1M (or SIFMA 1M<3.5%) +20 Barclays Capital A/A1 7/1/2028 11/7/2008
+2016A 2005 Series D 3.865% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 7/1/2028 7/6/2016
+2016A 2005 Series E 3.930% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 1/1/2029 7/6/2016
+2009A 2005 Series F 4.095% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 1/1/2029 11/7/2008
+2009A 2006 Series A 4.100% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 1/1/2029 11/7/2008
+2009A 2006 Series B 4.350% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 7/1/2025 11/7/2008
+2009A 2006 Series C 4.360% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 1/1/2025 11/7/2008
+2009A 2006 Series D 4.450% 68% 1M (or SIFMA 1M<4.0%) +20 Barclays Capital A/A1 1/1/2025 11/7/2008
+2013A 2006 Series E 5.518% 100% 1M LIBOR + 75 bp Barclays Capital A/A1 1/1/2026 7/3/2017
+2013A 2006 Series F 5.290% 100% 1M LIBOR + 75 bp Barclays Capital A/A1 1/1/2026 7/3/2017
+2013A 2006 Series G 5.167% 100% 1M LIBOR + 75 bp Barclays Capital A/A1 1/1/2026 7/3/2017
+2013A 2007 Series A 5.031% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2007 Series B 4.882% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 1/1/2027 7/3/2017
+2013A 2007 Series C 4.972% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 1/1/2027 7/3/2017
+2012A 2007 Series D 4.893% 100% 1M LIBOR + 71 bp Barclays Capital A/A1 1/1/2026 7/1/2016
+2012A 2007 Series G 4.691% 100% 1M LIBOR + 5 bp Barclays Capital A/A1 7/1/2028 1/1/2013
+2012A 2007 Series H 5.198% 100% 1M LIBOR + 76 bp Barclays Capital A/A1 7/1/2030 7/1/2016
+2012A 2007 Series J 4.415% 100% 1M LIBOR + 5 bp Barclays Capital A/A1 7/1/2028 7/3/2017
+2012A 2007 Series K 4.231% 100% 1M LIBOR + 5 bp Barclays Capital A/A1 7/1/2030 7/3/2017
+2013A 2008 Series A 4.382% 100% 1M LIBOR + 5 bp Barclays Capital A/A1 7/1/2030 7/3/2017
+2013A 2008 Series B 4.235% 100% 1M LIBOR + 5 bp Barclays Capital A/A1 7/1/2029 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series C 4.719% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+2013A 2008 Series D 4.437% 100% 1M LIBOR + 45 bp Barclays Capital A/A1 7/1/2026 7/3/2017
+49
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+At June 30, 2025 and 2024, the Association had $492.500 million and $250.000 million, respectively, in forward
+sales contracts (“To Be Announced” or “TBA” contracts) to issue GNMA securities in order to lock in the sales
+price for the securitization of single‐family loans. These securities represent pools of qualified first mortgage
+loans originated by Association‐approved lenders and brokers. Under this program, the Association periodically
+enters into forward contracts to sell GNMA Mortgage‐Backed Securities to investors before the securities are
+ready for delivery. The Association enters into TBA mortgage‐backed security contracts to hedge the interest
+rate risk for loan commitments made to originating mortgage lenders. These contracts are considered
+investment derivatives and are not rated.
+TBA Forward Contracts
+(in thousands)
+2025
+Outstanding Counterparty
+Contract Coupon rate Notional Amount Fair Values Credit Rating
+August 20, 2024 5.50% $ 3,000 $ (58) BBB
+August 20, 2024 6.00% 1,000 (19) BBB+
+August 20, 2024 6.50% 1,000 (19) BBB+
+July 15, 2024 6.00% 1,000 ‐ AA+
+July 15, 2024 5.00% 1,000 ‐ AA+
+July 15, 2024 5.50% 2,000 ‐ AA+
+July 15, 2024 6.00% 1,000 (43) AA+
+July 15, 2024 6.50% 1,000 ‐ A‐
+July 22, 2024 6.50% 3,000 (58) BBB
+July 22, 2024 4.50% 1,000 (19) BBB
+July 22, 2024 4.50% 2,000 ‐ A+
+July 22, 2024 5.00% 3,000 ‐ BBB+
+July 22, 2024 5.00% 1,500 (29) BBB+
+July 22, 2024 5.50% 8,500 141 BBB+
+July 22, 2024 6.00% 1,000 ‐ A‐
+July 22, 2024 6.50% 2,000 (39) BBB+
+July 22, 2024 6.50% 7,000 (136) BBB+
+September 16, 2024 6.00% 7,000 1 AA+
+September 23, 2024 5.50% 2,000 ‐ BBB
+September 23, 2024 5.50% 1,000 17 BBB
+September 23, 2024 5.50% 1,000 17 BBB
+September 23, 2024 5.50% 3,000 ‐ BBB
+September 23, 2024 5.50% 1,000 ‐ BBB
+September 23, 2024 5.50% 1,000 (19) BBB
+September 23, 2024 5.50% 1,000 ‐ BBB
+September 23, 2024 5.50% 6,000 99 BBB
+September 23, 2024 5.50% 2,000 (39) BBB
+50
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+TBA Forward Contracts
+(in thousands)
+2025
+Outstanding Counterparty
+Contract Coupon rate Notional Amount Fair Values Credit Rating
+September 23, 2024 5.50% 6,000 99 BBB
+September 23, 2024 5.50% 1,500 25 BBB
+September 23, 2024 5.50% 1,000 (19) BBB
+September 23, 2024 5.50% 500 (21) BBB
+September 23, 2024 5.50% 3,000 (58) BBB
+September 23, 2024 5.50% 3,500 1 BBB
+September 23, 2024 5.50% 3,000 ‐ BBB
+September 23, 2024 5.50% 1,000 17 BBB
+September 23, 2024 5.50% 500 ‐ BBB
+September 23, 2024 5.50% 1,000 (43) BBB
+September 23, 2024 5.50% 1,000 (43) BBB
+September 23, 2024 5.50% 8,000 113 BBB
+September 23, 2024 5.50% 5,000 5 BBB
+September 23, 2024 5.50% 2,000 (85) BBB
+September 23, 2024 5.50% 2,000 (36) BBB
+September 23, 2024 5.50% 4,000 4 BBB
+September 23, 2024 5.50% 3,000 42 BBB
+September 23, 2024 5.50% 4,500 5 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 1,000 (43) BBB
+September 23, 2024 5.50% 1,000 (18) BBB
+September 23, 2024 5.50% 6,000 7 BBB
+September 23, 2024 5.50% 9,000 127 BBB
+September 23, 2024 5.50% 2,000 55 BBB
+September 23, 2024 5.50% 3,000 (272) BBB
+September 23, 2024 5.50% 2,000 (36) BBB
+September 23, 2024 5.50% 1,500 (27) BBB
+September 23, 2024 5.50% 1,000 (18) BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 1,000 28 BBB
+September 23, 2024 5.50% 5,000 5 BBB
+September 23, 2024 5.50% 4,000 56 BBB
+September 23, 2024 5.50% 1,000 28 BBB
+September 23, 2024 5.50% 3,000 3 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 5,000 70 BBB
+September 23, 2024 5.50% 7,000 8 BBB
+September 23, 2024 5.50% 5,000 5 BBB
+September 23, 2024 5.50% 15,000 16 BBB
+51
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+TBA Forward Contracts
+(in thousands)
+2025
+Outstanding Counterparty
+Contract Coupon rate Notional Amount Fair Values Credit Rating
+September 23, 2024 5.50% 21,000 295 BBB
+September 23, 2024 5.50% 6,000 (108) BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 4,000 (72) BBB
+September 23, 2024 5.50% 2,000 (85) BBB
+September 23, 2024 5.50% 16,000 (288) BBB
+September 23, 2024 5.50% 22,000 24 BBB
+September 23, 2024 5.50% 5,000 70 BBB
+September 23, 2024 5.50% 2,000 28 BBB
+September 23, 2024 5.50% 14,000 197 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 3,000 (54) BBB
+September 23, 2024 5.50% 5,000 5 BBB
+September 23, 2024 5.50% 3,000 42 BBB
+September 23, 2024 5.50% 4,000 56 BBB
+September 23, 2024 5.50% 2,000 (36) BBB
+September 23, 2024 5.50% 11,000 12 BBB
+September 23, 2024 5.50% 9,500 134 BBB
+September 23, 2024 5.50% 5,000 (352) BBB
+September 23, 2024 5.50% 1,000 14 BBB
+September 23, 2024 5.50% 3,000 3 BBB
+September 23, 2024 5.50% 6,000 (108) BBB
+September 23, 2024 5.50% 3,000 (128) BBB
+September 23, 2024 5.50% 10,000 (180) BBB
+September 23, 2024 5.50% 4,000 4 BBB
+September 23, 2024 5.50% 7,000 8 BBB
+September 23, 2024 5.50% 2,000 28 BBB
+September 23, 2024 5.50% 3,500 (63) BBB
+September 23, 2024 5.50% 4,500 (81) BBB
+September 23, 2024 5.50% 5,000 70 BBB
+September 23, 2024 5.50% 3,000 83 BBB
+September 23, 2024 5.50% 3,000 3 BBB
+September 23, 2024 5.50% 1,000 (18) BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 1,000 (18) BBB
+September 23, 2024 5.50% 2,500 35 BBB
+September 23, 2024 5.50% 2,000 32 BBB
+52
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+TBA Forward Contracts
+(in thousands)
+2025
+Outstanding Counterparty
+Contract Coupon rate Notional Amount Fair Values Credit Rating
+September 23, 2024 5.50% 1,000 ‐ BBB
+September 23, 2024 5.50% 2,000 32 BBB
+September 23, 2024 5.50% 3,000 47 BBB
+September 23, 2024 5.50% 1,000 ‐ BBB
+September 23, 2024 5.50% 2,000 32 BBB
+September 23, 2024 5.50% 2,000 (1) BBB
+September 23, 2024 5.50% 1,500 24 BBB
+September 23, 2024 5.50% 1,000 ‐ BBB
+September 23, 2024 5.50% 2,000 32 BBB
+September 23, 2024 5.50% 1,000 16 BBB
+September 23, 2024 5.50% 7,000 93 BBB
+September 23, 2024 5.50% 5,000 4 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 3,000 40 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 3,000 40 BBB
+September 23, 2024 5.50% 6,000 80 BBB
+September 23, 2024 5.50% 5,000 141 BBB
+September 23, 2024 5.50% 3,000 2 BBB
+September 23, 2024 5.50% 1,000 (18) BBB
+September 23, 2024 5.50% 4,000 53 BBB
+September 23, 2024 5.50% 2,000 27 BBB
+September 23, 2024 5.50% 5,000 66 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 5,000 66 BBB
+September 23, 2024 5.50% 4,000 53 BBB
+September 23, 2024 5.50% 3,000 2 BBB
+September 23, 2024 5.50% 2,000 27 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 2,000 2 BBB
+September 23, 2024 5.50% 2,000 27 BBB
+September 23, 2024 5.50% 1,000 1 BBB
+September 23, 2024 5.50% 1,000 25 BBB
+September 23, 2024 5.50% 2,000 27 BBB
+September 23, 2024 5.50% 2,000 (36) BBB
+September 23, 2024 5.50% 2,000 27 BBB
+September 23, 2024 5.50% 2,000 61 BBB
+September 23, 2024 5.50% 1,000 15 BBB
+$ 492,500 $ 375
+53
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+TBA Forward Contracts
+(in thousands)
+2024
+Outstanding Notional Counterparty Credit
+Contract Coupon Rate Amount Fair Values Rating
+August 20, 2024 5.50% $ 1 0,000 $ 63 BBB
+August 20, 2024 6.00% 15,000 59 BBB+
+August 20, 2024 6.50% 7,000 8 BBB+
+July 15, 2024 6.00% 20,000 22 AA+
+July 15, 2024 5.00% 1,000 (1) AA+
+July 15, 2024 5.50% 16,000 (2) AA+
+July 15, 2024 6.00% 28,000 (4) AA+
+July 15, 2024 6.50% 14,000 (9) A‐
+July 22, 2024 6.50% 32,000 45 BBB
+July 22, 2024 4.50% 7,000 86 BBB
+July 22, 2024 4.50% 4,000 42 A+
+July 22, 2024 5.00% 5,000 47 BBB+
+July 22, 2024 5.00% 12,000 1 29 BBB+
+July 22, 2024 5.50% 2,000 14 BBB+
+July 22, 2024 6.00% 24,500 92 A‐
+July 22, 2024 6.50% 15,500 34 BBB+
+July 22, 2024 6.50% 7,000 8 BBB+
+September 16, 2024 6.00% 10,000 59 AA+
+September 23, 2024 5.50% 20,000 85 BBB
+$ 250,000 $ 777
+Note 13 ‐ Retirement Plans
+The Idaho Housing and Finance Association Defined Contribution Retirement Plan covers substantially all
+Association employees. The Association contributes eight percent of annual compensation for each eligible
+permanent employee to a segregated account held in trust by Principle Insurance. Employees are eligible to
+participate in the retirement plan after completion of 1,040 hours (6 months) of continuous employment, and
+100 percent vesting is achieved ratably over a period of five years. Plan provisions and contribution
+requirements are established, and may be amended, by the Association. The Association’s retirement plan
+expense for the year ending June 30, 2025 and 2024, were $2,069 million and $1.959 million, respectively.
+Employees do not contribute to this Plan.
+54
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Association also offers a deferred compensation plan qualified under Section 457 of the Internal Revenue
+Code. All employees who have completed 30 days of continuous employment with the Association are eligible
+to participate. The plan permits employees to defer up to 99 percent per year (or a maximum of $23,000 for
+those under 50 and $30,000 for those 50 and older), of salary before taxes. The Association will match up to two
+percent of the employee’s deferral to be deposited into the employee’s account and immediately vested. The
+Association’s deferred compensation plan expense for the year ending June 30, 2025 and 2024 were $359,000
+and $339,000, respectively. Investment choices for all contributions are employee‐directed. The assets for these
+retirement plans are not included in the Association’s financial statements as they are substantially the property
+of employees and are held in segregated trust accounts.
+Note 14 ‐ Conduit Debt Obligations
+GASB Statement No. 91 requires disclosure of conduit debt obligations. Conduit debt obligations are certain
+limited obligation debt instruments issued for the express purpose of providing capital financing for a specific
+third party that is not a part of the issuer's financial reporting entity. From time to time, the Association has
+issued bonds to provide financial assistance to entities for the construction of facilities deemed to be in the
+public interest. The bonds are secured by the property financed and are payable solely from payments received
+on the underlying investments. Upon repayment of the bonds, ownership of the constructed facilities transfers
+to the entity served by the bond issuance. The Association is not obligated in any manner for repayment of
+these bonds. Accordingly, the bonds are not reported as liabilities in the accompanying financial statements.
+As of June 30, 2025 and 2024, there were eighty‐one and seventy‐eight series of bonds outstanding that meet
+the description of conduit debt obligations not included in the Association’s financial statements. They had
+aggregate principal amounts payable of $920.226 million and $777.790 million, respectively.
+The Association services conduit debt obligations for housing and transportation‐related bond issuances. The
+Association is not obligated in any manner for repayment of these housing and transportation related conduit
+debt obligations. The Association has determined that this series of bonds outstanding meet the description of
+conduit debt obligations. The total outstanding indebtedness and accrued interest as of June 30, 2025 and 2024,
+is $1.886 billion and $1.590 billion, respectively.
+Note 15 ‐ Risk Management
+The Association maintains commercial insurance coverage for officer errors and omissions, tort claims, and
+property loss and other casualties. WCF writes the Association’s worker’s compensation coverage. The
+Association’s premiums and loss experience modifications are based on the loss experience of the Association.
+Claims have not exceeded coverage for the past three years.
+55
+Idaho Housing and Finance Association
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 16 ‐ Component Units
+THC was formed to develop, acquire and operate real estate for the benefit of elderly, disadvantaged, limited
+income or otherwise needy persons throughout the state of Idaho. As of December 31, 2024, THC had acquired
+and was operating fifteen multifamily housing complexes; had constructed and was operating twenty‐two
+multifamily housing complexes; had constructed two additional phases of housing to existing developments; had
+completed renovations of two hotels and turned them into a new multifamily complex; had built a single family
+home known as The Cottage with HOME funds; had purchased a single family home in Canyon County with
+federal Neighborhood Stabilization Program (NSP) funds and turned it into special needs housing as intended by
+the program; had purchased three duplexes in Canyon County with federal NSP funds to rent as affordable
+housing; had constructed and sold three homes in Nez Perce County with HOME funds; had completed
+construction on three duplexes in Kuna with HOME and Housing Trust Fund moneys; had started construction
+on two multi‐family complexes in Twin Falls, Idaho, and Nampa, Idaho and had purchased land in Dillon,
+Montana, with the intent of constructing another multifamily complex. Certain personnel of the Association
+provide services to THC and three Association Commissioners serve on THC’s Board, along with the President of
+IHFA. As of December 31, 2024, three Association Commissioners and the Association’s President serve on THC’s
+Board of Directors. As of June 30, 2025 and 2024, THC paid the Association $2.084 million and $1.991 million,
+respectively for expenses associated with THC operations. THC owed $0.185 million and $0.162 million for the
+years ended June 30, 2025 and 2024, respectively. As of June 30, 2025 and 2024, ICIH had notes receivable of
+$7.061 and $6.061 million, respectively, with THC. IHFA is holding a bond for the construction of the Sunset
+Landing multi‐family project in Caldwell, Idaho, of $8,030 million and $13.740 million as of June 30, 2025 and
+2024, respectively. Complete financial statements for THC can be obtained from THC at P.O. Box 7899, Boise, ID
+83707.
+THC processes and pays vendor invoices for one IHFA owned REO rental property. The Association reimburses
+THC for amounts paid on a yearly basis.
+HPF helps people build a strong foundation for their lives through stable, safe, and affordable housing by making
+available financial resources they would not be able to obtain elsewhere. The Foundation supports shelters and
+shelter services for Idaho’s homeless and most disadvantaged, encourages financial independence by educating
+individuals and families, invests in workforce housing, and facilitates tax‐advantaged land donations for housing
+development. HPF’s Board of Directors consists solely of Association Commissioners. Certain general,
+administrative and fundraising expenses of the Foundation are paid by the Association. The Association also
+provides occupancy, accounting, gift receipting and cash management services to the Foundation. The value of
+these services is not reflected in the accompanying financial statements since they are not susceptible to
+objective measurement or valuation. Complete financial statements for HPF can be obtained from HPF at P.O.
+Box 7899, Boise, ID 83707.
+ICIH was formed to own and hold the real property associated with projects created to support IHFA’s mission.
+ICIH is an Idaho limited liability company with IHFA being the sole member. ICIH has an agreement with THC
+related to the Teton Mesa 4, Canyon Terrace, Sunset Landing, and Alder multifamily projects. ICIH has a
+receivable from THC of $7.061 million and $6.061 million in relation to these projects as of June 30, 2025 and
+June 30, 2024.
+56
+Supplementary Information
+June 30, 2025
+Idaho Housing and Finance Association
+eidebailly.com
+Idaho Housing and Finance Association
+Combined Statement of Net Position – Association Accounts
+June 30, 2025
+(in thousands)
+Business Operations Rating
+General Affordable Compliance Idaho Inter‐ All
+Operating and Federally State Housing and Loan Combined All The Home Community Component Reporting
+Custodial Assisted of Idaho Investment Guarantee Bondholder Interfund Association Partnership Investment HomeLoanServ Unit Entity
+Accounts Program Program Combined Trust Trust Trusts (1) Eliminations Accounts Foundation Holdings, LLC Inc. Eliminations Accounts
+Statement of Net Position
+Assets and Deferred Outflow of Resources
+Cash and cash equivalents $ 61,984 $ ‐ $ ‐ $ 61,984 $ 2,000 $ ‐ $ ‐ $ ‐ $ 63,984 $ 3 15 $ ‐ $ 3 $ ‐ $ 64,302
+Cash and cash equivalents held in trust or as agent 176,114 4 4,878 ‐ 220,992 ‐ ‐ ‐ ‐ 220,992 1,410 1,363 ‐ ‐ 223,765
+Cash held in escrow 302,198 ‐ ‐ 302,198 ‐ ‐ ‐ ‐ 302,198 ‐ ‐ ‐ ‐ 302,198
+Investments, fair value 22,927 ‐ ‐ 2 2,927 554 ‐ ‐ ‐ 23,481 ‐ ‐ ‐ ‐ 23,481
+Investments held in trust, fair value 353,363 ‐ ‐ 353,363 ‐ 3,126 2,696,828 ‐ 3,053,317 572 ‐ ‐ ‐ 3,053,889
+Loans held for investment, net 104,138 1 8,352 ‐ 122,490 105,143 4,115 72,945 ‐ 304,693 ‐ 12,136 ‐ ‐ 316,829
+Loans available for sale 157,061 ‐ ‐ 157,061 ‐ ‐ ‐ ‐ 157,061 ‐ ‐ ‐ ‐ 157,061
+Loan servicing contracts 305,048 ‐ ‐ 305,048 ‐ ‐ ‐ ‐ 305,048 ‐ ‐ ‐ ‐ 305,048
+Loans pending modification 5,888 ‐ ‐ 5,888 ‐ ‐ ‐ ‐ 5,888 ‐ ‐ ‐ ‐ 5,888
+Property and equipment 7,490 ‐ ‐ 7,490 43 ‐ ‐ ‐ 7,533 ‐ 2,682 ‐ ‐ 10,215
+Right of use lease asset 1,046 ‐ ‐ 1,046 ‐ ‐ ‐ ‐ 1,046 ‐ ‐ ‐ ‐ 1,046
+Derivative Assets 1,822 ‐ ‐ 1,822 ‐ ‐ ‐ ‐ 1,822 ‐ ‐ ‐ ‐ 1,822
+Other assets 204,564 408 ‐ 204,972 19,334 119,251 1,049 (155,845) 188,761 ‐ ‐ ‐ (130) 188,631
+Tax exempt mortgage securities asset 141,849 ‐ ‐ 141,849 ‐ ‐ ‐ ‐ 141,849 ‐ ‐ ‐ ‐ 141,849
+State of Idaho GARVEE and TECM Assets ‐ ‐ ‐ ‐ ‐ ‐ 1,229,196 ‐ 1,229,196 ‐ ‐ ‐ ‐ 1,229,196
+Deferred outflow‐‐‐interest rate swap contracts, amortized value ‐ ‐ ‐ ‐ ‐ ‐ 3 72 ‐ 3 72 ‐ ‐ ‐ ‐ 3 72
+Deferred outflow‐‐‐interest rate swap contracts, fair value ‐ ‐ ‐ ‐ ‐ ‐ 6 14 ‐ 6 14 ‐ ‐ ‐ ‐ 6 14
+Total assets and deferred outflow of resources $ 1,845,492 $ 63,638 $ ‐ $ 1,909,130 $ 127,074 $ 1 26,492 $ 4,001,004 $ (155,845) $ 6,007,855 $ 2,297 $ 16,181 $ 3 $ ( 130) $ 6,026,206
+Liabilities, Deferred Inflow of Resources,
+and Net Position
+Short Term and Other Borrowing $ 608,864 $ ‐ $ ‐ $ 608,864 $ ‐ $ ‐ $ ‐ $ ‐ $ 608,864 $ ‐ $ ‐ $ ‐ $ ‐ $ 608,864
+Bonds 127,915 ‐ ‐ 127,915 ‐ ‐ 3,866,025 ‐ 3,993,940 ‐ ‐ ‐ ‐ 3,993,940
+Tax exempt mortgage securities liability 141,848 ‐ ‐ 141,848 ‐ ‐ ‐ ‐ 141,848 ‐ ‐ ‐ ‐ 141,848
+Interest payable‐swap contract ‐ ‐ ‐ ‐ ‐ ‐ 4 01 ‐ 4 01 ‐ ‐ ‐ ‐ 4 01
+Investor remittance liability 155,261 ‐ ‐ 155,261 ‐ ‐ ‐ ‐ 155,261 ‐ ‐ ‐ ‐ 155,261
+Escrow and project reserve deposits 279,351 365 ‐ 279,716 ‐ ‐ ‐ ‐ 279,716 ‐ ‐ ‐ ‐ 279,716
+Swap contract fair value liability ‐ ‐ ‐ ‐ ‐ ‐ 1 49 ‐ 1 49 ‐ ‐ ‐ ‐ 1 49
+Derivative Liabilities 4,679 ‐ ‐ 4,679 ‐ ‐ ‐ ‐ 4,679 ‐ ‐ ‐ ‐ 4,679
+Other liabilities 220,813 5 9,340 ‐ 280,153 15 ‐ 8 28 (155,845) 125,151 183 7 ‐ ‐ 125,341
+Net Inv in capital assets 7,490 ‐ ‐ 7,490 43 ‐ ‐ ‐ 7,533 ‐ 2,682 ‐ ‐ 10,215
+Bond Funds ‐ ‐ ‐ ‐ ‐ ‐ 133,601 ‐ 133,601 ‐ ‐ ‐ ‐ 133,601
+Federal Programs ‐ 3,933 ‐ 3,933 ‐ ‐ ‐ ‐ 3,933 ‐ ‐ ‐ ‐ 3,933
+The Home Partnership Fndn, Inc ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 2,114 ‐ ‐ ‐ 2,114
+Idaho Comm Invst Holdings,LLC ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 13,492 ‐ ‐ 13,492
+Unrestricted 299,271 ‐ ‐ 299,271 127,016 126,492 ‐ ‐ 552,779 ‐ ‐ 3 (130) 552,652
+Total liabilities, deferred inflow of
+resources, and net position $ 1,845,492 $ 63,638 $ ‐ $ 1,909,130 $ 127,074 $ 1 26,492 $ 4,001,004 $ (155,845) $ 6,007,855 $ 2,297 $ 16,181 $ 3 $ ( 130) $ 6,026,206
+57
+Idaho Housing and Finance Association
+Combined Statement of Revenues, Expenses, and Changes in Net Position – Association Accounts
+Year Ended June 30, 2025
+(in thousands)
+Business Operations Rating
+General Affordable Compliance Idaho Idaho Inter‐ All
+Operating and Federally Federally Housing and Loan Combined All The Home Community Community Component Reporting
+Custodial Assisted Assisted Investment Guarantee Bondholder Interfund Association Partnership Investment Investment Unit Entity
+Accounts Program Program Combined Trust Trust Trusts (1) Eliminations Accounts Foundation Holdings, LLC Holdings, LLC Eliminations Accounts
+Statement of Revenues, Expenses and
+Changes in Net Position
+Operating Revenues
+Gains on loan sales $ 12,271 $ ‐ $ ‐ $ 12,271 $ ‐ $ ‐ $ ‐ $ ‐ $ 12,271 $ ‐ $ ‐ $ ‐ $ ‐ $ 12,271
+Interest on loans and GARVEE pledged revenues 19,259 1,135 ‐ 2 0,394 5 ,851 2,039 44,494 ‐ 72,778 ‐ ‐ ‐ ‐ 72,778
+Interest on investments 10,758 236 ‐ 1 0,994 133 181 116,745 ‐ 128,053 49 74 ‐ ‐ 128,176
+Loan servicing fees 86,235 ‐ ‐ 8 6,235 1 5 55 ‐ 86,296 ‐ ‐ ‐ ‐ 86,296
+Contract and grant administration fees 14,646 ‐ ‐ 1 4,646 ‐ ‐ ‐ ‐ 14,646 815 ‐ ‐ (815) 14,646
+Other operating revenues 8,975 80 ‐ 9,055 5 ‐ ‐ ‐ 9,060 549 ‐ ‐ (130) 9,479
+Total operating revenues 152,144 1,451 ‐ 153,595 5 ,990 2,225 161,294 ‐ 323,104 1,413 74 ‐ (945) 323,646
+Operating Expenses
+Loan acquisition costs 30,159 ‐ ‐ 3 0,159 ‐ ‐ ‐ ‐ 30,159 ‐ ‐ ‐ ‐ 30,159
+Interest 37,258 ‐ ‐ 3 7,258 ‐ ‐ 154,241 ‐ 191,499 ‐ ‐ ‐ ‐ 191,499
+Salaries and benefits 37,892 ‐ ‐ 3 7,892 ‐ ‐ ‐ ‐ 37,892 134 ‐ ‐ ‐ 38,026
+General operating 22,084 108 ‐ 2 2,192 ‐ ‐ 6,430 ‐ 28,622 144 22 ‐ ‐ 28,788
+Bond financing costs ‐ ‐ ‐ ‐ ‐ ‐ 1 71 ‐ 1 71 ‐ ‐ ‐ ‐ 1 71
+Grants to others ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 985 160 ‐ (815) 3 30
+Loss on real estate owned properties 4,199 188 ‐ 4,387 487 ‐ ‐ ‐ 4,874 ‐ ‐ ‐ ‐ 4,874
+Other operating expenses 1,563 ‐ ‐ 1,563 815 ‐ ‐ ‐ 2,378 ‐ 60 ‐ ‐ 2,438
+Total operating expenses 133,155 296 ‐ 133,451 1 ,302 ‐ 160,842 ‐ 295,595 1,263 242 ‐ (815) 296,285
+Operating Income (Loss) 18,989 1,155 ‐ 2 0,144 4 ,688 2,225 4 52 ‐ 27,509 150 (168) ‐ (130) 27,361
+Nonoperating Revenues and Expenses
+Net increase (decrease) in fair value of investments 2,170 ‐ ‐ 2,170 ‐ 63 23,875 ‐ 26,108 ‐ ‐ ‐ ‐ 26,108
+Net increase (decrease) in fair value of derivatives ( 2,354) ‐ ‐ (2,354) ‐ ‐ (704) ‐ (3,058) ‐ ‐ ‐ ‐ (3,058)
+Net increase (decrease) in fair value of servicing contracts 5,267 ‐ ‐ 5,267 ‐ ‐ ‐ ‐ 5,267 ‐ ‐ ‐ ‐ 5,267
+Federal pass‐through revenues ‐ 9 3,423 2,500 9 5,923 ‐ ‐ ‐ ‐ 95,923 ‐ ‐ ‐ ‐ 95,923
+Federal pass‐through expenses ‐ (93,079) (2,513) (95,592) ‐ ‐ ‐ ‐ ( 95,592) ‐ ‐ ‐ ‐ ( 95,592)
+Transfers (45,834) ‐ ‐ (45,834) (6,978) 50 48,454 ‐ (4,308) ‐ 4,308 ‐ ‐ ‐
+Total nonoperating revenues and expenses (40,751) 344 ( 13) (40,420) (6,978) 113 71,625 ‐ 24,340 ‐ 4,308 ‐ ‐ 28,648
+Change in Net Position (21,762) 1,499 ( 13) (20,276) (2,290) 2,338 72,077 ‐ 51,849 150 4,140 ‐ (130) 56,009
+Net Position, Beginning of Period 328,523 2,434 13 330,970 129,349 124,154 61,524 ‐ 645,997 1,964 12,034 3 ‐ 659,998
+Net Position, End of Period $ 306,761 $ 3 ,933 $ ‐ $ 310,694 $ 127,059 $ 1 26,492 $ 133,601 $ ‐ $ 697,846 $ 2,114 $ 16,174 $ 3 $ ( 130) $ 716,007
+(1) The detail of the Combined Bondholder Trusts is presented on pages 59‐60.
+58
+Idaho Housing and Finance Association
+Combined Statement of Net Position – Combined Bondholder Trusts
+June 30, 2025
+(in thousands)
+2010A 2014A 2015A 2017A 2019A 2021A Transportation Transportation Transportation
+Grant and Grant and Grant and Grant and Grant and Grant and Expansion and Expansion and Expansion and
+Revenue Revenue Revenue Revenue Revenue Revenue Congestion Congestion Congestion
+2000 2003 2006 2009 2019 Multi‐Family Anticipation Anticipation Anticipation Anticipation Anticipation Anticipation Mitigation Mitigation Mitigation Combined
+Indenture Indenture Indenture Indenture Indenture Bond Bond Bond Bond Bond Bond Bond Bond 2022A Bond 2023A Bond 2024A Bonds
+Statement of Net Position
+Assets and Deferred Outflow of Resources
+Cash and cash equivalents $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+Cash and cash equivalents held in trust or as agent ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Cash held in escrow ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Investments, fair value ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Investments held in trust, fair value 1,294 20,516 ‐ ‐ 2,017,590 452 1,959 492 1 ,999 935 628 866 9,475 101,645 538,977 2,696,828
+Loans held for investment, net 7,137 17,893 ‐ ‐ 39,915 8,000 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 7 2,945
+Loans available for sale ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Loan servicing contracts ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Loans pending modification ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Property and equipment ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Right of use lease asset ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Derivative Assets ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Other assets 142 238 1 8 634 26 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 1,049
+Tax exempt mortgage securities asset ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+State of Idaho GARVEE and TECM Assets ‐ ‐ ‐ ‐ ‐ ‐ 54,540 3 9,803 54,020 53,921 132,451 212,142 199,407 294,362 188,550 1,229,196
+Deferred outflow‐‐‐interest rate swap contracts, amortized value ‐ 344 ‐ ‐ 28 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 372
+Deferred outflow‐‐‐interest rate swap contracts, fair value ‐ (148) 762 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 614
+Total assets and deferred outflow of resources $ 8,573 $ 38,843 $ 7 63 $ 8 $ 2 ,058,167 $ 8,478 $ 56,499 $ 40,295 $ 56,019 $ 5 4,856 $ 133,079 $ 213,008 $ 208,882 $ 396,007 $ 727,527 $ 4,001,004
+Liabilities, Deferred Inflow of Resources,
+and Net Position
+Short Term and Other Borrowing $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+Bonds 1,141 25,427 ‐ ‐ 1,945,136 8,149 56,499 4 0,295 56,019 54,856 133,079 213,008 208,882 396,007 727,527 3,866,025
+Tax exempt mortgage securities liability ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Interest payable‐swap contract ‐ 358 ‐ ‐ 43 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 401
+Investor remittance liability ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Escrow and project reserve deposits ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Swap contract fair value liability ‐ 164 ‐ ‐ (15) ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 149
+Derivative Liabilities ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Other liabilities 24 94 ‐ ‐ 710 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 828
+Net Inv in capital assets ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Bond Funds 7,408 12,800 763 8 112,293 329 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 133,601
+Federal Programs ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+The Home Partnership Fndn, Inc ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Idaho Comm Invst Holdings,LLC ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Unrestricted ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Total liabilities, deferred inflow of
+resources, and net position $ 8,573 $ 38,843 $ 7 63 $ 8 $ 2 ,058,167 $ 8,478 $ 56,499 $ 40,295 $ 56,019 $ 5 4,856 $ 133,079 $ 213,008 $ 208,882 $ 396,007 $ 727,527 $ 4,001,004
+59
+Idaho Housing and Finance Association
+Combined Statement of Revenues, Expenses and Changes in Net Position – Combined Bondholder Trusts
+June 30, 2025
+(in thousands)
+2010A 2014A 2015A 2017A 2019A 2021A Transportation Transportation Transportation
+Grant and Grant and Grant and Grant and Grant and Grant and Expansion and Expansion and Expansion and
+Revenue Revenue Revenue Revenue Revenue Revenue Congestion Congestion Congestion
+2000 2003 2006 2009 2019 Multi‐Family Anticipation Anticipation Anticipation Anticipation Anticipation Anticipation Mitigation Mitigation Mitigation Combined
+Indenture Indenture Indenture Indenture Indenture Bond Bond Bond Bond Bond Bond Bond Bond 2022A Bond 2023A Bond 2024A Bonds
+Statement of Revenues, Expenses and
+Changes in Net Position
+Operating Revenues
+Gains on loan sales $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐
+Interest on loans and GARVEE pledged revenues 438 1,031 ‐ ‐ 2,000 271 3,407 1,463 1 ,676 1,337 4,321 6,194 7,348 8,969 6,039 4 4,494
+Interest on investments 77 670 ‐ ‐ 89,065 11 57 22 88 4 0 30 5 1,658 8,443 16,579 116,745
+Loan servicing fees ‐ 23 ‐ ‐ 32 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 55
+Contract and grant administration fees ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Other operating revenues ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Total operating revenues 515 1,724 ‐ ‐ 91,097 282 3,464 1,485 1 ,764 1,377 4,351 6,199 9,006 17,412 22,618 161,294
+Operating Expenses
+Loan acquisition costs ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Interest 100 1,077 761 ‐ 84,729 238 3,447 1,475 1 ,750 1,363 4,326 6,157 8,965 17,321 22,532 154,241
+Salaries and benefits ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+General operating 4 3 ‐ ‐ 6,083 ‐ 17 10 14 1 4 25 42 41 91 86 6,430
+Bond financing costs ‐ ‐ ‐ ‐ 171 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 171
+Grants to others ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Loss on real estate owned properties ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Other operating expenses ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Total operating expenses 104 1,080 761 ‐ 90,983 238 3,464 1,485 1 ,764 1,377 4,351 6,199 9,006 17,412 22,618 160,842
+Operating Income (Loss) 411 644 (761) ‐ 114 44 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 452
+Nonoperating Revenues and Expenses
+Net increase (decrease) in fair value of investments (67) 537 ‐ ‐ 23,405 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 2 3,875
+Net increase (decrease) in fair value of derivatives ‐ (619) ‐ ‐ (85) ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ (704)
+Net increase (decrease) in fair value of servicing contracts ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Federal pass‐through revenues ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Federal pass‐through expenses ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐
+Transfers 4 15 ‐ ‐ 48,430 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 5 4 8,454
+Total nonoperating revenues and expenses (63) (67) ‐ ‐ 71,750 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 5 7 1,625
+Change in Net Position 348 577 (761) ‐ 71,864 44 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ 5 7 2,077
+Net Position, Beginning of Period 7,060 12,223 1,524 8 40,429 285 ‐ ‐ ‐ ‐ ‐ ‐ ‐ ‐ (5) 6 1,524
+Net Position, End of Period $ 7,408 $ 12,800 $ 7 63 $ 8 $ 112,293 $ 329 $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ ‐ $ 133,601
+60

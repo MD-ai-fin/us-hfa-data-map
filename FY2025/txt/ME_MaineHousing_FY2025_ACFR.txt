@@ -1,0 +1,2338 @@
+Maine State Housing Authority
+Basic Financial Statements,
+Management’s Discussion and Analysis
+and Required Supplementary Information
+For the Year Ended December 31, 2025
+With Independent Auditors’ Report
+MAINE STATE HOUSING AUTHORITY
+FINANCIAL STATEMENTS
+For the Year Ended December 31, 2025
+TABLE OF CONTENTS
+Independent Auditors’ Report 1 – 2
+Management’s Discussion and Analysis 3 – 10
+Basic Financial Statements:
+Agency – Wide Financial Statements:
+Statement of Net Position 11
+Statement of Activities 12
+Fund Financial Statements:
+Statement of Net Position – Proprietary Funds 13
+Statement of Revenues, Expenses and Changes
+in Net Position – Proprietary Funds 14
+Statement of Cash Flows – Proprietary Funds 15
+Balance Sheet – Governmental Funds 16
+Statement of Revenues, Expenditures and Changes
+in Fund Balances – Governmental Funds 17
+Notes to Financial Statements 18 – 46
+Required Supplementary Information:
+Schedule of MaineHousing’s Proportionate Share of the Net Pension Liability (Asset) 47
+Schedule of MaineHousing’s Pension Contributions 47
+INDEPENDENT AUDITORS’ REPORT
+To the Board of Commissioners
+Maine State Housing Authority
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the financial statements of the governmental activities, the business-type activities, and each
+major fund of Maine State Housing Authority (MaineHousing), a component unit of the State of Maine, as of
+and for the year ended December 31, 2025, and the related notes to the financial statements, which collectively
+comprise MaineHousing’s basic financial statements as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material respects,
+the respective financial position of the governmental activities, the business-type activities, and each major
+fund of MaineHousing, as of December 31, 2025, and the respective changes in financial position, and, where
+applicable, cash flows thereof for the year then ended in accordance with accounting principles generally
+accepted in the United States of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS). Our responsibilities under those standards are further described in the Auditors’
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of MaineHousing and to meet our other ethical responsibilities in accordance with the relevant
+ethical requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in accordance
+with accounting principles generally accepted in the United States of America, and for the design,
+implementation and maintenance of internal control relevant to the preparation and fair presentation of
+financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about MaineHousing’s ability to continue as a
+going concern for twelve months beyond the financial statement date, including any currently known
+information that may raise substantial doubt shortly thereafter.
+1
+To the Board of Commissioners
+Maine State Housing Authority
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinions. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not
+a guarantee that an audit conducted in accordance with GAAS will always detect a material misstatement when
+it exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override
+of internal control. Misstatements are considered material if there is a substantial likelihood that, individually
+or in the aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether due to
+fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+include examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the MaineHousing’s internal control. Accordingly, no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that
+raise substantial doubt about MaineHousing’s ability to continue as a going concern for a reasonable
+period of time.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the Management’s
+Discussion and Analysis, Schedule of MaineHousing’s Proportionate Share of the Net Pension Liability
+(Asset) and Schedule of MaineHousing’s Pension Contributions as listed in the table of contents be presented
+to supplement the basic financial statements. Such information is the responsibility of management and,
+although not a part of the basic financial statements, is required by the Governmental Accounting Standards
+Board who considers it to be an essential part of financial reporting for placing the basic financial statements
+in an appropriate operational, economic, or historical context. We have applied certain limited procedures to
+the required supplementary information in accordance with auditing standards generally accepted in the United
+States of America, which consisted of inquiries of management about the methods of preparing the information
+and comparing the information for consistency with management’s responses to our inquiries, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial statements. We
+do not express an opinion or provide any assurance on the information because the limited procedures do not
+provide us with sufficient evidence to express an opinion or provide any assurance.
+Portland, Maine
+March 25, 2026
+2
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+Management’s discussion and analysis of the Maine State Housing Authority’s (MaineHousing) financial
+performance provides an overview of the financial activities for the year ended December 31, 2025. It should
+be read in conjunction with the audited financial statements and accompanying notes.
+FINANCIAL HIGHLIGHTS
+• MaineHousing’s net position increased by $32.7 million to $508.5 million, reflecting an overall
+improvement in financial condition driven by strong mortgage lending activity and stable credit
+performance.
+• Loan production reached a new all-time high for the second consecutive year, contributing to a
+$336.8 million increase in mortgage notes receivable.
+• Total outstanding bonds increased to $2.6 billion, up $279.6 million, driven by continued demand for
+MaineHousing’s lending programs and elevated loan production.
+• Total revenues from governmental activities declined as more programs funded with one-time federal
+and state resources concluded. The decrease was driven primarily by lower grant income, which fell
+by $30.2 million, or 19.9%.
+OVERVIEW OF MAINEHOUSING
+MaineHousing, established in 1969 as a public corporation and instrumentality of the State of Maine, provides
+financing and program administration to support affordable housing for low and moderate income households.
+MaineHousing issues bonds to finance single family and multifamily mortgages and administers a range of
+federal and state housing and energy programs.
+MaineHousing is a component unit of the State of Maine and receives appropriations and federal subawards
+to support housing related initiatives.
+OVERVIEW OF THE FINANCIAL STATEMENTS
+MaineHousing’s financial statements include:
+• Agency-wide financial statements, which present the financial position and activities of MaineHousing
+as a whole using the accrual basis of accounting.
+• Fund financial statements, which provide detailed information about major proprietary and
+governmental funds.
+• Notes to financial statements, which provide essential context and disclosures.
+• Required supplementary information, which presents historical pension information.
+The remainder of this overview section explains the structure and contents of each of these statements.
+Agency-wide Statements
+Agency-wide statements consist of the Statement of Net Position and the Statement of Activities. These
+statements present MaineHousing’s net position and results of operations and are divided into two categories:
+• Business-type activities – consist of mortgage financing on single family and multifamily residential
+properties. These activities are funded primarily through the issuance of bonds.
+3
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+• Governmental activities – consist of the administration of state and federal housing and energy-related
+programs. These activities are supported through federal grants and program agreements, as well as
+appropriations provided by the Maine State Legislature.
+Fund Financial Statements
+The fund financial statements provide more detailed information about MaineHousing’s most significant funds
+and not MaineHousing as a whole. A fund is a grouping of related accounts used to maintain control over
+resources that have been segregated for specific activities or objectives. MaineHousing has two kinds of funds:
+• Proprietary funds – present the business-type activities. The net positions of these funds represent
+accumulated earnings since their inception and subsidy amounts contributed from governmental funds.
+• Governmental funds – present the governmental activities for MaineHousing’s five major governmental
+funds. These statements focus on how cash and other financial assets flowing into the funds have
+been used.
+AN OVERVIEW OF MAINEHOUSING’S FINANCIAL POSITION AND OPERATIONS
+MaineHousing’s financial position improved in 2025, supported by continued growth in mortgage lending
+activity, stable credit performance, and strong investment results. These positive trends were partially offset
+by declining governmental grant revenues as temporary programs concluded. The following pages present a
+summary of MaineHousing’s financial position and operations for the years ended December 31, 2025 and
+2024.
+Statement of Net Position
+(in millions of dollars)
+Total
+Business-type Governmental Percentage
+Activities Activities Total Change
+2025 2024 2025 2024 2025 2024
+Cash and investments $727.4 $791.9 $122.4 $93.2 $849.8 $885.1 (4.0%)
+Mortgage notes receivable 2,261.7 1,939.8 115.5 100.6 2,377.2 2,040.4 16.5%
+Other assets (net of internal balances) 44.3 48.4 10.4 10.3 54.7 58.7 (6.8%)
+Total Assets 3,033.4 2,780.1 248.3 204.1 3,281.7 2,984.2 10.0%
+Total Deferred Outflows
+of Resources 2.1 2.3 1.7 0.3 3.8 2.6 46.2%
+Bonds and notes payable 2,571.3 2,289.1 44.4 47.7 2,615.7 2,336.8 11.9%
+Other liabilities (includes internal balances) 53.2 101.6 93.8 52.4 147.0 154.0 (4.5%)
+Total Liabilities 2,624.5 2,390.7 138.2 100.1 2,762.7 2,490.8 10.9%
+Total Deferred Inflows
+of Resources 14.1 19.9 0.2 0.3 14.3 20.2 (29.2%)
+Investment in capital assets 3.6 3.7 0.0 0.0 3.6 3.7 (2.7%)
+Restricted 350.6 327.2 111.6 104.0 462.2 431.2 7.2%
+Unrestricted 42.7 40.9 0.0 0.0 42.7 40.9 4.4%
+Total Net Position $396.9 $371.8 $111.6 $104.0 $508.5 $475.8 6.9%
+4
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+Total assets increased by $297.5 million, or 10%, to $3.28 billion, driven primarily by growth in mortgage
+notes receivable. Total liabilities increased $271.9 million, or 10.9%, to $2.76 billion, as a result of additional
+bond issuances to support lending programs. Net position improved by $32.7 million and totaled $508.5 million
+at December 31, 2025.
+Cash and Investments
+Cash and investments decreased by $35.3 million, primarily due to program disbursements and lower
+undisbursed bond proceeds. Investments are reported at fair value, with unrealized gains and losses from
+market fluctuations recognized in revenues. In 2025, the portfolio’s fair value increased, resulting in
+$6.9 million in unrealized gains, compared with $2.5 million in unrealized losses recorded in 2024.
+Mortgage Notes Receivable
+Mortgage notes receivable increased by $336.8 million or 16.5%, reflecting continued strong demand for single
+family and multifamily financing. Mortgage purchases and originations totaled $524.1 million, a $67.2 million
+or 14.7% increase compared with 2024. Growth was driven largely by single family activity, where loan
+purchases rose to $321.2 million, an increase of $110.2 million, or 52.2%, from the prior year.
+Loan prepayments increased to $68.3 million, a $21.2 million or 45.1% rise from the prior year. This increase
+was largely attributable to declining interest rates, which prompted more borrowers to refinance single family
+loans outside of MaineHousing. Loan foreclosures totaled $2.9 million in 2025 compared with $1.1 million in
+2024, remaining low relative to the overall portfolio.
+Deferred Outflows of Resources
+Deferred outflows consist of deferred amounts associated with debt refundings, pension expenses, and
+program advances, and increased by $1.2 million. The increase is due primarily to higher balances associated
+with advanced program payments made to grantees with ongoing eligibility requirements.
+Bonds and Notes Payable
+Bonds and notes payable increased by $278.9 million, or 11.9%, consistent with financing needs for mortgage
+lending. For additional details, see the Debt Administration Section of the Management’s Discussion and
+Analysis.
+Deferred Inflows of Resources
+Deferred inflows consist mainly of the accumulated increase in the fair value of interest rate swap agreements
+and deferred pension credits, and decreased $5.9 million or 29.2% primarily as a result of an aggregate
+decrease in the fair value of interest rate swaps.
+5
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+Net Position
+Net Position increased by $32.7 million, or 6.9%, as a result of program operations and financing activities.
+The results of operations are presented on the following table for the years ended December 31, 2025 and
+2024:
+Agency-wide Changes in Net Position
+(in millions of dollars)
+Increase/(Decrease)
+2025 2024 Amount Percentage
+Revenues:
+Interest from mortgages and notes $95.3 $78.6 $16.7 21.2%
+Income from investments 31.2 32.6 (1.4) (4.3%)
+Net increase (decrease) in fair value
+of investments 6.9 (2.5) 9.4 376.0%
+Fee income 20.8 17.1 3.7 21.6%
+Grants and subsidies 263.2 283.4 (20.2) (7.1%)
+Other 0.2 0.7 (0.5) (71.4%)
+Total revenues 417.6 409.9 7.7 1.9%
+Expenses:
+Operating and other program expenses 41.7 36.4 5.3 14.6%
+Interest expense 82.7 67.4 15.3 22.7%
+Grants and subsidies 260.5 281.5 (21.0) (7.5%)
+Total expenses 384.9 385.3 (0.4) (0.1%)
+Increase in net position 32.7 24.6 8.1 32.9%
+Net position at beginning of year 475.8 451.2 24.6 5.5%
+Net position at end of year $508.5 $475.8 $32.7 6.9%
+Changes in business-type and governmental activities are explained in the following Results of Operations
+sections.
+6
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+RESULTS OF OPERATIONS – BUSINESS-TYPE ACTIVITIES
+The net position of the business-type activities increased by $25.1 million, or 6.8%, and totaled $396.9 million.
+The following table summarizes the Statement of Revenues, Expenses and Changes in Net Position for the
+years ended December 31, 2025 and December 31, 2024:
+Business-Type Activities
+Statement of Revenues, Expenses and Changes in Net Position
+(in millions of dollars)
+Increase/(Decrease)
+2025 2024 Amount Percentage
+Operating Revenues:
+Interest from mortgages and notes $95.1 $78.3 $16.8 21.5%
+Income from investments 27.1 28.8 (1.7) (5.9%)
+Net increase (decrease) in fair value
+of investments 6.9 (2.5) 9.4 376.0%
+Fee income 6.5 3.9 2.6 66.7%
+Other revenue 0.1 0.6 (0.5) (83.3%)
+Total revenues 135.7 109.1 26.6 24.4%
+Operating Expenses:
+Operating and other program expenses 31.2 26.2 5.0 19.1%
+Interest expense 81.7 66.4 15.3 23.0%
+Total expenses 112.9 92.6 20.3 21.9%
+Net Operating income 22.8 16.5 6.3 38.2%
+Transfers in 2.3 2.4 (0.1) 4.2%
+Change in net position 25.1 18.9 6.2 32.8%
+Net position at beginning of year 371.8 352.9 18.9 5.4%
+Net position at end of year $396.9 $371.8 $25.1 6.8%
+Operating revenues of the business-type activities are generated principally from earnings on mortgages and
+investments. Total revenues from business-type activities increased $26.6 million or 24.4% in 2025 and
+amounted to $135.7 million. Operating expenses of business-type activities consist primarily of interest
+expense on debt incurred to fund lending programs. Expenses for business-type activities totaled
+$112.9 million, which is an increase of $20.3 million or 21.9%.
+The 2025 operating results and net position were significantly affected by the following:
+• Interest earned from mortgages and notes increased by $16.8 million or 21.5% due mainly to an increase
+in single family loan purchases and higher average outstanding mortgage receivable balances.
+• Income from investments decreased by $1.7 million or 5.9% due to a decrease in short-term rates and
+lower average investment yields.
+• Interest rate changes during the year generated an unrealized gain of $6.9 million, which is a $9.4 million
+increase compared with the unrealized loss of $2.5 million recorded in 2024.
+7
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+• Fee income, which is largely from multifamily loan originations and low-income housing tax credit project
+monitoring, increased by $2.6 million in 2025 due to higher activity levels.
+• Interest expense increased by $15.3 million, or 23%, driven by higher outstanding bond balances.
+Additional bond proceeds were required to fund the elevated level of loan production in 2025.
+• Operating and other program administrative expenses increased by $5 million or 19.1%. The increase is
+largely due to higher single family loan origination and servicing fees, which increased by a combined
+amount of $2.4 million, and a $1.3 million increase in arbitrage liabilities. Additionally, unusual or
+infrequent expenses in the amount of $0.7 were recorded in 2025 for the repayment of funds from the
+Emergency Rental Assistance Programs to the U.S. Department of the Treasury.
+RESULTS OF OPERATIONS – GOVERNMENTAL ACTIVITIES
+The governmental activities net position increased by $7.6 million or 7.3% and totaled $111.6 million at
+December 31, 2025. The following table summarizes the Statement of Revenues, Expenditures, and Changes
+in Fund Balances for the years ended December 31, 2025 and December 31, 2024:
+Governmental Activities
+Statement of Revenues, Expenditures, and Changes in Fund Balances
+(in millions of dollars)
+Increase/(Decrease)
+2025 2024 Amount Percentage
+Revenues:
+Interest from mortgages and notes $0.2 $0.3 ($0.1) (33.3%)
+Income from investments 4.1 3.8 0.3 7.9%
+Fee income 14.3 13.2 1.1 8.3%
+Grant income 121.9 152.1 (30.2) (19.9%)
+Federal rent subsidy income 141.3 131.3 10.0 7.6%
+Other revenue 0.1 0.1 0.0 0.0%
+Total revenues 281.9 300.8 (18.9) (6.3%)
+Expenditures:
+Program administrative expenditures 10.5 10.2 0.3 2.9%
+Interest expenditures 1.0 1.0 0.0 0.0%
+Grant expenditures 119.6 150.3 (30.7) (20.4%)
+Federal rent subsidy expenditures 140.9 131.2 9.7 7.4%
+Total expenditures 272.0 292.7 (20.7) (7.1%)
+Revenues in excess of expenditures 9.9 8.1 1.8 22.2%
+Transfers out (2.3) (2.4) 0.1 4.2%
+Change in fund balances 7.6 5.7 1.9 33.3%
+Fund balances at beginning of year 104.0 98.3 5.7 5.8%
+Fund balances at end of year $111.6 $104.0 $7.6 7.3%
+Revenues from governmental activities are generated primarily from federal grants and rent subsidy income.
+Program revenues are also received from the State of Maine. Revenues from governmental activities totaled
+$281.9 million in 2025, which is a decrease of $18.9 million or 6.3%. Expenditures associated with
+governmental activities consist primarily of federal grants and rent subsidies payments. Total expenditures
+decreased $20.7 million or 7.1% to $272 million in 2025.
+8
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+Fees are earned for administering federal programs, which amounted to $14.3 million in 2025. Typically, fees
+earned provide a revenue source adequate to recover direct and indirect costs of delivering related services.
+The 2025 operating results of governmental activities were significantly affected by the following:
+• Grant income decreased by $30.2 million or 19.9% due to reduced federal and state funding. Federal
+grant income decreased $20.4 million or 27.6% primarily because several COVID-19 relief programs
+ended. COVID-19 relief funding totaled $6.6 million in 2025, down $17.7 million or 72.9% from 2024.
+State of Maine grant income decreased by $9.8 million or 12.5% following the full use of one-time
+funding for several programs and lower revenues provided to the HOME Fund, which is supported
+primarily by state-collected real estate transfer taxes.
+• Federal rent subsidy income, which is income associated with various HUD Section 8 programs,
+increased $10 million or 7.6% due to higher available funding for the Section 8 Housing Choice Voucher
+(HCV) and Performance Based Contract Administration (PBCA) programs. The HCV and PBCA programs
+income increased by $2.5 million and $7.6 million, respectively.
+• Administrative fee income increased by $1.1 million or 8.3% due mainly to higher fees earned from the
+Section 8 HCV and PBCA programs. Combined fee income from these programs increased by
+$1.3 million.
+• Grant expenditures decreased by $30.7 million or 20.4% due to the reduction in available federal and
+state program funds, while federal rent subsidy expenditures increased $9.7 million or 7.4% due to
+higher available income for the Section 8 HCV and PBCA programs.
+DEBT ADMINISTRATION
+Total bonds outstanding at December 31, 2025 amounted to $2.6 billion, an increase of $279.5 million or 12%
+from 2024. Bond issuances totaled $446.3 million, while principal payments on bonds totaled $167.7 million.
+A total of $117 million of bonds were redeemed prior to maturity from reserve funds, mortgage prepayments,
+surplus revenues, and the proceeds of bond refundings. Scheduled principal payments on bonds totaled
+$50.7 million.
+Variable-rate bonds totaled $278.3 million at December 31, 2025, representing 10.7% of the bond portfolio.
+Interest rate swaps are used to synthetically fix rates on a portion of this debt and twelve interest rate swap
+agreements have been executed with four counterparties in connection with $201.7 million variable rate bonds.
+Bonds in MaineHousing’s General Mortgage Purchase Bond Resolution were rated Aa1 and AA+ by Moody’s
+Investor Service and Standard & Poor’s, respectively, in 2025.
+Loan agreements may be entered into for program and capital funding purposes. At December 31, 2025,
+MaineHousing had $12.3 million in outstanding notes payable in its General Administrative Fund, which is a
+decrease of $0.7 million as a result of scheduled principal payments. The proceeds from this note provided
+capital funding for the development of an office facility for MaineHousing.
+For additional information about MaineHousing’s mortgage bonds and notes payables, see Notes 6, 7, 9, 14,
+and 17 to the financial statements.
+CAPITAL ASSETS
+MaineHousing’s capital assets consist primarily of its administrative facility. No significant additions or disposals
+occurred in 2025, and capital assets did not materially affect overall financial results. Capital assets are
+presented in the financial statements at $16 million, net of accumulated depreciation.
+9
+Maine State Housing Authority
+Management’s Discussion and Analysis
+December 31, 2025
+ECONOMIC FACTORS AND OTHER INFORMATION
+The primary business activity of MaineHousing is funding the purchase of single family home mortgages,
+originating multifamily development loans, and administering various federal and state funded programs.
+Financing activities are sensitive to the level of interest rates, the spread between the rate available on
+MaineHousing loans and those available in the conventional mortgage markets, the availability of private
+activity bond volume cap, and the availability of affordable housing. The availability of tax-exempt and taxable
+financing on favorable terms is a key element in providing the funding necessary for MaineHousing to continue
+its mortgage financing activities. MaineHousing’s primary revenue sources include interest earned on
+mortgage loans, investment income, and federal and state grants and subsidies.
+Market interest rates impact both mortgage program revenues and investment income. Following the elevated
+rate environment of 2023 and 2024, interest rates began to stabilize and modestly decline during 2025. As a
+result, interest income on the existing mortgage and investment portfolios remained favorable, while yields on
+new loan originations and reinvested funds began to reflect the lower-rate environment. Prepayments on
+single family mortgages increased from the exceptionally low levels experienced in 2023 and 2024, leading to
+a moderate rise in bond redemptions prior to maturity.
+Federal and state funded grants and subsidies are subject to annual appropriations. Pandemic-related
+emergency funding concluded, and federal support shifted toward ongoing housing affordability, energy
+assistance, and community development initiatives. MaineHousing continued to administer a range of
+programs designed to support low and moderate income households, including rental and homeowner
+assistance, energy-related aid, and homelessness prevention initiatives.
+Demand for affordable housing and related services remains strong statewide and the State of Maine’s budget
+continues to include substantial amounts for housing and energy affordability. Funding included resources to
+expand affordable housing production, and provide services aimed at preventing homelessness and addressing
+housing instability. MaineHousing is a key administrator of these programs, working with state and local
+partners to deliver assistance and advance statewide housing goals.
+REQUESTS FOR INFORMATION
+The purpose of this financial report is to provide information needed to understand MaineHousing’s financial
+position and results of operations for the year ended December 31, 2025. Inquiries for additional information
+may be directed to the Director of Finance at Maine State Housing Authority, 26 Edison Drive, Augusta, Maine
+04330-6046, at (207) 626-4600 or at www.mainehousing.org.
+10
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF NET POSITION
+DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Business-type Governmental
+Activities Activities Total
+ASSETS:
+Current Assets:
+Cash, principally time deposits (note 3) $88,499 $8,981 $97,480
+Investments (notes 3, 9, and 11) 429,786 113,458 543,244
+Accounts receivable - government 0 9,766 9,766
+Mortgage notes receivable, net (note 4) 58,350 10 58,360
+Other assets (note 5) 14,135 647 14,782
+Internal balances (note 13) (21,963) 21,963 0
+Total Current Assets 568,807 154,825 723,632
+Noncurrent Assets:
+Investments (notes 3, 9, and 11) 209,104 0 209,104
+Mortgage notes receivable, net (note 4) 2,203,331 115,498 2,318,829
+Capital assets, net 16,031 0 16,031
+Other real estate owned, net 364 0 364
+Derivative instrument - interest rate swaps (note 7) 13,740 0 13,740
+Total Noncurrent Assets 2,442,570 115,498 2,558,068
+Total Assets 3,011,377 270,323 3,281,700
+DEFERRED OUTFLOWS OF RESOURCES:
+Deferred pension expense (note 8) 536 275 811
+Deferred amount on debt refundings 1,537 0 1,537
+Program advances 0 1,439 1,439
+Total Deferred Outflows of Resources 2,073 1,714 3,787
+LIABILITIES:
+Current Liabilities:
+Accrued interest payable 11,917 55 11,972
+Accounts payable - government 0 3,497 3,497
+Accounts payable and accrued liabilities 15,006 5,362 20,368
+Unearned income 0 106,402 106,402
+Bonds and notes payable (notes 6, 9, 14, and 17) 106,225 3,085 109,310
+Total Current Liabilities 133,148 118,401 251,549
+Noncurrent Liabilities:
+Excess arbitrage to be rebated (note 12) 3,207 0 3,207
+Pension liability (note 8) 1,023 527 1,550
+Bonds and notes payable (notes 6, 9, 14, and 17) 2,465,064 41,279 2,506,343
+Total Noncurrent Liabilities 2,469,294 41,806 2,511,100
+Total Liabilities 2,602,442 160,207 2,762,649
+DEFERRED INFLOWS OF RESOURCES:
+Accumulated increase in fair value
+of hedging derivatives (note 7) 13,740 0 13,740
+Deferred loan origination points 12 0 12
+Deferred pension credit (note 8) 364 187 551
+Total Deferred Inflows of Resources 14,116 187 14,303
+NET POSITION:
+Net investment in capital assets 3,556 0 3,556
+Restricted for bond resolutions 350,603 0 350,603
+Restricted for grants and programs 0 111,643 111,643
+Unrestricted 42,733 0 42,733
+Total Net Position $396,892 $111,643 $508,535
+See accompanying notes to the financial statements
+11
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF ACTIVITIES
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Program Revenues Net Revenue (Expense) and Changes in Net Position
+Charges for Investment Grants and Business-type Governmental
+Functions/Programs Expenses Services Income Contributions Activities Activities Total
+Business-type activities:
+Mortgage Purchase Fund $109,258 $99,480 $32,897 $0 $23,119 $0 $23,119
+Bondholder Reserve Fund 85 88 297 0 300 0 300
+General Administrative Fund 2,901 2,166 0 0 (735) 0 (735)
+Total business-type activities 112,244 101,734 33,194 0 22,684 0 22,684
+Governmental activities:
+HOME Fund 24,375 236 889 23,285 0 35 35
+Section 8 Housing Programs 146,270 9,082 22 141,287 0 4,121 4,121
+Low Income Home Energy Assistance Program 33,203 1,161 16 32,015 0 (11) (11)
+Maine Energy, Housing and Economic Recovery Program 2,034 44 658 4,317 0 2,985 2,985
+Other Federal and State Programs 66,127 4,018 2,551 62,276 0 2,718 2,718
+Total governmental activities 272,009 14,541 4,136 263,180 0 9,848 9,848
+Total Agency-wide $384,253 $116,275 $37,330 $263,180 22,684 9,848 32,532
+General Revenues:
+Unrestricted investment income 829 0 829
+Transfers 2,280 (2,280) 0
+Unusual or infrequent item (655) 0 (655)
+Total general revenues, transfers and unusual or infrequent items 2,454 (2,280) 174
+Change in Net Position 25,138 7,568 32,706
+Net Position at beginning of year 371,754 104,075 475,829
+Net Position at end of year $396,892 $111,643 $508,535
+See accompanying notes to the financial statements
+12
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF NET POSITION
+PROPRIETARY FUNDS
+DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Mortgage Bondholder General
+Purchase Reserve Administrative
+Fund Fund Fund Total
+ASSETS:
+Current Assets:
+Cash, principally time deposits (note 3) $ 38,626 $ 0 $ 49,873 $ 88,499
+Investments (notes 3, 9, and 11) 401,953 7,404 20,429 429,786
+Mortgage notes receivable, net (note 4) 57,630 571 149 58,350
+Other assets (note 5) 13,948 13 174 14,135
+Interfund (note 13) 0 0 5,533 5,533
+Total Current Assets 512,157 7,988 76,158 596,303
+Noncurrent Assets:
+Investments (notes 3, 9, and 11) 209,104 0 0 209,104
+Mortgage notes receivable, net (note 4) 2,197,746 1,080 4,505 2,203,331
+Capital assets, net 22 0 16,009 16,031
+Other real estate owned, net 364 0 0 364
+Derivative instrument - interest rate swaps (note 7) 13,740 0 0 13,740
+Total Noncurrent Assets 2,420,976 1,080 20,514 2,442,570
+Total Assets 2,933,133 9,068 96,672 3,038,873
+DEFERRED OUTFLOWS OF RESOURCES:
+Deferred pension expense (note 8) 441 3 92 536
+Deferred amount on debt refundings 1,537 0 0 1,537
+Total Deferred Outflows of Resources 1,978 3 92 2,073
+LIABILITIES:
+Current Liabilities:
+Accrued interest payable 11,917 0 0 11,917
+Accounts payable and accrued liabilities 405 0 14,601 15,006
+Interfund (note 13) 4,105 24 23,367 27,496
+Bonds and notes payable (notes 6, 9, 14, and 17) 105,525 0 700 106,225
+Total Current Liabilities 121,952 24 38,668 160,644
+Noncurrent Liabilities:
+Excess arbitrage to be rebated (note 12) 3,207 0 0 3,207
+Pension liability (note 8) 844 5 174 1,023
+Bonds and notes payable (notes 6, 9, 14, and 17) 2,453,471 0 11,593 2,465,064
+Total Noncurrent Liabilities 2,457,522 5 11,767 2,469,294
+Total Liabilities 2,579,474 29 50,435 2,629,938
+DEFERRED INFLOWS OF RESOURCES:
+Accumulated increase in fair value
+of hedging derivatives (note 7) 13,740 0 0 13,740
+Deferred loan origination points 12 0 0 12
+Deferred pension credit (note 8) 300 2 62 364
+Total Deferred Inflows of Resources 14,052 2 62 14,116
+NET POSITION:
+Net investment in capital assets 22 0 3,534 3,556
+Restricted for bond resolutions 341,563 9,040 0 350,603
+Unrestricted 0 0 42,733 42,733
+Total Net Position $341,585 $9,040 $46,267 $396,892
+See accompanying notes to the financial statements
+13
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+PROPRIETARY FUNDS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Mortgage Bondholder General
+Purchase Reserve Administrative
+Fund Fund Fund Total
+OPERATING REVENUES:
+Interest from mortgages and notes $94,792 $88 $240 $95,120
+Income from investments 25,977 297 0 26,274
+Net increase in the fair value of investments 6,920 0 0 6,920
+Fee income 4,636 0 1,837 6,473
+Other revenue 52 0 89 141
+Total Operating Revenues 132,377 385 2,166 134,928
+OPERATING EXPENSES:
+Operating expenses 14,458 85 2,883 17,426
+Other program administrative expenses 9,284 0 10 9,294
+Mortgage servicing fees 2,296 0 8 2,304
+Losses on foreclosed real estate 50 0 0 50
+Loss on bond redemption (note 14) 166 0 0 166
+Interest expense 81,736 0 0 81,736
+Excess arbitrage (note 12) 1,268 0 0 1,268
+Total Operating Expenses 109,258 85 2,901 112,244
+Operating Income (Loss) 23,119 300 (735) 22,684
+NONCAPITAL SUBSIDIES AND OTHER
+NONOPERATING REVENUES:
+Unrestricted income from investments 0 0 829 829
+Transfers in - interfund revenues (note 13) 28 0 2,138 2,166
+Transfers in - restricted for capital assets (note 13) 0 0 114 114
+Total Noncapital Subsidies and Other Nonoperating
+Revenues 28 0 3,081 3,109
+Income Before Unusual or Infrequent Items 23,147 300 2,346 25,793
+UNUSUAL OR INFREQUENT ITEMS
+Loss from repayment of federal program funds (note 15) 0 0 (655) (655)
+Change in Net Position 23,147 300 1,691 25,138
+Net Position at beginning of year 318,438 8,740 44,576 371,754
+Net Position at end of year $341,585 $9,040 $46,267 $396,892
+See accompanying notes to the financial statements
+14
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF CASH FLOWS
+PROPRIETARY FUNDS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Mortgage Bondholder General
+Purchase Reserve Administrative
+Fund Fund Fund Total
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Interest receipts from borrowers $93,174 $88 $241 $93,503
+Principal receipts on mortgages and notes - scheduled 113,448 571 2,452 116,471
+Principal receipts on mortgages and notes - prepayments 62,843 0 181 63,024
+Payments for operating expenses (14,206) (15) (921) (15,142)
+Payments for personnel expenses (11,832) (70) (1,962) (13,864)
+Investment in mortgages and other notes (503,247) (88) (434) ( 503,769)
+Other 3,545 (2) (12,130) (8,587)
+Net cash provided by (used for) operating activities (256,275) 484 (12,573) (268,364)
+CASH FLOWS FROM CAPITAL AND RELATED FINANCING ACTIVITIES:
+Acquisition of capital assets 0 0 (327) (327)
+Principal payments on capital debt 0 0 (677) (677)
+Interest payments on capital debt 0 0 (411) (411)
+Payment on subscription liabilities 0 0 (172) (172)
+Net cash used for capital and related financing activities 0 0 (1,587) (1,587)
+CASH FLOWS FROM NON-CAPITAL FINANCING ACTIVITIES:
+Proceeds from sale of bonds 446,977 0 0 446,977
+Principal payments on bonds (164,590) 0 0 (164,590)
+Interest payments on bonds (79,280) 0 0 (79,280)
+Payments (to) from other funds (722) 3 (33,116) (33,835)
+Net cash provided by (used for) non-capital financing activities 202,385 3 (33,116) 169,272
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Proceeds from disposition of foreclosed real estate 1,773 0 10 1,783
+Purchase of investments (1,176,347) (784) 0 (1,177,131)
+Sales and maturity of investments 1,226,000 0 13,994 1,239,994
+Interest received on investments 18,604 297 830 19,731
+Net cash provided by (used for) investing activities 70,030 (487) 14,834 84,377
+Net increase (decrease) in cash 16,140 0 (32,442) (16,302)
+Cash at beginning of year 22,486 0 82,315 104,801
+Cash at end of year $38,626 $0 $49,873 $88,499
+RECONCILIATION OF OPERATING INCOME (LOSS) TO NET CASH PROVIDED BY (USED FOR) OPERATING ACTIVITIES:
+Operating income (loss) $23,119 $300 ($735) $22,684
+Adjustments to reconcile operating income (loss) to net cash
+provided by (used for) operating activities:
+Depreciation and amortization 527 0 1,313 1,840
+Interest on bonds and notes 81,209 0 411 81,620
+Losses on foreclosed real estate 50 0 0 50
+Loss on bond redemption 166 0 0 166
+Pension expense 79 0 16 95
+Interest income on investments (25,977) (297) 0 (26,274)
+Net increase in fair value of investments (6,920) 0 0 (6,920)
+Changes in operating assets and liabilities:
+Other assets (1,159) 0 108 (1,051)
+Pension contributions (417) 0 (86) (503)
+Mortgage note interest receivable (1,618) 0 1 (1,617)
+Accounts payable and accrued liabilities 1,622 (2) (15,800) (14,180)
+Investment in mortgage and other notes (503,247) (88) (434) (503,769)
+Mortgage & other note principal repayments 176,291 571 2,633 179,495
+Net cash provided by (used for) operating activities ($256,275) $484 ($12,573) ($268,364)
+SUPPLEMENTAL DISCLOSURE OF NON-CASH INFORMATION:
+Transfer from mortgage notes receivable to other assets
+and other real estate owned $2,898 $0 $0 $2,898
+See accompanying notes to the financial statements
+15
+MAINE STATE HOUSING AUTHORITY
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Low Income Maine Energy, Other
+Section 8 Home Energy Housing & Federal
+HOME Housing Assistance Economic and State
+Fund Programs Program Recovery Fund Programs Total
+ASSETS:
+Current Assets:
+Cash, principally time deposits (note 3) $0 $6,830 $1,266 $0 $885 $8,981
+Investments (notes 3, 9, and 11) 10,481 0 0 13,271 89,706 113,458
+Accounts receivable - government 2,379 119 2,278 0 4,990 9,766
+Mortgage notes receivable, net (note 4) 10 0 0 0 0 10
+Other assets 131 232 0 61 223 647
+Interfund (note 13) 5,063 29 0 0 20,042 25,134
+Total Current Assets 18,064 7,210 3,544 13,332 115,846 157,996
+Noncurrent Assets:
+Mortgage notes receivable, net (note 4) 70,371 0 0 45,127 0 115,498
+Total Noncurrent Assets 70,371 0 0 45,127 0 115,498
+Total Assets 88,435 7,210 3,544 58,459 115,846 273,494
+DEFERRED OUTFLOWS OF RESOURCES:
+Program advances 1,439 0 0 0 0 1,439
+Total Assets and Deferred Outflows of Resources $89,874 $7,210 $3,544 $58,459 $115,846 $274,933
+LIABILITIES:
+Current Liabilities:
+Accrued interest payable $0 $0 $0 $55 $0 $55
+Accounts payable - government 0 472 349 0 2,676 3,497
+Accounts payable and accrued liabilities 1,643 325 1,225 0 2,169 5,362
+Unearned income 0 0 757 0 105,645 106,402
+Interfund (note 13) 29 317 1,084 3 2 1,435
+Bonds payable (notes 6 and 9) 0 0 0 3,085 0 3,085
+Total Current Liabilities 1,672 1,114 3,415 3,143 110,492 119,836
+Noncurrent Liabilities:
+Bonds payable (notes 6 and 9) 0 0 0 41,279 0 41,279
+Total Non Current Liabilities 0 0 0 41,279 0 41,279
+Total Liabilities 1,672 1,114 3,415 44,422 110,492 161,115
+FUND BALANCES:
+Restricted by program requirements 88,202 6,096 129 0 5,354 99,781
+Nonspendable 0 0 0 14,037 0 14,037
+Total Fund Balances 88,202 6,096 129 14,037 5,354 113,818
+Total Liabilities and Fund Balances $89,874 $7,210 $3,544 $58,459 $115,846 $274,933
+RECONCILIATION OF THE GOVERNMENTAL FUNDS BALANCE SHEET TO THE STATEMENT OF NET POSITION
+Total fund balances in governmental funds $113,818
+Amounts reported for governmental activities in the Statement of Net Position are different because:
+Pension expense deferrals reported as deferred outflows of resources in governmental activities are
+not financial resources and therefore are not reported in the governmental funds. 275
+Pension liabilities reported in governmental activities are not due and payable in the current
+period and therefore are not reported in the governmental funds. (527)
+Pension credit deferrals reported as deferred inflows of resources in governmental activities are
+not available to pay for current period expenditures and therefore are not reported in the governmental funds. (187)
+Interfund balances related to the allocation of pension liabilities and deferrals of resources reported in
+governmental activities are not due and payable in the current period and therefore not reported in the
+governmental funds. (1,736)
+Net Position of governmental activities $111,643
+See accompanying notes to the financial statements
+16
+MAINE STATE HOUSING AUTHORITY
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+GOVERNMENTAL FUNDS
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Low Income Maine Energy, Other
+Section 8 Home Energy Housing & Federal
+HOME Housing Assistance Economic and State
+Fund Programs Program Recovery Fund Programs Total
+REVENUES:
+Interest from mortgages and notes $168 $0 $0 $44 $0 $212
+Income from investments 889 22 16 658 2,551 4,136
+Fee income 0 9,068 1,161 0 4,018 14,247
+Other revenue 68 14 0 0 0 82
+Grant income 23,285 0 32,015 4,317 62,276 121,893
+Federal rent subsidy income 0 141,287 0 0 0 141,287
+Total Revenues 24,410 150,391 33,192 5,019 68,845 281,857
+EXPENDITURES:
+Operating expenditures 0 5,114 1,093 0 2,733 8,940
+Other program administrative expenditures 0 215 28 3 1,078 1,324
+Provision for losses on loans (note 4) 185 0 0 0 0 185
+Grant expenditures 24,190 2 32,076 1,066 62,301 119,635
+Federal rent subsidy 0 140,911 0 0 0 140,911
+Interest 0 0 0 965 0 965
+Total Expenditures 24,375 146,242 33,197 2,034 66,112 271,960
+Revenues in Excess of (Less Than) Expenditures 35 4,149 (5) 2,985 2,733 9,897
+Transfers between funds, net (note 13) (34) (2,030) (4) 0 (212) (2,280)
+Change in Fund Balances 1 2,119 (9) 2,985 2,521 7,617
+Fund Balances at beginning of year 88,201 3,977 138 11,052 2,833 106,201
+Fund Balances at end of year $88,202 $6,096 $129 $14,037 $5,354 $113,818
+RECONCILIATION OF THE STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN NET POSITION
+OF GOVERNMENTAL FUNDS TO THE STATEMENT OF ACTIVITIES
+Change in Fund Balances - total governmental funds $7,617
+Amounts reported for governmental activities in the Statement of Activities are different because:
+Expenses reported in the Statement of Activities include a pension expense, which does not effect the use of
+current financial resources and therefore is not reported as an expenditure in the governmental funds. (49)
+Change in Net Position of governmental activities $7,568
+See accompanying notes to the financial statements
+17
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(1.) ORGANIZATION AND NATURE OF OPERATIONS
+The Maine State Housing Authority (MaineHousing) is a public corporation and an instrumentality of the State
+of Maine established under the provisions of the Maine Housing Authorities Act, Title 30-A, Chapter 201, of
+the Maine Revised Statutes, as amended. MaineHousing is authorized to issue bonds for the purchase or
+origination of notes and mortgages on single-family and multi-family residential properties for the purpose of
+providing housing for persons and families of low income in the State of Maine. MaineHousing also administers
+various housing and energy-related state and federal programs and collects and disburses federal rent
+subsidies for low-income housing.
+For financial reporting purposes, MaineHousing is considered a component unit of the State of Maine and the
+financial condition and results of operations of MaineHousing are included in the State’s financial statements.
+(2.) SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+MaineHousing’s financial statements are prepared in accordance with Governmental Accounting Standards
+Board (GASB) statements and are comprised of three components: 1) agency-wide financial statements,
+2) fund financial statements, and 3) notes to the financial statements.
+The financial statements include all of the organization’s activities and functions for which MaineHousing is
+financially accountable. Determination of financial accountability includes, among other factors, appointment
+of a voting majority of the component’s governing body and (1) ability to impose its will over the component
+unit or (2) the possibility that the component unit will provide a financial benefit to, or impose a financial
+burden on, MaineHousing. Based on the preceding criteria, the accompanying financial statements do not
+include the financial activities of any entity other than MaineHousing.
+The agency-wide financial statements are comprised of a Statement of Net Position and Statement of Activities,
+which are prepared using the economic resources measurement focus and the accrual basis of accounting.
+These statements reflect all of the assets, liabilities, revenues, expenses, deferred inflows, deferred outflows,
+gains and losses of business-type and governmental activities. Interfund balances entirely within the
+proprietary funds and governmental funds are eliminated from the Statement of Net Position; remaining
+amounts are shown as Internal Balances.
+The business-type activities, which include single-family and multi-family loan programs, are classified as
+proprietary funds. Proprietary funds are reported using the accrual basis of accounting and revenues are
+recorded when earned and expenses when incurred. The governmental activities reflect the administration of
+the various programs for the State of Maine and the federal government. Governmental funds are reported
+using the modified accrual basis and revenues are recorded when they become available and measurable and
+expenses when incurred. Revenues from grants and programs are generally considered “available” if eligibility
+and time restrictions have been satisfied and if received within three months of the balance sheet date. Grants
+received in advance of the period in which they can be used are reported as deferred inflows of resources.
+Separate fund financial statements are provided for proprietary and governmental funds. The fund financial
+statements have been prepared in accordance with accounting principles generally accepted in the United
+States of America applicable to governmental entities, which provides that accounting systems be organized
+by funds to account for specific activities consistent with legal and operating requirements. Major individual
+governmental funds and all proprietary funds and fund groups are reported as separate columns in the fund
+financial statements. Certain insignificant indirect costs are allocated to the funds.
+18
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Fund Structure
+PROPRIETARY FUNDS
+Financial activities operated similarly to private business enterprises and financed through fees and charges
+assessed primarily to users of loans and other lender services are presented as proprietary funds.
+MaineHousing’s proprietary funds are as follows, all of which are considered major funds:
+Mortgage Purchase Fund
+This fund consists of accounts established by the General Mortgage Purchase Bond Resolution. Pursuant to
+the Mortgage Purchase Program, MaineHousing is authorized to purchase or originate first lien mortgages on
+single-family and multi-family residential properties. Proceeds from the sale of mortgage revenue bonds, the
+debt service requirements of the bond indebtedness, and mortgage loans made from bond proceeds are
+recorded in this fund.
+Bondholder Reserve Fund
+This fund consists of accounts established by the General Authority Bondholder Reserve Fund Resolution and
+is pledged to replenish any deficiency in the debt service reserve fund of the General Mortgage Purchase Bond
+Resolution.
+General Administrative Fund
+This fund consists of account balances that are not directly pledged to or restricted by a particular bond
+resolution or program and generates fee and interest income. Revenues not specifically pledged for the
+repayment of bonds or notes are recorded in this fund.
+GOVERNMENTAL FUNDS
+Activities financed by grant and program agreements with the federal government and appropriations and
+allocations from the State of Maine Legislature are presented as governmental funds. None of the
+governmental funds are legally required to adopt a formal budget. MaineHousing’s governmental funds are
+as follows, all of which are considered major funds:
+Home Fund
+The Maine State Legislature authorized the creation of the Housing Opportunities for Maine (HOME) Program
+to promote and create affordable housing. The program is funded by a portion of the Real Estate Transfer
+Tax levied by the State of Maine and by appropriations. These funds may be used in conjunction with
+MaineHousing’s other housing resources. Activities associated with the Shelter Operating Subsidy Program,
+which is funded by the State of Maine and provides funding for emergency shelters that serve Maine’s homeless
+citizens, are also recorded in this fund.
+Section 8 Housing Programs
+This fund group consists of activity related to MaineHousing’s administration of various Department of Housing
+and Urban Development (HUD) Section 8 programs. These are federal programs that provide rental subsidies
+to landlords to preserve low-income rental units and funding to tenants to assist with rent payments. The
+program funding levels are established by the federal government annually. MaineHousing receives annual
+fees from HUD for the administration of these programs. These programs consist of the following:
+Moderate Rehabilitation
+Section 811 Project Rental Assistance
+Housing Choice Voucher
+Performance Based Contract Administration
+Family Self-Sufficiency
+Mainstream Vouchers
+Section 8 Emergency Housing Voucher – American Rescue Plan Act
+19
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Low Income Home Energy Assistance Program
+MaineHousing is the designated administrator of the Low Income Home Energy Assistance Program for the
+State of Maine. This program is federally funded through the Department of Health and Human
+Services. Under this program, funds are provided to low income homeowners and renters to assist with the
+payment of heating costs. The funding level is established annually by the federal government and
+MaineHousing receives annual fees for the administration of the program.
+Maine Energy, Housing and Economic Recovery Fund
+The purpose of the Maine Energy, Housing and Economic Recovery Fund (MEHER) is to create capital funding
+sources to provide affordable housing and to improve energy efficiency of residential housing in the State of
+Maine. The fund consists of accounts established by the MEHER General Indenture. The revenue anticipation
+bonds issued under the MEHER General Indenture are liabilities of the fund and the debt service for these
+bonds is paid by a source of revenue from the State of Maine.
+Other Federal and State Programs
+MaineHousing administers various other federal and state housing and energy-related programs and grants.
+This fund group records the activity and reflects the consolidation of these programs and grants. Program
+administration is governed by the appropriate federal regulations or state laws. The annual program and grant
+funding levels are set by the appropriate federal or state government. MaineHousing receives annual fees for
+the administration of most of the federal programs and grants. Federal and state programs consist of the
+following:
+U.S. Department of Housing and Urban Development
+Emergency Solutions Grants
+HOME Investment Partnerships Program
+HOME Investment Partnerships Program – American Rescue Plan Act
+National Housing Trust Fund
+Lead-Based Paint Hazard Control Program
+Healthy Homes Production Grant
+Homeless Management Information System
+Continuum of Care - Planning Grant
+Community Development Block Grant – Coronavirus Aid, Relief, and Economic Security Act (via State of
+Maine)
+Older Adult Home Modification Program
+Recovery Housing Program
+U.S. Department of Energy
+Weatherization Assistance Program
+Weatherization Assistance Program - Training Centers and Programs
+Weatherization Assistance Program – Bipartisan Infrastructure Law
+Sustainable Energy Resources for Consumers Grant
+U.S. Department of Health and Human Services
+Weatherization / Central Heating Improvement Program
+Temporary Assistance for Needy Families (via State of Maine)
+U.S. Department of Treasury
+Emergency Rental Assistance Program – American Rescue Plan Act (via State of Maine)
+Homeowner Assistance Fund – American Rescue Plan Act (via State of Maine)
+Expand Affordable Housing Program – American Rescue Plan Act (via State of Maine)
+Grants for Homeless Shelters – American Rescue Plan Act (via State of Maine)
+20
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+State of Maine
+Well Water Treatment Program
+Lead Abatement Program
+State General Obligation Bonds
+Emergency Housing Relief Fund
+Eviction Prevention Program
+Low-Barrier Homeless Shelter Program
+Improve Access to Credit for Low-Income Individuals
+Manufactured and Mobile Home Park Preservation and Assistance Program
+Rural Affordable Rental Housing Program
+Housing Stability Support Program
+Housing Subsidy Program for Homeless Students
+Affordable Homeownership Program
+Private
+Low Income Assistance Plan
+Net Position
+In the agency-wide and proprietary fund financial statements, net position is displayed in three components
+as follows:
+Net investment in capital assets – This consists of capital assets, net of accumulated depreciation, less the
+outstanding balances of any notes, liabilities or other borrowings for the acquisition, construction, or
+improvement of those assets.
+Restricted – This consists of activities that are legally restricted by outside parties or by law through
+constitutional provisions or enabling legislation. For business-type activities, the net position is restricted by
+bond resolutions for the acquisition of loans, payment of debt service and payment of operating costs. For
+governmental activities, the net position is restricted by state statutes or federal regulations and program
+agreements for specific program purposes.
+Unrestricted – This consists of activities that do not meet the definition of “restricted” or “net investment in
+capital assets.”
+Fund Balances
+In the governmental funds financial statements, fund balances are reported as either restricted for housing
+and energy related programs or nonspendable in current form due to the long term nature of certain assets.
+If unrestricted fund balances are available, they are generally used after assigned or restricted amounts.
+Cash and Cash Equivalents
+For purposes of reporting cash flows, cash and cash equivalents include cash on hand and held by banks in
+demand deposits and savings accounts.
+Investments
+Money market funds, repurchase agreements and certificates of deposit that have a remaining maturity at
+time of purchase of one year or less are reported at amortized cost. Investments not reported at amortized
+cost are reported at fair value. Unrealized gains and losses due to fluctuations in market values and gains and
+losses realized upon sale are reported as net increases or decreases in the fair value of investments. Interest
+received that is required by federal programs to be spent on program activities is deferred and recorded as a
+payable to the federal government.
+21
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Mortgage Notes Receivable
+Mortgage notes receivable are carried at their uncollected principal balance less allowances for loan losses.
+The recording of interest income on problem loans ceases when collectibility within a reasonable period of
+time becomes doubtful. Program income received for revolving loan programs are recorded as unearned
+income. MaineHousing reclassifies its liability for amounts due under revolving loan programs relating to
+forgivable loans and loans with no payments due until sale of the collateral or maturity of the loan (usually 30
+years from origination) to reduce the associated loan balances. MaineHousing believes this presentation better
+reflects the underlying economics of the loan.
+Allowances For Losses On Loans
+MaineHousing has established allowances for losses on mortgages and other notes receivable. The allowances
+are established through provisions for losses on loans charged to expenses. Losses are charged against the
+allowances when MaineHousing believes that collection of the loan principal is unlikely.
+The allowances are amounts that MaineHousing believes will be adequate to absorb losses based on
+evaluations of collectibility and prior loss experience. The evaluation takes into consideration such factors as
+the nature and volume of the portfolio, extent of available mortgage insurance, collateral, delinquencies and
+current economic conditions that may affect the borrowers’ ability to pay.
+Capital Assets
+Capital assets consisting of building, land, and equipment are stated at cost less accumulated depreciation and
+are reported in the agency-wide and proprietary funds financial statements. MaineHousing capitalizes assets
+with an initial cost of one thousand dollars or more. Depreciation is computed using the straight line method
+over the estimated useful lives of the assets, which range from three to forty years. Land and assets that are
+being developed are not depreciated. Intangible assets from subscription-based information technology
+arrangements are recorded as capital assets and amortized using the straight line method over the subscription
+term.
+Other Real Estate Owned
+Other real estate owned consists of single-family and multi-family residential properties acquired through
+foreclosure, or acceptance of a deed in lieu of foreclosure and are carried at the lower of cost or fair value less
+estimated costs to sell. Losses arising from the acquisition of other real estate owned are charged to the
+allowance for loan losses. Operating expenses, subsequent provisions to reduce the carrying value, and any
+gain or loss on disposition of the property are reflected in the Statement of Revenues, Expenses and Changes
+in Net Position in the year incurred or realized.
+Bond Discount, Premium, Issuance Costs and Deferred Amounts on Refunding
+Bond discounts and premiums are reflected as a component of bonds payable and are deferred and amortized
+over the lives of the bonds using a method that approximates the effective interest method. Gains and losses
+on debt refundings are amortized as a component of interest expense over the remaining life of the old debt
+or the life of the new debt, whichever is shorter and reflected as a deferred outflow of resources. Bond
+issuance costs are expensed in the year issued.
+Loan Origination Fees and Costs
+MaineHousing pays origination costs at the time it purchases single-family mortgage loans. These and other
+program costs, including closing cost assistance to borrowers, paid in connection with acquiring certain single-
+family loans, are expensed in the year of origination.
+22
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+MaineHousing may receive points in connection with the origination of certain mortgage loans, which are
+essentially yield adjustments on the loans. Points received for single-family loans are reflected as a deferred
+inflow of resources and amortized as a component of interest income using the effective interest method over
+the life of the mortgages. When a loan is paid off prior to maturity, all unamortized deferred points are
+recognized immediately as interest income. MaineHousing may charge a fee at the time that a commitment
+is made to originate a mortgage on a multi-family loan. These fees are recognized as income in the year the
+commitment is made.
+Revenues, Expenses and Expenditures
+Program revenues in the agency-wide Statement of Activities are reported in three categories including
+(1) charges for services, (2) investment income and (3) grants and contributions. Charges for services include
+all revenues from mortgage loans and program administration fees. Investment income consists of earnings
+from non-mortgage investment assets. Grants and contributions include revenues from other governments
+and organizations that are restricted for use in a particular program. All revenues are recorded as income
+when earned and the associated expenses are recorded as incurred.
+The proprietary funds’ primary sources of operating revenues are income from mortgage loans and other
+permitted investments. Operating expenses in the proprietary funds consist of costs incurred for originating
+and servicing loans, interest on bonds and notes, and program administration.
+Revenues in the governmental funds are derived from grant and program agreements with the federal
+government, appropriations from the Maine State Legislature, and other organizations. MaineHousing also
+receives fee income for program administration. Expenditures in the governmental funds are all current
+operating expenditures and consist primarily of program disbursements and administration charges.
+Derivatives and Hedging Instruments
+MaineHousing enters into interest rate swap agreements in order to manage risks associated with interest on
+its variable rate bond portfolio. MaineHousing recognizes the fair value of swap agreements as either an asset
+or liability on its Statement of Net Position with the offsetting gains or losses as either deferred inflows or
+outflows of resources, if deemed an effective hedge. If swap agreements are not effective hedges, interest
+expense is increased or decreased by the change in the fair value. MaineHousing measures the effectiveness
+of its interest rate swap agreements in total whereby all the swaps are used to hedge interest expense on a
+portion of the total variable rate bonds equal to the notional amount of the swaps. Hedge effectiveness is
+determined by using the regression analysis method. MaineHousing’s swap agreements constitute an effective
+hedge for the hedged portion of the variable rate bond portfolio at December 31, 2025.
+Fair Value Methodology
+Generally accepted accounting principles establishes standards for determining fair value measurements for
+accounting and financial reporting purposes and provides guidance for applying fair value to certain
+investments and disclosures related to all fair value measurements and also establishes a three-tier hierarchy
+that prioritizes the inputs used to measure fair value as follows:
+• Level 1 inputs are observable, quoted prices in active markets for identical assets or liabilities;
+• Level 2 inputs are directly or indirectly observable, but not on Level 1; and
+• Level 3 inputs are all inputs that are unobservable.
+MaineHousing’s assets and liabilities carried at fair value are investments and interest rate swaps.
+23
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Defined Benefit Pension Plan
+MaineHousing is a participating local district (PLD) member of the Maine Public Employees Retirement System
+(MainePERS) PLD Consolidated Retirement Plan and employees may participate in a defined benefit plan
+offered by MainePERS. For purposes of measuring the net pension liability, deferred outflows of resources
+and deferred inflows of resources related to pensions, and pension expense, information about the fiduciary
+net position of MainePERS’ PLD Consolidated Plan have been determined on the same basis as they are
+reported by MainePERS. For this purpose, benefit payments, including refunds of employee contributions, are
+recognized when due and payable in accordance with the benefit terms. Investments at MainePERS are
+reported at fair value.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities at the date of the statements and the reported amounts of revenues, expenses
+and expenditures during the reporting year. Material estimates that are particularly susceptible to significant
+change in the near-term relate to the determination of the allowance for losses on loans, the fair value of
+interest rate swaps and the net pension liability for MaineHousing’s participation in the MainePERS PLD
+Consolidated Retirement Plan. Actual results could differ from estimates.
+New Accounting Standard
+MaineHousing early adopted Governmental Accounting Standards Board (GASB) Statement No. 103, Financial
+Reporting Model Improvements for the year ended December 31, 2025. GASB 103 replaces and supersedes
+portions of GASB 34 and related standards and introduces revised presentation requirements for proprietary
+fund financial statements, including new definitions and classifications for operating and nonoperating
+revenues and expenses, updated subtotal requirements, and new guidance for management’s discussion and
+analysis.
+The early adoption resulted in changes to the presentation of MaineHousing’s proprietary fund Statement of
+Revenues, Expenses, and Changes in Net Position but did not have an effect on beginning net position or
+MaineHousing’s accounting policies for the recognition and measurement of revenues, expenses, assets,
+deferred outflows of resources, liabilities, or deferred inflows of resources.
+Future Accounting Standards
+The following GASB Statements that have been issued are under evaluation by MaineHousing:
+• GASB Statement No. 104, Disclosure of Certain Capital Assets is effective for the year ending
+December 31, 2026. GASB Statement No. 104 provides users of government financial statements with
+essential information about certain types of capital assets.
+• GASB Statement No. 105, Subsequent Events, is effective for the year ending December 31, 2027.
+GASB State No. 105 clarifies the subsequent events that constitute recognized and nonrecognized
+events and establishes specific note disclosure requirements for nonrecognized events.
+MaineHousing has not adopted these standards and is evaluating the impact they may have on its financial
+statements.
+(3.) CASH AND INVESTMENTS
+At December 31, 2025, the carrying amount of MaineHousing’s bank deposits was $97,480 and the bank
+balance was $98,995. The difference between the carrying amount and the bank balance is a result of
+transactions in transit. Of the bank balance, $500 was covered by federal depository insurance and $98,495
+was collateralized by pledged government securities that are held in the bank’s name at the Federal Reserve
+Bank.
+24
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+The General Mortgage Purchase Bond Resolution permits MaineHousing to invest in direct obligations of, or
+obligations guaranteed by, the United States of America, certain government-sponsored enterprises and the
+State of Maine “permitted investments.” The resolution also permits MaineHousing to invest in certificates of
+deposit, repurchase agreements, money market funds and other similar banking arrangements that are
+collateralized by permitted investments.
+MaineHousing has a formal Investment Policy that outlines its investment practices and policies. The primary
+purpose of the policy is to ensure safety of principal while managing liquidity to pay MaineHousing’s financial
+obligations. MaineHousing’s deposit policy is to have its deposits covered by insurance, collateralized or
+deposited in well capitalized institutions.
+MaineHousing’s investment balances and stated maturities as of December 31, 2025 are presented in the
+following table. Actual maturities may differ due to investments being called by the issuer.
+Investment Maturities in Years
+Carrying Less More Moody's
+Investment Type Amount than 1 1-5 6-10 than 10 Credit Rating
+PROPRIETARY FUNDS
+MORTGAGE PURCHASE FUND
+Repurchase Agreements $122,747 $122,747 $0 $0 $0 NR
+Money Market Funds 1,000 1,00 0 0 0 0 NR
+Federal Home Loan Mort gage Corporation (FHLMC) 49,846 49,84 6 0 0 0 P-1/A a1
+Federal Farm Credit Bank (FFCB) 75,351 0 11,686 36,812 26,853 P-1/Aa1
+Federal National Mortgage Association (FNMA) 84,831 84,83 1 0 0 0 P-1/A a1
+Federal Home Loan Bank (FHLB) 208,434 84,599 5,341 86,480 32,014 P-1/Aa1
+U.S. Treasury Securities 68,848 58,930 3,040 6,878 0 P-1/Aa1
+Total - Mortgage Purchase Fund 611,057 401,953 20,067 130,170 58,867
+BONDHOLDER RESERVE FUND
+Repurchase Agreements 7,404 7,40 4 0 0 0 NR
+GENERAL ADMINISTRATIVE FUND
+Repurchase Agreements 6,199 6,19 9 0 0 0 NR
+Government Money Ma rket Funds 11,428 11,42 8 0 0 0 Aaa- mf
+Certificates of Deposit 2,802 2,80 2 0 0 0 NR
+Total - General Administrative Fund 20,429 20,42 9 0 0 0
+Total - Proprietary Funds $638,890 $429,786 $20,067 $130,170 $58,867
+GOVERNMENTAL FUNDS
+HOME FUND
+Repurchase Agreements $10,481 $10,481 $0 $0 $0 NR
+MAINE ENERGY, HOUSING & ECONOMIC RECOVERY FUND
+Repurchase Agreements 13,271 13,27 1 0 0 0 NR
+OTHER FEDERAL AND STATE PROGRAMS
+Repurchase Agreements 89,706 89,70 6 0 0 0 NR
+Total - Governmental Funds $113,458 $113,458 $0 $0 $0
+MaineHousing generally invests in repurchase agreements and money market funds for short-term
+investments, which are not credit rated and are continuously and fully secured by permitted investments. It
+is MaineHousing’s policy to require that collateral be held by MaineHousing’s trustee in MaineHousing’s name,
+wherever practicable.
+A market approach is used to determine fair value using Level 2 inputs for investments carried at fair value.
+Prices and other relevant information are generated by market transactions involving identical or comparable
+investments.
+25
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+At December 31, 2025, $540,442 was invested in short-term repurchase agreements, money market funds,
+U.S. Treasury Securities, and other government sponsored enterprises with maturity dates of less than one
+year and interest rates up to 3.83%. Investments other than repurchase agreements, money market funds,
+and U.S. Treasury Securities are registered in MaineHousing’s name. Investments issued by Federal Home
+Loan Mortgage Corporation (FHLMC), Federal Farm Credit Bank (FFCB), Federal National Mortgage Association
+(FNMA), and Federal Home Loan Bank (FHLB) make up 8%, 12%, 14%, and 34% of total investments,
+respectively, in the Mortgage Purchase Fund.
+At December 31, 2025, $2,802 is invested in a non-negotiable certificate of deposit to fund a debt service
+reserve in connection with a loan agreement. The certificate has an interest rate of 3.20% and will mature in
+November 2026. The certificate is not credit rated and is being held by its bank trustee in MaineHousing’s
+name.
+MaineHousing originates loans that provide capital funding for the creation of affordable rental housing.
+Undisbursed loan proceeds for certain programs are held as investments in the General Administrative Fund
+with a corresponding escrow amount recorded in accounts payable and accrued liabilities. Escrow investments
+totaled $11,428 at December 31, 2025.
+(4.) MORTGAGE NOTES RECEIVABLE
+For financial statement presentation, the allowance for losses on loans has been netted against the noncurrent
+portion of mortgage notes receivable. A summary of mortgage notes receivable at December 31, 2025 is as
+follows:
+Number of Principal Percent of
+Notes Balance Portfolio
+PROPRIETARY FUNDS
+MORTGAGE PURCHASE FUND - SINGLE-FAMILY:
+VA guaranteed 543 $94,081 6.7%
+FHA insured 2,102 353,697 25.2%
+USDA/RD guaranteed 5,032 589,742 42.0%
+Privately insured 336 84,691 6.0%
+Non-insured 2,723 281,679 20.1%
+Total Mortgage Purchase Fund - single-family 10,736 1,403,890 100.0%
+MORTGAGE PURCHASE FUND - MULTI-FAMILY:
+Section 8 202 227,759 26.5%
+Conventional 371 600,189 69.9%
+Supportive Housing 148 30,521 3.6%
+Total Mortgage Purchase Fund - multi-family 721 858,469 100.0%
+Less: Allowance for losses on loans (6,983)
+Total Mortgage Purchase Fund 11,457 2,255,376
+BONDHOLDER RESERVE FUND - MULTI-FAMILY:
+Conventional 1 1,651 100.0%
+GENERAL ADMINISTRATIVE FUND - SINGLE-FAMILY:
+Non-insured 43 1,313 100.0%
+GENERAL ADMINISTRATIVE FUND - MULTI-FAMILY:
+Section 8 1 553 16.0%
+Conventional 4 2,892 84.0%
+Total General Administrative Fund - multi-family 5 3,445 100.0%
+Less: Allowance for losses on loans (104)
+Total General Administrative Fund 48 4,654
+Total Proprietary Funds 11,506 $2,261,681
+26
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+GOVERNMENTAL FUNDS
+HOME FUND - SINGLE-FAMILY:
+Non-insured 225 $2,689 100.0%
+HOME FUND - MULTI-FAMILY:
+Non-insured 144 68,466 100.0%
+Total HOME Fund 71,155
+Less: Allowance for losses on loans (774)
+Total HOME Fund 369 70,381
+MAINE ENERGY, HOUSING AND ECONOMIC RECOVERY
+FUND - MULTI-FAMILY
+Non-insured 32 45,127 100.0%
+Total Governmental Funds 401 $115,508
+A summary of the activity in the allowance for losses on loans is as follows:
+PROPRIETARY GOVERNMENTAL
+FUNDS FUNDS
+Mortgage General
+Purchase Administrative HOME
+Fund Group Fund Fund
+Balance – December 31, 2024 $7,124 $94 $773
+Provision 0 0 185
+Loans charged off (174) 0 (184)
+Recoveries 33 10 0
+Balance – December 31, 2025 $6,983 $104 $774
+(5.) SUBSCRIPTION-BASED INFORMATION TECHNOLOGY ARRANGEMENTS
+MaineHousing uses subscription-based information technology arrangements (SBITA) for certain information
+technology cloud software. One arrangement provides software for its multi-family housing programs and one
+arrangement is for grant management.
+The term for the multi-family SBITA is for an initial three-year period at an annual fee of $167, which increases
+by 3% per annum. Renewal options for two additional years at the same terms and conditions were exercised
+and included in the determination of the right-to-use asset and subscription liability. This SBITA arrangement
+also included an implementation fee and other costs of $186.
+The term for the grant management SBITA was for an initial three-year period that ended in August 2025.
+Renewal options were available for two additional years but were not exercised.
+At December 31, 2025, MaineHousing has a net right-to-use SBITA asset, an intangible asset, of $282 and a
+$182 subscription liability, which is included in accounts payable and accrued liabilities. During 2025, $299 of
+amortization expense and $8 of interest expense on the subscription liability was recorded. Principal and
+interest for the subscription liability through December 31, 2026 is $182 and $5, respectively.
+27
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(6.) BONDS AND NOTES PAYABLE
+MaineHousing issues bonds that pay interest that is subject to Alternative Minimum Tax (AMT), bonds that
+pay interest that is not subject to this tax (Non-AMT) and federally taxable bonds. Interest paid on AMT bonds
+is treated as a preference item in calculating the tax imposed on individuals and corporations under the Internal
+Revenue Service Code. MaineHousing’s AMT, Non-AMT and federally taxable bonds are denoted for each
+series or sub-series in the following table.
+The interest rates presented in the following table for variable rate bonds represent the rate at December 31,
+2025. The Single-Family (S/F) and Multi-Family (M/F) Mortgage Bonds Payable outstanding at December 31,
+2025 are as follows:
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+PROPRIETARY FUNDS
+MORTGAGE PURCHASE FUND
+2013 SERIES B BONDS (S/F)
+2013 Series B (Non-AMT)
+Serial Bonds $7,540 $0 2.75%
+Term Bonds 3,890 2,000 3.00% 2026-2027 985 - 1,015
+Term Bonds 38,690 16,275 3.45% 2031-2032 7,995 - 8,280
+Term Bonds 28,880 24,680 3.60% 2033-2036 1,990 - 8,235
+Term Bonds 27,000 0 4.00%
+106,000 42,955
+2015 SERIES A BONDS (M/F)
+2015 Series A-2 (Non-AMT)
+Term Bonds 6,555 1,125 3.25% 2028-2029 525 - 600
+2015 Series A-3 (Non-AMT)
+Serial Bonds 8,050 0 1.20%
+Term Bonds 11,220 9,135 3.50% 2031-2034 2,160 - 2,410
+Term Bonds 13,505 11,000 3.63% 2036-2039 2,590 - 2,905
+Term Bonds 16,225 16,225 3.75% 2040-2044 2,995 - 3,500
+55,555 37,485
+2015 SERIES B BONDS (S/F)
+2015 Series B (Non-AMT)
+Serial Bonds 9,750 0 2.60%
+Term Bonds 10,750 6,650 3.20% 2028-2030 2,150 - 2,285
+Term Bonds 1,610 1,610 3.45% 2031-2034 380 - 425
+Term Bonds 9,890 0 3.50%
+32,000 8,260
+2015 SERIES C BONDS (M/F)
+2015 Series C (Federally Taxable)
+Serial Bonds 9,480 0 2.74% - 3.04%
+Term Bonds 18,000 0 3.59%
+Term Bonds 12,520 7,800 3.95% 2038-2040 2,500 - 2,700
+40,000 7,800
+2015 SERIES E BONDS (S/F)
+2015 Series E-3 (AMT)
+Term Bonds 30,000 25,450 Variable - 3.37% 2035-2038 4,625 - 7,610
+30,000 25,450
+2015 SERIES F BONDS (M/F)
+2015 Series F-2 (Non-AMT)
+Serial Bonds 2,450 500 2.85% 2026 500
+2015 Series F-3 (Non-AMT)
+Serial Bonds 15,005 0 1.10%
+Term Bonds 6,340 5,155 3.40% 2028-2030 1,650 - 1,785
+Term Bonds 9,565 0 3.85%
+Term Bonds 11,840 0 3.95%
+45,200 5,655
+2015 SERIES G BONDS (S/F)
+2015 Series G (Non-AMT)
+Serial Bonds 8,185 3,830 2.85% - 3.00% 2026-2027 1,735 - 2,095
+Term Bonds 1,730 1,730 3.35% 2028-2030 535 - 615
+Term Bonds 2,125 0 3.65%
+Term Bonds 12,060 7,420 3.85% 2038-2040 2,410 - 2,535
+Term Bonds 5,900 0 3.50%
+30,000 12,980
+28
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2016 SERIES A BONDS (S/F)
+2016 Series A (Non-AMT)
+Serial Bonds 6,065 855 2.45% 2026 855
+Term Bonds 6,520 6,520 2.90% 2027-2030 1,545 - 1,720
+Term Bonds 4,630 4,630 3.30% 2031-2035 865 - 990
+Term Bonds 10,900 10,900 3.55% 2036-2040 1,960 - 2,355
+Term Bonds 6,885 0 4.00%
+35,000 22,905
+2016 SERIES B BONDS (S/F)
+2016 Series B-1 (Non-AMT)
+Serial Bonds 19,260 4,735 2.35% - 2.55% 2026-2027 2,325 - 2,410
+Term Bonds 3,885 1,205 2.70% 2028 1,205
+Term Bonds 18,855 0 3.50%
+2016 Series B-2 (AMT)
+Term Bonds 28,000 28,000 Variable - 3.37% 2029-2037 2,720 - 3,420
+70,000 33,940
+2016 SERIES C BONDS (S/F)
+2016 Series C (Non-AMT)
+Serial Bonds 13,620 3,340 2.15% - 2.50% 2026-2028 1,080 - 1,155
+Term Bonds 5,670 5,670 2.75% 2029-2031 1,185 - 2,285
+Term Bonds 8,975 8,975 3.00% 2032-2036 1,305 - 2,510
+Term Bonds 3,355 3,355 3.15% 2037-2041 625 - 720
+Term Bonds 8,380 0 3.50%
+40,000 21,340
+2016 SERIES D BONDS (M/F)
+2016 Series D (Federally Taxable)
+Serial Bonds 32,000 15,915 2.69% - 2.99% 2026-2029 3,915 - 4,000
+Term Bonds 8,000 8,000 3.29% 2030-2031 4,000
+40,000 23,915
+2016 SERIES E BONDS (S/F)
+2016 Series E (Non-AMT)
+Serial Bonds 6,250 1,565 3.05% - 3.15% 2026-2027 765 - 800
+Term Bonds 3,050 0 3.63%
+Term Bonds 10,385 0 3.90%
+Term Bonds 8,315 0 4.00%
+28,000 1,565
+2017 SERIES A BONDS (S/F)
+2017 Series A (Non-AMT)
+Serial Bonds 5,920 2,205 3.00% - 3.15% 2026-2028 705 - 765
+Term Bonds 3,360 0 3.65%
+Term Bonds 6,315 0 4.00%
+Term Bonds 7,625 0 4.05%
+Term Bonds 6,780 0 4.00%
+30,000 2,205
+2017 SERIES B BONDS (S/F)
+2017 Series B (Non-AMT)
+Serial Bonds 8,680 4,470 2.50% - 3.00% 2026-2030 795 - 1,010
+Term Bonds 4,215 4,215 3.25% 2031-2032 2,090 - 2,125
+Term Bonds 6,170 2,605 3.65% 2036-2037 1,280 - 1,325
+Term Bonds 8,745 8,745 3.75% 2038-2044 1,115 - 1,355
+Term Bonds 7,190 0 4.00%
+35,000 20,035
+2017 SERIES D BONDS (M/F)
+2017 Series D-1 (Non-AMT)
+Serial Bonds 13,175 4,000 2.50% - 2.95% 2026-2029 1,000
+Term Bonds 14,320 14,320 3.50% 2033-2037 2,250 - 3,980
+Term Bonds 5,870 5,870 3.65% 2038-2042 1,090 - 1,265
+Term Bonds 7,810 7,810 3.75% 2043-2047 1,445 - 1,680
+41,175 32,000
+2017 SERIES E BONDS (S/F)
+2017 Series E (Federally Taxable)
+Term Bonds 60,000 60,000 Variable - 3.85% 2042-2052 5,000 - 10,000
+60,000 60,000
+29
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2017 SERIES F BONDS (S/F)
+2017 Series F (Non-AMT)
+Serial Bonds 13,180 7,285 2.40% - 3.00% 2026-2030 970 - 1,675
+Term Bonds 2,055 2,055 3.15% 2031-2032 1,005 - 1,050
+Term Bonds 5,920 5,920 3.50% 2033-2037 1,090 - 1,280
+Term Bonds 7,000 7,000 3.65% 2038-2042 1,320 - 1,490
+Term Bonds 11,845 175 3.50% 2043-2047 30 - 55
+40,000 22,435
+2017 SERIES G BONDS (S/F - M/F)
+2017 Series G-1 (Federally Taxable)
+Term Bonds 55,000 55,000 Variable - 3.90% 2045-2050 8,290 - 10,090
+55,000 55,000
+2017 SERIES H BONDS (S/F)
+2017 Series H (Non-AMT)
+Serial Bonds 18,380 11,755 2.60% - 3.05% 2026-2030 1,655 - 4,510
+Term Bonds 5,420 5,420 3.25% 2031-2033 1,750 - 1,865
+Term Bonds 10,625 5,495 3.55% 2036-2037 2,700 - 2,795
+Term Bonds 1,485 1,485 3.70% 2038-2042 275 - 320
+Term Bonds 2,590 2,590 3.75% 2043-2047 480 - 555
+38,500 26,745
+2018 SERIES A BONDS (S/F)
+2018 Series A (Non-AMT)
+Serial Bonds 13,510 5,900 2.85% - 3.25% 2026-2030 1,160 - 1,200
+Term Bonds 3,680 2,465 3.50% 2032-2033 1,220 - 1,245
+Term Bonds 8,630 5,240 3.75% 2036-2038 1,725 - 1,765
+Term Bonds 9,180 9,180 3.90% 2039-2043 1,790 - 1,885
+35,000 22,785
+2018 SERIES B BONDS (S/F)
+2018 Series B (Non-AMT)
+Serial Bonds 10,565 3,655 2.80% - 3.10% 2026-2028 1,205 - 1,230
+Term Bonds 6,005 2,445 3.50% 2032-2033 1,215 - 1,230
+Term Bonds 11,270 6,850 3.75% 2036-2038 2,245 - 2,320
+Term Bonds 12,160 12,160 3.85% 2039-2043 2,355 - 2,515
+40,000 25,110
+2018 SERIES C BONDS (S/F)
+2018 Series C (Non-AMT)
+Serial Bonds 14,200 6,170 2.80% - 3.25% 2026-2030 645 - 1,955
+Term Bonds 4,080 0 3.55%
+Term Bonds 7,195 1,485 3.85% 2038 1,485
+Term Bonds 9,595 0 3.95%
+Term Bonds 9,930 875 4.00% 2044-2048 30 - 400
+45,000 8,530
+2018 SERIES D BONDS (S/F - M/F)
+2018 Series D-1 (Federally Taxable)
+Term Bonds 40,000 40,000 Variable - 4.25% 2043-2053 2,965 - 4,395
+40,000 40,000
+2018 SERIES F BONDS (S/F)
+2018 Series F (Non-AMT)
+Serial Bonds 7,710 0 2.65%
+Term Bonds 3,745 0 3.85%
+Term Bonds 6,450 0 4.13%
+Term Bonds 6,225 0 4.20%
+Term Bonds 10,300 1,450 4.25% 2044-2048 60 - 655
+34,430 1,450
+2019 SERIES A BONDS (S/F)
+2019 Series A (Non-AMT)
+Serial Bonds 12,670 6,870 2.55% - 3.05% 2026-2030 795 - 3,330
+Term Bonds 4,305 4,305 3.45% 2031-2034 1,005 - 1,150
+Term Bonds 2,605 2,130 3.80% 2036-2039 495 - 570
+Term Bonds 10,880 0 4.00%
+Term Bonds 9,005 1,330 4.00% 2046-2049 195 - 505
+39,465 14,635
+2019 SERIES B BONDS (S/F)
+2019 Series B (Non-AMT)
+Serial Bonds 18,075 8,725 2.10% - 2.80% 2026-2032 695 - 2,170
+Term Bonds 1,470 1,470 2.95% 2033-2034 720 - 750
+Term Bonds 10,615 10,615 3.15% 2035-2039 1,745 - 2,730
+Term Bonds 9,840 9,840 3.35% 2040-2044 1,795 - 2,130
+40,000 30,650
+30
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2019 SERIES C BONDS (S/F)
+2019 Series C (Non-AMT)
+Serial Bonds 8,415 3,960 1.90% - 2.45% 2026-2031 100 - 1,055
+Term Bonds 6,350 6,350 2.75% 2032-2034 2,040 - 2,195
+Term Bonds 5,250 5,250 3.00% 2035-2039 100 - 2,275
+Term Bonds 10,270 10,270 3.20% 2040-2045 1,315 - 1,920
+Term Bonds 8,825 1,785 4.00% 2047-2050 330 - 500
+39,110 27,615
+2019 SERIES E BONDS (S/F)
+2019 Series E (Non-AMT)
+Serial Bonds 15,540 11,765 1.85% - 2.35% 2026-2031 755 - 3,430
+Term Bonds 5,895 5,895 2.70% 2032-2034 1,935 - 1,995
+Term Bonds 6,610 6,610 3.10% 2040-2044 1,230 - 1,415
+Term Bonds 6,400 1,400 3.75% 2047-2049 125 - 650
+34,445 25,670
+2020 SERIES A BONDS (S/F)
+2020 Series A (Non-AMT)
+Serial Bonds 9,800 6,030 1.70% - 2.40% 2026-2032 780 - 955
+Term Bonds 1,995 1,995 2.60% 2033-2034 980 - 1,015
+Term Bonds 7,195 7,195 2.85% 2035-2039 1,050 - 1,750
+Term Bonds 8,645 8,645 3.00% 2040-2044 1,620 - 1,840
+Term Bonds 6,715 1,770 3.75% 2047-2049 250 - 1,090
+34,350 25,635
+2020 SERIES B BONDS (M/F)
+2020 Series B (Non-AMT)
+Serial Bonds 12,000 0 1.10%
+Term Bonds 7,000 7,000 2.10% 2033-2035 2,140 - 2,530
+Term Bonds 14,275 14,275 2.35% 2036-2040 2,690 - 3,015
+Term Bonds 7,755 7,755 2.50% 2041-2045 1,470 - 1,640
+Term Bonds 8,970 8,970 2.60% 2046-2050 1,695 - 1,900
+50,000 38,000
+2020 SERIES C BONDS (S/F)
+2020 Series C (Non-AMT)
+Serial Bonds 12,765 8,750 1.75% - 2.50% 2026-2032 950 - 1,675
+Term Bonds 5,315 5,315 2.70% 2033-2035 1,715 - 1,830
+Term Bonds 9,640 9,640 3.00% 2036-2040 1,770 - 2,055
+Term Bonds 11,235 3,465 4.00% 2044-2050 125 - 690
+38,955 27,170
+2020 SERIES D BONDS (S/F)
+2020 Series D (Non-AMT)
+Serial Bonds 10,280 8,275 1.45% - 2.20% 2026-2032 1,055 - 1,310
+Term Bonds 4,390 4,390 2.30% 2033-2035 1,090 - 2,170
+Term Bonds 7,580 7,580 2.55% 2036-2040 1,270 - 2,215
+Term Bonds 12,750 12,750 2.80% 2041-2045 1,465 - 4,120
+35,000 32,995
+2020 SERIES E BONDS (M/F)
+2020 Series E (Federally Taxable)
+Serial Bonds 40,000 40,000 2.02% - 2.74% 2026-2033 4,600 - 5,455
+40,000 40,000
+2020 SERIES F BONDS (S/F)
+2020 Series F (Non-AMT)
+Serial Bonds 10,465 7,365 0.95% - 1.75% 2026-2032 965 - 1,135
+Term Bonds 3,415 3,415 2.00% 2033-2035 1,100 - 1,175
+Term Bonds 6,535 6,535 2.15% 2036-2040 1,215 - 1,395
+Term Bonds 7,710 7,710 2.25% 2041-2045 1,440 - 1,655
+Term Bonds 11,875 11,875 2.40% 2046-2050 1,705 - 4,705
+40,000 36,900
+2020 SERIES G BONDS (S/F)
+2020 Series G (Non-AMT)
+Serial Bonds 25,180 23,080 0.95% - 2.20% 2026-2035 1,100 - 5,315
+Term Bonds 10,465 10,465 2.38% 2036-2040 1,960 - 2,215
+35,645 33,545
+2020 SERIES H BONDS (S/F - M/F)
+2020 Series H (Federally Taxable)
+Serial Bonds 27,345 27,345 1.70% - 2.57% 2026-2032 3,800 - 4,055
+Term Bonds 12,655 12,655 2.67% 2033-2035 4,130 - 4,310
+40,000 40,000
+31
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2021 SERIES A BONDS (M/F)
+2021 Series A (Non-AMT)
+Serial Bonds 21,000 4,000 0.60% 2026 4,000
+Term Bonds 6,000 6,000 1.85% 2034-2036 1,955 - 2,040
+Term Bonds 7,000 7,000 2.05% 2037-2041 1,345 - 1,455
+Term Bonds 8,000 8,000 2.15% 2042-2046 1,540 - 1,660
+Term Bonds 8,000 8,000 2.20% 2047-2051 1,530 - 1,665
+50,000 33,000
+2021 SERIES B BONDS (S/F)
+2021 Series B (Non-AMT)
+Serial Bonds 10,150 6,825 0.75% - 1.85% 2026-2032 900 - 1,050
+Term Bonds 5,925 5,925 2.05% 2033-2036 1,425 - 1,550
+Term Bonds 8,550 8,550 2.20% 2037-2041 1,600 - 1,800
+Term Bonds 7,050 7,050 2.40% 2042-2046 1,325 - 1,500
+Term Bonds 8,325 8,325 2.45% 2047-2051 1,550 - 1,800
+40,000 36,675
+2021 SERIES C BONDS (S/F)
+2021 Series C (Non-AMT)
+Serial Bonds 10,755 7,790 0.85% - 1.80% 2026-2033 870 - 1,080
+Term Bonds 5,730 5,730 1.90% 2034-2036 1,850 - 1,965
+Term Bonds 10,865 10,865 2.15% 2037-2041 2,035 - 2,310
+Term Bonds 12,650 12,650 2.30% 2042-2046 2,375 - 2,700
+40,000 37,035
+2021 SERIES D BONDS (S/F)
+2021 Series D (Non-AMT)
+Serial Bonds 11,675 8,860 0.90% - 2.10% 2026-2033 995 - 1,225
+Term Bonds 3,915 3,915 2.20% 2034-2036 1,270 - 1,340
+Term Bonds 7,325 7,325 2.40% 2037-2041 1,380 - 1,550
+Term Bonds 7,960 7,960 2.65% 2042-2046 1,505 - 1,670
+Term Bonds 8,455 4,615 3.00% 2049-2051 905 - 2,600
+39,330 32,675
+2022 SERIES A BONDS (M/F)
+2022 Series A (Non-AMT)
+Serial Bonds 19,000 6,500 0.85% 2026 6,500
+Term Bonds 10,180 10,180 2.40% 2037-2041 1,945 - 2,120
+Term Bonds 19,570 19,570 2.60% 2042-2046 3,720 - 4,125
+Term Bonds 1,250 1,250 2.65% 2047-2051 235 - 265
+50,000 37,500
+2022 SERIES B BONDS (M/F)
+2022 Series B (Federally Taxable)
+Serial Bonds 40,000 37,220 1.76% -2.58% 2026-2032 3,765 - 6,440
+Term Bonds 10,000 10,000 2.98% 2033-2036 2,395 - 2,610
+50,000 47,220
+2022 SERIES C BONDS (MF)
+2022 Series C (AMT)
+Term Bonds 69,865 69,865 Variable - 3.31% 2041-2051 1,280 - 12,230
+69,865 69,865
+2022 SERIES D BONDS (S/F)
+2022 Series D (Non-AMT)
+Serial Bonds 14,000 11,785 2.60% - 3.80% 2026-2034 810 - 2,840
+Term Bonds 5,520 5,520 3.88% 2035-2037 1,750 - 1,930
+Term Bonds 16,975 16,975 4.00% 2038-2042 2,070 - 6,555
+Term Bonds 2,450 2,450 4.13% 2043-2047 450 - 525
+Term Bonds 10,300 6,500 5.00% 2049-2052 415 - 2,525
+49,245 43,230
+2022 SERIES E BONDS (S/F)
+2022 Series E (Non-AMT)
+Serial Bonds 11,935 9,790 2.60% - 3.88% 2026-2034 880 - 1,320
+Term Bonds 4,400 4,400 4.00% 2035-2037 1,395 - 1,540
+Term Bonds 11,925 11,925 4.15% 2038-2042 2,145 - 2,630
+Term Bonds 15,325 15,325 4.25% 2043-2047 2,775 - 3,340
+Term Bonds 10,595 7,020 5.00% 2050-2052 1,175 - 3,765
+54,180 48,460
+32
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2022 SERIES F BONDS (M/F)
+2022 Series F (Non-AMT)
+Serial Bonds 24,000 16,000 3.25% - 3.40% 2026-2027 8,000
+Term Bonds 16,000 16,000 4.85% 2038-2042 3,010 - 3,410
+Term Bonds 20,000 20,000 4.95% 2043-2047 3,765 - 4,245
+60,000 52,000
+2022 SERIES G BONDS (S/F)
+2022 Series G-1 (Non-AMT)
+Serial Bonds 7,000 6,000 3.65% - 4.10% 2026-2029 1,000 - 3,000
+Term Bonds 8,000 8,000 5.15% 2038-2042 1,425 - 1,785
+Term Bonds 9,000 9,000 5.30% 2043-2047 1,605 - 2,005
+Term Bonds 12,000 12,000 5.40% 2048-2052 2,160 - 2,590
+2022 Series G-2 (Non-AMT)
+Term Bonds 24,000 24,000 4.21% 2033-2037 4,410 - 5,205
+60,000 59,000
+2023 SERIES A BONDS (S/F)
+2023 Series A (Non-AMT)
+Serial Bonds 7,670 6,840 2.80% - 3.75% 2026-2034 455 - 1,010
+Term Bonds 5,135 5,135 4.15% 2035-2038 1,175 - 1,390
+Term Bonds 5,085 5,085 4.40% 2039-2043 905 - 1,130
+Term Bonds 12,350 12,350 4.60% 2044-2048 2,200 - 2,755
+Term Bonds 9,760 9,760 4.70% 2049-2053 1,580 - 2,850
+40,000 39,170
+2023 SERIES B BONDS (S/F)
+2023 Series B-1 (Non-AMT)
+Serial Bonds 8,020 6,710 3.60% - 4.20% 2026-2033 730 - 960
+Term Bonds 5,455 5,455 4.50% 2034-2038 995 - 1,190
+Term Bonds 6,830 6,830 4.75% 2039-2043 1,240 - 1,495
+Term Bonds 8,655 8,655 4.95% 2044-2048 1,570 - 1,900
+Term Bonds 11,040 11,040 5.05% 2049-2053 1,995 - 2,435
+2023 Series B-2 (Non-AMT)
+Serial Bonds 6,740 5,790 3.20% - 3.75% 2026-2033 645 - 815
+Term Bonds 4,580 4,580 4.00% 2034-2038 845 - 990
+Term Bonds 5,645 5,645 4.40% 2039-2043 1,030 - 1,230
+Term Bonds 7,070 7,070 4.63% 2044-2048 1,285 - 1,545
+Term Bonds 10,965 10,965 4.75% 2049-2054 1,620 - 2,050
+75,000 72,740
+2023 SERIES C BONDS (M/F)
+2023 Series C (Non-AMT)
+Serial Bonds 18,790 17,670 2.90% - 3.10% 2026-2028 2,510 - 10,145
+Term Bonds 4,025 4,025 4.45% 2039-2043 740 - 875
+Term Bonds 14,310 14,310 4.70% 2044-2048 2,610 - 3,125
+Term Bonds 20,235 20,235 4.80% 2049-2053 3,680 - 4,430
+57,360 56,240
+2023 SERIES D BONDS (S/F)
+2023 Series D (Non-AMT)
+Serial Bonds 7,875 7,875 3.20% - 4.05% 2026-2035 605 - 1,005
+Term Bonds 4,945 4,945 4.15% 2036-2038 1,560 - 1,740
+Term Bonds 8,150 8,150 4.50% 2039-2043 1,450 - 1,815
+Term Bonds 8,125 8,125 4.65% 2044-2048 1,445 - 1,810
+Term Bonds 15,905 15,905 4.70% 2049-2053 2,800 - 3,665
+45,000 45,000
+2023 SERIES E BONDS (M/F)
+2023 Series E (Non-AMT)
+Serial Bonds 40,000 30,000 3.55% - 3.75% 2026-2028 10,000
+Term Bonds 5,000 5,000 4.45% 2035-2038 1,165 - 1,335
+Term Bonds 15,000 15,000 4.75% 2039-2043 2,745 - 3,260
+Term Bonds 15,000 15,000 4.88% 2044-2048 2,730 - 3,285
+Term Bonds 15,000 15,000 4.90% 2049-2053 2,730 - 3,285
+90,000 80,000
+2024 SERIES A BONDS (S/F)
+2024 Series A (Non-AMT)
+Serial Bonds 9,380 9,380 3.40% - 3.80% 2029-2035 675 - 1,885
+Term Bonds 5,135 5,135 4.00% 2036-2039 1,175 - 1,390
+Term Bonds 5,630 5,630 4.45% 2040-2044 1,000 - 1,250
+Term Bonds 8,095 8,095 4.65% 2045-2049 1,440 - 1,805
+Term Bonds 11,760 11,760 4.75% 2050-2054 1,905 - 3,435
+40,000 40,000
+33
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2024 SERIES B BONDS (M/F)
+2024 Series B (Non-AMT)
+Serial Bonds 40,000 40,000 3.45% - 3.65% 2027-2030 9,000 - 10,500
+Term Bonds 5,555 5,555 4.00% 2037-2039 1,775 - 1,930
+Term Bonds 8,050 8,050 4.55% 2040-2044 1,465 - 1,755
+Term Bonds 11,610 11,610 4.65% 2045-2049 2,115 - 2,540
+Term Bonds 14,785 14,785 4.70% 2050-2054 2,690 - 3,245
+80,000 80,000
+2024 SERIES C BONDS (S/F)
+2024 Series C (Non-AMT)
+Serial Bonds 16,825 16,035 3.45% - 4.10% 2026-2036 415 - 3,215
+Term Bonds 9,515 9,515 4.15% 2037-2039 2,985 - 3,365
+Term Bonds 13,920 13,920 4.55% 2040-2044 2,460 - 3,130
+Term Bonds 15,850 15,850 4.75% 2045-2049 2,800 - 3,560
+Term Bonds 13,890 13,890 4.85% 2050-2054 2,450 - 3,125
+70,000 69,210
+2024 SERIES D BONDS (S/F)
+2024 Series D (Non-AMT)
+Serial Bonds 12,155 11,520 3.30% - 4.00% 2026-2036 770 - 1,380
+Term Bonds 9,295 9,295 4.10% 2037-2039 2,915 - 3,285
+Term Bonds 9,870 9,870 4.50% 2040-2044 1,070 - 2,390
+Term Bonds 8,620 8,620 4.70% 2045-2049 1,530 - 1,935
+Term Bonds 20,060 20,060 4.75% 2050-2054 3,150 - 6,270
+60,000 59,365
+2024 SERIES F BONDS (M/F)
+2024 Series F (Non-AMT)
+Serial Bonds 59,760 59,760 3.30% - 3.55% 2026-2029 8,500 - 20,260
+Term Bonds 3,240 3,240 4.10% 2037-2039 1,030 - 1,130
+Term Bonds 6,520 6,520 4.55% 2040-2044 1,185 - 1,425
+Term Bonds 11,165 11,165 4.70% 2045-2049 2,030 - 2,440
+Term Bonds 14,315 14,315 4.75% 2050-2054 2,605 - 3,140
+95,000 95,000
+2024 SERIES G BONDS (S/F)
+2024 Series G (Non-AMT)
+Serial Bonds 9,435 9,435 3.30% - 3.90% 2029-2036 970 - 1,415
+Term Bonds 3,670 3,670 3.95% 2037-2039 1,155 - 1,295
+Term Bonds 12,630 12,630 4.35% 2040-2044 2,270 - 2,815
+Term Bonds 10,025 10,025 4.55% 2045-2049 1,795 - 2,225
+Term Bonds 14,240 14,240 4.60% 2050-2054 2,540 - 3,225
+50,000 50,000
+2025 SERIES A BONDS (S/F)
+2025 Series A (Non-AMT)
+Serial Bonds 12,955 12,955 3.20% - 3.95% 2029-2037 1,160 - 1,760
+Term Bonds 7,685 7,685 4.10% 2038-2040 2,430 - 2,705
+Term Bonds 12,670 12,670 4.50% 2041-2045 2,280 - 2,810
+Term Bonds 6,570 6,570 4..65% 2046-2050 1,175 - 1,455
+Term Bonds 20,120 20,120 4.70% 2051-2053 6,320 - 7,125
+60,000 60,000
+2025 SERIES B BONDS (S/F)
+2025 Series B (Non-AMT)
+Serial Bonds 14,810 14,810 3.25% - 4.60% 2027-2037 500 - 1,795
+Term Bonds 5,645 5,645 4.75% 2038-2040 1,780 - 1,990
+Term Bonds 11,815 11,815 5.05% 2041-2045 2,105 - 2,620
+Term Bonds 15,725 15,725 5.13% 2046-2050 2,795 - 3,510
+Term Bonds 11,880 11,880 5.15% 2051-2054 55 - 4,170
+Term Bonds 13,730 13,690 6.25% 2054-2055 6,105 - 7,585
+73,605 73,565
+2025 SERIES C BONDS (M/F)
+2025 Series C (Non-AMT)
+Serial Bonds 62,000 62,000 2.90% - 3.25% 2027-2030 7,000 - 26,000
+Term Bonds 8,790 8,790 4.85% 2038-2040 2,795 - 3,065
+Term Bonds 18,660 18,660 5.10% 2041-2045 3,395 - 4,080
+Term Bonds 9,960 9,960 5.15% 2046-2050 1,810 - 2,180
+Term Bonds 25,590 25,590 5.25% 2051-2055 4,655 - 5,615
+125,000 125,000
+34
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Maturities/
+Sinking Fund
+Original Installments Range of Required
+Amount Amount Interest on Bonds Annual Principal Payments
+Issued Outstanding Rate(s) Outstanding on Bonds
+2025 SERIES D BONDS (S/F)
+2025 Series D - 1 (Non-AMT)
+Serial Bonds 26,275 26,275 2.85% - 4.05% 2028-2037 1,730 - 3,115
+Term Bonds 12,105 12,105 4.50% 2038-2040 3,805 - 4,265
+Term Bonds 21,620 21,620 4.85% 2041-2045 1,925 - 5,345
+2025 Series D -2 (Non-AMT)
+Term Bonds 3,740 3,740 4.85% 2045 3,740
+Term Bonds 33,740 33,740 4.95% 2046-2050 5,990 - 7,570
+Term Bonds 20,250 20,250 6.00% 2052-2055 1,020 - 7,800
+117,730 117,730
+2025 SERIES E BONDS (M/F)
+2025 Series E (Non-AMT)
+Serial Bonds 22,000 22,000 3.00% - 3.10% 2028-2030 6,000 - 8,000
+Term Bonds 10,000 10,000 4.10% 2038-2040 3,240 - 3,435
+Term Bonds 12,000 12,000 4.55% 2041-2045 2,200 - 2,600
+Term Bonds 8,000 8,000 4.85% 2046-2050 1,455 - 1,745
+Term Bonds 18,000 18,000 4.90% 2051-2055 3,270 - 3,940
+70,000 70,000
+2,563,040
+Less: Net Unamortized Bond Discount ( 4,044)
+Total Mortgage Purchase Fund 3,224,145 2,558,996
+Total Proprietary Funds $3,224,145 $2,558,996
+GOVERNMENTAL FUNDS
+MAINE ENERGY, HOUSING & ECONOMIC RECOVERY FUND
+2021 Series 1 (Non-AMT)
+Serial Bonds $15,020 $15,020 5.00% 2034-2037 3,265 - 4,110
+2021 Series 2 (Taxable)
+Serial Bonds 38,930 26,375 1.16% - 2.42% 2026-2034 295 - 3,480
+41,395
+Plus: Net Unamortized Bond Premium 2,969
+Total Maine Energy, Housing & Recovery
+Fund Group 53,950 44,364
+Total Governmental Funds $53,950 $44,364
+The following table summarizes bond debt activity for the year ended December 31, 2025:
+Outstanding at Outstanding at
+Fund December 31, 2024 Issues Retirement December 31, 2025
+Mortgage Purchase Fund $2,281,295 $446,335 ($164,590) $2,563,040
+Maine Energy, Housing &
+Economic Recovery Fund 44,450 0 (3,055) 41,395
+Total $2,325,745 $446,335 ($167,645) $2,604,435
+Interest on bonds is payable semi-annually for the Mortgage Purchase Fund and the Maine Energy, Housing
+& Economic Recovery Fund. Scheduled principal payments on bonds are due November 15 for the Mortgage
+Purchase Fund and June 15 for the Maine Energy, Housing & Economic Recovery Fund.
+35
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+The interest calculations shown in the table below are based on the variable rate in effect at December 31,
+2025 and may not be indicative of actual interest expense that will be incurred. As rates vary, variable rate
+bond interest payments and net swap payments will vary. The following table provides a summary of
+MaineHousing’s bond debt service requirements and net interest rate swap payments through 2030 and in
+five-year increments thereafter to maturity:
+Maine Energy, Housing &
+Mortgage Purchase Fund Economic Recovery Fund
+Fixed and Variable Variable
+Unswapped Swapped Swaps Fixed
+Year(s) Principal Interest Principal Interest Net Interest Principal Interest
+2026 $105,525 $87,297 $0 $7,098 ($2,946) $3,085 $1,214
+2027 111,915 84,755 0 7,168 (2,297) 3,120 1,174
+2028 123,880 81,579 0 7,170 (2,311) 3,165 1,126
+2029 120,365 77,953 2,795 7,167 (2,232) 3,215 1,072
+2030 104,925 74,348 2,905 7,074 (2,166) 3,275 1,011
+2031-2035 347,864 334,995 22,526 33,824 (7,107) 17,510 3,788
+2036-2040 405,061 274,515 24,774 28,397 118 8,025 406
+2041-2045 420,663 194,578 17,883 26,263 0 0 0
+2046-2050 341,258 113,620 112,562 15,669 0 0 0
+2051-2055 279,859 36,233 18,280 799 0 0 0
+Total $2,361,315 $1,359,873 $201,725 $140,629 ($18,941) $41,395 $9,791
+MaineHousing’s bonds are a special obligation of MaineHousing and do not constitute a debt or liability of the
+State of Maine. The bonds are secured in accordance with bond resolutions. Security for bonds in the
+Mortgage Purchase Fund includes the mortgage loans made or purchased under the resolution and all monies
+and investments in the fund and accounts pledged under the resolution. Bonds in the Mortgage Purchase
+Fund may be redeemed in excess of the annual maturities in accordance with the terms of the resolution.
+Bonds in the Maine Energy, Housing & Economic Recovery Fund are secured by a portion of the Real Estate
+Transfer Tax revenues collected by the State of Maine and the bonds may be redeemed in excess of the annual
+maturities.
+Notes Payable
+At December 31, 2025, MaineHousing has a $12,293 note payable to TD Bank, N.A. at a fixed rate of 3.20%,
+maturing November 1, 2033. The note, which is recorded in the General Administrative Fund, has principal
+and interest payments due monthly based on a 20-year amortization schedule.
+The proceeds from this note were used for the acquisition and rehabilitation of an office building for
+MaineHousing. The note is secured by a mortgage agreement on the property and a $2,802 non-negotiable
+certificate of deposit held with the lender.
+The following table provides a summary of note payment requirements through 2030 and in three-year
+increments thereafter to maturity:
+Year(s) Principal Interest Total
+2026 700 388 1,088
+2027 724 365 1,089
+2028 746 343 1,089
+2029 772 317 1,089
+2030 797 292 1,089
+2031-2033 8,554 714 9,268
+Total $12,293 $2,419 $14,712
+36
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Moral Obligation Debt
+The reserve funds of the Mortgage Purchase Fund are secured by a non-binding obligation (moral obligation)
+from the State of Maine to replenish by appropriation any deficiency in such reserve funds. MaineHousing is
+authorized to have an aggregate amount not to exceed $3,000,000 of outstanding bonds secured by this
+obligation. Of that amount, $2,563,040 was outstanding at December 31, 2025.
+Conduit Debt Obligation
+MaineHousing may use its tax-exempt debt issuing authority to provide financial assistance to private sector
+developers for the acquisition and rehabilitation, or the construction of multi-family housing projects serving
+low-to-moderate income households. The debt, which is referred to as conduit debt, is collateralized by
+revenues generated by the properties financed and is repayable solely from payments received on the
+underlying mortgage loans and any specific third-party credit enhancement associated with the individual
+financings. MaineHousing has a total of $24,865 outstanding at December 31, 2025. The debt does not
+constitute a liability or a pledge of faith and credit of MaineHousing and is not reported in the accompanying
+financial statements.
+(7.) INTEREST RATE SWAP AGREEMENTS
+MaineHousing has twelve interest rate swap agreements (swaps) with four counterparties as of December 31,
+2025. The objective of the agreements is to attain a synthetic fixed interest rate on a portion of its variable
+rate bonds at a cost expected to be less than rates associated with fixed-rate debt. The swap agreement
+terms state MaineHousing is to make semi-annual fixed interest rate payments at a specified rate on a notional
+principal amount and in exchange receive semi-annual payments based upon either the thirty-day, ninety-day
+or one hundred eighty-day Secure Overnight Financing Rate (SOFR).
+The swaps have an aggregate positive fair value of $13,740 at December 31, 2025. During 2025, the fair
+value of the swaps decreased by $5,891. The fair value was estimated using a zero-coupon method and
+Level 3 inputs. This method calculates the future net settlement payments required by the swaps, assuming
+that the current forward rates implied by the current yield curve correctly anticipate future spot interest rates.
+These payments are then discounted using spot rates implied by the current yield curve for hypothetical zero-
+coupon bonds due on the date of each future net settlement on the swap. These amounts are adjusted for
+estimated unwinding costs.
+The swaps have been determined to constitute an effective hedge of a portion of the variable rate bond
+portfolio equal to the notional amount of the swaps at December 31, 2025 by using the regression analysis
+method. The aggregate fair value is classified as a derivative instrument asset and a deferred inflow of
+resources, which represents the accumulated increase in fair value. Variable rate bonds outstanding at
+December 31, 2025 total $278,315.
+37
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+The following table contains the terms, fair values, and credit ratings of the swaps as of December 31, 2025.
+Specific swaps are assigned to certain debt issuances for arbitrage purposes. The credit ratings were issued
+by Moody’s Investor Services and Standard & Poor’s, respectively.
+Current Swap
+Related Debt Notional Effective Date Fixed Rate Termination Counterparty
+Issuance Amount of Swap Paid Variable Rate Received Fair Value Date Credit Rating
+2015 Series E-3 5,000 11/15/2019 1.40% 70% of 30 day SOFR plus 200 11/15/2029 Aa3/A+
+.08014%
+2015 Series E-3 20,000 5/15/2021 1.46% 67% of 30 day SOFR plus 1,206 11/15/2032 A1/A+
+.0767%
+2016 Series B-2 8,000 5/15/2017 1.61% 70% of 30 day SOFR plus 440 11/15/2031 Aa1/AA-
+1
+.08014%
+2016 Series B-2 20,000 11/15/2017 1.66% 70% of 30 day SOFR plus 1,060 11/15/2031 Aa1/AA-
+1
+.08014%
+2017 Series E 25,000 11/15/2021 1.69% 100% of 30 day SOFR 3,182 11/15/2032 Aa3/A+
+plus .11448%
+2017 Series G-1 25,000 11/15/2019 1.90% 100% of 30 day SOFR 422 11/15/2026 A1/A+
+plus .11448%
+2017 Series G-1 30,000 11/15/2020 0.88% 100% of 90 day SOFR 7,873 11/15/2035 A1/A+
+plus .26161%
+2022 Series C 18,725 2/1/2006 3.59% 65% of 30 day SOFR plus (1,304) 11/15/2037 Aa2/AA-
+.27441%
+2022 Series C 10,000 11/15/2019 1.87% 75% of 30 day SOFR plus 131 11/15/2026 Aa3/A+
+0.54086%
+2022 Series C 12,500 11/15/2018 2.57% 70% of 30 day SOFR plus 120 11/15/2028 Aa3/A+
+0.53014%
+2022 Series C 12,500 11/15/2018 2.59% 70% of 30 day SOFR plus 458 11/15/2033 Aa3/A+
+0.53014%
+2022 Series C 15,000 8/1/2023 2.70% 72% of 180 day SOFR (48) 11/15/2033 Aa3/A+
+Totals $201,725 $13,740
+1. MaineHousing has the option of termination, with no Termination Payment on November 15, 2026 and on each May 15 and November 15
+thereafter.
+Credit Risk – The swaps contain varying collateral agreements with the counterparties in order to mitigate the
+potential for credit risk. The requirements of the collateral agreements were met as of December 31, 2025.
+MaineHousing is not exposed to credit risk for the swaps that have negative fair values. At December 31,
+2025, there are ten swaps that have positive fair values totaling $15,092. This amount represents
+MaineHousing’s credit exposure to the related counterparties and the maximum loss that would be recognized
+at the reporting date if the counterparty failed to perform as contracted. Fair value is only a factor upon
+termination.
+Basis Risk – MaineHousing is exposed to basis risk to the extent that the interest payments on its variable rate
+bonds do not match the variable rate payments received on the related swap agreements. The variable rate
+payments provided by the counterparties are based on SOFR and MaineHousing’s variable rate bonds are
+expected to track with the Securities Industry and Financial Markets Association Municipal Swap Index (SIFMA).
+MaineHousing’s variable rate bonds are adjusted weekly. The SOFR rates are adjusted on a monthly basis,
+except for 2017 Series G-1, which is adjusted on a quarterly basis and 2022-C, which is adjusted on a semi-
+annual basis. If the variable rate bonds trade at a value significantly different than their historical relationship
+to SOFR, the net cost to MaineHousing could increase or decrease. As of December 31, 2025, the thirty-day,
+ninety-day and one hundred eighty-day SOFR rates were 3.79%, 4.01% and 4.20%, respectively, and the
+SIFMA rate was 2.36%.
+Termination Risk – In addition to the optional terminations embedded in some of MaineHousing’s swap
+agreements, agreements may be terminated in whole or in part prior to the respective maturities of the bonds
+under certain circumstances (including certain events of default with respect to MaineHousing or the swap
+providers). Following certain terminations of the swap agreements, either MaineHousing or the swap
+providers, as applicable, may owe a termination payment equal to the fair value of the swap to the other,
+depending upon market conditions and the events that caused such swap agreements to terminate. Under
+certain circumstances, this termination payment could be substantial. Such termination payment by
+MaineHousing would be payable on a basis subordinate to the payments on the bonds.
+Rollover Risk – MaineHousing is exposed to rollover risk on swaps that mature or may be terminated prior to
+the maturity of the associated debt.
+38
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(8.) RETIREMENT BENEFITS
+MaineHousing has defined contribution and defined benefit pension plans that cover substantially all
+employees. Employees have the option to participate in either plan.
+Defined Contribution Plan
+The defined contribution plan consists of a deferred compensation plan created in accordance with Internal
+Revenue Code Section 457 and a separate plan created under the provisions of the Internal Revenue Code
+Section 401(a).
+Benefit terms, including contribution requirements, for the defined contribution plan are established by
+management. For each participant in the plan, MaineHousing contributes 3.00% of annual salary to the 401(a)
+plan. Additionally, if a participant makes voluntary contributions to the 457 plan, MaineHousing matches the
+contributions up to 7.50% of annual salary. The employer match contribution is made to the 401(a) plan.
+For the year ended December 31, 2025, employee contributions totaled $1,086 and MaineHousing contributed
+and recognized expense of $883. Employees are immediately vested in their own contributions, MaineHousing
+contributions, and the earnings on those contributions.
+Defined Benefit Plan
+Plan Description: MaineHousing is a participating local district (PLD) member of the Maine Public Employees
+Retirement System’s (MainePERS) PLD Consolidated Retirement Plan and employees may elect to participate
+in this multiple-employer cost sharing defined benefit plan. An advisory group established by Maine statute
+reviews the terms of the plan and periodically makes recommendations to the Legislature to amend them.
+Benefits Provided: Retirement benefits are based on participants’ average final compensation and service credit
+earned as of retirement. Vesting occurs upon the earning of five years of service credit. The normal retirement
+age is 60 or 65. The monthly benefit of members who retire before normal retirement age by virtue of having
+at least 25 years (20 years for participants in the plan prior to July 1, 2014) of service credit is reduced by a
+statutorily prescribed factor for each year of age that a participant is below her/his normal retirement age at
+retirement.
+Post-retirement cost-of-living adjustments (COLA) become available to participants after 24 months of
+retirement. The post-retirement COLA is capped at 2.5% annually. The plan also provides disability and death
+benefits, which are established by contract under applicable statutory provisions.
+Upon termination, accumulated employee contributions are refundable with interest, credited in accordance
+with statute. Withdrawal of accumulated contributions results in forfeiture of all benefits and rights. The
+annual rate of interest credited to participants’ accounts is set by MainePERS Board of Trustees and is currently
+4.58%.
+Contributions: Retirement benefits are funded by contributions from participants and employers and by
+earnings from MainePERS investments. Disability and death benefits are funded by employer normal cost
+contributions and by investment earnings. Participant and employer normal cost contributions are each a
+percentage of applicable participant compensation. Participant contribution rates are defined by law or by the
+MainePERS Board of Trustees. Employers’ contributions are determined by actuarial valuations. As of
+December 31, 2025, the established MainePERS employer contribution rate is 10.2% and employee
+contribution rates are 7.80% for participants with a normal retirement age of 60 and 7.05% for participants
+with a normal retirement age of 65. MaineHousing pays on behalf of its employees 0.30% of the MainePERS
+employee contribution rate. If a participant retires and is subsequently re-employed in a position covered by
+the plan, the employer contribution rate is 5%. Total employer contributions were $597 for the year ended
+December 31, 2025.
+39
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Actuarial Methods and Assumptions
+The collective total pension liability was determined by an actuarial valuation as of June 30, 2025, using the
+following methods and assumptions, applied to all periods included in the measurement:
+Actuarial Cost Method – The Entry Age Normal cost method is used to determine costs. Under this cost
+method, the total employer contribution rate consists of two elements, the normal cost rate and the unfunded
+actuarial liability rate.
+The individual entry age normal method is used to determine liabilities. Under the individual entry age normal
+method, a normal cost rate is calculated for each member. This rate is determined by taking the value, as of
+age at entry into the plan, of the member’s projected future benefits, and dividing it by the value, also as of
+the member’s entry age, of his/her expected future salary. The normal cost for each member is the product
+of the member’s pay and normal cost rate. The normal cost for the group is the sum of the normal costs for
+all members. Experience gains and losses, i.e., decreases or increases in liabilities and/or in assets when
+actual experience differs from the actuarial assumptions, affect the unfunded actuarial accrued liability.
+Asset Valuation Method – The actuarial valuation employs a technique for determining the actuarial value of
+assets which reduces the impact of short-term volatility in the market value. The specific technique adopted
+in this valuation recognizes in a given year one-third of the investment return that is different from the actuarial
+assumption for investment return.
+Amortization – The net pension liability is amortized on a level percentage of payroll using a method where a
+separate twenty-year closed period is established annually for the gain or loss for that year.
+Actuarial Assumptions: The actuarial valuation as of June 30, 2025, and June 30, 2024 used the following
+actuarial assumptions:
+Investment Rate of Return – 6.50% per annum, compounded annually.
+Inflation Rate – 2.75%.
+Annual Salary Increases, Including Inflation – 2.75% to 11.48%.
+Cost of Living Benefit Increases – 1.91%.
+Mortality Rates – 2010 Public Plan General Benefits-Weighted Healthy Retiree Mortality Table for males
+and females, projected generationally using RPEC_2020 model.
+The actuarial assumptions used in the June 30, 2025, and June 30, 2024, valuations were based on the results
+of an actuarial experience study covering the period June 30, 2016, through June 30, 2020. The demographic
+and economic assumptions used are based on an experience study covering the period from July 1, 2015,
+through June 30, 2020 along with advice of the MainePERS investment consultants.
+40
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+The long-term expected rate of return on pension plan investments was determined using a building-block
+method in which best-estimate ranges of expected future real rates of return (expected returns, net of pension
+plan investment expense and inflation) are developed for each major class of assets. These ranges are
+combined to produce the long-term expected rate of return by weighting the expected future real rates of
+return by the target asset allocation percentage and by adding expected inflation. Best estimates of geometric
+real rates of return for each major asset class included in the pension plan’s target asset allocation as of
+June 30, 2025 are summarized in the following table:
+Long-Term Expected
+Asset Class Target Allocation Real Rate of Return
+Public Equities 30.0% 5.6%
+US Government 10.0% 2.2%
+Private Equity 12.5% 7.2%
+Real Estate 10.0% 5.8%
+Infrastructure 10.0% 5.3%
+Natural Resources 5.0% 5.1%
+Traditional Credit 5.0% 2.7%
+Alternative Credit 10.0% 6.4%
+Risk Diversifiers 7.5% 4.8%
+Discount Rate: The discount rate used to measure the collective total pension liability was 6.50%. The
+projection of cash flows used to determine the discount rate assumed that participant contributions will be
+made at the current contribution rate and that employer and non-employer entity contributions will be made
+at contractually required rates, actuarially determined. Based on these assumptions, the pension plan’s
+fiduciary net position was projected to be available to make all projected future benefit payments to current
+plan members. Therefore, the long-term expected rate of return on pension plan investments was applied to
+all periods of projected benefit payments to determine the total pension liability.
+Sensitivity of MaineHousing’s proportionate share of the net pension liability to changes in the discount rate:
+The following represents MaineHousing’s proportionate share of the net pension liability calculated using the
+discount rate of 6.50%, as well as what MaineHousing’s proportionate share of the net pension liability (asset)
+would be if it were calculated using a discount rate that is 1% lower or 1% higher than the current rate.
+1% Decrease Current Discount Rate 1% Increase
+@ 5.50% @ 6.50% @ 7.50%
+$4,542 $1,550 ($913)
+Net Pension Liability: At December 31, 2025, MaineHousing has a liability of $1,550 for its proportionate share
+of the total collective net pension liability. The net pension liability was measured as of June 30, 2025 and
+the total collective pension liability used to calculate the proportionate share of the net pension liability was
+determined by an actuarial valuation as of that date. MaineHousing’s proportion of the net pension liability
+was based on MaineHousing’s employer contributions received by MainePERS during the measurement period
+July 1, 2024 through June 30, 2025, relative to the total employer contributions received from all participating
+entities. MaineHousing’s proportion was 0.468946% at December 31, 2025. The proportion was 0.559555%
+at December 31, 2024.
+Changes in net pension liability are recognized in pension expense for the year ended December 31, 2025 with
+the following exceptions:
+Differences Between Expected and Actual Experience – The difference between expected and actual
+experience with regard to economic or demographic factors is recognized in pension expense using a straight-
+line amortization method over a closed period equal to the average expected remaining service lives of active
+and inactive members. The first year is recognized as pension expense and the remaining years are shown
+as either deferred outflows of resources or deferred inflows of resources. The amortization period was four
+years for 2025 and three years for 2024.
+41
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Differences Between Projected and Actual Investment Earnings – Differences between projected and actual
+investment earnings are recognized in pension expense using a straight-line amortization method over a closed
+five-year period. The first year is recognized as pension expense and the remaining years are shown as either
+deferred outflows of resources or deferred inflows of resources.
+Changes in Assumptions – Differences due to changes in assumptions about future economic or demographic
+factors or other inputs are recognized in pension expense using a straight-line amortization method over a
+closed period equal to the average expected remaining service lives of active and inactive members. The
+actuarial assumptions for the June 30, 2025 valuation were based on the results of an actuarial experience
+study for the period of July 1, 2015 through June 30, 2020. The first year is recognized as pension expense
+and the remaining years are shown as either deferred outflows of resources or deferred inflows of resources.
+Changes in Proportion and Differences Between Employer Contributions and Proportionate Share of
+Contributions – Differences resulting from a change in proportionate share of contributions and differences
+between total employer contributions and the employer’s proportionate share of contributions are recognized
+in pension expense using a straight-line amortization method over a closed period equal to the average
+expected remaining service lives of active and inactive members. The first year is recognized as pension
+expense and the remaining years are shown either as deferred outflows of resources or deferred inflows of
+resources. Differences between total employer contributions and the employer’s proportionate share of
+contributions may arise when an employer has a contribution requirement for an employer specific liability.
+Pension Expense and Deferred Outflows of Resources and Deferred Inflows of Resources Related to Pensions:
+For the year ended December 31, 2025, MaineHousing recognized pension expense of $144 and reported
+deferred outflows of resources and deferred inflows of resources related to pensions from the following
+sources:
+Deferred Outflows Deferred Inflows
+of Resources of Resources
+Differences between expected and actual experience $499 $0
+Employer contributions subsequent to the measurement date 312 0
+Net difference between projected and actual earnings on
+pension plan investments 0 284
+Changes in proportion and differences between employer
+contributions and proportionate share of contributions 0 267
+Total $811 $551
+Amounts reported as deferred outflows of resources related to pensions for MaineHousing’s contributions
+subsequent to the measurement date will be recognized as an addition to the Net Pension Liability for the year
+ended December 31, 2025. Other amounts reported as deferred outflows of resources and deferred inflows
+of resources related to pensions will be recognized as pension expense (benefit) through December 31, 2029
+as follows:
+Year Ended Pension Expense (Benefit)
+December 31: Amount
+2026 $312
+2027 ($121)
+2028 ($133)
+2029 ($110)
+Payables to the Pension Plan: At December 31, 2025, MaineHousing’s total payable to MainePERS for
+unremitted contributions is $14.
+Pension plan fiduciary net position: Detailed information about the plan’s fiduciary net position is available in
+the separately issued MainePERS’ Comprehensive Annual Financial Report at www.mainepers.org.
+42
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(9.) AVAILABLE BONDS PROCEEDS
+MORTGAGE PURCHASE FUND
+The following bond proceed amounts are invested in the various bond proceed sub-accounts of the Bond
+Proceeds Fund of the Mortgage Purchase Fund and are available for the purchase of mortgages:
+2023 Series E (M/F) $4,576
+2024 Series A (S/F) 13,532
+2024 Series B (M/F) 8,365
+2024 Series C (S/F) 3,854
+2024 Series F (M/F) 71,036
+2025 Series C (M/F) 103,125
+2025 Series D1, D2 (S/F) 4,146
+2025 Series E (M/F) 64,349
+$272,983
+MAINE ENERGY, HOUSING AND ECONOMIC RECOVERY FUND
+Bond proceeds in the amount of $8,945 from the 2021 Series 2 are invested in accordance with the Maine
+Energy, Housing and Recovery General Indenture and are available for programs.
+(10.) COMMITMENTS
+MORTGAGE COMMITMENTS
+Mortgage commitments are agreements to loan money provided there is no violation of any term or condition
+established in the agreement. Generally, once exercised, loans made under the terms of such commitments
+are secured by a lien on the related property and other collateral as MaineHousing deems necessary. At
+December 31, 2025, MaineHousing had outstanding commitments to originate multi-family mortgage loans of
+approximately $369,585. For its single-family loan program, MaineHousing enters into purchase agreements
+with lenders to purchase mortgage loans. At December 31, 2025, single-family loans being processed by
+lenders for MaineHousing totaled approximately $71,800.
+(11.) RESERVE FUNDS
+MORTGAGE PURCHASE FUND – HOUSING RESERVE FUND
+On or before December 1 of each year, MaineHousing is required to value the Housing Reserve Fund and
+verify to the Governor of the State of Maine that the sum of money in the fund equals or exceeds the Housing
+Reserve Fund Minimum Requirement. The Housing Reserve Fund Minimum Requirement equals the amount
+of principal and interest maturing and coming due in the next succeeding calendar year on bonds outstanding.
+The Housing Reserve Fund Minimum Requirement as of December 31, 2025 was $219,993. When issuing
+bonds, MaineHousing must also meet the Housing Reserve Fund Maximum Requirement. The Housing Reserve
+Fund Maximum Requirement equals the maximum debt service required in any subsequent calendar year. The
+Housing Reserve Fund Maximum Requirement as of December 31, 2025 was $235,815.
+In calculating the Housing Reserve Minimum and the Housing Reserve Maximum requirements, MaineHousing
+assumes a 12% rate for variable rate bonds, which is the maximum interest rate under the terms of the bonds.
+Swap payments and receipts are not included in the calculation. At December 31, 2025, valuation of the
+investments in the Housing Reserve Fund, computed at the lower of par or cost in accordance with the General
+Mortgage Purchase Program Bond Resolution, was $248,084.
+MAINE ENERGY, HOUSING & ECONOMIC RECOVERY FUND – RESERVE FUND
+MaineHousing is not required to maintain a Reserve Fund for outstanding bonds.
+43
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Between July 1 and July 15 of each year, MaineHousing must certify to the Treasurer of the State the amount
+necessary and sufficient to meet MaineHousing’s debt service obligation. As of December 31, 2025, the
+maximum debt service amount was $4,299.
+(12.) EXCESS ARBITRAGE TO BE REBATED
+Tax-exempt bonds issued by MaineHousing are subject to Internal Revenue Service regulations that limit the
+amount of income that can be earned with non-mortgage investments to an amount not greater than the
+amount that would have been earned had the funds been invested at the yield on the bonds. Excess earnings
+must be rebated every five years. At December 31, 2025, the estimated value of future arbitrage liabilities in
+the Mortgage Purchase Fund Group was $3,207.
+(13.) FUND TRANSFERS AND INTERFUND BALANCES
+MaineHousing records transfers between funds for various purposes including program subsidies, fees and
+capital asset transfers. Transfers for the year ended December 31, 2025 consisted of the following.
+Low Income Other
+Mortgage General Section 8 Home Energy Federal
+Purchase Administrative HOME Housing Assistance and State
+Fund Fund Fund Programs Program Programs
+Capital Assets $0 $114 $0 $0 ($40) ($74)
+Program Subsidies 0 (36) (34) 0 36 34
+Program Administrative Fees 28 2,174 0 (2,030) 0 (172)
+$28 $2,252 ($34) ($2,030) ($4) ($212)
+MaineHousing reports interfund balances among its funds. These balances generally consist of amounts for
+various revenues or expenses due to a fund but received or paid to another and funds for loan closings. These
+amounts are generally paid or received within the subsequent year.
+Interfund accounts receivable (payable) balances at December 31, 2025 consisted of the following:
+Low Income Maine Energy,
+Home Housing & Other
+Mortgage Bondholder General Section 8 Energy Economic Federal
+Purchase Reserve Administrative HOME Housing Assistance Recovery and State
+Fund Fund Fund Fund Programs Program Program Programs
+Receivable due from:
+Mortgage Purchase Fund $0 $0 $4,105 $0 $0 $0 $0 $0
+General Administrative Fund 0 0 0 5,061 0 0 0 18,306
+Section 8 Housing Programs 0 0 317 0 0 0 0 0
+Low Income Home Energy Assistance Program 0 0 1,084 0 0 0 0 0
+Collectively, all other funds 0 0 27 2 29 0 0 0
+0 0 5,533 5,063 29 0 0 18,306
+Payables (4,105) (24) (23,367) (29) (317) (1,084) (3) (2)
+($4,105) ($24) ($17,834) $5,034 ($288) ($1,084) ($3) $18,304
+The receivable amounts of the General Administrative Fund consist primarily of operating expenses owed from
+the Mortgage Purchase Fund, Section 8 Housing Programs, and Low Income Home Energy Assistance Program.
+The General Administrative Fund payable amounts consist primarily of program funds received and due to the
+HOME Fund and Other Federal and State Programs.
+44
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(14.) REDEMPTION OF BONDS
+For the year ended December 31, 2025, MaineHousing redeemed prior to maturity $116,970 of its Mortgage
+Purchase Fund bonds from recoveries of principal and surplus and the proceeds of refunded bonds. Losses of
+$166 were attributed to the recognition of related bond discount. The following is a summary of bonds
+redeemed:
+Redemption
+Interest Rate Original Maturity Amount Price
+2013 Series B Term Bonds 3.60% 11/15/2036 $320 100%
+2013 Series B Term Bonds 3.60% 11/15/2036 2 ,600 100%
+2015 Series E-3 Term Bonds Variable 11/15/2038 2 ,050 100%
+2015 Series E-3 Term Bonds 2.94% 11/15/2038 2 ,500 100%
+2015 Series F-2 Serial Bonds 2.65% 11/15/2025 500 100%
+2016 Series D Serial Bonds 2.54% 11/15/2025 8 ,185 100%
+2016 Series E Serial Bonds 2.90% 11/15/2025 745 100%
+2016 Series E Term Bonds 4.00% 11/15/2046 695 100%
+2017 Series A Serial Bonds 2.80% 11/15/2025 685 100%
+2017 Series A Term Bonds 4.00% 11/15/2047 270 100%
+2017 Series B Term Bonds 4.00% 11/15/2047 460 100%
+2017 Series F Term Bonds 3.50% 11/15/2047 1 ,270 100%
+2018 Series A Serial Bonds 2.75% 11/15/2025 1 ,155 100%
+2018 Series B Serial Bonds 2.75% 11/15/2025 1 ,200 100%
+2018 Series C Term Bonds 4.00% 11/15/2048 1 ,290 100%
+2018 Series F Term Bonds 4.25% 11/15/2048 1 ,235 100%
+2019 Series A Term Bonds 4.00% 11/15/2049 1 ,170 100%
+2019 Series C Term Bonds 4.00% 11/15/2050 1 ,220 100%
+2019 Series E Term Bonds 3.75% 11/15/2049 925 100%
+2020 Series A Term Bonds 3.75% 11/15/2049 955 100%
+2020 Series C Term Bonds 4.00% 11/15/2050 1 ,515 100%
+2021 Series D Term Bonds 3.00% 11/15/2051 1 ,415 100%
+2022 Series D Term Bonds 5.00% 11/15/2052 825 100%
+2022 Series D Term Bonds 5.00% 11/15/2052 825 100%
+2022 Series E Term Bonds 5.00% 11/15/2052 885 100%
+2022 Series E Term Bonds 5.00% 11/15/2052 915 100%
+2022 Series F Serial Bonds 3.10% 11/15/2025 8 ,000 100%
+2022 Series G-1 Serial Bonds 3.45% 11/15/2025 1 ,000 100%
+2023 Series B-1 Serial Bonds 3.50% 11/15/2025 710 100%
+2023 Series B-2 Serial Bonds 3.15% 11/15/2025 620 100%
+2023 Series E Serial Bonds 3.50% 11/15/2025 10,000 100%
+2024 Series C Serial Bonds 3.40% 11/15/2025 790 100%
+2024 Series E Term Bonds 3.25% 11/15/2054 60,000 100%
+2025 Series B Term Bonds 6.25% 11/15/2055 40 100%
+$116,970
+45
+Maine State Housing Authority
+Notes to Financial Statements – December 31, 2025
+(IN THOUSANDS OF DOLLARS)
+(15.) UNUSUAL OR INFREQUENT ITEM
+MaineHousing administered the federal Emergency Rental Assistance Programs (ERA1 and ERA2) on behalf of
+the State of Maine. These programs were funded through the Consolidated Appropriations Act of 2021 and
+the American Rescue Plan Act of 2021.
+In 2025, the U.S. Department of the Treasury determined that certain program payments totaling $620 were
+improperly made and therefore ineligible under federal program requirements. MaineHousing subsequently
+entered into a repayment agreement with the U.S. Department of the Treasury to return the ineligible amounts.
+The agreement totals $655, inclusive of interest, and is payable in eight quarterly installments over a
+twenty-four-month period. The first installment was remitted in September 2025 and related costs are
+reported separately from normal operating expenses.
+Management does not expect similar events to occur in the foreseeable future.
+(16.) CONTINGENCIES
+MaineHousing is subject to various legal proceedings and claims that arise in the normal course of its business.
+MaineHousing also receives funding from federal government agencies. These funds are to be used for
+designated purposes only and are subject to financial and compliance audits and the resolution of identified
+questioned costs. The amount, if any, of expenditures which may be disallowed by the granting agency cannot
+be determined at this time. In the opinion of management, the ultimate resolution of these actions will not
+materially affect the accompanying financial statements.
+(17.) SUBSEQUENT EVENTS
+Subsequent to December 31, 2025, MaineHousing issued bonds. The following is a summary of subsequent
+event transactions.
+On February 26, 2026, MaineHousing issued, at par, $112,250 of bonds in the General Mortgage Purchase
+Bond Resolution as follows:
+Interest Rate Maturity Amount Issued Price
+2026 Series A Serial Bonds 2.70%-3.85% 2028-2038 $23,285 100%
+2026 Series A Term Bonds 4.15% 2041 9,515 100%
+2026 Series A Term Bonds 4.65% 2046 19,850 100%
+2026 Series A Term Bonds 4.80% 2051 37,710 100%
+2026 Series A Term Bonds 6.00% 2056 21,890 113%
+$112,250
+46
+MAINE STATE HOUSING AUTHORITY
+REQUIRED SUPPLEMENTARY INFORMATION
+SCHEDULES OF SELECTED PENSION INFORMATION - UNAUDITED
+PRESENTED FOR YEARS INFORMATION IS AVAILABLE
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(IN THOUSANDS OF DOLLARS)
+Schedule of MaineHousing's Proportionate Share of Net Pension Liability (Asset)
+Last Ten Fiscal Years
+As of Measurement Date of June 30:
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Employer's Proportion of the Net Pension Liability (Asset) 0.468946% 0.559555% 0.604935% 0.669532% 0.674986% 0.709590% 0.746717% 0.834117% 0.906494% 0.922203%
+Employer's Proportionate Share of the Net Pension Liability (Asset) $1,550 $2,240 $1,931 $1,780 ($217) $2,819 $2,282 $2,823 $3,712 $4,899
+Employer's Covered-Employee Payroll $5,910 $5,319 $5,649 $5,516 $4,972 $4,567 $4,544 $4,658 $4,892 $4,810
+Employer's Proportionate Share of the Net Pension Liability (Asset)
+as a Percentage of its Covered-Employee Payroll 26.2% 42.1% 34.2% 32.3% (4.4%) 61.7% 50.2% 60.6% 75.9% 101.9%
+Plan Fiduciary Net Position as a Percentage of the total
+Pension Liability 93.0% 91.1% 92.3% 93.3% 100.9% 88.3% 90.6% 91.1% 86.4% 81.6%
+Schedule of MaineHousing's Pension Contributions
+Last Ten Fiscal Years
+As of Measurement Date of June 30:
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Contractually Required Contribution $597 $541 $577 $552 $504 $480 $477 $490 $513 $505
+Contributions in Relation to Contractually Required Contribution $597 $541 $577 $552 $504 $480 $477 $490 $513 $505
+Contribution Deficiency (Excess) $0 $0 $0 $0 $0 $0 $0 $0 $0 $0
+Employer's Covered Employee Payroll $5,910 $5,319 $5,649 $5,516 $4,972 $4,567 $4,544 $4,658 $4,892 $4,810
+Contributions as a Percentage of Covered Employee Payroll 10.1% 10.2% 10.2% 10.0% 10.1% 10.5% 10.5% 10.5% 10.5% 10.5%
+Notes to Required Supplementary Information
+Changes of Benefit Terms:
+There were no changes of benefit terms for the measurement period ended June 30, 2025.
+Changes of Assumptions:
+There were no changes of assumptions for the measurement period ended June 30, 2025.
+47

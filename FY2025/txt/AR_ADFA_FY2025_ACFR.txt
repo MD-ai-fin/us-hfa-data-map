@@ -1,0 +1,2112 @@
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY,
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+June 30, 2025
+Combined Financial Statements
+And
+Supplementary Information
+With
+Independent Auditor’s Report
+Table of Contents
+Page
+Independent Auditor’s Report ................................................................................................................. 1 – 3
+Management’s Discussion and Analysis ................................................................................................. 4 – 8
+Combined Financial Statements
+Combined Statement of Net Position ............................................................................................... 9 – 10
+Combined Statement of Revenues, Expenses, and Changes in Net Position .................................... 11
+Combined Statement of Cash Flows (Authority Only) .................................................................. 12 – 13
+Notes to Combined Financial Statements ....................................................................................... 14 – 45
+Required Supplementary Information
+Schedule of the Authority’s Proportionate Share of the Net Pension
+Liability – Arkansas Public Employees Retirement System
+as of June 30, 2025 – June 30, 2016 ........................................................................................... 46
+Schedule of the Authority’s Contributions – Arkansas Public Employees
+Retirement System for the Years Ended June 30, 2025 – June 30, 2016 .................................... 47
+Schedule of Changes in Total Other Postemployment Benefits Liability
+for the Years Ended June 30, 2025 – June 30, 2018 ................................................................... 48
+Supplementary Information
+Combining Statement of Net Position ............................................................................................ 49 – 50
+Combining Statement of Revenues, Expenses, and Changes in Net Position ................................... 51
+Table of Contents (cont.)
+Page
+Compliance and Internal Control Section
+Independent Auditor’s Report on Internal Control Over Financial Reporting
+and on Compliance and Other Matters Based on an Audit of Financial
+Statements Performed in Accordance With Government Auditing Standards ......................... 52 – 53
+Independent Auditor’s Report on Compliance for Each Major Federal
+Program and Report on Internal Control Over Compliance in
+Accordance With the Uniform Guidance ................................................................................. 54 – 56
+Schedule of Findings and Questioned Costs ..................................................................................... 57
+Summary Schedule of Prior Audit Findings ...................................................................................... 58
+Schedule of Expenditures of Federal Awards .................................................................................... 59
+Notes to Schedule of Expenditures of Federal Awards................................................................... 60 – 61
+1
+Independent Auditor’s Report
+Board of Directors
+Arkansas Development Finance Authority,
+A Component Unit of the State of Arkansas
+Little Rock, Arkansas
+Report on the Audit of the Combined Financial Statements
+Opinions
+We have audited the combined financial statements of the business-type activities and the aggregate
+discretely presented component unit of the Arkansas Development Finance Authority, a component unit of
+the State of Arkansas, as of and for the year ended June 30, 2025, and the related notes to the combined
+financial statements, which collectively comprise Arkansas Development Finance Authority’s basic
+combined financial statements as listed in the table of contents.
+In our opinion, the accompanying combined financial statements present fairly, in all material
+respects, the respective financial position of the business-type activities and the aggregate discretely
+presented component unit of Arkansas Development Finance Authority, a component unit of the State of
+Arkansas, as of June 30, 2025, and the respective changes in financial position, and, where applicable, cash
+flows thereof for the year then ended in accordance with accounting principles generally accepted in the
+United States of America (“GAAP”).
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United
+States of America (“GAAS”) and the standards applicable to financial audits contained in Government
+Auditing Standards (“GAS”), issued by the Comptroller General of the United States. Our responsibilities
+under those standards are further described in the Auditor’s Responsibilities for the Audit of the Combined
+Financial Statements section of our report. We are required to be independent of Arkansas Development
+Finance Authority, and to meet our other ethical responsibilities, in accordance with the relevant ethical
+requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Combined Financial Statements
+Management is responsible for the preparation and fair presentation of the combined financial
+statements in accordance with GAAP, and for the design, implementation, and maintenance of internal
+control relevant to the preparation and fair presentation of combined financial statements that are free from
+material misstatement, whether due to fraud or error.
+Little Rock, Arkansas | Fayetteville, Arkansas | Raleigh, North Carolina
+Scottsdale, Arizona | Yuma, Arizona | Naples, Florida | www.frostpllc.com
+An Independent Member of the BDO Alliance USA
+2
+In preparing the combined financial statements, management is required to evaluate whether there
+are conditions or events, considered in the aggregate, that raise substantial doubt about the Arkansas
+Development Finance Authority’s ability to continue as a going concern for 12 months beyond the
+combined financial statement date, including any currently known information that may raise substantial
+doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Combined Financial Statements
+Our objectives are to obtain reasonable assurance about whether the combined financial statements
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinions. We did not audit the financial statements of the Arkansas Institutional
+Fund, LLC, which represents 14%, 6%, and (12%) of the assets, net position, and total changes in net
+position, respectively, for the year ended June 30, 2025 of the aggregate financial statements of the
+Arkansas Venture Capital Investment Trust, which is an aggregate discretely presented component unit of
+the Arkansas Development Finance Authority. Those statements were audited by another auditor whose
+report thereon has been furnished to us, and our opinion, insofar as it relates to the amounts included for
+such entities, is based solely on the reports of the other auditor. Reasonable assurance is a high level of
+assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted in
+accordance with GAAS and GAS will always detect a material misstatement when it exists. The risk of not
+detecting a material misstatement resulting from fraud is higher than for one resulting from error, as fraud
+may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal
+control. Misstatements are considered material if there is a substantial likelihood that, individually or in
+the aggregate, they would influence the judgment made by a reasonable user based on the combined
+financial statements. The financial statements of Arkansas Institutional Fund, LLC, a blended component
+unit included in the financial statements of the aggregate discretely presented component unit, were not
+audited in accordance with GAS.
+In performing an audit in accordance with GAAS and GAS, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the combined financial statements,
+whether due to fraud or error, and design and perform audit procedures responsive to those
+risks. Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the combined financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Arkansas Development Finance Authority’s internal control.
+Accordingly, no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+combined financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about the Arkansas Development Finance Authority’s ability to
+continue as a going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal control-
+related matters that we identified during the audit.
+3
+Required Supplementary Information
+GAAP requires that the management’s discussion and analysis on pages 4 through 8, and other
+required supplementary information on pages 46 through 48 be presented to supplement the basic combined
+financial statements. Such information is the responsibility of management and, although not a part of the
+basic combined financial statements, is required by the Governmental Accounting Standards Board who
+considers it to be an essential part of financial reporting for placing the basic combined financial statements
+in an appropriate operational, economic, or historical context. We have applied certain limited procedures
+to the required supplementary information in accordance with GAAS, which consisted of inquiries of
+management about the methods of preparing the information and comparing the information for consistency
+with management’s responses to our inquiries, the basic combined financial statements, and other
+knowledge we obtained during our audit of the basic combined financial statements. We do not express an
+opinion or provide any assurance on the information because the limited procedures do not provide us with
+sufficient evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming opinions on the combined financial statements
+that collectively comprise Arkansas Development Finance Authority’s basic combined financial
+statements. The schedule of expenditures of federal awards, as required by Title 2 U.S. Code of Federal
+Regulations Part 200, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for
+Federal Awards, is presented for purposes of additional analysis and are not a required part of the basic
+combined financial statements. Such information is the responsibility of management and was derived
+from and relates directly to the underlying accounting and other records used to prepare the basic combined
+financial statements. The information has been subjected to the auditing procedures applied in the audit of
+the basic combined financial statements and certain additional procedures, including comparing and
+reconciling such information directly to the underlying accounting and other records used to prepare the
+basic combined financial statements or to the basic combined financial statements themselves, and other
+additional procedures in accordance with GAAS. In our opinion, the supplementary information and the
+schedule of expenditures of federal awards are fairly stated, in all material respects, in relation to the basic
+combined financial statements as a whole.
+Other Reporting Required by GAS
+In accordance with GAS, we have also issued our report dated December 8, 2025, on our
+consideration of Arkansas Development Finance Authority’s internal control over financial reporting and
+on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements,
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of Arkansas Development Finance Authority’s internal control over financial reporting or on
+compliance. That report is an integral part of an audit performed in accordance with GAS in considering
+Arkansas Development Finance Authority’s internal control over financial reporting and compliance.
+Certified Public Accountants
+Little Rock, Arkansas
+December 8, 2025
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 4
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Management’s Discussion and Analysis
+For the Year Ended June 30, 2025
+This discussion and analysis is designed to assist the reader in focusing on significant issues and
+activities and to identify any significant changes in the financial position of the Arkansas Development
+Finance Authority (“ADFA” or the “Authority”). Readers are encouraged to consider the information
+presented in conjunction with the combined financial statements and notes as a whole.
+Understanding the Combined Financial Statements
+The June 30, 2025 basic combined financial statements include three required statements: The
+combined statement of net position; the combined statement of revenues, expenses, and changes in net
+position; and the combined statement of cash flows. The combined statement of net position and the
+combined statement of revenues, expenses, and changes in net position are presented for all of ADFA’s
+programs in the combining statements of the Authority. ADFA has nine programs presented as
+supplementary information following the notes to combined financial statements: Single Family Housing
+Programs, Federal Housing Programs, Multi-Family Programs, Economic Development Bond Guaranty
+Program, State Facilities and Amendment 82 Programs, Other Economic Development Programs, Tobacco
+Settlement Revenue Bonds Program, Student Loan Programs, and General Fund Program.
+The Authority includes three other legally separate entities in its reporting entity – the Arkansas
+Venture Capital Investment Trust (“AVCIT”) and its blended component units, the Arkansas Institutional
+Fund, LLC (“AIF”) and the Arkansas Venture Development Fund, LLC (“AVDF”). Although legally
+separate, these component units are included because the Authority is financially and administratively
+accountable for them and excluding them would be misleading. Financial information for these component
+units is reported separately from the financial information presented for the Authority itself. Additional
+information about the relationships between the Authority and these component units can be found in Note
+1.a. to the combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 5
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Management’s Discussion and Analysis (cont.)
+For the Year Ended June 30, 2025
+Condensed Combined Statements of Net Position
+Authority
+2025 2024
+(In thousands)
+Assets
+Current assets $ 392,644 $ 366,345
+Capital assets, net 2,080 2,121
+Other noncurrent assets 747,483 639,729
+Total assets 1,142,207 1,008,195
+Deferred outflow of resources 1,254 1,641
+Liabilities
+Current liabilities 34,798 34,586
+Noncurrent liabilities 576,358 467,586
+Total liabilities 611,156 502,172
+Deferred inflow of resources 1,483 1,844
+Net position
+Investment in capital assets 2,080 2,121
+Restricted expendable by bond resolution and programs 366,292 344,907
+Unrestricted 162,450 158,792
+Net position $ 530,822 $ 505,820
+Combined Statement of Net Position
+During fiscal year 2025, total assets increased approximately $134.0 million to approximately
+$1.14 billion primarily due to the increase in cash and cash equivalents and investments as discussed below.
+Cash and cash equivalents (“cash”) increased $41.6 million, or 12%, primarily due to receiving
+bond proceeds on the two Single Family bond deals that closed during the year net of purchasing mortgage-
+backed securities (“MBS”) with the proceeds. Investments increased $85.3 million, or 59%, due to the
+MBS purchases with bond proceeds.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 6
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Management’s Discussion and Analysis (cont.)
+For the Year Ended June 30, 2025
+The Authority’s liabilities increased by approximately $108.9 million, or 22%, due to an increase
+in bonds and notes payable, net of $104.6 million. The increase for bonds and notes payable is mainly
+attributable to the issuance of Single Family bond deals of $50 million and $75 million closed during the
+year net of scheduled redemptions of $23.1 million and optional bond calls of $3.5 million.
+Condensed Combined Statements of Revenues, Expenses, and Changes in Net Position
+Authority
+2025 2024
+(In thousands)
+Operating revenues
+Total investment income $ 45,589 $ 40,210
+Other income/gain on sale of loans 82 74
+Total operating revenues 45,671 40,284
+Operating expenses
+Interest and amortization on bonds and notes 18,302 14,638
+Total administrative expenses 14,836 17,349
+Total operating expenses 33,138 31,987
+Operating income 12,533 8,297
+Nonoperating revenues
+Federal grants 18,420 18,725
+Income before transfers out, net 30,953 27,022
+Transfers out, net (5,374) (4,292)
+Changes in net position 25,579 22,730
+Net position - beginning of year, as previously reported 505,820 483,090
+Adoption of Governmental Accounting Standards Board
+Statement No. 101, "Compensated Absences" 577 -
+Net position - beginning of year, as restated 505,243 -
+Net position - end of year $ 530,822 $ 505,820
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 7
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Management’s Discussion and Analysis (cont.)
+For the Year Ended June 30, 2025
+Combined Statement of Revenues, Expenses, and Changes in Net Position
+ADFA’s income before transfers out totaled $30.7 million for the year ended June 30, 2025,
+compared to $27.0 million for the year ended June 30, 2024.
+The increase in the income before transfers out relates primarily to the increase in total investment
+income of $5.4 million and decrease in federal financial assistance programs expense (“federal expenses”)
+of $3.4 million offset mainly by increases in interest on bonds and notes of $3.8 million and other expenses
+of $1.2 million.
+The increase in total investment income is due partly to the increase in investment income of $3.8
+million, or 25%, due to the increase of originating MBS at rates ranging between 5% - 5.375%, and due to
+funds available from the issuance of Single Family bonds in fiscal 2024 and fiscal 2025. The increase is
+also due to the increase in net appreciation of investments of $1.1 million, or 58%, which is due to market
+conditions improving as market interest rates have remained consistent in fiscal 2024 and fiscal 2025, and
+having the market value being closer to cost values of MBS which comprise the majority of the Authority’s
+portfolio.
+The decrease associated with federal expenses is mainly due to the Homeowner Assistance Fund
+Program. The program received the funds in prior years totaling $63.3 million and disbursed $88,000 this
+year compared to $6.7 million in the past year. This program is winding down and ends September 2026.
+At June 30, 2025, there was approximately $2.6 million remaining to be disbursed from this program. The
+increase in other expenses is primarily due to the issuance costs of two Single Family bond deals totaling
+$1.2 million that closed during the current fiscal year.
+ADFA’s overall financial position has improved. During the current fiscal year, the net position
+increased from the prior year by approximately $24.7 million, or 5%; however, this was mainly due to the
+timing of federal funds being received versus disbursed and market conditions due to higher interest rates.
+Single Family: During the prior fiscal year, the Authority reauthorized the use of the 1995 Single
+Family General Resolution to issue primarily tax-exempt bonds to fund first-time and other qualified
+homebuyers with below market interest rates. The Internal Revenue Service (“IRS”) is the governmental
+entity that establishes the rules or code for issuing tax-exempt bonds that the Authority must follow
+including criteria for participants. For the previous 10 years, the Authority did not issue bonds due to the
+market environment and utilized the to-be-announced (TBA) mortgage markets to aid Arkansas citizens to
+obtain homeownership. With higher interest rate conditions and an available volume cap, the Authority
+decided to issue mortgage revenue bonds. The 2024 Series A and B Bonds were issued for $50 million at
+interest rates ranging from 3.40% - 6.10% with a premium of $550,000 and a final maturity date of July 1,
+2054. 2024 Series B Bonds are taxable bonds of $10 million. The mortgage interest rate for the homeowner
+was 5.875% for all except one borrower at 6.125% due to closing the loan the first week of opening the
+mortgage program. IRS code allows up to a 1.125% spread between the bond yield and the mortgage
+interest rate to cover ongoing administrative costs. All excess spread above the allowable amount must be
+repurposed into the mortgage program in the form of lower interest rates or rebated back to the IRS.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 8
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Management’s Discussion and Analysis (cont.)
+For the Year Ended June 30, 2025
+During the current fiscal year, the Authority issued 2024 Series C Bonds on September 24, 2024
+for $50 million at interest rates ranging from 3.2% - 5.0% with a premium of $919,000 and maturing on
+January 1, 2055. The mortgage interest rate offered was 5.875% but on September 16, 2024, the mortgage
+interest rate was decreased to 5.50% and a conventional mortgage interest rate was offered with the
+mortgage interest rate of 5.875%. 2024 Series C Bonds proceeds funded the mortgage loans with these
+terms. On April 16, 2025, the Authority issued 2025 Series A Bonds for $75 million at interest rates ranging
+from 2.95% - 5.50% with a premium of $1.5 million and maturing January 1, 2056. On May 27, 2025, the
+Authority increased mortgage rates to 5.75% on governmental loans and 6.125% on conventional loans due
+to housing market changes. The Authority plans on continuing to issue tax-exempt bonds as long as the
+bond market is advantageous to do so.
+Credit Ratings
+The Issuer Credit Rating of ADFA from Standard & Poor’s (“S&P”) Global Ratings is currently
+“AA/Stable”. Changes in state and federal legislation and statutes can play a role in ADFA achieving its
+goals and objectives.
+The 1995 General Resolution Single Family mortgage revenue bonds are currently rated
+“AA+/Stable” from S&P.
+The Authority also administers the Bond Guaranty Fund created by Act 505. The fund is currently
+rated “A+/Stable” from S&P. The obligations of the Authority as guarantor are limited to available monies
+in the ADFA Guaranty Reserve Account, created and maintained pursuant to the authority conferred in the
+ADFA Guaranty Act.
+Contacting the Authority’s Financial Management
+This financial report is designed to provide bondholders, constituents, and business partners with a
+general overview of the Authority’s finances and to show the Authority’s accountability for the funds it
+administers. Questions about this report and requests for additional financial information should be directed
+to the Chief Financial Officer by telephoning 501.682.5900. The Authority’s website is
+https://adfa.arkansas.gov.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 9
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combined Statement of Net Position
+June 30, 2025
+(In Thousands)
+Component
+Assets and Deferred Outflow of Resources Authority Unit
+Current assets
+Cash and cash equivalents $ 377,558 $ 1,318
+Accrued interest receivable 3,483 -
+Accounts receivable 4,109 -
+Current portion of
+Investments 2,989 -
+Loans 2,847 -
+Loans to Component Unit 1,658 -
+Total current assets 392,644 1,318
+Noncurrent assets
+Investments
+Unrestricted 44,744 -
+Restricted 182,560 20,982
+Loans, net of allowance for loan losses of $81,976 516,372 4,700
+Capital assets, net 2,080 -
+Other assets 3,807 -
+Total noncurrent assets 749,563 25,682
+Total assets 1,142,207 27,000
+Deferred outflow of resources
+Other postemployment benefits ("OPEB") difference in expected versus actual experience 318 -
+Changes in OPEB actuarial assumptions and proportions 49 -
+Pension contributions, net differences, and changes in share of contributions 525 -
+Pension differences in expected versus actual experience 137 -
+Net differences between expected and actual investment earnings 102 -
+Changes in pension actuarial assumptions and proportions 123 -
+Total deferred outflow of resources 1,254 -
+Total assets and deferred outflow of resources $ 1,143,461 $ 27,000
+The accompanying notes are an integral part of these combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 10
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combined Statement of Net Position (cont.)
+June 30, 2025
+(In Thousands)
+Component
+Liabilities, Deferred Inflow of Resources, and Net Position Authority Unit
+Current liabilities
+Accounts payable $ 2,096 $ 1
+Accrued interest payable 4,499 24
+Unearned fees 147 -
+Contract obligations 3,294 -
+Deferred gain on refinancing sale of asset 33 -
+Current portion of bonds and notes payable 24,627 2,301
+OPEB and pension liabilities 102 -
+Total current liabilities 34,798 2,326
+Noncurrent liabilities
+Unearned fees 373 -
+Contract obligations 2,590 -
+Bonds and notes payable, net of unamortized premiums and current portion 513,502 -
+Deposits against financing arrangements 51,855 -
+Deferred gain on refinancing sale of asset 188 -
+OPEB and pension liabilities 5,441 -
+Other liabilities 2,409 -
+Total noncurrent liabilities 576,358 -
+Total liabilities 611,156 2,326
+Deferred inflow of resources
+OPEB difference in expected versus actual experience 71 -
+Changes in OPEB actuarial assumptions and proportions 709 -
+Pension difference in expected versus actual experience 144 -
+Changes in employer pension contribution and share of contributions 64 -
+Lease obligations 495 -
+Total deferred inflow of resources 1,483 -
+Total liabilities and deferred inflow of resources 612,639 2,326
+Net position
+Investment in capital assets 2,080 -
+Restricted expendable by bond resolution and programs 366,292 24,145
+Restricted, nonexpendable, and minority interest - 529
+Unrestricted 162,450 -
+Total net position 530,822 24,674
+Total liabilities, deferred inflow of resources, and net position $ 1,143,461 $ 27,000
+The accompanying notes are an integral part of these combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 11
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combined Statement of Revenues, Expenses, and Changes in Net Position
+For the Year Ended June 30, 2025
+(In Thousands)
+Component
+Authority Unit
+Operating revenues (losses)
+Investment income (loss)
+Interest and dividends $ 18,987 $ 211
+Impairment loss - (2,370)
+Loans and direct financing leases 17,716 11
+Amortization of discounts on loans 1 -
+Financing fees 6,025 -
+Net appreciation of investments 2,860 -
+Total investment income (loss) 45,589 (2,148)
+Other income 82 -
+Total operating revenues (losses) 45,671 (2,148)
+Operating expenses
+Interest and amortization on bonds and notes 18,302 92
+Administrative expenses
+Provision for loan losses 2,675 -
+Federal financial assistance programs 2,998 -
+Loan servicing and other contractual services 184 -
+Salaries and benefits 4,335 -
+Operations and maintenance 1,003 -
+Other 3,641 254
+Total administrative expenses 14,836 254
+Total operating expenses 33,138 346
+Operating income (loss) 12,533 (2,494)
+Nonoperating revenues
+Federal grants 18,420 -
+Income (loss) before transfers in (out), net 30,953 (2,494)
+Transfers in (out), net (5,374) 4,360
+Changes in net position 25,579 1,866
+Net position - beginning of year, as previously reported 505,820 22,808
+Adoption of Governmental Accounting Standards Board Statement No. 101,
+"Compensated Absences" 577 -
+Net position - beginning of year, as restated 505,243 22,808
+Net position - end of year $ 530,822 $ 24,674
+The accompanying notes are an integral part of these combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 12
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combined Statement of Cash Flows (Authority Only)
+For the Year Ended June 30, 2025
+(In Thousands)
+Cash flows from operating activities
+Financing fee income received $ 5,595
+Other received 82
+Cash paid to employees (3,336)
+Cash paid for program administration (8,471)
+Net cash used by operating activities (6,130)
+Cash flows from noncapital financing activities
+Proceeds from issuance of bonds and notes payable 127,930
+Repayments of bonds and notes payable (26,525)
+Cash paid for interest (12,479)
+Nonoperating revenues received 18,420
+Transfers out, net (5,374)
+Net cash provided by noncapital financing activities 101,972
+Cash flows from investing activities
+Purchase of investments (114,381)
+Maturities of investments 31,883
+Interest received on investments 18,762
+Interest received on loans 14,226
+Principal repayments on loans 43,566
+Loan disbursements (47,139)
+Cash paid for financing arrangements 1,854
+Purchase of capital assets (43)
+Investment in state facilities (2,986)
+Net cash used in investing activities (54,258)
+Net increase in cash and cash equivalents 41,584
+Cash and cash equivalents - beginning of year 335,974
+Cash and cash equivalents - end of year $ 377,558
+The accompanying notes are an integral part of these combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 13
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combined Statement of Cash Flows (Authority Only) (cont.)
+For the Year Ended June 30, 2025
+(In Thousands)
+Reconciliation of changes in net position to net cash used by
+operating activities
+Operating income $ 12,533
+Adjustments to reconcile operating income to net cash used by
+operating activities
+Amortization (84)
+Accreted deferred financing fees (173)
+Accreted interest on loans (3,294)
+Accreted interest on bonds 3,294
+Depreciation of capital assets 84
+Provision for loan losses 2,675
+Net appreciation of investments (2,860)
+Interest income (33,401)
+Interest paid on bonds and notes 15,093
+Changes in operating assets and liabilities
+Accounts receivable (29)
+Other assets 895
+Accounts payable (1,355)
+Other liabilities 492
+Net cash used by operating activities $ (6,130)
+The accompanying notes are an integral part of these combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 14
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies
+a. Nature of operations and reporting entity – The Arkansas Development Finance Authority
+(“ADFA” or the “Authority”), a component unit of the State of Arkansas, was created on May 1,
+1985, by Act 1062 of 1985 (Arkansas Development Finance Authority Act) as a successor to the
+former Arkansas Housing Development Agency (created in 1977) whereby all records, funds,
+property, obligations, debts, functions, powers, and duties were transferred to the Authority.
+Pursuant to Act 1062 of 1985, the Authority is authorized and empowered to issue bonds and
+various other debt instruments for the purpose of financing qualified agricultural business
+enterprises, capital improvement facilities, educational facilities, health care facilities, housing
+developments, and industrial enterprises. In 2019, the General Assembly approved Act 910 of
+2019, the Transformation and Efficiencies Act of 2019. Ten former state agencies and several
+boards and commissions were made part of the Arkansas Department of Commerce, including the
+Authority. Act 944 of 2025 removed the Authority from the Arkansas Department of Commerce
+effective July 1, 2025. The Authority now serves as an independent instrumentality of the State of
+Arkansas, whereby the Authority is still subject to State oversight but is given independence to
+better serve the public needs.
+Effective July 1, 2017, Arkansas Student Loan Authority (“ASLA”) merged with the
+Authority. ASLA functions as a division of the Authority. ASLA was created to improve access
+to higher education funding for Arkansas students. As part of its mission, ASLA administers
+federal loans, provides loan servicing on behalf of the U.S. Department of Education, provides fee-
+based default management services to Arkansas colleges and universities, and provides free college
+planning services to college-bound high school students.
+The Authority is governed by a board of directors, including the secretary of the Arkansas
+Department of Finance and Administration (“DFA”), the Arkansas Treasurer of State, the secretary
+of the Arkansas Department of Commerce, and 11 members of the public who are appointed by the
+governor of Arkansas. The Authority is an independent instrumentality of the State of Arkansas
+(the “State”) and is created and governed by laws adopted by the State.
+Bonds and other debt instruments issued by the Authority and included on the Authority’s
+combined financial statements are usually special obligations of the Authority, payable solely from,
+and collateralized by, a first lien on the proceeds, monies, revenues, rights, interests, and collections
+pledged therefore under the resolutions authorizing the particular issues. The Authority has issued
+bonds and other debt instruments, which are general obligations of the Authority, supported by the
+Authority’s general fund assets and/or pledge of the Authority’s issuer credit rating. The State is
+not obligated to pay the bonds and other debt instruments, and neither the faith and credit nor the
+taxing power of the State is pledged to the payment of the principal or redemption price of, or
+interest on, the bonds and other debt instruments. The Authority has no taxing power.
+Component units are legally separate organizations for which the Authority’s management
+is financially accountable or for which the nature and significance of their relationship with the
+Authority are such that exclusion would cause the Authority’s combined financial statements to be
+misleading.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 15
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Three component units meet the criteria to be discretely presented in the combined
+financial statements. The financial information of the Arkansas Venture Capital Investment Trust
+(“AVCIT” or “Component Unit”), including its blended component units, the Arkansas
+Institutional Fund, LLC (“AIF”) and the Arkansas Venture Development Fund, LLC (“AVDF”), is
+presented in a separate column in the agency-wide financial statements to emphasize that the
+AVCIT (including AIF and AVDF) is legally separate from the Authority.
+The Authority is financially accountable for the AVCIT because the Authority’s president
+is one of the three trustees, and the Authority is charged with daily operations and management of
+the programs within the trust.
+The AVCIT, a public trust, was created in 2003 pursuant to the provisions of the laws of
+the State, including specifically Title 28, Chapter 72, Subchapter 2 of the Arkansas Code of 1987
+Annotated. The General Assembly of the State adopted the Venture Capital Investment Act of
+2001 (“VCI Act”), codified as Title 15, Chapter 5, Subchapter 14 of the Arkansas Code of 1987
+Annotated, for the purpose of increasing the availability of equity and near-equity capital for
+emerging, expanding, relocating, and restructuring enterprises in the State. The trust is governed
+by three trustees: the President of the Authority, the Secretary of the DFA, and the Executive
+Director of the Arkansas Economic Development Commission (“AEDC”).
+The AIF was formed in 2003 by AVCIT, which owns 99.8% of the limited liability
+company. The purpose of the AIF is to invest in private equity, seed, and venture funds and to
+support the growth and development of the venture capital industry in the State. Although AVCIT
+is the fund manager of AIF, it has contracted with the Authority to perform those duties. The AIF’s
+audited financial statements are accounted for on a calendar-year basis and reported under Financial
+Accounting Standards Board (“FASB”) standards. As such, AIF’s financial statement presentation
+was recast to be consistent with Governmental Accounting Standards Board (“GASB”)
+presentation features. No other modifications have been made to the AIF’s financial information
+in the Authority’s financial reporting entity for differences of FASB and GASB standards.
+Subsequent to 2016, the purposes of this entity were carried out through the AVDF.
+The AVDF was formed in 2016 by AVCIT, which is the sole owner of the limited liability
+company. The primary purposes of the AVDF are to assist the Authority and the AVCIT in
+advancing the goals and objectives of the Authority by strengthening the economic base and
+creating jobs within the State, including carrying out the purposes and goals of the VCI Act.
+Separately issued audited financial statements are not available for the AVDF or the
+Arkansas Venture Capital Development Fund (“AVC”). Separately issued audited financial
+statements for AIF can be obtained by contacting:
+Arkansas Development Finance Authority
+1 Commerce Way, Suite 602
+Post Office Box 8023
+Little Rock, Arkansas 72202
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 16
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+b. Measurement focus and basis of accounting – The Authority is accounted for as an enterprise
+fund for financial reporting purposes and utilizes the economic resource measurement focus and
+accrual basis of accounting, wherein revenues are recognized when earned and expenses when
+incurred.
+Operating revenues and expenses are distinguished from nonoperating items in the
+Authority’s combined statement of revenues, expenses, and changes in net position. Operating
+revenues and expenses generally result from providing services in connection with the principal
+ongoing operations. All revenues and expenses not meeting this definition are reported as
+nonoperating items.
+c. Recently issued accounting pronouncements – GASB Statement No. 101, “Compensated
+Absences.” The objective of this statement is to better meet the information needs of financial
+statement users by updating the recognition and measurement guidance for compensated absences.
+That objective is achieved by aligning the recognition and measurement guidance under a unified
+model and by amending certain previously required disclosures. The requirements of this statement
+are effective for fiscal years beginning after December 15, 2023, with earlier adoption encouraged.
+During the year ended June 30, 2025, the Authority adopted this statement, the effects of which are
+disclosed on the accompanying combined statement of revenues, expenses, and changes in net
+position and in Note 6.
+GASB Statement No. 102, “Certain Risk Disclosures.” The objective of this statement is
+to provide users of government financial statements with essential information about risks related
+to a government’s vulnerabilities due to certain concentrations or constraints. The requirements of
+this statement will improve financial reporting by providing users of the combined financial
+statements with essential information that currently is not often provided. The disclosures will
+provide users with timely information regarding certain concentrations or constraints and related
+events that have occurred or have begun to occur that make a government vulnerable to a substantial
+impact. As a result, users will have better information with which to understand and anticipate
+certain risks to a government’s financial condition. The requirements of this statement are effective
+for fiscal years beginning after June 15, 2024, with earlier adoption encouraged. The Authority
+adopted this statement during the year ended June 30, 2025. After assessing its concentrations and
+constraints, the Authority determined there were no concentrations or constraints meeting the
+disclosure criteria as defined by GASB Statement No. 102. Therefore, no additional disclosures
+are required under this statement.
+GASB Statement No. 103, “Financial Reporting Model Improvements.” The objective of
+this statement is to improve key components of the financial reporting model to enhance its
+effectiveness in providing information that is essential for decision-making and assessing a
+government’s accountability. For governments engaged in business-type activities, the primary
+impact of this statement will be changes to the combined statement of revenues, expenditures, and
+changes in net position (“SRECNP”). This statement not only changes the required sections and
+subtotals to be included in the SRECNP but creates new definitions for subsidies and operating and
+nonoperating revenues and expenses. Upon adoption, the new definitions may cause
+reclassifications of revenues and expenses within the SRECNP. This statement also impacts other
+financial statement presentation requirements, including major component units, unusual or
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 17
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+infrequent items, and management’s discussion and analysis. This statement is effective for fiscal
+years beginning after June 15, 2025, and all reporting periods thereafter, with earlier adoption
+encouraged. The Authority does not expect this statement to have a material impact on its
+combined financial statements.
+GASB Statement No. 104, “Disclosure of Certain Capital Assets.” The objective of this
+statement is to establish requirements for certain types of capital assets to be disclosed separately
+in the capital assets footnote disclosure required by GASB Statement No. 34, “Basic Financial
+Statements – and Management’s Discussion and Analysis – for State and Local Governments.”
+This statement also establishes requirements for capital assets held for sale, including additional
+disclosures for those capital assets. The requirements of this statement are effective for fiscal year
+beginning after June 15, 2025, and all reporting periods thereafter, with earlier adoption
+encouraged. The Authority has not determined the impact, if any, this statement could have on its
+combined financial statements.
+d. Fund accounting – The Authority utilizes internal funds, each of which accounts for the assets,
+liabilities, net position, revenues, and expenses of the Authority’s programs and activities.
+The following describes the nature of the operations and significant programs currently
+maintained by the Authority:
+Single Family Housing Programs
+Single Family Mortgage Purchase Program – Accounts for proceeds from single-family
+mortgage revenue bonds, the debt service requirements of the bonds, and the related mortgage-
+backed securities, or mortgage loans for single-family owner-occupied housing in the State.
+Included within this program are the Authority’s Single Family Mortgage Revenue Bond General
+Resolution, adopted on July 20, 1995 (1995 General Resolution), and the Authority’s Home
+Ownership Revenue Bond General Resolution, adopted on November 19, 2009 (2009 General
+Resolution).
+Federal Housing Programs
+HOME Investment Partnerships Program – Accounts for federal financial assistance
+received from the U.S. Department of Housing and Urban Development (“HUD”) for the purpose
+of developing and supporting affordable housing through tenant based rental assistance, rental
+rehabilitation, new construction, or assistance to homebuyers and homeowners.
+Tax Credit Assistance Program (“TCAP”) – Accounts for federal financial assistance in
+the form of American Reinvestment and Recovery Act funds received from HUD for the purpose
+of providing additional financing in the form of loans to developers to ensure that developments
+have sufficient financing to provide quality affordable housing. Only developments that were
+awarded low-income housing tax credits under Section 42(h) of the Internal Revenue Code (“IRC”)
+in federal fiscal years 2007, 2008, and 2009 were eligible for the sub-awards granted to the State
+from HUD for TCAP funding.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 18
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Neighborhood Stabilization Programs (“NSP”) – Accounts for federal financial
+assistance received from HUD for the purpose of stabilizing neighborhoods that have suffered the
+most from foreclosures and abandonment. The Authority participated in two of the three NSP
+offered by HUD. The first NSP was authorized by the Housing and Economic Recovery Act, which
+was signed into law on July 30, 2008. The third NSP was authorized by the Dodd-Frank Wall
+Street Reform and Consumer Protection Act of 2010. NSP provides loans to purchase and
+rehabilitate foreclosed or abandoned homes for sale or rent in order to stabilize neighborhoods and
+stem the decline of house values in neighboring homes.
+Preservation Revolving Loan Fund Program – Accounts for federal financial assistance
+received from the U.S. Department of Agriculture (“USDA”) Rural Housing Service to loan funds
+to carry out a demonstration program that provides revolving loans for the preservation and
+revitalization of low-income multi-family housing.
+National Housing Trust Fund Program – Accounts for federal financial assistance
+received from HUD for the purpose of expanding and preserving the supply of affordable housing,
+particularly rental housing, for extremely low-income to very low income households.
+Homeowner Assistance Fund (“HAF”) Program – Accounts for federal financial
+assistance received from the U.S. Department of the Treasury as a grant under the American Rescue
+Plan Act of 2021 (“ARPA”) for the purpose of preventing homeowner mortgage delinquencies,
+defaults, foreclosures, loss of utilities or home energy services, and displacements of homeowners
+experiencing financial hardship after January 21, 2020 through reimbursement of qualified
+expenses related to mortgages and housing.
+Emergency Solutions Grant Program – Accounts for federal assistance received from
+HUD Community Planning and Development to provide funding to engage homeless individuals
+and families, improve the number and quality of emergency shelters for homeless individuals and
+families, help operate these shelters, provide essential services to shelter residents, rapidly re-house
+homeless individuals and families, and prevent families and individuals from being homeless.
+Multi-Family Programs
+Financing Adjustment Factor (“FAF”)/New BMIR Loan Programs – Accounts for
+loans receivable funded by distributions the Authority received from an old multi-family bond
+issue, as well as from FAF distributions from the federally funded Section 8 Housing Assistance
+Payment Program.
+Affordable Housing Assistance Program – Accounts for loans receivable funded for the
+use of down payment assistance, rental assistance, low-interest financing, land acquisition, new
+construction, rehabilitation constructions, and reconstruction.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 19
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Economic Development Bond Guaranty Program
+Economic Development Bond Guaranty Program – Accounts for guaranty fees
+collected, interest earned on investments, and disbursements made in connection with bond
+guaranties provided by the Authority, as well as the proceeds from the sale of development revenue
+bonds issued by the Authority and guaranteed by the Bond Guaranty Fund, the debt service
+requirements of the bonds, and related loans and leases to private companies. The Bond Guaranty
+Fund was created by Act 505 of 1985, which authorized a grant of $6 million from the State
+treasurer (which was subsequently repaid by the Authority) for the purpose of enhancing and
+supporting the creditworthiness of bonds and other debt instruments guaranteed by the Authority.
+At June 30, 2025, the fund had cash and cash equivalents and investments totaling $18.5 million in
+the reserve account to collateralize Authority-guaranteed bonds and future issues under the bond
+guaranty program.
+State Facilities and Amendment 82 Programs
+State Facilities Programs – Accounts for the proceeds from the sale of development
+revenue bonds; the debt service requirements of the bonds, and related loans and leases to public
+and government bodies within the State; and includes certain assets not owned and related
+obligations not owed by the Authority.
+Amendment 82 Programs – Accounts for the proceeds from the sale of general obligation
+bonds of the State as authorized under Amendment 82 of the Arkansas Constitution; related loans
+and leases to private institutions and government bodies within the State, and includes certain assets
+not owned and related obligations not owed by the Authority.
+Other Economic Development Programs
+State Small Business Credit Initiative Program – The ARPA reauthorized and amended
+the Small Business Jobs Act of 2010, codified at 12 U.S.C. § 5701 et seq., to provide $10 billion
+to fund the State Small Business Credit Initiative (“SSBCI”) as a response to the economic effects
+of the COVID-19 pandemic. SSBCI is a federal program administered by the U.S. Department of
+the Treasury that was created to strengthen capital programs that support private financing to small
+businesses, including capital access programs and other credit support programs (loan guarantees,
+loan participations, and venture capital investment programs) of eligible jurisdictions (i.e., states,
+the District of Columbia, territories, Tribal governments, and eligible municipalities).
+Arkansas was awarded a potential allocation of $81.6 million to support seven programs:
+Arkansas Capital Access Program, ADFA Bond Guaranty/Loan Participation Program, ADFA
+DBE MWOBE - Loan Mobilization Revolving Fund, ADFA Small Business Revolving Loan
+Guaranty Program, ADFA Bond Guaranty/CDFI Loan Participation Program, and two programs
+to be carried out by the AVCIT: AVDF and AVC. The first tranche in the amount of $24.0 million
+was received on December 16, 2022.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 20
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Other Economic Development Programs – Accounts for loan reserve programs, such as
+Capital Access and Disadvantaged Business Enterprise.
+Tobacco Settlement Revenue Bonds Program
+Tobacco Settlement Revenue Bonds Program – Accounts for the proceeds from the sale
+of tobacco settlement revenue bonds and the debt service requirements of the bonds and related
+disbursements of bond proceeds to participating colleges to be used to fund the construction and
+equipping of projects outlined by the Arkansas Tobacco Settlement Funds Act of 2000, as
+supplemented by Act 9 of the First Extraordinary Session of 2006 of the 85th General Assembly.
+Student Loan Programs
+Student Loan Programs – To provide private student loans at below-market interest rates
+to students and families, provide fee-based default management services to Arkansas colleges and
+universities, along with other financial aid office support services, and provide free financial
+literacy and college planning services to Arkansas students and families.
+General Fund Program
+General Fund Program – Accounts for direct obligations of the Authority; revenue
+earned by the Authority for issuing and administering various programs; operating expenses of the
+Authority; special initiatives of the Authority, such as direct loan programs, funding down payment
+assistance, and warehousing mortgage-backed securities created by its Single Family Housing
+Programs; and money or residual assets, such as investments and mortgages, transferred from other
+funds to the extent such transfers are permitted by the resolutions.
+e. Estimates – The preparation of combined financial statements in conformity with accounting
+principles generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets, liabilities and deferred inflow
+and outflow of resources and disclosure of contingent assets and liabilities at the date of the
+combined financial statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+f. Cash and cash equivalents – The Authority considers all liquid investments with original
+maturities of three months or less to be cash equivalents. At June 30, 2025, cash equivalents of
+$377.6 million consisted primarily of money market mutual funds with variable interest rates.
+g. Investments and investment income – Investments are carried at fair value with the exception of
+equity investments held by AVCIT.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 21
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Equity investments held by the AVCIT are carried at cost. The net accumulated earnings
+of individual investments subsequent to the date of acquisition are recognized by AVCIT only to
+the extent distributed as dividends. A decrease in the carrying value of an investment is recognized
+when a series of operating losses of an individual investment or other factors indicate that an other
+than temporary decline in value below cost has occurred.
+Investment income includes dividend and interest income, realized gains and losses on
+investments, if any, and the net change for the year in the fair value of investments carried at fair
+value.
+The fair value of the Authority’s investments at June 30, 2025 was less than the cost basis
+by $5.7 million.
+h. Loans – Loans that management has the intent and ability to hold for the foreseeable future or until
+maturity or payoff are reported at their outstanding principal balances adjusted for unearned
+income, charge-offs, and the allowance for loan losses. For loans amortized at cost, interest income
+is accrued based on the unpaid principal balance.
+Generally, loans are placed on nonaccrual status at 180 days past due. Past due status is
+based on the contractual terms of the loan. All interest accrued but not collected for loans that are
+placed on nonaccrual or charged off are reversed against interest income unless the loan is well
+secured and in the process of collection. The interest on these loans is accounted for on the cash-
+basis or cost recovery method until qualifying for return to accrual. Loans are returned to accrual
+status when all the principal and interest amounts contractually due are brought current, and future
+payments are reasonably assured.
+i. Allowance for loan losses – The allowance for loan losses is established as losses are estimated to
+have occurred through a provision for loan losses charged to expense. Actual loan losses are
+charged against the allowance when management believes the uncollectibility of a loan balance is
+confirmed. Subsequent recoveries, if any, are credited to the allowance.
+The allowance for loan losses is evaluated on a regular basis by management and is based
+upon management’s periodic review of the collectibility of the loans in light of historical
+experience, the nature and volume of the loan portfolio, adverse situations that may affect the
+borrower’s ability to repay, estimated value of any underlying collateral, and prevailing economic
+conditions. This evaluation is inherently subjective as it requires estimates that are susceptible to
+significant revision as more information becomes available.
+The allowance consists of allocated and general components. The allocated component
+relates to loans that are classified as impaired and additional loans specifically reviewed by
+management. The general component covers non-classified loans and is based on historical charge-
+off experience and expected loss given default derived from the Authority’s internal risk rating
+process. Other adjustments may be made to the allowance for pools of loans after an assessment
+of internal or external influences on credit quality that are not fully reflected in the historical loss
+or risk rating data.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 22
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Impaired loans are evaluated as part of the review of the allowance for loan losses. A loan
+is considered impaired when, based on current information and events, it is probable that the
+Authority will be unable to collect the scheduled payments of principal or interest when due
+according to the contractual terms of the loan agreement. Factors considered by management in
+determining impairment include payment status, collateral value, and the probability of collecting
+scheduled principal and interest payments when due. Loans that experience insignificant payment
+delays and payment shortfalls generally are not classified as impaired. Management determines
+the significance of payment delays and payment shortfalls on a case-by-case basis, taking into
+consideration all of the circumstances surrounding the loan and the borrower, including the length
+of the delay, the reasons for the delay, the borrower’s prior payment record, and the amount of the
+shortfall in relation to the principal and interest owed. Impairment is measured on a loan-by-loan
+basis for commercial and construction loans by either the present value of expected future cash
+flows discounted at the loan’s effective interest rate, the loan’s obtainable market price, or the fair
+value of the collateral if the loan is collateral dependent.
+Groups of loans with similar risk characteristics are collectively evaluated for impairment
+based on the group’s historical loss experience adjusted for changes in trends, conditions, and other
+relevant factors that affect repayment of the loans.
+j. Income taxes – As an essential government function of the State, the Authority is exempt from
+income taxes under Section 115 of the IRC and a similar provision of state law.
+k. Capital assets – Premises and equipment are carried at cost, less accumulated depreciation.
+Depreciation for financial statement purposes is computed using the straight-line method over the
+estimated useful lives of the assets, ranging from 3 to 10 years. The Authority defines capital assets
+as assets with an initial, individual cost of more than $5 thousand and a life greater than one year.
+l. Pensions – For purposes of measuring the net pension liability, deferred outflow of resources, and
+deferred inflow of resources related to pensions and pension expense, information about the
+fiduciary net position of the Arkansas Public Employees Retirement System (“APERS”), and
+additions to/deductions from APERS fiduciary net position have been determined on the same basis
+as they are reported by APERS. For this purpose, benefit payments (including refunds of employee
+contributions) are recognized when due and payable in accordance with the benefit terms.
+Investments are reported at fair value.
+m. Postemployment benefits other than pensions – For purposes of measuring the net other
+postemployment benefits (“OPEB”) liability, deferred inflows of resources, and deferred outflows
+of resources related to OPEB and OPEB expense, information about the fiduciary net position of
+the benefit plan and additions to/deductions from the plan’s fiduciary net position have been
+determined on the same basis as they were determined by a third-party actuarial report on the plan.
+For this purpose, benefit payments are recognized when due and payable in accordance with the
+benefit terms. Investments are reported at fair value.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 23
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+n. Deferred outflow/inflow of resources – The Authority reports increases in net position that relate
+to future periods as deferred outflow of resources in a separate section of its combined statement
+of net position. The Authority reports decreases in net position that relate to future periods as
+deferred inflow of resources in a separate section of its combined statement of net position. These
+amounts will be amortized as pension and OPEB expense over future periods as shown in Notes 9
+and 10.
+o. Deposits against financing arrangements – Deposits against financing arrangements represent
+debt service funds and interest earned on funds created by trust indentures associated with bond
+issuances that are held by the Authority to be used by the borrower to pay debt service to the
+Authority. If not used to pay debt service, these funds are returned to the borrower at the end of the
+financing arrangement.
+p. Contract obligations – Contract obligations consist of payables on contracts the Authority entered
+into with the Arkansas Department of Corrections (“ADC”), a software subscription service
+agreement to administer the HAF program, and the remaining balance of the consulting service
+agreement for the HAF program.
+q. Unearned guaranty fee – The Authority receives guaranty fees from borrowers who participate in
+the Bond Guaranty Fund Programs. Nonrefundable fees are amortized into income ratably over
+the term of the respective programs.
+r. Conduit debt obligations – Conduit debt issued by the Authority is recorded on the Authority’s
+combined statement of net position if either (a) the Authority has a vested interest in the residual
+value of the bond issue after its retirement or (b) the Authority guarantees the debt through the
+Bond Guaranty Fund.
+Additionally, the Authority reports conduit debt obligations of entities included in the State
+of Arkansas reporting entity on its combined statement of net position. At June 30, 2025, the
+principal balance of these bonds included on the Authority’s combined statement of net position
+totaled $252.5 million.
+s. Net position – Net position represents the difference between assets and deferred outflow of
+resources, and liabilities and deferred inflow of resources on the accompanying combined statement
+of net position. Net position is classified in four components:
+Restricted expendable by bond resolution and programs – Represents those funds restricted within
+the respective bond resolution or by specific provisions of the programs.
+Restricted, nonexpendable, and minority interest – Represents the equity interest of the Component
+Unit held by a minority participant.
+Investment in capital assets – Represents the balance of capital assets, net of depreciation. No
+related debt exists.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 24
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting Policies (cont.)
+Unrestricted – Represents those funds used at the discretion of the Authority’s Board of Directors
+to complement bond and loan programs and to provide for the Authority’s operations.
+The Authority first applies restricted net position when an expense or outlay is incurred for
+purposes for which both restricted and unrestricted net positions are available.
+2. Deposits and Investments
+Deposits
+The Authority – Custodial credit risk is the risk that, in the event of a bank failure, the
+Authority’s deposits may not be returned to it. The Authority’s deposit policy for custodial credit risk
+requires compliance with the provisions of state law, including the State Board of Finance’s
+Management of Cash Funds Rule 2012-A, the Authority’s various bond indentures, and the Authority’s
+general fund investment policy. Deposits are collateralized for those amounts exceeding federal
+depository insurance, typically with obligations of the U.S. Department of the Treasury, U.S. agencies
+or instrumentalities, municipal bonds, or bank purchase agreements having an aggregate value at least
+105% of the amount of the deposits.
+At June 30, 2025, the carrying value of the Authority’s deposits was $13.4 million. The
+balances, per the bank statements, totaled $13.5 million. Of those deposits, $92 thousand were exposed
+to custodial credit risk.
+(In thousands)
+Uninsured and uncollateralized $ 92
+The uninsured and uncollateralized balance represents deposits with the Federal Home Loan
+Bank (“FHLB”) of Dallas.
+Investments
+The Authority – The Authority may legally invest in direct obligations of, and other
+obligations guaranteed as to principal by the U.S. Department of the Treasury and U.S. agencies and
+instrumentalities, mortgage-backed securities, guaranteed investment contracts, municipal bonds, and
+bank repurchase agreements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 25
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+2. Deposits and Investments (cont.)
+At June 30, 2025, the Authority had the following investments and maturities:
+Maturities in Years
+Less than 1 1 - 5 6 - 10 More than 10 Total
+(In thousands)
+U.S. agencies obligations $ 4,951 $ 42,677 $ 915 $ - $ 48,543
+Mortgage-backed securities 20 3,630 13,549 161,370 178,569
+Mutual bond funds 1,149 565 266 1,201 3,181
+$ 6,120 $ 46,872 $ 14,730 $ 162,571 $ 230,293
+Component Unit – The mission of ACVIT is to increase the availability of equity and near-
+equity capital for emerging, expanding, relocation, and restructuring enterprises in the State, with the
+ultimate goal of strengthening the State’s economic base and creating jobs. ACVIT can legally invest
+in equity capital and near equity capital and was created to invest in such. There are no scheduled
+maturities for these investments, nor are they rated investments. There is no limit on the amount that
+may be invested in any one company. There is only one investment that represented 5% or more of the
+total equity investments. This company focuses on diagnostic health testing, which is 6.67% of the
+total investments balance as of June 30, 2025. Total equity investments for ACVIT at June 30, 2025
+were $21.0 million.
+a. Interest rate risk – As a means of limiting its exposure to fair value losses due to rising interest
+rates, the Authority’s investments typically match the term of the corresponding bonds or, in the
+case of general funds, limit the maturity to no greater than 15 years for municipal bonds and seven
+years for treasuries, agencies, and mortgage-backed securities.
+The Authority invests in various asset and mortgage-backed securities. These securities
+are reported at fair value in the combined statement of net position. The Authority invests in these
+securities to enhance yields on investments. Changes in market interest rates could affect the cash
+flows of these securities and may result in changes in fair value. The overall return or yield on
+these securities depends on the changes in the interest and principal payment pattern and the market
+value of the underlying assets.
+b. Credit risk – Credit risk is the risk that the issuer or other counterparty to an investment will not
+fulfill its obligations. The Authority complies with various trust indentures or internal investment
+policy whereby investments and debt securities are typically rated “A” or higher. The Authority’s
+investments in U.S. agencies obligations and mortgage-backed securities not directly guaranteed
+by the U.S. government were primarily rated “AA+” by Standard & Poor’s (“S&P’s”) and “Aaa”
+by Moody’s Investors Service at June 30, 2025. The Authority’s amounts in money market mutual
+funds, or investments of those funds, were primarily rated “AAAm” by S&P’s and “Aaa” by
+Moody’s Investors Service.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 26
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+2. Deposits and Investments (cont.)
+c. Custodial credit risk – For an investment, custodial credit risk is the risk that, in the event of the
+failure of the counterparty, the Authority will not be able to recover the value of its investment or
+collateral securities that are in the possession of an outside party. The Authority’s investments in
+mutual funds and guaranteed investment contracts are not classified by custodial risk category as
+they are not supported by securities in physical or book entry form.
+d. Concentration of credit – The Authority places no limit on the amount that may be invested in
+any one issuer. Investments of the Authority (not guaranteed by the U.S. government or considered
+a mutual fund) representing 5% or more of total investments at June 30, 2025 are as follows:
+Issuer Fair Value Percentage
+(In thousands)
+Federal Farm Credit Bank $ 20,992 9.15%
+FHLB 25,657 11.18%
+Summary of Carrying Values
+The carrying values of deposits, money market mutual funds, the State Treasurer Money
+Management Trust Fund (“MMTF”), and investments are included on the accompanying combined
+statement of net position as follows:
+Component
+Authority Unit
+(In thousands)
+Carrying values
+Deposits $ 13,415 $ 1,318
+Money market mutual funds 269,741 -
+State Treasurer MMTF 94,402 -
+Investments 230,293 20,982
+$ 607,851 $ 22,300
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 27
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+2. Deposits and Investments (cont.)
+Included in the following combined statement of net position captions:
+Component
+Authority Unit
+(In thousands)
+Current assets
+Cash and cash equivalents $ 377,558 $ 1,318
+Current portion of investments 2,989 -
+Noncurrent assets
+Investments
+Unrestricted 44,744 -
+Restricted 182,560 20,982
+$ 607,851 $ 22,300
+The Authority’s investments above are carried at their estimated fair market value. Unrealized
+gains and losses are included in investment income on the accompanying combined statement of
+revenues, expenses, and changes in net position and combined statement of cash flows. The Authority
+recorded unrealized gains of $2.86 million for fiscal year 2025. As discussed in Note 11 for federated
+treasury obligations, money market obligations, and cash management fund, the carrying value
+approximates fair value. The Component Unit investments are carried at historical cost less any
+impairments. During the year ended June 30, 2025, the Component Unit recorded impairments of
+approximately $2.37 million.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 28
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+3. Loans and Direct Financed Leases
+The following presents the breakdown of the Authority’s portfolio of loans receivable:
+The Authority
+Loans
+Net of Stated
+Type of Loan Balance Allowance Allowance Interest Rate Impairments
+Federal Housing Programs $ 182,811 $ 72,098 $ 110,713 0.00% to 6.25% $ 82,692
+Multi-Family Programs 6,012 2,853 3,159 0.00% to 4.00% 2,502
+Economic Development Bond
+Guaranty Program 20,409 1,982 18,427 0.00% to 6.00% 3,080
+State Facilities and Amendment
+82 Programs 248,060 - 248,060 1.60% to 5.00% -
+Other Economic Development
+Programs 2,290 604 1,686 1.00% to 3.00% 758
+Tobacco Settlement Revenue
+Bonds Program 68,110 - 68,110 4.89% to 5.10% -
+General Fund Program 55,984 3,124 52,860 0.00% to 7.875% 359
+Student Loan Programs 19,177 1,315 17,862 2.95% to 7.50% -
+Totals $ 602,853 $ 81,976 $ 520,877 $ 89,391
+a. Federal Housing Programs – Includes loans funded by federal agencies, mainly HUD, and are
+either for multi-family housing or single-family housing loan assistance. The programs offer
+different types of loan structures, such as deferred loans and surplus cash loans, as well as loans
+with below market interest rates and standard amortization.
+b. Economic Development Bond Guaranty Program – Loans and leases to private companies for
+financing the acquisition or expansion of facilities are collateralized by liens on and security
+interests in collateral granted by the companies and by guaranty agreements between the Authority
+and one or more guarantors. To a limited extent, and only when specified by a specific trust
+indenture, the payment of principal and interest on the bonds is guaranteed by the Authority under
+the ADFA Bond Guaranty Act (Act 505 of 1985).
+Additionally, the Bond Guaranty Fund guarantees principal and interest on revenue bonds
+issued by municipalities within the State for economic development purposes. At June 30, 2025,
+revenue bonds outstanding of $10.74 million were guaranteed by the Bond Guaranty Fund.
+Furthermore, the Bond Guaranty Fund guarantees bond anticipation notes. At June 30, 2025, the
+principal amount on these notes totaled $1.3 million outstanding, with $1.1 million guaranteed.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 29
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+3. Loans and Direct Financed Leases (cont.)
+c. State Facilities Programs – Includes financing activities with various state agencies.
+d. Tobacco Settlement Revenue Bonds Program – Includes a loan agreement between the Authority
+and the University of Arkansas’s Board of Trustees (the “University”), whereby the University
+agrees to provide for repayment in the event tobacco settlement revenues are not available.
+e. General Fund Program – Includes loans that are residual assets of the Single Family Mortgage
+Purchase Program, Multi-Family Mortgage Purchase Program, or funded by the general fund as
+special initiatives of the Authority. Mortgage loans purchased by the Authority under the Single
+Family Mortgage Purchase Program are typically Federal Housing Administration insured,
+guaranteed by USDA Rural Development, or U.S. Department of Veterans Affairs guaranteed.
+Included in the general fund program is a $1.7 million loan to the component unit.
+f. Student Loan Programs – Includes private student loans with below-market interest rates for
+Arkansas residents attending higher education institutions either in Arkansas or out-of-state. Non-
+Arkansas residents are eligible to receive private student loans from the Authority when attending
+an eligible Arkansas higher education institution.
+g. Delinquent loans – At June 30, 2025, accruing loans delinquent 180 days or more, where payment
+is anticipated due to current payment activity, totaled approximately $218 thousand. At June 30,
+2025, nonaccruing loans were $11.9 million.
+Component Unit – AVCIT
+At June 30, 2025, the Component Unit had no nonaccruing loans.
+h. Direct financing leases – The Authority is the lessor under various leases whereby the Authority
+issued bonds for the acquisition or construction of certain facilities and then leased the facilities to
+other state agencies or private companies. At the end of the lease terms, these leases either transfer
+ownership to the other agencies or contain bargain purchase options.
+4. Loan to Component Unit
+AVCIT
+The Authority finances a line of credit to the AIF, a blended component unit of the AVCIT,
+and the total is not to exceed $24 million. The balance was $1.7 million for the year ended June 30,
+2025 (see Note 7).
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 30
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+5. Capital Assets
+Premises and equipment activity consists of the following:
+Transfers and
+June 30, 2024 Additions Disposals June 30, 2025
+(In thousands)
+Premises and equipment $ 4,047 $ - $ 72 $ 4,119
+Less accumulated depreciation 1,926 84 29 2,039
+Capital assets, net $ 2,121 $ 84 $ 43 $ 2,080
+Depreciation expense was approximately $84 thousand for the year ended June 30, 2025.
+6. Noncurrent Liabilities
+Changes in noncurrent liabilities, other than bonds and notes payable discussed in Note 7,
+consist of the following:
+The Authority
+Adoption Amount
+of GASB June 30, Due
+June 30, Statement 2024, June 30, Within
+2024 No. 101 As Restated Increases Decreases 2025 One Year
+(In thousands)
+Unearned fees $ 727 $ - $ 727 $ - $ 207 $ 520 $ 147
+Contract obligations 6,758 - 6,758 2,000 2,874 5,884 3,294
+Deposits against
+financing
+arrangements 49,127 - 49,127 27,845 25,117 51,855 -
+Deferred gain on
+refinancing sale of
+asset 243 - 243 - 22 221 33
+OPEB liability 1,915 - 1,915 109 - 2,024 102
+Pension liability 4,138 - 4,138 - 619 3,519 -
+Compensated absences 412 577 989 219 - 1,208 1,140
+Other liabilities 1 - 1 2,342 2 2,341 -
+$ 63,321 $ 577 $ 63,898 $ 32,515 $ 28,841 $ 67,572 $ 4,716
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 31
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+7. Bonds and Notes Payable
+Bonds and notes payable consist of the following:
+The Authority
+(In thousands)
+Total Single Family bonds payable, with interest
+rates ranging from 2.49% - 6.1% and final
+maturity at varying dates through January 1, 2056. $ 187,825
+Plus unamortized premiums 3,391
+Total Single Family bonds payable, net 191,216
+Total Federal Housing notes payable, with interest
+rates of 1.00% and final maturity at varying
+dates through July 29, 2045. 2,960
+Total Economic Development bonds payable,
+guaranteed by the Bond Guaranty Fund, with
+interest rates ranging from 2.25% - 6.00%
+and final maturity at varying dates through
+January 1, 2040. 23,327
+Total State Facilities bonds payable, with interest
+rates ranging from 1.6% - 5.00% and final
+maturity at varying dates through December 1,
+2050. 252,516
+Tobacco bonds payable, with interest rates
+ranging from 4.89% - 5.10% and final maturity
+at varying dates through July 1, 2046. 68,110
+Total all bonds and notes payable, net $ 538,129
+Component Unit
+(In thousands)
+Note payable to the Authority, with an interest
+rate of 3.50% and maturing in March 2027. $ 2,301
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 32
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+7. Bonds and Notes Payable (cont.)
+Activity in bonds and notes payable consists of the following:
+The Authority
+Additions Amount Due
+Beginning Including Ending Within
+Balance Accretion Reductions Balance One Year
+(In thousands)
+Bonds payable $ 429,867 $ 128,294 $ (26,383) $ 531,778 $ 24,484
+Notes payable 3,102 - (142) 2,960 143
+432,969 128,294 (26,525) 534,738 24,627
+Unamortized premiums 546 2,930 (85) 3,391 -
+Total $ 433,515 $ 131,224 $ (26,610) $ 538,129 $ 24,627
+Component Unit
+Amount Due
+Beginning Ending Within
+Balance Additions Reductions Balance One Year
+(In thousands)
+Note payable $ 2,772 $ 126 $ (597) $ 2,301 $ 2,301
+The future amount of principal and interest due is undeterminable at this time because the
+balances will fluctuate with draws needed for capital calls and reductions for distributions by investee
+companies.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 33
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+7. Bonds and Notes Payable (cont.)
+The Authority
+Future amounts required for principal and interest on all bonds and notes payable at June 30,
+2025 were as follows:
+(In thousands) Principal Interest
+Fiscal Year Ending
+2026 $ 24,627 $ 16,850
+2027 25,780 17,216
+2028 30,503 16,351
+2029 23,597 15,516
+2030 23,703 14,877
+2031 - 2035 133,105 63,924
+2036 - 2040 112,442 46,401
+2041 - 2045 91,846 31,924
+2046 - 2050 58,858 19,087
+2051 - 2055 48,710 7,174
+2056 - 2059 3,075 93
+Unamortized premiums 3,391 -
+Accreted interest (41,508) 41,508
+Total $ 538,129 $ 290,921
+Under certain bond resolutions, the Authority has the option to redeem bonds early at various
+premium rates. Generally, the redemption option cannot be exercised prior to the time the bonds have
+been outstanding for 6 to 10 years. Certain special redemptions, as governed by the bond resolutions,
+are permitted or required prior to such time. During fiscal 2025, $3.5 million of bonds were redeemed
+at par early.
+The bonds and notes are collateralized, as described in the applicable bond and note resolutions,
+by the revenues, monies, investments, mortgage loans, and other assets in the funds and accounts
+established by the respective bond and note resolutions.
+During the normal course of business, the Authority issues Economic Development Revenue
+Bonds and Multi-Family Housing Revenue Bonds on behalf of private companies within the State. The
+bonds are payable solely from, and secured by, a pledge of revenues from the private companies to
+which the bond proceeds were remitted and, accordingly, have been excluded from the Authority’s
+combined financial statements. At June 30, 2025, the bonds outstanding issued under these programs
+aggregated $2.8 billion.
+On August 7, 2025, the Authority issued 2025 Series B Single Family Bonds for $65 million,
+at rates ranging between 2.95% - 5.50%, with a premium of $1.5 million, and maturing on January 1,
+2056. The proceeds from these bonds will be used to fund loans with a weighted-average mortgage
+interest rate of 5.788% per annum.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 34
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+8. Concentration of Risk in Lending and Loan Receivable
+The Authority, through its normal lending activity, originates and maintains loans receivable
+that are concentrated primarily in Arkansas. The Authority’s policy calls for collateral or other forms
+of repayment assurance to be received from the borrower at the time of loan origination. Such collateral
+or other forms of repayment assurance are subject to changes in economic value due to various factors
+beyond the control of the Authority, and such changes could be significant.
+The Authority’s private student loans are not collateralized; therefore, uncollectible student
+loans are expected to be covered with loan loss reserves.
+Additionally, the Authority is dependent on private insurers for recovery of loan principal
+should a borrower or borrowers not pay the principal and should any collateral prove to be insufficient
+in value to provide for full recovery of principal and accrued interest. This dependency is concentrated
+in a limited number of insurers, and the Authority’s ability to monitor closely the insurers’ financial
+condition is limited.
+9. Retirement Plan
+Plan Descriptions
+The officials and employees of the Authority participate in a statewide, cost sharing, multiple
+employer, defined benefit pension plan administered by APERS. There is no legal obligation imposed
+upon the member agencies relative to the operation of APERS other than the payment of a percentage
+of the gross salaries of eligible employees participating in the Plan as an employer contribution. APERS
+consists of both a contributory plan and a noncontributory plan. The noncontributory plan was created
+by Act 793 of 1977 and was effective January 1, 1978. It automatically applied to all members hired
+from January 1, 1978 to June 30, 2005. Act 2084 of 2005 requires that, beginning July 1, 2005, all new
+hires become contributory members and are required to contribute 5% of their earnings to APERS.
+Beginning on July 1, 2022, the contribution rate was increased by .25% and will increase each July 1st
+until a max of 7% is reached. All other noncontributory members were given the opportunity to become
+contributory if they so elected by December 31, 2005. Employees joining APERS prior to July 1, 1997
+are vested after 10 years of employment. Beginning July 1, 1997, the vesting period for new members
+was reduced to five years; however, this act was not retroactive. APERS is audited separately, and
+included therein is financial data and trend information, which gives an indication of the extent to which
+APERS is accumulating sufficient assets to pay benefits when due.
+Eligible employees of the Authority are provided with pensions through APERS, administered
+by APERS’s Board of Trustees. APERS is a cost sharing multiple employer defined benefit plan.
+Benefit provisions are established and amended by Arkansas Code Title 24.
+The plan issues a publicly available financial report, which may be obtained by contacting:
+Arkansas Public Employees Retirement System
+124 W. Capitol Avenue, Suite 400
+Little Rock, Arkansas 72201-3704
+(501) 682-7800
+http://www.apers.org/publications
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 35
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+9. Retirement Plan (cont.)
+Benefits Provided
+APERS provides retirement, disability, and death benefits and annual adjustments to plan
+members and beneficiaries, as follows:
+The normal retirement benefit, paid on a monthly basis, is determined based on (1) the
+member’s final average compensation (an average of the highest 36 months’ earnings) and (2) the
+number of years of credited service. Retiree benefit increases are calculated each year on July 1 for the
+following 12 months. The re-determined amount is the amount of the benefit payable as of the
+immediately preceding July 1, increased by 3%. Members are eligible for full retirement benefits (1)
+at any age with 28 years of credited service; (2) at age 65 with five years of actual service, except for
+members of the General Assembly who must have 10 years of actual service if the member only has
+service as a member of the General Assembly; or (3) at age 55 with 35 years of credited service as an
+elected official or public safety member. Members are eligible for reduced benefits (1) at any age with
+at least 25 years but less than 28 years of actual service; or (2) at age 55 with five years of actual service.
+Members who are defined as a public safety member are eligible for a reduced benefit with five years
+of actual service if the member is within 10 years of normal retirement age.
+Contributions
+Arkansas Code Title 24 establishes the contribution requirements of active members and
+participating employers. Contribution rates are as follows:
+Contribution provisions applicable to the participating employers are established by APERS’s
+Board of Trustees and should be based on an independent actuary’s determination of the rate required
+to fund APERS. The General Assembly and certain agencies employing individuals in public safety
+positions must also remit additional amounts. For the fiscal year ended June 30, 2024, the employer
+contribution rates, as a percentage of active member payrolls, ranged from 4.00% to 67.13%.
+Contributions to APERS from the Authority were approximately $509 thousand for the year ended June
+30, 2025.
+During a member’s participation in APERS deferred retirement option plan, the employer
+continues to contribute and the employee ceases to contribute.
+Net Pension Liability
+The collective net pension liability of $2.5 billion was measured as of June 30, 2024, and the
+total pension liability used to calculate the net pension liability was determined by an actuarial valuation
+as of that date. Each employer’s proportion of the net pension liability was based on the employers’
+share of contributions to the pension plan relative to the total contributions of all participating
+employees. At June 30, 2024, the Authority’s proportion was 0.1414% for APERS. At June 30, 2025,
+the Authority reported liabilities of $3.5 million for its proportionate share of the net pension liability
+and has been recognized in the Authority’s accompanying combined statement of net position.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 36
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+9. Retirement Plan (cont.)
+The net pension liability in the cost-sharing pension plan at June 30, 2025, using the 2024
+measurement date, is as follows:
+Total
+APERS ADFA's
+Pension Liability
+Liability Portion
+(In thousands)
+Total pension liability $ 13,533,079 $ 19,140
+Plan net position 11,044,957 15,621
+Net pension liability $ 2,488,122 $ 3,519
+Plan net position as a % of total pension liability 81.61% 81.61%
+Pension Liabilities, Pension Expense, Deferred Outflow of Resources, and Deferred Inflow of
+Resources to Pensions
+For the year ended June 30, 2025, the Authority recognized pension expense of approximately
+$415 thousand. For the year ended June 30, 2025, the Authority reported deferred outflow of resources
+and deferred inflow of resources related to pensions as follows:
+Deferred Deferred
+Outflow of Inflow of
+Resources Resources
+(In thousands)
+Differences between expected and actual experience $ 137 $ 144
+Changes of assumptions 123 -
+Net differences between projected and actual earnings on
+pension plan investments 102 -
+Changes in proportion and differences between the Authority's
+contributions and proportionate share of contributions 16 64
+The Authority's contributions subsequent to the measurement
+date 509 -
+Total $ 887 $ 208
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 37
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+9. Retirement Plan (cont.)
+At June 30, 2025, the Authority reported approximately $509 thousand as deferred outflow of
+resources related to pensions resulting from the Authority’s contributions subsequent to the
+measurement date that will be recognized as a reduction of the net pension liability in the fiscal year
+ended June 30, 2025. Other amounts reported as deferred outflow of resources and deferred inflow of
+resources related to pensions will be recognized in pension expense as follows:
+(In thousands)
+Fiscal Year Ending
+2026 $ (80)
+2027 489
+2028 (155)
+2029 (84)
+$ 170
+Actuarial Assumptions
+For fiscal 2025, the total pension liability in the actuarial valuation was determined using the
+following actuarial assumptions, applied to all periods included in the measurement, (a) an inflation
+rate of 3.25%, (b) salary increases in the range of 3.25% to 11.00%, including inflation, (c) an
+investment rate of return of 7.00%, and (d) the PubG-2010 Amount-Weighted Below-Median Income
+General Retiree Mortality tables, were used. The healthy retiree mortality tables, for postretirement
+mortality, used in evaluating allowances to be paid were 114% for males and 132% for females. The
+disabled retiree mortality tables, for postretirement disabled mortality, used in evaluating allowances
+to be paid were 114% and 132% of the PubNS-2010 Amount-Weighted Disabled Retiree Mortality
+tables for males and females, respectively. The preretirement mortality tables used were 75% of the
+PubG-2010 Amount-Weighted Below-Median General Employee Mortality tables for active mortality
+experience. Mortality rates for a particular calendar year are determined by applying the MP-2021
+mortality improvement scale to the tables described above.
+The actuarial assumptions used in the June 30, 2024 valuation were based on the period July
+1, 2017 through June 30, 2022.
+Long-Term Expected Return on Plan Assets
+The long-term expected rate of return on pension plan investments was determined using a
+building-block method in which best-estimate ranges of expected future real rates of return (expected
+returns, net of pension plan investment expense, and inflation) are developed for each major asset class.
+These ranges are combined to produce the long-term expected rate of return by weighing the expected
+future real rates of return by the target asset allocation percentage and by adding expected inflation.
+The best estimates of arithmetic real rates of return for the 10-year period from 2024 - 2033 were
+provided by the plan investment consultant.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 38
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+9. Retirement Plan (cont.)
+For each major asset class that is included in the pension plans’ target asset allocation, these
+best estimates are summarized in the following table:
+Long-Term
+Target Expected
+Asset Class Allocation Rate of Return
+Broad domestic equity 39% 5.03%
+International equity 17% 6.34%
+Real assets 16% 4.51%
+Private equity 5% 9.00%
+Hedge funds 2% 3.63%
+Domestic fixed 21% 3.38%
+Total 100%
+Discount Rate
+The discount rate for the plan was determined as follows:
+The discount rate used to measure the total pension liability was 7.00% for the year ended June
+30, 2025. The projection of cash flows used to determine the discount rate assumed that plan member
+contributions will be made at the current contribution rate and that employer contributions will be made
+at rates equal to the difference between actuarially determined contribution rates and the member rate.
+Based on these assumptions, the pension plan’s fiduciary net position was projected to be available to
+make all projected future benefit payments of current plan members. Therefore, the long-term expected
+rate of return on pension plan investments was applied to all periods of projected benefit payments to
+determine the total pension liability.
+Sensitivity of the Authority’s Proportionate Share of the Net Pension Liability to Changes in the
+Discount Rate
+The following presents the Authority’s proportionate share of the net pension liability for the
+plan calculated using the discount rate stated above, as well as what the Authority’s proportionate share
+of net pension liability would be if it were calculated using a single discount rate that is 1% lower or
+1% higher than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+APERS - current discount rate 7.00% $ 6,005 $ 3,519 $ 1,470
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 39
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+9. Retirement Plan (cont.)
+Pension Plan Fiduciary Net Position
+Detailed information about the pension plan’s fiduciary net position is available in the
+separately issued financial report of the plan.
+10. Postemployment Benefits Other Than Pensions
+Plan Description
+The Authority contributes to the single-employer defined benefit healthcare plan for eligible
+state employees, Arkansas State Employee Health Plan (“ASE”) (administered by the Department of
+Finance and Administration – Employee Benefits Division).
+Benefits Provided
+The plan provides medical and prescription drug benefits to plan members and beneficiaries as
+established by state law Arkansas Code § 21-5-401 to § 21-5-414.
+ASE covers state employees who are members of APERS and are eligible to be in ASE on their
+last day of employment and their dependents. Retirees and their spouses are eligible to continue
+participation in ASE until the death of each covered individual. Retirees who are Medicare eligible
+will have their benefits coordinated with Medicare Part A and B, with ASE being the secondary payer.
+Employees Covered by Benefit Terms
+The Authority had 43 active employees as of June 30, 2025. Inactive employees still receiving
+benefits are not maintained at each agency’s level.
+Annual OPEB Cost and Net OPEB Obligation
+At June 30, 2025, the Authority reported the following liability as determined as of the date
+listed:
+Measurement Total OPEB
+Date Liability
+(In thousands)
+Authority June 30, 2025 $ 2,024
+Actuarial Assumptions and Other Inputs
+The total OPEB liability was determined by an actuarial valuation as of the valuation date of
+June 30, 2025, calculated based on the discount rate and actuarial assumptions below. Any significant
+changes during the period have been reflected as prescribed by GASB Statement No. 75, “Accounting
+and Financial Reporting for Postemployment Benefits Other Than Pensions.” The actuarial valuations
+used are included in the State’s report.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 40
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+10. Postemployment Benefits Other Than Pensions (cont.)
+The discount rate was 5.20% and was based on the Bond Buyer 20-Bond GO Index. The
+inflation rate was 2.30% and salary increases, including both wage growth in addition to promotion and
+longevity, ranged from 11.00% to 3.45% for ages ranging from 20 years to 65 years.
+Mortality rates were based on the PUBG-2010 amount-weighted below-median income
+general, retiree, and disabled retiree mortality tables for males and females. Mortality rates are
+multiplied by 114% for males and 132% for females. The healthy annuitant tables are adjusted for
+fully generational mortality improvements using Scale MP-2021.
+Long-Term Expected Rate of Return
+Since there are no plan assets held in trust, the expected long-term rate of return is zero.
+Therefore, the required supplementary information associated with the schedule of contributions of
+investment returns is not included.
+Changes in the Total OPEB Liability
+The following table provides the changes in the total OPEB liability for the Authority:
+Total OPEB
+Liability
+(In thousands)
+Balance - June 30, 2024 $ 1,915
+Changes for the current fiscal year
+Service cost 69
+Interest 77
+Effect of economic/demographic gains or losses 291
+Changes in assumptions or other inputs (256)
+Changes in proportion 13
+Benefit payments (85)
+Net changes 109
+Balance - June 30, 2025 $ 2,024
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 41
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+10. Postemployment Benefits Other Than Pensions (cont.)
+Sensitivity of the Total OPEB Liability to Changes in the Discount Rate
+The following table presents the total OPEB liability of the Authority, as well as what the
+Authority’s total OPEB liability would be if it were calculated using a discount rate that is one
+percentage-point lower or one percentage-point higher than the current discount rate for the plan:
+1% Decrease Current Discount Rate 1% Increase
+Total OPEB Total OPEB Total OPEB
+Rate Liability Rate Liability Rate Liability
+(In thousands)
+Authority 4.20% $ 2,279 5.20% $ 2,024 6.20% $ 1,810
+Sensitivity of the Total OPEB Liability to Changes in the Healthcare Cost Trend Rates
+The following table presents the total OPEB liability of the Authority, as well as what the
+Authority’s total OPEB liability would be if it were calculated using healthcare costs trend rates that
+are one percentage-point lower or one percentage-point higher than the current healthcare cost trend
+rates for the plan:
+Current Health
+1% Decrease Care Cost Trend Rate 1% Increase
+Total OPEB Liability Total OPEB Liability Total OPEB Liability
+(In thousands)
+Authority 4.20% $ 1,777 5.20% $ 2,024 6.20% $ 2,327
+OPEB Expense and Deferred Outflow of Resources and Deferred Inflow of Resources Related to OPEB
+For the year ended June 30, 2025, the Authority recognized OPEB expense for the plan as
+follows:
+Total OPEB
+Expense
+(In thousands)
+Authority $ (272)
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 42
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+10. Postemployment Benefits Other Than Pensions (cont.)
+At June 30, 2025, the Authority reported deferred outflow of resources and deferred inflow of
+resources related to OPEB for the plan:
+Authority
+Deferred Deferred
+Outflow of Inflow of
+Resources Resources
+(In thousands)
+Difference between expected and actual experience $ 318 $ 71
+Changes of assumptions and other inputs 49 709
+Total $ 367 $ 780
+Amounts reported as deferred outflow of resources and deferred inflow of resources related to
+OPEB will be recognized in OPEB expense as follows:
+(In thousands)
+Fiscal Year Ending
+2026 $ (300)
+2027 (95)
+2028 (18)
+Total $ (413)
+11. Fair Value of Financial Instruments
+Fair value is the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date. Fair value measurements
+must maximize the use of observable inputs and minimize the use of unobservable inputs. There is a
+hierarchy of three levels of inputs that may be used to measure fair value:
+• Level I – Unadjusted quoted prices in active markets that are accessible at the measurement
+date for identical, unrestricted assets or liabilities.
+• Level II – Quoted prices in markets that are not active or inputs, which are observable,
+either directly or indirectly, for substantially the full term of the asset or liability.
+• Level III – Prices or valuation techniques that require inputs that are both significant to
+the fair value measurement and unobservable (i.e., supported by little or no market
+activity).
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 43
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+11. Fair Value of Financial Instruments (cont.)
+Recurring Measurements
+The following table presents the fair value measurements of assets recognized on the
+accompanying combined financial statements measured at fair value on a recurring basis and the level
+within the fair value hierarchy in which the fair value measurements fall:
+Quoted Prices
+in Active Significant
+Markets for Other Significant
+Identical Observable Unobservable
+Assets Inputs Inputs
+Fair Value (Level I) (Level II) (Level III)
+(In thousands)
+U.S. agencies obligations $ 48,543 $ - $ 48,543 $ -
+Mortgage-backed securities 178,569 - 178,569 -
+Mutual bond funds 3,181 - 3,181 -
+$ 230,293 $ - $ 230,293 $ -
+The following is a description of the valuation methodologies and inputs used for assets
+measured at fair value on a recurring basis and recognized on the accompanying combined financial
+statements, as well as the general classification of such assets pursuant to the valuation hierarchy. There
+have been no significant changes in the valuation techniques during the year ended June 30, 2025.
+Investments
+Where quoted market prices are available in an active market, securities are classified within
+Level I of the valuation hierarchy. The Authority did not have any Level I securities at June 30, 2025.
+Level II securities include U.S. Government and federal agencies, mortgage-backed securities,
+negotiable certificates of deposit, and mutual bond fund. If quoted market prices are not available, then
+fair values are estimated by an independent third-party pricing service using pricing models, quoted
+prices of securities with similar characteristics, or discounted cash flows. For these investments, the
+inputs used by the pricing service to determine fair value may include one or a combination of
+observable inputs such as benchmark yields, reported trades, broker/dealer quotes, issuer spreads, two-
+sided markets, benchmark securities, bids, offers, and reference data market research publications and
+are classified within Level II of the valuation hierarchy. In certain cases where Level I or Level II
+inputs are not available, securities are classified within Level III of the hierarchy. The Authority did
+not have any Level III securities at June 30, 2025.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 44
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+12. Commitments and Contingencies
+The Authority
+The Authority participates in numerous state and federal grant programs, which are governed
+by various rules and regulations of the grantor agencies. Costs charged to the respective grant programs
+are subject to audit and adjustment by the grantor agencies; therefore, to the extent the Authority has
+not complied with the rules and regulations governing the grants, refunds of any money received may
+be required, and the collectibility of any related receivable at June 30, 2025 may be impaired. In the
+opinion of the Authority, there are no significant contingent liabilities relating to compliance with the
+rules and regulations governing the respective grants; therefore, no provision has been recorded on the
+accompanying combined financial statements for such contingencies.
+The Authority has $16.7 million of amounts recorded as cash and investments on the
+accompanying combined statement of net position that may be disbursed to borrowers under loan and
+lease agreements closed prior to June 30, 2025.
+Component Unit
+Outstanding commitments to various funds/companies by the AVCIT were $7.7 million for the
+year ended June 30, 2025.
+From time to time, the Authority may be a defendant in legal actions related to its business
+operations and mission. While the final outcome of these legal actions may vary, management is of the
+opinion that the ultimate liability, if any, will not have a material effect on the Authority’s financial
+position.
+The Authority is exposed to various risks of loss related to torts; theft of, damage to, and
+destruction of assets; workers’ compensation claims; fiduciary liability; and fidelity for which the
+Authority either carries commercial insurance or participates in insurance through the State. There
+have been no settlements exceeding insurance coverage in the past three years.
+The IRC of 1986 establishes rules and regulations for arbitrage rebates. The Authority has
+made provisions for revenues above the rebate limit, which must be remitted to the federal government.
+In 2003, the Authority initiated funding for the AIF, an institutional fund of funds venture
+capital program created by the Arkansas General Assembly in 2001. The VCI Act authorizes the
+Authority to assist in increasing the availability of equity and near-equity capital for emerging,
+expanding, relocating, and restructuring enterprises in the state through the creation of an institutional
+partnership fund. The Bond Guaranty Fund is subject to the first $10 million of losses incurred by the
+AIF. The funding is structured as a guaranteed line of credit with the Authority, and draws occur on
+an as-needed basis. The outstanding balance on the guaranteed line of credit was $1.7 million as of
+June 30, 2025.
+The Bond Guaranty Fund guarantees a letter of credit with a financial institution for up to $3.75
+million in the event of non-performance by the borrower. This guaranty is renewed annually.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 45
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Combined Financial Statements
+June 30, 2025
+12. Commitments and Contingencies (cont.)
+Third-Party Servicers
+The Authority has contracted with and utilizes the services of Aspire Resources Inc. (“Aspire”)
+to originate and service private student loans. The third party, Aspire, performs virtually all student
+loan servicing activities on behalf of the Authority, including maintenance of borrower files, payment
+processing, and processing loan applications. The Authority has contracted with EdFinancial Services,
+Inc. to perform a variety of administrative activities related to marketing the Authority’s private student
+loan programs, providing fee-based support services to Arkansas financial aid offices, and certain other
+administrative functions on behalf of the Authority’s Student Loan Programs.
+13. Subsequent Events
+The Authority evaluated the events and transactions subsequent to its June 30, 2025 combined
+statement of net position date and determined there were no additional significant events, other than
+disclosed in Notes 1.a. and 7, to report through December 8, 2025, which is the date the Authority
+issued its combined financial statements.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Schedule of the Authority’s Proportionate Share of the Net Pension Liability – Arkansas Public Employees Retirement System
+June 30, 2025 – June 30, 2016
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Authority's proportion of net pension liability 0.1414% 0.1420% 0.1403% 0.1525% 0.1700% 0.1785% 0.1790% 0.1996% 0.1880% 0.1941%
+Authority's proportionate share of the net
+pension liability $ 3,519,034 $ 4,137,828 $ 3,783,369 $ 1,172,128 $ 4,868,576 $ 4,306,471 $ 3,947,934 $ 5,156,742 $ 4,496,128 $ 3,575,061
+Authority's covered payroll, cash basis 3 ,335,804 3 ,318,249 2 ,944,747 2 ,948,277 3 ,366,431 3 ,418,710 3 ,394,031 3 ,250,192 3 ,408,161 3 ,444,062
+Authority's proportionate share of the net
+pension liability as a percentage of its
+covered-employee payroll 105.49% 124.70% 128.48% 39.76% 144.62% 125.97% 116.32% 158.66% 131.92% 103.80%
+Plan fiduciary net position as a percentage
+of total pension liability 81.61% 77.94% 78.31% 93.57% 75.38% 78.55% 79.59% 75.65% 75.50% 80.39%
+Information in this schedule has been determined as of the measurement date (June 30 of the year prior to the most recent fiscal year-end) of the
+Authority’s net pension liability.
+For 2025 through 2018, information for ASLA is included.
+See independent auditor’s report.
+46
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Schedule of the Authority’s Contributions – Arkansas Public Employees Retirement System
+For the Years Ended June 30, 2025 – June 30, 2016
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Contractually required contribution $ 509,354 $ 492,223 $ 482,131 $ 449,326 $ 466,396 $ 508,214 $ 523,322 $ 494,459 $ 471,153 $ 493,947
+Contributions in relation to the contractually
+required contribution 5 09,354 4 92,223 4 82,131 4 49,326 4 66,396 5 08,214 5 23,322 4 94,459 4 71,153 4 93,947
+Contribution deficiency $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Authority's covered employee payroll $ 3,335,804 $ 3,187,155 $ 3,318,249 $ 2,944,747 $ 2,948,277 $ 3,366,431 $ 3,418,710 $ 3,394,031 $ 3,250,192 $ 3,408,161
+Contributions as a percentage of covered
+employee payroll 15.27% 15.44% 14.53% 15.26% 15.82% 15.32% 15.31% 14.57% 14.50% 14.49%
+Information in this schedule has been determined as of the Authority’s most recent fiscal year-end.
+For 2025 through 2018, information for ASLA is included.
+See independent auditor’s report.
+47
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Schedule of Changes in Total Other Postemployment Benefits Liability
+For the Years Ended June 30, 2025 – June 30, 2018
+(In Thousands)
+Plan
+Measurement date 2025 2024 2023 2022 2021 2020 2019 2018
+Service cost $ 69 $ 82 $ 90 $ 214 $ 206 $ 114 $ 104 $ 132
+Interest 77 76 77 95 93 112 122 137
+Effect of plan changes - - - (1,089) - - - -
+Effect of economic/demographic gains or losses 291 110 39 (354) 12 (108) 20 (55)
+Changes in assumptions or other inputs (256) (310) (158) (946) (177) 1,020 (305) (144)
+Changes in proportion 13 (52) 49 (33) 104 120 (661) -
+Benefit payments (85) (82) (93) (109) (92) (87) (94) (109)
+Net changes 109 (176) 4 (2,222) 146 1,171 (814) (39)
+Total OPEB liability - beginning 1,915 2,091 2,087 4,309 4,163 2,992 3,806 3,845
+Total OPEB liability - ending $ 2,024 $ 1,915 $ 2,091 $ 2,087 $ 4,309 $ 4,163 $ 2,992 $ 3,806
+Covered employee payroll $ 3,336 $ 3,187 $ 3,318 $ 2,945 $ 2,948 $ 3,366 $ 3,419 $ 3,394
+Total as a percentage of covered employee payroll 60.70% 60.09% 63.02% 70.87% 146.17% 123.68% 87.51% 112.14%
+The State implemented GASB Statement No. 75, “Accounting and Financial Reporting for Postemployment Benefits Other Than Pensions,” in
+fiscal year 2018. Information for the schedule was not available prior to fiscal year 2018.
+See independent auditor’s report.
+48
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combining Statement of Net Position
+June 30, 2025
+(In Thousands)
+Economic State Tobacco
+Single Development Facilities Other Settlement
+Family Federal Bond and Economic Revenue General Student
+Housing Housing Multi-Family Guaranty Amendment Development Bonds Fund Loan
+Assets and Deferred Outflow of Resources Programs Programs Programs Program 82 Programs Programs Program Program Programs Eliminations Total
+Current assets
+Cash and cash equivalents $ 1 30,515 $ 3 4,696 $ 7 ,042 $ 1 6,880 $ 5 5,617 $ 1 8,409 $ 5 ,408 $ 6 7,408 $ 4 1,583 $ - $ 377,558
+Accrued interest receivable 1,112 156 26 111 833 65 18 639 523 - 3,483
+Accounts receivable - 3,733 - 40 3 - - 1,090 26 (783) 4,109
+Current portion of
+Investments - - - - - - - 2,989 - - 2,989
+Loans - - - - - - - 2,847 - - 2,847
+Loans to Component Unit - - - - - - - 1,658 - - 1,658
+Total current assets 1 31,627 3 8,585 7,068 1 7,031 5 6,453 1 8,474 5,426 7 6,631 4 2,132 (783) 3 92,644
+Noncurrent assets
+Investments
+Unrestricted - - - - - - - 4 4,744 - - 4 4,744
+Restricted 1 70,721 - - 8,658 - - - - 3,181 - 1 82,560
+Loans, net of allowance for loan losses of $81,976 - 1 10,713 3,159 1 8,427 2 48,060 1,686 6 8,110 4 8,355 1 7,862 - 5 16,372
+Capital assets, net - - - - - - - 83 1,997 - 2,080
+Other assets - 287 - - - - - 2,986 534 - 3,807
+Total noncurrent assets 1 70,721 1 11,000 3,159 2 7,085 2 48,060 1,686 6 8,110 9 6,168 2 3,574 - 7 49,563
+Total assets 3 02,348 1 49,585 1 0,227 4 4,116 3 04,513 2 0,160 7 3,536 1 72,799 6 5,706 (783) 1,142,207
+Deferred outflow of resources
+OPEB difference in expected versus actual experience - - - - - - - 318 - - 318
+Changes in OPEB actuarial assumptions and proportions - - - - - - - 49 - - 49
+Pension contributions, net differences, and changes in share of contributions - - - - - - - 525 - - 525
+Pension differences in expected versus actual experience - - - - - - - 137 - - 137
+Net differences between expected and actual investment earnings - - - - - - - 102 - - 102
+Changes in pension actuarial assumptions and proportions - - - - - - - 123 - - 123
+Total deferred outflow of resources - - - - - - - 1,254 - - 1,254
+Total assets and deferred outflow of resources $ 3 02,348 $ 149,585 $ 1 0,227 $ 4 4,116 $ 304,513 $ 2 0,160 $ 7 3,536 $ 174,053 $ 6 5,706 $ (783) $ 1,143,461
+See independent auditor’s report.
+49
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combining Statement of Net Position (cont.)
+June 30, 2025
+(In Thousands)
+Economic State Tobacco
+Single Development Facilities Other Settlement
+Family Federal Bond and Economic Revenue General Student
+Housing Housing Multi-Family Guaranty Amendment Development Bonds Fund Loan
+Liabilities, Deferred Inflow of Resources, and Net Position Programs Programs Programs Program 82 Programs Programs Program Program Programs Eliminations Total
+Current liabilities
+Accounts payable $ - $ 402 $ - $ - $ - $ 25 $ - $ 2 ,363 $ 89 $ (783) $ 2 ,096
+Accrued interest payable 3,252 18 - 257 972 - - - - - 4,499
+Unearned fees - - - 113 - - - 34 - - 147
+Contract obligations - - - - 3,294 - - - - - 3,294
+Deferred gain on refinancing sale of asset - - - - - 15 - 18 - - 33
+Current portion of bonds and notes payable 1,800 143 - 2,277 1 5,442 - 4,965 - - - 2 4,627
+OPEB and pension liabilities - - - - - - - 102 - - 102
+Total current liabilities 5,052 563 - 2,647 1 9,708 40 4,965 2,517 89 (783) 3 4,798
+Noncurrent liabilities
+Unearned fees - - - 373 - - - - - - 373
+Contract obligations - - - - 2,590 - - - - - 2,590
+Bonds and notes payable, net of unamortized premiums and current portion 1 89,416 2,817 - 2 1,050 2 37,074 - 6 3,145 - - - 5 13,502
+Deposits against financing arrangements - - - 1,288 4 5,141 - 5,426 - - - 5 1,855
+Deferred gain on refinancing sale of asset - - - - - 23 - 165 - - 188
+OPEB and pension liabilities - - - - - - - 5,441 - - 5,441
+Other liabilities - - - - - - - 2,409 - - 2,409
+Total noncurrent liabilities 1 89,416 2,817 - 2 2,711 2 84,805 23 6 8,571 8,015 - - 5 76,358
+Total liabilities 1 94,468 3,380 - 2 5,358 3 04,513 63 7 3,536 1 0,532 89 (783) 6 11,156
+Deferred inflow of resources
+OPEB difference in expected versus actual experience - - - - - - - 71 - - 71
+Changes in OPEB actuarial assumptions and proportions - - - - - - - 709 - - 709
+Pension difference in expected versus actual experience - - - - - - - 144 - - 144
+Changes in employer pension contribution and share of contributions - - - - - - - 64 - - 64
+Lease obligations - - - - - - - - 495 - 495
+Total deferred inflow of resources - - - - - - - 988 495 - 1,483
+Total liabilities and deferred inflow of resources 1 94,468 3,380 - 2 5,358 3 04,513 63 7 3,536 1 1,520 584 (783) 6 12,639
+Net position
+Investment in capital assets - - - - - - - 83 1,997 - 2,080
+Restricted expendable by bond resolution and programs 1 07,880 1 46,205 1 0,227 1 8,758 - 2 0,097 - 6 3,125 - 3 66,292
+Unrestricted - - - - - - - 1 62,450 - - 1 62,450
+Total net position 1 07,880 1 46,205 1 0,227 1 8,758 - 2 0,097 - 1 62,533 6 5,122 - 5 30,822
+Total liabilities, deferred inflow of resources, and net position $ 3 02,348 $ 1 49,585 $ 1 0,227 $ 4 4,116 $ 3 04,513 $ 2 0,160 $ 7 3,536 $ 1 74,053 $ 6 5,706 $ (783) $ 1,143,461
+See independent auditor’s report.
+50
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Combining Statement of Revenues, Expenses, and Changes in Net Position
+For the Year Ended June 30, 2025
+(In Thousands)
+Economic State Tobacco
+Single Development Facilities Other Settlement
+Family Federal Bond and Economic Revenue General Student
+Housing Housing Multi-Family Guaranty Amendment Development Bonds Fund Loan
+Programs Programs Programs Program 82 Programs Programs Program Program Programs Eliminations Total
+Operating revenues
+Investment income
+Interest and dividends $ 10,127 $ 1 ,107 $ 2 93 $ 5 11 $ - $ 9 18 $ - $ 3 ,731 $ 2 ,300 $ - $ 18,987
+Loans and direct financing leases - 1 ,016 53 1 ,102 8 ,696 28 3 ,294 2 ,688 8 39 - 1 7,716
+Amortization of discounts on loans - - - - - - - 1 - - 1
+Financing fees - - - 2 63 - 79 - 7 ,151 - (1,468) 6 ,025
+Net appreciation (depreciation) of investments 1 81 - - 4 10 - - - 2 ,309 (40) - 2 ,860
+Total investment income 1 0,308 2 ,123 3 46 2 ,286 8 ,696 1 ,025 3 ,294 1 5,880 3 ,099 (1,468) 4 5,589
+Other income - - - - - - - 56 26 - 82
+Total operating revenues 10,308 2 ,123 3 46 2 ,286 8 ,696 1 ,025 3 ,294 1 5,936 3 ,125 (1,468) 45,671
+Operating expenses
+Interest and amortization on bonds and notes 5 ,183 33 - 1 ,050 8 ,739 - 3 ,294 3 - - 1 8,302
+Administrative expenses
+Provision for (recovery of) loan losses - 1 ,839 (64) (272) - 44 - 4 76 6 52 - 2 ,675
+Federal financial assistance programs - 2 ,998 - - - - - - - - 2 ,998
+Loan servicing and other contractual services - - - - - - - - 1 84 - 1 84
+Salaries and benefits - - - - - - - 3 ,864 4 71 - 4 ,335
+Operations and maintenance - 1 ,477 2 - - 93 - 6 11 1 72 (1,352) 1 ,003
+Other 1 ,687 2 77 58 37 - 1 62 - 9 17 6 19 (116) 3 ,641
+Total administrative expenses 1 ,687 6 ,591 (4) (235) - 2 99 - 5 ,868 2 ,098 (1,468) 14,836
+Total operating expenses 6 ,870 6 ,624 (4) 8 15 8 ,739 2 99 3 ,294 5 ,871 2 ,098 (1,468) 33,138
+Operating income (loss) 3 ,438 (4,501) 3 50 1 ,471 (43) 7 26 - 1 0,065 1 ,027 - 1 2,533
+Nonoperating revenues
+Federal grants - 1 8,377 - - 43 - - - - - 1 8,420
+Income before transfers in (out), net 3 ,438 1 3,876 3 50 1 ,471 - 7 26 - 1 0,065 1 ,027 - 3 0,953
+Transfers in (out), net 5 ,657 (73) - - - (5,157) - (5,801) - - (5,374)
+Changes in net position 9 ,095 1 3,803 3 50 1 ,471 - (4,431) - 4 ,264 1 ,027 - 2 5,579
+Net position - beginning of year, as previously reported 9 8,785 132,402 9 ,877 1 7,287 - 2 4,528 - 158,846 6 4,095 - 505,820
+Adoption of Governmental Accounting Standards Board Statement No. 101, "Compensated Absences" - - - - - - - 5 77 - - 5 77
+Net position - beginning of year, as restated 98,785 132,402 9 ,877 1 7,287 - 2 4,528 - 158,269 64,095 - 505,243
+Net position - end of year $ 107,880 $ 146,205 $ 10,227 $ 18,758 $ - $ 20,097 $ - $ 162,533 $ 65,122 $ - $ 530,822
+See independent auditor’s report.
+51
+52
+Independent Auditor’s Report on Internal Control Over Financial Reporting
+and on Compliance and Other Matters Based on an Audit of Financial
+Statements Performed in Accordance With Government Auditing Standards
+Board of Directors
+Arkansas Development Finance Authority
+A Component Unit of the State of Arkansas
+Little Rock, Arkansas
+We have audited, in accordance with auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+(“GAS”) issued by the Comptroller General of the United States, the combined financial statements of the
+business-type activities and the aggregate discretely presented component unit of Arkansas Development
+Finance Authority as of and for the year ended June 30, 2025, and the related notes to the combined financial
+statements, which collectively comprise Arkansas Development Finance Authority’s basic combined
+financial statements, and have issued our report thereon dated December 8, 2025.
+Report on Internal Control Over Financial Reporting
+In planning and performing our audit of the combined financial statements, we considered Arkansas
+Development Finance Authority’s internal control over financial reporting (“internal control”) as a basis
+for designing audit procedures that are appropriate in the circumstances for the purpose of expressing our
+opinions on the combined financial statements, but not for the purpose of expressing an opinion on the
+effectiveness of Arkansas Development Finance Authority’s internal control. Accordingly, we do not
+express an opinion on the effectiveness of Arkansas Development Finance Authority’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees in the normal course of performing their assigned functions, to prevent, or detect
+and correct misstatements on a timely basis. A material weakness is a deficiency, or a combination of
+deficiencies, in internal control, such that there is a reasonable possibility that a material misstatement of
+the entity’s combined financial statements will not be prevented or detected and corrected on a timely basis.
+A significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less
+severe than a material weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of
+this section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses
+or significant deficiencies may exist that were not identified.
+Little Rock, Arkansas | Fayetteville, Arkansas | Raleigh, North Carolina
+Scottsdale, Arizona | Yuma, Arizona | Naples, Florida | www.frostpllc.com
+An Independent Member of the BDO Alliance USA
+53
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether Arkansas Development Finance
+Authority’s combined financial statements are free from material misstatement, we performed tests of its
+compliance with certain provisions of laws, regulations, contracts, and grant agreements, noncompliance
+with which could have a direct and material effect on the combined financial statements. However,
+providing an opinion on compliance with those provisions was not an objective of our audit and,
+accordingly, we do not express such an opinion. The results of our tests disclosed no instances of
+noncompliance or other matters that are required to be reported under GAS.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of Arkansas
+Development Finance Authority’s internal control or on compliance. This report is an integral part of an
+audit performed in accordance with GAS in considering Arkansas Development Finance Authority’s
+internal control and compliance. Accordingly, this communication is not suitable for any other purpose.
+Certified Public Accountants
+Little Rock, Arkansas
+December 8, 2025
+54
+Independent Auditor’s Report on Compliance for Each
+Major Federal Program and Report on Internal Control
+Over Compliance in Accordance With the Uniform Guidance
+Board of Directors
+Arkansas Development Finance Authority
+A Component Unit of the State of Arkansas
+Little Rock, Arkansas
+Report on Compliance for Each Major Federal Program
+Opinion on Each Major Federal Program
+We have audited Arkansas Development Finance Authority’s compliance with the types of
+compliance requirements identified as subject to audit in the OMB Compliance Supplement that could have
+a direct and material effect on each of Arkansas Development Finance Authority’s major federal programs
+for the year ended June 30, 2025. Arkansas Development Finance Authority’s major federal programs are
+identified in the summary of auditor’s results section of the accompanying schedule of findings and
+questioned costs.
+In our opinion, Arkansas Development Finance Authority complied, in all material respects, with
+the compliance requirements referred to above that could have a direct and material effect on each of its
+major federal programs for the year ended June 30, 2025.
+Basis for Opinion on Each Major Federal Program
+We conducted our audit of compliance in accordance with auditing standards generally accepted in
+the United States of America (“GAAS”); the standards applicable to financial audits contained in
+Government Auditing Standards (“GAS”) issued by the Comptroller General of the United States; and the
+audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative
+Requirements, Cost Principles, and Audit Requirements for Federal Awards, (“Uniform Guidance”). Our
+responsibilities under those standards and the Uniform Guidance are further described in the Auditor’s
+Responsibilities for the Audit of Compliance section of our report.
+We are required to be independent of Arkansas Development Finance Authority and to meet our
+other ethical responsibilities, in accordance with relevant ethical requirements relating to our audit. We
+believe the audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion
+on compliance for each major federal program. Our audit does not provide a legal determination of
+Arkansas Development Finance Authority’s compliance with the compliance requirements referred to
+above.
+Little Rock, Arkansas | Fayetteville, Arkansas | Raleigh, North Carolina
+Scottsdale, Arizona | Yuma, Arizona | Naples, Florida | www.frostpllc.com
+An Independent Member of the BDO Alliance USA
+55
+Responsibilities of Management for Compliance
+Management is responsible for compliance with the requirements referred to above and for the
+design, implementation, and maintenance of effective internal control over compliance with the
+requirements of laws, statutes, regulations, rules, and provisions of contracts or grant agreements applicable
+to Arkansas Development Finance Authority’s federal programs.
+Auditor’s Responsibilities for the Audit of Compliance
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the
+compliance requirements referred to above occurred, whether due to fraud or error, and express an opinion
+on Arkansas Development Finance Authority’s compliance based on our audit. Reasonable assurance is a
+high level of assurance but is not absolute assurance and therefore is not a guarantee that an audit conducted
+in accordance with GAAS, GAS, and the Uniform Guidance will always detect material noncompliance
+when it exists. The risk of not detecting material noncompliance resulting from fraud is higher than for that
+resulting from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or
+the override of internal control. Noncompliance with the compliance requirements referred to above is
+considered material, if there is a substantial likelihood that, individually or in the aggregate, it would
+influence the judgment made by a reasonable user of the report on compliance about Arkansas Development
+Finance Authority’s compliance with the requirements of each major federal program as a whole.
+In performing an audit in accordance with GAAS, GAS, and the Uniform Guidance, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material noncompliance, whether due to fraud or error, and
+design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding Arkansas Development Finance Authority’s
+compliance with the compliance requirements referred to above and performing such other
+procedures as we considered necessary in the circumstances.
+• Obtain an understanding of Arkansas Development Finance Authority’s internal control over
+compliance relevant to the audit in order to design audit procedures that are appropriate in the
+circumstances and to test and report on internal control over compliance in accordance with
+the Uniform Guidance, but not for the purpose of expressing an opinion on the effectiveness of
+Arkansas Development Finance Authority’s internal control over compliance. Accordingly,
+no such opinion is expressed.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit and any significant deficiencies and material weaknesses
+in internal control over compliance that we identified during the audit.
+56
+Report on Internal Control Over Compliance
+A deficiency in internal control over compliance exists when the design or operation of a control
+over compliance does not allow management or employees, in the normal course of performing their
+assigned functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement
+of a federal program on a timely basis. A material weakness in internal control over compliance is a
+deficiency, or a combination of deficiencies, in internal control over compliance, such that there is a
+reasonable possibility that material noncompliance with a type of compliance requirement of a federal
+program will not be prevented, or detected and corrected, on a timely basis. A significant deficiency in
+internal control over compliance is a deficiency, or a combination of deficiencies, in internal control over
+compliance with a type of compliance requirement of a federal program that is less severe than a material
+weakness in internal control over compliance, yet important enough to merit attention by those charged
+with governance.
+Our consideration of internal control over compliance was for the limited purpose described in the
+Auditor’s Responsibilities for the Audit of Compliance section above and was not designed to identify all
+deficiencies in internal control over compliance that might be material weaknesses or significant
+deficiencies in internal control over compliance. Given these limitations, during our audit we did not
+identify any deficiencies in internal control over compliance that we consider to be material weaknesses,
+as defined above. However, material weaknesses or significant deficiencies in internal control over
+compliance may exist that were not identified.
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal
+control over compliance. Accordingly, no such opinion is expressed.
+The purpose of this report on internal control over compliance is solely to describe the scope of our
+testing of internal control over compliance and the results of that testing based on the requirements of the
+Uniform Guidance. Accordingly, this report is not suitable for any other purpose.
+Certified Public Accountants
+Little Rock, Arkansas
+December 8, 2025
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 57
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Schedule of Findings and Questioned Costs
+For the Year Ended June 30, 2025
+Section I – Summary of Auditor’s Results
+Combined Financial Statements
+Type of auditor’s report issued: Unmodified
+Internal control over financial reporting:
+• Material weakness(es) identified? _____ Yes __X__ No
+• Significant deficiency(ies) identified? _____ Yes __X__ None Reported
+Noncompliance material to combined financial statements noted? _____ Yes __X__ No
+Federal Awards
+Internal control over major programs:
+• Material weakness(es) identified? _____ Yes __X__ No
+• Significant deficiency(ies) identified? _____ Yes __X__ None Reported
+Type of auditor’s report issued on compliance for major
+federal programs. Unmodified
+Are any audit findings disclosed that are required to be reported in
+accordance with 2 CFR 200.516(a)? _____ Yes __X__ No
+Identification of major federal programs:
+Federal Assistance Listing (“FAL”) Number(s) and Name of
+Federal Program or Cluster
+HOME Investment Partnerships Program 14.239
+HOME Investment HOME-ARP Program 14.239
+Dollar threshold used to distinguish between type A and
+type B programs: $ 750,000
+Auditee qualified as a low-risk auditee? __X__ Yes _____ No
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 58
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Summary Schedule of Prior Audit Findings
+For the Year Ended June 30, 2025
+Reference Number Summary of Finding Status
+No matters were reported in the June 30, 2024 Schedule of Findings and Questioned Costs.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 59
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Schedule of Expenditures of Federal Awards
+For the Year Ended June 30, 2025
+Pass-Through
+Entity Pass-Through Total
+Federal Grantor/Pass-Through FAL Identifying Through to Federal
+Grantor Program or Cluster Title Number Number Subrecipients Expenditures
+U.S. Department of Agriculture
+Development/Preservation Revolving
+Loan Fund 10.415 N/A $ - $ 3,101,980
+U.S. Department of Housing and Urban
+Development/Emergency Solutions
+Grant Program 14.231 N/A - 87,745
+U.S. Department of Treasury/American
+Rescue Plan/Home Owner Assistance
+Fund 21.026 N/A - 86,670
+U.S. Department of Housing and Urban
+Development/Housing Trust Fund 14.275 N/A - 4,153,721
+U.S. Department of Housing and Urban
+Development/HOME Investment
+Partnerships Program 14.239 N/A 17,493 10,738,701
+HOME-ARP Program 14.239 N/A 3,027,751 3,397,223
+$ 3,045,243 $ 21,566,039
+The accompanying notes are an integral part of the schedule of expenditures of federal awards.
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 60
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Schedule of Expenditures of Federal Awards
+For the Year Ended June 30, 2025
+1. The accompanying schedule of expenditures of federal awards (“SEFA”) includes the federal
+award activity of the Arkansas Development Finance Authority (the “Authority”), a component
+unit of the State of Arkansas, under programs of the federal government for the year ended June
+30, 2025. The information in the SEFA is presented in accordance with the requirements of Title
+2 U.S. Code of Federal Regulations Part 200, Uniform Administrative Requirements, Cost
+Principles, and Audit Requirements for Federal Awards (“Uniform Guidance”). Because the SEFA
+presents only a selected portion of the operations of the Authority, it is not intended to and does not
+present the financial position, changes in net assets, or cash flows of the Authority.
+2. Expenditures reported on the SEFA are reported on the accrual basis of accounting. Such
+expenditures are recognized following, as applicable, the cost principles in Office of Management
+and Budget A-110 or the cost principles contained in the Uniform Guidance, wherein certain types
+of expenditures are not allowable or are limited as to reimbursement. The Authority has elected
+not to use the 10% de minimis indirect cost rate allowed under the Uniform Guidance.
+3. Expenditures reflected in FAL 10.415, Preservation Revolving Loan Fund, include loans to
+contractors for the development of multi-family housing. The funding sources for these loans are
+two $2,125,000 promissory notes executed between the Authority and the U.S. Department of
+Agriculture Rural Development during fiscal year 2013 and fiscal year 2016. When received, the
+funds were used to make new loans for program activities. The outstanding loan receivable balance
+was $3,089,688 for the year ended June 30, 2025. There were no disbursements for loans made
+during the year ended June 30, 2025, as all funding commitments have been fully disbursed for this
+program in prior years.
+4. Expenditures reflected in FAL 14.239, HOME Investment Partnerships Program, include loans to
+contractors and borrowers for the development of single-family and multi-family housing. The
+funding source for these loans includes federal grant funds and revolving program funds. The funds
+are disbursed after expenses have been incurred as forgiveness of principal and repayable loans.
+The outstanding loan receivable balance was $138,155,098 for the year ended June 30, 2025. Total
+disbursements of federal funds for repayable loans totaled $9,709,756 during the year ended June
+30, 2025.
+5. The federal loan programs listed subsequently are administered directly by the Authority, and
+balances and transactions relating to the programs are included in the Authority’s basic combined
+financial statements. Notes payable outstanding at the beginning of the year and federal
+expenditures during the year are included in the federal expenditures presented in the SEFA. The
+balance of the notes payable outstanding at June 30, 2025 consists of:
+Outstanding Balance
+Reference Number Program Name at June 30, 2025
+10.415 Preservation Revolving Loan Fund $2,960,316
+ARKANSAS DEVELOPMENT FINANCE AUTHORITY, 61
+A COMPONENT UNIT OF THE STATE OF ARKANSAS
+Notes to Schedule of Expenditures of Federal Awards (cont.)
+For the Year Ended June 30, 2025
+6. Expenditures reflected in FAL 14.275, Housing Trust Fund, include loans to contractors for
+development or redevelopment of affordable housing, particularly rental housing for extremely low
+income and very low income households. The funding source for these loans is federal grant funds.
+The funds are disbursed after expenses have been incurred as forgiveness of principal and repayable
+loans. The outstanding loan receivable balance was $18,109,135 for the year ended June 30, 2025.
+Total disbursements for repayable loans made were $3,923,754 during the year ended June 30,
+2025.
+7. Expenditures reflected in FAL 21.026, Homeowner Assistance Fund, include disbursements to
+prevent homeowner mortgage delinquencies, defaults, utilities delinquencies, and expenses for the
+administration of this program. The funding source for these expenses was federal grant funds.

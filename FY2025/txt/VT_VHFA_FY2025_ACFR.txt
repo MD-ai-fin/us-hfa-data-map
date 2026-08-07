@@ -1,0 +1,1560 @@
+September 30, 2025
+To the Commissioners
+Vermont Housing Finance Agency
+We have audited the financial statements of Vermont Housing Finance Agency (the "Agency") as of and
+for the year ended June 30, 2025, and have issued our report thereon dated September 30, 2025.
+Professional standards require that we advise you of the following matters relating to our audit.
+Our Responsibility in Relation to the Financial Statement Audit
+As communicated in our engagement letter dated May 16, 2025, our responsibility, as described by
+professional standards, is to form and express an opinion about whether the financial statements that
+have been prepared by management with your oversight are presented fairly, in all material respects, in
+accordance with accounting principles generally accepted in the United States of America. Our audit of
+the financial statements does not relieve you or management of your respective responsibilities.
+Our responsibility, as prescribed by professional standards, is to plan and perform our audit to obtain
+reasonable, rather than absolute, assurance about whether the financial statements are free of material
+misstatement. An audit of financial statements includes consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not
+for the purpose of expressing an opinion on the effectiveness of the entity's internal control over
+financial reporting. Accordingly, as part of our audit, we considered the internal control of the Agency
+solely for the purpose of determining our audit procedures and not to provide any assurance
+concerning such internal control.
+We are also responsible for communicating significant matters related to the audit that are, in our
+professional judgment, relevant to your responsibilities in overseeing the financial reporting process.
+However, we are not required to design procedures for the purpose of identifying other matters to
+communicate to you.
+We have provided our findings regarding significant control deficiencies over financial reporting,
+material noncompliance, and other matters noted during our audit in a separate letter to you dated
+September 30, 2025.
+Planned Scope and Timing of the Audit
+We conducted our audit consistent with the planned scope and timing we previously communicated to
+you.
+Compliance with All Ethics Requirements Regarding Independence
+The engagement team, others in our firm, as appropriate, our firm, and our network firms have
+complied with all relevant ethical requirements regarding independence.
+1
+Qualitative Aspects of the Entity's Significant Accounting Practices
+Significant Accounting Policies
+Management has the responsibility to select and use appropriate accounting policies. A summary of the
+significant accounting policies adopted by the Agency is included in Note 2 to the financial statements.
+There have been no initial selection of accounting policies and no changes in significant accounting
+policies or their application during the year. No matters have come to our attention that would require
+us, under professional standards, to inform you about (1) the methods used to account for significant
+unusual transactions and (2) the effect of significant accounting policies in controversial or emerging
+areas for which there is a lack of authoritative guidance or consensus.
+Significant Accounting Estimates
+Accounting estimates are an integral part of the financial statements prepared by management and are
+based on management's current judgments. Those judgments are normally based on knowledge and
+experience about past and current events and assumptions about future events. Certain accounting
+estimates are particularly sensitive because of their significance to the financial statements and
+because of the possibility that future events affecting them may differ markedly from management's
+current judgments.
+The most sensitive accounting estimates affecting the financial statements are:
+ Management's estimate of loan loss reserves for multi-family and construction loans is based on
+the watch list of possible troubled loans, individual loan evaluations and feasibility of the
+underlying projects. Management utilizes an aging report of delinquent single-family loans and
+estimates a percent of each aging category based on historical collection data to estimate the
+single-family loan loss reserve. We evaluated the key factors and assumptions used to develop
+the loan loss reserve estimates and determined it is reasonable in relation to the basic financial
+statements as a whole.
+ The Agency reports investments and mortgage-backed securities at fair values based on quoted
+market prices in active markets and matrix pricing techniques, which values the securities
+relationship to benchmark quoted prices. Guaranteed investment contracts are not reported at
+fair value but rather costs as they are non-participatory in nature. We evaluated the
+assumptions used to estimate the fair value of the investments and determined management's
+estimate to be reasonable in relation to the basic financial statements as a whole.
+Financial Statement Disclosures
+Certain financial statement disclosures involve significant judgment and are particularly sensitive
+because of their significance to financial statement users. The most sensitive disclosures affecting the
+Agency's financial statements relate to:
+ The disclosure of fair value measurements in Note 4 to the financial statements. The financial
+statement disclosures are consistent and clear to the user of the financial statements.
+ The disclosure of Bonds Payable in Note 9 to the financial statement as it details the various
+series of bonds issued, the applicable terms and balances.
+ The disclosures of commitments and contingencies in Note 15 to the financial statements.
+2
+Significant Difficulties Encountered during the Audit
+We encountered no significant difficulties in dealing with management relating to the performance of
+the audit.
+Uncorrected and Corrected Misstatements
+For purposes of this communication, professional standards also require us to accumulate all known
+and likely misstatements identified during the audit, other than those that we believe are trivial, and
+communicate them to the appropriate level of management. Further, professional standards require us
+to also communicate the effect of uncorrected misstatements related to prior periods on the relevant
+classes of transactions, account balances or disclosures, and the financial statements as a whole.
+There were no uncorrected or corrected misstatements that we identified as a result of our audit
+procedures.
+Disagreements with Management
+For purposes of this letter, professional standards define a disagreement with management as a matter,
+whether or not resolved to our satisfaction, concerning a financial accounting, reporting, or auditing
+matter, which could be significant to the Agency's financial statements or the auditor's report. No such
+disagreements arose during the course of the audit.
+Representations Requested from Management
+We have requested certain written representations from management, which are included in the
+management representation letter dated September 30, 2025.
+Management's Consultations with Other Accountants
+In some cases, management may decide to consult with other accountants about auditing and
+accounting matters. Management informed us that, and to our knowledge, there were no consultations
+with other accountants regarding auditing and accounting matters.
+Other Significant Matters, Findings, or Issues
+We applied certain limited procedures to management's discussion and analysis ("MD&A"), which is
+required supplementary information ("RSI") that supplements the basic financial statements. Our
+procedures consisted of inquires of management regarding the methods of preparing the information
+and comparing the information for consistency with management's responses to our inquires, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial
+statements. We did not audit the RSI and do not express and opinion or provide any assurance on the
+RSI.
+In the normal course of our professional association with the Agency, we generally discuss a variety of
+matters, including the application of accounting principles and auditing standards, significant events or
+transactions that occurred during the year, operating and regulatory conditions affecting the entity, and
+operational plans and strategies that may affect the risks of material misstatement. None of the matters
+discussed resulted in a condition to our retention as the Agency's auditors.
+3
+This report is intended solely for the information and use of the Commissioners, and management of
+the Agency and is not intended to be and should not be used by anyone other than these specified
+parties.
+Very truly yours,
+Charlotte, North Carolina
+4
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Financial Statements and
+Required Supplementary Information
+June 30, 2025
+(With Independent Auditor’s Report Thereon)
+ttttt VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Table of Contents
+Page
+Independent Auditor’s Report 2
+Management’s Discussion and Analysis – Required Supplementary Information 5
+Statement of Net Position 13
+Statement of Revenues, Expenses and Changes in Net Position 15
+Statement of Cash Flows 16
+Notes to Financial Statements 18
+Supplementary Information
+Combining Statement of Net Position by Program 39
+Combining Statement of Revenues, Expenses and Changes in Net Position by Program 41
+Combining Statement of Cash Flows by Program 42
+1
+Independent Auditor's Report
+The Honorable Douglas R. Hoffer
+State Auditor of the State of Vermont
+and
+The Commissioners
+Vermont Housing Finance Agency
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Vermont Housing Finance Agency (the "Agency"), a
+component unit of the State of Vermont, as of and for the year ended June 30, 2025, and the related
+notes to the financial statements, which collectively comprise the Agency's basic financial statements
+as listed in the table of contents.
+In our opinion, the accompanying financial statements present fairly, in all material respects, the
+financial position of the Agency as of June 30, 2025, and the changes in its financial position and its
+cash flows for the year then ended in accordance with accounting principles generally accepted in the
+United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America ("GAAS") and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor's Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the Agency and to meet our
+other ethical responsibilities, in accordance with the relevant ethical requirements relating to our audit.
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the Agency's ability to
+continue as a going concern for twelve months beyond the financial statement date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+2
+Auditor's Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting a
+material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Agency's internal control. Accordingly, no such opinion is
+expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Agency's ability to continue as a going
+concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related
+matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management's discussion and analysis, on pages listed in the table of contents, be presented to
+supplement the basic financial statements. Such information is the responsibility of management and,
+although not a part of the basic financial statements, is required by the Governmental Accounting
+Standards Board who considers it to be an essential part of financial reporting for placing the basic
+financial statements in an appropriate operational, economic, or historical context. We have applied
+certain limited procedures to the required supplementary information in accordance with auditing
+standards generally accepted in the United States of America, which consisted of inquiries of
+management about the methods of preparing the information and comparing the information for
+consistency with management's responses to our inquiries, the basic financial statements, and other
+knowledge we obtained during our audit of the basic financial statements. We do not express an
+opinion or provide any assurance on the information because the limited procedures do not provide us
+with sufficient evidence to express an opinion or provide any assurance.
+3
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Agency's basic financial statements. The combining statements of net position
+by program, revenues, expenses and changes in net position by program, and cash flows by program
+are presented for purposes of additional analysis and are not a required part of the basic financial
+statements.
+The combining statements of net position by program, revenues, expenses and changes in net position
+by program, and cash flows by program, are the responsibility of management and were derived from
+and relate directly to the underlying accounting and other records used to prepare the basic financial
+statements. The information has been subjected to the auditing procedures applied in the audit of the
+basic financial statements and certain additional procedures, including comparing and reconciling such
+information directly to the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional procedures in
+accordance with auditing standards generally accepted in the United States of America. In our opinion,
+the accompanying supplementary information is fairly stated, in all material respects, in relation to the
+basic financial statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated September
+30, 2025, on our consideration of the Agency's internal control over financial reporting and on our tests
+of its compliance with certain provisions of laws, regulations, contracts, and grant agreements and
+other matters. The purpose of that report is solely to describe the scope of our testing of internal control
+over financial reporting and compliance and the results of that testing, and not to provide an opinion on
+the effectiveness of the Agency's internal control over financial reporting or on compliance. That report
+is an integral part of an audit performed in accordance with Government Auditing Standards in
+considering the Agency's internal control over financial reporting and compliance.
+Charlotte, North Carolina
+September 30, 2025
+4
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+This section of the Vermont Housing Finance Agency’s (the Agency) annual Financial Report presents
+management’s discussion and analysis of its financial performance and significant changes in financial position
+for the fiscal year ended June 30, 2025. Readers are encouraged to consider the information presented in
+conjunction with the financial statements as a whole.
+Overview of the Agency
+The Agency was created in 1974 by an Act of the General Assembly of the State of Vermont. The purpose of the
+Agency is to promote the expansion of the supply of funds available for mortgages on residential housing and to
+encourage an adequate supply of safe and decent housing at reasonable costs. The Agency is authorized to issue
+bonds and other obligations to fulfill its corporate purposes. Obligations of the Agency do not constitute debt of
+the State of Vermont.
+The majority of the Agency’s funding has been provided from the proceeds of sales of tax-exempt and taxable
+bonds and notes, and advances from lending institutions. Since September 1974, the Agency has issued $4.3 billion
+of bonds, notes and line of credit borrowings, of which $555 million was outstanding as of June 30, 2025, to finance
+its various programs. The proceeds of the debt have been or will be used to make mortgage loans to sponsors of
+multi-family residential housing units for persons and families of low and moderate income in the State and to
+purchase mortgage-backed securities (MBS) or mortgage loans on single family residential housing units for
+persons and families of low and moderate income in the State. The bonds are secured pursuant to the terms of the
+resolutions under which they were issued.
+Overview of the Financial Statements
+The Agency’s financial statements consist of three parts – Management’s Discussion and Analysis, the basic
+financial statements and the notes to the financial statements. The basic financial statements include the Statement
+of Net Position, Statement of Revenues, Expenses and Changes in Net Position and the Statement of Cash Flows.
+The notes to the basic financial statements are intended to provide additional information that is essential to a full
+understanding of the data provided in the basic financial statements.
+Financial Analysis
+The Agency’s Statement of Net Position consists primarily of single family and multi-family mortgage loans,
+mortgage-backed securities, cash and investments, and related bonds and notes payable. It also includes a portfolio
+of construction loans, as well as a variety of other assets such as miscellaneous receivables, prepaid expenses and
+capital assets.
+Cash and investments are used to fund loan and MBS purchases, bond debt service, reserve funds, and operating
+expenses, and are typically held in a variety of investment vehicles, as authorized in accordance with the Agency’s
+investment policy.
+5
+(Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+The following table summarizes the Net Position of the Agency as of June 30, 2025 with comparative data from
+the prior fiscal year (in thousands):
+% Change
+June 30, June 30, June 2025
+2025 2024 vs. June 2024
+Assets:
+Cash and investments $ 91,610 98,388 (6.9)
+Loans receivable, net 269,195 228,705 17.7
+Mortgage-backed securities 313,704 233,997 34.1
+Other assets 4,856 4,048 20.0
+Capital assets, net 499 472 5.7
+Total assets 679,864 565,610 20.2
+Deferred Outflows of Resources:
+Interest rate swap agreements 0 8 (100.00)
+VHCB related outflows 25,535 27,112 (5.8)
+Total deferred outflows of resources 25,535 27,120 (5.8)
+Total assets and deferred outflows of resources 705,399 592,730 19.0
+Liabilities and deferred inflows of resources:
+Bonds and notes payable 555,029 460,415 20.5
+Other liabilities 26,459 19,807 33.6
+Deferred inflow of resources - swap agreements 267 316 (15.5)
+Total liabilities and deferred inflows of resources 581,755 480,538 21.1
+Net Position:
+Net investment in capital assets 499 472 5.7
+Restricted for bond resolutions 91,691 81,630 12.3
+Restricted for special purpose loans 15,219 12,171 25.0
+Unrestricted 16,235 17,919 (9.4)
+Total net position $ 123,644 112,192 10.2
+Total assets increased by $114 million for fiscal year ended June 30, 2025, when compared to the year ended June
+30, 2024, mainly due to net increases of $79.7 million in mortgage-backed securities and $40.5 million in loans
+receivable, offset by a $6.8 million decrease in cash and investments. Major contributors to mortgage loan and
+MBS changes were as follows:
+ Multi-family loan originations totaled $76.1 million for the twelve month period vs. $52.8 million for the
+same period last fiscal year.
+6
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+ Bond financed single family mortgage-backed securities purchases totaled $92.2 million for the twelve
+months vs. $82 million for the same period last fiscal year.
+ Down payment assistance loan originations totaled $2.2 million vs $2.1 million for the same period last
+fiscal year.
+ Principal collections for the twelve month period totaled $30.5 million in the multi-family portfolio and
+$23.6 million in the single family whole loan and MBS portfolios.
+ In the current fiscal year there were four planned forgiveness of loans in the amounts of $2.8 million, $4.7
+million, 170 thousand, and 1.4 million, totaling $9.1 million. These loans were part of the federal Section
+1602 program through which the Agency provided forgivable loans to qualifying projects in lieu of low-
+income housing tax credits during and after the 2008 financial crisis. A like amount of Agency loan loss
+reserves tied to the forgiven loans was released.
+The following table summarizes the change in mortgage loans receivable for the year ended June 30, 2025 (in
+thousands):
+Year Year
+Ended Ended % Change
+June 30, June 30, June 2025
+Mortgage Loans Receivable: 2025 2024 vs. June 2024
+Beginning balance $ 228,705 234,023 -2.3%
+Whole loan originations 76,122 52,760 44.3%
+Down payment assistance loans 2,246 2,112 6.3%
+Principal collections (36,142) (60,520) -40.3%
+Nonperforming loans transferred out (74) (16) 362.5%
+Loans forgiven (9,092) 0 -
+Change in loan loss reserve 7,430 346 2047.4%
+Ending balance $ 269,195 228,705 17.7%
+7
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+The following table summarizes the change in mortgage-backed securities for the year ended June 30, 2025 (in
+thousands):
+Year Year
+Ended Ended % Change
+June 30, June 30, June 2025
+Mortgage Backed Securities (MBS): 2025 2024 vs. June 2024
+Beginning balance $ 233,997 170,264 37.4%
+MBS purchases 92,189 81,976 12.5%
+Principal paydowns on MBS (18,007) (15,441) 16.6%
+Change in fair value 5,525 (2,802) -
+Ending balance $ 313,704 233,997 34.1%
+The $1.6 million decrease in VHCB related deferred outflows reflects the portion of the $2.5 million Property
+Transfer Tax (PTT) revenue received from the State of Vermont which was allocated to the reduction in Deferred
+Outflows during the period.
+Total liabilities of the Agency increased by $101.2 million, or 21.1% for the fiscal year ended June 30, 2025 when
+compared to the year ended June 30, 2024 primarily due to an increase in bonds and notes payable of $94.6 million.
+Activity related to bonds and notes payable can be summarized as follows:
+ In August 2024, the Agency issued $55.0 million of Multiple Purpose 2024 CDE bonds. The proceeds
+of the bonds were used to purchase approximately $35.4 million in mortgage-backed securities, a $3.3
+million multi-family loan, and a $16.3 million multi-family construction loan.
+ In March 2025, the Agency issued $45.0 million of Multiple Purpose 2025 AB bonds. The proceeds
+of the bonds are being used to purchase approximately $45.6 million in mortgage-backed securities.
+ Bonds redeemed prior to maturity at the discretion of the Agency totaled $17.6 million in the Multiple
+Purpose indenture and $3.6 million in the Multi-Family Mortgage indenture.
+ Bonds redeemed as result of scheduled maturities totaled $8.3 in the Multiple Purpose indenture, $1.1
+million in the Multi-Family Mortgage indenture, $360 thousand in the HFA Initiative Multifamily
+indenture and $1.5 in the Vermont Property Transfer Tax indenture.
+ Notes payable increased by $26.2 million primarily due to $43.1 million in draws on construction
+lines of credit as well as $9.4 million draw from the State of Vermont’s 10% for Vermont investment
+program, offset by $26.3 million in payments on construction lines and direct placement loans.
+ The increase of $6.7 million in other liabilities is due primarily to an increase in Unearned income,
+consisting mostly of $4.5 million in new Capital Magnet Fund proceeds and a $1.9 million increase
+in undisbursed State Tax Credits.
+8
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+Discussion of Changes in Statement of Revenues, Expenses and Changes in Net Position
+The Agency’s operating revenues consist primarily of interest income on mortgage and construction loans and
+mortgage-backed securities, investment income, revenue from state tax credit sales and miscellaneous fee and grant
+income. Operating expenses consist mainly of bond interest expense, other debt financing costs and operational
+expenses.
+9
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+The following summarizes these items for the fiscal year ended June 30, 2025 with comparative data from the prior
+fiscal year (in thousands):
+Year Year % Change
+Ended Ended June 2025
+June 30, June 30, vs.
+2025 2024 June 2024
+Operating revenues:
+Interest on investments $ 4,106 4,414 (7.0)
+Interest on mortgage loans 12,130 10,892 11.4
+Interest on mortgage-backed securities 13,410 8,976 49.4
+Fee income 2,317 1,572 47.4
+Grant administration revenue 143 393 (63.6)
+Revenue from sales of state tax credits 1,125 1,125 -
+State reimbursements 923 974 (5.2)
+Grants 2,133 5,187 (58.9)
+TBA program revenue 7 1 600.0
+Gain on bond redemptions 744 756 (1.6)
+Other revenue 187 96 94.8
+Total operating revenues 37,225 34,386 8.3
+Operating expenses:
+Financing costs 21,810 17,128 27.3
+Operational expenses 8,586 6,461 32.9
+Loan loss expenses 202 (282) -
+Total operating expenses 30,598 23,307 31.3
+Operating income 6,627 11,079 (40.2)
+Nonoperating revenues (expenses):
+Net appreciation (depreciation) in fair value of investments 4,825 (3,403) -
+Federal & State Programs:
+Program revenue 3,177 12,208 (74.0)
+Program expenses (2,987) (10,713) (72.1)
+Administration and period costs (190) (1,495) (87.3)
+Net nonoperating revenues (expenses) 4,825 (3,403) -
+Increase (decrease) in net position $ 11,452 7,676 49.2
+The Agency reported net operating income of $6.6 million for the fiscal year ended June 30, 2025, compared to
+net operating income of $11.1 million for the prior year. After the change in market value of investments and,
+inclusion of the impact of Federal & State Programs, the overall increase in net position for the fiscal year ended
+June 30, 2025 is $11.5 million compared to a net increase of $7.7 million for the same period last year. Income and
+expense highlights include:
+10
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+ Interest income on investments decreased by $308 thousand or 7% due primarily to lower interest rates.
+ Interest income on MBS increased by $4.4 million or 49.4%, primarily due to a larger portfolio of
+mortgage-backed securities and interest income on mortgage loans increased by $1.2 million or 11.4% due
+mainly to an increase in multi-family loans outstanding.
+ The increase in Fee income of $745 thousand or 47.4% is due primarily to increases in multi-family loan
+origination fees and an increase in IORTA receipts.
+ The decrease in Grant administration revenue of $250 thousand is due primarily to the wind down of the
+Homeowner Assistance Program.
+ The decrease in Grants income of $3.1 million or 58.9% was due primarily to the Agency receiving a one
+time $3 million grant in the prior fiscal year and not in the current year.
+ Financing costs increased $4.7 million or 27.3% due primarily to an increase in bonds outstanding,
+higher interest rates and higher bond issuance costs.
+ Operational expenses of $8.6 million were up $2.1 million or 32.9% relative to the same period last year.
+The increase is due primarily to an increase of $769 thousand in salaries and benefits resulting from a
+change in payroll accrual policy, several new employees and some larger CTO payouts in this fiscal year.
+In addition, Vermont Statewide Housing Conference expenses were $139 thousand this year compared to
+$0 last year when the conference was not held. In addition, there was $1.3 million in state grant related
+expenses for the Rental Revolving Loan Fund and Weatherization program which was offset by the same
+amount of associated Grants income.
+ Loan and REO write offs, net of reserve adjustments, were $202 thousand for the twelve months ended
+June 30, 2025. Compared to the prior year, this is an increase of $484 thousand which includes an increase
+of $76 thousand for single family loans, an increase of $374 thousand for multi-family loans and an
+increase of $34 thousand for distressed property related expenses.
+11
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Management’s Discussion and Analysis – Required Supplementary Information
+June 30, 2025
+Budgetary Information
+The Agency prepares an annual budget of income, expenses and fund transfers for the General Fund component
+of its Operating Fund. The budget is prepared by staff and reviewed and approved prior to the start of the fiscal
+year by the Agency’s Board of Commissioners.
+The Agency relies on fund transfers from bond programs and General Fund unrestricted cash to bridge the gap
+between annual operating expenses and General Fund operating income.
+For fiscal year 2025, the Agency budgeted $3.3 million in operating revenues and $7.6 million in operating
+expenses. Actual operating revenues of $3.7 million came in $381 thousand more than the amount budgeted. This
+was primarily due to more interest income on loans than had been anticipated. Actual operating expenses were
+under budget by $140 thousand. Most notably, salaries and benefits were $136 thousand over budget for the year
+but this was offset by consulting, contract services and maintenance agreements being under budget.
+Contacting the Agency’s Financial Management
+This financial report is designed to provide a general overview of the Agency’s operations, and insight into the
+financial statements. If you have questions about this report or need additional information, please contact the
+Chief Financial Officer at VHFA, 164 St. Paul St., Burlington, VT 05401 or visit our website at www.vhfa.org.
+12
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Statement of Net Position
+June 30, 2025
+(in thousands)
+Assets
+Current assets:
+Cash and cash equivalents:
+Unrestricted $ 14,216
+Restricted 73,462
+Accrued interest receivable:
+Investments 251
+Mortgage loans 2,476
+Mortgage backed securities 1,296
+Investments maturing within one year 1,724
+Current portion of mortgage loans receivable 80,989
+Current portion of mortgage backed securities 7,783
+Other receivables and prepaid expenses 566
+Due from (to) other funds —
+Total current assets 182,763
+Noncurrent assets:
+Investments 2,208
+Mortgage loans receivable, net 188,206
+Mortgage backed securities, net 305,921
+Capital assets, net 499
+Fair value of derivative instrument - interest rate swaps, net 267
+Total noncurrent assets 497,101
+Total assets 679,864
+Deferred Outflows of Resources
+VHCB related deferred outflows 25,535
+Accumulated decrease in fair value of hedging derivatives -
+Interest rate swaps —
+Total deferred outflows of resources 25,535
+Total assets and deferred outflows of resources 705,399
+13 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Statement of Net Position
+June 30, 2025
+(in thousands)
+Liabilities
+Current liabilities:
+Current portion of notes payable 42,467
+Current portion of bonds payable, net 12,781
+Accrued interest payable 3,602
+Other payables 1,278
+Funds held on behalf of others 9,496
+Arbitrage rebate payable 291
+Funds held for federal programs 10,198
+Total current liabilities 80,113
+Noncurrent liabilities:
+Notes payable, net 71,687
+Bonds payable, net 428,094
+Other liabilities 1,594
+Total noncurrent liabilities 501,375
+Total liabilities 581,488
+Deferred Inflows of Resources
+Accumulated increase in fair value of hedging derivatives 267
+Total liabilities and deferred inflows of resources 581,755
+Net Position
+Net Investment in capital assets 499
+Restricted for bond resolutions 91,691
+Restricted for special purpose loans 15,219
+Unrestricted 16,235
+Total net position $ 123,644
+See accompanying notes to financial statements
+14
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Statement of Revenues, Expenses and Changes in Net Position
+Year ended June 30, 2025
+(in thousands)
+Operating revenues:
+Interest income:
+Investments $ 4,106
+Mortgage loans 12,130
+Mortgage backed securities 13,410
+Fee income 2,317
+Grant administration revenue 143
+Revenue from sales of state tax credits 1,125
+State reimbursements 923
+Grants 2,133
+TBA program revenue 7
+Gain on bond redemptions 744
+Other revenue 187
+Total operating revenues 37,225
+Operating expenses:
+Financing costs, including interest expense 21,810
+Salaries and benefits 5,548
+Operating expenses 1,431
+Professional fees 275
+State program expenses and administration costs 1,332
+Provision for losses on loans and real estate owned 202
+Total operating expenses 30,598
+Operating income (loss) 6,627
+Nonoperating revenues (expenses):
+Net increase in fair value of investments and MBS 4,825
+State and federal grants:
+Grant revenue 3,177
+Grant expenses (2,987)
+Administration costs (190)
+Total nonoperating revenues (expenses) 4,825
+Income (loss) before transfers 11,452
+Net transfers (from) to other funds —
+Increase (decrease) in net position 11,452
+Net position:
+Net position at beginning of year 112,192
+Net position at end of year $ 123,644
+See accompanying notes to financial statements.
+15
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Statement of Cash Flows
+Year Ended June 30, 2025
+(in thousands)
+Cash flows from operating activities:
+Mortgage loans interest receipts $ 11,778
+MBS interest receipts 13,043
+Mortgage loans principal collections 36,088
+MBS sales and paydowns 18,178
+Mortgage loan originations (77,032)
+MBS purchases, net (92,359)
+Fee income and other receipts 7,667
+State tax credit sales 1,125
+Salaries and benefits payments (5,305)
+Operating expense payments (2,738)
+PTT receipts from State of Vermont 2,500
+State and Federal program receipts 3,177
+State and Federal program expenditures (3,177)
+Net cash provided by (used in) operating activities (87,055)
+Cash flows from investing activities:
+Investment sales 9,724
+Investment purchases (1,481)
+Investment interest receipts 4,205
+Net increase in funds held on behalf of others 2,036
+Sales of distressed properties —
+Distressed property expenditures (27)
+Rebate excess earnings received payable to IRS 291
+Net cash provided by (used in) investing activities 14,748
+Cash flows from noncapital financing activities:
+Bond and note interest payments (20,155)
+Bond principal payments (32,460)
+Repayment of notes (54,842)
+Bond issue proceeds 102,090
+Increase in notes payable 81,009
+Financing costs other than interest (1,074)
+Noncapital financing transfers (from) to other funds —
+Net cash provided by noncapital financing activities 74,568
+Cash flows from capital and related financing activities:
+Capital asset purchases (96)
+Net cash provided by (used in) capital and related financing
+activities (96)
+Net increase (decrease) in cash and cash equivalents 2,165
+Cash and cash equivalents at beginning of year 85,513
+Cash and cash equivalents at end of year $ 87,678
+16 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Statement of Cash Flows
+Year Ended June 30, 2025
+(in thousands)
+Reconciliation of cash flows from operating activities:
+Net operating income (loss) $ 6,627
+Adjustments to reconcile operating income (loss) to net cash
+provided by (used in) operating activities:
+Depreciation 70
+Financing costs other than interest 635
+Investment interest income (4,106)
+Distressed property expenditures 24
+Bond and note interest expense 20,968
+Gain on bond redemptions (744)
+Net increase in fair value of investments and MBS 5,525
+Changes in assets and liabilities:
+Decrease (increase) in accrued interest receivable (720)
+(Increase) decrease in mortgage loans receivable (40,472)
+Decrease (increase) in mortgage backed securities (79,708)
+Decrease (increase) in other receivables and prepaids 9
+Decrease (increase) in VHCB related deferred outflows 1,577
+Increase (decrease) in other liabilities 2,879
+Increase (decrease) in other payables 381
+Net cash provided by (used in) operating activities $ (87,055)
+Supplemental noncash operating/investing activities:
+See accompanying notes to financial statements.
+17
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(1) Authorizing Legislation and Nature of Funds
+(a) Authorizing Legislation
+Vermont Housing Finance Agency (the Agency) was created as a body politic and corporate of the
+State of Vermont by an Act of the General Assembly approved on April 11, 1974 (the Act). The
+purpose of the Agency is to promote the expansion of the supply of funds available for mortgages on
+residential housing and to encourage an adequate supply of safe and decent housing at reasonable
+costs. The Agency is a component unit of the State of Vermont and the State of Vermont appoints a
+majority of the Agency’s board of commissioners.
+The Agency is empowered by the Act and subsequent amendments to issue bonds and notes.
+Instruments so issued do not constitute a debt or obligation of the State of Vermont and are payable
+solely from revenues or assets of the Agency.
+The State of Vermont has pledged and agreed with the holders of bonds and notes of the Agency not
+to impair in any way the rights and remedies of such holders.
+(b) Basis of Presentation
+The financial statements are presented for the Agency as a whole. The financial statements are
+presented in Supplemental Information on a program basis combining the various restricted accounts
+required by each bond resolution into groups that account for the various bonds issued, related costs
+of issuance and debt service activity and the investment and related earnings of the bond proceeds in
+mortgages or loans and temporary investments and the maintenance of certain reserve fund
+requirements – all under the specific requirements of each resolution.
+These accounts are in turn grouped by program as described below for the Operating Fund, the Single
+Family Mortgage Program Fund, the Multiple Purpose Program Fund, the Multi-Family Mortgage
+Program Fund, and the State Bond Fund.
+(i) Operating Fund
+This fund derives its revenue principally from fees, mortgage interest and investment income.
+Operating expenses of the Agency are paid from this fund.
+Transfers from program funds to the Operating Fund primarily represent amounts allowed to be
+transferred pursuant to the terms of the Agency’s bond resolutions.
+(ii) Single Family Mortgage Program Fund
+This fund has been established under the Single Family Insured Mortgage Bond Resolution
+adopted in September 1976, the Single Family Mortgage Purchase Bond Resolution adopted in
+June 1978, the Home Mortgage Purchase Bond Resolution adopted in July 1983, the Single
+18 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+Family Housing Bond Resolution adopted in September 1990, and the Mortgage Revenue Bond
+(Mortgage Backed Securities Program) indenture adopted in December 2009 under the federal
+New Issue Bond Program (NIBP). Monies from these programs have been used by the Agency
+to purchase mortgage backed securities or mortgage loans on single family residential housing
+units for persons and families of low and moderate income in Vermont.
+(iii) Multiple Purpose Program Fund
+This fund has been established under the Multiple Purpose Bond indenture adopted in July 2007.
+Monies from these programs have been used by the Agency to finance mortgage loans on single
+family residential housing units and multifamily residential housing units for persons and
+families of low and moderate income in Vermont.
+(iv) Multi-Family Mortgage Program Fund
+This fund has been established under the MultiFamily Mortgage Bond Resolution adopted in
+February 1977, the MultiFamily Housing Bond Resolution adopted in September 1981, the
+MultiFamily HFA initiative adopted in December 2009 under the federal NIBP, and various
+individualized taxable and tax-exempt bond and note resolutions adopted between
+December 1985 and June 2007. Monies from these programs are used by the Agency to make
+and finance mortgage loans to sponsors of multifamily residential housing units for persons and
+families of low and moderate income in Vermont. In addition, the Agency has lines of credit
+with TD Bank and Northfield Savings Bank used to support multi-family development projects.
+(v) State Bond Fund
+This fund was first established as a result of the adoption of the Property Transfer Tax Revenue
+Bond Resolution adopted in December 2017. Bonds issued under this program are special,
+limited obligations of the Agency paid and secured solely from pledged State of Vermont
+Property Transfer Tax Revenues. The State Bond Fund also now includes activity related to the
+Agency’s Weatherization Repayment Assistance Program and Rental Revolving Loan Fund,
+both of which are funded by State appropriations. The fund also includes multi-family loans
+funded by the State’s 10% for Vermont investment program, repayments of which are general
+obligations of the Agency.
+(vi) Reserve Requirements
+Under various bond resolutions of the Agency, certain amounts from bond proceeds are required
+to be set aside and maintained for potential debt service requirements in trusteed accounts. As
+of June 30, 2025, reserve requirements totaled $956,000 for the Operating Fund, $2,777,000 for
+the Multiple Purpose Program Fund, and $2,410,000 for the Multi-Family Mortgage Program
+Fund. Amounts held in reserve accounts as of June 30, 2025 exceeded the required balances in
+all cases.
+19 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(2) Summary of Significant Accounting Policies
+(a) Basis of Accounting
+The Agency’s financial statements have been prepared on the accrual basis of accounting using the
+economic resource measurement focus. Accordingly, the Agency recognizes revenue in the period
+earned and expenses in the period incurred.
+(b) Net Position
+Net Position has been classified for external financial reporting purposes into the following three
+categories:
+ Net investment in Capital Assets – Capital assets, net of accumulated depreciation, and cost of
+construction or improvement of those assets.
+ Restricted – Net Position subject to externally imposed stipulations.
+ Unrestricted – Net Position that is not subject to externally imposed stipulations. Unrestricted
+Net Position may be designated for specific purposes by action of management or the Board
+of Commissioners or may otherwise be limited by contractual agreements with outside parties.
+The Agency first considers restricted amounts to have been spent when an expenditure is incurred for
+purposes for which both restricted and unrestricted net position is available.
+(c) Cash Equivalents
+The Agency considers all highly liquid investments with original maturities of three months or less to
+be cash equivalents for purposes of the Statement of Cash Flows. Cash equivalents also includes
+mortgage payments which are held in trust by loan servicers in depository accounts or amounts in
+transit to trustees.
+(d) Mortgage Loans Receivable
+Mortgage loans receivable are carried at their uncollected principal balances less allowances for loan
+losses on mortgages and reserves for federally funded loans that are pass-through in nature.
+The allowance for the multi-family loan portfolio is based on a review of each loan and considers the
+operating cash flows of the respective projects and fair values of the properties. At June 30, 2025, the
+allowances for loan losses totaled $7,907,000, broken out as follows: $2,893,000 for the Operating
+Fund, $2,554,000 for State & Federal Programs, $1,887,000 for the Multiple Purpose Program Fund,
+and $573,000 for the Multi-Family Mortgage Program Fund and are recorded net with the mortgage
+loans receivables on the Statement of Net Position.
+20 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+The reserve for federally funded mortgage loans made under Section 1602 and the Tax Credit
+Assistance Program (TCAP) is $10,486,000 and is recorded net with the mortgage loans receivables
+and loan loss allowance in the Operating Fund on the Statement of Net Position.
+(e) Mortgage Backed Securities
+Mortgage backed securities consist of Federal National Mortgage Association (FNMA), Federal Home
+Loan Mortgage Corporation (FHLMC), and Government National Mortgage Association (GNMA)
+certificates. Mortgage backed securities are reported at fair value on the Statement of Net Position,
+and the net appreciation (depreciation) in the fair value, including both realized and unrealized gains
+and losses, is recognized in the Statement of Revenues, Expenses and Changes in Net Position.
+(f) Investments
+Investments are comprised of short-term- investments that did not meet the cash equivalent criteria
+and mature in one year or less, and long-term- investments with maturities in excess of one year.
+Investments, excluding guaranteed investment contracts (GICs), are reported at fair value in the
+Statement of Net Position. The net appreciation (depreciation) in the fair value of investments,
+including both realized and unrealized gains and losses, is recognized in the Statement of Revenues,
+Expenses and Changes in Net Position. The Agency’s GICs are considered non-participatory in nature
+and therefore are recorded at cost rather than fair value.
+(g) Interest Income
+Interest income on mortgage loans, investments, and mortgage backed securities is recorded as income
+when earned.
+(h) Capital Assets and Depreciation
+The Agency records purchases of its capital assets at cost and depreciates that cost over the estimated
+useful lives of the assets, which are forty years for the building, five to ten years for building
+improvements, and three to five years for furniture and fixtures and computer equipment, using the
+straight-line method. In accordance with the Agency’s capitalization policy, capital assets greater than
+$5,000 are capitalized.
+(i) Real Estate Owned
+Real estate owned (REO) consists of properties acquired through foreclosure or repossession and are
+carried at the lower of cost or net realizable value (estimated market value less costs to sell). The
+Agency did not hold any Real Estate Owned at June 30, 2025.
+21 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(j) Deferred Outflows
+In addition to assets, the statement of net position will sometimes report a separate section for deferred
+outflows of resources, which represents a consumption of net position that applies to future periods.
+The Agency issued State Property Transfer Tax Revenue (PTT) Bonds in fiscal year 2018 to provide
+funds to the Vermont Housing and Conservation Board (VHCB), a component unit of the State of
+Vermont financial reporting entity, to create affordable housing in Vermont. The State of Vermont has
+pledged to transfer to the Agency $2,500,000 of State PTT receipts annually through 2038 to cover
+the PTT Bond debt service payments. Cash transfers to VHCB are recorded as deferred outflows of
+resources. As the annual State PTT reimbursements are received, the applicable PTT Bond interest
+portion is paid and the remaining reimbursement reduces the VHCB deferred outflows balance and is
+reported on the Statement of Revenues, Expenses and Changes in Net Position as State
+reimbursements.
+(k) Hedging Derivatives – Interest Rate Swaps
+The Agency enters into interest rate swap agreements with counterparties with the intention of
+achieving a lower overall cost of funds for certain bond issuances. In accordance with GASB Statement
+No. 53, Accounting and Financial Reporting for Derivative Instruments, the interest rate swap
+instruments are reported at fair value on the Statement of Net Position.
+All of the Agency’s interest rate swaps deemed to be effective cash flow hedges, therefore the fair
+value adjustment is reported as a Deferred Outflow of Resources when the Agency owes the counter-
+party and a Deferred Inflow of Resources when the counter-party owes the Agency.
+(l) Bond Issuance Costs and Amortization
+Bond premiums and discounts are deferred and amortized over the lives of the respective issues using
+the straight-line method. Scheduled amortization of net bond premiums are $444,000; $405,000;
+$360,000; $315,000 and $280,000 for the five years ending June 30, 2026 through 2030.
+Bond issuance costs are expensed in the period they are incurred.
+In the event of an in-substance defeasance, the difference between the reacquisition price and net
+carrying amount of defeased bonds is recognized as a gain or loss in the Statement of Revenues,
+Expenses and Changes in Net Position.
+(m) Income Tax Status
+The Agency is generally not subject to federal and Vermont income taxes under Section 115 of the
+Internal Revenue Code (IRC) and applicable state laws. The Agency qualifies as a tax-exempt
+organization under Section 501(c)(3) of the IRC.
+22 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(n) Arbitrage to be Rebated
+Bonds issued by the Agency are subject to a variety of Internal Revenue Service (IRS) regulations
+which limit the amount of income which may be earned with non-mortgage investments to an amount
+not greater than that amount which would have been earned had the funds been invested at the yield
+on the bonds as defined by the IRS. Excess earnings, if any, must be rebated every five years.
+(o) Operating and Nonoperating Revenues and Expenses
+The Agency records all revenues and expenses related to its loan programs as operating revenues and
+expenses since they are generated from the Agency’s daily operations needed to carry out its statutory
+purposes. Investment income is recorded as operating revenue in all funds. Gains and losses on bond
+redemption are recorded in operating revenues and expenses, as they are a part of the normal operations
+of the Agency’s activities.
+Net appreciation and depreciation in the fair value of investments and federal grant revenues and
+expenses are recorded as nonoperating revenues and expenses. Grants received from federal, state and
+local governments are recognized as nonoperating revenue as the related expenditures are incurred.
+(p) Use of Estimates
+The preparation of the financial statements in conformity with U.S. generally accepted accounting
+principles (GAAP) requires estimates and assumptions that affect the reported amount of the assets
+and liabilities and contingent assets and liabilities at the date of the financial statements, and the
+reported amounts of revenues and expenses during the reporting period. Actual results could differ
+from those estimates. Significant items subject to estimates and assumptions include the provision for
+loan losses and the valuation of investments.
+(3) Cash, Cash Equivalents and Investments
+For mortgage program investments, bond resolution requirements mandate specific classes of investment
+vehicles. Qualified investments are: direct obligations of the United States of America; obligations
+unconditionally guaranteed by the United States of America; indebtedness issued by certain federal agencies;
+bank time deposits evidenced by certificates of deposit insured by the Federal Deposit Insurance Corporation
+(FDIC) and, if in excess of insured limits, collateralized in full by the aforementioned federal government
+investments; obligations of the State of Vermont, and/or federal or state insured mortgages; collateralized
+repurchase agreements secured by obligations of the federal government; Guaranteed Investment Contracts
+with the collateral held by or at the direction of the appropriate trustee; and, investment agreements with
+banks or bank holding companies rated in the top categories by nationally recognized rating agencies.
+The Agency has an investment policy with an overriding goal of providing optimum coverage of risk
+exposure and maintaining liquidity necessary for future cash needs while maximizing the return on
+investments. All investment agreements with banks or bank holding companies, insurance companies or
+23 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+other financial institutions must be rated at least “A” by nationally recognized credit rating agencies or have
+posted adequate collateral to minimize the Agency’s risk.
+(a) Custodial Credit Risk – Deposits
+The custodial credit risk for deposits is the risk that in the event of a bank failure, the Agency’s deposits
+may not be recovered. Bank deposits in excess of the insured amounts are uninsured and
+uncollateralized. Deposits in bank accounts at June 30, 2025 totaled $22,370,000. Of this amount,
+$9,264,000 was exposed to custodial credit risk as uninsured and uncollateralized. The insured
+balances are in Sweep accounts which include multiple FDIC insured accounts.
+(b) Cash, Cash Equivalents, and Investments
+The Agency’s cash and investments at June 30, 2025 are presented below (in thousands).
+The following table provides information on the short-term credit ratings associated with the Agency’s
+cash, money market and certificates of deposit at June 30, 2025 (in thousands):
+Total P-1 Aaa-mf NR
+Cash $ 22,370 18,110 — 4,260
+Money market accounts 65,308 — 65,308 —
+Certificates of deposit 3,260 — — 3,260
+(FDIC Insured. All under $250,000)
+Subtotal short-term investments $ 90,938 18,110 65,308 7,520
+The following table provides information on the long-term credit ratings (Moody’s) associated with
+the Agency’s long-term investments at June 30, 2025 (in thousands):
+24 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(c) Concentration of Credit Risk
+Concentration of credit risk is the risk of loss attributable to the magnitude of the Agency’s investment
+in a single issuer. Of the Agency’s total cash and investments, 77% are MBS. MBS issued by Ginnie
+Mae, Fannie Mae, and Freddie Mac comprise 33%, 46%, and 21%, respectively, of the Agency’s MBS
+portfolio.
+(d) Interest Rate Risk – Investments
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an
+investment. The Agency’s policy does not limit investment maturities as a means of managing its
+exposure to fair value losses arising from increasing interest rates.
+(4) Fair Value of Investments, MBS, and Interest Rate Swaps
+The Agency has adopted GASB No. 72, Fair Value Measurement and Application. This statement establishes
+a hierarchy of inputs to valuation techniques used to measure fair value:
+• Level 1 – quoted market prices in active markets
+• Level 2 – inputs other than quoted market prices that are observable either directly or indirectly
+• Level 3 – unobservable inputs
+U.S. Treasury securities and government agency securities classified in Level 1 are valued using prices
+quoted in active markets for those securities. Certificates of deposit and mortgage-backed securities
+classified in Level 2 are valued using a matrix pricing technique. Matrix pricing is used to value securities
+based on the securities’ relationship to benchmark quoted prices. Interest rate swaps are valued based on
+quoted market prices or model-driven valuations using significant inputs derived from or corroborated by
+observable market data and determined to be Level 2.
+The investments, MBS, and interest rate swaps that the Agency measured at fair value at June 30, 2025 are
+as follows (in thousands):
+25 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+Total Level 1 Level 2 Level 3
+Certificates of Deposit $ 3,260 — 3,260 —
+U.S. Treasury securities — — — —
+Government agency securities 672 672 — —
+Mortgage backed securities 313,704 — 313,704 —
+Total investments 317,636 672 316,964 —
+Interest rate swaps $ 2 67 — 267 —
+There have been no changes in classifications in Level 1, Level 2, and Level 3 and no changes in valuation
+techniques for these assets or liabilities for the year ended June 30, 2025.
+(5) Mortgage Loans Receivable
+(a) Single Family Mortgage Loans Receivable
+Single Family mortgage loans earn interest at annual rates ranging from 0% to 8.80%. Mortgage
+payments are received monthly by the Agency from which servicing fees are generally retained by
+servicing lenders or sub-servicers.
+At June 30, 2025, approximately 1.67% of the Single Family mortgage portfolios consist of primary
+insured mortgages.
+Mortgage loans, not requiring primary insurance, are limited to 80% of the appraised value of the
+property.
+(b) Multi-Family Mortgage Loans Receivable
+Multi-family mortgage loans receivable earn interest at annual rates ranging from 0% to 8.43% and
+are collateralized by mortgage liens on all real and personal property of the mortgaged premises.
+(6) Capital Assets
+Capital Asset activity for the year ended June 30, 2025 is shown in the following table (in thousands):
+26 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+Beginning Ending
+balance Additions Disposals balance
+Capital assets not being depreciated:
+Land $ 50 — — 50
+Capital assets being depreciated:
+Building 1,001 — — 1,001
+Building improvements 1,009 8 — 1,017
+Computer software 124 — — 124
+Computer equipment 519 30 (53) 496
+Furniture and fixtures 217 — (6) 211
+Total capital assets being depreciated 2,870 38 (59) 2,849
+Less accumulated depreciation for:
+Building (738) (25) — (763)
+Building improvements (893) (27) — (920)
+Computer software (124) — — (124)
+Computer equipment (478) (17) 53 (441)
+Furniture and fixtures (216) (1) 6 (210)
+Total accumulated depreciation (2,448) (70) 59 (2,459)
+Total capital assets being depreciated, net 422 (32) — 390
+Fixed Assets In-Progess — 59 — 59
+Capital assets, net $ 472 27 — 499
+(7) Deferred Outflows of Resources – VHCB Related Deferred Outflows
+Proceeds of the State Property Transfer Tax Revenue (PTT) Bonds are used to provide funds to the Vermont
+Housing and Conservation Board (VHCB), a component unit of the State of Vermont financial reporting
+entity, to create affordable housing in Vermont. Amounts transferred to VHCB are recorded as deferred
+outflows of resources. The State of Vermont has pledged to transfer to the Agency annual State PTT receipts
+to cover the PTT Bond debt service payments. The VHCB related deferred outflows beginning balance of
+$27,112,000 less applicable State PTT receipts of $1,577,000 equals the ending VHCB related deferred
+outflows balance at June 30, 2025 of $25,535,000.
+27 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(8) Funds Held on Behalf of Others
+Funds held on behalf of others are received primarily from multi-family housing developers and are governed
+by agreements and released upon satisfactory compliance with their terms. At June 30, 2025, $9,496,000
+was held on behalf of others.
+28 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(9) Bonds Payable
+Outstanding bonds payable at June 30, 2025 are as follows (in thousands):
+29 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(All calendar year 2025 maturities on bonds payable occur after June 30, 2025).
+A summary of bonds payable, discount on bonds, premium on bonds and arbitrage rebate payable activity
+for the year ended June 30, 2025 is as follows (in thousands):
+Vermont Housing Finance Agency
+(A Component Unit of the State of Vermont)
+Year ended June 30, 2025
+(in thousands)
+Beginning Due within one
+balance Increases Decreases Ending balance year Due thereafter
+Bonds payable $ 367,105 100,010 ( 32,460) 434,655 12,335 422,320
+Discount on bonds (37) - 23 (14) (1) (13)
+Premium on bonds 5 ,360 2 ,080 (1,206) 6 ,234 447 5,787
+Bonds payable, net $ 372,428 102,090 ( 33,643) 440,875 12,781 428,094
+Arbitrage Rebate Payable $ 84 211 (4) 291 — 291
+All bonds in the Multiple Purpose and Multi-Family Program Funds are general obligations of the Agency
+and are collateralized by the operating revenues, loans, funds, and investments pledged pursuant to the
+respective bond resolutions. The bond documents contain provisions that in the event of default, outstanding
+principal and accrued interest are immediately due and payable.
+Bonds in the State Bond Fund are special, limited obligations of the Agency and are secured solely from
+pledged State of Vermont Property Transfer Tax Revenues. In the event of default the Bond Trustee may
+proceed to protect and enforce its rights and the rights of the Bond owners under the Vermont Housing
+Finance Agency Act, the Vermont Transfer Tax Statute, and the Bonds and Bond Indenture by such suits,
+actions, or proceedings deemed expedient.
+In most cases, interest is payable semi-annually. All bonds are subject to redemption after various dates at
+par value.
+30 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+Debt service requirements at June 30, 2025 are as follows (in thousands):
+The Agency enters into interest rate swap agreements with counterparties in connection with the Variable
+Rate Demand Bonds (VRDB). Under the only current swap agreement, the swap provider pays the Agency
+amounts based on the Securities Industry and Financial Markets Association (SIFMA), and the Agency pays
+the swap provider amounts at a fixed rate of interest.
+Using rates as of June 30, 2025, debt service requirements of the variable rate bonds and net swap payments,
+assuming current interest rates remain constant, are as follows (in thousands):
+Year ending Variable rate Interest rate
+June 30: Principal Interest swaps, net Total
+2026 $ — 81 (13) 68
+2027 — 81 (13) 68
+2028 — 81 (13) 68
+2029 — 81 (13) 68
+2030 — 81 (13) 68
+2031-2035 — 406 (67) 339
+2036-2040 665 381 (63) 984
+2041-2045 2,520 205 (34) 2,692
+Total $ 3,185 1,398 (229) 4,354
+31 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+A summary of the swap agreement is as follows (in thousands):
+The notional amount of Swaps decreased by $1,400,000 and the fair value of Swaps decreased by $42,000
+for the year ended June 30, 2025.
+By using derivative financial instruments to hedge exposures to changes in interest rates, the Agency exposes
+itself to credit, market, and basis risk. Credit risk is the failure of the counter-party to perform under the
+terms of the derivative contract. When the fair value of a derivative contract is positive, the counter-party
+owes the Agency, which creates credit risk for the Agency. When the fair value of a derivative contract is
+negative, the Agency owes the counter-party and, therefore, it does not possess credit risk. The Agency
+minimizes its credit risk in derivative instruments by entering into transactions with high
+quality- counter-parties whose credit ratings are higher than A by Moody’s. Market risk is the adverse effect
+on the value of a financial instrument that results from a change in interest rates. The market risk associated
+with interest rates is managed by establishing and monitoring parameters that limit the types and degree of
+market risk that may be undertaken. Basis risk is the risk that variable rate payments to bondholders will not
+equal variable rate receipts from the swap counterparty.
+(10) Notes Payable
+The Agency may borrow from the Federal Home Loan Bank (FHLB) in an amount not to exceed assets
+pledged to the FHLB. As of June 30, 2025, the Agency had outstanding borrowings totaling $1,553,000
+which are secured by mortgage loans with a carrying value of $1,323,000, and cash of $225,000 in a FHLB
+collateral account. In the event of default FHLB may take immediate possession of any collateral. These
+borrowings do not accrue interest and mature from October 2026 through November 2027.
+The Agency has $1,500,000 in unsecured notes payable to the Vermont Community Foundation at rates from
+1.0% to 1.5%, with $500,000 payments due in June 2026, June 2038, and June 2053.
+The Agency has $37,126,000 in amortizing notes payable to the Federal Financing Bank (FFB). These
+borrowings have interest rates ranging from 1.565% to 3.652% and mature from March 2047 to November
+2060. The proceeds of these notes were used to finance FHA Risk-Sharing Insured Mortgage Loans. The
+notes are secured by mortgage loans equal in value to the outstanding notes payable balance.
+32 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+The Agency is operating under three unsecured lines of credit with lending institutions that total
+$107,500,000. There is a $10,000,000 working line of credit with TD Bank expiring in March 2026, a
+$75,000,000 line used for construction loans with TD Bank expiring in March 2026 and a $23,400,000 line
+used for construction loans with Northfield Savings Bank expiring in April, 2026. As of June 30, 2025, there
+were $50,851,000 of borrowings under the lines at interest rates of 4.5% to 5.75% as described below.
+Existing project subnotes are unaffected by expiration of these overall lines of credit.
+The Agency has $38,770,000 in notes payable to TD Bank at rates from 4.5% to 5.75%, maturing from
+August 2025 to April 2027.
+The Agency has $12,081,000 in notes payable to Northfield Savings Bank at rates from 4.50% to 4.87%,
+maturing from March 2026 to June 2027.
+The Agency has $11,324,000 in unsecured, long term notes payable to TD Bank at rates from 1.87% to
+3.51% maturing from May 2029 to April 2036. The notes are secured by a moral obligation from the State
+of Vermont.
+The Agency has $2,385,000 in unsecured notes payable to National Bank of Middlebury at a rate of 2.15%,
+maturing from April 2036 to June 2036.
+The Agency has $9,415,000 in unsecured notes payable to the State of Vermont at rates from 1% to 2%
+maturing from February 2030 to February 2045.
+For the Agency’s outstanding notes, in the event of default, outstanding principal and accrued interest are
+immediately due and payable. The FFB notes contain a provision stating that FFB shall have all remedies
+available at equity and under law.
+Future notes payable maturities as of June 30, 2025 are as follows (in thousands):
+Operating Fund Multi-Family Program State Programs Agency totals
+Year ending June 30, Principal Interest Principal Interest Principal Interest Principal Interest
+2026 $ 1,485 1,347 40,742 984 240 78 42,467 2,409
+2027 1,620 1,317 10,109 54 965 116 12,694 1,487
+2028 2,010 1,292 - - 1,680 101 3,690 1,393
+2029 7,179 1,255 - - 1,680 83 8,859 1,338
+2030 4,883 4,688 - - 1,685 65 6,568 4,753
+2031 - 2035 11,624 4,459 - - 2,615 209 14,239 4,668
+2036 - 2040 9,967 3,345 - - 150 48 10,117 3,393
+2041 - 2045 6,937 2,409 - - 400 31 7,337 2,440
+2046 - 2050 6,591 1,498 - - - - 6,591 1,498
+2051 - 2055 1,592 522 - - - - 1,592 522
+2056 - 2060 - 21 - - - - - 21
+2061 - 2065 - - - - - - - -
+Total $ 53,888 22,153 50,851 1,038 9,415 731 114,154 23,922
+A summary of notes payable activity for the year ended June 30, 2025 is as follows (in thousands):
+33 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(11) Asset Restrictions
+Pursuant to the Act and agreements with bondholders and other parties, the Agency’s assets are pledged to
+secure specific obligations or are otherwise restricted.
+Programs which are financed by the issuance of bonds are accounted for separately in accordance with each
+of the general bond resolutions. Program assets and revenues are pledged to bondholders. Revenues in excess
+of required amounts are available to be transferred to the Operating Fund.
+Amounts transferred to the Operating Fund from the bond resolutions are free and clear of any lien or pledge
+created by the bond resolutions and may be used for any lawful purpose under the Act, including payments
+to various accounts within the bond resolutions. All of the outstanding bonds, except for the State Property
+Transfer Tax Revenue Bonds, are general obligations of the Agency. For general obligation bonds, the
+Agency covenants that it will restore deficiencies to the bond programs, as defined by the bond resolutions,
+from the Operating Fund.
+The Operating Fund is also the primary source to pay administrative expenses in connection with current
+and future housing programs, and to provide collateral for credit agreements.
+Net Position derived from purpose restricted resources provided under contractual agreements with federal
+agencies are restricted to the underlying purpose.
+(12) Retirement Plan
+Upon meeting certain eligibility requirements, the Agency’s employees are eligible to participate in the
+Vermont Housing Finance Agency 403(b) Plan, a defined contribution retirement plan. The Agency’s
+contribution to the Plan is 10% of the covered payroll. Employees are 30% vested in benefits under the plan
+upon participation, and vest in the remaining 70% on a pro-rata basis over five years of service. Forfeiture
+on non-vested benefits by terminated employees reduce the Agency’s contribution. The cost of the plan was
+$393,000 for the year ended June 30, 2025, and is included in salaries and benefits expense.
+(13) Bond Redemptions
+During the year ended June 30, 2025, the Agency redeemed $12,895,000 of its Multiple Purpose premium
+PAC Bonds and serial bonds acquired at a premium and $2,085,000 of its Multifamily Mortgage Term Bonds
+acquired at discount, prior to scheduled maturity dates. Net gain on premium and discount bond redemptions
+34 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+was $723,000 and represents the unamortized balance of bond premium and discount that were written off
+when the bonds were retired.
+(14) Federal and State Programs
+The Agency is a subrecipient of a federal Homeowner Assistance Fund grant the State received as part of
+the American Rescue Plan Act (ARPA). During fiscal year 2022, the Agency was awarded a grant from the
+State of Vermont to administer the Homeowner Assistance Program (HAP) to financially assist Vermont
+homeowners experiencing financial hardship, for the purpose of preventing mortgage delinquencies,
+defaults, foreclosures, and loss of utilities or home energy services. The Agency expended $424,000 of HAP
+funds in the year ended June 30, 2025. The HAP grant balance at June 30, 2025 was $17,000. The program
+is currently in the process of being closed out.
+The Agency is a recipient of a federal Capital Magnet Fund (CMF 2024) grant which was awarded on
+October 23, 2024 in the amount of $4,500,000. The program is intended to create and preserve affordable
+housing for low-income families and revitalize distressed communities by attracting private capital. The
+Agency expended $0 in CMF 2024 funds in the year ended June 30, 2025. The CMF grant balance at June
+30, 2025 was $4,500,000.
+The Agency is a recipient of a federal Capital Magnet Fund (CMF 2023) grant which was awarded on
+October 4, 2023 in the amount of $4,500,000. The program is intended to create and preserve affordable
+housing for low-income families and revitalize distressed communities by attracting private capital. The
+Agency expended $0 in CMF 2023 funds in the year ended June 30, 2025. The CMF grant balance at June
+30, 2025 was $4,500,000.
+The Agency is a recipient of a federal Capital Magnet Fund (CMF 2021) grant which was awarded on June
+22, 2022 in the amount of $4,000,000. The program is intended to create and preserve affordable housing
+for low-income families and revitalize distressed communities by attracting private capital. The Agency
+expended $811,000 in CMF 2021 funds in the year ended June 30, 2025. The CMF grant balance at June
+30, 2025 was $1,303,000.
+The Agency is a recipient of a State Middle Income Homeownership Development Program grant the State
+received as part of the American Rescue Plan Act (ARPA). In June 2022, the Agency was awarded a grant
+from the State of Vermont to administer the Middle Income Homeownership Development Program
+(MIHDP) to provide subsidies for new construction or acquisition and substantial rehabilitation of affordable
+owner-occupied housing for purchase by income-eligible homebuyers. The Program will provide funds to
+address both value and affordability gaps in the creation and financing of new single-family homes for low-
+and moderate-income Vermonters. The Agency expended $1,108,000 in the year ended June 30, 2025. The
+MIHDP Grant balance at June 30, 2025 was $22,198,000. As of June 30, 2025 the Agency had received a
+$750,000 advance from the state and had incurred $872,000 in unreimbursed expenses resulting in a
+$122,000 balance owed to the Agency.
+35 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+The Agency is a recipient of a State Weatherization Repayment Assistance Program (WRAP) grant which
+was awarded on March 1, 2021 in the amount of $9,000,000. In September 2024 the award was reduced
+from $9,000,000 to $3,000,000. The program is intended to provide financial support to low and moderate-
+income Vermonters to weatherize their homes. The Agency expended $135,000 in WRAP funds in the year
+ended June 30, 2025. The undrawn WRAP grant balance at June 30, 2025 was $2,358,000.
+The Agency is a recipient of a State Rental Housing Revolving Loan Program (RHRLP) grant which was
+awarded on January 1, 2024 in the amount of $10,000,000. The program is intended to provide loans to
+developers and builders to create rental housing for middle-income households. The Agency expended
+$1,196,000 in RHRLP funds in the year ended June 30, 2025. The RHRLP undrawn grant balance at June
+30, 2025 was $8,799,000.
+The Agency is a subrecipient of a Federal Solar For All (SFA) grant which was awarded on May 5, 2025 in
+the amount of $22,339,618. The program is intended to plan, design, and implement the Managed
+Affordable Solar Housing (MASH) program as part of the Vermont Public Service Department’s Solar For
+All initiative. The initiative was funded by the U.S. Environmental Protection Agency and is now on hold.
+The Agency expended $0 in SFA funds in the year ended June 30, 2025 and no amount has been drawn
+down as of June 2025.
+(15) Commitments and Contingencies
+At June 30, 2025, the Agency had outstanding commitments in the amount of $35,280,000 to purchase
+mortgage loans or mortgage backed securities pursuant to its normal funding from bond proceeds. In
+addition, there were commitments of $151,470,000 for multi-family loans and $420,000 for down payment
+assistance loans.
+(16) Risk Management
+The Agency is exposed to various risks of loss related to torts; theft of, damage to and destruction of assets;
+errors and omissions; injuries to employees; employees’ health; and natural disasters. The Agency manages
+these risks through a combination of participating in State insurance programs and purchasing commercial
+insurance packages in the name of the Agency. The Agency has not experienced settled claims resulting
+from these risks which have exceeded its insurance coverage. In addition, the Agency’s bylaws provide for
+the indemnification of Agency commissioners and officers by the Agency. This indemnification requirement
+is supported by various statutes related to claims against employees and entities of the State and the Agency’s
+authorizing legislation which includes the benefit of sovereign immunity.
+36 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(17) Conduit Debt Obligations
+On December 27, 2018, the Agency issued tax-exempt bonds on a conduit basis. The proceeds of the bonds
+were used for the purpose of (a) financing capital expenditures of a multi-family residential housing facility,
+(b) refunding the principal amount of Series 2010 bonds (c) repaying a 2010 Taxable Loan and (d) financing
+certain costs of issuance. The bonds were sold on a private placement basis. As of June 30, 2025,
+$11,121,928 of the bonds were outstanding.
+On December 7, 2022, the Agency issued tax-exempt bonds on a conduit basis. The proceeds of the bonds
+were used for the purpose of financing a portion of the costs for the acquisition, construction, rehabilitation,
+equipment and completion of a building to be used for general occupancy residential rental housing. The
+bonds were sold on a private placement basis. As of June 30, 2025, $3,725,646 of the bonds were
+outstanding.
+On June 28, 2023, the Agency issued tax-exempt bonds on a conduit basis. The proceeds of the bonds were
+used for the purpose of financing the costs of the acquisition, rehabilitation and equipping of scattered-site
+multifamily residential rental housing projects. The bonds were sold on a private placement basis. As of
+June 30, 2025, $9,590,000 of the bonds were outstanding.
+On May 21, 2025, the Agency issued tax-exempt bonds on a conduit basis. The proceeds of the bonds were
+used for the purpose of financing a portion of the cost of acquiring, constructing, rehabilitating and equipping
+for low- and moderate-income persons multifamily rental housing facility. The Series A bonds proceeds
+were used to facilitate the delivery of a Fannie Mae mortgage backed security. The bonds were sold on a
+private placement basis. As of June 30, 2025, $7,250,000 of the bonds were outstanding.
+The Agency is not obligated in any manner for repayment of these conduit bonds. Accordingly, the bonds
+are not reported as liabilities in the accompanying financial statements.
+37 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Notes to Financial Statements
+June 30, 2025
+(18) Subsequent Events
+The events that occur after the date of the Statement of Net Position but before the financial statements were
+available to be issued must be evaluated for recognition or disclosure. The effects of subsequent events that
+provide evidence about conditions that existed at the date of the Statement of Net Position are recognized in
+the accompanying financial statements. Subsequent events which provide evidence about conditions that
+existed after the date of the Statement of Net Position require disclosure in the accompanying notes.
+Management evaluated the activity of the Agency through September 30, 2025 (the date the financial
+statements were available to be issued) and concluded that no subsequent events have occurred that would
+require recognition in the Financial Statements and the following subsequent event requires disclosure in the
+Notes to the Financial Statements.
+On July 9, 2025, the Agency issued $27,500,000 of 2025 Series C (Non-AMT), $22,500,000 of 2025 Series
+D (Federally Taxable), and $5,735,000 of 2025 Series E (Non-AMT) bonds.
+38
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Supplementary Information
+June 30, 2025
+Combining Statement of Net Position by Program
+(in thousands)
+Single Multi-
+Family Family
+Mortgage Multiple Mortgage
+Operating Program Purpose Program State Bond
+Assets Fund Fund Bond Fund Fund Fund Total
+Current assets:
+Cash and cash equivalents:
+Unrestricted $ 14,216 — — — — 14,216
+Restricted 19,246 9,117 35,253 6,038 3,808 73,462
+Accrued interest receivable:
+Investments 45 31 136 29 10 251
+Mortgage loans 1,460 2 377 613 24 2,476
+Mortgage backed securities — — 1,296 — — 1,296
+Investments maturing within one year 100 151 496 977 — 1,724
+Current portion of mortgage loans receivable 5,930 33 24,976 49,973 77 80,989
+Current portion of mortgage backed securities — 11 7,772 — — 7,783
+Other receivables and prepaid expenses 354 — 152 12 48 566
+Due from (to) other funds (1,370) — (13) 673 710 —
+Total current assets 39,981 9,345 70,445 58,315 4,677 182,763
+Noncurrent assets:
+Investments — — 1,090 1,118 — 2,208
+Mortgage loans receivable, net 66,238 351 50,031 64,857 6,729 188,206
+Mortgage backed securities, net — 101 305,820 — — 305,921
+Capital assets, net 499 — — — — 499
+Fair value of derivative instrument - interest rate swaps, net — — 267 — — 267
+Total noncurrent assets 66,737 452 357,208 65,975 6,729 497,101
+Total assets 106,718 9,797 427,653 124,290 11,406 679,864
+Deferred Outflows of Resources
+VHCB related deferred outflows — — — — 25,535 25,535
+Accumulated decrease in fair value of hedging derivatives -
+Interest rate swaps — — — — — —
+Total deferred outflows of resources — — — — 25,535 25,535
+Total assets and deferred outflows of resources 106,718 9,797 427,653 124,290 36,941 705,399
+39 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Supplementary Information
+June 30, 2025
+Combining Statement of Net Position by Program
+(in thousands)
+Single Multi-
+Family Multiple Family
+Mortgage Purpose Mortgage
+Operating Program Program Program State Bond
+Liabilities Fund Fund Fund Fund Fund Total
+Current liabilities:
+Current portion of notes payable 1,485 — — 40,742 240 42,467
+Current portion of bonds payable, net — — 9,691 1,500 1,590 12,781
+Accrued interest payable 97 — 2,940 400 165 3,602
+Other payables 1,086 — 42 150 — 1,278
+Funds held on behalf of others 9,496 — — — — 9,496
+Arbitrage rebate payable — — 291 — — 291
+Funds held for federal programs 10,198 — — — — 10,198
+Total current liabilities 22,362 — 12,964 42,792 1,995 80,113
+Noncurrent liabilities:
+Notes payable, net 52,403 — — 10,109 9,175 71,687
+Bonds payable, net — — 355,364 48,575 24,155 428,094
+Other liabilities — — — 1,594 1,594
+Total noncurrent liabilities 52,403 — 355,364 58,684 34,924 501,375
+Total liabilities 74,765 — 368,328 101,476 36,919 581,488
+Deferred Inflows of Resources
+Accumulated increase in fair value of hedging derivatives — — 267 — — 267
+Total liabilities and deferred inflows of resources 74,765 — 368,595 101,476 36,919 581,755
+Net Position
+Net Investment in capital assets 499 — — — — 499
+Restricted for bond resolutions — 9,797 59,059 22,812 23 91,691
+Restricted for special purpose loans 15,219 — — — — 15,219
+Unrestricted 16,235 — — — — 16,235
+Total net position $ 31,953 9,797 59,059 22,812 23 123,644
+40
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Supplementary Information
+Year Ended June 30, 2025
+Combining Statement of Revenues, Expenses and Changes in Net Position by Program
+(in thousands)
+Single Family Multiple Multi-Family
+Operating Mortgage Purpose Mortgage State Bond
+Fund Program Fund Program Fund Program Fund Fund Total
+Operating revenues:
+Interest income:
+Investments $ 650 433 2,675 288 60 4,106
+Mortgage loans 2,731 21 3,617 5,737 24 12,130
+Mortgage backed securities — 6 13,404 — — 13,410
+Fee income 2,317 — — — — 2,317
+Grant administration revenue 143 — — — — 143
+Revenue from sales of state tax credits 1,125 — — — — 1,125
+State reimbursements — — — — 923 923
+Grants 802 — — — 1,331 2,133
+TBA program revenue — — — — 7 7
+Gain on bond redemptions — — 744 — — 744
+Other revenue 187 — — — — 187
+Total operating revenues 7,955 460 20,440 6,025 2,345 37,225
+Operating expenses:
+Financing costs, including interest expense 1,684 — 15,478 3,685 963 21,810
+Salaries and benefits 5,548 — — — — 5,548
+Operating expenses 1,290 1 118 3 19 1,431
+Professional fees 157 — 73 43 2 275
+State program expenses and administration costs — — — — 1,332 1,332
+Provision for losses on loans and real estate owned 1,269 — 218 (1,287) 2 202
+Total operating expenses 9,948 1 15,887 2,444 2,318 30,598
+Operating income (loss) (1,993) 459 4,553 3,581 27 6,627
+Nonoperating revenues (expenses):
+Net increase in fair value of investments and MBS — 4 4,786 35 — 4,825
+State and federal grants:
+Grant revenue 3,177 — — — — 3,177
+Grant expenses (2,987) — — — — (2,987)
+Administration costs (190) — — — — (190)
+Total nonoperating revenues (expenses) — 4 4,786 35 — 4,825
+Income (loss) before transfers (1,993) 463 9,339 3,616 27 11,452
+Net transfers (from) to other funds 3,385 — (2,000) (1,380) (5) —
+Increase (decrease) in net position 1,392 463 7,339 2,236 22 11,452
+Net position:
+Net position at beginning of year 30,561 9,334 51,720 20,576 1 112,192
+Net position at end of year $ 31,953 9,797 59,059 22,812 23 123,644
+.
+41
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Supplementary Information
+Year Ended June 30, 2025
+Combining Statement of Cash Flows by Program
+(in thousands)
+Single Family Multiple Multi-Family
+Operating Mortgage Purpose Mortgage State Bond
+Fund Program Fund Program Fund Program Fund Fund
+Cash flows from operating activities:
+Mortgage loans interest receipts $ 2,680 21 3,524 5,553 — $ 11,778
+MBS interest receipts — 6 13,037 — — 13,043
+Mortgage loans principal collections 2,315 32 6,376 27,365 — 36,088
+MBS sales and paydowns — 11 18,167 — — 18,178
+Mortgage loan originations (4,400) — (22,204) (43,619) (6,809) (77,032)
+MBS purchases, net — — (92,359) — — (92,359)
+Fee income and other receipts 5,832 — (68) — 1,903 7,667
+State tax credit sales 1,125 — — — — 1,125
+Salaries and benefits payments (5,305) — — — — (5,305)
+Operating expense payments (967) (1) (506) 91 (1,355) (2,738)
+PTT receipts from State of Vermont — — — — 2,500 2,500
+State and Federal program receipts 3,177 — — — — 3,177
+State and Federal program expenditures (3,177) — — — — (3,177)
+Net cash provided by (used in) operating activities 1,280 69 (74,033) (10,610) (3,761) (87,055)
+Cash flows from investing activities:
+Investment sales — 6,993 1,166 1,565 — 9,724
+Investment purchases — (696) (52) (733) — (1,481)
+Investment interest receipts 653 448 2,752 301 51 4,205
+Net increase in funds held on behalf of others 2,036 — — — — 2,036
+Sales of distressed properties — — — — — —
+Distressed property expenditures — — (86) 59 — (27)
+Rebate excess earnings received payable to IRS — — 291 — — 291
+Net cash provided by (used in) investing activities 2,689 6,745 4,071 1,192 51 14,748
+Cash flows from noncapital financing activities:
+Bond and note interest payments (1,686) — (13,701) (3,807) (961) (20,155)
+Bond principal payments — — (22,513) (8,370) (1,577) (32,460)
+Repayment of notes (14,638) — — (40,204) — (54,842)
+Bond issue proceeds — — 98,753 3,295 42 102,090
+Increase in notes payable 13,687 — — 57,907 9,415 81,009
+Financing costs other than interest — — (1,074) — — (1,074)
+Noncapital financing transfers (from) to other funds 4,497 1 (1,988) (1,661) (849) —
+Net cash provided by noncapital financing activities 1,860 1 59,477 7,160 6,070 74,568
+Cash flows from capital and related financing activities:
+Capital asset purchases (96) — — — — (96)
+Net cash provided by (used in) capital and related financing
+activities (96) — — — — (96)
+Net increase (decrease) in cash and cash equivalents 5,733 6,815 (10,485) (2,258) 2,360 2,165
+Cash and cash equivalents at beginning of year 27,729 2,302 45,739 8,296 1,447 85,513
+Cash and cash equivalents at end of year $ 33,462 9,117 35,253 6,038 3,808 $ 87,678
+42 (Continued)
+VERMONT HOUSING FINANCE AGENCY
+(A Component Unit of the State of Vermont)
+Supplementary Information
+Year Ended June 30, 2025
+Combining Statement of Cash Flows by Program
+(in thousands)
+Single Family Multiple Multi-Family
+Operating Mortgage Purpose Mortgage State Bond
+Fund Program Fund Program Fund Program Fund Fund Total
+Reconciliation of cash flows from operating activities:
+Net operating income (loss) $ (1,993) 459 4,553 3,581 27 6,627
+Adjustments to reconcile operating income (loss) to net cash
+provided by (used in) operating activities:
+Depreciation 70 — — — — 70
+Financing costs other than interest — — 613 22 — 635
+Investment interest income (650) (433) (2,675) (288) (60) (4,106)
+Distressed property expenditures (15) — 98 (59) — 24
+Bond and note interest expense 1,685 — 14,659 3,662 962 20,968
+Gain on bond redemptions — — (744) — — (744)
+Net increase in fair value of investments and MBS — 3 5,522 — — 5,525
+Changes in assets and liabilities:
+Decrease (increase) in accrued interest receivable (51) — (460) (185) (24) (720)
+(Increase) decrease in mortgage loans receivable (511) 32 (15,708) (17,478) (6,807) (40,472)
+Decrease (increase) in mortgage backed securities — 8 (79,716) — — (79,708)
+Decrease (increase) in other receivables and prepaids 10 — 2 (2) (1) 9
+Decrease (increase) in VHCB related deferred outflows — — — — 1,577 1,577
+Increase (decrease) in other liabilities 2,382 — (68) — 565 2,879
+Increase (decrease) in other payables 353 — (109) 137 — 381
+Net cash provided by (used in) operating activities $ 1,280 69 (74,033) (10,610) (3,761) (87,055)
+43
+Independent Auditor's Report on Internal Control over Financial Reporting and on
+Compliance and Other Matters Based on an Audit of Financial Statements
+Performed in Accordance with Government Auditing Standards
+To the Commissioners
+Vermont Housing Finance Agency
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards
+issued by the Comptroller General of the United States ("Government Auditing Standards"), the
+financial statements of the Vermont Housing Finance Agency (the "Agency"), a component unit of the
+State of Vermont, as of and for the year ended June 30, 2025, and the related notes to the financial
+statements, which collectively comprise the Agency's basic financial statements, and have issued our
+report thereon dated September 30, 2025.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the Agency's internal
+control over financial reporting ("internal control") as a basis for designing audit procedures that are
+appropriate in the circumstances for the purpose of expressing our opinion on the financial statements,
+but not for the purpose of expressing an opinion on the effectiveness of the Agency's internal control.
+Accordingly, we do not express an opinion on the effectiveness of the Agency's internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees in the normal course of performing their assigned functions, to prevent, or
+detect and correct misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material
+misstatement of the entity's financial statements will not be prevented, or detected and corrected on a
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control
+that is less severe than a material weakness, yet important enough to merit attention by those charged
+with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of this
+section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material
+weaknesses or significant deficiencies may exist that were not identified.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Agency's financial statements are free
+from material misstatement, we performed tests of its compliance with certain provisions of laws,
+regulations, contracts, and grant agreements, noncompliance with which could have a direct and
+material effect on the financial statements. However, providing an opinion on compliance with those
+provisions was not an objective of our audit and, accordingly, we do not express such an opinion. The
+results of our tests disclosed no instances of noncompliance or other matters that are required to be
+reported under Government Auditing Standards.
+1
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+entity's internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the entity's internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+Charlotte, North Carolina
+September 30, 2025
+2

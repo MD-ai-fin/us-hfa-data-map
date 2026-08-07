@@ -1,0 +1,3264 @@
+A R
+epoRt
+to the
+M
+ontAnA
+L
+egisLAtuRe
+F A
+inAnciAL udit
+Montana Board of Housing
+For the Fiscal Year Ended
+June 30, 2025
+F 2026
+ebRuARy
+L A
+egisLAtive udit
+d
+ivision
+25-07
+Financial Audits
+Legislative Audit
+Financial audits are conducted by the Legislative Audit
+Committee
+Division to determine if the financial statements included in
+this report are presented fairly and the agency has complied
+Representatives
+with laws and regulations having a direct and material effect
+Mary Caferro
+Mary.Caferro@legmt.gov on the financial statements. In performing the audit work,
+Scott Demarois the audit staff uses standards set forth by the American
+Scott.Demarois@legmt.gov Institute of Certified Public Accountants and the United
+Sherry Essmann States Government Accountability Office. Financial audit
+Sherry.Essman@legmt.gov staff members hold degrees with an emphasis in accounting
+Jane Gillette and many staff members hold Certified Public Accountant
+Jane.Gillette@legmt.gov (CPA) certificates.
+Jerry Schillinger, Chair
+Jerry.Schillinger@legmt.gov The Single Audit Act Amendments of 1996 and the Uniform
+Jane Weber Administrative Requirements, Cost Principles, and Audit
+Jane.Weber@legmt.gov Requirements for Federal Awards require the auditor to issue
+certain financial, internal control, and compliance reports in
+Senators
+addition to those reports required by Government Auditing
+Becky Beard
+Becky.Beard@legmt.gov Standards. This individual agency audit report is not
+Denise Hayman intended to comply with these reporting requirements and
+Denise.Hayman@legmt.gov is therefore not intended for distribution to federal grantor
+Emma Kerr-Carpenter agencies. The Legislative Audit Division issues a statewide
+Emma.KC@legmt.gov biennial Single Audit Report which complies with the above
+Forrest Mandeville reporting requirements. The Single Audit Report for the two
+Forrest.Mandeville@legmt.gov fiscal years ended June 30, 2023, was issued August 19, 2024.
+Tom McGillvray The submission deadline for the Single Audit Report for the
+Tom.McGillvray@legmt.gov two fiscal years ended June 30, 2025, is March 31, 2026.
+Laura Smith, Vice Chair
+Laura.Smith@legmt.gov
+Members serve until a
+member’s legislative term
+of office ends or until a
+Audit Staff
+successor is appointed,
+Karen Cohlhepp, CPA Renee Luster, CFE
+whichever occurs first.
+Deborah Stratman Flora Waske
+§5-13-202(2), MCA
+Kelly Zwang, CPA
+Fraud Hotline Reports can be found in electronic format at:
+(Statewide)
+https://legmt.gov/lad/audit-reports
+1-800-222-4446
+(in Helena)
+444-4446
+LADHotline@legmt.gov
+www.montanafraud.gov
+LEGISLATIVE AUDIT DIVISION
+Angus Maciver, Legislative Auditor Deputy Legislative Auditors:
+Kenneth E. Varns, Legal Counsel Alexa O’Dell
+William Soller
+Miki Cestnik
+February 2026
+The Legislative Audit Committee
+of the Montana State Legislature:
+It is a pleasure to provide our audit report for the Montana Board of Housing (board)
+for the fiscal year ended June 30, 2025. Our audit work included:
+• Analyzing the financial statements and note disclosures.
+• Examining the underlying financial activity of the board, which includes
+bonds, investments, and mortgages.
+• Reviewing and testing selected internal control systems.
+The report notes an ongoing significant deficiency in internal control, which is
+described in the accompanying Report on Internal Control and Compliance. Our
+audit report contains an unmodified opinion on the board’s 2025 financial statements,
+meaning that the information presented in the statements can be relied upon for
+decision-making purposes.
+We would like to thank the Executive Director and her staff for their cooperation and
+assistance throughout the audit.
+Respectfully submitted,
+/s/ Angus Maciver
+Angus Maciver
+Legislative Auditor
+Room 171 • State Capitol Building • PO Box 201705 • Helena, MT • 59620-1705
+Phone (406) 444-3122 • FAX (406) 444-9784 • E-mail lad@legmt.gov
+
+i
+Table of Contents
+Figures .......................................................................................................................................ii
+Appointed and Administrative Officials ..................................................................................iii
+Report Summary ...................................................................................................................S-1
+INDEPENDENT AUDITOR’S REPORT AND BOARD FINANCIAL STATEMENTS
+Independent Auditor’s Report ...............................................................................................A-1
+MONTANA BOARD OF HOUSING
+MANAGEMENT’S DISCUSSION AND ANALYSIS, FINANCIAL STATEMENTS, NOTES,
+REQUIRED SUPPLEMENTARY INFORMATION, AND SUPPLEMENTARY INFORMATION
+Management’s Discussion and Analysis ................................................................................A-7
+Statement of Net Position....................................................................................................A-12
+Statement of Revenues, Expenses, and Changes in Net Position ........................................A-13
+Statement of Cash Flows .....................................................................................................A-14
+Notes to the Financial Statements .......................................................................................A-16
+Required Supplementary Information ................................................................................A-52
+Supplementary Information ................................................................................................A-56
+REPORT ON INTERNAL CONTROL AND COMPLIANCE
+Report on Internal Control Over Financial Reporting and on Compliance and Other
+Matters Based on an Audit of Financial Statements Performed in Accordance With
+Government Auditing Standards ..........................................................................................B-1
+BOARD RESPONSE
+Montana Board of Housing ..................................................................................................C-1
+25-07
+ii Montana Legislative Audit Division
+Figures
+Figures
+Figure 1 .........................................................................................................................................................S-2
+Figure 2 .........................................................................................................................................................S-3
+Figure 3 .........................................................................................................................................................S-3
+iii
+Appointed and Administrative Officials
+Name Chair Term Expires
+Montana Board Bruce Posey, Chair Billings January 2029
+of Housing
+Sheila Rice, Vice Chair Great Falls January 2027
+Amber Parish, Secretary Billings January 2029
+Jeanette McKee Hamilton January 2027
+Rachel Arthur Great Falls January 2029
+Richard Miltenberger Clancy January 2027
+John Grant (through June 2025) Helena June 2025
+Ryan Aikin (as of June 2025) Missoula January 2029
+Department Marta Bertoglio Director (as of June 2025)
+of Commerce
+Mandy Rambo Acting Director,
+(February 2025 through June 2025)
+Paul Green Director (through January 2025)
+Board of Housing Cheryl Cohen Executive Director
+Vicki Bauer Accounting and Finance Manager
+Jason Hanson Multifamily Program Manager
+Joe DeFilippis Operations Manager
+Jessica Michel Homeownership Program Manager
+Mary Palkovich Servicing Program Manager
+(through September 2025)
+Jesse Ennis Servicing Program Manager
+(as of November 2025)
+25-07
+iv Montana Legislative Audit Division
+For additional information concerning the Montana Board of Housing, contact:
+Cheryl Cohen
+Executive Director
+Montana Board of Housing
+P.O. Box 200528
+Helena, MT 59620-0528
+e-mail: Cheryl.Cohen@mt.gov
+Phone: (406) 841-2840
+25-07 February 2026 S-1
+M L a d
+ontana egisLative udit ivision
+Financial Audit
+Montana Board of Housing
+For the Fiscal Year ended June 30, 2025
+A report to the Montana Legislature
+B In fiscal year 2025, the Montana Board of Housing
+ackground
+issued $131.4 million in new bonds to strengthen
+The Montana Board of
+its Single Family Program. With the proceeds, the
+Housing works with
+community partners across board purchased $82.3 million in home mortgages
+the state to ensure Montana and invested $61.8 million in mortgage-backed
+families have access to safe,
+securities that offer reliable returns through
+affordable housing. The
+guaranteed principal and interest payments. These
+board is self-supporting and
+does not receive any general securities are tied to the same types of Montana home
+fund appropriations. The loans the board once purchased directly. Alongside
+board finances a majority of
+these investments, the board continues to support
+its operations and programs
+homebuyers by funding down payment assistance and
+through the sale of tax-exempt
+bonds. These tax-exempt bonds other critical loan programs.
+provide funds to purchase
+home mortgages and mortgage-
+backed securities, make loans
+AUDITOR’S OPINION (page A-1): UNMODIFIED
+for rental housing projects,
+We found the board’s financial statements and note disclosures presented
+administer federal housing tax
+credit programs, and work in fairly the board’s activity, in all material respects, and issued an
+partnership with other housing unmodified opinion on them. We also found that the combined financial
+providers throughout the state. statements included in the report were reasonable in relation to the
+financial statements in all material respects. This means that a reader can
+The board uses revenues
+rely on the information in the board’s financial statements, notes, and
+collected from mortgage loans
+combined statements presented in this report.
+for repayment of issued bonds.
+For the full context of the board’s financial activity, see the financial
+The board is allocated to the
+statements and notes beginning on page A-5.
+Department of Commerce for
+administrative purposes.
+RECOMMENDATIONS:
+The powers of the board are
+In this report, we issued the following recommendations:
+vested in the seven members
+To the board: 0
+of the board. The Governor
+To the legislature: 0
+appoints board members, and
+the Senate confirms them.
+The board provides policy In this report, we determined the implementation status of
+direction to agency staff, recommendations in the prior audit:
+authorizes bond issuances, and Fully Implemented: 2
+approves multifamily housing Partially Implemented: 1
+development financing. Not Implemented: 0
+(continued on back)
+S-2
+For the full report or more SuMMarY oF audIT Work:
+information, contact the
+Financial Activity Summary
+Legislative Audit Division.
+Market interest rates for conventional mortgages remained
+persistently high in fiscal year 2025. This enabled the board to retain
+legmt.gov/lad
+its competitive advantage by offering mortgage rates based on bond
+rates, not market rates.
+Room 171, State Capitol
+PO Box 201705
+During the fiscal year, the board transitioned its Single Family
+Helena, MT 59620-1705
+Program business model from purchasing and servicing new whole
+(406) 444-3122
+mortgage loans to purchasing mortgage-backed securities, which
+offer a guaranteed return of principal and interest. Under an
+The mission of the
+agreement with the Idaho Housing and Finance Association (IHFA),
+Legislative Audit Division
+is to increase public trust IHFA buys, services, and securitizes new single-family mortgages
+in state government by qualified for purchase under the Single Family Program. The board
+reporting timely and accurate then purchases the security. The board continues to service existing
+information about agency mortgages and purchase other types of loans, such as down
+operations, technology, and payment assistance.
+finances to the Legislature and
+the citizens of Montana. Because new whole loans were purchased prior to and during the
+transition, the balance of mortgages receivable rose from $607.9
+million in fiscal year 2024 to $647.3 million in fiscal year 2025.
+To report fraud, waste, or
+abuse: Figure 1
+Mortgages receivableincreased due to
+Online
+continued loan purchasing.
+www.Montanafraud.gov
+$700M
+Email
+$600M
+LADHotline@legmt.gov
+$500M
+Call
+$400M
+(Statewide)
+(800) 222-4446 or $300M
+(Helena)
+$200M
+(406) 444-4446
+$100M
+Text $0
+2023 2024 2025
+(704) 430-3930
+Source: Compiled by the Legislative Audit Division.
+Mortgage-backed securities are classified as an investment and
+appear in the financial statements as such. The board’s balance of
+investments increased in fiscal year 2025 to $81.5 million,
+up 26 percent from fiscal year 2024, largely due to this new
+investment type.
+S-3
+Figure 2
+Investmentsincreased, largely due to mortgage-backed securities.
+$81.5M
+$64.7M
+$28.1M
+2023 2024 2025
+Source: Compiled by the Legislative Audit Division.
+Figure 3
+The board issued two bond series totaling
+Increasedbond issuancehelps the board put
+$131.4 million during fiscal year 2025. Bond
+more Montanans in homes.
+proceeds are used to purchase mortgages for
+low-income and first-time homebuyers and to $700M
+buy mortgage-backed securities. The funds
+$600M
+also support rental housing projects,
+administer federal housing tax credit $500M
+programs, and fund additional activities to
+$400M
+further the board’s goal of supporting the
+development of safe, accessible, and $300M
+affordable homes for individuals and families $200M
+in Montana. The proceeds from one bond
+$100M
+issue were also used to refund an older bond
+with a higher interest rate. Overall, the $0
+board’s outstanding bond liability increased 2023 2024 2025
+to $689.1 million. Source: Compiled by the Legislative Audit Division.
+PrIor audIT rEcoMMEndaTIonS:
+Two recommendations were made to strengthen internal controls. The first recommendation called
+for ensuring that all relevant standards were considered during the preparation of financial statements.
+The second aimed to prevent, detect, and correct any fiscal year-end misstatements in the board’s
+accounting system.
+The third recommendation concerned controls within the board’s primary accounting system. In the
+prior two audits, we determined that these controls did not meet state security requirements. In fiscal
+year 2025, the board continued to make progress toward compliance, but we determined the system
+still does not align with some state security requirements. Therefore, the prior audit recommendation
+was partially implemented. Because the board is working to comply with state information security
+policy, we make no further recommendations in this report.
+S-4
+rEPorT on InTErnaL conTroL and coMPLIancE
+(page B-1):
+In this report, we identified the following:
+Material Weaknesses in Internal Control: 0
+Significant Deficiencies in Internal Control: 1
+Material Non-Compliance: 0
+Other Matters: 0
+For the full context of this information, including the distinction between the types of items reported,
+see the report beginning on page B-1.
+Independent Auditor’s Report and
+Board Financial Statements
+
+LEGISLATIVE AUDIT DIVISION
+A-1
+Angus Maciver, Legislative Auditor Deputy Legislative Auditors:
+Kenneth E. Varns, Legal Counsel Alexa O’Dell
+William Soller
+Miki Cestnik
+Independent Auditor’s Report
+The Legislative Audit Committee
+of the Montana State Legislature:
+Report on the Audit of Financial Statements
+Opinion
+We have audited the financial statements of the Montana Board of Housing, a component unit of the
+State of Montana, which are comprised of the Statement of Net Position as of June 30, 2025, the related
+Statement of Revenues, Expenses and Changes in Net Position, and the Statement of Cash Flows for
+the fiscal year then ended, and the related notes to the financial statements.
+In our opinion, the accompanying financial statements present fairly, in all material respects, the
+financial position of the Montana Board of Housing as of June 30, 2025, and the changes in net
+position and cash flows for the fiscal year then ended in conformity with accounting principles
+generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United
+States of America (GAAS) and the standards applicable to financial audits contained in Government
+Auditing Standards, issued by the Comptroller General of the United States. Our responsibilities under
+those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the Montana Board of Housing
+and to meet our other ethical responsibilities, in accordance with relevant ethical requirements relating
+to our audits. We believe that the audit evidence we have obtained is sufficient and appropriate to
+provide a basis for our audit opinion.
+Emphasis of Matter
+Because short-term assets are sufficient to meet the board’s short-term liability obligations as of
+June 30, 2025, all Mortgages Receivable, Net, as presented on the Statement of Net Position, are
+classified as non-current restricted assets. Our opinion is not modified with respect to this matter.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for
+the design, implementation, and maintenance of internal controls relevant to the preparation and fair
+presentation of the financial statements that are free from material misstatement, whether due to fraud
+or error.
+Room 171 • State Capitol Building • PO Box 201705 • Helena, MT • 59620-1705
+Phone (406) 444-3122 • FAX (406) 444-9784 • E-mail lad@legmt.gov
+A-2
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the Montana Board of
+Housing’s ability to continue as a going concern for twelve months beyond the financial statement date,
+including any currently known information that may raise substantial doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting
+a material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the
+financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Montana Board of Housing’s internal control. Accordingly,
+no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about the Montana Board of Housing’s ability to continue as a
+going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-
+related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the Management
+Discussion and Analysis on page A-7, Other Post-Employment Benefits–Total Board OPEB Liability
+and Related Ratios on page A-52, Pension Benefits–Schedule of Proportionate Share of the Net
+Pension Liability on page A-53, and Pension Benefits–Schedule of Contributions on page A-53, and
+the related notes be presented to supplement the basic financial statements. Such information is the
+responsibility of management and, although not a part of the basic financial statements, is required
+A-3
+by the Governmental Accounting Standards Board who considers it to be an essential part of the
+financial reporting for placing the basic financial statements in an appropriate operational, economic,
+or historical context. We have applied certain limited procedures to the required supplementary
+information in accordance with auditing standards generally accepted in the United States of
+America, which consist of inquiries of management about the methods of preparing the information
+and comparing the information for consistency with management’s responses to our inquiries, the
+basic financial statements, and other knowledge we obtained during our audit of the basic financial
+statements. We do not express an opinion or provide any assurance on the information because the
+limited procedures do not provide us with sufficient evidence to express an opinion or provide any
+assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the basic financial statements as a
+whole. The Combining Statement of Net Position; Combining Statement of Revenues, Expenses, and
+Changes in Fund Net Position; and Combining Statement of Cash Flows are presented for purposes
+of additional analysis and are not a required part of the financial statements. Such information is the
+responsibility of management and was derived from and relates directly to the underlying accounting
+and other records used to prepare the financial statements. The information has been subjected to the
+auditing procedures applied in the audit of the financial statements and certain additional procedures,
+including comparing and reconciling such information directly to the underlying accounting and other
+records used to prepare the financial statements or to the financial statements themselves, and other
+additional procedures in accordance with auditing standards generally accepted in the United States
+of America. In our opinion, the information is fairly stated in all material respects in relation to the
+financial statements as a whole.
+Report on Other Legal and Regulatory Requirements
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+December 5, 2025, on our consideration of the Montana Board of Housing’s internal control over
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe the
+scope of our testing of internal control over financial reporting and compliance and the results of that
+testing, and not to provide an opinion on internal control over financial reporting or on compliance.
+That report is an integral part of an audit performed in accordance with Government Auditing
+Standards in considering the Montana Board of Housing’s internal control over financial reporting
+and compliance.
+Respectfully submitted,
+/s/ Alexa O’Dell
+Alexa O’Dell, CPA
+Deputy Legislative Auditor
+Helena, MT
+December 5, 2025
+A-4
+A-5
+Montana Board of Housing
+Management’s Discussion and Analysis, Financial
+Statements, Notes, Required Supplementary
+Information, and Supplementary Information
+A-6
+MONTANA BOARD OF HOUSING A-7
+A COMPONENT UNIT OF THE STATE OF MONTANA
+MANAGEMENT DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2025
+The following information presents management’s discussion and analysis of the Montana Board of
+Housing (Board) program and financial activity during the fiscal year ending June 30, 2025 (FY25). Please
+read this section in conjunction with the financial statements and accompanying notes.
+Summary
+• 544 Single Family Mortgages were purchased with the Bond Program for $82.3 million.
+• 28 Mortgage-Backed Securities were purchased with Single Family Bond Program funds totaling
+$61.8 million.
+• Mortgage Credit Certificates were issued for 18 loans with principal balances totaling $5.3 million.
+• A ten-year allocation of $37.2 million of 9% Housing Tax Credits, at $3.72 million per year, was
+awarded during FY25 providing equity to produce or preserve affordable rental housing.
+• 8 Reverse Annuity Mortgage (RAM) loans were originated in FY25. The RAM Program is currently
+assisting 41 elderly households.
+• The Board issued $131.4 million of Single Family Mortgage Bonds.
+• Bond debt retired was $53.7 million from prepayments and regular debt service.
+• Gross bond debt payable increased from $609.3 million to $689.1 million.
+• Net position increased $6.5 million during FY25.
+Fiscal Year 2025 Update
+Single Family Program
+On November 1st, 2024, Montana Board of Housing shifted its whole loan mortgage program to a
+Mortgage Back Security (MBS) business model which provides more flexibility to quickly adjust to
+changes in the real estate and financial markets. The Board executed a Master Mortgage Pooling and
+Servicing Agreement with Idaho Housing and Finance Association (IHFA), as its Master Servicer.
+An MBS is an investment instrument in which a pool of mortgages serves as security for the investment.
+The mortgages in the pool share common characteristics such as program, mortgage insurance type,
+interest rate, amortization type and payment type. The mortgages are still originated by participating
+lenders and must be in compliance with the requirements of the Board’s programs; however, they are
+purchased by IHFA, as the Master Servicer, and securitized into MBS pools that the Board purchases with
+bond proceeds.
+Board programs have been updated to follow the requirements of Ginnie Mae for FHA, VA, RD and HUD
+184 (government-insured) loan types, and the Government Sponsored Enterprises (Fannie Mae and
+Freddie Mac) for conventional conforming loan types.
+A-8 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+MANAGEMENT DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2025
+Benefits of an MBS program include:
+• Potential higher rating on bond issues which could result in improved overall pricing and market
+acceptance.
+• No debt service reserve requirement resulting in more bond proceeds being available for loan
+programs.
+• No loan loss reserves required within the indentures.
+• Reduced risk caused by delinquent loans since the Master Servicer is responsible for advancing
+delinquent principal and interest to the MBS security holders.
+• Bond investors look more favorably on MBS than whole loan indentures.
+• Different bond structures can be created with MBS pass through bonds, offering alternative
+methods of financing the Board’s single-family loan production.
+Montana Board of Housing will continue to purchase whole loans for special programs when interest
+rates offered do not align within the MBS structure. The Board will continue to purchase and hold all
+down payment assistance loans, as whole loans, and they will be serviced by IHFA.
+The Board offers two down payment assistance programs to assist more borrowers. The 0% Deferred
+Program, which is funded from agency reserves, offers a deferred 0% second mortgage with a maximum
+loan amount of $15,000, due at the time of payoff. The Bond Advantage Program, which is funded from
+the proceeds of bonds, offers a 15-year amortizing second mortgage that has the same interest rate as
+the first mortgage. The maximum loan amount of this second mortgage is also $15,000.
+The Board experienced an increase in its overall loan production in FY25, even with the transition to the
+MBS program. The number of loans processed increased by 5.9% and the overall principal balance of the
+loans originated increased by 10.3%. Market interest rates were between 6% and 7% and due to
+favorable bond pricing, the Board was able to offer mortgage rates that were typically 75 to 100 basis
+points below market rates.
+The biggest challenge the Board faced was a lack of affordable inventory for first-time homebuyers to
+purchase. Sale prices continued to be very high around the state and in several counties prices exceeded
+the Board's purchase price limits. The Board continues to explore opportunities to expand its programs
+and offer low-interest rate loans to first-time homebuyers.
+Loan Servicing Program
+The Board was servicing the majority of its Single-Family and Multifamily loans at the end of FY25. It also
+serviced Coal Trust Multifamily Home (CTMH) program loans and Veterans’ Home Loan Program (VHLP)
+loans for Montana Board of Investments, and Homeowner Assistance Fund (HAF) loans for the Montana
+Department of Commerce.
+The biggest concern with the Board’s in-house servicing portfolio relates to significant increases in
+hazard insurance and property taxes driving up mortgage payments, which could cause an increase in
+delinquency.
+Additionally, as the Board moves forward and shifts new production to mortgage-backed securities
+through its Master Servicer, the Board will monitor its in-house legacy portfolio and make decisions
+about servicing a portfolio that will decline over time.
+MONTANA BOARD OF HOUSING A-9
+A COMPONENT UNIT OF THE STATE OF MONTANA
+MANAGEMENT DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2025
+Multifamily Program
+The Board offers a variety of financing options for the development, rehabilitation and preservation of
+affordable multifamily rental units, including Federal Low Income Housing Tax Credits and multifamily
+loan products.
+During FY25, the Board allocated $37.2 million of 9% housing tax credits to be used over ten years to
+produce 137 rental units in Montana. The Board issued $73.5 million in conduit bonds to produce 396
+additional rental units. When 50% of a project’s funding is through the issuance of conduit bonds, the
+project qualifies for 4% tax credits. In FY25, the Board allocated $46.2 million of 4% housing credits to be
+used over ten years.
+The Multifamily Program closed three loans utilizing the Coal Trust Multifamily Homes (CTMH) loan
+program which was funded by Montana Board of Investment and administered by Montana Board of
+Housing. The three loans totaled $10,157,031 with rates ranging from 3.83% - 4.08%.
+Finance
+Investment interest rates were higher in FY25 than in recent years, which allowed the Board to obtain
+favorable return rates in money market funds. The cash proceeds from mature investments, along with
+new money the Board obtained from the issuance of tax-exempt bonds, were used to purchase
+mortgages and mortgage-backed securities, to pay down outstanding bonds and to fund operations.
+The Board's Investment Policy indicates that investments are to be made with the expectation that they
+will be held until maturity ensuring the Board will receive the full face value of investments. GASB
+Statement No. 72, Fair Value Measurement and Application, requires that investments are shown on
+financial statements at fair value, which is frequently less than the face value. This investment
+depreciation to fair value shows as a $0.4 million dollar loss in Decrease in Fair Value of Investments on
+the Statement of Revenues, Expenses, and Changes in Net Position. The Board's net position increased in
+FY25 compared to FY24 due to increased interest income on mortgages and investments partially offset
+by increases in operating expenses, particularly interest expense on bonds, as additional bonds were
+issued during the fiscal year at higher interest rates.
+The bonds interest expense was $5.23 million higher in FY25 than it was in FY24 due to the new issues in
+FY24 and FY25 carrying higher interest rates.
+The Board's bonds payable balance increased by $79.87 million dollars as two new series totaling
+$131.43 million were issued during the year.
+A-10 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+MANAGEMENT DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2025
+Overview of the Financial Statements
+The Board is a self-supporting entity and uses no State of Montana government general fund
+appropriations to operate. The Board is classified as an enterprise fund, which is a fund financed and
+operated in a manner similar to a private business enterprise.
+Net Position – Restricted for Bondholders represents bond program funds that are pledged as collateral
+for the bondholders and are restricted by federal tax law to costs directly related to carrying out
+qualifying housing programs, qualifying mortgages or paying off bonds. These funds are therefore not
+available for use for other activities.
+This discussion and analysis, the financial statements, notes and supplemental information are designed
+to provide the stakeholders of the Board, citizens, taxpayers, legislatures, customers, clients, investors,
+and creditors, with an overview of the Board operations and to demonstrate accountability for the
+resources with which the Board is entrusted.
+See Change in Net Position and Income on the Next Page
+MONTANA BOARD OF HOUSING A-11
+A COMPONENT UNIT OF THE STATE OF MONTANA
+CONDENSED FINANCIAL INFORMATION
+CHANGE IN NET POSITION AND OPERATING INCOME
+YEARS ENDED JUNE 30, 2025 and 2024
+2025 2024
+Restricted Assets:
+Current Assets $ 38,781,777 1 $ 30,075,079
+Capital Assets 2,499,665 2,204,657
+Other Non-current Assets 844,727,579 2 762,410,779
+Total Assets 886,009,021 794,690,515
+Deferred Outflows of Resources: 530,653 558,836
+Liabilities:
+Current Liabilities 38,557,707 3 29,868,453
+Non-current Liabilities 671,651,297 4 595,545,349
+Total Liabilities 710,209,004 625,413,802
+Deferred Inflows of Resources: 388,227 395,750
+Net Position:
+Invested in Capital Assets (75,960) 5 (114,433)
+Restricted 176,018,403 169,554,232
+Total Net Position $ 175,942,443 $ 169,439,799
+Operating Revenue:
+Interest on Loans $ 27,662,079 6 $ 22,420,177
+Earnings (Loss) from Investments 7,502,428 6,947,208
+Fees and Charges 4,269,190 3,267,827
+Other Income 1,480 32,256
+Total Operating Revenue 39,435,177 32,667,468
+Operating Expenses:
+Bond Expenses 25,130,222 20,407,842
+7
+Servicing Fees 2,024,969 1,056,482
+General and Administrative 5,806,116 5,564,559
+Total Expenses 32,961,307 27,028,883
+Operating Income (Loss) 6,473,870 5,638,585
+Non-operating Revenue
+Pensions - Non-employer Contributions 28,774 55,588
+Total Non-operating Income 28,774 55,588
+Income (Loss) Before Transfers 6,502,644 5,694,173
+Increase (Decrease) in Net Position 6,502,644 5,694,173
+Net Position, Beginning of Year 169,439,799 163,745,626
+Net Position, End of Year $ 175,942,443 $ 169,439,799
+1 Current assets increased by $8.70 million in FY25 primarily due to the increase in the current liability balance at year-
+end. See footnote 3 below.
+2 Non-current assets increased by $82.32 million in FY25 due to higher loan production, both in the loans receivable the
+first half of the year and mortgage backed securities in the investments the second half of the year. Interest receivable
+also increased due to higher mortgage and investment rates.
+3 Current liabilities increased by $8.69 million in FY25 due primarily to the issuance of four bond series in FY24. The
+current portion of bonds payable now reflects a full year of upcoming debt service in FY25 compared to a partial year in
+FY24.
+4 Non-current liabilities increased by $76.10 million in FY25 due primarily to the issuance of two bond series totaling
+$131.40 million offset by the Board's scheduled debt service payments on existing obligations during the year.
+5 Net Capital Assets is currently negative as the present value of the outstanding lease liability is more that the book
+value of the right-to-use asset.
+6 Interest on loans increased by $5.24 million in FY25 as a result of higher loan volume and payments received on the
+higher rate mortgages originated in recent years.
+7 Bond expenses increased by $4.72 million in FY25 due to payments made on higher rate bonds issued in recent years.
+The accompanying notes to the financial statements are an integral part of this statement.
+A-12 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+STATEMENT OF NET POSITION
+AS OF JUNE 30, 2025
+ASSETS
+Current Assets
+Restricted Assets:
+Cash and Cash Equivalents $ 38,557,707
+Prepaid Expense 224,070
+Total Current Assets 38,781,777
+Non-current Assets
+Restricted Assets:
+Cash and Cash Equivalents 106,039,089
+Investments 81,471,936
+Mortgage Loans Receivable, Net 647,264,498
+Corporate Advance Receivable 1,764,470
+Accounts Receivable 9,589
+Interest Receivable 5,633,649
+Purchase of Mortgage Servicing Rights 2,544,348
+Intangible Right-To-Use Asset, Net 2,061,651
+Subscription-Based IT Arrangements, Net 438,014
+Total Non-current Assets 847,227,244
+TOTAL ASSETS 886,009,021
+DEFERRED OUTFLOW OF RESOURCES
+Deferred Refunding Costs 1,952
+Deferred OPEB Outflows 244,719
+Deferred Pension Outflow 283,982
+TOTAL DEFERRED OUTFLOWS 530,653
+LIABILITIES
+Current Liabilities
+Accounts Payable 3,646,094
+Funds Held For Others 8,275,238
+Accrued Interest - Bonds Payable 2,701,155
+Bonds Payable, Net 23,140,000
+Arbitrage Rebate Payable to U.S.
+Treasury Department 425,282
+Accrued Compensated Absences 176,286
+Lease Payable - Current 117,392
+SBITA Payable - Current 76,260
+Total Current Liabilities 38,557,707
+Non-current Liabilities
+Bonds Payable, Net 665,986,724
+Arbitrage Rebate Payable to U.S.
+Treasury Department 798,432
+Accrued Compensated Absences 221,865
+Net Pension Liability 2,157,239
+Other Postemployment Benefits 105,064
+Leases payable - non current 2,094,576
+SBITA payable - non current 287,397
+Total Non-current Liabilities 671,651,297
+TOTAL LIABILITIES 710,209,004
+DEFERRED INFLOW OF RESOURCES
+Deferred OPEB Inflow 304,871
+Deferred Pension Inflow 83,356
+TOTAL DEFERRED INFLOWS 388,227
+NET POSITION
+Net Investment in Capital Assets (75,960)
+Restricted for Bondholders:
+Single Family Programs 139,683,472
+Various Recycled Mortgage Setaside Programs 5,247,366
+Multifamily Programs 17,531,891
+Reverse Annuity Program 9,713,364
+Restricted for Affordable Revolving Loan Program 3,842,310
+TOTAL NET POSITION $ 175,942,443
+The accompanying notes to the financial statements are an integral part of this statement.
+MONTANA BOARD OF HOUSING A-13
+A COMPONENT UNIT OF THE STATE OF MONTANA
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+OPERATING REVENUES
+Interest Income - Mortgage Loans $ 27,662,079
+Interest Income - Investments 7,922,318
+Net Increase (Decrease) in Fair Value of Investments (419,890)
+Fee Income 4,269,190
+Other Income 1,480
+Total Operating Revenues 39,435,177
+OPERATING EXPENSES
+Interest on Bonds 22,957,850
+Servicer Fees 2,024,969
+Contracted Services 889,072
+Amortization of Refunding Costs 23,536
+Bond Issuance Costs 1,852,097
+General and Administrative 4,761,726
+Arbitrage Rebate Expense 296,739
+Pension Expense 152,633
+Other Post-Employment Benefits 2,685
+Total Operating Expenses 32,961,307
+Operating Income (Loss) 6,473,870
+NONOPERATING REVENUES (EXPENSES)
+Pensions - Nonemployer Contribution 28,774
+Nonoperating Income (Loss) 28,774
+Income (Loss) Before Transfers 6,502,644
+Increase (Decrease) in Net Position 6,502,644
+Net Position, Beginning of Year 169,439,799
+Net Position, End of Year $ 175,942,443
+The accompanying notes to the financial statements are an integral part of this statement.
+A-14 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Receipts for Sales and Services $ 6,561,030
+Collections (Payouts - Reverse Annuity) on Loans and Interest on Loans 72,054,242
+Collections (Disbursement) on Loan Escrow Accounts 658,628
+Cash Payments for Loans (82,826,017)
+Payments to Suppliers for Goods and Services (3,512,744)
+Payments to Employees (3,197,724)
+Corporate (Advances) Repayments (171,979)
+Other Operating Revenues 1,479
+Net Cash Provided by (Used for) Operating Activities (10,433,085)
+CASH FLOWS FROM NON-CAPITAL
+FINANCING ACTIVITIES:
+Payment of Principal and Interest on Bonds and Notes (77,285,859)
+Proceeds from Issuance of Bonds and Notes 131,430,000
+Payment of Bond Issuance Costs (1,615,457)
+Premium Received on Bonds 3,375,324
+Purchase of Mortgage Servicing Rights (640,142)
+Net Cash Provided by (Used for) Non-capital Financing Activities 55,263,866
+CASH FLOWS FROM CAPITAL AND RELATED
+FINANCING ACTIVITIES:
+Purchase of Fixed Assets (SBITA Implementation Costs) (27,440)
+Principal Payments on Leases (107,122)
+Interest Payments on Leases (37,467)
+Principal Payments on SBITAs (92,543)
+Net Cash Provided by (Used for) Capital and Related Financing Activities (264,572)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of Investments (80,545,582)
+Proceeds from Sales or Maturities of Investments 63,876,251
+Interests and Dividends on Investments 7,366,906
+Payments for Arbitrage Rebate Tax (758,453)
+Net Cash Provided by (Used for) Investing Activities (10,060,878)
+Net Increase (Decrease) in Cash and Cash Equivalents 34,505,331
+Restricted Cash and Cash Equivalents, July 1 110,091,465
+Restricted Cash and Cash Equivalents, June 30 $ 144,596,796
+Restricted Current Cash and Cash Equivalents $ 38,557,707
+Restricted Non-Current Cash and Cash Equivalents $ 106,039,089
+Total Restricted Cash and Cash Equivalents $ 144,596,796
+The accompanying notes to the financial statements are an integral part of this statement.
+MONTANA BOARD OF HOUSING A-15
+A COMPONENT UNIT OF THE STATE OF MONTANA
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+RECONCILIATION OF OPERATING INCOME TO NET
+CASH PROVIDED BY (USED FOR) OPERATING ACTIVITIES
+Operating Income $ 6,473,870
+ADJUSTMENTS TO RECONCILE OPERATING
+INCOME TO NET CASH PROVIDED BY
+(USED FOR) OPERATING ACTIVITIES:
+Amortization 576,298
+Interest Expense 24,483,283
+Interest on Investments (7,921,315)
+Decr (Incr) in Fair Value of Investments 419,890
+Arbitrage Rebate Tax 296,739
+Change in Assets and Liabilities:
+Decr (Incr) in Mortgage Loans Receivable (37,484,387)
+Decr (Incr) in Other Assets (464,607)
+Incr (Decr) Accounts Payable 2,517,372
+Incr (Decr) Funds Held for Others 664,942
+Incr (Decr) Net Pension Liability and Related Accounts (20,611)
+Incr (Decr) in Compensated Absences Payable 34,971
+Incr (Decr) Total OPEB Liability and Related Accounts (9,530)
+Net Cash Provided by (Used for) Operating Activities $ (10,433,085)
+Noncash Investing, capital, and financing activities: During FY25, the Board's investments decreased in
+fair value by $419,890. The fair value decrease was not realized in cash during FY25.
+The Board recognized a subscription asset and related liability of $456,200 for a new subscription-based
+IT arrangement under GASB 96. The Board incurred $27,440 in implementation costs related to the new
+subscription-based IT arrangement. These costs were paid in cash and are reported as capital outflows in
+the Statement of Cash Flows.
+The accompanying notes to the financial statements are an integral part of this statement.
+A-16 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Organization
+The Montana Board of Housing (the Board) is a quasi-judicial board created in 1975 by the Legislative
+Assembly of the State of Montana to facilitate the availability of decent, safe, and sanitary housing to
+persons and families of lower income as determined in accordance with the Board policy in compliance with
+the Internal Revenue Code. The Board is authorized to issue negotiable notes and bonds to fulfill its
+purposes. The total dollar amount of notes and bonds outstanding at any time may not exceed $1.5 billion.
+The discount price of bonds sold, not the face amount of the bonds, counts against this statutory ceiling.
+Neither the faith and credit nor the taxing power of the State of Montana (State) may be pledged for
+payment of amounts so issued. The Board is attached for administrative purposes to the Housing Division,
+Department of Commerce.
+Basis of Presentation
+The financial statements of the Board are presented on a combined basis. Summary comparative financial
+information is contained in the Management Discussion and Analysis section. The accompanying financial
+statements have been prepared in conformity with Generally Accepted Accounting Principles (GAAP) as
+prescribed by the Governmental Accounting Standards Board (GASB).
+The financial activities of the Board are recorded in funds established under various bond resolutions and
+the Montana Code Annotated (MCA). In preparing the financial statements, management is required to
+make estimates and assumptions that affect the reported amounts of assets and liabilities as of the date of
+the statement of net position and revenues and expenses for the period.
+Recent GASB Pronouncements
+For the year ended June 30, 2025, the Board adopted the following new standards issued by the
+Governmental Accounting Standards Board (GASB):
+Statement No. 102, Certain Risk Disclosures, which requires management to evaluate whether there are risks
+related to a government’s vulnerabilities due to certain concentrations or constraints that require disclosure.
+There was not a significant effect on the Board’s financial statement as the result of the implementation of
+this standard.
+Reporting Entity
+In accordance with governmental accounting and financial reporting standards, there are no component
+units to be included within the Board as a reporting entity. The financial statements of the Board are
+presented as a discretely presented component unit in the State of Montana’s Annual Comprehensive
+Financial Report. The enterprise fund of the Board is part of, but does not comprise the entire proprietary
+fund type of, the State of Montana. The State of Montana directs and supervises budgeting, recordkeeping,
+reporting, and related administrative functions of the Board.
+Measurement Focus and Basis of Accounting
+The Board follows the economic resources measurement focus and accrual basis of accounting. Revenue is
+recognized in the period in which it is earned, and expenses are recognized when they are incurred.
+MONTANA BOARD OF HOUSING A-17
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Fund Accounting
+To ensure observance of limitations and restrictions placed on the use of resources by the trust indentures,
+the Board's accounts are organized in accordance with the principles of fund accounting. This is the
+procedure by which resources are classified for accounting and reporting purposes into funds established
+according to their nature and purpose as described in the trust indentures. The operations of each fund are
+accounted for by providing a separate set of self-balancing accounts which comprise each fund’s assets,
+deferred outflows of resources, liabilities, deferred inflows of resources, net position, revenues, and
+expenses.
+The funds of the Board are classified as enterprise funds, that is, a fund that is financed and operated in a
+manner similar to private business enterprises, where the intent of the Board is that the expenses of
+meeting its organizational purpose be financed or recovered primarily through user charges and investment
+earnings, and the periodic determination of revenue earned and expenses incurred is appropriate for capital
+maintenance, public policy, management control, accountability, and other purposes.
+The mortgage loans receivable and certain mortgage-backed securities are pledged as security for holders of
+the bonds. Certain indentures also require asset-liability coverage ratios be met as well as cash flow
+certificates be furnished for any significant change anticipated in the financial structure of an indenture.
+Restricted Net Position also includes funds reserved by participants and funds committed to specific projects
+under various programs established by the Board and restricted by enabling legislation.
+Net Position
+Net investment in capital assets — This component consists of capital assets, net of accumulated
+amortization, reduced by the outstanding balances of any debt that is attributable to the acquisition,
+construction, or improvement of those assets.
+Restricted Net Position — Net position is considered restricted if it is limited as to the manner in or purpose
+for which funds may be used.
+The following describes the restrictions on the Net Position: The individual bond indentures establish certain
+funds and accounts as special trust funds to hold the individual indenture funds. Due to the nature of the
+Board’s bonds, these funds and accounts are pledged as collateral for the bonds under the individual
+program indentures. The individual indentures also set certain mortgage and debt service reserve
+requirements, restricting funds for these purposes.
+The Statement of Net Position reports $(75,960) of net investment in capital assets and $176,018,403 of
+restricted net position.
+Revenue and Expense Recognition
+Proprietary funds distinguish operating revenues and expenses from non-operating items. Operating
+revenues and expenses generally result from providing services relating to a proprietary fund’s principal
+ongoing operations. Revenues and expenses not meeting this definition, if they occur, are reported as non-
+operating revenues or expenses. The Board records all revenues and expenses related to mortgages,
+investments, and bonds as operating revenues and expenses.
+Fund Structure
+The Board’s program funds and other funds have been presented on a combined basis, as the Board is
+considered a single enterprise fund for financial reporting purposes. A description of the funds established
+by the Board follows:
+A-18 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Single Family Mortgage Program Funds
+These funds, established under three separate trust indentures adopted on various dates, are established
+to account for the proceeds from the sale of Single Family Mortgage Bonds and the debt service
+requirements of the bond indebtedness. Activities of these funds are, in general, restricted to the purchase
+of eligible single-family mortgage loans. The mortgage loans are generally insured by the Federal Housing
+Administration (FHA), guaranteed by Veterans Administration (VA), Rural Development (RD), or private
+mortgage insurance.
+The assets of each individual Single Family Mortgage Program Fund are restricted by the fund’s respective
+trust indenture; therefore, the total does not indicate that the Single Family Mortgage Program Funds’ assets
+are available in any manner other than provided for in the individual trust indentures. The Board has
+reserved funds for specific loan programs. These loans will be originated from funds available in Single
+Family I, II, and XI Indentures.
+Multifamily Mortgage Program Funds
+On November 10, 1998, the Board issued $1,625,000 in Multifamily General Obligation Bonds. These bonds
+are payable out of any of the Board’s moneys, assets, or revenue. These funds, established under a trust
+indenture adopted November 1, 1998, are established to account for the proceeds from the sale of
+Multifamily Mortgage General Obligation Bonds, the debt service requirements of the bond indebtedness,
+and for construction and permanent mortgage loans on multifamily developments being financed from the
+bond proceeds.
+Housing Trust Fund
+The Housing Trust Fund was established as a separate trust fund by a resolution of the Montana Board of
+Housing, adopted February 16, 1989. The Housing Trust Fund was created to finance, in whole or in part,
+future housing needs including the establishment of new programs as deemed necessary by the Board and
+any loans or projects that will provide housing for lower income persons and families with special housing
+needs. Housing Trust Fund accounts are held in the State Treasury.
+Current programs include, but are not limited to, the Reverse Annuity Mortgage Program (RAM) for senior
+Montana homeowners, the Cash Assistance Program (CAP), and the Disabled Assistance program (DAAHP) to
+assist individuals and families in the purchase of a single-family home. The Housing Trust Fund includes all
+revenues and expenses for the Low Income Housing Tax Credit Program.
+Housing Montana
+Under MCA 90-6-133, a Revolving Loan Account was established. The account was established in the State
+special revenue fund in the State Treasury. Senate Bill 243 of the 2003 Legislature moved the Revolving Loan
+Account to the enterprise fund, effective July 1, 2003. During the 2007 legislative session, the account was
+renamed Housing Montana Fund. The money in the loan account is allocated to the Board for the purposes
+of providing loans to eligible applicants. Currently, the account holds resources and loans provided by the
+Federal Housing and Urban Development Section 8 administrative fee reserve account, the Temporary
+Assistance to Needy Families (TANF) block grant to the State and the Affordable Housing Program.
+Cash and Cash Equivalents
+For the purposes of the combining statement of cash flows, cash and cash equivalents consist of cash held by
+the State of Montana Treasurer, cash and money market accounts held by trustees, and cash invested in the
+State’s short-term investment pool. Cash and cash equivalents are described in Note 2 to the financial
+statements.
+MONTANA BOARD OF HOUSING A-19
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Investments
+The Board follows the provisions of GASB Statement No. 40, Deposit and Investment Risk Disclosures. The
+applicable investment risk disclosures are described in Note 3 to the financial statements.
+The Board values its investments at fair value except for certain investments that have a remaining maturity
+at the time of purchase of one year or less which are measured at amortized cost. This presentation
+conforms to the provisions of GASB Statement No. 72, Fair Value Measurement and Application. The changes
+in value are reported in the Statement of Revenues, Expenses, and Changes in Net Position.
+Mortgage Loans Receivable
+Mortgage loans receivable are carried at their uncollected principal balances, adjusted for unamortized
+mortgage discounts and deferred loan fees, less an allowance for loan losses. Mortgage discounts and loan
+fees earned after 1988 are amortized using the interest method over the life of the mortgage loans and are
+accreted to interest income on mortgages. Mortgage discounts for all other program funds are amortized
+using the straight-line method over the remaining life of the mortgage loans and accreted to interest income.
+The Board purchases mortgage loans secured by residences located throughout the State of Montana. Loans
+must be insured by the Federal Housing Administration (FHA) or guaranteed by the Veterans Administration
+(VA), Rural Development (RD), Housing and Urban Development (HUD), private mortgage insurance, or have
+a loan-to-value less than 80%. Guidelines to minimize credit risk are established by FHA, VA, RD and Board
+policies. During 2025, the Board has shifted away from this model for a majority of loans to the mortgage-
+backed securities model. This will result is a declining portfolio over time but increase the mortgage-backed
+security investments.
+Interest receivable is accrued on the amount of outstanding mortgage loan principal only if deemed
+collectible. Accrual on non-performing loans ceases at six months. Estimated losses are determined based on
+management’s judgment, giving effect to numerous factors including but not necessarily limited to, general
+economic conditions, loan portfolio composition, prior loss experience and independent appraisals. The
+reserve for anticipated loan losses represents amounts which are not expected to be fully reimbursed by
+certain guarantors or covered by the Board’s operating funds.
+The Board incurs mortgage loan service fees with loan servicers based on outstanding monthly mortgage
+loan principal balances. The service fees are paid only when the mortgagee’s full monthly payment is
+collected.
+The Board has pledged future revenues collected from mortgage receivable accounts to bondholders for
+repayment of the mortgage revenue bonds issued by the Board. The Board issued these bonds to finance
+the mortgage loans purchased by the Board’s various programs. In accordance with GASB Statement No. 48,
+Sales and Pledges of Receivables and Future Revenues and Intra-Entity Transfers of Assets and Future
+Revenues, the pledging of these revenues is considered a collateralized borrowing based on the Board
+retaining control of the receivables and evidenced by the Board’s active management of these accounts.
+Further detail related to mortgage loans receivable is provided in Note 5.
+Mortgage-Backed Securities
+Mortgage-Backed Securities reported in the Single Family Programs are pass-through Mortgage-Backed
+Securities securitized by the Federal National Mortgage Association (FNMA) or the Government National
+Mortgage Association (GNMA) and purchased by the Board. The securities consist of pools of qualified
+Montana mortgage loans originated through the Board’s Single Family Programs. These securities are
+reported at fair value which may vary from the value of the securities if held to maturity. The changes in
+value are reported in the Statement of Revenues, Expenses, and Changes in Net Position.
+A-20 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Bonds Payable
+Bonds payable is adjusted for amortized bond premiums and discounts. Bond premiums and discounts are
+amortized or accreted to interest expenses using the interest method, as an adjustment to yield, over the life
+of the bonds to which they relate or are expensed upon early redemption of the bonds. Bond issuance costs,
+including underwriter discounts, are expensed in the period incurred.
+Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates. These statements contain estimates for compensated absences liability,
+net pension liability, deferred pension inflows and outflows, deferred other post-employment benefits
+(OPEB) inflows and outflows, total OPEB liability, arbitrage rebate liability, allowance for loan losses, and fair
+value of investments.
+Capital Assets
+Capital assets are recorded at historical cost and depreciation is computed using the straight-line method
+over estimated useful lives of 5 to 10 years or up to 50 years for buildings. The capitalization threshold for
+recording capital assets varies between $5,000 and $500,000 for building/land improvements/others
+depending on the type of asset purchased. The capitalization threshold for intangible right-to-use lease
+assets is $100,000. Purchases under these thresholds are recorded as expenses in the current period. As of
+June 30, 2025, the Board currently has an intangible right-to-use lease asset and right-to-use subscription
+asset as mentioned below. Further detail related to capital assets is provided in Note 7.
+Leases
+GASB Statement No. 87, Leases, regarding leases requires lessees to recognize a lease liability and a right-to-
+use lease asset at the commencement of the lease term, unless the lease is a short-term lease or it transfers
+ownership of the underlying asset. The liability is measured at the present value of payments expected to be
+made during the lease term (less any lease incentives). The right-to-use lease asset is measured at the
+amount of the initial measurement of the lease liability, plus any payment made to the lessor at or before
+the commencement of the lease term and certain direct costs. The lease liability will be reduced as
+payments are made and the lease asset will be amortized in a systematic manner over the shorter of the
+lease term or the useful life of the underlying asset. The present value of the current building lease was
+calculated using the Intercap Rate provided by the Montana Board of Investments at the time of inception of
+GASB Statement 87. The Board currently leases a portion of a building on Park Avenue in Helena, Montana.
+The portion of the lease associated with the Board is calculated on the basis of square footage. Other
+information on the Board lease is available in Note 8.
+Subscription-Based Information Technology Arrangements (SBITAs)
+GASB Statement No. 96, Subscription-Based Information Technology Arrangements, requires governments to
+recognize a subscription liability and an intangible right-to-use subscription asset at the commencement of
+the subscription term, unless the arrangement is short-term (12 months or less including any options to
+extend). The subscription liability is measured at the present value of subscription payments expected to be
+made during the subscription term (less any incentives). The subscription asset is measured at the amount of
+the initial subscription liability, plus any payments made to the vendor at or before the commencement of
+the subscription term and certain implementation costs.
+MONTANA BOARD OF HOUSING A-21
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+The subscription liability is reduced as payments are made, and the subscription asset is amortized over the
+shorter of the subscription term or the useful life of the underlying IT asset. The present value of the current
+SBITA was calculated using the appropriate discount rate, which may be the interest rate implicit in the
+arrangement or the government’s incremental borrowing rate at the time of inception of GASB Statement
+96.
+The Board currently subscribes to a cloud-based platform used for housing development project
+management. The portion of the subscription associated with the Board is calculated based on user licenses
+and service tiers. Additional information on the Board’s SBITA is available in Note 9.
+Funds Held for Others
+The Board started to service Board loans during fiscal year 2012. The servicing fund holds hazard insurance
+premiums and property taxes collected from mortgage loan borrowers’ monthly payments until premiums
+and property taxes are due. Multifamily reserves are held to be used for repairs on the Multifamily
+properties as a requirement of the loan type. Expenditures from the Multifamily reserves have to be
+approved and documented by the Board.
+Pensions
+For the purposes of measuring the net pension liability, deferred outflows of resources and deferred inflows
+of resources related to pensions, and pension expense, information about the fiduciary net position of the
+Public Employee Retirement System (PERS) and additions to/deductions from PERS’s fiduciary net position
+have been determined on the same basis as they are reported by PERS. For this purpose, member
+contributions are recognized in the period in which they are due. Employer contributions are recognized
+when due and the employer has made a formal commitment to provide the contributions. Benefit payments
+and refunds are recognized in the accounting period when due and payable in accordance with the benefit
+terms. Investments are reported at fair value. PERS adheres to all applicable GASB statements.
+Compensated Absences
+The Board’s employees earn vacation leave ranging from 15 to 24 days per year depending on the
+employee’s years of service. Vacation leave may be accumulated to a total not to exceed two times the
+maximum number of days earned annually. Sick leave is earned at the rate of 12 days per year with no limit
+on accumulation. Upon retirement or termination, an employee is paid for 100% of unused vacation leave
+and 25% of unused sick leave.
+OPEB
+The Board is an participating employer in the State of Montana OPEB plan. For the purposes of measuring
+the total OPEB liability, deferred outflows of resources and deferred inflows of resources related to OPEB,
+and OPEB expense, information about the total OPEB liability of the Board's is available via the Montana
+Department of Administration. Member contributions are recognized in the period in which the
+contributions are made. Benefit payments and refunds are recognized in the accounting period when due
+and payable in accordance with the benefit terms. The State OPEB plan adheres to all applicable GASB
+statements.
+Arbitrage Rebate
+The Board is limited in the investment yield which it may retain for its own use on the non-mortgage
+investments for most of its bond issues. Excess arbitrage yields must be rebated to the federal government in
+accordance with applicable federal tax regulations.
+A-22 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 2. CASH AND CASH EQUIVALENTS
+The Board’s cash and cash equivalents are held by trustees or by the State of Montana Treasury as cash or
+short-term investments having maturities of less than 90 days. At June 30, 2025, the carrying amounts of the
+Board's cash and cash equivalents equaled the bank balances.
+Program Funds:
+Cash Deposited with State Treasury $ 8,416,657
+Custodial Cash 10,301,760
+Cash on Hand8 37,312
+Cash Equivalents - Money Market 125,841,067
+Total Cash and Cash Equivalents $ 144,596,796
+NOTE 3. INVESTMENTS
+The Board invests the following funds: mortgage loan collections until debt service payment dates, and
+reserves and operating funds until needed. The Board follows GASB Statement No. 40 and GASB Statement
+No. 72 regarding fair values. The applicable investment risk disclosures are described in the following
+paragraphs.
+Power to Invest and Investment Policy
+Montana statute grants the Board the power to invest any funds not required for immediate use, subject to
+any agreements with its bondholders and note holders. The Board conducts its investing in accordance with
+an investment policy, which is annually reviewed, and follows bond indenture, Internal Revenue Code, and
+State statutes. The policy prohibits the Board from investing in leveraged investments including but not
+limited to derivatives. The Board’s policy follows State law by limiting investments to the following:
+• Direct obligations or obligations guaranteed by the United States of America.
+• Indebtedness issued or guaranteed by Government Sponsored Entities such as Federal Home Loan
+Bank System, Federal National Mortgage Association, Federal Farm Credit Bank, and Federal Home
+Loan Mortgage Corporation.
+• Certificates of Deposit insured by the Federal Deposit Insurance Corporation.
+• Guaranteed Investment Agreements or Repurchase Agreements.
+Credit Risk
+Credit risk is the risk that the other party to an investment will not fulfill its obligations. Board investment
+policy mitigates this risk by requiring financial institutions to be rated in either of the two highest rating
+categories by Standard & Poor’s and Moody’s Investors Services. The Board enters into guaranteed
+investment agreements and repurchase agreements as directed by bond indentures. The table included in
+this note identifies investment agreement participants and their ratings.
+Concentration of Credit Risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of an organization’s investment
+with a single investment provider. Board investment policy follows the prudent expert principle as contained
+in Title 17, Chapter 6, Montana Code Annotated. This principle instructs investing entities to diversify
+8 Cash on hand is checks received but not deposited on June 30, 2025.
+MONTANA BOARD OF HOUSING A-23
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+investment holding to minimize the risk of loss. The Board's investments are all issued or explicitly
+guaranteed by the U.S. Government and are excluded from this requirement.
+Custodial Credit Risk
+Custodial credit risk for investments and deposits is the risk that, in the event of the failure of a depository
+financial institution or counterparty, a government will not be able to recover deposits or will not be able to
+recover collateral securities that are in the possession of an outside party. The Board's deposits are insured
+by the Federal Deposit Insurance Corporation (FDIC) up to applicable limits. As of June 30, 2025,
+approximately $1,623,000 of the Board's custodian cash bank balances was insured or collateralized and
+remaining balance was exposed to custodial credit risk because they were uncollateralized. Subsequent to
+year end, the Board reviewed accounts held with financial institutions to ensure that they were insured by
+FDIC or collateralized with securities held by the pledging financial institution. The Board’s executed contract
+with the financial institution that holds the Board’s custodian cash bank balances includes requirements to
+comply with both state policy and FDIC parameters. Specifically, the contract requires the vendor to
+“maintain mortgage servicing accounts as defined by FDIC 330.7(d)” as well as to “provide pledged securities
+for all deposits as referenced in 16-6-102, MCA.”
+The Board’s investment policy requires that investment contracts and repurchase agreements be fully
+collateralized with securities and cash held by the provider’s agent and confirmed by the Board’s trustee as
+required by the bond indentures. Securities underlying the investment contracts have a market value of at
+least 100% of the cost of the investment contract plus accrued interest. Securities underlying the repurchase
+agreements have a market value of at least 102% of the cost of the repurchase agreement.
+A-24 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an investment.
+The Board’s investment policy does not explicitly address interest rate risk. However, the policy indirectly
+speaks about interest rate risk by stating that investments are to be held to maturity and not for the
+intention of generating investment return. Typically, long-term investments are only sold as a result of
+refunding a bond issue or to meet liquidity needs. The following table displays Effective Duration for
+appropriate investment types or N/A (not applicable) to indicate interest rate risk. All funds and component
+units of the State of Montana are required to use the duration method to report interest rate risk.
+Fair Value Moody's S&P Effective
+June 30, 2025 Rating Rating Duration
+FHLMC Bonds9 $ 2,522,727 Aaa AA+ 7.04
+FNMA Medium Term Notes10 12,788,534 Aaa AA+ 1.78
+Mortgage-Backed Securities 61,362,904 NR11 NR 11 27.01
+$ 76,674,165
+U.S. Treasury Bonds 4,797,771 Aaa AA+ 0.13
+Trustee Money Market Accounts (at amortized cost)12 125,841,067 NR 11 NR 11 N/A13
+Total Investments (including Money Market) $ 207,313,003
+9 Federal Home Loan Mortgage Corporation
+10 Federal National Mortgage Association
+11 Not rated
+12 Money Market Accounts are included in Cash Equivalents on the financial statements
+13 Not applicable
+MONTANA BOARD OF HOUSING A-25
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 4. FAIR VALUE MEASUREMENT
+The Board categorizes its fair value measurements within the fair value hierarchy established by generally
+accepted accounting principles as follows:
+• Level 1 – Quoted prices for identical assets or liabilities in active markets.
+• Level 2 – Prices determined using inputs, other than quoted prices included within Level 1, that are
+observable for an asset or liability, either directly or indirectly.
+• Level 3 – Prices are determined using unobservable inputs.
+Fair Value Measurement Using
+Quoted Prices
+Significant
+in Active Significant
+Other
+Markets for Unobservable
+June 30, 2025 Observable
+Identical Inputs
+Inputs
+Assets (Level 3)
+(Level 2)15
+(Level 1)14
+Investments by Fair Value
+Fixed income investments
+U.S. Treasuries $ 4,797,771 $ 4,797,771 $ — $ —
+Agency/Government Related 15,311,261 — $ 15,311,261 —
+Mortgage-Backed Securities 61,362,904 — 61,362,904 —
+Total fixed income investments $ 81,471,936 $ 4,797,771 $ 76,674,165 $ —
+Investments Measured at Amortized
+Cost 16
+Money Market Accounts 125,841,067
+Total investments managed $207,313,003
+Note: Money Market are included in cash equivalents on the financial statements
+14 Fixed income investments classified in Level 1 of the fair value hierarchy above are valued using prices
+quoted from live sources such as active markets and inter-dealer brokers.
+15 Fixed income investments classified in Level 2 of the fair value hierarchy are valued using the matrix pricing
+technique. Matrix pricing is used to value securities based on the securities’ relationship to benchmark
+quoted prices.
+16 Investments measured at amortized cost are included to account for U.S. Treasuries that have a remaining
+maturity of one year or less upon acquisition and highly liquid investments such as money market.
+A-26 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 5. MORTGAGE LOANS RECEIVABLE
+The Board’s Single Family, Multifamily, Housing Trust Fund, and Housing Montana Fund mortgage loans
+receivable are pledged in accordance with individual program indentures as security for holders of the
+bonds. The loans held for servicing by the Servicing program are not deemed pledged mortgages and are not
+included in the Net Collateralized Mortgage Loans Receivable amount but are listed separately.
+All Board mortgage loans purchased are for properties located within Montana and held to maturity. Board
+loans are secured by first liens on real property, are insured by the Federal Housing Administration (FHA),
+and are guaranteed by the Veterans’ Administration (VA), United States Department of Agriculture Rural
+Development (RD) program, private mortgage insurance (Single Family 1977 Indenture only), or are
+uninsured if the mortgages have a loan to value of less than 80%.
+In accordance with GASB Statement No. 48, the pledging of mortgage loans receivable is considered a
+collateralized borrowing. Collateralized mortgage loans receivable, as of June 30, 2025, consist of the
+following:
+Single Family Program $ 629,340,802
+Multifamily Program 9,142,715
+Housing Trust Program 2,720,815
+Housing Montana Fund 2,221,982
+643,426,314
+Net mortgage discounts and premiums 3,887,375
+Allowances for losses and real estate owned (Note 6) (320,000)
+Net Collateralized Mortgage Loans Receivable $ 646,993,689
+Mortgage loans receivable not collateralized. $ 270,809
+NOTE 6. ALLOWANCE FOR LOAN LOSSES AND REAL ESTATE OWNED
+Real estate owned property is property that is acquired through foreclosure or in satisfaction of loans and is
+reported as the outstanding loan balance.
+The June 30, 2025, allowances for loan losses include $100,000 for mortgage bad debt and $220,000 for
+future estimated losses on real estate owned property. The Board held two (2) real estate owned properties
+as of June 30, 2025. Since Board real estate owned properties are insured or guaranteed by external
+organizations, Board loan losses are limited by insurance claims or sale of foreclosed properties. Real estate
+owned by the Board is included in the mortgages receivable balance (Note 5).
+The following summarizes activity in the allowance for loan losses and real estate owned:
+Balance as of June 30, 2024 $ 320,000
+Plus: Additional provision —
+Less: Net loans charged off —
+Balance as of June 30, 2025 $ 320,000
+MONTANA BOARD OF HOUSING A-27
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 7. CAPITAL ASSETS
+Intangible right-to-use lease building is for a portion of a building based on square foot usage used for
+business activities of the Board. Intangible right-to-use subscriptions is for a multifamily housing finance
+software subscription. Capital asset balances as of June 30, 2025, are as follows:
+Beginning Ending
+Balance Increases Decreases Balances
+Capital Assets:
+Intangible Right-of-Use Building $ 2,633,671 $ — $ — $ 2,633,671
+Intangible Right-of-Use Subscription — 483,641 — 483,641
+AsTsoetat l Capital Assets 2,633,671 483,641 — 3,117,312
+Less Accumulated Depreciation/
+Amortization for:
+Intangible Right-of-Use Building (429,014) (143,007) — (572,020)
+Intangible Right-of-Use Subscription — (45,628) — (45,627)
+AsTsoetat l Depreciation /amortization (429,014) (188,635) — (617,647)
+Capital Assets, Net
+$ 2,204,657 $ 295,006 $ — $ 2,499,665
+Amortization expense included in general and administrative expense was $188,635 for the year ended
+June 30, 2025.
+NOTE 8. LEASES
+A lease was made between the State of Montana, Department of Commerce and the Helena Montana
+Associates to lease the premise at 301 South Park Avenue, Helena Montana beginning December 1,
+2019, through November 30, 2039. Based on the square footage used by the Board, the Board has 41.4%
+of the lease allocated to it.
+The current net present value of the portion allocated to the Board of Housing as of the remaining
+duration of the lease is $2,211,968. Payments are due in monthly installments beginning at $12,048
+increasing three times over the life of the lease to a final payments of $16,033 at the end of the lease.
+These calculations are with imputed interest of 1.65% which is derived from the Montana Board of
+Housing Intercap Rate at the time of inception of GASB Statement 87.
+The following table presents lease principal and interest requirements to maturity:
+Principal Interest Total
+2026 $ 117,392 $ 35,641 $ 153,033
+2027 125,461 33,614 159,075
+2028 127,547 31,529 159,076
+2029 129,667 29,408 159,075
+2030 131,823 27,252 159,075
+2031-2035 768,329 99,879 868,208
+2036-2040 811,749 30,736 842,485
+Totals $ 2,211,968 $ 288,059 $ 2,500,027
+A-28 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 9. SBITAs
+The Board has entered into a subscription-based information technology arrangement (SBITA) for a cloud-
+based software platform used for housing development project management. The agreement conveys the
+Board the right to use the software over a noncancelable subscription term of fifty-two months, beginning
+February 1, 2025, and ending June 30, 2029.
+The current net present value as of the remaining duration of the subscription is $363,657. Payments are
+due in annual installments beginning at $92,543 and increasing each year to a final payment of $112,487 at
+the end of the term. These calculations are with imputed interest of 5.75% which is derived from the
+Montana Board of Housing Intercap Rate at the time of the inception of the subscription.
+The following table presents subscription principal and interest requirements to maturity:
+Principal Interest Total
+2026 $ 76,260 $ 20,910 $ 97,170
+2027 85,504 16,525 102,029
+2028 95,522 11,609 107,131
+2029 106,371 6,116 112,487
+Totals $ 363,657 $ 55,160 $ 418,817
+NOTE 10. LONG-TERM DEBT
+The Board has no variable interest rate debt obligations and does not swap interest rates. The following
+bonds are fixed rate mortgage revenue or general obligation bonds. Bonds payable, net of premium or
+discount, consists of the following as of June 30, 2025.:...........................................................................
+Single Family I Mortgage Bonds: Original Amount Balance
+2015
+Series B-1 and B-2 serial and term bond at 0.50% to 4.0% maturing in
+scheduled semi-annual installments to December 1, 2026, December $ 64,400,000 $ 9,485,000
+1, 2030, December 1, 2038, and December 1, 2042.
+2016
+Series A-1 and A2 serial and term bonds at 0.65% to 3.50% maturing in
+scheduled semi-annual installments to December 1, 2027, December
+64,645,000 23,585,000
+1, 2031, December 1, 2036, December 1, 2039, June 1, 2042, and June
+1, 2044.
+2017
+Series A-1 and A-2 serial and term bonds at 1.00% to 4.00% maturing
+in scheduled semi-annual installments to December 1, 2028, 41,900,000 10,255,000
+December 1, 2032, December 1, 2037, and December 1, 2045.
+2017
+Series B-1 and B-2 serial and term bonds at 0.85% to 4.00% maturing
+in scheduled semi-annual installments to December 1, 2029,
+42,600,000 13,755,000
+December 1, 2032, December 1, 2037, December 1, 2042, December
+1, 2047, and December 1, 2048
+2018
+Series B serial and term bonds at 1.65% to 4.0% maturing in scheduled
+semi-annual installments to December 1, 2029, December 1, 2033, 50,000,000 12,590,000
+June 1, 2037, and December 1, 2043
+2019
+Series B serial and term bonds at 1.30% to 4.00% maturing in
+scheduled semi-annual installments to December 1, 2034, December 30,000,000 13,050,000
+1, 2039, December 1, 2044, December 1, 2049, and June 1, 2050.
+MONTANA BOARD OF HOUSING A-29
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+2020
+Series A-1 and A-2 serial and term bonds at 1.10% to 3.50% maturing
+in scheduled semi-annual installments to December 1, 2034,
+42,425,000 21,170,000
+December 1, 2039, December 1, 2044, December 1, 2049 and June 1,
+2050.
+2020
+Series B serial and term bonds at 0.75% to 4.00% maturing in
+scheduled semi-annual installments to December 1, 2035, December 37,200,000 18,540,000
+1, 2040, December 1, 2045, June 1, 2050, and December 1, 2050.
+2020
+Series C serial and term bonds at 0.15% to 3.00% maturing in
+scheduled semi-annual installments to December 1, 2035, December 30,000,000 19,060,000
+1, 2040, December 1, 2045, June 1, 2050, and December 1, 2050
+2021
+Series A serial and term bonds at 0.30% to 3.00% maturing in
+scheduled semi-annual installments to December 1, 2036, December 43,410,000 29,575,000
+1, 2041, December 1 2046, December 1, 2050, and June 1, 2051
+2021
+Series B serial and term bonds at 0.10% to 3.00% maturing in
+scheduled semi-annual installments to December 1 2033, December 1,
+32,000,000 25,235,000
+2036, December 1, 2041, December 1, 2046, June 1, 2051, and
+December 1, 2051.
+2022
+Series A serial and term bonds at 0.30% to 3.00% maturing in
+scheduled semi-annual installments to December 1 2034, December 1,
+32,000,000 26,630,000
+2037, December 1, 2042, December 1, 2047, December 1, 2051, and
+June 1, 2052.
+2022
+Series B serial and term bonds at 2.05% to 5.00% maturing in
+scheduled semi-annual installments to December 1, 2034, December 32,000,000 27,350,000
+1, 2037, December 1, 2042, December 1, 2047, and June 1, 2052.
+2022
+Series C serial and term bonds at 3.00% to 6.00% maturing in
+scheduled semi-annual installments to December 1, 2034, December
+40,000,000 37,605,000
+1, 2037, December 1, 2042, December 1, 2047, December 1, 2052,
+and June 1, 2053.
+2023
+Series A serial and term bonds at 3.20% to 5.75% maturing in
+scheduled semi-annual installments to December 1, 2035, December
+41,000,000 39,145,000
+1, 2038, December 1, 2043, December 1, 2048, June 1, 2053, and
+December 1, 2053.
+2023
+Series B serial and term bonds at 3.45% to 6.00% maturing in
+scheduled semi-annual installments to December 1, 2035, December
+43,000,000 41,590,000
+1, 2038, December 1, 2043, December 1, 2048, June 1, 2053, and
+December 1, 2053.
+2023
+Series C serial and term bonds at 3.45% to 6.25% maturing in
+scheduled semi-annual installments to December 1, 2035, December
+43,000,000 42,190,000
+1, 2038, December 1, 2043, December 1, 2048, December 1, 2053,
+and June 1, 2054.
+A-30 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+2024
+Series A serial and term bonds at 3.25% to 6.00% maturing in
+scheduled semi-annual installments to December 1, 2036, December
+65,000,000 64,305,000
+1, 2039, December 1, 2044, December 1, 2049, June 1, 2054, and
+December 1, 2054.
+2024
+Series B serial and term bonds at 2.95% to 5.75% maturing in
+scheduled semi-annual installments to December 1, 2036, December
+56,430,000 56,050,000
+1, 2039, December 1, 2044, December 1, 2049, December 1, 2053,
+and June 1, 2055.
+2025
+Series A serial and term bonds at 3.00% to 5.75% maturing in
+scheduled semi-annual installments to December 1, 2037, December
+75,000,000 75,000,000
+1, 2040, December 1, 2045, December 1, 2050, December 1, 2054,
+and June 1, 2055.
+Bonds outstanding Single Family I 606,165,000
+Unamortized bond premium (discount) 13,261,813
+Total Bonds Payable Single Family I $ 619,426,813
+Single Family II Mortgage Bonds Original Amount Balance
+2013
+Series A-1, A-2, and A-3 serial and term bonds at 0.20% to 3.75%
+maturing in semi-annual installments to December 1, 2025, December
+$ 73,000,000 $ 13,205,000
+1, 2028, December 1, 2033, December 1, 2037, December 1, 2038,
+December 1, 2043, and June 1, 2044.
+2014
+Series A-1, A-2 and A-3 serial and term bonds 0.25% to 4.15%
+maturing in semi-annual installments to December 1, 2025, December 71,500,000 20,070,000
+1, 2029, June 1, 2032, December 1, 2035 and December 1, 2043.
+2015
+Series A serial and term bonds at 0.20% to 3.50% maturing in semi-
+annual installments to December 1, 2026, December 1, 2029, 20,000,000 15,000
+December 1, 2034, and June 1, 2040.
+2018
+Series A serial and term bonds at 1.65% to 4.00% maturing in semi-
+annual installments to December 1, 2030, December 1, 2033,
+38,450,000 13,705,000
+December 1, 2038, December 1, 2043, December 1, 2048, and June 1,
+2049.
+2019
+Series A serial and term bonds at 1.85% to 4.25% maturing in semi-
+annual installments to December 1, 2030, December 1, 2033, 40,000,000 13,995,000
+December 1, 2038, June 1, 2045, and December 1, 2045.
+Bonds outstanding Single Family II 60,990,000
+Unamortized bond premium (discount) 605,599
+Total Bonds Payable Single Family II $ 61,595,599
+MONTANA BOARD OF HOUSING A-31
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Single Family XI Mortgage Bonds: Original Amount Balance
+2009
+Series D term bonds at 2.79% maturing December 1, 2041, converted
+from 2009 Series A and issued concurrently with 2012 Series A. Bonds
+$ 25,000,000 $ 4,085,000
+are issued as part of the Housing Finance Authority Initiative - New
+Issue Bond Program.
+2012
+Series A-1 and A-2 serial and term bonds, 0.375% to 4.00%, maturing
+in semi-annual installments to December 1, 2024, December 1, 2027, 56,280,000 3,805,000
+December 1, 2030, and December 1, 2038.
+Bonds outstanding Single Family XI 7,890,000
+Unamortized bond premium (discount) 32,946
+Total Bonds Payable Single Family XI $ 7,922,946
+Single Family General Obligation Bonds: Original Amount Balance
+2008
+Series A general obligation private placement bonds, variable rate, $ 497,942 $ 86,366
+maturing June 1, 2038.17
+Total Single Family Mortgage Bonds Payable, Net $ 689,031,724
+All single-family mortgage bonds are subject to mandatory sinking fund requirements of scheduled amounts
+commencing at various dates and to optional redemption at various dates at prices ranging from 100% to
+106%.
+Single Family I, II, and XI mortgage bonds are general obligation bonds of the Board within the individual
+bond indentures.
+Multifamily Mortgage Bonds: Original Amount Balance
+1998
+Series A serial and term bonds at 3.5% to 4.70% interest, maturing in
+scheduled annual installments to August 1, 2014, and on August 1, $ 1,625,000 $ 95,000
+2029.
+Total Multifamily Mortgage Bonds Payable, Net $ 95,000
+All multifamily mortgage bonds are subject to mandatory sinking fund requirements of scheduled amounts
+commencing at various dates and to optional redemption at various dates at prices ranging from 100% to
+102%. The 1998A Multifamily bonds are general obligations of the Board.
+Combined Total Single and Multifamily Bonds Payable, Net $ 689,126,724
+17 The Board has authorized the issuance of $1,000,000 of taxable general obligation bonds to finance second
+mortgage shared appreciation loans to provide assistance to Ravalli County teachers. As of June 30, 2025, $497,942 of
+bonds have been issued.
+A-32 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+The following is a summary of bond principal and interest requirements as of June 30, 2025:
+Fiscal year ending
+Single Family Multifamily Single and Single and
+Principal & Interest Principal and Multifamily Multifamily Interest
+June 30: Total Interest Total Principal Only Total Only Total
+2026 $ 50,406,766 $ 24,420 $ 23,140,000 $ 27,291,186
+2027 48,731,401 23,380 22,550,000 26,204,781
+2028 48,945,324 27,210 23,410,000 25,562,534
+2029 48,180,629 21,040 23,325,000 24,876,669
+2030 47,918,759 10,260 23,790,000 24,139,019
+2031-2035 225,440,411 — 117,035,000 108,405,411
+2036-2040 198,889,464 — 111,996,366 86,893,098
+2041-2045 177,206,217 — 112,680,000 64,526,217
+2046-2050 163,004,265 — 124,005,000 38,999,265
+2051-2055 104,426,231 — 93,295,000 11,131,231
+Total $ 1,113,149,467 $ 106,310 $ 675,226,366 $ 438,029,411
+Cash paid for interest expenses during the year ended June 30, 2025 was $23,600,859.
+Summary of Changes in Long-term Liabilities:
+Ending Amounts
+Beginning Balance Amounts Due in More
+Balance June 30, Due Within Than One
+July 1, 2024 Additions Reductions 2025 One Year Year
+Bonds payable
+Single Family, net
+609,142,729 $ 134,805,324 $ 54,916,329 689,031,724 $ 23,120,000 $ 665,911,724
+Multifamily, net 115,000 — 20,000 95,000 20,000 75,000
+Total Bonds/Notes
+Payable, net 609,257,729 134,805,324 54,936,329 689,126,724 23,140,000 665,986,724
+Arbitrage Payable 18 1,685,428 296,739 758,453 1,223,714 425,282 798,432
+Compensated Absences
+Payable18
+363,180 34,971 — 398,151 176,286 221,865
+Net Pension Liability 18 2,234,466 — 77,227 2,157,239 — 2,157,239
+Total OPEB Liability19 83,876 257,656 236,468 105,064 — 105,064
+Lease Payable 2,319,090 — 107,122 2,211,968 117,392 2,094,576
+SBITA Payable — 456,200 92,543 363,657 76,260 287,397
+Total other liabilities 6,686,040 1,045,566 1,271,813 6,459,793 795,220 5,664,573
+Total Business-type
+activities long-term
+liabilities
+$ 615,943,769 $ 135,850,890 $ 56,208,142 $ 695,586,517 $ 23,935,220 $ 671,651,297
+18 The compensated absences liability and pension liability will be liquidated by several enterprise funds. The arbitrage
+rebate tax payable will be liquidated by various rebate funds. The change in the Compensated Absences liability is
+presented as a net change.
+19 The OPEB plan allows retirees to participate, as a group, at a rate that does not cover all the related costs. This results
+in the reporting of an “implicit rate” subsidy on the related financial statements. While this liability is disclosed for
+financial purposes, it does not represent a legal liability of the Board.
+MONTANA BOARD OF HOUSING A-33
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11. BOND REDEMPTIONS
+During the year ended June 30, 2025, the Board redeemed Single Family and Multi-Family Mortgage
+Program bonds prior to scheduled maturity as follows:
+Single Family I
+December 1 $ 10,050,000
+June 1 12,610,000
+22,660,000
+Single Family II
+December 1 3,750,000
+June 1 1,525,000
+5,275,000
+Single Family XI
+December 1 245,000
+June 1 290,000
+535,000
+Total $ 28,470,000
+All bonds were redeemed at par or 100% of their compounded value to date of redemption.
+NOTE 12. COMMITMENTS
+Single Family Indentures — The Board has bond proceeds available for the purchase and reservation of
+single-family mortgages and Mortgage Backed Securities of approximately $42,553,344 in the Single Family I
+and II Indentures.
+The Board has also committed to purchase Single Family Mortgages as noted below:
+Foreclosure Prevention $ 50,000
+Down Payment Assistance 1,016,365
+Habitat for Humanity 3,966,000
+Total Single Family Commitments $ 5,032,365
+Single Family I — Reverse Annuity Mortgage Program Future Loan Amounts: $3,547,257
+Single Family I & II — funding for Homebuyer Education for fiscal year 2026: $215,000
+Housing Trust Fund Program — Reverse Annuity Mortgage Program Funds: $249,938
+A-34 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 13. EMPLOYEE BENEFIT PLANS
+Summary of Significant Accounting Policies – Defined Benefit Retirement Plan (DBRP)
+Montana Public Employee Retirement Administration (MPERA) prepares its financial statements using the
+accrual basis of accounting. The same accrual basis was used by MPERA for the purposes of determining the
+Net Pension Liability (NPL); Deferred Outflows of Resources and Deferred Inflows of Resources related to
+pensions; Pension Expense; the Fiduciary Net Position; and Additions to or Deductions from Fiduciary Net
+Position. Member contributions are recognized in the period in which contributions are due. Employer
+contributions are recognized when due and the employer has made a formal commitment to provide the
+contributions. Revenues are recognized in the accounting period they are earned and become measurable.
+Benefit payments and refunds are recognized in the accounting period in which they are due and payable in
+accordance with the benefit terms. Expenses are recognized in the period incurred. Investments are
+reported at fair value. MPERA adheres to all accounting principles generally accepted by the United States of
+America. MPERA applied all applicable pronouncements of the Governmental Accounting Standards Board
+(GASB).
+General Information about the Pension Plan
+Plan Description — The PERS-DBRP, administered by MPERA, is a multiple-employer, cost-sharing plan
+established July 1, 1945, and governed by Title 19, Chapters 2 and 3, Montana Code Annotated (MCA). This
+plan provides retirement benefits to covered employees of the State, and local governments, and certain
+employees of the Montana University System and school districts. Benefits are established by State law and
+can only be amended by the Legislature.
+All new members are initially members of the PERS-DBRP and have a 12-month window during which they
+may choose to remain in the PERS-DBRP or join the PERS-Defined Contribution Retirement Plan (DCRP) by
+filing an irrevocable election. Members may not be participants of both the defined benefit and defined
+contribution retirement plans.
+Benefits provided — The PERS-DBRP provides retirement, disability, and death benefits to plan members
+and their beneficiaries. Benefits are based on eligibility, years of service, and highest average compensation
+(HAC). Members rights are vested after five years of service.
+Service Retirement:
+Age 60, 5 years of membership service;
+• Hired prior to July 1, 2011: Age 65, regardless of membership service; or
+Any age, 30 years of membership service.
+Age 65, 5 years of membership service; or
+• Hired on or after July 1, 2011
+Age 70, regardless of membership service.
+Early Retirement:
+Age 50, 5 years of membership service; or
+• Hired prior to July 1, 2011:
+Any age, 25 years of membership service.
+• Hired on or after July 1, 2011: Age 55, 5 years of membership service.
+MONTANA BOARD OF HOUSING A-35
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Second Retirement (requires returning to PERS-covered employer or PERS service)
+• Retired before January 1, 2016, and accumulate less than 2 years additional service credit
+or retired on or after January 1, 2016, and accumulate less than 5 years additional service
+credit:
+◦ A refund of member's contributions plus return interest (currently 2.02% effective July 1,
+2018)
+◦ No service credit for second employment;
+◦ Start the same benefit amount the month following termination; and
+◦ Guaranteed Annual Benefit Adjustment (GABA) starts again in the January immediately
+following the second retirement.
+• Retired before January 1, 2016, and accumulate at least 2 years of additional service credit:
+◦ A recalculated retirement benefit based on provisions in effect after the initial
+retirement; and
+◦ GABA starts on the recalculated benefit in the January after receiving the new benefit for
+12 months.
+• Retired on or after January 1, 2016, and accumulate 5 or more years of service credit:
+◦ The same retirement as prior to the return to service;
+◦ A second retirement benefit as prior to the second period of service based on laws in
+effect upon the rehire date; and
+◦ GABA starts on both benefits in the January after receiving the original and the new
+benefit for 12 months.
+Member’s Highest Average Compensation (HAC)
+• Hired prior to July 1, 2011: HAC during any consecutive 36 months
+• Hired on or after July 1, 2011: HAC during any consecutive 60 months
+Compensation Cap
+• Hired on or after July 1, 2013: 110% annual cap on compensation considered
+as a part of a member’s highest average
+compensation
+Monthly Benefit Formula
+• Members hired prior to July 1, 2011:
+◦ Less than 25 years of membership service: 1.785% of HAC per year of service credit;
+◦ 25 years of membership service or more: 2% of HAC per year of service credit.
+• Members hired on or after July 1, 2011:
+◦ Less than 10 years of membership service: 1.5% of HAC per year of service credit;
+◦ 10 years or more, but less than 30 years, of membership service: 1.785% of HAC per year of
+service credit;
+◦ 30 years or more of membership service: 2% of HAC per year of service credit.
+A-36 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Guaranteed Annual Benefit Adjustment (GABA)
+After the member has completed 12 full months of retirement, the member’s benefit increases by the
+applicable percentage (provided above) each January, inclusive of other adjustments to the member’s
+benefit.
+• 3% for members hired prior to July 1, 2007
+• 1.5% for members hired between July 1, 2007 and June 30, 2013
+• Members hired on or after July 1, 2013:
+◦ 1.5% for each year PERS is funded at or above 90%;
+◦ 1.5% is reduced by 0.1% for each 2% PERS is funded below 90%; and
+◦ 0% whenever the amortization period for PERS is 40 years or more.
+Contributions — The State Legislature has the authority to establish and amend contribution rates. Member
+and employer contribution rates are specified by Montana Statute and are a percentage of the member’s
+compensation. Contributions are deducted from each member’s salary and remitted by participating
+employers.
+Special Funding — The State of Montana, as the non-employer contributing entity, paid to the Plan
+additional contributions that qualify as special funding. Those employers, including the Board, who received
+special funding are all participating employers.
+Not Special Funding — Per Montana law, state agencies and universities, including the Board, paid their own
+additional contributions. The employer paid contributions are not accounted for as special funding, but are
+reported as employer contributions.
+Member and employer contribution rates are shown in the table below.
+Member
+Fiscal Year Employer
+Hired < 07/01/11 Hired > 07/01/11
+2025 7.900% 7.900% 9.170%
+2024 7.900% 7.900% 9.170%
+2023 7.900% 7.900% 9.070%
+2022 7.900% 7.900% 8.970%
+2021 7.900% 7.900% 8.870%
+2020 7.900% 7.900% 8.770%
+2019 7.900% 7.900% 8.670%
+2018 7.900% 7.900% 8.570%
+2017 7.900% 7.900% 8.470%
+2016 7.900% 7.900% 8.370%
+2015 7.900% 7.900% 8.270%
+2014 7.900% 7.900% 8.170%
+2012 - 2013 6.900% 7.900% 7.170%
+2010 - 2011 6.900% 7.170%
+2008 - 2009 6.900% 7.035%
+2000 - 2007 6.900% 6.900%
+• Member contributions to the system of 7.9% are temporary and will be decreased to 6.9% on
+January 1 following actuary valuation results that show the amortization period has dropped below
+25 years and would remain below 25 years following the reduction of both the additional employer
+and additional member contribution rates.
+MONTANA BOARD OF HOUSING A-37
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+• Employer contributions to the system:
+◦ Effective July 1, 2014, following the 2013 Legislative session, PERS-employer contributions
+increase an additional 0.1% a year and will continue over 10 years through 2024. For fiscal years
+beginning after June 30, 2024, the additional contribution amounts stay at 2.27%. The
+additional employer contributions including the 0.27% added in 2007 and 2009, will terminate
+on January 1 following actuary valuation results that show the amortization period has dropped
+below 25 years and would remain below the 25 years following the reduction of both the
+additional employer and additional member contributions rates.
+◦ Effective July 1, 2013, employers are required to make contributions on working retirees’
+compensation. Member contributions for working retirees are not required.
+◦ The portion of employer contributions allocated to the Plan Choice Rate (PCR) are included in
+the employers reporting. The PCR was paid off effective March 2016 and the contributions
+previously directed to the PCR are now directed to member accounts.
+• Non-Employer Contributions:
+◦ Special Funding
+▪ The State contributed 0.1% of members' compensation on behalf of local government
+entities.
+▪ The State contributed 0.37% of members' compensation on behalf of school district
+entities.
+▪ The State contributed a Statutory Appropriation from the General Fund of $35,329,705.
+Pension Liabilities, Deferred Outflows of Resources and Deferred Inflows of Resources Related to Pensions
+GASB Statement 68 allows a measurement date of up to 12 months before the employer's fiscal year-end
+can be utilized to determine the Plan's Total Pension Liability (TPL). The basis for the TPL as of June 30, 2024,
+is on an actuarial valuation performed by the Plan's actuary as of June 30, 2024.
+The TPL minus the Fiduciary Net Position equals the Net Pension Liability (NPL). The proportionate share of
+the Board's and the State of Montana's NPL as of the measurement dates for June 30, 2024, and June 30,
+2023, are displayed below. The measurement date used throughout has a one-year delay to the reporting
+date for pension information. The Board's proportionate share equals the ratio of the employer's
+contributions to the sum of all employer and non-employer contributions during the measurement period.
+The State's proportionate share for a particular employer equals the ratio of the contributions for the
+particular employer to the total State contributions paid. The Board recorded a liability of $2,157,239 and
+the employers proportionate share of the collective NPL was 0.088% percent.
+Percent of Percent of
+As of measurement Net Pension Net Pension Collective NPL Collective NPL Change in
+date Liability as of Liability as of as of as of Percent of
+Collective NPL
+June 30, 2024 June 30, 2023 June 30, 2024 June 30, 2023
+Board of Housing
+Proportionate Share $ 2,157,239 $ 2,234,466 0.088 % 0.092 % (0.004)%
+State of Montana
+Proportionate Share
+associated with the
+Board 536,913 592,527 0.022 % 0.024 % (0.002)%
+Total $ 2,694,152 $ 2,826,993 0.110 % 0.116 % (0.006)%
+A-38 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Changes in actuarial assumptions and methods — There have been no changes to the assumptions or other
+inputs that affected the measurement of the TPL since the previous measurement date.
+Changes in benefit terms - There have been no changes in benefit terms since the previous measurement
+period.
+Changes in proportionate share - There were no changes to the Plan between the measurement date of the
+collective NPL and the Board's reporting date that are expected to have a significant effect on the employer's
+proportionate share of the collective NPL.
+Pension Expense - At June 30, 2025, the Board recognized the total pension expense of $152,633, including
+$123,859 for its proportionate share of the Plan's pension expense. Additionally, the Board recognized grant
+revenue of $28,774 for the support provided by the State for its proportionate share of the pension expense
+associated with the Board.
+Recognition of deferred inflows and outflows - At June 30, 2025, the Board reported its proportionate share
+of the Plan’s deferred outflows of resources and deferred inflows of resources from the following sources:
+Deferred Outflows Deferred Inflows of
+of Resources Resources
+Expected vs. Actual Experience $ 109,017 $ —
+Projected Investment Earning vs. Actual Investment Earnings — 47,971
+Changes in Proportion and Difference Between Employer
+Contributions and Proportionate Share of Contributions — 35,385
+Employer Contributions Subsequent to the Measurement Date 174,965 —
+Total $ 283,982 $ 83,356
+Other amounts reported as deferred outflows and inflows of resources related to pensions will be
+recognized in pension expense as follows:
+For the Measurement Year Recognition of Deferred Outflows and
+Ended June 30: Deferred Inflows in Future Years as an
+Increase or (Decrease) to the Pension
+Expense
+2025 $ (40,762)
+2026 $ 120,805
+2027 $ (33,724)
+2028 $ (20,658)
+Thereafter $ —
+Actuarial Assumptions
+The total pension liability in the June 30, 2024 actuarial valuation was determined using the following
+actuarial assumptions:
+Investment Return (net of admin expense, including inflation) 7.30%
+General Wage Growth (including inflation) 3.50%
+Inflation 2.75%
+Merit Increases 0% to 4.80%
+Postretirement Benefit Increases
+MONTANA BOARD OF HOUSING A-39
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Guaranteed Annual Benefit Adjustment (GABA) each January
+• After the member has completed 12 full months of
+retirement, the member's benefit increases by the
+applicable percentage (provided below) each January,
+inclusive of all other adjustments to the member's benefit.
+◦ Members hired prior to July 1, 2007 3.0%
+◦ Members hired between July 1, 2007 and June 30, 2013 1.5%
+◦ Members hired on or after July 1, 2013
+▪ For each year PERS is funded at or above 90% — the 1.5%
+1.5% is reduced by 0.1% for each 2.0% PERS is below
+90%
+▪ 0% whenever the amortization period for PERS is 40
+years or more 0.0%
+Mortality PUB-2010 General Amount Weighted
+Employer Mortality projected to
+• Active Participants
+2021 for males and females.
+Projected generationally using MP-
+2021.
+• Disabled Retirees PUB-2010 General Amount Weighted
+Disabled Retiree Mortality table,
+projected to 2021 with ages set
+forward one year for both males and
+females.
+• Contingent Survivors PUB-2010 General Amount Weighted
+Contingent Survivor Mortality
+projected to 2021 with ages set
+forward one year for males and
+females. Projected generationally
+using MP-2021.
+• Healthy Retirees
+PUB-2010 General Amount Weighted
+Healthy Retiree Mortality table
+projected to 2021, with ages set
+forward one year and adjusted 104%
+for males and 103% for females.
+Projected generationally using PM-
+2021.
+The actuarial assumptions and methods utilized in the June 30, 2024 valuation were developed in the five-
+year experience study for the period ending 2021. However, the current long-term rate of return is based on
+analysis in the experience study, without consideration for the administrative expenses analysis shown in the
+experience study.
+Discount Rate
+The discount rate used to measure the Total Pension Liability was 7.30%. The projection of cash flows used
+to determine the discount rate assumed that contributions from participating plan members, employers and
+non-employer contributing entities will be made based on the Board’s funding policy, which establishes the
+contractually required rates under Montana Code Annotated. The State contributes 0.10% of salaries for
+local governments and 0.37% for school districts. In addition, the State contributes a statutory appropriation
+from the general fund. Based on those assumptions, the System’s fiduciary net position was projected to be
+A-40 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+adequate to make all the projected future benefit payments of current plan members through the year 2128.
+Therefore, the long-term expected rate of return on pension plan investments was applied to all periods of
+projected benefit payments to determine the TPL. A municipal bond rate was not incorporated in the
+discount rate.
+Target Allocations
+The long-term rate of return on pension plan investments is reviewed as part of regular experience studies
+prepared for the Plan about every five years. The long-term rate of return as of June 30, 2024, is based on
+analysis in the experience study report dated May 2, 2022, without consideration for the administrative
+expense analysis shown. Several factors are considered in evaluating the long-term rate of return assumption
+including long-term historical data, estimates inherent in current market data, and an analysis in which best-
+estimate ranges of expected future rate of return assumption including long-term historical data, estimates
+inherent in current market data, and an analysis in which best-estimate ranges of expected future real rates
+of return (expected returns, net of investment expense and inflation), along with estimates of variability and
+correlations for each asset class. These ranges were combined to develop the long-term expected rate of
+return by weighting the expected future real rates of return by the target asset allocation percentage and
+then adding expected inflation. The assumption is intended to be a long-term assumption (30 to 50 years)
+and is not expected to change absent a significant change in the asset allocation, a change in the underlying
+inflation assumption, or a fundamental change in the market that alters expected returns in future years.
+The target asset allocation and best estimates of arithmetic real rates of return for each major asset class as
+of the most recent experience study, are summarized in the following table.
+Long-Term
+Target Asset Expected Real
+Asset Class Allocation Rate of Return
+Cash 3.00 % -0.33 %
+Domestic Equity 30.00 % 5.90%
+International Equity 17.00 % 7.14%
+Private Investments 15.00 % 9.13%
+Real Assets 5.00 % 4.03%
+Real Estate 9.00 % 5.41%
+Core Fixed Income 15.00 % 1.14%
+Non-Core Fixed Income 6.00 % 3.02%
+Total 100.0 %
+Sensitivity Analysis
+The following presents the Board's sensitivity of the NPL to the discount rate in the table below. A small
+change in the discount rate can create a significant change in liability. The NPL was calculated using the
+discount rate of 7.30%, as well as what the NPL would be if it were calculated using a discount rate 1.00%
+lower or 1.00% higher than the current rate.
+Current
+1.0% Decrease Discount Rate 1.0% Increase
+(6.30%) (7.30%) (8.30%)
+Board of Housing $ 3,144,788 $ 2,157,239 $ 1,329,132
+MONTANA BOARD OF HOUSING A-41
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Disclosure for the Defined Contribution Plan
+The Board contributed to the State of Montana Public Employee Retirement System Defined Contribution
+Retirement Plan (PERS-DCRP) for employees that have elected the DCRP. The PERS-DCRP is administered by
+the Public Employees Retirement Board (PERB) and is reported as a multiple-employer plan established July
+1, 2002, and governed by Title 19, chapters 2 and 3, MCA.
+All new PERS members are initially members of the PERS-DBRP and have a 12-month window during which
+they may choose to remain in the PERS-DBRP or join the PERS-DCRP by filing an irrevocable election.
+Members may not be participants of both the defined benefit and defined contribution retirement plans.
+Member and employer contribution rates are specified by State law and are a percentage of the member’s
+compensation. Contributions are deducted from each member’s salary and remitted by participating
+employers. The State Legislature has the authority to establish and amend contribution rates.
+Benefits are dependent upon eligibility and individual account balances. Participants are vested immediately
+in their own contributions and attributable income. Participants are vested after 5 years of membership
+service for the employer's contribution to individual accounts and the attributable income. Non-vested
+contributions are forfeited upon termination of employment per 19-3-2117(5), MCA. Such forfeitures are
+used to cover the administrative expenses of the PERS-DCRP.
+At the plan level for the measurement period ended June 30, 2024, the Board did not recognize a net
+pension liability or any pension expense for the defined contribution plan. Plan level non-vested forfeitures
+for the 363 employers that have participants in the PERS-DCRP totaled $1,868,819.
+Pension Plan Fiduciary Net Position
+The stand-alone financial statements of the Montana Public Employees Retirement Board (PERB) Annual
+Comprehensive Financial Report and the GASB 68 Report disclose the Plan's fiduciary net position. The
+reports are available from the PERB at P.O. Box 200131, Helena, Montana 59620-0131, (460) 444-3154 or
+both are available on the MPERA website at https://mpera.mt.gov/about/annualreports1/annualreports
+Deferred Compensation Plan
+The Board’s permanent employees are eligible to participate in the State of Montana’s deferred
+compensation plan. The compensation deferred is not available to employees until separation from State
+service, retirement, death, or upon an unforeseeable emergency when still employed and meeting IRS-
+specified criteria. The plan is governed by Internal Revenue Service Code (IRC) Section 457 and Title 19,
+Chapter 50, Montana Code Annotated (MCA). The Small Business Job Protection Act of 1996 resulted in
+changes to IRC Section 457 and Title 19, Chapter 50, MCA. Assets of the deferred compensation plan are
+required to be held in trust, custodial accounts or insurance company contracts for the exclusive benefit of
+participants and their beneficiaries.
+Health Care
+Board staff and dependents are eligible to receive medical and dental health care through the State Group
+Benefits Plan administered by the Montana Department of Administration Health Care & Benefits Division.
+Montana Department of Administration established premiums for medical, basic vision and dental coverage
+for employees at $30 per month. Administratively established medical premiums for the spouse of employee
+and employee's family vary between $101 and $327 per month depending on the medical plan selected,
+family coverage, and eligibility. Administratively established premiums vary between $19.90 and $28.90 per
+month for spouse and family dental coverage and between $7.64 and $22.26 per month for an optional
+vision hardware plan depending on family coverage and eligibility.
+A-42 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 14. ARBITRAGE REBATE LIABILITY
+The Board has established an accrual for the liability for estimated arbitrage payments due to the United
+States Treasury Department in accordance with the Internal Revenue Code. The amount of the rebate, in
+general terms, is the difference between the actual interest earned on investments and “allowable” interest
+as defined by Treasury Department regulations. Ninety percent of the estimated rebate will be paid to the
+United States Treasury within 60 days of the end of every fifth bond year until the bonds are retired, at
+which time 100% of the remaining rebate amount is due.
+The Board made $758,453 in arbitrage rebate cash payments, from the arbitrage rebate and yield liability
+accounts, to the United States Treasury Department in FY25. The related liability was $1,223,714 as of June
+30, 2025.
+Balance as of June 30, 2024 $1,685,428
+Plus: Increases 296,739
+Less: Reductions 758,453
+Balance as of June 30, 2025 $1,223,714
+NOTE 15. NO-COMMITMENT DEBT
+The Board is authorized by the State of Montana to issue bonds to finance affordable housing for Montana
+residents. To meet this purpose, the Board may issue bonds (no-commitment debt) on behalf of third parties
+(borrower).
+These bonds are not general obligations, debts, liabilities, or pledges of faith and credit of the Board, but are
+special limited obligations payable solely from pledged revenues and assets of the borrower. The Board is not
+obligated to make payment on the bonds from any of its assets and no additional or voluntary commitments
+of its resources have been extended by the Board. Accordingly, these bonds are not reflected in the
+accompanying financial statements.
+The bonds are not a debt of the State and the State is not liable for the bonds. Neither the State’s faith and
+credit or taxing power is pledged to the payment of bond principal or interest. The Board has no taxing
+power.
+The outstanding balances of these bonds as of June 30, 2025, are as follows:
+Bond Series Original Amount Balance
+Multifamily Housing Revenue Bond Series 2012 A-1
+(Rainbow/Silver Bow Apartments) $ 5,739,713 $ 4,567,545
+Multifamily Housing Revenue Bond Series 2015 A (Larkspur
+Commons Apartments) 15,500,000 10,735,701
+Multifamily Housing Revenue Bond Series 2017 (Big Sky Manor
+Apartments) 4,500,000 3,509,838
+Multifamily Housing Revenue Bond Series 2018 (Rockcress
+Commons Apartments) 15,000,000 8,260,676
+Multifamily Housing Revenue Bond Series 2018 (Starner
+Gardens Apartments) 15,000,000 8,875,604
+Multifamily Housing Revenue Bond Series 2020 (Emporda
+Apartments) 3,600,000 3,067,665
+Multifamily Housing Revenue Bond Series 2020 (Ponderosa
+Acres) 20,915,000 16,550,000
+MONTANA BOARD OF HOUSING A-43
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Bond Series Original Amount Balance
+Multifamily Housing Revenue Bond Series 2020 (Butte I
+Affordable Owner I) 13,200,000 6,535,000
+Multifamily Housing Revenue Bond Series 2020 (Butte
+Affordable Owner II)
+29,300,000 19,585,000
+Multifamily Housing Revenue Bond Series 2020 (Arrowleaf Park
+Apartments) 26,000,000 19,887,898
+Multifamily Housing Revenue Bond Series 2020 (Perennial Park
+Apartments) 19,000,000 12,386,438
+Multifamily Housing Revenue Bond Series 2021 (Trinity
+Apartments) 36,000,000 22,419,395
+Multifamily Housing Revenue Bond Series 2021 (DMS Portfolio
+Project) 28,500,000 19,215,000
+Multifamily Housing Revenue Bond Series 2021 (Boulevard
+Apartments) 7,000,000 4,120,000
+Multifamily Housing Revenue Bond Series 2021 (Castlebar
+Apartments) 13,525,000 10,450,824
+Multifamily Housing Revenue Bond Series 2022 (Junegrass) 22,500,000 14,600,000
+Multifamily Housing Revenue Bond Series 2023 (Great Falls
+Project) 15,381,160 10,893,310
+Multifamily Housing Revenue Bond Series 2023 (14th & Patrick
+Apts Project) 35,000,000 35,000,000
+Multifamily Housing Revenue Bond Series 2023 (North 3rd
+Apartments Project) 49,000,000 37,208,586
+Multifamily Housing Revenue Bond Series 2023B (Baxter
+Apartments Project) 3,000,000 3,000,000
+Multifamily Housing Revenue Bond Series 2023 (Highland
+Manor Project) 4,000,000 3,158,124
+Multifamily Housing Revenue Bond Series 2023 (Parkview
+Apartments Project) 11,500,000 11,500,000
+Multifamily Housing Revenue Bond Series 2023 (Union Place
+Apartments Project) 8,860,000 7,638,490
+Multifamily Housing Revenue Bonds (Aurora Apartments)
+Series 2024 27,155,000 27,155,000
+Multifamily Housing Revenue Bonds Series 2024 (Twin Creek 4
+Apartments Project) 8,537,000 8,537,000
+Multifamily Housing Revenue Obligation Series 2024 (Bigfork
+Senior Housing) 3,600,000 2,567,206
+Multifamily Housing Revenue Obligation Series 2024 (The
+Manor Apartments Project) 6,500,000 3,641,065
+Multifamily Housing Revenue Obligation Series 2025 (Midtown
+Aspen Project) 4,070,000 413,515
+Multifamily Housing Revenue Bonds Series 2025 (Creekside
+Apartments Project) 18,000,000 9,413,855
+Multifamily Housing Revenue Bonds Series 2025A (Franklin
+School Apartments Project) 3,100,000 3,100,000
+Multifamily Housing Revenue Bonds Series 2025B (Franklin
+School Apartments Project) 2,500,000 2,500,000
+Total No-Commitment Bonds Outstanding $ 350,492,735
+A-44 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 16. REFUNDING AND DEFERRED BOND COSTS
+The Board may refund all or a portion of the Board’s outstanding bonds when it is economically
+advantageous to do so. Refundings involve the issuance of new debt with the proceeds being used to repay
+previously issued debt. During the fiscal year ending June 30, 2025, the Board’s Series 2013B bonds were
+refunded with a portion of the Series 2024B bonds.
+GASB Statement No. 23, Accounting and Financial Reporting for Refundings of Debt Reported by Proprietary
+Activities, and GASB Statement No. 65, requires deferred costs to be amortized over the shorter of the life of
+the refunded bonds or the life of the refunding bonds. Previous to the implementation of GASB Statement
+No. 65, deferred refunding costs included unamortized cost of issuance of the refunded bonds.
+Deferred Bond Costs
+On June 30, 2025, there were $1,952 in unamortized deferred refunding costs from prior years’ refundings.
+These costs are associated with the refundings and were deferred. They are being amortized under the GASB
+Statement No. 23 and GASB Statement No. 65 guidelines.
+NOTE 17 OTHER POST-EMPLOYMENT BENEFITS (OPEB)
+General Information Non-trust Plan
+The Board provides optional post-employment (OPEB) healthcare benefits in accordance with Section 2-18-
+704, MCA. This coverage applies to the following employees and dependents who elect to continue coverage
+and pay administratively established contributions: 1) employees and dependents who retire under
+applicable retirement provisions and 2) surviving dependents of deceased employees. Medical, dental, and
+vision benefits are available through this plan. The plan is not administered through a trust; as such, there
+are no plan assets accumulated to offset the total OPEB liability.
+In accordance with Section 2-18-704, MCA, the Board provides post-retirement health insurance benefits to
+eligible employees who receive retirement benefits from the Public Employees' Retirement System (PERS),
+and elect to start medical coverage within 60 days of leaving employment. Spouses, unmarried dependent
+children, and surviving spouses are also eligible for the plan. Detail on retirement plans is available in Note
+13.
+Plan Description
+The OPEB plan is reported as a single-employer plan for the State of Montana. The Board is a participating
+employer under the State OPEB plan. The Board pays for post-employment healthcare benefits on a pay-as-
+you-go basis. Section 2-18-812, MCA gives authority for establishing and amending the funding policy to the
+Montana Department of Administration for the State group health insurance plan. The healthcare OPEB plan
+allows retirees to participate, as a group, at a rate that does not cover all of the related costs. This results in
+reporting the total OPEB liability in the related financial statements and note disclosures. Reported
+contributions are not a result of direct funding to the plan or for associated liabilities, but are a measure of
+the difference in retiree payments into the plan and actual medical costs associated with those individuals
+paid for by the plan.
+As listed in the Montana State 2025 Retirement Health Benefits Planning Book, the retiree medical
+premiums varied between $504.00 and $2,456.00 per month, depending on coverage selected and Medicare
+eligibility. Administratively established dental contributions vary between $42.37 and $71.27, and vision
+hardware contributions vary between $7.64 and $22.26, depending on coverage selected. The plan provides
+different coinsurance amounts and deductibles depending on whether members use participating or non-
+MONTANA BOARD OF HOUSING A-45
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+participating providers. The plan automatically reduces claim reimbursement for members eligible for
+Medicare, even if the member is not enrolled in Medicare. The premium changes were based on actual
+claims experience and actuarial projections based on the experience and trends.
+Benefits Provided
+Non-Medicare retirees may continue the core plan, which includes medical, dental, and basic life insurance.
+Vision coverage is optional.
+Medicare-eligible retirees may continue medical coverage. Dental and vision coverage is optional, and no life
+insurance is available. Medicare eligible retirees must enroll in both Part A and Part B Medicare coverage.
+Medical, dental and/or vision coverage is optional for dependents.
+A retiree may continue coverage for a spouse who does not work for the State. If coverage is not continued,
+the spouse may only be added when the spouse loses eligibility for other coverage. If the retiree and spouse
+both work for the State, the retiree may elect to be covered under the working spouse and retains the right
+to exercise the transfer option. Dependent medical or dental coverage can only be continued if the retiree
+continues medical and/or dental coverage.
+A surviving spouse may elect to continue their medical, dental, and/or vision coverage until Medicare age, at
+which time they will be offered COBRA and no longer be eligible for the plan. For surviving spouses already
+of Medicare age, they will be offered COBRA and lose eligibility under the plan at the end of the offering
+month.
+Basis of Accounting
+Total OPEB liability is reported on an accrual basis on the Board financial statement. Plan member
+contributions are recognized in the period in which the contributions are made. Benefits and refunds are
+recognized when due and payable in accordance with the terms of the plan.
+The plan states that an employee enrolled in the OPEB plan who (a) at least meets the early retirement
+criteria defined by the Montana Public Employees' Retirement Administration (MPERA); and (b) makes
+arrangements to continue post-retirement coverage with the benefit office within 60 days of the date active
+employee coverage ends, may continue with the OPEB plan on a self-pay basis, retroactive back to the date
+active employee coverage was lost, and adhere to these provisions. Therefore, each plan does not include
+terminated employees who have accumulated benefits but are not yet receiving them. There have been no
+significant changes in the number covered or the type of coverage as of June 30, 2025.
+As of December 31, 2024, there are 35 active employees and 2 retired employees, spouses and surviving
+spouses for a total of 37 participating in the plan.
+Schedule of Changes in Total OPEB Liability
+The following table presents the other items related to, and changes in, the total OPEB liability:
+Balances at
+June 30, 2024 $ 83,876
+Service Cost 1,824
+Interest 3,516
+Differences in Experience (6,839)
+Changes of Assumptions or Other Inputs 23,421
+Benefit Payments (734)
+Net Changes in TOL 21,188
+Balances at
+June 30, 2025 $ 105,064
+A-46 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Actuarial Methods and Assumptions
+The total OPEB liability (TOL) measured under GASB 75 is based upon service cost and more standardized
+reporting assumptions than prior GASB Statements. For a pay-as-you-go public entity, GASB 75 requires a 20-
+year current municipal bond discount rate to establish an Actuarially Determined Contribution (ADC). The
+GASB 75 valuation is further required to show both historical and projected future net changes in TOL, as
+well as sensitivity to changes in key underlying assumptions. Actuarially determined amounts are subject to
+continual revisions, meaning actual results are compared with past expectations and new estimates are
+made about the future. Actuarial calculations reflect a long-term perspective. The projection of benefits for
+financial reporting purposes does not explicitly incorporate the potential effects of legal or contractual
+funding limitations on the pattern of cost sharing between the employer and plan members in the future.
+The schedule of changes in the Board's TOL and related ratios, presented as required supplementary
+information following the notes to the financial statements, is designed to present multi-year trend
+information about whether the actuarial value of the plan TOL is increasing or decreasing over time relative
+to the actuarial liabilities for benefits. The schedule of changes in the Boards' TOL and related ratios are
+based on the substantive plan (the plan as understood by the employer and the plan members). This
+includes the types of benefits provided at the time of each valuation and the historical pattern of sharing of
+benefit costs between the employer and plan members to that point.
+MONTANA BOARD OF HOUSING A-47
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+The State's OPEB plan TOL actuarial valuation on December 31, 2024, rolled forward to the measurement
+date March 31, 2025, actuarial valuation was determined using the following actuarial assumptions and
+other inputs, applied to all periods included in the measurement, unless otherwise specified:
+Retiree/Surviving Spouse Spouse
+Contributions (weighted average):
+Before Medicare eligibility $16,620 $7,610
+After Medicare eligibility $6,048 $5,379
+Actuarial valuation date December 31, 2024
+Measurement date March 31, 2025
+Actuarial funding method Entry age normal
+Amortization method Level percent of payroll, open basis
+Asset valuation method Not applicable since no assets meet the definition of plan assets under
+GASB 75
+Actuarial assumptions:
+Interest/discount rate 4.57%
+Projected payroll increases 3.50%
+Average retirement age
+Active Employees 61.16
+Inactive Employees 70.11
+Participation 40% of future retirees and 70% of future retirees who elect medical
+coverage and are married are assumed to elect spousal coverage as well.
+Marital status Actual spouse information is used for current retirees. Marital status at
+retirement for future members assumed to be 70%.
+Males are assumed to be 3 years older than females.
+Healthcare cost trend rates The current medical health care cost trend rate is 7.6%. Annual
+decreases begin in 2026 with an ultimate rate of 4.0%. The current
+prescription health care cost trend rate is 9.6%. Annual decreases start
+in 2026, with an ultimate rate of 4.0%.
+Retiree Contribution Increases Current year was based on actual trend. For pre-65 contributions, it
+starts with 4.0% in 2025, increases to 6.8% in 2026 and then matches
+the Health Care Cost Trend Rate blended 80% medical / 20% Rx from
+2027 onward. For post-65 contributions, it starts with 4.0% in 2025,
+increases to 4.2% in 2026 and then matches the Health Care Cost Trend
+Rate blended 50% medical / 50% Rx from 2027 onward.
+Mortality - Contributing Members: For general MPERA members, mortality follows the Pub-2010 General
+Employee table, projected generationally using MP-2021.
+Mortality - Retired: For general MPERA retirees, mortality follows the Pub-2010 General Retiree table set
+forward 1 year and adjusted 104% for males, or adjusted 103% for females, projected generationally using
+MP-2021.
+Mortality - Surviving Beneficiaries: For general MPERA survivors, mortality follows the Pub-2010 Contingent
+Survivor table set forward 1 year for males and females, projected generationally using MP-2021.
+A-48 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+Mortality - Disabled: For general MPERA retirees, mortality follows the Pub-2010 General Disabled table set
+forward 1 year for males and females, projected generationally using MP-2021.
+Changes in actuarial assumptions and methods since last measurement date:
+1. An inflow of $18,461 due to an increase in the interest rate from 4.12% to 4.57%.
+2. An outflow of $41,882 due to updated healthcare trend assumptions.
+Changes Since Prior Valuation: The discount rate increased from 4.12% to 4.57%. Projected Payroll increase
+based on 2024 MPERA pension report assumptions. Decrement tables updated per the October 2024
+MPERA actuarial reports. Updated trend projections based short-term on industry expectations and long-
+term on the 2025 Getzen model. Due to Inflation Reduction Act, applied separate healthcare and
+contribution trend rates for Medical, Pre-65 Med/Rx, and Post-65 Med/Rx.
+Sensitivity of Total OPEB Liability to Changes in the Discount Rate
+The following presents the total OPEB liability of the Board, as well as what the Board’s total OPEB liability
+would be if it were calculated using a discount rate that is 1-percentage-point lower (DR-1 percent) or 1-
+percentage-point higher (DR+1 percent) than the current discount rate:
+State Total OPEB BOH Total OPEB
+Liability Liability
+1.0% Decrease 3.57% $ 64,567,821 $ 161,757
+Current Discount Rate 4.57% $ 46,687,155 $ 105,064
+1.0% Increase 5.57% $ 33,895,299 $ 66,079
+Sensitivity of Total OPEB Liability to Changes in the Healthcare Cost Trend Rate
+The following presents the total OPEB liability of the Board, as well as what the Board’s total OPEB liability
+would be if it were calculated using healthcare cost trend rates that are 1-percentage-point lower or 1-
+percentage-point higher than the current healthcare cost trend rates:
+Trend Rate Trend Rate State Total OPEB BOH Total OPEB
+for medical for pharmacy Liability Liability
+1.0% Decrease 6.60% 8.60% $ 34,209,746 $ 66,725
+Current Discount Rate 7.60% 9.60% $ 46,687,155 $ 105,064
+1.0% Increase 8.60% 10.60% $ 64,468,430 $ 162,052
+The Board’s total OPEB liability of $105,064 is approximately 0.23% of the total State's total OPEB liability of
+$46,687,155 as measured on March 31, 2025, as a basis of the total group insurance premiums paid.
+OPEB Expense and Deferred Outflows of Resources and Deferred Inflows of Resources Related to OPEB
+For the year ended June 30, 2025, the Board had an OPEB expense of $2,684. At June 30, 2025, the Board
+reported deferred outflows of resources and deferred inflows of resources related to OPEB from the
+following sources:
+Deferred Outflows of Deferred Inflows of
+Resources Resources
+Difference between expected and actual experience $ 118,150 $ 121,981
+Changes of assumptions or other inputs 126,569 181,169
+Contributions subsequent to the measurement date — 1,721
+Total $ 244,719 $ 304,871
+MONTANA BOARD OF HOUSING A-49
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+The Board's employer contributions and benefit expenses between April 1, 2025, and June 30, 2025, were
+$2,848 and $1,128, respectively, resulting a net benefit payment amount of $(1,720) to be recognized as
+deferred inflows.
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to OPEB will
+be recognized in OPEB expense as follows:
+Amount recognized in OPEB
+Year Ended expense as an increase or
+June 30 (decrease) to OPEB expense
+2026 $ (2,656)
+2027 $ (2,656)
+2028 $ (2,656)
+2029 $ (2,656)
+2030 $ (1,809)
+Thereafter $ (45,998)
+General Information About the DCRP OPEB Plan
+General Information — Section 19-3-2141, MCA, establishes a long-term disability plan trust fund (PERS-
+DCRP Disability) for all State of Montana employees that participate in the Public Employee's Retirement
+System-Defined Contribution Retirement Plan (PERS-DCRP). All new PERS members are initially members of
+the Public Employee's Retirement System-Defined Benefit Retirement Plan (PERS-DBRP) and have a 12-
+month window during which they may choose to transfer to the PERS-DCRP or remain in the PERS-DBRP by
+filing an irrevocable election. If an election is not filed, the member remains in the PERS-DBRP. Members
+may not be members of both the defined contribution and defined benefit retirement plans. Only those
+participants that choose the PERS-DCRP are covered by the PERS-DCRP Disability plan.
+Plan Description — The PERS-DCRP Disability is a multiple-employer, cost-sharing plan that covers employees
+of the State, local governments, and certain employees of the university system and school districts, who are
+not covered by a separate retirement system governed by Title 19, MCA. The PERS-DCRP Disability plan
+provides disability benefits to PERS-DCRP plan members who are vested in the plan and are currently
+ineligible for retirement.
+A separate trust has been established for purposes of providing disability benefits to PERS-DCRP Disability
+plan members, and it is accounted for as a fiduciary fund. The assets are held in a trust capacity for the
+beneficiaries. The Public Employee Retirement System issues a publicly available annual report, which
+includes financial statements and required supplemental information for the plan. Those reports may be
+obtained online (http://mpera.mt.gov) or by contacting the following:
+Public Employees' Retirement Board
+100 North Park, Suite 200
+PO Box 200131
+Helena, MT 59620-0131
+NOTE 18. INTERFUND BALANCES
+The following interfund balances have been eliminated from the Combined Statement of Revenues,
+Expenses and Changes in Net Position to report the Statement of Revenues, Expenses and Changes in Net
+Position for all programs, net of interfund activity, for June 30, 2025:
+Fee Income and Servicers Fees related to in-house loan servicing $ 2,291,840
+A-50 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 19. OPERATION DISRUPTION RISK
+Certain external events, such as pandemics, natural disasters, severe weather, technological emergencies,
+riots, acts of war or terrorism, or other circumstances, could potentially disrupt the Board’s ability to conduct
+its business. A prolonged disruption in the Board’s operations could have an adverse effect on the Board’s
+financial condition and results of operations. To plan for and to mitigate the impact such an event may have
+on its operations, the Board has developed a Montana Board of Housing Business Continuity Plan and a
+Housing Division Business Continuity Plan (collectively, the “Plan”). The Plan is designed to (i) evaluate the
+impact of such an event on the Board’s business function and processes, (ii) provide a priority ranking of
+these functions and processes to assist the Board’s leadership in allocating recovery resources based upon
+such priorities, and (iii) provide procedures to protect, restore or recover, as the case may be, the Board’s
+business functions and processes. No assurances can be given that the Board’s efforts to mitigate the effects
+of an emergency or other event will be successful in preventing any and all disruptions to its operations in
+the event of an emergency.
+The Board is dependent on electronic information technology systems to deliver high quality, coordinated,
+and cost efficient services. These systems may contain sensitive information or support critical operational
+functions which may be valued for unauthorized purposes. As a result, the electronic systems and networks
+of the Board may be targets of cyberattack. Because the Board operates within the State of Montana
+Department of Commerce, the State has taken, and continues to take, measures to protect its information
+technology systems, and the private, confidential information that those systems may contain, against
+cyberattack. While the State employs information technology professionals and utilizes operational
+safeguards that are tested periodically, no assurance can be given that such measures will protect the Board
+against all cybersecurity threats and attacks.
+NOTE 20. CONTINGENCIES
+The Board could be involved in various legal actions arising in the normal course of business. In the opinion
+of management, such matters will not have a material adverse effect upon the financial position of the
+Board.
+NOTE 21. RELATED PARTIES
+The Board uses an attorney for general legal services throughout the year who is employed with a firm that
+is partially owned by a Board member who served on the Board during the current fiscal year. The total paid
+for legal services was $84,582 for the year ended June 30, 2025. The State of Montana approves the attorney
+contract for the Board and the transactions are in the ordinary course of operations and handled the in the
+same manner as all other transactions of the Board. The Board member’s term ended in June 2025.
+MONTANA BOARD OF HOUSING A-51
+A COMPONENT UNIT OF THE STATE OF MONTANA
+NOTES TO THE FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 22. SUBSEQUENT EVENTS
+On July 7, 2025, the Centennial Village Housing Partners, LP Multifamily Housing Revenue Obligation closed
+for an amount not to exceed $5,986,000.
+On July 14, 2025, the Board approved a resolution Multifamily Housing Revenue Bonds for Rocky Mountain
+Flats in an aggregate principal amount not to exceed $73,000,000.
+On August 27, 2025, the Aspen Village Housing Partners Multifamily Housing Revenue Obligation closed for
+an amount not to exceed $9,500,000.
+On August 28, 2025, the Board issued Single Family Mortgage Bonds, 2025 Series B (tax exempt) bonds in the
+aggregate principal amount of $75,000,000 based on the approved Bond Resolution 25-0609 SF02_2025B.
+The 2025 Series B bonds were issued and secured by the Trust Indenture dated March 10, 1977, as amended
+and restated as of May 1, 1997, between the Board and Wilmington Trust, National Association, as amended
+and supplemented, and a 2025 Series B Supplemental Trust Indenture, dated as of August 1, 2025. The 2025
+Series B Bonds were issued to finance the purchase of Mortgage-Backed Securities and Down Payment
+Assistance Loans and to fund costs of issuance for the bonds.
+On August 28, 2025, the BHMT Property LLC and NWMT Property LLC Multifamily Housing Revenue
+Obligation closed for an amount not to exceed $36,000,000.
+On September 8, 2025, the Board approved a resolution for Multifamily Housing Revenue Bonds for Hidden
+Creek 4 Housing Associates LLLP in an aggregate principal amount not to exceed $40,000,000.
+A-52 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+REQUIRED SUPPLEMENTARY INFORMATION
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+Other Post-Employment Benefits (Financial Statements Note 17):
+The State of Montana State Employee Group Benefits (SEGB) OPEB plan allows retirees to participate, as a
+group, at a rate that does not cover all of the related costs. This results in the reporting of an "implied rate"
+subsidy in the related financial statements and footnotes.
+Total Board OPEB Liability and Related Ratios
+Last 10 Fiscal Years20
+Proportionate
+For the Fiscal Year Board
+Share of the
+Covered
+Share Covered
+Ended June 30 Total OPEB Liability
+O
+C
+P
+o
+E
+ll
+B
+e c
+L
+t
+i
+i
+a
+v
+b
+e
+i l
+T
+it
+o
+y
+t a
+a
+l
+s
+Employee Payroll
+Em
+Pa
+p
+y
+l
+r
+o
+o
+y
+l
+e
+l
+e
+a Percentage
+2018 $ 51,602 0.10 % $ 774,320 6.66 %
+2019 $ 54,230 0.10 % $ 684,204 7.93 %
+2020 $ 64,138 0.14 % $ 753,654 8.56 %
+2021 $ 380,223 0.26 % $ 1,882,278 20.33 %
+2022 $ 318,672 0.27 % $ 1,952,120 16.32 %
+2023 $ 82,204 0.27 % $ 1,839,557 4.51 %
+2024 $ 83,876 0.27 % $ 1,903,941 4.60 %
+2025 $ 105,064 0.23 % $ 2,424,849 4.33 %
+Note to Schedule: No assets are accumulated in a trust that meets the criteria in paragraph 4 of GASB
+Statement 75.
+Factors that Significantly Affect Trends in the Amounts Reported for Total OPEB Liabilities:
+2025 Changes in Assumptions include:
+1. An outflow of $41,882 due to updated healthcare trend assumptions.
+2. An inflow of $18,461 due to an increase in the interest rate from 4.12% to 4.57%.
+20 Schedules are intended to present information for 10 years. Additional years will be displayed as they
+become available.
+MONTANA BOARD OF HOUSING A-53
+A COMPONENT UNIT OF THE STATE OF MONTANA
+REQUIRED SUPPLEMENTARY INFORMATION
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+Pension Benefits (Financial Statement Note 13 ):
+Schedule of Proportionate Share of the Net Pension Liability
+For the Last Ten Fiscal Years
+(Dollar amounts in thousands)
+Plan
+Fiduciary
+Net
+Board's Position as
+Proportion of Board's NPL a Percent
+As of Net Pension as a Percent of Total
+Measurement Liability (NPL) Total Covered of Covered Pension
+Date June 30, as a Percentage Board's NPL State's NPL Board's NPL Payroll Payroll Liability
+2015 0.10 % $ 1,452 $ — $ 1,452 $ 1,174 123.65 % 78.40 %
+2016 0.12 % $ 2,047 $ — $ 2,047 $ 1,208 169.52 % 74.71 %
+2017 0.12 % $ 2,279 $ — $ 2,279 $ 1,399 162.82 % 73.75 %
+2018 0.09 % $ 1,836 $ 590 $ 2,426 $ 1,445 127.05 % 73.47 %
+2019 0.09 % $ 1,871 $ 586 $ 2,457 $ 1,443 129.66 % 73.85 %
+2020 0.10 % $ 2,554 $ 774 $ 3,328 $ 1,498 170.50 % 68.90 %
+2021 0.08 % $ 1,536 $ 435 $ 1,971 $ 1,828 84.01 % 79.91 %
+2022 0.09 % $ 2,114 $ 607 $ 2,721 $ 1,512 139.76 % 73.66 %
+2023 0.09 % $ 2,234 $ 593 $ 2,827 $ 1,646 135.78 % 73.93 %
+2024 0.09 % $ 2,157 $ 537 $ 2,694 $ 1,715 125.77 % 74.77 %
+Schedule of Contributions
+For the Last Ten Fiscal Years
+(Dollar amounts in thousands)
+Contractually Contribution Contributions as a
+Required Contributions Deficiency Covered Percent of
+As of June 30, Contributions Made (Excess) Payroll Covered Payroll
+2016 $ 106 $ 106 $ — $ 1,208 8.77 %
+2017 $ 119 $ 119 $ — $ 1,399 8.51 %
+2018 $ 124 $ 124 $ — $ 1,445 8.58 %
+2019 $ 126 $ 126 $ — $ 1,443 8.73 %
+2020 $ 133 $ 133 $ — $ 1,498 8.88 %
+2021 $ 165 $ 165 $ — $ 1,828 9.03 %
+2022 $ 137 $ 137 $ — $ 1,512 9.06 %
+2023 $ 150 $ 150 $ — $ 1,646 9.11 %
+2024 $ 158 $ 158 $ — $ 1,715 9.21 %
+2025 $ 175 $ 175 $ — $ 1,903 9.20 %
+A-54 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+REQUIRED SUPPLEMENTARY INFORMATION
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+Factors that Significantly Affect Trends in the Amounts Reported for Pension Liabilities:
+Changes in Benefit Terms
+The following changes to the Plan provisions were made as identified:
+2017:
+Working Retiree Limitations – for PERS
+Effective July 1, 2017, if a PERS retiree returns as an independent contractor to what would otherwise be
+PERS-covered employment, general contractor overhead costs are excluded from PERS working retiree
+limitations.
+Refunds
+• Terminating members eligible to retire may, in lieu of receiving a monthly retirement benefit, refund
+their accumulated contributions in a lump sum.
+• Terminating members with accumulated contributions between $200 and $1,000 who wish to rollover
+their refund must do so within 90 days of termination of service.
+• Trusts, estates, and charitable organizations listed as beneficiaries are entitled to receive only a lump-
+sum payment.
+Interest Credited to Member Accounts
+• Effective July 1, 2017, the interest rate credited to member accounts increased from 0.25% to 0.77%.
+Lump-sum Payouts
+• Effective July 1, 2017, lump-sum payouts in all systems are limited to the member’s accumulated
+contributions rather than the present value of the member’s benefit.
+Disabled PERS Defined Contribution (DC) Members
+• PERS members hired after July 1, 2011, have a normal retirement age of 65. PERS DC members hired
+after July 1, 2011 who became disabled were previously only eligible for a disability benefit until age 65.
+Effective July 1, 2017, these individuals will be eligible for a disability benefit until they reach age 70,
+thus ensuring the same 5-year time period available to PERS DC disabled members hired prior to July 1,
+2011, who have a normal retirement age of 60 and are eligible for a disability benefit until age 65.
+Changes in Actuarial Assumptions and Methods
+• Methods and assumptions used in calculations of actuarially determined contributions.
+◦ Actuarially determined contributions are determined on the valuation date payable in the fiscal
+year beginning immediately following the valuation date. The following actuarial assumptions
+and methods were used to determine contribution rates reported for fiscal year ending June
+30, 2024, which were based on the results of the June 30, 2023 actuarial valuation:
+MONTANA BOARD OF HOUSING A-55
+A COMPONENT UNIT OF THE STATE OF MONTANA
+REQUIRED SUPPLEMENTARY INFORMATION
+FOR THE FISCAL YEAR ENDED JUNE 30, 2025
+General Wage Growth * 3.50%
+7.30%, net of pension plan investment and administrative
+Investment Rate of Return * expenses
+'* Includes inflation at 2.75%
+Merit Salary Increase 0% to 4.80%
+Asset Valuation Method Four-year smoothed market
+Actuarial Cost Method Entry age Normal
+Amortization Method Level percentage of payroll, open
+Remaining Amortization Period 30 years
+PUB-2010 General Amount Weighted Employee Mortality
+projected to 2021 for males and females. Projected
+Mortality (Active Participants) generationally using MP-2021.
+PUB-2010 General Amount Weighted Disabled Retiree
+mortality table, projected to 2021, set forward one year
+Mortality (Disabled Retirees) for both males and females.
+PUB-2010 General Amount Weighted Contingent Survivor
+Mortality projected to 2021 with ages set forward one
+year for males and females. Projected generationally using
+Mortality (Contingent Survivors) MP-2021.
+PUB-2010 General Amount Weighted Healthy Retiree
+Mortality Table projected to 2021, with ages set forward
+one year and adjusted 104% for males and 103% for
+Mortality (Health Retirees) females. Projected generationally using MP-2021.
+The actuarial assumptions and methods utilized in the June 30, 2023 valuation, were developed in the five-
+year experience study for the period ending 2021.
+A-56 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF NET POSITION
+AS OF JUNE 30, 2025
+Single Family Single Family Single Family Single Family Multifamily
+Indenture I Indenture II Indenture XI Program Totals Program Fund
+Assets
+Current Assets
+Restricted assets:
+Cash and Cash Equivalents $ 21,847,429 $ 4,064,240 $ 989,883 $ 26,901,552 $ 1,530,406
+Prepaid Expense 86,285 56,673 — 142,958 4,313
+Total Current Assets 21,933,714 4,120,913 989,883 27,044,510 1,534,719
+Non-current Assets
+Restricted assets:
+Cash and Cash Equivalents 71,406,165 18,749,980 218,786 90,374,931 8,070,621
+Investments 70,407,853 6,084,475 4,979,608 81,471,936 —
+Mortgage Loans Receivable, Net 534,973,705 88,164,428 9,794,126 632,932,259 9,142,715
+Corporate Advance Receivable 4,427 — — 4,427 —
+Accounts Receivable 9,589 — — 9,589 —
+Interest Receivable 3,053,329 464,521 210,637 3,728,487 47,383
+P
+R
+u
+ig
+r
+h
+c
+t
+h
+s
+a se of Mortgage Servicing
+— — — — —
+Intangible Right-To-Use Asset, net 319,556 319,556 — 639,112 106,518
+Subscription-Based IT
+Arrangements, net — — — — —
+Total Non-current Assets 680,174,624 113,782,960 15,203,157 809,160,741 17,367,237
+Total Assets 702,108,338 117,903,873 16,193,040 836,205,251 18,901,956
+Deferred Outflow of Resources
+Deferred Refunding Costs — — 1,952 1,952 —
+Deferred OPEB Outflow 40,068 40,068 — 80,136 13,356
+Deferred Pension Outflow 50,224 50,224 — 100,448 16,741
+Total Deferred Outflows 90,292 90,292 1,952 182,536 30,097
+Liabilities
+Current Liabilities
+Accounts Payable 418,406 141,204 4,382 563,992 6,018
+Funds Held For Others — — — — 1,486,024
+Accrued Interest - Bonds Payable 2,487,150 191,446 20,501 2,699,097 2,058
+Bonds Payable, Net 18,470,000 3,685,000 965,000 23,120,000 20,000
+Arbitrage Rebate Payable to U.S.
+Treasury Department 425,282 — — 425,282 —
+Accrued Compensated Absences 28,395 28,395 — 56,790 10,241
+Leases Payable - Current 18,196 18,195 — 36,391 6,065
+SBITA Payable - Current — — — — —
+Total Current Liabilities 21,847,429 4,064,240 989,883 26,901,552 1,530,406
+Non-current Liabilities
+Bonds Payable, Net 600,956,813 57,996,965 6,957,946 665,911,724 75,000
+Arbitrage Rebate Payable to U.S.
+Treasury Department 360,409 150,525 287,498 798,432 —
+Accrued Compensated Absences 80,066 43,913 — 123,979 15,004
+Net Pension Liability 381,520 381,520 — 763,040 127,173
+OPEB Liability 17,359 17,359 — 34,718 5,786
+Leases Payable - Non-current 324,659 324,660 — 649,319 108,220
+SBITA Payable - Non-current — — — — —
+Total Non-current Liabilities 602,120,826 58,914,942 7,245,444 668,281,212 331,183
+Total Liabilities 623,968,255 62,979,182 8,235,327 695,182,764 1,861,589
+Deferred Inflow of Resources
+Deferred OPEB Inflow 49,755 49,755 — 99,510 16,585
+Deferred Pension Inflow 14,742 14,742 — 29,484 4,914
+Total Deferred Inflows 64,497 64,497 — 128,994 21,499
+Net Position
+Net Investment in Capital Assets (23,299) (23,299) — (46,598) (7,767)
+Restricted for Bondholders:
+Single Family Programs 72,018,237 52,350,102 7,959,665 132,328,004 —
+Various Recycled Mortgage
+Setaside Programs 2,623,683 2,623,683 — 5,247,366 —
+Multifamily Programs — — — — 17,056,732
+Reverse Annuity Program 3,547,257 — — 3,547,257 —
+Restricted for Affordable Housing
+Loan Program — — — — —
+Total Net Position $ 78,165,878 $ 54,950,486 $ 7,959,665 $ 141,076,029 $ 17,048,965
+Continued on next page
+MONTANA BOARD OF HOUSING A-57
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF NET POSITION
+AS OF JUNE 30, 2025
+(continued)
+Mo
+L
+r
+o
+t
+a
+g
+n
+a ge Hous
+F
+i
+u
+n
+n
+g
+d
+T rust Housin
+F
+g
+u
+M
+nd
+o ntana
+TOTAL
+Assets
+Current Assets
+Restricted assets:
+Cash and Cash Equivalents $ 9,962,503 $ 163,213 $ 33 $ 38,557,707
+Prepaid Expense 39,670 37,129 — 224,070
+Total Current Assets 10,002,173 200,342 33 38,781,777
+Non-current Assets
+Restricted assets:
+Cash and Cash Equivalents 3,128,670 3,044,776 1,420,091 106,039,089
+Investments — — — 81,471,936
+Mortgage Loans Receivable, Net 256,727 2,710,815 2,221,982 647,264,498
+Corporate Advance Receivable 1,760,043 — — 1,764,470
+Accounts Receivable — — — 9,589
+Interest Receivable 495,040 1,162,502 200,237 5,633,649
+P
+R
+u
+ig
+r
+h
+c
+t
+h
+s
+a se of Mortgage Servicing
+2,544,348 — — 2,544,348
+Intangible Right-To-Use Asset, net 996,465 319,556 — 2,061,651
+Subscription-Based IT
+Arrangements, net — 438,014 — 438,014
+Total Non-current Assets 9,181,293 7,675,663 3,842,310 847,227,244
+Total Assets 19,183,466 7,876,005 3,842,343 886,009,021
+Deferred Outflow of Resources
+Deferred Refunding Costs — — — 1,952
+Deferred OPEB Outflow 111,159 40,068 — 244,719
+Deferred Pension Outflow 116,569 50,224 — 283,982
+Total Deferred Outflows 227,728 90,292 — 530,653
+Liabilities
+Current Liabilities
+Accounts Payable 3,054,601 21,450 33 3,646,094
+Funds Held For Others 6,782,900 6,314 — 8,275,238
+Accrued Interest - Bonds Payable — — — 2,701,155
+Bonds Payable, Net — — — 23,140,000
+Arbitrage Rebate Payable to U.S.
+Treasury Department — — — 425,282
+Accrued Compensated Absences 68,262 40,993 — 176,286
+Leases Payable - Current 56,740 18,196 — 117,392
+SBITA Payable - Current — 76,260 — 76,260
+Total Current Liabilities 9,962,503 163,213 33 38,557,707
+Non-current Liabilities
+Bonds Payable, Net — — — 665,986,724
+Arbitrage Rebate Payable to U.S.
+Treasury Department — — — 798,432
+Accrued Compensated Absences 47,554 35,328 — 221,865
+Net Pension Liability 885,506 381,520 — 2,157,239
+OPEB Liability 47,201 17,359 — 105,064
+Leases Payable - Non-current 1,012,378 324,659 — 2,094,576
+SBITA Payable - Non-current — 287,397 — 287,397
+Total Non-current Liabilities 1,992,639 1,046,263 — 671,651,297
+Total Liabilities 11,955,142 1,209,476 33 710,209,004
+Deferred Inflow of Resources
+Deferred OPEB Inflow 139,021 49,755 — 304,871
+Deferred Pension Inflow 34,216 14,742 — 83,356
+Total Deferred Inflows 173,237 64,497 — 388,227
+Net Position
+Net Investment in Capital Assets (72,653) 51,058 — (75,960)
+Restricted for Bondholders:
+Single Family Programs 7,355,468 — — 139,683,472
+Various Recycled Mortgage
+Setaside Programs — — — 5,247,366
+Multifamily Programs — 475,159 — 17,531,891
+Reverse Annuity Program — 6,166,107 — 9,713,364
+Restricted for Affordable Housing
+Loan Program — — 3,842,310 3,842,310
+Total Net Position $ 7,282,815 $ 6,692,324 $ 3,842,310 $ 175,942,443
+A-58 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Single Family Single Family Single Family Multifamily
+Indenture I Indenture II Indenture XI Program Totals Program Fund
+OPERATING REVENUES
+Interest Income - Mortgage Loans $ 23,100,608 $ 3,573,620 $ 478,340 $ 27,152,568 $ 293,885
+Interest Income Investments 5,531,229 1,556,275 354,613 7,442,117 371,692
+Net Increase (Decrease)
+in Fair Value of Investments (430,856) (28,375) 39,352 (419,879) (11)
+Fee Income 946,076 5,692 — 951,768 1,161,145
+Other Income 7 2 — 9 3
+Total Operating Revenues 29,147,064 5,107,214 872,305 35,126,583 1,826,714
+OPERATING EXPENSES
+Interest on Bonds 20,267,973 2,416,112 268,738 22,952,823 5,027
+Servicer Fees 3,183,051 343,765 39,939 3,566,755 4,612
+Contracted Services 337,568 206,125 — 543,693 68,263
+Amortization of Deferred Refunding 19,631 — 3,905 23,536 —
+Bond Issuance Costs 1,852,097 — — 1,852,097 —
+General and Administrative 1,000,826 607,499 — 1,608,325 392,419
+Arbitrage Rebate Expense 130,210 87,749 78,780 296,739 —
+Pension Expense 26,994 26,994 — 53,988 8,998
+Other Post-Employment Benefits 462 462 — 924 154
+Total Operating Expenses 26,818,812 3,688,706 391,362 30,898,880 479,473
+Operating Income (Loss) 2,328,252 1,418,508 480,943 4,227,703 1,347,241
+Nonoperating Revenue (Expenses)
+Pensions - Non-employer
+Contributions 5,089 5,089 — 10,178 1,696
+Nonoperating Income (Loss) 5,089 5,089 — 10,178 1,696
+Income (Loss) Before Transfers 2,333,341 1,423,597 480,943 4,237,881 1,348,937
+Transfers From (To) Other Fund 4,181,659 (4,162,659) (619,000) (600,000) —
+Increase (Decrease) in Net Position 6,515,000 (2,739,062) (138,057) 3,637,881 1,348,937
+Net Position, July 1 71,650,878 57,689,548 8,097,722 137,438,148 15,700,028
+Net Position, June 30 $ 78,165,878 $ 54,950,486 $ 7,959,665 $ 141,076,029 $ 17,048,965
+Continued on next page
+MONTANA BOARD OF HOUSING A-59
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+Mortgage HOUSING
+(continued) Se
+L
+r
+o
+vi
+a
+c
+n
+in g
+TR
+H
+U
+O
+S
+U
+T
+S
+F
+IN
+U
+G
+N D
+MO
+FU
+N
+N
+TA
+D
+N A ELIMINATION21 TOTAL
+OPERATING REVENUES
+Interest Income - Mortgage Loans $ — $ 163,356 $ 52,270 $ — $ 27,662,079
+Interest Income Investments 6,702 66,944 34,863 — 7,922,318
+Net Increase (Decrease)
+in Fair Value of Investments — — — — (419,890)
+Fee Income 3,164,263 1,283,854 — (2,291,840) 4,269,190
+Other Income 7 1,461 — — 1,480
+Total Operating Revenues 3,170,972 1,515,615 87,133 (2,291,840) 39,435,177
+OPERATING EXPENSES
+Interest on Bonds — — — — 22,957,850
+Servicer Fees 745,029 — 413 (2,291,840) 2,024,969
+Contracted Services 204,591 72,585 (60) — 889,072
+Amortization of Deferred Refunding — — — — 23,536
+Bond Issuance Costs — — — — 1,852,097
+General and Administrative 1,783,919 977,063 — — 4,761,726
+Arbitrage Rebate Expense — — — — 296,739
+Pension Expenses 62,653 26,994 — — 152,633
+Other Post-Employment Benefits 1,145 462 — — 2,685
+Total Operating Expenses 2,797,337 1,077,104 353 (2,291,840) 32,961,307
+Operating Income (Loss) 373,635 438,511 86,780 — 6,473,870
+Nonoperating Revenue (Expenses)
+Pensions - Non-employer
+Contributions 11,811 5,089 — — 28,774
+Nonoperating Income (Loss) 11,811 5,089 — 28,774
+Income (Loss) Before Transfers 385,446 443,600 86,780 6,502,644
+Transfers From (To) Other Fund 600,000 — — — —
+Increase (Decrease) to Net Position 985,446 443,600 86,780 — 6,502,644
+Net Position, July 1 6,297,369 6,248,724 3,755,530 — 169,439,799
+Net Position, June 30 $ 7,282,815 $ 6,692,324 $ 3,842,310 $ — $ 175,942,443
+21 Interfund transactions are eliminated in order to tie to the Statement of Revenues, Expense and Changes
+in Net Position, see Note 18.
+A-60 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Single Family Single Family
+SINGLE FAMILY MULTIFAMILY
+Indenture I Indenture II Indenture XI
+FU
+P
+N
+RO
+D
+G
+T
+R
+O
+A
+T
+M
+AL S
+PR
+F
+O
+U
+G
+N
+R
+D
+A
+S
+M
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Receipts for Sales and Services $ 946,076 $ 5,692 $ — $ 951,768 $ 1,161,145
+C
+an
+o
+d
+lle
+I
+c
+n
+t
+t
+i
+e
+o
+r
+n
+e
+s
+s t
+( P
+o
+a
+n
+y o
+Lo
+u
+a
+ts
+n s
+- Reverse Annuity) on Loans
+49,469,255 21,045,460 1,837,003 72,351,718 (2,284,270)
+C
+A
+o
+cc
+ll
+o
+e
+u
+ct
+n
+i
+t
+o
+s
+n s (Disbursements) for Loan Escrow
+(503) — — (503) 113,559
+Cash Payments for Loans $ (80,417,455) (1,925,000) — (82,342,455) —
+Payments to Suppliers for Goods and Services (3,916,742) (840,545) (40,185) (4,797,472) (180,636)
+Payments to Employees (626,354) (396,414) — (1,022,768) (245,361)
+Corporate (Advances) Repayments 44,716 — — 44,716 —
+Other Operating Revenues 9 3 — 12 2
+Net Cash Provided by (Used for)
+Operating Activities (34,500,998) 17,889,196 1,796,818 (14,814,984) (1,435,561)
+CASH FLOWS FROM NON-CAPITAL FINANCING
+ACTIVITIES:
+P
+N
+a
+o
+y
+t
+m
+es
+e nt of Principal and Interest on Bonds and
+(57,902,838) (17,554,409) (1,803,152) (77,260,399) (25,460)
+Proceeds from Issuance of Bonds and Notes 131,430,000 — — 131,430,000 —
+Payment of Bond Issuance Costs (1,615,457) — — (1,615,457) —
+Premium Received on Bonds 3,375,324 — — 3,375,324 —
+Transfers from (to) Other Funds 4,181,659 (4,162,659) (619,000) (600,000) —
+Purchase of Mortgage Servicing Rights — — — — —
+Net Cash Provided by (Used for)
+Non-capital Financing Activities 79,468,688 (21,717,068) (2,422,152) 55,329,468 (25,460)
+CASH FLOWS FROM CAPITAL AND RELATED
+FINANCING ACTIVITIES:
+P
+C
+u
+o
+r
+s
+c
+ts
+h
+)
+a se of Fixed Assets (SBITA Implementation
+— — — — —
+Principal Payments on Leases (16,604) (16,604) — (33,208) (5,535)
+Interest Payments on Leases (5,808) (5,808) — (11,616) (1,934)
+Principal Payments on SBITAs — — — — —
+Net Cash Provided by (Used for)
+Capital and Related Financing Activities (22,412) (22,412) — (44,824) (7,469)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of Investments (80,545,582) — — (80,545,582) —
+Proceeds from Sales or Maturities of Investments 41,213,262 15,308,441 313,711 56,835,414 7,040,837
+Interests and Dividends on Investments 5,290,341 1,266,323 344,670 6,901,334 358,069
+Payments for Arbitrage Rebate Tax (758,453) — — (758,453) —
+Net Cash Provided by (Used for)
+Investing Activities (34,800,432) 16,574,764 658,381 (17,567,287) 7,398,906
+Net Increase (Decrease) in Cash
+and Cash Equivalents 10,144,846 12,724,480 33,047 22,902,373 5,930,416
+Restricted Cash and Cash Equivalents, July 1 83,108,748 10,089,740 1,175,622 94,374,110 3,670,611
+Restricted Cash and Cash Equivalents, June 30 $ 93,253,594 $ 22,814,220 $ 1,208,669 $ 117,276,483 $ 9,601,027
+Continued on next page
+MONTANA BOARD OF HOUSING A-61
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+MORTGAGE HOUSING
+(continued) SER
+LO
+VI
+A
+C
+N
+IN G
+TR
+H
+U
+O
+S
+U
+T
+S
+F
+IN
+U
+G
+N D
+MO
+FU
+N
+N
+TA
+D
+N A TOTAL
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Receipts for Sales and Services $ 3,164,263 $ 1,283,854 $ — $ 6,561,030
+C
+an
+o
+d
+lle
+I
+c
+n
+t
+t
+i
+e
+o
+r
+n
+e
+s
+s t
+( P
+o
+a
+n
+y o
+Lo
+u
+a
+ts
+n s
+- Reverse Annuity) on Loans
+1,219,240 631,814 135,740 72,054,242
+C
+A
+o
+cc
+ll
+o
+e
+u
+ct
+n
+i
+t
+o
+s
+n s (Disbursements) for Loan Escrow
+545,572 — — 658,628
+Cash Payments for Loans — (483,562) — (82,826,017)
+Payments to Suppliers for Goods and Services 1,852,900 (386,703) (833) (3,512,744)
+Payments to Employees (1,313,142) (616,453) — (3,197,724)
+Corporate (Advances) Repayments (216,695) — — (171,979)
+Other Operating Revenues 5 1,460 — 1,479
+Net Cash Provided by (Used for)
+Operating Activities 5,252,143 430,410 134,907 (10,433,085)
+CASH FLOWS FROM NON-CAPITAL FINANCING
+ACTIVITIES:
+P
+N
+a
+o
+y
+t
+m
+es
+e nt of Principal and Interest on Bonds and
+— — — (77,285,859)
+Proceeds from Issuance of Bonds and Notes — — — 131,430,000
+Payment of Bond Issuance Costs — — — (1,615,457)
+Premium Received on Bonds — — — 3,375,324
+Transfers from (to) Other Funds 600,000 — — —
+Purchase of Mortgage Servicing Rights (640,142) — — (640,142)
+Net Cash Provided by (Used for)
+Non-capital Financing Activities (40,142) — — 55,263,866
+CASH FLOWS FROM CAPITAL AND RELATED
+FINANCING ACTIVITIES
+P
+C
+u
+o
+r
+s
+c
+ts
+h
+)
+a se of Fixed Assets (SBITA Implementation
+— (27,440) — (27,440)
+Principal Payments on Leases (51,775) (16,604) — (107,122)
+Interest Payments on Leases (18,109) (5,808) — (37,467)
+Principal Payments on SBITAs — (92,543) — (92,543)
+Net Cash Provided by (Used for)
+Capital and Related Financing Activities (69,884) (142,395) — (264,572)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchase of Investments — — — (80,545,582)
+Proceeds from Sales or Maturities of Investments — — — 63,876,251
+Interests and Dividends on Investments 6,879 66,634 33,990 7,366,906
+Payments for Arbitrage Rebate Tax — — — (758,453)
+Net Cash Provided by (Used for)
+Investing Activities 6,879 66,634 33,990 (10,060,878)
+Net Increase (Decrease) in Cash
+and Cash Equivalents 5,148,996 354,649 168,897 34,505,331
+Restricted Cash and Cash Equivalents, July 1 7,942,177 2,853,340 1,251,227 110,091,465
+Restricted Cash and Cash Equivalents, June 30 $ 13,091,173 $ 3,207,989 $ 1,420,124 $ 144,596,796
+A-62 MONTANA BOARD OF HOUSING
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+RECONCILIATION OF OPERATING INCOME TO NET CASH PROVIDED BY OPERATING ACTIVITIES
+SINGLE FAMILY MULTI FAMILY
+Single Family Single Family Single Family PROGRAM PROGRAM
+Indenture I Indenture II Indenture XI FUND TOTALS FUNDS
+Operating Income (Loss) $ 2,328,252 $ 1,418,508 $ 480,943 $ 4,227,703 $ 1,347,241
+ADJUSTMENTS TO RECONCILE OPERATING INCOME TO NET CASH PROVIDED BY(USED FOR) OPERATING ACTIVITIES
+Amortization 588,172 (149,674) (6,500) 431,998 7,389
+Interest Expense 21,579,503 2,593,759 279,143 24,452,405 6,961
+Interest on Investments (5,531,229) (1,556,275) (354,613) (7,442,117) (371,692)
+Decr (Incr) Fair Value of Investments 430,856 28,375 (39,352) 419,879 11
+Arbitrage Rebate Tax 130,210 87,749 78,780 296,739 —
+Change in Assets and Liabilities:
+Decr (Incr) Mortgage Loans
+Receivable (53,697,323) 15,464,961 1,342,218 (36,890,144) (2,579,140)
+Decr (Incr) Other Assets (313,033) 77,676 16,445 (218,912) 224
+Incr (Decr) Accounts Payable (23,069) (46,895) (246) (70,210) 1,848
+Incr (Decr) Funds Held for
+Others (503) — — (503) 113,559
+Incr (Decr) Net Pension Liability
+and Related Accounts (182,403) (182,403) — (364,806) 95,984
+Incr (Decr) Compensated
+Absences Payable 30,991 (5,162) — 25,829 3,435
+Incr (Decr) Total OPEB Liability
+and Related Accounts 158,578 158,577 — 317,155 (61,381)
+Net Cash Provided by (Used for)
+Operating Activities $ (34,500,998) $ 17,889,196 $ 1,796,818 $ (14,814,984) $ (1,435,561)
+Continued on next page
+MONTANA BOARD OF HOUSING A-63
+A COMPONENT UNIT OF THE STATE OF MONTANA
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+RECONCILIATION OF OPERATING INCOME TO NET CASH PROVIDED BY OPERATING ACTIVITIES
+MORTGAGE HOUSING
+LOAN HOUSING MONTANA
+(continued) SERVICING TRUST FUND FUND TOTAL
+Operating Income (Loss) $ 373,635 $ 438,511 $ 86,780 $ 6,473,870
+ADJUSTMENTS TO RECONCILE OPERATING INCOME TO NET CASH PROVIDED BY (USED FOR) OPERATING ACTIVITIES
+Amortization 69,119 67,792 — 576,298
+Interest Expense 18,109 5,808 — 24,483,283
+Interest on Investments (6,700) (66,944) (33,862) (7,921,315)
+Decr (Incr) Fair Value of Investments — — — 419,890
+Arbitrage Rebate Tax — — — 296,739
+Change in Assets and Liabilities:
+Decr (Incr) Mortgage Loans
+Receivable 1,982,707 (83,408) 85,598 (37,484,387)
+Decr (Incr) Other Assets (308,350) 65,560 (3,129) (464,607)
+Incr (Decr) Accounts Payable 2,614,706 (28,492) (480) 2,517,372
+Incr (Decr) Funds Held for
+Others 545,572 6,314 — 664,942
+Incr (Decr) Net Pension Liability
+and Related Accounts (39,741) 287,952 — (20,611)
+Incr (Decr) Compensated
+Absences Payable (1,038) 6,745 — 34,971
+Incr (Decr) Total OPEB Liability
+and Related Accounts 4,124 (269,428) — (9,530)
+Net Cash Provided by (Used for)
+Operating Activities $ 5,252,143 $ 430,410 $ 134,907 $ (10,433,085)
+Noncash Investing, Capital, and Financing Activities: During FY25, the Board investments decreased in fair
+value by $419,890. The fair value decrease was not realized in cash during FY25.
+The Board recognized a subscription asset and related liability of $456,200 for a new subscription-based IT
+arrangement under GASB 96. The Board incurred $27,440 in implementation costs related to the new
+subscription-based IT arrangement. These costs were paid in cash and are reported as capital outflows in the
+Statement of Cash Flows.
+
+Report on Internal Control and Compliance
+
+LEGISLATIVE AUDIT DIVISION
+B-1
+Angus Maciver, Legislative Auditor Deputy Legislative Auditors:
+Kenneth E. Varns, Legal Counsel Alexa O’Dell
+William Soller
+Miki Cestnik
+Report on Internal Control Over Financial Reporting
+and on Compliance and Other Matters Based on an Audit
+of Financial Statements Performed in Accordance With
+G
+overnment
+A
+uditinG
+S
+tAndArdS
+The Legislative Audit Committee
+of the Montana State Legislature:
+We have audited, in accordance with the auditing standards generally accepted in the United States
+of America and the standards applicable to the financial audits contained in Government Auditing
+Standards issued by the Comptroller General of the United States, the financial statements of the
+Montana Board of Housing (board), as of and for the year ended June 30, 2025, and the related notes
+to the financial statements, which collectively comprise the board’s basic financial statements, and have
+issued our report thereon dated December 5, 2025.
+Report on Internal Control Over Financial Reporting
+In planning and performing our audit of the financial statements, we considered the board’s internal
+control over financial reporting as a basis for designing audit procedures that are appropriate in the
+circumstances for the purpose of expressing our opinion on the financial statements, but not for the
+purpose of expressing an opinion on the effectiveness of the board’s internal control. Accordingly, we do
+not express an opinion on the effectiveness of board’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent,
+or detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or a
+combination of deficiencies, in internal control, such that there is a reasonable possibility that a material
+misstatement of the entity’s financial statements will not be prevented, or detected and corrected, on a
+timely basis. A significant deficiency is a deficiency, or a combination of deficiencies, in internal control
+that is less severe than a material weakness, yet important enough to merit attention by those charged
+with governance.
+Our consideration of internal controls was for the limited purpose described in the first paragraph of
+this section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies and therefore, material weaknesses or significant deficiencies may
+exist that have not been identified. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. We did identify a certain
+deficiency in internal control, described below, that we consider to be a significant deficiency.
+• In the prior audit (#24-07), we determined certain business processes within the board’s
+information system do not allow for adequate segregation of duties. These circumstances
+continued to exist in fiscal year 2025.
+Room 171 • State Capitol Building • PO Box 201705 • Helena, MT • 59620-1705
+Phone (406) 444-3122 • FAX (406) 444-9784 • E-mail lad@legmt.gov
+B-2
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the board’s financial statements are free from
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements, noncompliance with which could have a direct and material effect
+on the financial statements. However, providing an opinion on compliance with those provisions was
+not an objective of our audit, and accordingly, we do not express such an opinion. The results of our
+tests disclosed no instances of noncompliance or other matters that are required to be reported under
+Government Auditing Standards.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the
+board’s internal control or on compliance. This report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the board’s internal control and
+compliance. Accordingly, this communication is not suitable for any other purpose.
+Respectfully submitted,
+/s/ Alexa O’Dell
+Alexa O’Dell, CPA
+Deputy Legislative Auditor
+Helena, MT
+December 5, 2025
+M B
+ontana oard
+H
+of ousing
+B r
+oard esponse
+
+C-1
+C-2

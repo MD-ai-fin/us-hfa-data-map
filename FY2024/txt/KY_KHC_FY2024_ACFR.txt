@@ -1,0 +1,2310 @@
+KENTUCKY HOUSING CORPORATION
+
+        FINANCIAL STATEMENTS
+
+                    June 30, 2024
+                                           KENTUCKY HOUSING CORPORATION
+                                                    FINANCIAL STATEMENTS
+                                                             June 30, 2024
+
+                                                                      CONTENTS
+
+                                                                                                                                                 Pages
+Independent Auditor's Report......................................................................................................................... 1-3
+Management's Discussion and Analysis (Unaudited) .................................................................................. 4-14
+Basic Financial Statements for the year ended June 30, 2024:
+
+      Corporation-Wide Statement of Net Position .............................................................................................. 15
+      Corporation-Wide Statement of Activities ................................................................................................... 16
+      Balance Sheet - Governmental Funds ........................................................................................................ 17
+      Statement of Revenues, Expenses and Changes in Fund Net Position - Governmental Funds ................. 18
+      Statement of Net Position - Proprietary Funds............................................................................................ 19-20
+      Statements of Revenues, Expenses and Changes in Fund Net Position - Proprietary Funds .................... 21
+      Statement of Cash Flows - Proprietary Funds ............................................................................................ 22-23
+      Statement of Fiduciary Funds Net Position ................................................................................................. 24
+      Statement of Changes in Fiduciary Net Position......................................................................................... 25
+      Notes to Financial Statements .................................................................................................................... 26-40
+
+Supplementary Information for the year ended June 30, 2024:
+      Housing Revenue Bond Funds:
+            Combining Statement of Net Position .................................................................................................. 41
+            Combining Statement of Revenues, Expenses and Changes in Fund Net Position ............................ 42
+            Combining Statement of Cash Flows................................................................................................... 43-44
+                                                                                                                                                   Crowe LLP
+
+                                                                                                                                                                                         Independent Member Crowe Global
+
+                                            INDEPENDENT AUDITOR'S REPORT
+
+Board of Directors
+Kentucky Housing Corporation
+Frankfort, Kentucky
+
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the financial statements of the governmental activities, the business-type activities, each
+major fund, and the aggregate remaining fund information of the Kentucky Housing Corporation (the
+"Corporation"), a component unit of the Commonwealth of Kentucky, as of and for the year ended June 30,
+2024, and the related notes to the financial statements, which collectively comprise the Corporation's basic
+financial statements as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the respective financial position of the governmental activities, the business-type activities, each
+major fund, and the aggregate remaining fund information of the Corporation, as of June 30, 2024, and the
+respective changes in financial position and, where applicable, cash flows thereof for the year then ended
+in accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards (Government Auditing Standards), issued by the Comptroller General of the United States. Our
+responsibilities under those standards are further described in the Auditor's Responsibilities for the Audit of
+the Financial Statements section of our report. We are required to be independent of the Corporation, and
+to meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating to
+our audit. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a
+basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or error.
+
+                                                               (Continued)
+                                                                                                                                           1.
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about the Corporation's ability to continue
+as a going concern for twelve months beyond the financial statement date, including any currently known
+information that may raise substantial doubt shortly thereafter.
+
+Auditor's Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes
+our opinions. Reasonable assurance is a high level of assurance but is not absolute assurance and
+therefore is not a guarantee that an audit conducted in accordance with GAAS and Government Auditing
+Standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve collusion,
+forgery, intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would
+influence the judgment made by a reasonable user based on the financial statements.
+
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+
+     � Exercise professional judgment and maintain professional skepticism throughout the audit.
+     � Identify and assess the risks of material misstatement of the financial statements, whether due to
+
+          fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+          include examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+          statements.
+     � Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+          that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+          effectiveness of the Corporation's internal control. Accordingly, no such opinion is expressed.
+     � Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+          accounting estimates made by management, as well as evaluate the overall presentation of the
+          financial statements.
+     � Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+          that raise substantial doubt about the Corporation's ability to continue as a going concern for a
+          reasonable period of time.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+
+Required Supplementary Information
+
+Accounting principles generally accepted in the United States of America require that the management's
+discussion and analysis, as listed in the table of contents, be presented to supplement the basic financial
+statements. Such information is the responsibility of management and, although not a part of the basic
+financial statements, is required by the Governmental Accounting Standards Board who considers it to be
+an essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with auditing standards generally accepted in the United States
+of America, which consisted of inquiries of management about the methods of preparing the information
+and comparing the information for consistency with management's responses to our inquiries, the basic
+financial statements, and other knowledge we obtained during our audit of the basic financial statements.
+We do not express an opinion or provide any assurance on the information because the limited procedures
+do not provide us with sufficient evidence to express an opinion or provide any assurance.
+
+                                                               (Continued)
+
+                                                                                                                                           2.
+Supplementary Information
+
+Our audit was conducted for the purpose of forming opinions on the financial statements that collectively
+comprise the Corporation's basic financial statements. The combining financial statements of the Housing
+Revenue Bond funds are presented for purposes of additional analysis and are not a required part of the
+basic financial statements. Such information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the basic financial
+statements. The information has been subjected to the auditing procedures applied in the audit of the basic
+financial statements and certain additional procedures, including comparing and reconciling such
+information directly to the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional procedures in accordance
+with auditing standards generally accepted in the United States of America. In our opinion, the combining
+financial statements of the Housing Revenue Bond funds are fairly stated, in all material respects, in relation
+to the basic financial statements as a whole.
+
+Other Reporting Required by Government Auditing Standards
+
+In accordance with Government Auditing Standards, we have also issued our report dated September 30,
+2024 on our consideration of the Corporation's internal control over financial reporting and on our tests of
+its compliance with certain provisions of laws, regulations, contracts, and grant agreements and other
+matters. The purpose of that report is solely to describe the scope of our testing of internal control over
+financial reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the Corporation's internal control over financial reporting or on compliance. That report is
+an integral part of an audit performed in accordance with Government Auditing Standards in considering
+the Corporation's internal control over financial reporting and compliance.
+
+                     Crowe LLP
+
+Lexington, Kentucky
+September 30, 2024
+
+                                3.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+Management's discussion and analysis of Kentucky Housing Corporation's ("Corporation") financial
+performance provides an overview of the Corporation's financial activities for the fiscal year ended June 30,
+2024. It should be read in conjunction with the Corporation's financial statements.
+
+Financial Highlights
+
+      Corporation-wide net position increased $18.2 million, resulting from an increase in net position
+          attributable to the Corporation's business-type activities of $19.5 million and a decrease of $1.3
+          million attributable to the Corporation's governmental activities.
+
+      Single-family loan originations for the year totaled $616.3 million, an increase of over $129.8 million
+          from the prior year level. The increased loan volume is attributed to the Corporation issuing
+          Mortgage Revenue Bonds ("MRB") to finance first time homebuyer activity, in addition to financing
+          loan activity with the Secondary Market Mortgage Purchase Program ("SMMP"). Due to the higher
+          interest rate environment and market volatility, the Corporation realized a decrease in net
+          secondary market cash trading gains of $2.1 million, from $8.4 million in fiscal 2023 to $6.3 million
+          in the current year. Fee income associated with loan production totaled $1 million, an increase of
+          $0.2 million from the prior year.
+
+      The Corporation's single-family loan servicing portfolio increased by $354 million, benefitting from
+          increased originations and a significant slowdown in payoffs. Servicing fee revenues increased
+          from $11.2 million to $12.4 million, due primarily to the collection of fees on loans recovering from
+          COVID related forbearance and the growing portfolio. Single-family loans within the Housing
+          Revenue Bond (HRB) indenture decreased by $25 million to $184.6 million, while mortgage-backed
+          securities within the newly created Single Family Mortgage Revenue Bond Indenture ("SFMRB")
+          totaled $258 million at June 30, 2024.
+
+      Fiscal 2024 continues to reflect the financial impact with respect to governmental activities of
+          administration of the Coronavirus Aid, Relief, and Economic Security ("CARES") Act, Coronavirus
+          Response and Relief Supplemental Appropriations ("CRRSA") Act and American Rescue Plan Act
+          ("ARPA") initiatives to assist renters, landlords, homeowners and the homeless maintain or obtain
+          suitable housing opportunities in the face of the COVID pandemic. Many of these programs
+          continued to sunset during the fiscal year as the national emergency declaration expired. Total
+          expenditures decreased by $7.6 million, primarily for temporary and contract employees, all of
+          which was offset by a similar decrease in reimbursable administrative fees. Many of these
+          programs contain sunset provisions extending into 2025 unless funding is exhausted before then.
+
+     Overall, operating income decreased by $9.6 million (when measured before changes in fair value
+
+          of marketable securities), which in addition to the impacts of the above discussions, resulted
+          primarily from a reduction in trading gains of $6.5 million, a $1.7 million decrease in fees, charges,
+          and other income, an increase of $2.7 million in other expenses including debt issuance costs, an
+          increase in loan origination costs and estimated loan losses of $1.0 million, and a nominal increase
+          of $0.2 million net interest income, offset by a $2.1 million decrease in general and administrative
+          expenses. The $1.7 million decrease in fees, charges and other income is attributed to $2 million
+          reduction in multifamily fee income and a $1 million repayment of Tax Credit Assistance Program
+          ("TCAP") funds in fiscal 2023 that did not occur in fiscal 2024, offset by a $1.2 million increase in
+          loan servicing revenue. The $2.1 million decrease in General and Administrative Expenses
+          primarily is attributed to a $1 million decrease in liquidation shortfall expense as the Corporation
+          saw a reduction in the number of delinquent loans after COVID forbearance and a $0.5 million
+          reduction in expenses related to the Business Service area as support needed for COVID related
+          programs declined and some contractors were converted to full time staff. A Negotiated Indirect
+          Cost Rate was also implemented in fiscal 2024 which allowed the Corporation to recover indirect
+          costs more efficiently from grants, thereby reducing proprietary general and administrative
+          expenses.
+
+                                                               (Continued)
+
+                                                                                                                                           4.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+Overview of the Financial Statements
+
+The financial statements consist of four parts - this management's discussion and analysis, the basic
+financial statements, the notes to the financial statements, and supplementary combining information. The
+basic financial statements include two different series of statements that present the Corporation's financial
+position and performance.
+
+      Corporation-wide financial statements consist of a Statement of Net Position and a Statement of
+          Activities. These statements display information about the Corporation as a whole and are
+          presented using the economic resources measurement focus and the accrual basis of accounting
+          as used by private-sector businesses. Activities of the Corporation are distinguished as being
+          either "governmental" or "business-type" activities.
+
+      Fund financial statements report additional and detailed information about the Corporation.
+          Governmental activities are reported under Governmental Funds financial statements. These
+          statements consist of a Statement of Revenues, Expenditures and Changes in Fund Net Position.
+          Governmental Funds statements are presented using the current financial resources measurement
+          focus and the modified accrual basis of accounting used predominately in the public-sector.
+
+      Business-type activities are reported under Proprietary Funds financial statements. These
+          statements consist of a Statement of Fund Net Position, a Statement of Revenues, Expenses and
+          Changes in Fund Net Position and a Statement of Cash Flows. Proprietary Funds statements are
+          also presented using the economic resources measurement focus and the accrual basis of
+          accounting.
+
+      Fiduciary funds are funds that the Corporation holds as a trustee or agent on behalf of an outside
+          party that cannot be used to support the Corporation's own programs. The Corporation holds
+          borrowers escrow funds and replacement reserve accounts.
+
+Corporation-Wide Financial Statements - Pages 15 and 16
+
+The Corporation was created by state statute in 1972 as a de jure municipal corporation and political
+subdivision of the Commonwealth of Kentucky. The Corporation was created to serve a public purpose by
+increasing the supply of safe, decent, and affordable residential housing.
+
+The Corporation operates a number of programs consistent with the mandate to promote affordable
+residential housing. Several programs are identified within the financial statements as governmental type
+activities because they are financed with intergovernmental revenues. Significant governmental activities
+financed by the federal government include the Department of Housing and Urban Development's ("HUD")
+Home Investment Partnerships Program ("HOME"), HUD's Section 8 Rental Assistance programs ("Rental
+Assistance"), the Department of Energy's Weatherization Assistance ("Weatherization") program, U.S.
+Treasury's Healthy at Home Eviction Relief program ("Eviction Relief Funds") and the U.S. Treasury's
+Homeownership Assistance Fund ("Homeowner Assistance"). The Affordable Housing Trust Fund, which
+provides assistance to very low-income persons in meeting their basic housing needs, is funded by a portion
+of the fees received by County Clerks for recording and indexing various documents. The Rural Housing
+Trust Fund, which was established in 2023 for disaster relief and recovery, is funded by appropriations from
+the state legislature. Other government activities are funded by the Commonwealth of Kentucky.
+
+The Corporation also operates a number of programs that are identified as business-type activities. These
+activities include providing financing with favorable terms to qualified homebuyers and developers of
+affordable rental housing; servicing single-family and multifamily loan portfolios; and administering the
+Federal Low Income Housing Tax Credit program.
+
+                                                               (Continued)
+
+                                                                                                                                           5.
+                                    KENTUCKY HOUSING CORPORATION
+                    MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                      June 30, 2024
+
+The Corporation-wide financial statements separately present the governmental and business-type
+activities of the Corporation. The nature of the Corporation's governmental activities is such that
+substantially all funds flow through the Corporation to ultimate program recipients. As a result, the Balance
+Sheet related to governmental activities shows a relatively small amount of assets, representing monies
+received by the Corporation but not expended for each respective program's purpose. Conversely, the
+business-type activities of the Corporation create the vast majority of the Corporation's assets, liabilities
+and net position as reflected in the Statement of Net Position. The overall financial condition of the
+Corporation can thus be best evaluated through the analysis in the Proprietary Funds section in pages 9-
+12 of the MD&A and under the Proprietary Funds' financial statements on pages 19-23.
+
+The Statement of Activities shows the financial performance of each significant governmental and business-
+type activity operated by the Corporation over the past year. The revenues and expenses associated with
+each activity are shown as well as a net amount showing whether revenues exceeded expenses. The net
+revenue of all governmental activities (after transfers) results in an increase (decrease) in the fund net
+position that is yet to be expended for program purposes. The net revenue of all business-type activities
+results in an increase in the Fund Net Position of the Corporation. The Corporation's overall net position
+increased by $18.2 million for the year ended June 30, 2024. Table 1 shows condensed financial
+information from the Statement of Net Position:
+
+                                                                  Table 1
+
+                                                     Statement of Net Position
+                                                               (in millions)
+
+                              Governmental        Business-Type             Total
+
+                              Activities          Activities          Corporation
+
+                              2024      2023      2024      2023      2024         2023
+
+Current assets                $ 132.3   $ 142.5   $ 325.4   $ 155.8   $ 457.7   $ 298.3
+Non-current assets                   -         -     722.6     495.6     722.6     495.6
+
+  Total Assets                   132.3     142.5  1,048.0      651.4  1,180.3      793.9
+
+Current liabilities           115.5     124.4      40.6      43.6     156.1        168.0
+Non-current liabilities           -         -     537.9     157.8     537.9        157.8
+
+  Total Liabilities           115.5     124.4     578.5     201.4     694.0        325.8
+
+Net Position:                 -             -     4.3         3.6     4.3          3.6
+  Invested in capital assets
+  Restricted                  16.8        18.1    268.5     261.3     285.3        279.4
+  Unrestricted
+                              -             -     196.7     185.1     196.7        185.1
+
+Net Position                  $ 16.8 $ 18.1 $ 469.5 $ 450.0 $ 486.3 $ 468.1
+
+The net position of the governmental activities decreased from $18.1 million to $16.8 million. All assets of
+the Corporation's governmental activities are externally restricted for program purposes. Total assets
+subject to immediate disbursement are reflected as current liabilities and remaining assets are reflected as
+restricted net position. The decrease in net position indicates that revenues received from governmental
+activities were less than program grants, operating expenditures, and transfers.
+
+                                        (Continued)
+                                                                                                                    6.
+                KENTUCKY HOUSING CORPORATION
+MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                  June 30, 2024
+
+The net position of the Corporation's business-type activities increased from $450.0 million to $469.5 million
+as a result of total revenues of $66.6 million, total program expenses of $51.5 million, and transfers in from
+government operations of $4.4 million, for a net increase in net position of business-type activities of $19.5
+million. Comparisons in the changes in net position between fiscal years 2024 and 2023 provide additional
+insight on the Corporation's operating performance. Table 2 shows condensed Statement of Activities
+financial information.
+
+                                             Table 2
+                                  Statement of Activities
+
+                                         (in millions)
+
+                                  Governmental       Business-Type                 Total
+
+                                  Activities               Activities        Corporation
+
+                                  2024     2023      2024        2023        2024         2023
+
+Revenues                          $ 19.3   $ 23.7    $ 66.3      $ 56.0      $ 85.6   $ 79.7
+Operating revenues                  258.1    351.0         0.3         1.3     258.4    352.3
+Operating grants
+                                    277.4    374.7       66.6        57.3      344.0    432.0
+       Total Revenues
+
+Program Expenses                  12.4        10.7         -           -     12.4         10.7
+HOME program
+Weatherization assistance         8.9         5.3          -           -     8.9          5.3
+Rental assistance
+Eviction Relief Funds             197.9    184.0           -           -     197.9        184.0
+Other federal and state programs
+Administrative                    11.9     112.3           -           -     11.9         112.3
+Bond financed loan programs
+Loan servicing                    43.2        59.0         -           -     43.2         59.0
+Other loan and housing
+                                  -             -          10.3        12.0  10.3         12.0
+    credit programs
+       Total Program Expenses     -             -          24.1        10.3  24.1         10.3
+
+                                  -             -          5.3         5.2   5.3          5.2
+
+                                  -             -          11.8        14.1  11.8         14.1
+
+                                  274.3    371.3           51.5        41.6  325.8        412.9
+
+Excess before transfers           3.1         3.4          15.1        15.7  18.2         19.1
+
+Interfund transfers in (out)      (4.4)       (3.7)        4.4         3.7   -            -
+
+Increase (Decrease) in            $ (1.3) $ (0.3) $ 19.5 $ 19.4 $ 18.2 $ 19.1
+  Net Position
+
+Total revenues for governmental activities were $277.4 million during fiscal year 2024, a $97.3 million
+decrease from the $374.7 million in revenues in fiscal year 2023. The decrease was due to a $92.9 million
+decrease in operating grants and an $4.4 million decrease in charges for services. Fiscal year 2024
+operating grants include federal funding for Rental Assistance of $197.9 million, HOME of $12.4 million,
+Healthy at Home Eviction Relief Funds of $11.9 million, and Weatherization of $8.9 million, which represent
+90% of total operating grant revenues.
+
+                                        (Continued)
+                                                                                                                    7.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+The Corporation receives fees or charges for services for federal program administration. These revenues
+decreased from $23.7 million in 2023 to $19.3 million during fiscal year 2024. A substantial amount of the
+fees earned in excess of operating costs are transferred from the governmental funds to the proprietary
+funds of the Corporation. During 2024, $19.3 million in fee revenue was received and $15.1 million in
+operating expenses were incurred thereby enabling a $4.4 million transfer out, a $.7 million increase from
+the $3.7 million transferred in 2023.
+
+Program expenses for governmental activities decreased during 2024 by $97.0 million. Program expenses
+for governmental activities during 2024 were $274.3 million, comprised of grants of $259.2 million and
+operating expenses of $15.1 million. In fiscal 2023, total program expenses were $371.3 million with grants
+of $351.3 million and operating expenses of $20.0 million.
+
+Total revenues for business-type activities were $66.6 million during fiscal year 2024, a $9.3 million increase
+from the $57.3 million of revenues in fiscal year 2023. For fiscal 2024, gross gains on the sale of loans
+held for sale decreased $6.5 million, interest earnings from loans, mortgage-backed securities and other
+investments increased $6.5 million, fees, charges and other income decreased $1.7 million and the change
+in fair value of securities increased $9.0 million.
+
+Program expenses for business-type activities increased $9.9 million from $41.6 million in 2023 to $51.5
+million in 2024. Bond financed loan program expenses increased by $13.8 million, administrative expenses,
+or expenses not directly attributable to programs decreased by $1.7 million, loan servicing expenses
+increased by $.1 million and other loan program expenses decreased by $2.3 million. The line items related
+to these expenses are presented in detail in Table 2.
+
+The excess of revenues over expenses for business-type activities was $15.1 million in 2024 compared to
+$15.7 million in 2023, a decrease of $.6 million. As described above and in additional detail under
+"Proprietary Funds," the decrease is due to a $9.3 million increase in revenues and a $9.9 million increase
+in expenses. Transfers-in were $4.4 million in 2024, a $.7 million increase from 2023. Such changes in
+revenues, expenses and transfers resulted in an increase in business-type activities change in net position
+of $19.5 million.
+
+Fund Financial Statements
+
+The following section provides information on the Corporation's fund financial statements.
+
+Governmental Funds - Pages 17 and 18
+
+Each of the columns presented in the governmental funds financial statements represents an independent
+program operated by the Corporation. A description of each program can be found under Note A of the
+"Notes to Financial Statements." Other Housing Funds include several independent programs, each of
+which does not meet the criteria for separate financial reporting.
+
+The current assets of each governmental fund are held pending disbursement for program purposes. Most
+program disbursements are in the form of a grant or subsidy to program recipients. However, certain
+disbursements under the Affordable Housing Trust Fund and the HOME Program are in the form of loans.
+Because of the extended loan terms, minimal interest rates and the credit risks associated with these loans,
+loan loss provisions have been established at 100%. As of June 30, 2024, the Corporation retained $132.3
+million of total assets for program purposes and had $115.5 million reflected as program liabilities resulting
+in a total of $16.8 million reflected as restricted fund balances for program purposes.
+
+                                                               (Continued)
+
+                                                                                                                                           8.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+During fiscal year 2024, the Affordable Housing Trust Fund had expended funds greater than revenues of
+$1.0 million, thereby decreasing the program's fund net position. Rural Housing Trust Fund revenues
+exceeded expended funds by $.3 million, thereby increasing the funds' net position. Rental Assistance
+revenues of $197.4 million were expended for programs and $4.2 million was transferred to the proprietary
+funds. Similarly, all HOME program revenues, $12.4 million, were expensed in an equal amount in 2024,
+as were Weatherization revenues of $8.9 million. Revenues of the Healthy at Home Eviction Relief program
+of $11.9 million were expensed in 2024, as were Homeowner Assistance revenues of $17.1 million. Finally,
+Other Housing Funds expenses exceeded revenues by $.5 million, thereby decreasing the fund net position
+of Other Housing Funds.
+
+Proprietary Funds - Pages 19 through 23
+
+A significant portion of the Corporation's financial resources and activities is reported in the proprietary fund
+financial statements. Proprietary funds account for approximately 89% of corporate assets, 77% of non-
+grant revenues, 77% of operating expenses and 100% of the Corporation's unrestricted net position.
+
+Proprietary funds are organized in accordance with the restrictions described under Note B of the "Notes
+to Financial Statements." The discussion and analysis of proprietary funds will focus on the combined totals
+of the four separate funds: General Funds, Housing Revenue Bond Funds, Single Family Mortgage
+Revenue Bond Funds and Housing Development Fund.
+
+The Corporation's primary business-type activity involves the production and/or sale of single-family
+mortgage loans. This objective is achieved through the Corporation's Housing Revenue Bond program or
+the Secondary Market Mortgage Purchase program.
+
+Historically, the Corporation has issued mortgage revenue bonds to fund qualifying residential single-family
+and multi-family mortgage loans. The federal tax code, with certain exceptions, limits the allowable spread
+between the Corporation's cost of funds and the interest rate charged to borrowers to 1.125%. This spread
+allows the Corporation to cover operating costs, including servicing costs, of the Housing Finance Program.
+Both the Housing Revenue Bond Fund and the Single-Family Mortgage Revenue Bond Fund account for
+the proceeds from the sale of Housing Revenue Bonds and mortgage loans and mortgage-backed
+securities acquired with bond proceeds.
+
+The Corporation also utilizes the Secondary Market Mortgage Purchase program to fund single-family
+mortgage loan production. This program allows the Corporation to fund mortgage loans outside the bond
+indentures at more competitive market rates with the intent of selling the mortgages to secondary market
+investors. Through this program, the Corporation agrees to purchase various mortgage loans from its
+lender partners. In the case of agency insured/guaranteed loans, the mortgages are pooled into mortgage-
+backed securities issued by the Government National Mortgage Association ("GNMA") which are then sold
+on the secondary market. Loans sold pursuant to the Secondary Market Mortgage Purchase program are
+sold with servicing retained by the Corporation.
+
+                                                               (Continued)
+
+                                                                                                                                           9.
+                KENTUCKY HOUSING CORPORATION
+MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                  June 30, 2024
+
+Condensed financial information from the Statement of Net Position follows in Table 3.
+
+                                           Table 3
+                                   Proprietary Funds
+                              Statement of Net Position
+
+                                        (in millions)
+
+                                        2024                        2023                 Change
+
+Program-Purpose Assets:                 $ 309.6                 $ 335.5                 $ (25.9)
+  Mortgage loans and real estate owned         298.4                     27.0                  271.4
+  Mortgage-backed securities                      2.8                     1.0                     1.8
+  Housing construction loans                      1.9                     2.3                    (0.4)
+  Other loans                                                                                  246.9
+     Total Program-Purpose Assets              612.7                   365.8
+                                                                                               157.3
+Cash and Investments                      387.8                 230.5                            (7.2)
+Loans held for sale                         30.8                 38.0                            (0.4)
+Other assets                                16.7                 17.1
+                                                                                               396.6
+     Total Assets                       1,048.0                 651.4
+                                                                                               378.1
+Bonds payable                                            545.5  167.4                            (1.0)
+Other liabilities                                         33.0   34.0
+                                                                                               377.1
+     Total Liabilities                                   578.5  201.4
+                                                                                        $ 19.5
+           Fund Net Position            $ 469.5 $ 450.0
+
+Total program-purpose assets at June 30, 2024 were $612.7 million. Mortgage loans, mortgage-backed
+securities, housing construction loans and other loans increased by $246.9 million or 67% during 2024.
+The increase was the result of program loan fundings of $49.6 million, program loan repayments of $73.3
+million, changes in accrued loan and interest and loan loss provision of $.8 million, plus a net increase in
+mortgage-backed securities of $271.4 million, resulting from purchases of $274.0 million, normal
+amortization and prepayments totaling $2.5 million, and changes in fair value and premium amortization
+netting to $.1 million. This increase in program assets reflects the Corporation's use of mortgage revenue
+bonds to finance single family loan originations.
+
+The Housing Revenue Bond Debt Service Reserve Fund maintains deposits to provide additional security
+and a source of liquidity to bond investors. Deposits must be maintained at the level required under the
+Corporation's bond indenture. At June 30, 2024, the Debt Service Reserve requirement was $31.5 million
+and the amount on deposit was $171.9 million. (The Housing Revenue Bond Resolution ("Resolution")
+requires that the amounts on deposit be valued at the lesser of par or fair value and inclusive of any interest
+or gain realized to the valuation date.) The Corporation has designated approximately $78.6 million of the
+remaining $140.4 million in excess reserves for purposes of providing self-liquidity for certain of the
+Corporation's variable rate bonds, thereby saving the cost of paying outside liquidity providers. The General
+Indenture of Trust does not have a debt service reserve requirement.
+
+                                        (Continued)
+                                                                                                                  10.
+                KENTUCKY HOUSING CORPORATION
+MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                  June 30, 2024
+
+During 2024, the Corporation incurred line of credit borrowings in the amount of $397.7 million. Total bond
+and line-of-credit principal repayments were $429.5 million and the change in net unamortized bond
+premium was $9.7 million. As a result of this activity, bonds outstanding increased $378.1 million and short-
+term debt decreased by $3.5 million. The Corporation's Housing Revenue Bond Indenture is rated AAA by
+Standard & Poor's with a stable outlook and is rated Aaa by Moody's with a stable outlook. The
+Corporation's General Indenture is rated AAA by Moody's with a stable outlook.
+
+The following Table 4 provides condensed financial information from the Statement of Revenues, Expenses
+and Changes in Fund Net Position.
+
+                                   Table 4
+                           Proprietary Funds
+Revenues, Expenses, and Changes in Fund Net Position
+
+                                (in millions)
+
+                                                       2024  2023   Change
+
+Interest income on loans                               $ 18.0 $ 19.5 $  (1.5)
+Interest income on mortgage-backed securities                           7.0
+Interest income on marketable securities               7.7   0.7        3.0
+Increase (decrease) in fair value of securities                         9.0
+Gains on sales of loans held for sale                  6.7   3.7        (6.5)
+Fees, charges and other income                                          (1.7)
+                                                       3.3   (5.7)      9.3
+     Total operating revenues
+                                                       11.8  18.3
+
+                                                       19.1  20.8
+
+                                                       66.6  57.3
+
+Interest expense on revenue bonds and lines of credit  14.5  6.2        8.3
+Provision for loan losses                                               0.2
+General and administrative                             2.2   2.0        (2.1)
+Loan origination costs                                                  0.8
+Other expenses                                         18.7  20.8       2.7
+                                                                        9.9
+     Total operating expenses                          10.8  10.0
+
+                                                       5.3   2.6
+
+                                                       51.5  41.6
+
+     Operating income (loss)                           15.1  15.7       (0.6)
+Interfund transfers in                                                  0.7
+                                                       4.4   3.7
+
+Changes in Fund Net Position                           $ 19.5 $ 19.4 $  0.1
+
+The change in fund net position increased by $.1 million in 2024, compared to a $6.5 million decrease for
+2023. The $.1 million increase is attributable to several factors. Interest income on loans, mortgage-backed
+securities and marketable securities increased $8.5 million, from $23.9 million in 2023 to $32.4 million in
+2024. Gains on sales of loans held for sale decreased $6.5 million, from $18.3 million in 2023 to $11.8
+million in 2024. The change in fair value of investment securities increased by $9.0 million, from $(5.7)
+million in 2023 to $3.3 million in 2024. Fees, charges and other income decreased $1.7 million, from $20.8
+million in 2023 to $19.1 million in 2024.
+
+                              (Continued)
+                                                                                                        11.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+Interest expense on revenue bonds, lines of credit and pension liability increased $8.3 million, from $6.2
+million in 2023 to $14.5 million in 2024. The provision for loan losses increased $.2 million, from $2.0 million
+in 2023 to $2.2 million in 2024. General and administrative expenses decreased $2.1 million, from $20.8
+million in 2023 to $18.7 million in 2024. Loan origination costs increased $.8 million, from $10.0 million in
+2023 to $10.8 million in 2024.
+
+Also, other expenses, including grants, loan servicing expenses and the expensing of debt issuance costs,
+increased $2.7 million, from $2.6 million in 2023 to $5.3 million in 2024.
+
+Finally, changes in fund net position were impacted by interfund transfers of $4.4 million, a $.7 million
+increase from transfers of $3.7 million in 2023.
+
+Financial Outlook
+
+The Corporation's future financial position and performance is dependent on a number of economic,
+regulatory and financial conditions along with management's consideration of, and response to, those
+conditions. The Corporation's governmental activities are made possible through intergovernmental
+revenues made available from the federal government and the Commonwealth of Kentucky. The
+Corporation's ability to expand or continue these programs is subject to the statutory authority and the
+budget appropriations of those governments. The Corporation's proprietary activities are impacted by
+overall market conditions. Current market conditions include higher interest rates, an overall housing supply
+shortage, inflationary pressures, and political unrest in many parts of the globe. All of these factors impact
+the financial outlook of the Corporation.
+
+Management is particularly watchful of the impact of the aforementioned issues and initiatives on interest
+rates. Although rising rates cause investment returns to rise, for the Corporation rising rates serve to
+increase variable rate debt costs and raise mortgage lending rates. At the same time, higher rates typically
+reduce loan payoff activity, helping to preserve the Corporation's income producing servicing portfolio. To
+support the Corporation's primary revenue generator, single-family home mortgage originations, bond
+financing has been utilized this past fiscal year to fund mortgage activity in the current higher interest rate
+environment. The Corporation also continues to use the Secondary Market Mortgage Purchase Program,
+however there is a significant decrease in demand from secondary market participants to purchase
+securities with higher coupons fearing prepayments when rate reductions take place. A central component
+of the lending success of the Corporation and its ability to serve first time homebuyers in Kentucky is its
+ability to be nimble in changing market conditions. With the Federal Reserve leaning toward interest rate
+cuts over the next several months and an upcoming presidential election, having the flexibility to achieve
+the lowest cost of funds through the sale of bonds or utilizing the secondary market to finance mortgage
+production is key to the mission the Corporation serves.
+
+In part with utilizing bonds to finance mortgage production for the first time in almost a decade, the
+Corporation also established a new contemporary General Indenture under which to issue its housing
+revenue bonds. The existing General Resolution bond indenture is anticipated to continue shrinking
+resulting in decreasing net interest income. Corporation staff, as it has in the past, will continue to take
+advantage of bond refunding and other interest rate management techniques to maximize net interest
+income from the Housing Revenue Bond indenture portfolio as those opportunities arise.
+
+With almost all the Corporation's single-family loan originations now dependent on using Corporation-
+supplied down payment assistance, changes in the competitive environment regarding such assistance, or
+availability of sufficient funding sources, may impact future loan volumes and pricing. Finding available
+sources of funding and developing effective designs of down-payment assistance that are both financially
+advantageous to the Corporation and beneficial to the borrower remains a top priority. There continues to
+be significant demand on these resources as the higher interest rates and increased housing costs result
+in more borrowers requiring additional down payment assistance.
+
+                                                               (Continued)
+
+                                                                                                                                          12.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+
+The Corporation has maintained its dedicated effort to increase its presence in the multi-family housing
+market with the aim to deploy available resources more effectively, including low-income housing tax credits
+and conduit bonds, to maximize the number of families served, both with new construction and preservation
+of existing properties. Participation in these efforts continues to increase, benefitting both the families
+served and generating income opportunities for the Corporation, as these initiatives have been favorably
+received by our housing partners throughout the Commonwealth. As many of these efforts utilize Private
+Activity Bond Cap, availability of which is limited, management is proactively monitoring potential competing
+uses of this vital resource. Increasing the number of affordable multi-family housing units is a natural
+complement to the Corporation's history of providing single-family financing and helps stretch our mission
+dollar to reach the maximum number of the Commonwealth's population in need.
+
+The Corporation's presence at both the single-family and multifamily levels throughout the Commonwealth
+will prove instrumental in our efforts to address the current disaster housing needs and the response to the
+tornado and flood disasters of the last few years. In 2024, the state legislature provided an additional $10
+million ($5 million each for fiscal years 2025 and 2026) to the newly created the Rural Housing Trust Fund
+which is administered by the Corporation. The funds are used to rebuild or rehabilitate units in areas
+impacted by the natural disasters. Management, in concert with state and federal agencies, continues to
+discuss how other disaster recovery sources in Kentucky can be used to address long-term recovery in
+communities affected by natural disasters.
+
+Corporation management remains watchful for developments accompanying the change in administrative
+policy in Washington that could foreshadow fundamental shifts in national housing policies and finance
+initiatives, or substantive changes in the roles of Fannie Mae and Freddie Mac, which could necessitate
+significant adjustments in the Corporation's delivery of safe affordable housing and financing. Similarly,
+management is monitoring possible legislative or regulatory changes that may impact the Corporation's
+ability to fulfill its mission to the citizens of the Commonwealth and will be working with its national trade
+group and others to both mitigate negative impacts and support positive impacts of such changes.
+
+The Corporation's historic concentration on U.S. Government insured/guaranteed and conventional insured
+mortgage loan production, coupled with conservative investment requirements, limit the Corporation's
+exposure to default risk. Most of the Corporation's investment in Fannie Mae and Freddie Mac servicing is
+with recourse to respective agencies. There is minimal underlying default risk associated with loans
+backing the Corporation's GNMA mortgage-backed securities investments and servicing. As pandemic
+implemented loan forbearance programs end and more permanent mortgage payment assistance solutions
+are implemented there may be a continued increase in loans going into serious default or foreclosure
+resulting in potential loss to the Corporation. Management is mindful that other unexpected economic
+disruptions could subject the Corporation to increased losses, as well, and believes allowances for such
+losses are adequate. Additional information on the Corporation's single-family portfolio, mortgage-backed
+securities investments, allowance for loan losses and loan servicing can be found in Notes C, D, E and F
+in the "Notes to Financial Statements."
+
+Management is mindful of the many obstacles to maintaining the level of service which both the
+Commonwealth and Corporation have been accustomed to delivering and would like to respond with the
+level of service commensurate with the needs of those to be served. Recently, the Corporation retained a
+national research firm to conduct a state-wide Housing Supply Gap Analysis for rental and for-sale housing.
+The Corporation recognizes there is a severe shortage of housing across all income levels, including the
+first-time homebuyers and renters we serve. The supply shortage is a problem that the Corporation cannot
+solve without an abundance of resources and partnerships across the state. This next year Corporation
+staff will continue to share the results of the analysis with all stakeholders and solicit feedback on how the
+Commonwealth can combat this problem and provide long-term solutions to housing availability and
+housing affordability within the state.
+
+                                                               (Continued)
+
+                                                                                                                                          13.
+                                           KENTUCKY HOUSING CORPORATION
+                          MANAGEMENT'S DISCUSSION AND ANALYSIS (UNAUDITED)
+
+                                                             June 30, 2024
+Consistent with its mission, the Corporation continues to serve Kentuckians seeking safe affordable housing
+options, whether those options are single-family home financing opportunities, rental assistance, multi-
+family housing initiatives, and finding safe shelter/housing for Kentucky's special needs. The Corporation
+has excelled through numerous economic cycles and other challenges by balancing fulfillment of our
+mission with prudent resource management, thereby ensuring the Corporation will be here for years to
+come; this long-term commitment is how Kentucky Housing Corporation maintains its position as
+Kentucky's affordable housing leader.
+Contacting the Corporation's Financial Management
+This report is designed to provide our stakeholders with the information needed to understand the
+Corporation's financial condition and results of operations for the fiscal year ended June 30, 2024. Inquiries
+may be directed to Tracy Thurston, Chief Financial Officer at Kentucky Housing Corporation, 1231 Louisville
+Road, Frankfort, Kentucky 40601. Telephone: (502) 564-7630, x218, fax: (502) 564-7322, e-mail:
+tmthurston@kyhousing.org.
+
+                                                                                                                                          14.
+           KENTUCKY HOUSING CORPORATION
+
+CORPORATION-WIDE STATEMENT OF NET POSITION
+                             June 30, 2024
+
+                            (Dollars in thousands)
+
+                                                  Governmental    Business-    Combined
+                                                     Activities      Type        Totals
+
+                                                                  Activities
+
+ASSETS                                            $  116,117 $    21,811 $     137,928
+Current Assets
+                                                     15,415       214,376      229,791
+   Cash and cash equivalents
+   Investment securities                             -            22,888       22,888
+   Mortgage-backed securities
+   Housing mortgage loans held for sale              -            30,804       30,804
+   Housing mortgage loans
+   Housing construction loans                        -            25,864       25,864
+   Other loans
+   Accounts receivable and other assets              -            2,763        2,763
+   Interfund accounts
+                                                     -            228          228
+      Total Current Assets
+                                                     2,714        4,687        7,401
+Noncurrent Assets
+   Investment securities                             (1,984)      1,984                  -
+   Mortgage-backed securities
+   Housing mortgage loans                            132,262      325,405      457,667
+   Other loans
+   Real estate owned-net and related receivables               -    151,672      151,672
+   Capital assets                                              -    275,476      275,476
+   Other noncurrent assets                                     -    283,385      283,385
+       Total Noncurrent Assets                                 -
+       Total Assets                                            -        1,649        1,649
+                                                               -          324          324
+LIABILITIES                                                    -
+Current Liabilities                                            -        4,275        4,275
+                                                     132,262            5,810        5,810
+   Accounts payable and program advances                            722,591      722,591
+   Unearned pass-through grant revenues                           1,047,996    1,180,258
+   Accrued interest payable
+   Escrows and project reserves                       18,953       1,320        20,273
+   Revenue bonds, due within one year                 96,512              -     96,512
+
+      Total Current Liabilities                                -   9,266          9,266
+                                                               -  10,189        10,189
+Noncurrent Liabilities                                         -  19,805        19,805
+   Revenue bonds, due after one year                 115,465      40,580       156,045
+   Other noncurrent liabilities
+      Total Noncurrent Liabilities                             -  525,679      525,679
+      Total Liabilities                                        -   12,260       12,260
+                                                               -
+NET POSITION                                         115,465      537,939      537,939
+   Net investment in capital assets                               578,519      693,984
+   Restricted by
+     Revenue bond indenture                          -            4,275        4,275
+     Enabling legislation
+     Program requirements                                    -    258,446      258,446
+   Unres tricted                                             -     10,035       10,035
+                                                     16,797                 -   16,797
+        Net Position                                         -
+                                                                  196,721      196,721
+
+                                                  $  16,797 $     469,477 $    486,274
+
+See Notes to Financial Statements.
+                                                                                              15.
+                                                       KENTUCKY HOUSING CORPORATION
+
+                                              CORPORATION-WIDE STATEMENT OF ACTIVITIES
+                                                                Year ended June 30, 2024
+                                                                        (Dollars in thousands)
+
+                                                                                                           Net Revenues (Expense) and
+
+                                                                          Program Revenues                 Changes in Net Position
+
+                                                 Direct Expenses          Charges for Operating         Governmental Business-Type
+                                              Grants Operating
+                        Functions/Activities                              Services      Grants             Activities     Activities    Total
+Governmental Activities
+HOME program                                  $ 10,857       $ 1,531      $ 1,531       $ 10,857        $              -$  -$                  -
+Eviction relief funds                             10,071           1,847         1,847       10,071
+Weatherization assistance                           7,782          1,114         1,114        7,782                    -   -                   -
+Rental assistance                                                  6,736
+Other federal and state housing programs         191,201           3,945       10,894      191,201                     -   -                   -
+                                                  39,210                         3,945       38,130
+     Total Governmental Activities                               15,173                                    4,158           -            4,158
+                                                 259,121                       19,331      258,041         (1,080)
+Business-Type Activities                                                                                                   -            (1,080)
+Administrative
+Bond financed loan programs                                                                                3,078           -            3,078
+Loan servicing
+Other loan and housing credit programs              1,491          8,753         2,240               -                 -   (8,004)      (8,004)
+                                                          -      24,119        27,185                -
+     Total Business-Type Activities                       -                    11,263                -                 -   3,066        3,066
+                                                          -        5,274       25,554            318
+     Total Activities                                            11,860        66,242            318                   -   5,989        5,989
+                                                    1,491        50,006
+Transfers                                                                 $ 85,573      $ 258,359                      -   14,012       14,012
+                                              $ 260,612      $ 65,179
+Change in Net Position                                                                                                 -   15,063       15,063
+
+Net Position, Beginning of Year                                                                            3,078           15,063       18,141
+                                                                                                           (4,362)          4,362               -
+Net Position, End of Year
+                                                                                                        $  (1,284)              19,425        18,141
+                                                                                                           18,081              450,052       468,133
+                                                                                                           16,797         $ 469,477     $ 486,274
+
+                                              See Notes to Financial Statements.
+                                                                                                                                                                               16.
+                                                               KENTUCKY HOUSING CORPORATION
+                                                          BALANCE SHEET - GOVERNMENTAL FUNDS
+
+                                                                                 June 30, 2024
+                                                                            (Dollars in thousands)
+
+                                              Affordable         Rural         HOME           Healthy     Weatherization     Rental   Homeowner    Other      Combined
+                                               Housing         Housing       Program         at Home        Assistance    Assistance  Assistance  Housing       Totals
+                                                 Trust                                       Eviction
+                                                  Fund           Trust                   Relief Fund 2.0                                           Funds
+                                                                 Fund
+
+ASSETS                                     $  395 $ 19,756 $ 13,141 $ 37,783 $                                  1$         366 $      43,999 $    676 $ 116,117
+Current Assets                                                                                                   -             -              -
+                                              13,897                    -             -          -           723               -              -   1,518       15,415
+   Cash and cash equivalents                                                                                (134)
+   Investment securities                                  -             -    985                 -           590          (728)          (196)    1,006       2,714
+   Accounts receivable and other assets                                                                                   (362)       43,803
+   Interfund accounts                         (54)                      (7)  (332)               (200)                                            (333)       (1,984)
+
+       Total Current Assets                   14,238           19,749        13,794              37,583                                           2,867       132,262
+
+Noncurrent Assets                                  28,659              -           112,121               -      -              -      -           30,259      171,039
+   Program loans                                  (28,659)             -          (112,121)              -      -              -
+   Less loan loss provision                                            -                                 -      -              -      -           (30,259)    (171,039)
+        Total Noncurrent Assets                             -                                 -
+                                                               19,749                            37,583 $   590 $         (362) $     -                    -                                         -
+        Total Assets                       $ 14,238 $                        $ 13,794 $
+                                                                                                                                      43,803 $    2,867 $ 132,262
+LIABILITIES
+Current Liabilities                        $              -$   306 $ 13,774 $                    3,972 $    590 $         (362) $             -$  673 $ 18,953
+                                                                                                                -              -      43,803
+   Accounts payable and program advances                  -    19,098                 -          33,611                               43,803               -  96,512
+   Unearned revenue                                                                                         590           (362)
+                                                          -    19,404        13,774              37,583                                           673         115,465
+        Total Current Liabilities                                                                               -
+                                              14,238           345           20                  -                             -              -   2,194               16,797
+FUND BALANCE                                                                                                590 $         (362) $     43,803 $    2,867       $ 132,262
+   Res tricted by program requirem ents    $ 14,238 $ 19,749 $ 13,794 $ 37,583 $
+
+       Total Liabilities and Fund Balance
+
+                                                               See Notes to Financial Statements.
+                                                                                                                                                                                                17.
+                                                   KENTUCKY HOUSING CORPORATION
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION - GOVERNMENTAL FUNDS
+
+                                                            Year Ended June 30, 2024
+                                                                (Dollars in thousands)
+
+                                        Affordable         Rural       HOME         Healthy                     Rental      Homeowner        Other   Combined
+                                         Housing          Housing     Program      at Home                   Assistance      Assistance     Housing     Totals
+                                            Trust                                   Eviction Weatherization                                  Funds
+                                           Fund             Trust              Relief Fund 2.0 Assistance                                            $ 19,331
+                                                            Fund                                                                                           258,041
+                                                                                                                                                           277,372
+Revenues                                $  94       $     98       $  1,531 $  1,847 $  1,114                $ 10,894       $  2,050     $  1,703
+ Federal and state administrative fees                                                  7,782                      191,201
+ Pass-through grant revenues               5,132          1,149       10,857   10,071                                          15,044       16,805
+         Total Revenues                                                                 8,896                      202,095
+                                           5,226          1,247       12,388   11,918                                          17,094       18,508
+Expenditures
+ General and administrative                    94         98          1,531    1,847    1,114                   6,736           2,050        1,703    15,173
+ Pass-through grant expenditures           6,106                                        7,782                191,201           15,044       17,256   259,121
+         Total Expenditures                               804         10,857   10,071
+                                           6,200                                        8,896                197,937           17,094       18,959   274,294
+         Revenues in Excess of                            902         12,388   11,918
+            Expenditures
+                                                  (974)   345           -      -        -                    4,158             -            (451)    3,078
+Other Financing Sources (Uses)
+   Interfund Transfers                                 -     -          -      -        -                    (4,158)           -             (204)   (4,362)
+                                                  (974)   345           -      -        -                           -          -             (655)   (1,284)
+    Change in Fund Balance                     15,212                 20       -        -                           -          -            2,849    18,081
+                                        $ 14,238 $           -        20 $     -$       -$                          -$         -$           2,194 $  16,797
+Fund Balance, Beginning of Year                           345 $
+
+Fund Balance, End of Year
+
+                                                          See Notes to Financial Statements.
+                                                                                                                                                                                           18.
+                                                               KENTUCKY HOUSING CORPORATION
+                                                  STATEMENT OF NET POSITION - PROPRIETARY FUNDS
+
+                                                                                 June 30, 2024
+                                                                            (Dollars in thousands)
+
+                                                  General     Housing                                        Single        Housing   Combined
+                                                   Funds      Revenue                                        Family     Development     Totals
+                                                                                                           Mortgage
+                                                                Bond                                       Revenue            Fund
+                                                                Funds                                         Bond
+                                                                                                             Funds
+
+ASSETS                                            $ 20,919 $                                        442 $            -$  450 $ 21,811
+Current Assets
+                                                  9,307       44,101                                       154,146       6,822       214,376
+  Cash and cash equivalents
+  Investment securities                           1,278                                             935    20,675        -           22,888
+  Mortgage-backed securities
+  Housing mortgage loans held for sale            30,804                                            -                -   -           30,804
+  Housing mortgage loans
+  Housing construction loans                      12,007      13,857                                                 -   -           25,864
+  Other loans
+  Accounts receivable and other assets                     -                                        -                -   2,763       2,763
+  Interfund accounts
+                                                  228                                               -                -   -           228
+       Total Current Assets
+                                                   4,687                                            -                -   -           4,687
+                                                  12,018
+                                                                                                    -      (10,034)      -           1,984
+
+                                                  91,248      59,335                                       164,787       10,035      325,405
+
+Noncurrent Assets                                          -  151,672                                               -    -           151,672
+  Investment securities                            17,804      12,992                                      244,680
+  Mortgage-backed securities                      103,563                                                                -           275,476
+  Housing mortgage loans                                      179,822                                               -
+  Other loans                                        1,649             -                                            -    -           283,385
+  Real estate owned-net and related                    324             -                                            -
+  Capital assets                                                       -                                            -    -           1,649
+  Other noncurrent assets                            4,275             -                                            -
+         Total Noncurrent Assets     receivables     5,810                                                 244,680       -           324
+                                                  133,425     344,486
+                                                                                                                         -           4,275
+
+                                                                                                                         -           5,810
+
+                                                                                                                         -           722,591
+
+Total Assets                                      $ 224,673 $ 403,821 $ 409,467 $ 10,035 $ 1,047,996
+
+                                                  (Continued)
+                                                                                                                                                                   19.
+                                                      KENTUCKY HOUSING CORPORATION
+                                         STATEMENT OF NET POSITION - PROPRIETARY FUNDS
+
+                                                                        June 30, 2024
+                                                                   (Dollars in thousands)
+
+                                            General     Housing                              Single           Housing   Combined
+                                             Funds      Revenue                              Family        Development     Totals
+                                                                                           Mortgage
+                                                          Bond                             Revenue               Fund
+                                                          Funds                               Bond
+                                                                                             Funds
+
+LIABILITIES                              $  1,228 $                                        -$      92 $    -$           1,320
+Current Liabilities                                                                            6,158
+                                                     -  3,108                                              -            9,266
+ Accounts payable and other liabilities                                                              -
+ Accrued interest payable                   10,189              -                              1,685       -            10,189
+ Escrows and project reserves                       -   18,120
+ Revenue bonds                                                                                 7,935       -            19,805
+
+         Total Current Liabilities          11,417      21,228                                             -            40,580
+
+Noncurrent Liabilities                              -   120,947                                404,732     -            525,679
+  Revenue bonds                             12,260               -                                      -
+  Other noncurrent liabilities              12,260                                                         -            12,260
+         Total Noncurrent Liabilities       23,677      120,947                                404,732
+         Total Liabilities                              142,175                                412,667     -            537,939
+
+NET POSITION                                                                                               -            578,519
+    Invested in capital assets
+    Restricted by                              4,275             -                                    -            -             4,275
+      Revenue bond indenture
+      Enabling legislation                           -  261,646                                (3,200)             -          258,446
+    Unrestricted                                     -           -                                    -    10,035              10,035
+                                            196,721              -                                    -
+         Net Position                                                                                              -          196,721
+                                         $ 200,996 $ 261,646 $                                 (3,200) $
+                                                                                                           10,035       $ 469,477
+
+                                         See Notes to Financial Statements.
+                                                                                                                                                                          20.
+                                                 KENTUCKY HOUSING CORPORATION
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION - PROPRIETARY FUNDS
+
+                                                          Year ended June 30, 2024
+                                                              (Dollars in thousands)
+
+                                                           General      Housing       Single           Housing   Combined
+                                                            Funds       Revenue       Family        Development     Totals
+                                                                                    Mortgage
+                                                                          Bond      Revenue               Fund
+                                                                          Funds        Bond
+                                                                                      Funds
+
+Operating Revenues                                      $  8,287 $      9,429 $                -$   239 $ 17,955
+   Interest and fee income                                                               6,426
+      Housing mortgage and construction loans              655          621              2,107      -            7,702
+      Mortgage-backed securities
+      Marketable securities                                696          3,561              441      379          6,743
+   Net increase (decrease) in fair value of securities                                         -
+   Gains on sales of loans held for sale                   (1,758)      4,593                  -    -            3,276
+   Fees, charges and other income
+          Total Operating Revenues                         11,839                -       8,974      -            11,839
+
+Operating Expenses                                         19,038                7                  -            19,045
+   Interest on revenue bonds and lines of credit
+   Provision for losses on loans                           38,757       18,211                      618          66,560
+   General and administrative
+   Housing assistance grants                                   946       6,355            7,183         -        14,484
+   Mortgage loan servicers' fees                            2,868          (335)                 -  (339)         2,194
+   Loan origination costs                                  18,656            59                  -
+   Debt issuance costs                                      1,491               -                -      -        18,715
+          Total Operating Expenses                                          747                  -      -         1,491
+                                                                80              -                       -            827
+          Operating Income (Loss)                           6,677               -         4,085         -
+                                                                                          3,024         -        10,762
+Nonoperating revenues (expenses)                                   -     6,826           14,292     (339)         3,024
+   Interfund Transfers                                     30,718
+                                                                        11,385           (5,318)    957          51,497
+Change in Net Position                                      8,039
+                                                                                                                 15,063
+Net Position, Beginning of Year
+                                                                 4,244          (2,000)  2,118              -             4,362
+Net Position, End of Year                                      12,283            9,385   (3,200)        957             19,425
+                                                              188,713         252,261                9,078             450,052
+                                                        $ 200,996       $ 261,646 $             -   10,035       $ 469,477
+                                                                                         (3,200) $
+
+                                                        See Notes to Financial Statements.
+                                                                                                                                                                                         21.
+          KENTUCKY HOUSING CORPORATION
+STATEMENT OF CASH FLOWS - PROPRIETARY FUNDS
+
+                      Year Ended June 30, 2024
+                          (Dollars in thousands)
+
+                                                                         General                Housing                 Single Family           Housing           Combined
+                                                                          Funds                 Revenue             Mortgage Revenue         Development            Totals
+                                                                                              Bond Funds
+                                                                                                                         Bond Funds               Fund
+
+Cash Flows From Operating Activities                                  $           8,288    $  9,429              $                     -  $               239  $    17,956
+     Interest income on loans                                                                                                                                       11,519
+     Gain on sales of loans held for sale                                11,519                           -                            -                  -         20,205
+     Fees, charges and other income                                                                                                                                (16,196)
+     Personnel costs                                                     20,205                           -                            -                  -        (14,041)
+     Operating expenses                                                                                                                                              (1,491)
+     Housing assistance grants                                           (16,196)                         -                            -                  -       (661,153)
+     Fundings of housing mortgage loans                                                                                                                             71,876
+     Repayments on housing mortgage loans                                         (9,150)                 (806)     (4,085)                               -
+     Conversion of mortgage loans to mortgage-backed securities
+         and loans sold on secondary m arket                                      (1,491)                 -                            -                  -
+     Net changes in housing construction loans
+     Other, net                                                          (655,058)            (6,095)                                  -                  -
+         Net Cash Provided By (Used In) Operating Activities
+                                                                         38,668               33,208                                   -                  -
+Cash Flows From Noncapital Financing Activities
+     Proceeds from lines of credit and issuance of revenue bonds         620,594                      -                     -                       -             620,594
+     Payments for debt issuance costs                                             -                   -                     -                (1,436)                (1,436)
+     Principal payments on revenue bonds and line of credit                                       (38)              10,984                   5,000                     125
+     Interest payments on lines of credit and revenue bonds              (15,821)             35,698                 6,899                   3,803                 47,958
+     Changes in escrows and project reserves                                1,558
+     Interfund transfers
+         Net Cash Provided By (Used In)                                  397,700                       -            406,605                               -          804,305
+             Noncapital Financing Activities                                       -                   -              (3,024)                             -            (3,024)
+                                                                                              (28,285)                       -                            -
+Cash Flows From Capital and Related Financing Activities                 (401,200)             (6,562)                (1,212)                             -         (429,485)
+     Acquisition of capital assets                                            (946)                    -                     -                            -            (8,720)
+                                                                                               (2,000)                 2,118                              -            (3,343)
+Cash Flows From Investing Activities                                        (3,343)                                                                                     4,362
+     Purchases of investments and mortgage-backed securities                 4,244            (36,847)              404,487                               -
+     Sales of investments and mortgage-backed securities                                                                                                             364,095
+     Transfers of mortgage-backed securities                                (3,545)
+     Gain on sales of investments and mortgage-backed securities                                                                                                       (1,017)
+     Interest received on investments and mortgage-backed securities              (1,017)                 -                            -                  -
+         Net Cash Provided By (Used In) Investing Activities                                                                                                      (1,372,909)
+                                                                         (913,425)            (110,940)             (340,142)                (8,402)                 942,530
+Net Increase (Decrease) in Cash and Cash Equivalents                     643,787              107,983               188,663                  2,097                             -
+                                                                         266,712                                    (266,712)                                                  -
+Cash and Cash Equivalents, Beginning of Year                                                            -                                           -                  12,661
+                                                                                   -                    -                     -                     -               (417,718)
+Cash and Cash Equivalents, End of Year                                       1,335                4,169                 6,805                   352
+                                                                            (1,591)               1,212             (411,386)                (5,953)                   (6,682)
+
+                                                                                  (4,595)                 63                           -     (2,150)                   28,493
+
+                                                                         25,514                           379                          -     2,600                     21,811
+
+                                                                      $  20,919            $              442    $                     -  $               450  $
+
+                                                                         (Continued)
+
+                                                                                                                                                                                  22.
+          KENTUCKY HOUSING CORPORATION
+STATEMENT OF CASH FLOWS - PROPRIETARY FUNDS
+
+                      Year Ended June 30, 2024
+                          (Dollars in thousands)
+
+                                                                          General Funds  Housing Revenue     Single Family        Housing         Combined
+                                                                                             Bond Funds   Mortgage Revenue     Development           Totals
+
+                                                                                                              Bonds Funds            Fund
+
+Reconciliation of Operating Income to Net Cash                            $  8,039       $  11,385        $  (5,318) $         957             $    15,063
+   Provided By (Used In) Operating Activities
+       Operating income (loss)                                                (320)                -                -              -                   (320)
+       Adjustments to reconcile operating income to net cash                 2,868            (335)                 -          (339)                  2,194
+          provided by (used in) operating activities:                                                        3,024                                    3,024
+              Gain related to servicing intangible asset                           -               -                -              -                  1,427
+              Provision for losses on loans                                  1,427                 -                -              -
+              Debt issuance costs                                                                  -         7,183                 -                    331
+              Amortization of intangible asset                                 331          6,355            (6,426)               -                14,484
+              Depreciation expense                                             946            (621)          (2,107)               -                 (7,702)
+              Interest expense on lines of credit and revenue bonds           (655)         (3,561)            (441)           (379)                 (6,743)
+              Interest income on mortgage-backed securities                   (696)         (4,593)                 -              -                 (3,276)
+              Interest income on marketable securities                       1,758               (7)                               -
+              Net decrease in fair value of marketable securities                                                                                          (7)
+              Other income                                                         -
+              Changes in operating assets and liabilities:                                                                                        (661,153)
+                Fundings of housing mortgage loans                           (655,058)      (6,095)          -                              -       71,876
+                Repayments on housing mortgage loans                           38,668       33,208           -                              -
+                Conversion of mortgage loans to mortgage                                                                                          620,594
+                    backed securities and loans sold on secondary market     620,594           -                     -                -              (1,436)
+                Housing construction loans                                            -        -                     -         (1,436)                 (398)
+                Other, net                                                                  (38)             10,984            5,000
+                                                                             (16,344)                                                               47,958
+                     Net Cash Provided By Operating Activities
+                                                                          $  1,558       $  35,698        $  6,899          $  3,803           $
+
+                                                                          See Notes to Financial Statements.
+                                                                                                                                                                                                           23.
+         KENTUCKY HOUSING CORPORATION
+STATEMENT OF FIDUCIARY FUNDS NET POSITION
+
+                           June 30, 2024
+                      (Dollars in thousands)
+
+                                                 Custodial
+                                                   Funds
+
+ASSETS                                        $  65,227
+Current Assets
+Cash and cash equivalents                        65,227
+
+       Total Assets                                    -
+                                                 1,630
+LIABILITIES
+Current Liabilities                              1,630
+
+ Accounts payable and other liabilities          63,597
+ Escrows and project reserves                            -
+
+         Total Liabilities                    $  63,597
+
+NET POSITION
+    Restricted by
+      Individuals and organizations
+    Unrestricted
+
+         Net Position
+
+See Notes to Financial Statements.
+                                                                                          24.
+             KENTUCKY HOUSING CORPORATION
+STATEMENT OF CHANGES IN FIDUCIARY NET POSITION
+
+                       Year Ended June 30, 2024
+                          (Dollars in thousands)
+
+                                                                Custodial
+                                                                  Funds
+
+ADDITIONS                                                    $  161,685
+  Escrows and project reserves
+       Total Additions                                          161,685
+
+DEDUCTIONS                                                      159,022
+ Payments of property taxes to other governments, insurance     159,022
+  premiums, and replacement reserve disbursements
+         Total Deductions                                        2,663
+                                                                60,934
+Change in Net Position
+                                                             $  63,597
+Net Position, Beginning of Year
+
+Net Position, End of Year
+
+See Notes to Financial Statements.
+                                                                                          25.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note A--Compliance with Enabling Legislation and Bond Resolutions
+
+The Kentucky Housing Corporation (the "Corporation") was established in 1972 by the Kentucky General
+Assembly under the provisions of the Kentucky Housing Corporation Act (the "Act"). The Act, as amended,
+authorizes the Corporation to issue bonds and notes, the cumulative outstanding indebtedness of which
+does not exceed $5,000,000. The Act and the Bond Resolutions adopted by the Corporation contain
+provisions establishing funds and accounts for the segregation and restriction of assets and also restrict
+the use of the proceeds of bonds as well as other funds received. Further, the Act and the Bond Resolutions
+authorize the Corporation to invest in obligations of the United States, the Commonwealth of Kentucky (the
+"Commonwealth"), or their agencies or instrumentalities. The Corporation is a component unit of the
+Commonwealth and, as such, its financial statements are included in the Commonwealth's Annual
+Comprehensive Financial Report.
+
+The Corporation primarily makes first mortgage loans to finance single-family and multi-family housing units
+within Kentucky. Single-family loans are made primarily to first-time home buyers meeting certain low-to-
+moderate income guidelines. Substantially all assets are held by banks as trustees and are pledged as
+collateral for the Corporation's bonds. The Corporation also administers various programs for federal and
+state agencies. Funds held for these programs are restricted as to use by statutes, contracts, or other
+agreements.
+
+Note B--Summary of Significant Accounting Policies
+
+Basis of Presentation: The Corporation's financial statements are prepared in accordance with
+Governmental Accounting Standards Board ("GASB") Statement No. 34, Basic Financial Statements and
+Management's Discussion and Analysis - for State and Local Governments and related statements and
+are comprised of three components: 1) Corporation-wide financial statements, 2) fund financial statements,
+and 3) notes to the financial statements. The Corporation-wide financial statements are comprised of a
+statement of net position and a statement of activities. Prepared using the economic resources
+measurement focus and the accrual basis of accounting, these statements reflect all of the assets, liabilities,
+revenues, expenses, deferred inflows, deferred outflows, gains and losses of governmental and
+business-type activities. The governmental activities reflect the administration of the various programs for
+the Commonwealth and the federal government. The business-type activities include single and multi-
+family loan programs and other lender services. The Corporation follows GASB pronouncements as
+codified under GASB Statement No. 62, Codification of Accounting and Financial Reporting Guidance
+Contained in Pre-November 30, 1989 FASB and AICPA Pronouncements.
+
+The Corporation's fund financial statements have been prepared in accordance with accounting principles
+generally accepted in the United States of America applicable to governmental entities, which provide that
+accounting systems be organized by funds to account for specific activities consistent with legal and
+operating requirements.
+
+Governmental Funds: The governmental funds financial statements are prepared utilizing the current
+financial economic resources measurement focus and the modified accrual basis of accounting and include
+the activities of administering rental subsidy and other federal and state housing programs for the
+Commonwealth, HUD, and Treasury. Revenues considered susceptible to accrual are those revenues that
+are both measurable and available, usually grant revenue. In substance, "available" means that the item
+is a resource that can be used to finance the governmental operations within a 60-day period. Each
+governmental fund is considered a major fund.
+
+                                                               (Continued)
+
+                                                                                                                                          26.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note B--Summary of Significant Accounting Policies (Continued)
+
+The Corporation's governmental funds (special revenue funds) are:
+
+     Affordable Housing Trust Fund: This fund accounts for resources made available in the form of
+     grants or loans to local governments, nonprofits and regional or statewide housing assistance
+     organizations to provide housing to very low-income Kentucky residents with critical housing needs.
+     The fund's resources are primarily provided by a portion of the fees received by county clerks for
+     recording and indexing various documents. Such allocation of resources was approved by the
+     Kentucky General Assembly in 2006.
+
+     Rural Housing Trust Fund: This fund accounts for resources made available in the form of grants or
+     loans to local governments, nonprofits and regional or statewide housing assistance organizations to
+     provide housing to very low-income Kentucky residents. The fund was established in 2023 for disaster
+     relief and recovery, is funded by appropriations from the state legislature.
+
+     HOME Program: This fund accounts for resources made available from the federal government
+     through its Home Investment Partnerships Program ("HOME") to help local governments, nonprofits,
+     private developers, community housing development organizations and individuals to provide safe,
+     decent, and affordable housing. Resources are made available to these entities and individuals through
+     both grants and loans.
+
+     Eviction Relief Funds: This fund accounts for resources made available through the United States
+     Department of the Treasury ("Treasury") via Division A Title V of the Consolidated Appropriations act
+     of 2021. Under Section 501, the Treasury issued cash assistance to states and other local
+     governments for payments of rent, utilities and home energy costs, and other expenses related to
+     housing.
+
+     Weatherization Assistance: This fund accounts for resources made available from the federal
+     government to assist eligible individuals in reducing their utility costs by improving the energy efficiency
+     of their homes.
+
+     Rental Assistance: This fund accounts for resources made available from the federal government to
+     assist eligible individuals to rent decent, safe, and affordable housing and to assure that property
+     owners provide safe, affordable housing to recipients according to guidelines established by HUD.
+
+     Homeowner Assistance: This fund accounts for resources made available through the United States
+     Department of the Treasury ("Treasury") via Section 3206 of the American Rescue Plan Act of 2021.
+     The program assists Kentucky homeowners who have lost their jobs or suffered a reduction in income
+     to keep their homes. The program funds are available to all lenders and all borrowers who meet the
+     program criteria. The fund balance of this program is restricted for use only by this program and if any
+     fund balance exists at the end of the programs' duration such balance will be returned to the U.S.
+     Treasury.
+
+     Other Housing Funds: These funds account for other minor housing assistance program funds made
+     available through various federal and state resources.
+
+                                                               (Continued)
+
+                                                                                                                                          27.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note B--Summary of Significant Accounting Policies (Continued)
+
+Proprietary Funds: Financial activities operated similarly to private business enterprises and financed
+through fees and charges assessed primarily to users of the loan and other lender services are presented
+as proprietary funds. Each proprietary fund is considered a major fund. The Corporation's proprietary funds
+are:
+
+     General Funds: These funds account for proprietary fund (1) activities related to the development and
+     administration of corporate financial programs, (2) corporate-owned assets and (3) any business-type
+     activities of the Corporation not included in the Housing Revenue Bond indenture or construction loans,
+     including the Secondary Market Mortgage Purchase program. Fund net position is generally
+     unrestricted.
+
+     Housing Revenue Bond Funds: These funds account for the proceeds from the sale of Housing
+     Revenue Bonds, the debt service requirements of the bond indebtedness, and mortgage loans and
+     mortgage-backed securities acquired with bond proceeds to finance the purchase of single-family
+     residential housing as well as the construction and long-term financing of multi-family residential
+     housing. Fund net position is restricted as to use by the terms of the Housing Revenue Bond Indenture.
+
+     Single Family Mortgage Revenue Bond Funds: These funds account for the proceeds from the sale
+     of Housing Revenue Bonds and mortgage loans and mortgage-backed securities acquired with bond
+     proceeds to finance the purchase of single-family residential housing. Fund net position is restricted
+     as to use by the terms of the General Indenture of Trust.
+
+     Housing Development Fund: This fund accounts for construction loan proceeds for the production
+     of both single-family and multi-family residential loans, as well as any investments made with proceeds
+     currently not loaned. Fund net position is restricted to use within the fund by the enabling legislation
+     that created the fund. This fund was created by the same enabling legislation as the Corporation as
+     previously disclosed in Note A.
+
+Fiduciary Funds: These are funds that the Corporation holds as a trustee or agent on behalf of an outside
+party that cannot be used to support the Corporation's own programs. The Corporation holds borrowers
+escrow funds and replacement reserve accounts. These activities are presented on pages 24-25 in
+accordance with GASB Statement No. 84.
+
+Cash and Cash Equivalents: Cash consists of cash held by depository institutions and a trustee in the
+Corporation's name. The Corporation's cash and cash equivalents include money market funds utilized for
+operations, not for investment policy purposes.
+
+Investment and Mortgage-Backed Securities: Investment and mortgage-backed securities are stated at fair
+value, while money market funds are carried at amortized cost. Unrealized gains (losses) due to changes
+in the fair value of investment and mortgage-backed securities are included under the caption operating
+revenues in the Corporation's statement of revenues, expenses, and changes in fund net position.
+
+The Corporation securitizes most of its government insured housing mortgage loan originations into
+mortgage-backed securities through the Government National Mortgage Association ("GNMA"). The
+Corporation retains ownership of $288,114 of the securities as of June 30, 2024 and retains the servicing
+rights to the underlying housing mortgage loans.
+
+                                                               (Continued)
+
+                                                                                                                                          28.
+           KENTUCKY HOUSING CORPORATION
+           NOTES TO FINANCIAL STATEMENTS
+
+                            June 30, 2024
+                       (Dollars in thousands)
+
+Note B--Summary of Significant Accounting Policies (Continued)
+
+Loans and Allowance for Loan Losses: Housing mortgage loans, housing construction loans and other
+loans are stated at remaining principal balances, plus accrued interest, less allowance for loan losses.
+Housing mortgage loans held for sale are at fair value. The allowance for loan losses is established through
+a provision for loan losses charged to expense. Loans are charged against the allowance when
+management believes that the collectability of principal is unlikely. The allowance is an amount that
+management believes will be adequate to absorb losses on existing loans that may become uncollectible,
+based on evaluations of the collectability of loans and prior loan loss experience.
+
+The evaluations take into consideration such factors as changes in the nature and volume of the loan
+portfolio, overall portfolio quality, loan guarantees, review of specific problem loans, and current economic
+conditions that may affect a borrower's ability to pay. Accrual of interest is discontinued on a loan when
+management believes, after considering the economic climate, business conditions and collection efforts,
+that a borrower's financial condition is such that collection of interest is doubtful.
+
+Mortgage Banking Revenue: Mortgage banking revenue includes revenue derived from mortgages
+originated and subsequently sold, with servicing retained. The primary components are gains and losses
+on mortgage sales and servicing revenue.
+
+Mortgage Servicing Rights: Mortgage Servicing Rights ("MSRs") are initially capitalized at fair value as
+separate assets when loans are sold, and servicing is retained. The corporation determines the fair value
+by estimating the present value of the assets' future cash flows. For purposes of evaluating and measuring
+impairment of capitalized mortgage servicing rights, the Corporation stratifies such rights based upon the
+predominant risk characteristics of the underlying loans. The Corporation determined those risk
+characteristics to be loan type, portfolio seasoning and interest rate.
+
+Real Estate Owned and Related Receivables: Real estate owned arises from foreclosures or other
+mortgage default-related actions on properties pledged as collateral on mortgage loans. Real estate owned
+is recorded at the lesser of unpaid principal balance plus accrued interest on the loans as of the date the
+loans became real estate owned, plus subsequent expenses incurred less any insurance or other loan
+related payments received or fair value less costs to sell. Because a substantial majority of all such loans
+are guaranteed, based on the Corporation's past experience, it is anticipated that the Corporation will
+recover a majority of the unpaid principal balances of the loans through proceeds arising from the sale of
+such property or receipt of applicable guarantee proceeds.
+
+Capital Assets: Capital assets are stated at cost less accumulated depreciation and are reported in the
+business-type activities column in the Corporation-wide statement of net position. Maintenance, repairs,
+and minor replacements are charged to expense as incurred; major improvements are capitalized. The
+cost of assets sold or retired, and the related accumulated depreciation are eliminated from the accounts
+and any resulting gain or loss is included in income. Depreciation is computed on the straight-line method
+over the estimated useful lives of the assets:
+
+Buildings  30 to 40 years
+Equipment   3 to 10 years
+
+           (Continued)
+                                                                                     29.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note B--Summary of Significant Accounting Policies (Continued)
+
+Net Position: Net Position is displayed in three components as follows:
+     � Net Investment in Capital Assets - This consists of capital assets, net of accumulated depreciation,
+          less the outstanding balances of any bonds, notes, or other borrowings that are attributable to the
+          acquisition, construction, or improvement of those assets.
+     � Restricted - This consists of balances associated with activities that are legally restricted by outside
+          parties or by law through constitutional provisions or enabling legislation. For the government-wide
+          financial statements, net position is reported as restricted when constraints placed on net asset use
+          are either: (1) externally imposed by creditors (such as debt covenants), grantors, contributors, or
+          laws or regulations of other governments or (2) imposed by law through constitutional provisions
+          or enabling legislation.
+     � Unrestricted - This consists of balances that do not meet the definition of "restricted" or "invested
+          in capital assets."
+
+Governmental Funds Fund Balance Classification Policies and Procedures: Due to the fact that the
+Corporation's governmental funds account for intragovernmental revenues received under the terms of
+grant agreements and the related grant expenditures, all governmental fund activities are reflected as
+restricted; therefore, the Corporation has not adopted a written policy regarding the classification of
+governmental fund balance categories.
+
+Interfund Eliminations: Interfund receivables and payables arising primarily from allocations of
+administrative charges among the appropriate funds are eliminated in the governmental and business-type
+activities columns of the Corporation-wide statement of net position.
+
+Debt Issuance Costs and Bond Premiums and Discounts: Debt issuance costs are expensed in the year
+the debt is incurred. Bond premiums and discounts on revenue bonds are amortized by the effective
+interest method over the term of the related debt. Revenue bonds payable are reported net of the applicable
+bond premium or discount.
+
+Debt Refundings: The Corporation accounts for debt refundings in accordance with GASB Statement
+No.63, Financial Reporting of Deferred Outflows of Resources, Deferred Inflow of Resources and Net
+Position and GASB Statement No. 65, Items Previously Reported as Assets and Liabilities.
+
+Program Revenues: Program revenues in the Corporation-wide statement of activities are reported in two
+categories including (1) charges for services and (2) program-specific operating grants and contributions.
+Charges for services include all revenues from loans, investments, servicing, financing, and program
+administration fees received in connection with administering the Corporation's various loan programs.
+Program-specific operating grants and contributions include revenues from mandatory and voluntary
+nonexchange transactions with other governments and organizations that are restricted for use in a
+particular program and interest earned on unspent grant proceeds. The Corporation's policy is to apply
+restricted resources first when an expense is incurred for which both restricted and unrestricted net position
+are available.
+
+Revenue and Expense Recognition of Proprietary Funds: The Corporation records all revenues derived
+from and related expenses incurred for loans, investments, servicing, financing and program administration
+as operating revenues and expenses since they are generated from the Corporation's daily operations
+needed to carry out its statutory purpose.
+
+                                                               (Continued)
+
+                                                                                                                                          30.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note B--Summary of Significant Accounting Policies (Continued)
+
+Origination and Commitment Fees: Origination fees relating to permanently financed multi-family loans are
+recognized in the year of origination. Commitment fees charged to mortgage originators to reserve funds
+for permanently financed single-family loans are recognized in the period of exercise.
+
+Use of Estimates: The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the dates of the financial statements and the reported
+amounts of revenues and expenditures/expenses during the reporting periods. Estimates used in the
+preparation of the financial statements are based on various factors including the current interest rate
+environment and the general strength of Kentucky's economy. Changes in the overall interest rate
+environment can significantly affect the carrying value of the Corporation's investments and mortgage-
+backed securities. Material estimates that are particularly susceptible to significant change in the near term
+relate to the determination of the allowance for loan losses and the fair value of investment and mortgage-
+backed securities. Actual results could differ from those estimates.
+
+Implementation of Accounting Standards: The Corporation adopted GASB Statement No. 100, Accounting
+Changes and Error Corrections for the fiscal year ending June 30, 2024. The implementation of the GASB
+had no effect on the Corporation.
+
+GASB standards that are under evaluation include:
+
+GASB Statement No. 101, Compensated Absences, and GASB Statement No. 102, Certain Risk
+Disclosures, are effective for the fiscal year ending June 30, 2025. GASB Statement No. 103, Financial
+Reporting Model Improvements, is effective for the fiscal year ending June 30, 2026. The Corporation's
+financial statements has not yet adopted these standards and is evaluating the impact they may have on
+its financial statements.
+
+Note C--Cash, Cash Equivalents, and Investments
+
+Kentucky Revised Statutes authorize the Corporation to invest in obligations guaranteed by the
+Commonwealth of Kentucky, the United States, or their agencies, provided however, that the return on
+such investments shall not violate any rulings of the Internal Revenue Service regarding the investment of
+the proceeds of any federally tax-exempt bond issue.
+
+Cash and Cash Equivalents: At June 30, 2024, the carrying amount of the Corporation's cash and cash
+equivalents was $137,928 and the bank balance was $135,151. The difference between the carrying
+amount and the bank balance is a result of transactions in transit. Of the $135,151 bank balance, $6,796
+was covered by federal depository insurance, $123,494 was collateralized and $4,861 was held in overnight
+sweep accounts invested in U.S. Government securities. For the funds collateralized by the financial
+institutions, the collateral equals or exceeds at least 102% of the value of the uninsured funds on deposit
+as required by the Corporation's investment policies, and the collateral is held by the financial institutions
+or a third party in the name of the Corporation.
+
+Cash and cash equivalents of approximately $127,401 are restricted for government programs, payment
+of bond principal and interest and payment of principal and interest on mortgage-backed securities. Of the
+above amount, $116,117 is restricted in governmental activities and $11,284 is restricted in business-type
+activities. Within the business-type activities, the restricted amounts are almost entirely in the general fund.
+For payment of taxes, insurance, and other escrowed items on the Corporation's serviced loans, considered
+fiduciary activities, the book balance is $65,227.
+
+                                                               (Continued)
+
+                                                                                                                                          31.
+KENTUCKY HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+
+                 June 30, 2024
+            (Dollars in thousands)
+
+Note C--Cash, Cash Equivalents, and Investments (Continued)
+
+Investment and Mortgage-Backed Securities: At June 30, 2024 the Corporation has the following:
+
+                                 Investment Type              Fair Value      Effective
+                                                                              Duration
+U.S. government-sponsored enterprises                        $ 151,672        (in Years)
+Mortgage-backed securities                                           298,364
+Money market funds                                                   229,791     0.42
+                                                                     679,827     0.24
+      Total Investment and Mortgage-Backed Securities                            0.00
+                                                                     252,679     0.66
+Less amounts shown as current assets
+                                                             $ 427,148
+      Noncurrent Investment and Mortgage-Backed Securities
+
+Interest Rate Risk: In general, the Corporation's investment strategy is designed to match the life of the
+assets with dates of its related liabilities. With this strategy, investments would be expected to reach
+maturity with limited realized gains or losses. The Corporation's investment policy does allow trades of
+existing securities in circumstances where extension or contraction of maturity date or conversion from one
+allowable investment to another produces additional value through increased yield or capital gains. The
+fair value of the Corporation's investments in mortgage-backed securities is highly sensitive to volatility in
+interest rates.
+
+Credit Risk: The Corporation's investment policy defines the types of investments available to the
+Corporation. Investments, including the underlying securities for money market funds, are held by the
+Corporation's trustee in the Corporation's name. The Corporation's investments are rated as follows by
+Moody's Investors Service at June 30, 2024:
+
+Investment Type                                              Moody's
+                                                              Rating
+
+Mortgage-backed securities                                      Aaa
+U.S. government-sponsored enterprises                           Aaa
+Money market funds                                           Not rated
+
+Custodial Credit Risk: For an investment, custodial credit risk is the risk that, in the event of the failure of
+the counterparty, the Corporation would not be able to recover the value of its investments or collateral
+securities that are in possession of an outside party. Substantially all of the Corporation's investments are
+held in the name of the Corporation by a trustee.
+
+(Continued)
+                                                                          32.
+                                 KENTUCKY HOUSING CORPORATION
+                                 NOTES TO FINANCIAL STATEMENTS
+
+                                                  June 30, 2024
+                                             (Dollars in thousands)
+
+Note C--Cash, Cash Equivalents, and Investments (Continued)
+
+Concentration of Credit Risk: The Corporation's investment policy places no limit on the amount the
+Corporation may invest in any one issuer. Investments in issuers exceeding 5% of the Corporation's
+portfolio at June 30, 2024 consist of the following:
+
+                                 Issuer                              Fair Value     Percentage
+                                                                                    of Portfolio
+
+U.S. government-sponsored enterprises                                $ 151,672         22%
+GNMA
+Dreyfus                                                              298,364           44%
+
+                                                                     229,791           34%
+
+The GNMA investments consist of mortgage-backed securities, the performance of which is guaranteed by
+GNMA. As servicer of GNMA securities with a fair value of $288,114 as of June 30, 2024, included in the
+above amount, the Corporation is exposed to minimal residual risk on the underlying loans in the event,
+that upon default of a loan, the insurance or guarantee received is insufficient to fully reimburse the
+Corporation.
+
+The Corporation categorizes its fair value measurements within the fair value hierarchy established by
+generally accepted accounting principles. The Corporation has the following recurring fair value
+measurements as of June 30, 2024:
+
+                                                    Fair Value Measurements Using:
+
+                                                    Quoted Prices in Significant
+
+                                                    Active Markets   Other            Significant
+                                                                                    Unobservable
+                                                    for Identical    Observable
+                                                                                         Inputs
+                                                       Assets        Inputs            (Level 3)
+
+                                         Total         (Level 1)     (Level 2)
+
+Investments by fair value level:           151,672  $             - $ 151,672       $             -
+U.S. government-sponsored enterprises $    298,364
+Mortgage-backed securities                                        -  298,364                      -
+
+Total investments by fair value          450,036 $                - $ 450,036 $                   -
+
+Investments by amortized cost            229,791
+
+Total investments                        $ 679,827
+
+Debt and equity securities classified in Level 1 of the fair value hierarchy are valued using prices quoted in
+active markets for those securities. Debt securities classified in Level 2 of the fair value hierarchy are
+valued using a matrix pricing technique. Matrix pricing is used to value securities based on the securities'
+relationship to benchmark quoted prices. Total investments by amortized cost consist of amounts invested
+in overnight money market funds.
+
+                                         (Continued)
+                                                                                                                   33.
+          KENTUCKY HOUSING CORPORATION
+          NOTES TO FINANCIAL STATEMENTS
+
+                           June 30, 2024
+                      (Dollars in thousands)
+
+Note D--Housing Mortgage Loans                                     $  184,635
+
+Housing mortgage loans at June 30, 2024 consist of the following:     9,415
+
+      Housing Revenue Bond Funds:                                     194,050
+        Single-family (A)                                             130,814
+        Multifamily (B)
+           Total Housing Revenue Bond Funds                           324,864
+                                                                           750
+      General Funds (C)
+          Total Principal                                             325,614
+                                                                       16,365
+      Add accrued interest receivable on loans
+          Total Principal and Accrued Interest                        309,249
+                                                                       25,864
+      Less allowance for loan losses
+          Net Housing Mortgage Loans                               $  283,385
+
+      Less amount shown as current assets
+
+          Noncurrent Housing Mortgage Loans
+
+Additional information related to loans includes:
+
+Note (A)  Single-family includes $178,273 in federally insured or guaranteed loans, $5,853 of non-
+Note (B)  insured loans with initial loan-to-value ratios less than 90%, and $509 of loans backed by
+Note (C)  private mortgage insurance.
+
+          Multifamily includes $8,237 in federally insured or guaranteed loans and $1,178 in non-
+          insured loans.
+
+          General Funds include $33,312 in federally insured or guaranteed loans and $97,502 in
+          non-insured loans.
+
+Note E--Other Loan Related Activities
+
+Housing Mortgage Loans Held for Sale: These loans are first mortgage loans pending sale into the
+secondary market and are secured by single-family residences. The fair value of these loans is determined
+using quoted secondary market prices. This is considered Level 2 in the fair value hierarchy.
+
+Housing Construction Loans: These loans are primarily secured by first mortgages and are repayable at
+maturity or at the date of the sale of the property, whichever occurs first. Such loans are net of an allowance
+for loan losses of $580.
+
+Other Loans: These loans are primarily non-secured loans made to agencies, organizations, and individuals
+to construct or preserve affordable housing in Kentucky. Such loans are net of an allowance for loan losses
+of $1,784.
+
+Real Estate Owned and Related Receivables: This asset arises from foreclosures or other mortgage
+default-related actions on properties pledged as collateral on mortgage loans.
+
+          (Continued)
+                                                                                    34.
+                               KENTUCKY HOUSING CORPORATION
+                               NOTES TO FINANCIAL STATEMENTS
+
+                                                June 30, 2024
+                                           (Dollars in thousands)
+
+Note E--Other Loan Related Activities (Continued)
+
+Loan Commitments: At June 30, 2024, the Corporation is committed to make single-family mortgage loans
+totaling $107,225. The Corporation had $120,525 in outstanding commitments to sell single-family loans
+at June 30, 2024.
+
+Note F--Loan Servicing
+
+In addition to the GNMA mortgage-backed securities portfolios that the Corporation services for its own
+account (See Note C), the Corporation was servicing the following for other investors at June 30, 2024:
+
+Servicing Type                                 Number              Amounts
+                                               of Loans
+
+GNMA mortgage-backed securities                     18,043         $ 2,276,727
+Fannie Mae mortgage-backed securities                   510               23,570
+Fannie Mae whole loans
+Freddie Mac whole loans                              3,945              488,248
+                                                         35                7,540
+
+                                                    22,533         $ 2,796,085
+
+Servicers of GNMA securities are exposed to minimal residual risk on the underlying loans in the event,
+that upon default of a loan, the insurance or guarantee received is insufficient to fully reimburse the servicer.
+
+Included in Fannie Mae mortgage-backed securities totals are loans totaling $3,276 on which the
+Corporation has retained full default risk on the underlying loans and additional loans totaling $4,257 on
+which the Corporation has retained default risk subject to a stop loss agreement with Fannie Mae.
+
+Servicing rights totaling $5,810 are amortized in proportion to, and over the period of, estimated servicing
+income and are included in other noncurrent assets.
+
+Note G--Capital Assets
+
+Major classes of capital assets at June 30, 2024 and activity during the year follows:
+
+Business-Type Activities       Balance   Additions                 Retirements   Balance
+                                July 1,                                  and     June 30,
+                                 2023
+                                                                   Dispositions    2024
+
+Land                           $ 1,089 $           -$              - $ 1,089
+Buildings                              6,517   379
+Equipment                              3,822   638                 -              6,896
+Less accumulated depreciation         (7,839)  (331)
+                                                                   -              4,460
+
+                                                                   -              (8,170)
+
+Net Capital Assets             $ 3,589 $       686 $               - $ 4,275
+
+All depreciation expense was incurred for business-type activities and was included in the administrative
+function category in the Corporation-wide statement of activities.
+
+                                                               (Continued)
+
+                                                                                                                                          35.
+                          KENTUCKY HOUSING CORPORATION
+                          NOTES TO FINANCIAL STATEMENTS
+
+                                           June 30, 2024
+                                      (Dollars in thousands)
+
+Note H--Lines of Credit
+The Corporation's lines of credit at June 30, 2024 and activity during the year follows:
+
+Business-Type Activities           Balance       Borrowings   Repayments                  Balance
+                                    July 1,                         and                   June 30,
+                                     2023
+                                                              Dispositions                  2024
+
+Loan Warehousing Line of Credit 1  $ 1,500       $  -         $ (1,500)                   $         -
+Loan Warehousing Line of Credit 2         2,000                    (399,700)
+                                                    397,700                                         -
+
+                                   $ 3,500 $ 397,700 $ (401,200)                          $         -
+
+Both lines of credit are unsecured and are used for the purchase of mortgage loans pending issuance of
+new Housing Revenue Bonds or sale to the secondary market or to other investors, and to purchase certain
+Federal Housing Administration ("FHA") and Rural Housing Service ("RHS") loans pending receipt of
+insurance/guarantee payments from the respective agencies. Line of Credit 2 may also be used for
+advances for principal and interest account shortages and tax and insurance account shortages associated
+with the Corporation's single-family loan servicing.
+
+Loan Warehousing Line of Credit 1 provides for borrowings up to $25,000 and matured on June 30, 2024.
+It had $25,000 of unused credit at June 30, 2024 with an interest rate of 6.175%. The Line of Credit was
+renewed through June 30, 2025. It bears interest based on the greater of one-month Term Secured
+Overnight Financing Rate ("Term SOFR") rounded up to the nearest 1/16% or 0%, plus 80 basis points,
+and contains a non-usage fee of .20% of the unused amount.
+
+Loan Warehousing Line of Credit 2 provides for borrowings up to $65,000 and matured on June 30, 2024.
+It had $65,000 of unused credit at June 30, 2024 with an interest rate of 5.710%. The Line of Credit was
+renewed through June 30, 2025. It bears interest based on the greater of Daily Simple Secured Overnight
+Financing Rate ("Daily SOFR") or 0%, plus, and contains a non-usage fee of .125% of the unused amount.
+
+In addition to requiring timely payment of all interest and principal amounts when due, the agreements
+between the Corporation and its line of credit lenders have provisions requiring periodic reporting of
+financial information and maintenance of a minimum public debt rating, the failure to comply with which, if
+not timely remedied, could result in the lender calling the debt immediately due and payable.
+
+                                   (Continued)
+                                                                                                             36.
+                                     KENTUCKY HOUSING CORPORATION
+                                     NOTES TO FINANCIAL STATEMENTS
+
+                                                      June 30, 2024
+                                                 (Dollars in thousands)
+
+Note I--Revenue Bonds and Other Noncurrent Liabilities
+
+Revenue Bonds: Revenue bonds at June 30, 2024 and the activity for the year then ended consist of the
+following:
+
+                                       Original       Balance         Issued        Repaid/    Balance         Amount Due
+                                          Face         July 1,                      Retired    June 30,            Within
+                                                        2023
+                                       Amount                                                    2024            One Year
+                                                    $ 12,215
+Housing Revenue Bonds:               $ 29,035               6,880  $          -  $  645      $ 11,570          $  690
+     2006 Series O:                         23,300          9,775                                    6,580
+        2025-2036, variable                 38,380                            -     300              9,360        320
+     2006 Series T:                         17,130         10,665
+        2025-2038, variable                 10,000          4,955             -     415             10,205        455
+     2006 Series W:                         36,470          1,255                                    4,765
+        2025-2038, variable                 49,410          6,840             -     460                     -     500
+     2007 Series J:                         61,445                                                          -
+        2025-2038, variable                 30,000         15,140             -     190              9,765        195
+     2007 Series O:                         72,465          9,175                                    7,950
+        2025-2038, variable                 41,110                            -     1,255                         -
+     2013 Series C:                         23,410         27,515                                   24,995
+        2024, 3.522%                        36,150         11,185             -     6,840            8,730        -
+     2013 Series D:                                        15,360                                    8,755
+        2024, 3.20% to 3.75%         $ 468,305             36,150             -     5,375                         4,295
+     2014 Series A:                                      167,110                                    36,150
+        2025-2030, 3.418% to 3.948%                                           -     1,225         138,825         1,270
+     2014 Series B:
+        2025-2037, 3.278% to 4.00%                                            -     2,520                         2,600
+     2016 Series A:
+        2025-2040, 2.799% to 3.500%                                           -     2,455                         1,780
+     2016 Series B:
+        2025-2038, 3.162% to 4.00%                                            -     6,605                         6,015
+     2021 Series A:                                                           -           -                             -
+        2024-2026, 0.950% to 1.25%
+     2021 Series B:                                                $          -  $ 28,285                         18,120
+        2033-2042, variable
+
+        Total Housing
+         Revenue Bonds
+
+Unamortized premium                                       336                                      242            18,120
+   Net Housing Revenue Bonds                        167,446                                  139,067
+
+                                                    (Continued)
+                                                                                                                              37.
+                               KENTUCKY HOUSING CORPORATION
+                               NOTES TO FINANCIAL STATEMENTS
+
+                                                June 30, 2024
+                                           (Dollars in thousands)
+
+Note I--Revenue Bonds and Other Noncurrent Liabilities (Continued)
+
+                                        Original  Balance          Issued  Repaid/        Balance      Amount Due
+                                          Face     July 1,                 Retired        June 30,         Within
+
+                                        Amount      2023                               -    2024         One Year
+                                                                                       -
+Single Fam ily Mortgage Revenue Bonds:                                                 -
+                                                                                       -
+2023 Series A:                                                                         -
+
+2025-2055, 3.450% to 6.00% $ 98,115                         - $ 98,115                    $ 98,115 $   675
+
+2024 Series A:
+
+2025-2055, 3.050% to 6.250%             72,175              -      72,175                 72,175       530
+
+2024 Series B:
+
+2025-2055, 4.910% to 5.911%             76,125              -      76,125                 76,125       480
+
+2024 Series C:
+
+2026-2055, 3.25% to 6.25%               75,000              -      75,000                 75,000       -
+
+2024 Series D:                          75,000              -      75,000                 75,000       -
+   2026-2055, 4.711% to 6.25%
+
+Total Single Family            $ 396,415                    - $ 396,415 $  -              396,415      1,685
+   Mortgage Revenue Bonds                                                                  10,002
+
+Unamortized premium                                         -
+
+Net Single Family                                               -                             406,417  $ 19,805
+   Mortgage Revenue Bonds                         $ 167,446                               $ 545,484
+
+Total Revenue Bonds
+
+As indicated in the above table, bond issues totaling $78,630 have variable rates of interest. These rates
+are determined periodically by bond remarketing agents as the minimum interest rate that would result in
+the sale of the variable-rate bonds at a price equal to the principal amount plus accrued interest thereon
+not to exceed a range of 18% to 21%. Surplus balances in the Fund Net Position of the Bond Debt Service
+Reserve Fund totaling $140,351 have been reserved to provide self-liquidity on these bonds, which will be
+utilized to retire the bonds in the event they cannot be remarketed in the capital markets.
+
+The revenue bonds are collateralized by the underlying mortgages as well as mortgage-backed securities
+financed by the proceeds from the revenue bonds, and by the pledge of the principal and interest collections
+received from these mortgages and securities.
+
+In addition to requiring timely payment of all interest and principal amounts when due, and the maintenance
+of a required minimum Bond Debt Service Reserve Fund balance, the trust documents governing the
+administration of the Corporation's bonds outstanding require numerous reporting and tax compliance
+provisions, the failure to comply with which could result in, among other things, the trustee assuming all
+duties with respect to bond administration from the Corporation and taking any other actions necessary to
+protect the interests of the bondholders.
+
+                                                  (Continued)
+                                                                                                                            38.
+                              KENTUCKY HOUSING CORPORATION
+                              NOTES TO FINANCIAL STATEMENTS
+
+                                               June 30, 2024
+                                          (Dollars in thousands)
+
+Note I--Revenue Bonds and Other Noncurrent Liabilities (Continued)
+
+As of June 30, 2024, aggregate debt service requirements of the Corporation's debt are as shown in the
+table below. These amounts assume that current interest rates on variable-rate bonds will remain the same
+for their term; as these rates vary, interest payments on variable-rate bonds will vary.
+
+Fiscal years ending June 30,   Principal      Interest         Total
+    2025                      Payments      Payments           Debt
+    2026                                                     Service
+    2027                      $ 19,805      $ 22,909
+    2028                            18,360        26,545   $ 42,714
+    2029                            15,305        25,928          44,905
+                                    13,200        25,335          41,233
+                                    13,855        24,774          38,535
+                                                                  38,629
+
+Five years ending June 30,          71,795       114,513        186,308
+    2030-2034                       91,130        92,594        183,724
+    2035-2039                       72,255        71,557        143,812
+    2040-2044                       88,220        50,571        138,791
+    2045-2049                      119,150        22,475        141,625
+    2050-2054                       12,165            452
+    2055                                                          12,617
+                              $ 535,240     $ 477,653
+                                                           $ 1,012,893
+
+The Corporation has routinely exercised early redemption options and has retired various bonds prior to
+their scheduled maturity dates with funds available for that purpose.
+
+Interest expense was entirely incurred in business-type activities and was included in the bond financed
+loan program's function and administrative function in the Corporation-wide statement of activities.
+
+Other Noncurrent Liabilities: Other noncurrent liabilities had the following activity during the year:
+
+Account                       Balance       Additions             Reductions  Balance
+                               July 1,                                        June 30,
+
+                                2023                                             2024
+
+Other noncurrent liabilities  $ 12,266 $ 624 $                    630 $ 12,260
+
+                              (Continued)
+                                                                                                        39.
+                                           KENTUCKY HOUSING CORPORATION
+                                            NOTES TO FINANCIAL STATEMENTS
+
+                                                             June 30, 2024
+                                                        (Dollars in thousands)
+
+Note J--Conduit Debt Obligations
+
+The Corporation uses its tax-exempt debt issuing authority to provide financial assistance to private-sector
+developers for the acquisition and rehabilitation, or the construction of multi-family housing projects serving
+low-to-moderate income households. The debt is collateralized by revenues generated by the properties
+financed and is repayable solely from payments received on the underlying mortgage loans and any specific
+third-party credit enhancement associated with the individual financings. Through June 30, 2024, conduit
+debt obligations totaling approximately $1,423,481 have been issued with an aggregate remaining
+outstanding principal balance of $653,054. The debt does not constitute a liability or a pledge of faith and
+credit of the Corporation and, accordingly, has not been reported in the Corporation-wide financial
+statements.
+
+Note K--Defined Contribution Plan
+
+Eligible employees may choose to participate in a retirement plan administered by the Kentucky Deferred
+Compensation Authority. Employee elected contributions are invested in a 401(k) plan in which the employee
+is 100% vested. Employer matching and discretionary contributions are invested in a 401(a) plan that must
+meet vesting terms. Employees will be vested 25% after two years of service, 50% after three years of
+service, 75% after four years of service and 100% after five years of service. For fiscal year 2024, 100% of
+up to 4% of employee elected deferrals into the 401(k) plan will be matched by the Corporation. The
+Corporation recorded a contribution expense of $665 for fiscal year 2024.
+
+Note L--Risk Management
+
+The Corporation is exposed to various risks of loss related to torts; theft of, damage to, and destruction of
+assets; errors and omissions; injuries to employees and natural disasters. These risks are covered by
+various commercial insurance policies. There have been no reductions in insurance coverage during the
+year ended June 30, 2024. Settlements have not exceeded insurance coverage.
+
+Note M--Subsequent Events
+
+The Corporation evaluated events occurring between the end of its most recent fiscal year and
+September 30, 2024, the date the financial statements were issued. There are no subsequent events to
+report.
+
+Note N--Contingencies
+
+In the normal course of operations, the Corporation receives funding from federal and state government
+agencies. These funds are to be used for designated purposes only. For government agency grants, if the
+grantor's review indicates that the funds have not been used for the intended purpose, the grantor may
+request a refund of monies advanced or refuse to reimburse the Corporation for its disbursements. The
+amount of such future refunds and unreimbursed disbursements, if any, is not expected to be significant.
+Continuation of the Corporation's grant programs is predicated upon the grantors' satisfaction that the funds
+provided are being spent as intended and the grantors' intent to continue their programs.
+
+In addition, the Corporation operates in a heavily regulated environment. The operations of the Corporation
+are subject to the administrative directives, rules, and regulations of federal and state legislative and regulatory
+agencies, including, but not limited to, HUD. Such administrative directives, rules, and regulations are subject
+to change by an act of Congress, or an administrative change mandated by HUD. Such changes may occur
+with little or inadequate funding to pay for the related cost, including the additional administrative burden to
+comply with a change.
+
+                                                               (Continued)
+
+                                                                                                                                          40.
+SUPPLEMENTARY COMBINING INFORMATION
+        HOUSING REVENUE BOND FUNDS
+                                                                             KENTUCKY HOUSING CORPORATION
+                                              COMBINING STATEMENT OF NET POSITION - HOUSING REVENUE BOND FUNDS
+
+                                                                                               June 30, 2024
+                                                                                          (Dollars in thousands)
+
+                                                    Bond      Recoveries    Bond Debt      Bond Debt              Trust      Redemption  Combined
+                                                 Proceeds     of Principal   Service        Service               Fund            Fund     Totals
+                                                                               Fund         Reserve
+                                                    Fund          Fund                        Fund
+
+ASSETS                                        $  442 $        -$                       -$             -$                 -$        -$        442
+Current Assets                                                                                                               9,992       44,101
+                                                 2,706        788           8,424          10,325                 11,866
+   Cash and cash equivalents                                                                                                       -         935
+   Investment securities                         249          -                        -   686                           -         -     13,857
+   Mortgage-backed securities                                                                                                     (7)
+   Housing mortgage loans                        12,405       -                        -              -           1,452      9,985               -
+   Interfund accounts                                                                                                                    59,335
+                                                 (3,131)      1,134         1,769                     -           235
+       Total Current Assets
+                                                 12,671       1,922         10,193         11,011                 13,553
+Noncurrent Assets
+   Investment securities                                   -        -               -      151,672                        -        -     151,672
+   Mortgage-backed securities                       3,427           -               -         9,565                       -        -      12,992
+   Housing mortgage loans                        153,374            -               -                -            26,448           -
+   Real estate owned and related receivables                        -               -                -                    -        -     179,822
+       Total Noncurrent Assets                             -        -               -                             26,448           -               -
+       Total Assets                              156,801      1,922         10,193         161,237                40,001     9,985
+                                                 169,472                                   172,248                                       344,486
+LIABILITIES                                                                                                                              403,821
+Current Liabilities
+                                                           -  -                        -              -                  -   -                     -
+   Accounts payable and other liabilities
+   Accrued interest payable                                -  -             3,108                     -                  -   -           3,108
+   Revenue bonds
+                                                 18,120       -                        -              -                  -   -           18,120
+       Total Current Liabilities
+                                                 18,120       -             3,108                     -                  -   -           21,228
+Noncurrent Liabilities
+   Revenue bonds                                 120,947      -                        -              -                  -   -           120,947
+   Other noncurrent liabilities
+       Total Noncurrent Liabilities                        -  -                        -              -                  -   -                     -
+       Total Liabilities
+                                                 120,947      -                        -              -                  -   -           120,947
+FUND NET POSITION
+   Res tricted by revenue bond indenture         139,067      -             3,108                     -                  -   -           142,175
+
+                                              $ 30,405 $      1,922 $       7,085 $ 172,248 $ 40,001 $                       9,985 $ 261,646
+
+                                              See Independent Auditor's Report.
+                                                                                                                                                                              41.
+                                        KENTUCKY HOUSING CORPORATION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN FUND NET POSITION
+
+                                           HOUSING REVENUE BOND FUNDS
+                                                 Year Ended June 30, 2024
+                                                     (Dollars in thousands)
+
+                                                 Bond      Re cove r ie s  Bond Debt    Bond Debt     Trust  Ge ne r al        Redem ption  Com bined
+                                              Pr oce e ds  of Principal      Se r vice    Se r vice   Fund   Re ve nue              Fund       Totals
+                                                                               Fund      Re s e r ve
+                                                 Fund          Fund                         Fund                Fund
+
+Operating Revenues                            $ 8,819 $            -$         -$              -$        610 $              -$    -$         9,429
+    Interest and fee income                              164       -          -           457               -              -     -            621
+        Housing mortgage loans                             (1)  188        364          2,174                           177    90
+        Mortgage-backed securities                                                                      569                                 3,561
+        Marketable securities                             (63)     -          -         4,656                              -
+    Net increase (decrease) in fair value of                7      -          -               -             -              -   -            4,593
+        securities                                              188        364                              -           177
+    Other income                                       8,926                            7,287         1,179                    -            7
+            Total Operating Revenues
+                                                                                                                               90           18,211
+Operating Expenses
+    Interest on revenue bonds                                -         -   6,355        -                            -   -     -            6,355
+    Provision for losses on loans                       (335)          -                                             -
+    General and administrative                                         -   -            -                            -   -     -            (335)
+    Mortgage loan servicers' fees                          59          -                                         109
+                                                         638               -            -                                -     -            59
+            Total Operating Expenses                                   -                                         109
+                                                         362               -            -                                -     -            747
+Operating Incom e (Loss)                                           188                                         1,070
+                                                       8,564               6,355        -                                -     -            6,826
+Interfund Transfers                                             (1,442)                                      (2,646)
+                                                     (4,329)               (5,991)      7,287                           177    90           11,385
+Change in Fund Net Position                                     (1,254)                                      (1,576)
+                                                       4,235               9,381        -                               (177)  (2,787)      (2,000)
+Fund Net Position, Beginning of Year                             3,176                                       41,577
+                                                     26,170                3,390        7,287                            -     (2,697)      9,385
+Fund Net Position, End of Year                                   1,922 $                              $ 40,001 $
+                                              $ 30,405 $                   3,695        164,961                          -     12,682       252,261
+
+                                                                           7,085 $ 172,248                               - $ 9,985 $ 261,646
+
+                                              See Independent Auditor's Report.
+                                                                                                                                                                              42.
+                               KENTUCKY HOUSING CORPORATION
+COMBINING STATEMENT OF CASH FLOWS - HOUSING REVENUE BOND FUNDS
+
+                                        Year Ended June 30, 2024
+                                            (Dollars in thousands)
+
+                                                                             Bond     Recoveries       Bond Debt      Bond Debt        Trust         General     Redemption   Combined
+                                                                          Proceeds    of Principal       Service        Service        Fund          Revenue          Fund      Totals
+                                                                                                           Fund        Reserve
+                                                                             Fund         Fund                            Fund                         Fund
+
+Cash Flows From Operating Activities                                   $  8,819 $     -             $             -$             -  $         610 $           -  $  -$        9,429
+   Interest income on loans
+   Operating expenses                                                     (697)       -                           -              -     (109)                  -     -         (806)
+   Fundings of housing mortgage loans
+   Repayments on housing mortgage loans                                   (6,095)     -                           -              -            -               -     -         (6,095)
+   Other, net
+        Net Cash Provided By (Used In) Operating Activities               29,621      -                           -              -     3,587                  -     -         33,208
+
+Cash Flows From Noncapital Financing Activities                           (556)       551              (114)                     -            84              -     (3)       (38)
+   Principal payments on revenue bonds
+   Interest payments on revenue bonds                                     31,092      551              (114)                     -     4,172                  -     (3)       35,698
+   Interfund transfers - loan collections and investment income
+   Interfund transfers - transfer of mortgage loans                       (28,285)             -                -                -            -           -                -  (28,285)
+   Interfund transfers - retirement of debt                                        -           -        (6,562)                                           -                -   (6,562)
+       Net Cash Provided By (Used In) Noncapital Financing Activities                  12,360           21,130                   -            -      (177)              (91)   (2,000)
+                                                                          (32,654)             -                                                          -                -           -
+Cash Flows From Investing Activities                                           137    (13,802)               (59)                -     (2,568)            -         (2,697)            -
+   Purchases of investments and mortgage-backed securities                             (1,442)         (11,534)                                      (177)          (2,788)
+   Sales of investments and mortgage-backed securities                     28,033                                                -            (78)                            (36,847)
+   Interest received on investments and mortgage-backed securities        (32,769)                       2,975
+       Net Cash Provided By (Used In) Investing Activities                                                                       -            -
+
+Net Increase (Decrease) in Cash and Cash Equivalents                                                                             -     (2,646)
+
+Cash and Cash Equivalents, Beginning of Year                               (843)      (13,546)         (28,318)       (35,919)         (5,790)                -     (26,524)  (110,940)
+                                                                          2,494        14,243           25,104         33,215           3,706
+Cash and Cash Equivalents, End of Year                                                                                                                        -     29,221    107,983
+                                                                            167            194              353         2,626             558
+                                                                          1,818            891          (2,861)             (78)       (1,526)       177            94        4,169
+
+                                                                                                                                                     177            2,791     1,212
+
+                                                                          141         -                           -   (78)                    -               -     -         63
+
+                                                                          301         -                           -   78                      -               -     -         379
+
+                                                                       $  442 $       -$                          -$             -$           -$              -$    -$        442
+
+                                                                                      (Continued)
+                                                                                                                                                                                                       43.
+                               KENTUCKY HOUSING CORPORATION
+COMBINING STATEMENT OF CASH FLOWS - HOUSING REVENUE BOND FUNDS
+
+                                        Year Ended June 30, 2024
+                                            (Dollars in thousands)
+
+                                                                        Bond   Recoveries     Bond Debt  Bond Debt  Trust    General  Redemption  Combined
+                                                                     Proceeds  of Principal     Service    Service  Fund     Revenue       Fund     Totals
+                                                                                                  Fund    Reserve
+                                                                        Fund       Fund                      Fund              Fund
+
+Reconciliation of operating income (loss) to net                  $  8,564 $          188 $   (5,991) $  7,287 $    1,070 $   177 $   90 $ 11,385
+  cash provided by operating activities
+     Operating income (loss)                                                 (335)         -        -           -         -       -      -           (335)
+      Adjustments to reconcile operating income (loss) to                          -       -  6,355             -         -       -      -         6,355
+         net cas h provided by (us ed in) operating activities :                           -               (457)          -       -      -
+            Provision for losses on loans                                    (164)    (188)         -    (2,174)     (569)   (177)    (90)           (621)
+            Interest expense on revenue bonds                                     1        -   (364)     (4,656)          -       -      -        (3,561)
+            Interest income on mortgage-backed securities                                  -                    -         -       -      -        (4,593)
+            Interest income on marketable securities                            63                  -
+            Net decrease in fair value of securities                             (7)       -        -           -         -       -      -              (7)
+            Other income                                                                   -                    -   3,587         -      -
+            Changes in operating assets and liabilities:                   (6,095)     551          -           -                 -    (3)        (6,095)
+                 Fundings of housing mortgage loans                       29,621                    -                   84                        33,208
+                 Repayments on housing mortgage loans                                  551 $   (114)            -$                -$   (3) $
+                 Other, net                                                  (556)                                  4,172 $                            (38)
+                                                                                               (114) $
+                     Net Cash Provided By Operating Activities    $ 31,092 $                                                                      35,698
+
+                                                                  See Independent Auditor's Report.
+                                                                                                                                                                                                  44.
+

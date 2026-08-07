@@ -1,0 +1,1799 @@
+ALABAMA HOUSING FINANCE AUTHORITY
+FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+The report accompanying this deliverable was issued
+by Warren Averett, LLC.
+www.warrenaverett.com
+ALABAMA HOUSING FINANCE AUTHORITY
+TABLE OF CONTENTS
+SEPTEMBER 30, 2025 AND 2024
+INDEPENDENT AUDITORS’ REPORT 1
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED) 4
+BASIC FINANCIAL STATEMENTS
+Statements of Net Position 10
+Statements of Revenues, Expenses, and Changes in Net Position 12
+Statements of Cash Flows 13
+Notes to the Financial Statements 15
+REQUIRED SUPPLEMENTARY INFORMATION
+Schedules of Changes in the Authority’s Net Pension Liability and Related Ratios 43
+Schedule of Employer Contributions to Authority Employees’ Pension Plan 44
+OTHER FINANCIAL INFORMATION
+Additional Segment Data 45
+105 Tallapoosa St., Suite 300
+Montgomery, AL 36104
+334.271.2200
+warrenaverett.com
+INDEPENDENT AUDITORS' REPORT
+Board of Directors
+Alabama Housing Finance Authority
+Opinions
+We have audited the accompanying statements of net position of the Alabama Housing Finance
+Authority (a component unit of the State of Alabama), as of September 30, 2025 and 2024, and the
+related statements of revenues, expenses, and changes in net position, and cash flows for the years
+then ended and the related notes to the financial statements.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the Alabama Housing Finance Authority as of September 30, 2025 and
+2024, and the respective results of its operations and its cash flows for the years then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinions
+We conducted our audits in accordance with auditing standards generally accepted in the United States
+of America. Our responsibilities under those standards are further described in the Auditors’
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of the Alabama Housing Finance Authority and to meet our other ethical responsibilities in
+accordance with the relevant ethical requirements relating to our audit. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation and maintenance of internal control relevant to the preparation and fair
+presentation of the financial statements that are free from material misstatement, whether due to fraud
+or error.
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about Alabama Housing Finance
+Authority’s ability to continue as a going concern for twelve months beyond the financial statement date,
+including any currently known information that may raise substantial doubt shortly thereafter.
+Auditors’ Responsibilities for the Audits of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+includes our opinions. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with generally accepted auditing
+standards will always detect a material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud may involve
+collusion, forgery, intentional omissions, misrepresentations or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+1
+In performing an audit in accordance with generally accepted auditing standards, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due to
+fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of Alabama Housing Finance Authority’s internal control.
+Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about Alabama Housing Finance Authority’s ability to continue as a
+going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related
+matters that we identified during the audit.
+Other Matters
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis information, schedules of changes in the Alabama Housing Finance Authority’s
+net pension liability and related ratios and schedule of employer contributions to the Alabama Housing
+Finance Authority Employees’ Pension Plan on pages 4 through 9, 43, and 44, respectively be
+presented to supplement the basic financial statements. Such information, although not a part of the
+basic financial statements, is required by the Governmental Accounting Standards Board, who considers
+it to be an essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with auditing standards generally accepted in the United
+States of America, which consisted of inquiries of management about the methods of preparing the
+information and comparing the information for consistency with management’s responses to our
+inquiries, the basic financial statements and other knowledge we obtained during our audits of the basic
+financial statements. We do not express an opinion or provide any assurance on the information
+because the limited procedures do not provide us with sufficient evidence to express an opinion or
+provide any assurance.
+Supplementary Information
+Our audits were conducted for the purpose of forming opinions on the financial statements as a whole.
+The accompanying additional segment data is presented for purposes of additional analysis and is not a
+required part of the basic financial statements.
+2
+The additional segment data is the responsibility of management and were derived from and relate
+directly to the underlying accounting and other records used to prepare the financial statements. Such
+information has been subjected to the auditing procedures applied in the audit of the financial
+statements and certain additional procedures, including comparing and reconciling such information
+directly to the underlying accounting and other records used to prepare the financial statements or to the
+financial statements themselves, and other additional procedures in accordance with auditing standards
+generally accepted in the United States of America. In our opinion, the additional segment data is fairly
+stated, in all material respects, in relation to the financial statements as a whole.
+Montgomery, Alabama
+December 10, 2025
+3
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Introduction
+This section of the annual financial report of the Alabama Housing Finance Authority (the Authority)
+presents management's discussion and analysis of the financial position and results of operations
+during the fiscal year ended September 30, 2025. This information is being presented to provide
+additional information regarding the activities of the Authority and to meet the disclosure
+requirements of Government Accounting Standards Board (GASB) Statement No. 34, Basic
+Financial Statements – and Management's Discussion and Analysis – for State and Local
+Governments. This analysis should be read in conjunction with the Independent Auditors' Report,
+financial statements, and accompanying notes. Operations of the Authority include: (1) purchasing
+and securitizing single family mortgage loans of qualified borrowers, (2) servicing Authority and
+other entity mortgages, (3) implementing and managing housing-related Federal Programs, and (4)
+issuing bonds to purchase loans for single family residences and provide funding for multifamily
+developments. The Authority is an approved seller and servicer with the Government National
+Mortgage Association (Ginnie Mae), the Federal National Mortgage Association (Fannie Mae), and
+the Federal Home Loan Mortgage Corporation (Freddie Mac). The Federal Programs managed by
+the Authority are Low-Income Housing Tax Credits, the HOME Investment Partnerships Program
+(HOME), the Tax Credit Assistance Program (TCAP), the Exchange Grant Program, the Housing
+Trust Fund (HTF), the Emergency Rental Assistance Alabama Programs (ERA and ERA2), the
+Mortgage Assistance Alabama Program (MAA), and the HOME Investment Partnerships –
+American Rescue Plan Program (HOME-ARP). The Authority also administers the State of
+Alabama’s Workforce Housing Credit program. The Authority is entirely self-funded and does not
+draw upon the general taxing authority of the State of Alabama.
+The financial transactions of the Authority are recorded in the funds, which consist of a separate set
+of self-balancing accounts that comprise its assets and deferred outflows, liabilities and deferred
+inflows, net position, revenues, and expenses as appropriate.
+Required Basic Financial Statements
+The basic financial statements of the Authority report information about the Authority using
+accounting methods similar to those used by private sector companies. These statements offer
+information about the Authority's activities. The statements of net position include all of the
+Authority's assets and liabilities and provide information about the nature and amounts of
+investments in resources (assets), consumption of net position that is applicable to future reporting
+periods (deferred outflows), obligations to Authority creditors (liabilities), and the acquisition of net
+position that is applicable to future reporting periods (deferred inflows). The assets and liabilities are
+presented in order of liquidity.
+All of the reporting period’s revenues and expenses are accounted for in the statement of revenues,
+expenses, and changes in net position. This statement measures the activities of the Authority's
+operations over the past year and presents the resulting change in net position – calculated as
+revenues less expenses.
+The final required financial statement is the statement of cash flows. The primary purpose of this
+statement is to provide information about the Authority's cash receipts and cash payments during
+the reporting period. The statement reports cash receipts, cash payments, and net changes in cash
+resulting from operating, investing, noncapital financing, and other financing activities and provides
+information regarding the sources and uses of cash and the change in the cash balance during the
+reporting period.
+4
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Certain prior year amounts have been reclassified for consistency with the current year
+presentation. These reclassifications had no effect on the reported changes in net position.
+Financial Information
+Statements of Net Position
+The following table presents information about the net position of the Authority as of September 30,
+2025 and 2024, and changes in the balances of selected items during the fiscal year ended
+September 30, 2025 ($ in thousands):
+2024
+2025 (as restated) Change
+ASSETS
+CURRENT ASSETS
+Cash on deposit $ 15,419 $ 11,674 $ 3,745
+Accounts receivable, net 283 290 (7)
+Accrued interest receivable 373 317 56
+Mortgage loans receivable, net 4,848 4,152 696
+Mortgage loans held for sale 77,736 102,093 ( 24,357)
+Investments 77,088 61,321 15,767
+Other assets, net 11,220 9,003 2,217
+Restricted:
+Cash on deposit 45,691 33,892 11,799
+Accrued interest receivable 22,089 19,643 2,446
+Investments 194,338 261,476 ( 67,138)
+Other assets 17 134 (117)
+Federal program loans receivable, net 62,083 50,608 11,475
+Total current assets 511,185 554,603 ( 43,418)
+NONCURRENT ASSETS
+Mortgage loans receivable, net 35,517 30,037 5,480
+Other assets, net 15,175 14,982 193
+Mortgage servicing rights, net 73,250 56,662 16,588
+Restricted:
+Mortgage-backed securities 445,794 136,657 309,137
+Investments - 940 (940)
+Other assets, net 1,904 389 1,515
+Federal programs loans receivable, net 282,076 287,964 (5,888)
+Total noncurrent assets 853,716 527,631 326,085
+TOTAL ASSETS 1,364,901 1,082,234 282,667
+DEFERRED OUTFLOWS
+Pension-related deferred outflows - - -
+TOTAL ASSETS AND DEFERRED OUTFLOWS $ 1,364,901 $ 1,082,234 $ 282,667
+5
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Statements of Net Position – Continued
+2024
+2025 (as restated) Change
+LIABILITIES
+CURRENT LIABILITIES
+Bonds payable, net $ 4,601 $ 743 $ 3,858
+Obligations under reverse repurchase agreements - 10,330 ( 10,330)
+Refundable Federal program grants 62,083 50,608 11,475
+Accrued interest payable 28,359 20,067 8,292
+Right-to-use lease liability 850 863 (13)
+Subscription liability 1,065 973 9 2
+Accrued compensated absences 682 666 1 6
+Other liabilities 3,579 2,707 872
+Total current liabilities 101,219 86,957 14,262
+NONCURRENT LIABILITIES
+Bonds payable, net 448,416 196,261 252,155
+Refundable Federal program grants, net 276,892 294,501 ( 17,609)
+Unearned compliance and commitment fees, net 15,558 12,572 2,986
+Right-to-use lease liability 3,726 4,674 (948)
+Subscription liability 728 1,766 (1,038)
+Total noncurrent liabilities 745,320 509,774 235,546
+TOTAL LIABILITIES 846,539 596,731 249,808
+DEFERRED INFLOWS
+Pension-related deferred inflows 2,344 1,128 1,216
+TOTAL LIABILITIES AND DEFERRED INFLOWS 848,883 597,859 251,024
+NET POSITION
+Investment in capital assets, net 1,472 378 1,094
+Restricted 229,897 217,742 12,155
+Unrestricted 284,649 266,255 18,394
+Total net position 516,018 484,375 31,643
+TOTAL LIABILITIES, DEFERRED INFLOWS
+AND NET POSITION $ 1,364,901 $ 1,082,234 $ 282,667
+6
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Statements of Net Position – Continued
+Current assets decreased $43,418,000 from September 30, 2024 to September 30, 2025, due to
+decreases in mortgage loans held for sale and restricted investments. The decrease in mortgage
+loans held for sale of $24,357,000 is due to the timing of loans purchased and sold compared to the
+prior year. The decrease in restricted investments of $67,138,000 is due to the timing of proceeds
+received and used to purchase mortgage-backed securities from the issuance of Single Family
+Mortgage Revenue Bonds. The increase in investments of $15,767,000 is due to the decrease in
+the balance of mortgage loans held for sale. The increase in restricted cash on deposit of
+$11,799,000 is due to program income received in the HOME program and the closure of the MAA
+investment fund. Finally, the increase in restricted federal program loans receivable, net, of
+$11,475,000 is due to an increase in current maturities of HOME program loans.
+Noncurrent assets increased $326,085,000 due to the purchase of mortgage servicing rights, net
+and restricted mortgage-backed securities. The increase of $16,588,000 in mortgage servicing
+rights, net, is due to the increase in the volume of loans purchased during the year. The
+$309,137,000 increase in restricted mortgage-backed securities is due to the issuance of Single
+Family Mortgage Revenue Bonds.
+Current liabilities increased $14,262,000. Refundable Federal program grants increased
+$11,475,000 due to current maturities of HOME loans and accrued interest payable increased
+$8,292,000 due to the issuance of Single Family Mortgage Revenue Bonds. The outstanding
+balance of obligations under reverse repurchase agreements decreased $10,330,000 due to the
+agreement being terminated.
+Noncurrent liabilities increased $235,546,000 due to an increase in bonds payable, net, of
+$252,155,000. This increase in bonds payable, net, is due to the issuance of Single Family
+Mortgage Revenue Bonds. The decrease of $17,609,000 in refundable Federal program grants,
+net, is due to the expenditures of federal funds under the ERA, ERA2 and MAA programs and the
+reclassification to current liabilities of certain HOME loans. The increase in unearned compliance
+and commitment fees, net, of $2,986,000 is due to volume increases in Multifamily bond
+commitment fees and Low-Income Housing Tax Credit fees.
+7
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Statements of Revenues, Expenses, and Changes in Net Position
+The following table presents statements of revenues, expenses, and changes in net position for the
+Authority for the years ended September 30, 2025 and 2024, and the change from the prior year ($
+in thousands):
+2024
+2025 (as restated) Change
+OPERATING REVENUES
+Interest on mortgage loans $ 7,671 $ 6,597 $ 1,074
+Interest on mortgage-backed securities 14,786 2,995 11,791
+Investment income 11,003 11,726 (723)
+Net realized and unrealized gain on investments 6,621 10,971 (4,350)
+Loan servicing fees and other income 54,870 46,431 8,439
+Total operating revenues 94,951 78,720 16,231
+OPERATING EXPENSES
+Interest 15,186 3,308 11,878
+Amortization of mortgage servicing rights 5,944 4,674 1,270
+Program, general, and administrative 55,069 47,068 8,001
+Total operating expenses 76,199 55,050 21,149
+OPERATING INCOME 18,752 23,670 (4,918)
+NONOPERATING REVENUES (EXPENSES)
+Federal program grants 22,667 43,257 ( 20,590)
+Federal program expenditures (9,776) ( 37,388) 27,612
+Net nonoperating revenues (expenses) 12,891 5,869 7,022
+CHANGES IN NET POSITION 31,643 29,539 2,104
+NET POSITION
+Beginning of year, as restated 484,375 454,836 29,539
+End of year, as restated $ 516,018 $ 484,375 $ 31,643
+Operating revenues increased $16,231,000. The increase in interest on mortgage-backed securities
+of $11,791,000 is due to the purchase of mortgage-backed securities from the issuance of Single
+Family Mortgage Revenue Bonds. The decrease in net realized and unrealized gain on investments
+of $4,350,000 resulted from a decrease in the realized gain on sale of mortgage loans held for sale
+and the change in market values of mortgage-backed securities. The increase in loan servicing fees
+and other income of $8,439,000 was driven by an increase in the Authority’s mortgage loan
+servicing portfolio due to an increase in loan servicing purchase volume and a low volume of loan
+payoffs.
+8
+ALABAMA HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+Statements of Revenues, Expenses, and Changes in Net Position – Continued
+Operating expenses increased $21,149,000. The increase in interest expense of $11,878,000 was
+due to the issuance of Single Family Mortgage Revenue Bonds. Program, general and
+administrative expenses increased $8,001,000 due to increases in cost of services of certain
+vendors, increase in guaranty fees paid to government sponsored entities, and bond issuance
+costs.
+As a result of the aforementioned factors, operating income decreased $4,918,000 from September
+30, 2024 to September 30, 2025.
+Nonoperating revenues increased $7,022,000. The increase is the net change across several
+programs. Program activities for MAA and HOME decreased, while program activities for ERA2 and
+HTF increased.
+9
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENTS OF NET POSITION
+SEPTEMBER 30, 2025 AND 2024
+($ in thousands)
+2024
+2025 (as restated)
+ASSETS
+CURRENT ASSETS
+Cash on deposit $ 15,419 $ 11,674
+Accounts receivable, net 283 290
+Accrued interest receivable 373 317
+Mortgage loans receivable, net 4,848 4,152
+Mortgage loans held for sale 77,736 102,093
+Investments 77,088 61,321
+Other assets, net 11,220 9,003
+Restricted:
+Cash on deposit 45,691 33,892
+Accrued interest receivable 22,089 19,643
+Investments 194,338 261,476
+Other assets 17 134
+Federal program loans receivable, net 62,083 50,608
+Total current assets 511,185 554,603
+NONCURRENT ASSETS
+Mortgage loans receivable, net 35,517 30,037
+Other assets, net 15,175 14,982
+Mortgage servicing rights, net 73,250 56,662
+Restricted:
+Mortgage-backed securities 445,794 136,657
+Investments - 940
+Other assets, net 1,904 389
+Federal programs loans receivable, net 282,076 287,964
+Total noncurrent assets 853,716 527,631
+TOTAL ASSETS 1,364,901 1,082,234
+DEFERRED OUTFLOWS
+Pension-related deferred outflows - -
+TOTAL ASSETS AND DEFERRED OUTFLOWS $ 1,364,901 $ 1,082,234
+See notes to the financial statements.
+10
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENTS OF NET POSITION
+SEPTEMBER 30, 2025 AND 2024
+($ in thousands)
+2024
+2025 (as restated)
+LIABILITIES
+CURRENT LIABILITIES
+Bonds payable, net $ 4,601 $ 743
+Obligations under reverse repurchase agreements - 10,330
+Refundable Federal program grants 62,083 50,608
+Accrued interest payable 28,359 20,067
+Right-to-use lease liability 850 863
+Subscription liability 1,065 973
+Accrued compensated absences 682 666
+Other liabilities 3,579 2,707
+Total current liabilities 101,219 86,957
+NONCURRENT LIABILITIES
+Bonds payable, net 448,416 196,261
+Refundable Federal program grants, net 276,892 294,501
+Unearned compliance and commitment fees, net 15,558 12,572
+Right-to-use lease liability 3,726 4,674
+Subscription liability 728 1,766
+Total noncurrent liabilities 745,320 509,774
+TOTAL LIABILITIES 846,539 596,731
+DEFERRED INFLOWS
+Pension-related deferred inflows 2,344 1,128
+TOTAL LIABILITIES AND DEFERRED INFLOWS 848,883 597,859
+NET POSITION
+Investment in capital assets, net 1,472 378
+Restricted 229,897 217,742
+Unrestricted 284,649 266,255
+Total net position 516,018 484,375
+TOTAL LIABILITIES, DEFERRED INFLOWS
+AND NET POSITION $ 1,364,901 $ 1,082,234
+See notes to the financial statements.
+11
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENTS OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+($ in thousands)
+2024
+2025 (as restated)
+OPERATING REVENUES
+Interest on mortgage loans $ 7,671 $ 6,597
+Interest on mortgage-backed securities 14,786 2,995
+Investment income 11,003 11,726
+Net realized and unrealized gain on investments 6,621 10,971
+Loan servicing fees and other income 54,870 46,431
+Total operating revenues 94,951 78,720
+OPERATING EXPENSES
+Interest 15,186 3,308
+Amortization of mortgage servicing rights 5,944 4,674
+Program, general, and administrative 55,069 47,068
+Total operating expenses 76,199 55,050
+OPERATING INCOME 18,752 23,670
+NONOPERATING REVENUES (EXPENSES)
+Federal program grants 22,667 43,257
+Federal program expenditures (9,776) ( 37,388)
+Net nonoperating revenues (expenses) 12,891 5,869
+CHANGES IN NET POSITION 31,643 29,539
+NET POSITION
+Beginning of year, as restated 484,375 454,836
+End of year, as restated $ 516,018 $ 484,375
+See notes to the financial statements.
+12
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+($ in thousands)
+INCREASE (DECREASE) IN CASH ON DEPOSIT
+2024
+2025 (as restated)
+CASH FLOWS FROM OPERATING ACTIVITIES
+Purchase of mortgage-backed securities $ (321,335) $ ( 93,159)
+Principal payments received on mortgage-backed securities 13,664 9,181
+Purchase of mortgage loans (40,114) ( 33,630)
+Principal payments received on mortgage loans 28,890 27,843
+Purchase of mortgage loans held for sale (1,910,159) ( 1,856,797)
+Proceeds from sale of mortgage loans held for sale 1,934,436 1,851,445
+Purchase of mortgage servicing rights (26,411) ( 22,099)
+Interest received from mortgage loans 7,644 6,560
+Interest received from mortgage-backed securities 13,270 2,148
+Cash paid to suppliers for goods and services (34,945) ( 27,584)
+Cash payments to employees for services (12,471) ( 11,570)
+Loan servicing fees and other income received 57,827 48,839
+Net cash used in operating activities (289,704) ( 98,823)
+CASH FLOWS FROM NONCAPITAL FINANCING
+ACTIVITIES
+Proceeds from bonds issued 257,126 189,966
+Principal payments on bonds (657) (805)
+Principal payments on repurchase agreements (10,330) (4,670)
+Proceeds from Federal program grants, net 16,938 2,751
+Payments of Federal program grants, net (14,720) ( 44,554)
+Interest paid (7,914) (1,120)
+Net cash provided by noncapital financing activities 240,443 141,568
+CASH FLOWS FROM CAPITAL AND RELATED
+FINANCING ACTIVITIES
+Principal paid on right-to-use lease liability (961) (783)
+Principal paid on subscription liability (1,367) (919)
+Interest paid (395) (511)
+Purchase of furniture and equipment (1,265) (264)
+Proceeds from sale of furniture and equipment - 2 6
+Net cash used in capital and related financing activities (3,988) (2,451)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Purchase of investments (2,305,327) ( 2,030,007)
+Proceeds from sales of investments 2,357,535 1,968,702
+Interest received from investments 16,585 20,020
+Net cash provided by (used in) investing activities 68,793 ( 41,285)
+See notes to the financial statements.
+13
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED SEPTEMBER 30, 2025 AND 2024
+($ in thousands)
+2024
+2025 (as restated)
+NET INCREASE (DECREASE) IN CASH ON DEPOSIT $ 15,544 $ (991)
+CASH ON DEPOSIT AT BEGINNING OF YEAR 45,566 46,557
+CASH ON DEPOSIT AT END OF YEAR $ 61,110 $ 45,566
+RECONCILIATION OF OPERATING INCOME TO NET
+CASH USED IN OPERATING ACTIVITIES
+Operating income $ 18,752 $ 23,670
+Adjustments to reconcile operating income to net
+cash used in operating activities:
+Depreciation 171 160
+Amortization and expense of mortgage servicing rights 9,823 9,478
+Gross unrealized gain on mortgage-backed
+securities and investments (1,362) (2,760)
+Gross unrealized (gain) loss on mortgage loans
+held for sale 117 (120)
+Provision for loan losses, net 5,047 1,024
+Interest received from investments ( 16,378) ( 19,792)
+Interest paid on bonds and right-to-use lease liability 7,853 1,610
+Changes in operating assets and liabilities:
+Accrued interest receivable (2,476) (2,016)
+Mortgage loans receivable ( 11,223) (5,787)
+Mortgage loans held for sale 24,276 (5,352)
+Mortgage servicing rights, net ( 26,411) ( 22,098)
+Mortgage-backed securities ( 307,670) ( 83,978)
+Other assets and accounts receivable, net (2,440) (1,959)
+Accrued interest payable 8,264 2,831
+Deferred inflows/outflows 1,216 3,592
+Other liabilities 260 356
+Accrued compensated absenses 1 6 -
+Unearned compliance and commitment fees, net 2,461 2,318
+NET CASH USED IN OPERATING ACTIVITIES $ ( 289,704) $ ( 98,823)
+See notes to the financial statements.
+14
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+1. AUTHORITY LEGISLATION
+The Authority is a public corporation created, organized, and existing under Act No. 80-585 (the
+Act) originally enacted by the Legislature of the State of Alabama at its 1980 regular session.
+Pursuant to the Act, as amended, the Authority is authorized, among other things, to issue bonds to
+finance residential housing for persons and families of low and moderate income in the State of
+Alabama. The Authority is a component unit of the State of Alabama.
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting
+The Authority’s accounts are organized as funds, which include accounts of the assets, deferred
+outflows, liabilities, deferred inflows, net position, revenues, and expenses of the Authority’s Single
+Family Mortgage Revenue Bond Programs (Single Family Programs), Federal Programs, the
+Housing Assistance Fund, and the General Fund. Single Family Programs account for the proceeds
+from the bonds issued, the debt service requirements of the bonds and the related program
+investments, as required by the bond resolutions established under the trust indentures of each
+program.
+The Authority uses the accrual method of accounting. The Authority’s Funds – Single Family
+Programs, Federal Programs, Housing Assistance, and General – have been presented on a
+combined basis, as the Authority is considered a single enterprise fund for financial reporting
+purposes. Current assets include cash and amounts convertible into cash during the next normal
+operating cycle or one year. Current liabilities include those obligations to be liquidated with current
+assets. All inter-fund balances and transactions have been eliminated in the accompanying financial
+statements. Revenues and expenses from the Single Family Programs, Housing Assistance, and
+General Funds are reported as operating revenues and expenses.
+Federal Program receipts are recognized in proportion to Federal Program expenditures as
+incurred. Federal Program activities are reported in nonoperating revenues (expenses) in the
+accompanying financial statements, in accordance with Governmental Accounting Standards Board
+(GASB) No. 24, Accounting and Financial Reporting for Certain Grants and Financial Assistance.
+Use of Estimates in the Preparation of Financial Statements
+In preparing financial statements in conformity with accounting principles generally accepted in the
+United States of America, management is required to make estimates and assumptions that affect
+1) the reported amounts of assets and liabilities, 2) the disclosure of contingencies at the date of the
+financial statements, and 3) revenues and expenses during the reporting period. Actual results
+could differ from those estimates.
+15
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Fair Value Application and Measurement
+Fair value is applied to assets and liabilities that the Authority hold primarily for the purpose of
+income or profit and that have a present service capacity based solely on their ability to generate
+cash or to be sold to generate cash. The Authority categorizes its fair value measurements within
+the value hierarchy established by generally accepted accounting principles (GAAP). The hierarchy
+is based upon valuation inputs used to measure the fair value of the respective asset or liability.
+Level 1 inputs include quoted prices in active markets for identical assets. Level 2 inputs include
+observable inputs other than quoted prices included in Level 1 inputs. Level 3 inputs include
+unobservable inputs.
+Cash on Deposit
+Cash on deposit represents funds on deposit with various financial institutions and uninvested funds
+held by the Trustees of the Authority’s various bond programs. At September 30, 2025, all cash on
+deposit held by the Authority’s trustees was in the name of the Authority. Cash on deposit consists
+of unrestricted and restricted cash totaling $61,110,000 and $45,566,000 as of September 30, 2025
+and 2024, respectively. All cash on deposit at September 30, 2025 and 2024, was covered by
+federal depository insurance or collateralized by the various financial institutions.
+Investments
+The Act authorizes the Authority to invest in bonds or other obligations issued or guaranteed by the
+U.S. Government, any agency thereof, or the State of Alabama. In addition, the Authority may
+invest in interest-bearing bank and savings and loan association deposits, any obligations in which
+a State chartered savings and loan association may invest its funds, any agreement to repurchase
+any of the foregoing, or any combination thereof. Each of the trust indentures established under the
+Authority’s bond programs contains further restrictions on the investment of nonexpended bond
+proceeds; however, each trust indenture must be consistent with the Authority’s authorizing
+legislation with respect to the definition of eligible investments.
+Investments consist of temporary and debt service reserve funds established under the provisions
+of each trust indenture and investments of the Authority’s General and Housing Assistance Funds.
+All investments are reported at fair value.
+The Authority follows the provisions of GASB Statement No. 40, Deposit and Investment Risk
+Disclosures. GASB Statement No. 40 addresses disclosures on deposits and investments, focusing
+on common investment risks related to interest rate risk, credit risk, custodial credit risk, foreign
+currency risk, and concentration of credit risk.
+Mortgage-Backed Securities
+Mortgage-backed securities consist of Ginnie Mae, Fannie Mae, and Freddie Mac pass-through
+certificates, substantially all of which are pledged either as security for the Single Family Mortgage
+Revenue Bonds or for obligations under reverse repurchase agreements. The fair value of program
+investments is based on quoted market prices obtained from an independent financial news and
+information service, where available. If quoted market prices are not available, fair values are based
+on quoted market prices of comparable investments.
+16
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Mortgage-Backed Securities – Continued
+In accordance with GASB Statement No. 72, Fair Value Measurement and Application,
+investments, including mortgage-backed securities, are recorded at fair value, and unrealized gains
+or losses are reported in the statements of revenues, expenses, and changes in net position. The
+Authority records a portion of net unrealized gains on investment securities as a liability to the
+extent that such gains would be rebateable to the United States government under Section 103A of
+the Internal Revenue Code, as amended (the Code), for tax-exempt bond issues sold after 1981.
+The Code requires that such excess investment earnings be rebated to certain single family
+borrowers upon payoff of their respective mortgages or remitted to the Internal Revenue Service.
+Gains on sales of securities in these bond issues would create excess rebateable earnings. There
+were no such rebateable earnings for the years ended September 30, 2025 or 2024.
+Commitment Fees
+Returnable commitment fees are deferred and recognized as income at the time they are no longer
+returnable. Commitment fees related to loans pooled and sold in secondary markets are recognized
+upon receipt.
+Mortgage Loans Receivable
+Mortgage loans that the Authority has the ability and intent to hold for the foreseeable future are
+carried at their unpaid principal balances less an allowance for loan losses. Management
+determines the allowance for loan losses based on historical losses and current economic
+conditions as well as its evaluation of the loan portfolio and the underlying security.
+Mortgage Loans Held for Sale
+Mortgage loans held for sale are recorded at the lower of cost or fair value. The Authority routinely
+enters into contracts with various investors to sell these loans in secondary markets and had
+commitments to deliver mortgage-backed securities at September 30, 2025. The fair value of
+committed loans is based upon commitment prices. See note 10, Derivative Instruments.
+Derivative Instruments
+The Authority enters into various forward sales contracts as part of its overall funding strategy. The
+objective of these financial instruments is to hedge the interest rate risk inherent in purchasing
+mortgage loans held for sale. The Authority has recorded the fair market value of its derivative
+investments on the financial statements and has evaluated and measured their effectiveness.
+Federal Programs Loans Receivable
+HOME Program loans are designed to assist very low-income tenants, and, as such, some
+mortgages originated under the program are structured in such a way that repayment will only occur
+in limited circumstances.
+The TCAP Program, authorized by the American Recovery and Reinvestment Act of 2009, is
+designed to assist housing developments financed with Low-Income Housing Tax Credits.
+17
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Federal Programs Loans Receivable – Continued
+The ERA and ERA2 Programs, authorized by the U.S. Department of Treasury, are designed to
+provide rental and utility assistance grants to tenants affected by the coronavirus.
+The MAA Program, authorized by the U.S. Department of Treasury, is designed to provide
+mortgage assistance grants to homeowners affected by the coronavirus.
+The HOME-ARP Program, authorized by the U.S. Department of Housing and Urban Development
+(HUD), is designed to assist individuals or households who are homeless or at risk of being
+homeless by providing housing or rental assistance.
+Right-To-Use Capital Assets and Lease Liabilities
+The Authority is party to leases of nonfinancial assets as a lessee. The Authority recognizes a lease
+liability and an intangible right-to-use lease asset in the statements of net position.
+At the commencement of a lease, the Authority initially measures the lease liability at the present
+value of payments expected to be made during the lease term. Subsequently, the lease liability is
+reduced by the principal portion of lease payments made. The lease asset is initially measured as
+the initial amount of the lease liability, adjusted for lease payments made at or before the lease
+commencement date, plus certain initial direct costs. Subsequently, the lease asset is amortized on
+a straight-line basis over its useful life.
+Key estimates and judgments related to leases include how the Authority determines (1) the
+discount rate used to discount the expected lease payments to present value, (2) lease term, and
+(3) lease payments. The Authority uses the interest rate charged by the lessor as the discount rate.
+When the interest rate charged by the lessor is not provided, the Authority generally uses its
+estimated incremental borrowing rate as the discount rate for leases. The lease term includes the
+noncancellable period of the lease. Lease payments included in the measurement of the lease
+liability are composed of fixed payments and purchase option price that the Authority is reasonably
+certain to exercise.
+The Authority monitors changes in circumstances that would require a remeasurement of its leases
+and will remeasure lease assets and liabilities if certain changes occur that are expected to
+significantly affect the amount of any lease liability. Lease assets are reported with unrestricted
+noncurrent assets, and lease liabilities are reported within current and noncurrent liabilities on the
+statements of net position.
+18
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Subscription-Based Information Technology Arrangements
+The Authority is party to several subscription-based information technology arrangements (SBITAs).
+The Authority recognizes a subscription liability and an intangible right-to-use subscription asset
+(subscription asset) in the government-wide and proprietary financial statements of net position.
+The Authority recognizes subscription liabilities with an initial term greater than twelve months and
+an individual value of $5,000 or more. Remaining subscription terms range from 1 to 3 years with
+varying payments due. For SBITAs with a maximum possible term of 12 months or less at
+commencement, the Authority recognizes expenses/expenditures based on the provisions of the
+arrangement.
+At the commencement of a SBITA, the Authority initially measures the subscription liability at the
+present value of expected subscription payments to be made over the subscription term.
+Subsequently, the subscription liability is reduced by the principal portion of subscription payments
+made. The subscription asset is initially measured as the initial amount of the subscription liability,
+adjusted for subscription payments made at or before the subscription commencement date, plus
+certain initial implementation costs less any vendor incentives received at the commencement of
+the subscription term. Subsequently, the subscription asset is amortized on a straight-line basis
+over the shorter of the useful life of the IT asset or the subscription term.
+Key estimates and judgments related to SBITAs include how the Authority determines (1) the
+discount rate used to discount the expected subscription payments to present value, (2)
+subscription term, and (3) subscription payments.
+The Authority uses the interest rate charged by the vendor as the discount rate. When the interest
+rate charged by the vendor is not provided, the Authority generally uses its estimated incremental
+borrowing rate as the discount rate. The subscription term includes the noncancellable period
+during which the Authority has a noncancellable right to use the underlying IT assets. The
+subscription term also includes periods covered by an option to extend if reasonably certain the
+Authority or vendor will exercise that option or to terminate if it is reasonably certain that the
+Authority or vendor will not exercise that option. Subscription payments included in the
+measurement of the subscription liability are composed of fixed payments that the Authority is
+reasonably certain to exercise.
+The Authority monitors changes in circumstances that would require a remeasurement of a SBITA
+and will remeasure subscription asset and subscription liability if certain changes occur that are
+expected to significantly affect the amount of the liability. Subscription assets are reported with
+unrestricted noncurrent assets, and subscription liabilities are reported within current and
+noncurrent liabilities on the statements of net position.
+The Authority capitalizes qualifying initial implementation costs as part of the subscription asset.
+Preliminary project stage outlays are expensed as incurred. Operation and additional
+implementation stage activities are expensed as incurred unless they meet specific capitalization
+criteria.
+19
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+New Accounting Principles
+GASB has issued the following standards effective for fiscal year 2024:
+GASB Statement No. 100, Accounting Changes and Error Corrections—an amendment of GASB
+Statement No. 62. In the opinion of management, this standard does not have a material impact on
+the Authority's financial position given current operations and obligations.
+GASB has issued the following standards effective for fiscal year 2025:
+GASB Statement No. 101, Compensated Absences. This standard updates the recognition and
+measurement guidance for compensated absences aligning them under a unified model. The
+authority has implemented GASB Statement No. 101, Compensated Absences in fiscal year 2024
+and the effects can be seen in Note 15, Accrued Compensated Absences.
+GASB Statement No. 102, Certain Risk Disclosures. The Authority has implemented GASB
+Statement No. 102, Certain Risk Disclosures. In the opinion of management, this standard did not
+have an impact on the Authority's financial statement disclosures.
+GASB has issued the following standards effective for fiscal year 2026:
+GASB Statement No. 103, Financial Reporting Model Improvements. Management has not studied
+fully the standards but is of the opinion that any impact will be minimal.
+GASB Statement No. 104, Disclosure of Certain Capital Assets. Management has not studied fully
+the standards but is of the opinion that any impact will be minimal.
+Debt Financing Costs
+The Authority follows the provisions of GASB Statement No. 65, Items Previously Reported as
+Assets and Liabilities. Issuance costs on bonds are expensed as incurred.
+Mortgage Loan Servicing
+As of September 30, 2025 and 2024, the Authority serviced $9,084,953,000 and $7,695,995,000,
+respectively, in mortgage loans. Escrow balances associated with these loans are not included in
+the statements of net position of the Authority.
+20
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Mortgage Loan Servicing – Continued
+The mortgage loan servicing portfolio by state consisted of the following at September 30, 2025
+($ in thousands):
+Alabama $ 1,831,221 20%
+Arkansas 1,229,183 14%
+Mississippi 170,004 2%
+Missouri 545,092 6%
+North Carolina 5,296,524 58%
+Other 12,929 0%
+$ 9,084,953 100%
+The mortgage loan servicing portfolio by state consisted of the following at September 30, 2024
+($ in thousands):
+Alabama $ 1,434,126 19%
+Arkansas 999,464 13%
+Mississippi 186,783 2%
+Missouri 606,815 8%
+North Carolina 4,455,941 58%
+Other 12,866 0%
+$ 7,695,995 100%
+Mortgage Servicing Rights
+The Authority follows the provisions of GASB Statement No. 62, entitled Codification of Accounting
+and Financial Reporting Guidance Contained in Pre-November 30, 1989 Financial Accounting
+Standards Board (FASB) and American Institute of Certified Public Accountants (AICPA)
+Pronouncements. In accordance with those standards, the cost of mortgage servicing rights is
+amortized in proportion to, and over the period of, estimated net servicing revenue. The amount
+originally capitalized is adjusted based on whether related loans are pooled and sold in secondary
+markets or maintained by the Authority.
+Other Real Estate Owned
+The Authority states its other real estate owned acquired through foreclosure without further
+obligation to security holders, which is included in mortgage loans receivable, net, at the lower of
+cost or fair value at the date of foreclosure. Fair value is determined based on independent
+appraisals and other relevant factors. Any write-down to fair value is charged to the allowance for
+loan losses.
+21
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Pool Buyouts
+The Authority holds certain mortgages purchased out of respective Ginnie Mae, Freddie Mac, or
+Fannie Mae pooled loans being serviced by the Authority. These are insured loans that are in the
+process of foreclosure for which the Authority anticipates receiving claim proceeds from the
+respective investor or guarantor.
+Deferred Outflows of Resources
+Deferred outflows of resources include pension-related deferred outflows, which result from the
+Authority’s Employees’ Pension Plan (Pension Plan). Pension-related deferred outflows represent
+differences between expected and actual experience, changes in assumptions and amounts
+resulting from timing differences of contributions made subsequent to the Pension Plan
+measurement dates but as of the date of the basic financial statements. Pension-related deferred
+outflows are recognized over a closed period and are amortized over the remaining average service
+life of all participating active and inactive employees.
+Deferred Inflows of Resources
+Deferred inflows of resources include pension-related deferred inflows, which represent the
+difference between projected and actual earnings on investments within the Pension Plan, are
+recognized over a closed period, and are amortized over a five-year period.
+Net Pension Liability
+Net pension liability represents the portion of the present value of projected benefit payments
+attributed to past periods of service to be provided through the Pension Plan to current active and
+inactive employees less the fiduciary net position of the Pension Plan. It represents the Authority’s
+total pension liability minus the fiduciary net position available to pay that liability. Investments that
+comprise the fiduciary net position are reported at fair value.
+Pension Plan Expense
+The Authority is required to measure and disclose amounts relating to net pension liability, deferred
+outflows of resources and deferred inflows of resources, pension expense, and the fiduciary net
+position of the Pension Plan. Actuarially determined periodic contributions are made by the
+Authority in order to maintain sufficient assets to pay benefits when due.
+Compensated Absences
+The liability for compensated absences consists of leave that has not been used that is attributable
+to services already rendered, accumulates and is more likely than not to be used for time off or
+otherwise paid in cash. The liability also includes amounts for leave that has been used for time off
+but has not yet been paid in cash or settled through noncash means and certain other types of
+leave.
+22
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES – CONTINUED
+Compensated Absences – Continued
+Generally, all permanent full-time employees are entitled to accrue and carry forward calendar year-
+end maximums of 180 sick days and no days of vacation leave. Upon termination of employment,
+qualified employees are entitled to payment for accumulated unused vacation leave. Employees are
+not entitled to payment for unused sick leave balances at termination. Annually, at fiscal year-end,
+the authority calculates and records a liability for compensated absences based on total eligible
+balance of unused employee leave. The liability is calculated using the current employee salary and
+related benefits data and is reported on the statements of net position under current and noncurrent
+liabilities as appropriate.
+Reclassification of Prior Year Presentation
+Certain prior year amounts have been reclassified for consistency with the current year
+presentation. These reclassifications had no effect on the reported changes in net position.
+Subsequent Events
+The Authority has evaluated subsequent events through December 10, 2025, which is the date the
+financial statements were available to be issued. See note 17, Subsequent Events.
+3. MORTGAGE-BACKED SECURITIES
+Mortgage-backed securities held by the Authority include securitized mortgage obligations, backed
+by pools of single family mortgage loans originated under the Authority’s program guidelines. These
+securities are “fully modified pass-through” mortgage-backed securities which require monthly
+payments by an FHA-approved, a Fannie Mae-approved, or a Freddie Mac-approved lender, as the
+issuers of the guaranteed securities, and are registered in the Authority’s name. Ginne Mae, Fannie
+Mae, and Freddie Mac guarantee timely payment of principal and interest on guaranteed securities.
+The cost of the Authority’s mortgage-backed securities at September 30, 2025 and 2024, was
+$442,698,000 and $135,025,000, respectively. At September 30, 2025, mortgage-backed securities
+had interest rates ranging from 4.54% to 7.70%
+Fair value of the Authority’s mortgage-backed securities is measured by Level 1 inputs based upon
+quoted prices in active markets. As a result of changes in the fair value of mortgage-backed
+securities, the Authority recorded net unrealized gains of $1,467,000 and $2,382,000 for the years
+ended September 30, 2025 and 2024, respectively. Interest rates may adversely affect the fair
+value of the mortgage-backed securities; however, it is the intention of the Authority to hold these
+securities until the underlying loans are paid in full.
+23
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+4. INVESTMENTS
+Investments consisted of the following at September 30 ($ in thousands):
+% %
+Investment Type 2025 of Total 2024 of Total
+Money Market Funds $ 170,248 63% $ 205,370 63%
+US Treasury Securities 101,178 37% 118,367 37%
+$ 271,426 100% $ 323,737 100%
+Fair Value
+The fair value of the Authority’s investments is measured by Level 1 inputs based upon quoted
+prices in active markets and consisted of the following at September 30 ($ in thousands):
+Investments 2025 2024
+Federated Government Obligations $ 77,088 $ 61,321
+Federated US Treasury Cash Reserves 18,827 29,120
+Federated Money Market 275 266
+First American Government Obligations 74,058 114,663
+US Treasury Securities 101,178 118,367
+Total investments $ 271,426 $ 323,737
+The cost of investments at September 30, 2025 and 2024, was $271,243,000 and $323,451,000,
+respectively. As a result of changes in the fair value of investments, the Authority recorded net
+unrealized (losses) and gains of $(104,000) and $377,000 for the years ended September 30, 2025
+and 2024, respectively.
+Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its obligation
+to the Authority. Investments for each bond issue are those permitted by the various bond
+indentures and rating agencies. (See "Summary of Significant Accounting Policies – Investments"
+for additional information concerning permitted investments of the Authority.) As of September 30,
+2025, the Authority's investments in money market funds and US Treasury Securities were rated
+Aa1 by Moody's Investor Services meeting the criteria of the Authority and the respective bond
+issue rating agencies.
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates may adversely affect the fair value of the
+investment portfolio. Investment maturities will coincide with anticipated debt service payment dates
+and expected cash flow obligations associated with the respective bond maturities and obligations
+for the Authority's bond programs and other funds. Trust indentures, market conditions, rates of
+return, interest rate spreads, and other factors influence maturity selection for all funds in excess of
+those required to meet projected cash flow obligations. Investments are generally designed to
+match the life of their related liabilities at fixed interest-rate spreads.
+24
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+4. INVESTMENTS – CONTINUED
+Investment Maturities in Years ($ in thousands)
+Investment Type Fair Value Less than 1 1–5 6–10 More than 10
+Money Market Funds $ 170,248 $ 170,248 $ - $ - $ -
+US Treasury Securities 101,178 101,178 - - -
+$ 271,426 $ 271,426 $ - $ - $ -
+Custodial Credit Risk
+For an investment, custodial credit risk is the risk that, in the event of the use of a custodial agent,
+the Authority may not be able to recover the value of its investments or collateral securities that are
+in possession of that outside party. All investments in the General and Housing Assistance funds
+are held in safekeeping or custodial accounts at approved safekeeping agents of the Authority in
+the Authority's name. All investments in the Authority's bond issues are registered in the name of
+the issues' designated trustee.
+Concentration of Credit Risk
+Concentration of credit risk is the risk of loss that may be attributed to the magnitude of an
+investment in a single type of security. The table below lists all investments by investment provider
+and type as of September 30, 2025 ($ in thousands).
+Money US
+Market Treasury
+Provider Funds Securities Total Percent
+Federated Government Obligations $ 77,088 $ - $ 77,088 29%
+Federated U.S. Treasury Cash Reserves 18,827 - 18,827 7%
+Federated Money Market 275 - 275 0%
+First American Government Obligations 74,058 - 74,058 27%
+US Treasury Securities - 101,178 101,178 37%
+Total $ 170,248 $ 101,178 $ 271,426 100%
+Investments are classified in the accompanying statements of net position as follows ($ in
+thousands):
+2025 2024
+Current assets – investments $ 77,088 $ 61,321
+Current assets – restricted investments 194,338 261,476
+Noncurrent assets – restricted investments - 940
+$ 271,426 $ 323,737
+25
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+5. MORTGAGE LOANS
+The Authority’s Single Family Programs are designed to provide mortgage loans to qualified
+homebuyers within the State of Alabama. The Authority’s guidelines generally require the mortgage
+loans to be either FHA-insured, guaranteed by the Department of Veterans Affairs, USDA Rural
+Development insured or conventionally financed with traditional primary mortgage insurance.
+The Authority’s Single Family Program guidelines allow for down payment assistance of up to 4.0%
+of the sales price and a maximum amount of $10,000. Current program guidelines require the loan
+to bear the same interest rate as the first mortgage of the property being purchased and be
+amortized over a 10-year period with 120 equal monthly principal and interest payments.
+The Authority provides permanent financing of home mortgages to Alabama Habitat for Humanity
+affiliates to help further the affiliates goal of providing safe, decent, and affordable housing to low-
+income Alabamians. The loans bear an interest rate of 0% and require equal monthly principal
+payments over the life of the loan and must not exceed a 30-year term.
+Mortgage loans receivable, net of the allowance for loan losses consisted of the following at
+September 30 ($ in thousands):
+2025 2024
+Mortgage loans receivable (2.88% to 7.20%):
+Conventional $ 2,254 $ 2,542
+Down payment assistance/Habitat for Humanity loans
+(0% to 8.13%) 44,364 34,552
+Pool buyouts and other real estate 11,787 10,378
+58,405 47,472
+Less allowance for loan losses (18,040) (13,283)
+Total mortgage loans receivable, net $ 40,365 $ 34,189
+Mortgage loans receivable are classified in the accompanying statements of net position as follows
+at September 30 ($ in thousands):
+2025 2024
+Current assets – Mortgage loans receivable, net $ 4,848 $ 4,152
+Noncurrent assets – Mortgage loans receivable, net 35,517 30,037
+$ 40,365 $ 34,189
+26
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+6. MORTGAGE LOANS HELD FOR SALE
+Mortgage loans held for sale to be securitized as mortgage-backed securities and sold by the
+Authority are reported at fair value measured by Level 2 inputs based on observable quoted prices
+of similar assets. Mortgage loans held for sale to be securitized as mortgage-backed securities for
+other entities are reported at cost. Mortgage loans held for sale were $77,736,000 and
+$102,093,000 as of September 30, 2025 and 2024, respectively.
+7. OBLIGATIONS UNDER REVERSE REPURCHASE AGREEMENTS
+Obligations under reverse repurchase agreements represent obligations whereby the Authority
+enters into a sale of securities with a simultaneous agreement to repurchase them in the future at
+the same price plus a contract rate of interest. In June of 2025, the Authority paid off the
+outstanding repurchase agreement. The Authority had obligations under reverse repurchase
+agreements of $0 and $10,330,000 as of September 30, 2025 and 2024, respectively, which were
+collateralized by securities with fair values totaling $0 and $13,344,000, as of September 30, 2025
+and 2024, respectively.
+The market value of the securities underlying the reverse repurchase agreements normally exceeds
+the cash received, providing the dealer a margin against a decline in the market value of the
+securities. If the dealer defaults on their obligation to resell these securities to the Authority or
+provide securities or cash of equal value, the Authority would suffer an economic loss equal to the
+difference between the fair value plus accrued interest of the underlying securities and the
+agreement obligation, including accrued interest. There was no credit exposure as of September
+30, 2025 and 2024.
+8. BONDS PAYABLE
+Bonds payable are limited obligations of the Authority and are not a debt or liability of the State of
+Alabama or any subdivision thereof. Each bond issue is secured, as described in the applicable
+trust indenture, by all revenues, monies, investments, mortgage loans, and other assets in the
+funds and accounts of the program under which such bonds were issued. The provisions of the
+applicable trust indentures require or allow for redemption of bonds through the use of unexpended
+bond proceeds and excess funds accumulated primarily through prepayment of mortgage loans and
+program certificates. All outstanding bonds are subject to redemption at the option of the Authority,
+in whole or in part at any time after certain dates, as specified in their respective series indenture.
+27
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+8. BONDS PAYABLE – CONTINUED
+Bonds payable consisted of the following at September 30 ($ in thousands):
+Original
+Outstanding Maturity
+2025 2024 Value
+Single Family Bond programs:
+2000/2003 Step Up Program (4.42% to 7.80%),
+due 2032 to 2036 $ 5,422 $ 5,952 $ 128,927
+2016 Series A (2.43%), due 2026 1,000 1,000 1,000
+2003 First Step Program (4.82% to 5.09%), due
+2036 78 85 793
+2024 First Step Series A (3.40% to 5.75%), due
+2025 to 2055 35,672 35,847 35,000
+2024 First Step Series B (3.40% to 6.00%), due
+2026 to 2055 76,988 77,115 75,000
+2024 First Step Series C (3.15% to 5.75%), due
+2026 to 2055 76,891 77,005 75,000
+2024 First Step Series D (3.10% to 5.75%), due
+2026 to 2056 77,286 - 75,000
+2025 First Step Series A (3.05% to 5.75%), due
+2027 to 2056 76,814 - 75,000
+2025 First Step Series B (3.25% to 6.00%), due
+2027 to 2056 102,866 - 100,000
+453,017 197,004
+Less current maturities (4,601) (743)
+Noncurrent maturities $ 448,416 $ 196,261
+Principal and interest payments on bonds after 2025 are scheduled as follows ($ in thousands):
+Fiscal Year
+Ending
+September 30 Principal Interest
+2026 $ 4,601 $ 19,946
+2027 6,435 21,333
+2028 6,740 21,077
+2029 7,070 20,804
+2030 7,410 20,512
+Thereafter 420,761 319,837
+$ 453,017 $ 423,509
+28
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+9. NET POSITION
+The Authority’s net position is comprised of the various net earnings from operating and
+nonoperating revenues, expenses, and contributions of capital. The net position is classified in the
+following three components: investment in capital assets, net of related debt; restricted net
+position; and unrestricted net position. Investment in capital assets, net of related debt, consists of
+all capital assets, net of accumulated depreciation and reduced by outstanding debt that is
+attributable to the acquisition, construction, and improvement of those assets; debt related to
+unspent proceeds or other restricted cash and investments is excluded from the determination.
+Restricted net position consists of net position for which constraints are placed thereon by external
+parties, such as lenders, grantors, contributors, laws, regulations and enabling legislation, including
+self-imposed legal mandates. Unrestricted net position consists of all other net position not included
+in the above categories.
+The various trust indentures generally permit transfers to the Authority’s General Fund for
+administrative fees and reimbursements of costs associated with the administration of the bond
+programs. Otherwise, the cash and investments of the various Program Funds are retained in the
+trust indentures to satisfy debt service obligations with respect to the applicable bonds, and are
+restricted to this purpose. Such amounts are reflected as restricted components of net position.
+10. DERIVATIVE INSTRUMENTS
+At September 30, 2025, the Authority had $17,259,000 in forward sales commitments to issue
+Ginnie Mae and Freddie Mac securities securitized by single family loans. These instruments are
+utilized to hedge changes in fair value of mortgage loans held for sale and interest rate risk on
+commitments to purchase mortgage loans from originating mortgage lenders. The Authority is
+subject to market value fluctuations in the event that mortgage loans are not originated as expected
+and the committed securities cannot be delivered.
+29
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+10. DERIVATIVE INSTRUMENTS – CONTINUED
+The Authority is subject to credit risk with respect to counterparties to the forward sales commitment
+contracts summarized as follows ($ in thousands):
+Outstanding
+Delivery Notional Fair Counterparty
+Date Coupon Rate Amount Values Credit Rating
+Freddie Mac
+October 2025 6.625% $ 285 $ (4) Aa1
+October 2025 6.75% 68 (3) Aa1
+October 2025 6.75% 275 (5) Aa1
+October 2025 6.75% 284 (5) Aa1
+October 2025 6.75% 347 (5) Aa1
+1,259 (22)
+Ginnie Mae
+October 2025 6.50% 10,000 (100) A2
+October 2025 6.00% 6,000 (10) A3
+16,000 (110)
+$ 17,259 $ (132)
+11. CONDUIT DEBT
+From time to time, the Authority issues bonds to provide multifamily housing for the citizens of
+Alabama. The Authority functions as a conduit to provide tax-exempt financing. These bonds do not
+constitute a debt or pledge of the faith and credit of the Authority or the State of Alabama, and
+accordingly, have not been reported in the accompanying financial statements.
+The Authority does not actively monitor the operating performance or financial condition of the
+multifamily properties financed by the bonds. Multifamily mortgage loans are collateralized by
+varying methods, including first liens on multifamily residential rental properties located within the
+State of Alabama, short-term investments, letters of credit, surety bonds, and guarantees provided
+by third parties. The Authority has no obligation for the bonds beyond these resources.
+All variable rate bonds bear interest at a weekly rate until maturity or earlier redemption. The
+remarketing agent for each bond issue establishes the weekly rate according to each indenture’s
+remarketing agreement. The weekly rates are communicated to the various bond trustees for
+preparation of debt service payments. The weekly rate, as set by the remarketing agent, allows the
+bonds to trade in the secondary market at a price equal to 100% of the principal amount of the
+bonds outstanding, with each rate not exceeding maximum rates permitted by law.
+30
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+11. CONDUIT DEBT – CONTINUED
+Conduit debt consisted of the following at September 30 ($ in thousands):
+Aggregate Principal Original
+Outstanding Maturity
+2025 2024 Value
+2000 Series A (variable), due 2030 $ - $ 3,700 $ 6,000
+2005 Series E & F (variable), due 2035 and 2038 21,550 21,550 21,550
+2008 Series B (variable), due 2030 2,359 2,496 4,130
+2012 Series A (4.96%), due 2032 2,141 2,208 13,000
+2015 Series A (4.15%), due 2032 - 4,064 7,280
+2017 Series A (5.00%), due 2034 10,874 11,013 12,460
+2019 Series A (4.43%), due 2037 7,200 8,400 9,600
+2021 Series A (1.25%), due 2025 - 14,270 14,270
+2022 Series A, B, C, F, G, H (2.00% to 5.00%),
+due 2040 37,093 90,902 37,316
+2023 Series B, C, D (5.00% to 5.23%), due 2027 to 2041 19,935 31,735 19,935
+2024 Series A, B, C (4.45% to 5.00%), due 2027 to 2045 72,753 - 72,753
+2025 Series A, B (3.125% to 5.10%), due 2029 to 2043 28,000 - 28,000
+$ 201,905 $ 190,338
+Principal and interest payments on conduit debt after 2025 are scheduled as follows ($ in
+thousands):
+Fiscal Year
+Ending
+September 30 Principal Interest
+2026 $ 546 $ 8,116
+2027 3,541 9,072
+2028 29,381 8,252
+2029 55,025 6,307
+2030 637 5,081
+Thereafter 112,775 46,238
+$ 201,905 $ 83,066
+31
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS
+Defined Contribution Plan
+Substantially all full-time employees of the Authority participate in a defined contribution retirement
+plan, the Alabama Housing Finance Authority Retirement Plan (the Retirement Plan), which
+provides retirement benefits to participants. The Retirement Plan is administered by an
+independent, third-party administrator. To be eligible, an employee must meet certain age and
+service requirements. Once an employee is eligible, participation is mandatory. Each employee
+must contribute 5% of their compensation to the Retirement Plan each pay period. The Authority
+contributes an amount equal to 7% of each participant’s compensation each pay period. The
+Authority’s contributions to the Retirement Plan were $821,000 and $775,000, in fiscal 2025 and
+2024, respectively. The employees’ contributions to the Retirement Plan were $586,000 and
+$554,000, in fiscal 2025 and 2024, respectively. The employees vest in the Authority’s contribution
+based upon a six-year vesting schedule.
+Defined Benefit Plan
+Plan Description
+The Authority established the Alabama Housing Finance Authority Employees’ Pension Plan (the
+Pension Plan), a single-employer defined benefit pension plan, on September 26, 2002. All Pension
+Plan investments are reported at fair value. The Pension Plan provides retirement, death, disability,
+and termination benefits to participants and beneficiaries.
+Benefit provisions are established by the Board of Directors (the Board) under a formal, written plan
+document and assets are held under a separate tax-qualified plan trust. Those provisions can only
+be amended by the Board. The plan and trust information can be obtained from the Alabama
+Housing Finance Authority, 7460 Halcyon Pointe Drive, Suite 200, Montgomery, AL 36117. A
+separate stand-alone financial report for the Pension Plan is available.
+Benefits Provided
+An employee is eligible to participate in the Pension Plan on the next October 1 or April 1 following
+the completion of six months service and attainment of age 21. A participant’s normal retirement
+date is age 65, or five years’ participation, if later. A participant is eligible for early retirement upon
+attainment of age 55 and 10 years of service. In addition, a participant is entitled to a vested benefit
+based on years of service as follows: 3 years 20%, 4 years 40%, 5 years 60%, 6 years 80%, and 7
+or more years 100%. In addition, in the event of death or qualifying disability, benefits are 100%
+vested and are available to be paid immediately.
+A participant’s normal retirement benefit payable at normal retirement as a life annuity is equal to
+2% of an employee’s average compensation multiplied by years of credited service. Average
+compensation is based on the 36 highest consecutive months that results in the highest average.
+Credited service is based on 1,000 hours per plan year and is determined from date of hire (with
+maximum of 25 years). Certain special service rules applied before May 1, 2015. Normal retirement
+benefits are paid monthly and can be paid in other forms of annuities as elected by the participant
+including single payment lump sums.
+32
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Benefits Provided – Continued
+Benefits paid at early retirement are the actuarial equivalent normal retirement benefit. Benefits
+payable at death, disability, or vested benefits are the actuarial equivalent single sum value of the
+normal retirement benefit. Lump sums are based on the actuarial equivalent factors, or the IRS
+minimum lump sum basis, if higher.
+2025 2024
+Inactive employees receiving benefits 1 -
+Inactive employees entitled to but not receiving benefits 1 1
+Active employees 157 145
+159 146
+Contributions
+Contribution requirements and benefit provisions of the Pension Plan are established by the Board.
+The funding policy provides for actuarially determined periodic contributions of amounts that will
+enable sufficient assets to pay benefits when due. The funding basis has been the range of
+contributions from the minimum (Minimum Required Contribution) to maximum deductible under
+federal pension laws related to applicable pension plans. Contributions have been determined
+under the funding laws under the Pension Protection Act of 2006 and later related funding law
+changes.
+Contributions were $2,000,000 and $2,352,000, equaling approximately 18.36% and 22.54% of
+payroll of covered participants for the years ended September 30, 2025 and 2024, respectively.
+Investments
+Policies pertaining to the allocation of investments within the Pension Plan are established by the
+Authority. It is the policy of the Authority to invest pension assets in securities that provide growth
+and income while maintaining a balanced level of risk tolerance. The following illustrates the
+approved asset allocation policy for the years ended September 30, 2025 and 2024:
+% Range of Allocation
+Minimum Target Maximum
+Investment Type:
+Large cap domestic equity securities 15% 30% 50%
+Small-Mid cap domestic equities 0% 10% 20%
+International equity 0% 10% 20%
+Fixed income and cash equivalent securities 30% 50% 60%
+Alternatives 0% 0% 15%
+33
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Investments – Continued
+Permitted securities in which assets of the Pension Plan may be invested include any of the
+following:
+Equity Securities
+US common and preferred stocks
+US equity mutual funds
+Equity exchange traded funds
+International equity mutual funds
+Fixed Income Securities/Cash Equivalents
+US government
+US mortgage and asset-backed
+US corporate bonds
+Taxable municipal bonds
+Fixed income mutual funds
+Fixed income exchange traded funds
+Money market mutual funds
+Money market exchange traded funds
+Cash
+Alternatives
+Real estate mutual funds
+Real estate exchange traded funds
+Multi-alternatives strategy mutual funds
+Multi-alternative strategy exchange traded funds
+The fair value of investments is determined by market prices.
+As of September 30, 2025 and 2024, there were no concentrations of investments in any
+organization that represented 5% or more of the Pension Plan’s fiduciary net position.
+For years ended September 30, 2025 and 2024, the estimated annual weighted rate of return
+based on the Bankers Index Method (BAI) was 10.26% and 20.97%, respectively. The BAI rate of
+return expresses investment performance, net of investment expense, adjusted for the amounts
+actually invested with contributions and disbursements deemed to be made uniformly throughout
+the year.
+The assumed discount rate related to plan investments was 7.00%.
+34
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Investments – Continued
+The fiduciary net position of the Pension Plan at September 30, 2025 and 2024 was invested as
+follows ($ in thousands):
+2025 2024
+Cash equivalents $ 2,348 $ 2,565
+Equity securities 17,523 15,963
+Fixed income securities 14,097 12,237
+Total $ 33,968 $ 30,765
+Actuarial Assumptions
+The Pension Plan was measured as of September 30, 2025 and 2024, and the total pension liability
+used to calculate the net pension liability was determined by actuarial valuations as of those dates.
+The total pension liability in the September 30, 2025 and 2024 actuarial valuations was determined
+using the following actuarial assumptions, applied to all periods included in the measurement:
+Rate
+Inflation 3.00%
+Salary increases 4.50%
+Investment rate of return 7.00%
+Mortality rates used in the September 30, 2025 actuarial valuation were based on the 2025
+Applicable Mortality Table for small plans under the minimum funding requirements of IRC Section
+430. Mortality rates used in the September 30, 2024 actuarial valuation were based on the 2024
+Applicable Mortality Table for small plans under the minimum funding requirements of IRC Section
+430. Retirements were assumed based on each participant’s normal retirement date with benefits
+payable in the form of a lump sum based on applicable lump sum rates. Prior to retirement, turnover
+was based on the T-1 withdrawal rates which reflects lower turnover.
+The long-term expected rate of return on the Pension Plan, based on using best-estimate ranges of
+expected future real rates of return (expected returns, net of inflation), was developed for each
+major asset class. These ranges are combined to produce the long-term expected rate of return by
+weighting the expected future real rates of return by the target asset allocation percentage and by
+adding future inflation.
+35
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Actuarial Assumptions – Continued
+The target allocation and best estimates of arithmetic real rates of return for each major asset class
+for the years ended September 30, 2025 and 2024 are summarized below:
+Expected Long-Term
+Asset Class Target Allocation Rate of Return
+Equity 50% 5% – 8%
+Fixed Income 50% 2% – 5%
+The discount rate used to measure the total pension liability at September 30, 2025 and 2024 was
+7.00%. The Pension Plan’s fiduciary net positions are projected to be available to make all
+projected future benefit payments of current active and inactive employees. Therefore, the long-
+term expected rate of return on the pension investments was applied to all periods of projected
+benefit payments to determine the total pension liability.
+Changes in the Net Pension (Asset) Liability ($ in thousands)
+Net
+Total Pension Pension
+Pension Fiduciary (Asset)
+Liability Net Position Liability
+(A) (B) (A) - (B)
+Balances at October 1, 2024 $ 22,487 $ 30,588 $ (8,101)
+Service cost 1,650 - 1,650
+Interest cost 1,689 - 1,689
+Differences between expected and
+actual experience (114) - (114)
+Changes in assumptions 2 - 2
+Contributions – employer - 2,000 (2,000)
+Net investment income - 3,136 (3,136)
+Benefit payments, including refunds
+of member contributions (2,014) (2,014) -
+Net changes 1,213 3,122 (1,909)
+Balances at September 30, 2025 $ 23,700 $ 33,710 $ (10,010)
+36
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Changes in the Net Pension (Asset) Liability ($ in thousands) – Continued
+Net
+Total Pension Pension
+Pension Fiduciary (Asset)
+Liability Net Position Liability
+(A) (B) (A) - (B)
+Balances at October 1, 2023 $ 20,106 $ 24,388 $ (4,282)
+Service cost 1,514 - 1,514
+Interest cost 1,513 - 1,513
+Differences between expected and
+actual experience 721 - 721
+Changes in assumptions 2 - 2
+Contributions – employer - 2,352 (2,352)
+Net investment income - 5,217 (5,217)
+Benefit payments, including refunds
+of member contributions (1,369) (1,369) -
+Net changes 2,381 6,200 (3,819)
+Balances at September 30, 2024 $ 22,487 $ 30,588 $ (8,101)
+The change in assumptions reflected in the changes in net pension (asset) liability for the years
+ended September 30, 2025 and 2024 was the result of basing the valuation on the 2024 and 2023
+Applicable Mortality Tables in lieu of the 2025 and 2024 Applicable Mortality Tables.
+Sensitivity of the Net Pension (Asset) Liability to Changes in the Discount Rate
+The following information presents the net pension (asset) liability calculated using the discount rate
+of 7.00% as well as net pension (asset) liability using a discount rate that is 1.00% lower or 1.00%
+higher than the current rate for the years ended September 30 (in thousands):
+Current
+1% Decrease Discount Rate 1% Increase
+(6%) (7%) (8%)
+2025 $ (8,852) $ (10,010) $ (11,119)
+2024 (7,024) (8,101) (9,136)
+37
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+12. RETIREMENT PLANS – CONTINUED
+Defined Benefit Plan – Continued
+Pension Expense and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions
+For the years ended September 30, 2025 and 2024, the Pension Plan recognized pension income
+(expense) of $693,000 and $227,000, respectively. At September 30, 2025 and 2024, the Authority
+reported deferred outflows of resources and deferred inflows of resources related to the Pension
+Plan from the following sources ($ in thousands):
+2025 2024
+Deferred Outflows:
+Net differences between projected and
+actual earnings on investments $ - $ -
+Deferred Inflows:
+Net differences between projected and
+actual earnings on investments 2,029 942
+Differences between expected and
+actual experience 272 164
+Changes in assumptions 43 22
+Gross deferred inflows 2,344 1,128
+Net deferred (inflows) outflows $ (2,344) $ (1,128)
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to
+pensions will be recognized in pension expense as follows ($ in thousands):
+September 30,
+2026 $ (130)
+2027 186
+2028 (960)
+2029 (884)
+2030 (189)
+Thereafter (367)
+Net deferred outflows $ (2,344)
+38
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+13. RIGHT-TO-USE LEASE LIABILITY
+The Authority leases office space under an agreement expiring in December 2029. Under the terms
+of the lease agreement, the Authority pays a monthly base fee of approximately $90,000, with
+annual escalations.
+The Authority used a discount rate of 5.5% (based on the Authority’s incremental borrowing rate).
+Right-to-use lease liability activity for the years ended September 30, 2025 and 2024 is as follows
+($ in thousands):
+Balance Balance
+October 1, September 30,
+2024 Additions Reductions 2025
+Right-to-use lease
+liability $ 5,537 $ - $ (961) $ 4,576
+Balance Balance
+October 1, September 30,
+2023 Additions Reductions 2024
+Right-to-use lease
+liability $ 6,320 $ - $ (783) $ 5,537
+Future principal and interest payments on right-to-use lease liabilities as of September 30, 2025 are
+as follows ($ in thousands):
+Year Ending
+September 30 Principal Interest Total
+2026 $ 850 $ 228 $ 1,078
+2027 1,038 173 1,211
+2028 1,132 114 1,246
+2029 1,237 49 1,286
+2030 319 1 320
+4,576 565 5,141
+Less current portion (850) (228) (1,078)
+Noncurrent right-to-use
+lease liability $ 3,726 $ 337 $ 4,063
+39
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+13. RIGHT-TO-USE LEASE LIABILITY – CONTINUED
+As of September 30, 2025 and 2024, total assets related to right-to-use lease liabilities totaled
+$3,794,000 and $4,686,000, respectively, and are included in noncurrent other assets, net, on the
+statements of net position. Amortization of assets related to right-to-use lease liabilities for the years
+ended September 30, 2025 and 2024 was $892,000. Accumulated amortization of assets related to
+right-to-use lease liabilities as of September 30, 2025 and 2024 was $4,461,000 and $3,569,000,
+respectively. For the years ended September 30, 2025 and 2024, the Authority recorded $277,000
+and $323,000, respectively, in interest expense related to the right-to-use lease liability.
+14. SUBSCRIPTION-BASED INFORMATION TECHNOLOGY ARRANGEMENTS (SBITA)
+The Authority has entered into SBITAs involving:
+ Mortgage and lending software including compliance software and data analytics
+ Investment software
+ Hosting and cloud services
+The Authority used a discount rate of 5.5% - 4.5% (based on the Authority’s incremental borrowing
+rate).
+SBITA activity for the years ended September 30, 2025 and 2024 is as follows ($ in thousands):
+Balance
+Balance September 30,
+October 1, 2024 Additions Reductions 2025
+Subscription liability $ 2,739 $ - $ (946) $ 1,793
+Balance
+Balance September 30,
+October 1, 2023 Additions Reductions 2024
+Subscription liability $ 3,658 $ - $ (919) $ 2,739
+40
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+14. SUBSCRIPTION-BASED INFORMATION TECHNOLOGY ARRANGEMENTS (SBITA) –
+CONTINUED
+Future principal and interest payments on subscription liabilities as of September 30, 2025, are as
+follows ($ in thousands):
+Year Ending
+September 30 Principal Interest Total
+2026 $ 1,065 $ 73 $ 1,138
+2027 728 20 748
+1,793 93 1,886
+Less current portion (1,065) (73) (1,138)
+Noncurrent subscription
+liability $ 728 $ 20 $ 748
+As of September 30, 2025 and 2024, subscription assets recorded under SBITAs totaled
+$1,804,000 and $2,207,000, respectively, and are presented in noncurrent assets, net, on the
+statements of net position. Amortization of assets recorded under SBITAs for the years ended
+September 30, 2025 and 2024 was $843,000 and $844,000, respectively. Accumulated
+amortization of assets recorded under SBITAs as of September 30, 2025 and 2024 was $3,166,000
+and $2,323,000, respectively. For the years ended September 30, 2025 and 2024, the Authority
+recorded $117,000 and $188,000, respectively, in interest expense related to the SBITAs liability.
+15. ACCRUED COMPENSATED ABSENCES
+The Authority adopted GASB Statement No. 101, Compensated Absences and retroactively
+implemented the provisions of the standard as of October 1, 2023. The implementation of this
+standard provides recognition and measurement under a unified model.
+Beginning net position was restated to retroactively adopt the provisions of GASB Statement No.
+101, Compensated Absences.
+The Authority has compensated absences consisting of the following:
+ Accrued sick leave
+ Accrued personal leave
+ Employer contributions related to the Retirement Plan
+ Salary-related tax payments
+41
+ALABAMA HOUSING FINANCE AUTHORITY
+NOTES TO THE FINANCIAL STATEMENTS
+SEPTEMBER 30, 2025 AND 2024
+15. ACCRUED COMPENSATED ABSENCES – CONTINUED
+Accrued Compensated Absences liability activity for the years ended September 30, 2025 and 2024
+is as follows ($ in thousands):
+Balance
+October 1, 2024 Balance
+(as restated) Net change September 30, 2025
+Compensated absences
+liability $ 666 $ 16 $ 682
+Balance Balance
+October 1, 2023 September 30, 2024
+(as restated) Net change (as restated)
+Compensated absences
+liability $ 601 $ 65 $ 666
+16. EARLY RETIREMENT OF BONDS
+The Authority’s mortgage revenue bonds are subject to certain extraordinary redemption provisions.
+During the years ended September 30, 2025 and 2024, the Authority called approximately
+$536,000 and $805,000 (net of unamortized discounts), respectively, of Single Family Bonds in
+advance of their scheduled maturities.
+17. SUBSEQUENT EVENTS
+The Authority has evaluated events and transactions that occurred after September 30, 2025 through
+December 10, 2025, the date the financial statements were available to be issued. Based on this
+evaluation, the following subsequent events have been identified and disclosed:
+The Authority awarded Federal funds totaling $17,086,000 under the HOME Program.
+The Authority awarded Federal funds totaling $1,572,000 under the Housing Trust Fund.
+The Authority awarded Federal funds totaling $1,537,000 under the Emergency Rental Assistance
+Program.
+The Authority issued approximately $21,000,000 of multifamily bonds as conduit debt.
+The Authority issued approximately $75,000,000 of Collateralized Single Family Mortgage Revenue
+Bonds.
+42
+REQUIRED SUPPLEMENTARY INFORMATION
+ALABAMA HOUSING FINANCE AUTHORITY
+SCHEDULES OF CHANGES IN THE AUTHORITY’S NET PENSION
+LIABILITY AND RELATED RATIOS
+SEPTEMBER 30, 2025 – 2016
+($ in thousands)
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+TOTAL PENSION LIABILITY
+Service cost $ 1 ,650 $ 1 ,514 $ 1 ,391 $ 1 ,340 $ 1 ,565 $ 1 ,595 $ 1 ,422 $ 1 ,215 $ 1 ,041 $ 5 77
+Interest 1 ,689 1 ,513 1 ,386 1 ,622 1 ,525 1 ,268 1 ,008 873 795 768
+Differences between expected and
+actual experience (114) 721 (790) (4,174) (818) 869 1 ,101 162 2 ,072 1 ,736
+Changes in assumptions 2 2 66 53 (149) (2) 74 16 21 16
+Benefit payments (2,014) (1,369) (364) (2,262) (499) (39) (62) (543) (2,991) (3,169)
+Net change in total pension liability 1 ,213 2 ,381 1 ,689 (3,421) 1 ,624 3 ,691 3 ,543 1 ,723 938 (72)
+Total pension liability – beginning 2 2,487 2 0,106 1 8,417 2 1,838 2 0,214 1 6,523 1 2,980 1 1,257 1 0,319 1 0,391
+Total pension liability – ending (A) 2 3,700 2 2,487 2 0,106 1 8,417 2 1,838 2 0,214 1 6,523 1 2,980 1 1,257 1 0,319
+PENSION FIDUCIARY NET POSITION
+Contributions – employer 2 ,000 2 ,352 1 ,700 1 ,740 1 ,404 1 ,660 1 ,356 2 ,264 2 ,293 1 ,497
+Net investment income (loss) 3 ,136 5 ,217 1 ,906 (3,953) 3 ,121 1 ,209 818 670 1 ,166 1 ,333
+Benefit payments (2,014) (1,369) (364) (2,262) (499) (39) (62) (543) (2,991) (3,169)
+Net change in pensions fiduciary net position 3 ,122 6 ,200 3 ,242 (4,475) 4 ,026 2 ,830 2 ,112 2 ,391 468 (339)
+Pensions fiduciary net position – beginning 3 0,588 2 4,388 2 1,146 2 5,621 2 1,595 1 8,765 1 6,653 1 4,262 1 3,794 1 4,133
+Pensions fiduciary net position – ending (B) 3 3,710 3 0,588 2 4,388 2 1,146 2 5,621 2 1,595 1 8,765 1 6,653 1 4,262 1 3,794
+NET PENSION ASSET (A) - (B) $ (10,010) $ (8,101) $ (4,282) $ (2,729) $ (3,783) $ (1,381) $ (2,242) $ (3,673) $ (3,005) $ (3,475)
+COVERED PAYROLL $ 1 1,743 $ 1 0,435 $ 9 ,758 $ 1 0,327 $ 9 ,231 $ 9 ,325 $ 8 ,957 $ 8 ,565 $ 8 ,000 $ 7 ,415
+NET PENSION ASSET AS A
+PERCENTAGE OF COVERED PAYROLL 85.24% 77.63% 43.88% 26.43% 40.98% 14.81% 25.03% 42.88% 37.56% 46.86%
+NET POSITION AS A PERCENTAGE
+OF THE TOTAL PENSION LIABILITY 142.24% 136.03% 121.30% 114.82% 117.32% 106.83% 113.57% 128.30% 126.69% 133.68%
+See independent auditors’ report.
+43
+ALABAMA HOUSING FINANCE AUTHORITY
+SCHEDULE OF EMPLOYER CONTRIBUTIONS TO AUTHORITY
+EMPLOYEES’ PENSION PLAN
+($ in thousands)
+Actuarially Contributions Contribution Contribution
+Determined From (Deficiency)/ Covered as a % of
+Year Contribution Authority Excess Payroll Payroll
+2016 $ 997 $ 1,497 $ 500 $ 7,415 20.19%
+2017 1,293 2,293 1,000 8,000 28.66%
+2018 1,464 2,264 800 8,565 26.43%
+2019 1,356 1,356 - 8,957 15.14%
+2020 1,660 1,660 - 9,325 17.80%
+2021 1,404 1,404 - 9,231 15.21%
+2022 1,740 1,740 - 10,327 16.85%
+2023 1,600 1,700 100 9,758 17.42%
+2024 1,952 2,352 400 10,435 22.54%
+2025 2,000 2,000 - 11,743 18.36%
+Notes to Schedule:
+Valuation Date: Actuarially determined contribution rates are determined as of October 1, the
+beginning of the plan year.
+Methods and Assumptions: The actuarial valuation is performed under the requirements of Internal
+Revenue Code (IRC) Section 430; pursuant to the Pension Protection Act of 2006 (PPA) and
+subsequent pension laws MAP-21 and HAFTA. The valuation is calculated using PPA actuarial
+funding methods and prescribed discounts segmented rates. The applicable discount rates for the
+2025 actuarial valuation were 4.75% (0-5 years), 4.81% (6-20 years), and 5.50% (for 20+ years).
+The salary increase assumption was 4.5% per year.
+Other assumptions included the Applicable Mortality Table, low turnover table, Table T1, and 100%
+lump sum elections. The prior years’ actuarial reports outline the applicable funding rates for the
+applicable years.
+See independent auditors’ report.
+44
+OTHER FINANCIAL INFORMATION
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENT OF NET POSITION
+SINGLE FAMILY BOND SERIES – ADDITIONAL SEGMENT DATA
+SEPTEMBER 30, 2025
+($ in thousands)
+2000/2003 2003 2002 D, 2024 Combined
+Step Up First Step 2016 A First Step Single Family
+ASSETS
+CURRENT ASSETS
+Cash on deposit $ - $ - $ - $ - $ -
+Accounts receivable, net - - - - -
+Accrued interest receivable - - - - -
+Mortgage loans receivable, net - - - - -
+Mortgage loans held for sale - - - - -
+Investments - - - - -
+Other assets, net - - - - -
+Restricted:
+Cash on deposit - - 25 - 25
+Accrued interest receivable 33 249 2,617 2,899
+Investments 771 42 120,190 54,507 175,510
+Other assets - - - - -
+Federal program loans receivable, net - - - - -
+Total current assets 804 42 120,464 57,124 178,434
+NONCURRENT ASSETS
+Mortgage loans receivable, net - - - - -
+Other assets, net - - - - -
+Mortgage servicing rights, net - - - - -
+Restricted:
+Mortgage-backed securities 4,959 78 31,199 409,558 445,794
+Other assets, net - - - - -
+Federal program loans receivable, net - - - - -
+Total noncurrent assets 4,959 78 31,199 409,558 445,794
+TOTAL ASSETS 5,763 120 151,663 466,682 624,228
+DEFERRED OUTFLOWS
+Pension-related deferred outflows - - - - -
+TOTAL ASSETS AND DEFERRED OUTFLOWS $ 5,763 $ 120 $ 151,663 $ 466,682 $ 624,228
+LIABILITIES
+CURRENT LIABILITIES
+Bonds payable, net $ 376 $ - $ 1,000 $ 3,225 $ 4,601
+Refundable Federal program grants - - - - -
+Accrued interest payable 25 - 6 9,097 9,128
+Right-to-use lease liability - - - - -
+Subscription liability - - - - -
+Accrued compensated absences - - - - -
+Other liabilities - - - 322 322
+Total current liabilities 401 - 1,006 12,644 14,051
+NONCURRENT LIABILITIES
+Bonds payable, net 5,047 79 - 443,290 448,416
+Refundable Federal program grants, net - - - - -
+Unearned compliance and commitment fees, net - - - - -
+Right-to-use lease liability - - - - -
+Subscription liability - - - - -
+Total noncurrent liabilities 5,047 79 - 443,290 448,416
+TOTAL LIABILITIES 5,448 79 1,006 455,934 462,467
+DEFERRED INFLOWS
+Pension-related deferred inflows - - - - -
+TOTAL LIABILITIES AND DEFERRED INFLOWS 5,448 79 1,006 455,934 462,467
+NET POSITION
+Investment in capital assets, net - - - -
+Restricted 315 41 150,657 10,748 161,761
+Unrestricted - - - - -
+Total net position 315 41 150,657 10,748 161,761
+TOTAL LIABILITIES, DEFERRED INFLOWS AND
+NET POSITION $ 5,763 $ 120 $ 151,663 $ 466,682 $ 624,228
+See independent auditors’ report.
+45
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+SINGLE FAMILY BOND SERIES – ADDITIONAL SEGMENT DATA
+FOR THE YEAR ENDED SEPTEMBER 30, 2025
+($ in thousands)
+2000/2003 2003 2002 D, 2024 Combined
+Step Up First Step 2016 A First Step Single Family
+OPERATING REVENUES
+Interest on mortgage loans $ - $ - $ - $ - $ -
+Interest on mortgage-backed securities 293 4 1,748 12,741 14,786
+Investment income 22 2 5,656 3,361 9,041
+Net realized and unrealized gain on
+investments (86) (2) (293) 1 ,743 1,362
+Loan servicing fees and other income 5 - - - 5
+Total operating revenues 2 34 4 7 ,111 1 7,845 2 5,194
+OPERATING EXPENSES
+Interest 315 4 342 14,130 14,791
+Amortization of mortgage servicing rights - - - - -
+Program, general, and administrative 6 - 19 3,114 3,139
+Total operating expenses 3 21 4 3 61 1 7,244 1 7,930
+OPERATING INCOME (LOSS) (87) - 6,750 601 7,264
+NONOPERATING REVENUES
+(EXPENSES)
+Federal program grants - - - - -
+Federal program expenditures - - - - -
+Net nonoperating revenues (expenses) - - - - -
+INCOME (LOSS) BEFORE TRANSFERS (87) - 6,750 601 7,264
+Transfers in (out) - - (12,703) 4,703 (8,000)
+CHANGES IN NET POSITION (87) - (5,953) 5 ,304 (736)
+NET POSITION
+Beginning of year 402 41 156,610 5,444 162,497
+End of year $ 315 $ 41 $ 150,657 $ 10,748 $ 161,761
+See independent auditors’ report.
+46
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENT OF NET POSITION
+COMBINING ALL FUNDS – ADDITIONAL SEGMENT DATA
+SEPTEMBER 30, 2025
+($ in thousands)
+Combined Housing
+Single Federal Assistance General
+Family Programs Fund Fund Combined
+ASSETS
+CURRENT ASSETS
+Cash on deposit $ - $ - $ 160 $ 15,259 $ 15,419
+Accounts receivable, net - - - 283 283
+Accrued interest receivable - - 169 204 373
+Mortgage loans receivable, net - - 4,800 48 4,848
+Mortgage loans held for sale - - - 77,736 77,736
+Investments - - 25,027 52,061 77,088
+Other assets, net - - - 11,220 11,220
+Restricted:
+Cash on deposit 25 45,666 - - 45,691
+Accrued interest receivable 2,899 19,190 - - 22,089
+Investments 175,510 18,828 - - 194,338
+Other assets - 17 - - 17
+Federal program loans receivable, net - 62,083 - - 62,083
+Total current assets 178,434 145,784 30,156 156,811 511,185
+NONCURRENT ASSETS
+Mortgage loans receivable, net - - 37,250 (1,733) 35,517
+Other assets, net - - - 15,175 15,175
+Mortgage servicing rights, net - - - 73,250 73,250
+Restricted:
+Mortgage-backed securities 445,794 - - - 445,794
+Other assets, net - 432 - 1,472 1,904
+Federal program loans receivable, net - 282,076 - - 282,076
+Total noncurrent assets 445,794 282,508 37,250 88,164 853,716
+TOTAL ASSETS 624,228 428,292 67,406 244,975 1,364,901
+DEFERRED OUTFLOWS
+Pension-related deferred outflows - - - - -
+TOTAL ASSETS AND DEFERRED OUTFLOWS $ 624,228 $ 428,292 $ 67,406 $ 244,975 $ 1,364,901
+LIABILITIES
+CURRENT LIABILITIES
+Bonds payable, net $ 4,601 $ - $ - $ - $ 4,601
+Refundable Federal program grants - 62,083 - - 62,083
+Accrued interest payable 9,128 19,190 - 41 28,359
+Right-to-use lease liability - - - 850 850
+Subscription liability - - - 1,065 1,065
+Accrued compensated absences - - - 682 682
+Other liabilities 322 1,991 2,150 (884) 3,579
+Total current liabilities 14,051 83,264 2,150 1,754 101,219
+NONCURRENT LIABILITIES
+Bonds payable, net 448,416 - - - 448,416
+Refundable Federal program grants, net - 276,892 - - 276,892
+Unearned compliance and commitment fees, net - - - 15,558 15,558
+Right-to-use lease liability - - - 3,726 3,726
+Subscription liability - - - 728 728
+Total noncurrent liabilities 448,416 276,892 - 20,012 745,320
+TOTAL LIABILITIES 462,467 360,156 2,150 21,766 846,539
+DEFERRED INFLOWS
+Pension-related deferred inflows - - - 2,344 2,344
+TOTAL LIABILITIES AND DEFERRED INFLOWS 462,467 360,156 2,150 24,110 848,883
+NET POSITION
+Investment in capital assets, net - - - 1,472 1,472
+Restricted 161,761 68,136 - - 229,897
+Unrestricted - - 65,256 219,393 284,649
+Total net position 161,761 68,136 65,256 220,865 516,018
+TOTAL LIABILITIES, DEFERRED INFLOWS AND
+NET POSITION $ 624,228 $ 428,292 $ 67,406 $ 244,975 $ 1,364,901
+See independent auditors’ report.
+47
+ALABAMA HOUSING FINANCE AUTHORITY
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+COMBINING ALL FUNDS – ADDITIONAL SEGMENT DATA
+FOR THE YEAR ENDED SEPTEMBER 30, 2025
+($ in thousands)
+Combined Housing
+Single Federal Assistance General Combined
+Family Programs Fund Fund Totals
+OPERATING REVENUES
+Interest on mortgage loans $ - $ - $ 1,678 $ 5,993 $ 7,671
+Interest on mortgage-backed securities 14,786 - - - 14,786
+Investment income 9,041 - 358 1,604 11,003
+Net realized and unrealized gain on
+investments 1,362 - - 5,259 6,621
+Loan servicing fees and other income 5 - 1,257 53,608 54,870
+Total operating revenues 2 5,194 - 3 ,293 6 6,464 9 4,951
+OPERATING EXPENSES
+Interest 14,791 - - 395 15,186
+Amortization of mortgage servicing rights - - - 5,944 5,944
+Program, general, and administrative 3,139 - 1,024 50,906 55,069
+Total operating expenses 1 7,930 - 1 ,024 5 7,245 7 6,199
+OPERATING INCOME 7,264 - 2,269 9,219 18,752
+NONOPERATING REVENUES
+(EXPENSES)
+Federal program grants - 22,667 - - 22,667
+Federal program expenditures - (9,776) - - (9,776)
+Net nonoperating revenues (expenses) - 12,891 - - 12,891
+INCOME BEFORE TRANSFERS 7,264 12,891 2,269 9,219 31,643
+Transfers in (out) (8,000) - - 8,000 -
+CHANGES IN NET POSITION (736) 12,891 2,269 17,219 31,643
+NET POSITION
+Beginning of year, as restated 162,497 55,245 62,987 203,646 484,375
+End of year $ 161,761 $ 68,136 $ 65,256 $ 220,865 $ 516,018
+See independent auditors’ report.
+48

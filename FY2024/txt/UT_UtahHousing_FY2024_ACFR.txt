@@ -1,0 +1,209 @@
+UTAH HOUSING CORPORATION                                                $ 178,733
+                                                                            246,331
+BALANCE SHEET                                                                18,903
+AS OF JUNE 30, 2024                                                          11,339
+(In thousands)                                                                 4,315
+
+ASSETS AND DEFERRED OUTFLOWS                                                459,621
+
+CURRENT ASSETS:                                                          1,655,780
+ Cash and cash equivalents                                                  756,882
+ Investments (partially restricted, Note 3)                                    6,766
+ Current maturities of loans receivable (partially restricted, Note 6)       34,702
+ Interest receivable                                                           6,978
+ Other current assets
+                                                                         2,461,108
+       Total current assets
+                                                                         2,920,729
+NONCURRENT ASSETS:
+ Investments (partially restricted, Note 3)                                        39
+ Loans receivable--net of allowance (partially restricted, Note 6)             3,051
+ Net investment in capital assets
+ Mortgage servicing rights                                                     3,090
+ Other assets
+                                                                        $ 2,923,819
+       Total noncurrent assets
+                                                                        (Continued)
+       Total assets
+
+DEFERRED OUTFLOWS:
+ Accumulated decrease in fair value of hedging derivatives (Note 14)
+ Pension
+
+       Total deferred outflows
+
+TOTAL ASSETS AND DEFERRED OUTFLOWS
+
+- 10 -
+UTAH HOUSING CORPORATION                                              $ 22,027
+                                                                          305,979
+BALANCE SHEET                                                               22,757
+AS OF JUNE 30, 2024                                                             724
+(In thousands)                                                              30,508
+
+LIABILITIES, DEFERRED INFLOWS, AND NET POSITION                           381,995
+
+CURRENT LIABILITIES:                                                    1,977,780
+ Interest payable                                                           44,675
+ Current maturities of bonds payable                                            272
+ Current maturities of notes payable                                             39
+ Current portion of subscription liability                                   4,402
+ Other current liabilities                                                      186
+
+       Total current liabilities                                        2,027,354
+
+NONCURRENT LIABILITIES:                                                 2,409,349
+ Bonds payable
+ Notes payable                                                                   70
+ Unearned revenue
+ Derivative instruments                                                          70
+ Net pension liability
+ Subscription liability                                                      5,856
+                                                                          161,560
+       Total noncurrent liabilities                                       346,984
+
+       Total liabilities                                                  514,400
+
+DEFERRED INFLOWS:                                                     $ 2,923,819
+ Pension
+                                                                      (Concluded)
+       Total deferred inflows
+
+NET POSITION:
+ Net investment in capital assets
+ Restricted--expendable
+ Unrestricted
+
+       Total net position
+
+TOTAL LIABILITIES, DEFERRED INFLOWS, AND
+ NET POSITION
+
+See notes to financial statements.
+
+                                                              - 11 -
+UTAH HOUSING CORPORATION                                      $ 37,787
+                                                                 73,551
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION     17,939
+FOR THE YEAR ENDED JUNE 30, 2024                                 17,885
+(In thousands)                                                     7,848
+                                                                 (9,710)
+OPERATING REVENUES:
+ Interest on loans receivable                                  145,300
+ Interest on cash and investments
+ Servicing revenues                                              66,517
+ Gain on sale of loans                                           15,069
+ Other revenues
+ Net decrease in the fair value of investments                     8,015
+                                                                   2,028
+       Total operating revenues                                  14,116
+                                                                   7,461
+OPERATING EXPENSES:                                                1,664
+ Interest                                                          1,237
+ Salaries and benefits
+ General operating expenses                                    116,107
+ Loan servicing fees
+ Amortization of mortgage servicing rights                       29,193
+ Bond issuance expenses
+ Net provision for loan losses                                 485,207
+ Depreciation of capital assets
+                                                              $ 514,400
+       Total operating expenses
+
+CHANGE IN NET POSITION
+
+NET POSITION--Beginning of year
+
+NET POSITION--End of year
+
+See notes to financial statements.
+
+- 12 -
+UTAH HOUSING CORPORATION
+
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2024
+(In thousands)
+
+CASH FLOWS FROM OPERATING ACTIVITIES:                                           $ 36,732
+ Cash received from interest on loans receivable                                      70,893
+ Cash received from payments on loans receivable                                      17,939
+ Cash received from loan servicing revenues                                             7,579
+ Cash received from other revenues
+ Cash received from sale of loan securities                                       1,148,451
+ Purchase of loans receivable                                                    (1,369,165)
+ Purchase of mortgage servicing rights
+ Cash payments for servicing fees                                                    (18,470)
+ Cash payments for general operating expenses                                          (2,028)
+ Cash payments to employees for salaries and benefits
+                                                                                     (10,446)
+Net cash used in operating activities                                                (15,160)
+
+CASH FLOWS FROM NON-CAPITAL FINANCING ACTIVITIES:                                   (133,675)
+ Proceeds from bonds payable
+ Proceeds from revolving credit agreement                                            890,293
+ Proceeds from notes payable                                                          33,762
+ Principal paid on bonds payable                                                      27,177
+ Principal paid on revolving credit agreement
+ Principal paid on notes payable                                                    (101,204)
+ Interest paid on bonds payable, notes payable, and revolving credit agreement       (33,762)
+ Cash payments for bond issuance costs                                                 (8,223)
+                                                                                     (56,770)
+Net cash provided by non-capital financing activities                                  (7,461)
+
+CASH FLOWS FROM CAPITAL AND RELATED FINANCING ACTIVITIES:                            743,812
+ Purchases of capital assets
+                                                                                         (344)
+Net cash used in capital and related financing activities
+                                                                                         (344)
+CASH FLOWS FROM INVESTING ACTIVITIES:
+ Purchase of investments                                                         (1,815,729)
+ Proceeds from sales and maturities of investments                                1,070,440
+ Interest and dividends on investments
+                                                                                      70,817
+Net cash used in investing activities
+                                                                                    (674,472)
+NET DECREASE IN CASH AND CASH EQUIVALENTS
+CASH AND CASH EQUIVALENTS--Beginning of year                                         (64,679)
+
+CASH AND CASH EQUIVALENTS--End of year                                               243,412
+
+                                              - 13 -                            $ 178,733
+
+                                                                                 (Continued)
+UTAH HOUSING CORPORATION                                $ 29,193
+
+STATEMENT OF CASH FLOWS                                        1,237
+FOR THE YEAR ENDED JUNE 30, 2024                            (73,548)
+(In thousands)
+                                                               9,710
+RECONCILIATION OF OPERATING LOSS TO NET CASH                 66,517
+ PROVIDED BY OPERATING ACTIVITIES--Operating gain
+                                                               7,461
+ Adjustments to reconcile operating loss to net cash           1,664
+  used in operating activities:                                 (235)
+  Depreciation
+  Interest on cash and investments                        (186,914)
+  Net decrease in the fair value of investments               (6,484)
+  Interest expense                                            (4,354)
+  Bond issuance costs                                        22,788
+  Provision for loan losses                                     (240)
+  Increase in capital assets                                    (624)
+  Changes in operating assets and liabilities:                   313
+    Increase in receivables                                     (159)
+    Increase in other assets (current and non-current)
+    Increase in mortgage servicing rights                 (162,868)
+    Increase in other liabilities
+    Decrease in net pension liability                   $ (133,675)
+    Decrease in subscription liability
+    Decrease in deferred inflows/outflows for pensions  (Concluded)
+    Decrease in unearned revenue
+
+       Total adjustments
+
+NET CASH USED IN OPERATING ACTIVITIES
+
+See notes to financial statements.
+
+- 14 -
+

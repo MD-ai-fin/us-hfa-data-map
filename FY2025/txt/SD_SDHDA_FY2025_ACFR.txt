@@ -1,0 +1,2094 @@
+South Dakota Housing Development
+Authority
+(A Component Unit of the State of South Dakota)
+Financial Report
+June 30, 2025 and 2024
+eidebailly.com
+South Dakota Housing Development Authority
+Table of Contents
+June 30, 2025 and 2024
+Independent Auditor’s Report ................................................................................................................................... 1
+Management's Discussion and Analysis .................................................................................................................... 4
+Financial Statements
+Statements of Net Position .................................................................................................................................. 12
+Statements of Revenues, Expenses, and Changes in Net Position ...................................................................... 13
+Statements of Cash Flows .................................................................................................................................... 14
+Notes to Financial Statements ............................................................................................................................. 15
+Required Supplementary Information
+Schedule of Authority’s Contributions ................................................................................................................. 41
+Schedule of Authority’s Proportionate Share of the Net Pension Liability (Asset) ............................................. 42
+Notes to Required Supplementary Information .................................................................................................. 43
+Supplementary Information
+Supplemental Schedule of Net Position .............................................................................................................. 44
+Supplemental Schedule of Operations and Changes in Net Position .................................................................. 46
+Tables I, II and III .................................................................................................................................................. 47
+Table IV ................................................................................................................................................................ 48
+Tables V and VI ..................................................................................................................................................... 49
+Tables VII, VIII and IX ............................................................................................................................................ 50
+Table X .................................................................................................................................................................. 51
+Table XI ................................................................................................................................................................. 52
+Independent Auditor’s Report
+To the Board of Commissioners
+South Dakota Housing Development Authority
+(A Component Unit of the State of South Dakota)
+Pierre, South Dakota
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the business-type activities of the South Dakota Housing
+Development Authority, a component unit of the State of South Dakota, as of and for the years ended
+June 30, 2025 and 2024, and the related notes to the financial statements, which collectively comprise
+the South Dakota Housing Development Authority’s basic financial statements as listed in the table of
+contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material
+respects, the respective financial position of the South Dakota Housing Development Authority as of
+June 30, 2025 and 2024, and the respective changes in financial position, and its cash flows thereof for
+the years then ended in accordance with accounting principles generally accepted in the United States
+of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States (Government Auditing Standards).
+Our responsibilities under those standards are further described in the Auditor’s Responsibilities for the
+Audit of the Financial Statements section of our report. We are required to be independent of South
+Dakota Housing Development Authority and to meet our other ethical responsibilities, in accordance
+with the relevant ethical requirements relating to our audit. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+1
+eidebailly.com
+24 2nd Ave. S.W. • P.O. Box 430 • Aberdeen, SD 57402-0430 • T 605.225.8783 • F 605.225.0508 • EOE
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the South Dakota Housing
+Development Authority’s ability to continue as a going concern for twelve months beyond the financial
+statement date, including any currently known information that may raise substantial doubt shortly
+thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute
+assurance and, therefore, is not a guarantee that an audit conducted in accordance with GAAS and
+Government Auditing Standards will always detect a material misstatement when it exists. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Misstatements are considered material if there is a substantial likelihood that,
+individually or in the aggregate, they would influence the judgment made by a reasonable user based on
+the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks.
+Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of South Dakota Housing Development Authority’s internal
+control. Accordingly, no such opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about South Dakota Housing Development
+Authority’s ability to continue as a going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related
+matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis, the schedule of authority’s contributions, schedule of authority’s proportionate
+share of net pension liability (asset), and notes to required supplementary information be presented to
+supplement the basic financial statements.
+2
+Such information is the responsibility of management and, although not a part of the basic financial
+statements, is required by the Governmental Accounting Standards Board who considers it to be an
+essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with GAAS, which consisted of inquiries of management
+about the methods of preparing the information and comparing the information for consistency with
+management’s responses to our inquiries, the basic financial statements, and other knowledge we
+obtained during our audit of the basic financial statements. We do not express an opinion or provide
+any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the South Dakota Housing Development Authority’s basic financial statements. The
+supplementary schedules and tables as listed in the table of contents are presented for purposes of
+additional analysis and are not a required part of the basic financial statements. Such information is the
+responsibility of management and was derived from, and relates directly to, the underlying accounting
+and other records used to prepare the basic financial statements. The information has been subjected to
+the auditing procedures applied in the audit of the basic financial statements and certain additional
+procedures, including comparing and reconciling such information directly to the underlying accounting
+and other records used to prepare the basic financial statements or to the basic financial statements
+themselves, and other additional procedures in accordance with GAAS. In our opinion, the
+supplementary schedules and tables, as listed in the table of contents, are fairly stated, in all material
+respects, in relation to the basic financial statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated October 14,
+2025 on our consideration of South Dakota Housing Development Authority’s internal control over
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe the
+scope of our testing of internal control over financial reporting and compliance and the results of that
+testing, and not to provide an opinion on the effectiveness of South Dakota Housing Development
+Authority’s internal control over financial reporting or on compliance. That report is an integral part of
+an audit performed in accordance with Government Auditing Standards in considering South Dakota
+Housing Development Authority’s internal control over financial reporting and compliance.
+Aberdeen, South Dakota
+October 14, 2025
+3
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+This section of the South Dakota Housing Development Authority’s (the Authority) annual financial report
+presents management’s discussion and analysis of the Authority’s financial performance during the fiscal years
+ended June 30, 2025 (FY 2025) and 2024 (FY 2024). This discussion and analysis is intended to serve as an
+introduction to the Authority’s basic financial statements. This analysis should be read in conjunction with the
+Independent Auditor’s Report, Financial Statements, Notes to the Financial Statements, and Supplementary
+Information.
+The Authority
+The Authority was created in 1973 by an Act of the South Dakota Legislature as a body politic and corporate and
+an independent public instrumentality for the purpose of encouraging the investment of private capital for the
+construction and rehabilitation of residential housing to meet the needs of persons and families in the state.
+Among other things, the Authority is authorized to issue bonds and notes to obtain funds to purchase mortgage
+loans to be originated by mortgage lenders and to make mortgage loans to individuals for the construction and
+permanent financing of single family housing; to make mortgage loans to qualified sponsors for the construction
+and permanent financing of multifamily housing; to purchase, under certain circumstances, existing mortgage
+loans; to purchase, from mortgage lenders, securities guaranteed by an instrumentality of the United States that
+finances mortgage loans; and to issue bonds to refund outstanding bonds. Additionally, the Authority has the
+power, among other powers, to provide technical, consulting and project assistance services to private housing
+sponsors; to assist in coordinating federal, state, regional, and local public and private housing efforts; and to act
+as a housing and redevelopment commission. The Authority is also authorized to provide financing for daycare
+facilities and assisted living and congregate care facilities; to guarantee mortgage loans; and to provide
+rehabilitation financing.
+The Authority’s financial statements include the operations of funds that the Authority has established to
+achieve its purpose. The activity of the Authority is accounted for as a proprietary-type fund. The Authority is a
+component unit of the State of South Dakota, and its financial statements are included in the Annual
+Comprehensive Financial Report of the State of South Dakota.
+Basic Financial Statements
+The basic financial statements include three required statements and the accompanying Notes to the Financial
+Statements. The three required statements are the Statement of Net Position; the Statement of Revenues,
+Expenses, and Changes in Net Position; and the Statement of Cash Flows.
+The Statement of Net Position provides information about the liquidity and solvency of the Authority by
+indicating the nature and the amounts of investments in resources (assets), its deferred outflows of resources,
+obligations to Authority creditors (liabilities), its deferred inflows of resources, and its resulting net position. Net
+position represents the amount of total assets, plus deferred outflows of resources, less total liabilities, less
+deferred inflows of resources. The organization of the statement separates assets and liabilities into current and
+non-current components.
+The Statement of Revenues, Expenses, and Changes in Net Position accounts for all the current year’s revenues
+and expenses to measure the success of the Authority’s operations over the past year. This statement is
+organized by separating operating revenues and expenses from nonoperating revenues and expenses. Operating
+revenues and expenses are defined as those relating to the Authority’s primary business of construction,
+preservation, rehabilitation, purchase, and development of affordable single family and multifamily housing and
+daycare facilities. Nonoperating revenues and expenses are those that do not contribute directly to the
+Authority’s primary business. The Authority did not have any nonoperating items.
+(continued on next page) 4
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+The Statement of Cash Flows provides information about the net change in the Authority’s cash and cash
+equivalents for the fiscal year and is presented using the direct method of reporting. It provides information
+about the Authority’s cash receipts, cash payments, and net changes in cash resulting from operating, investing,
+capital and related financing, and noncapital financing activities. Cash receipts and payments are presented in
+this statement to arrive at the net increase or decrease in cash and cash equivalents for each year.
+These statements are accompanied by a complete set of Notes to the Financial Statements that communicate
+information essential for fair presentation of the basic financial statements. As such, the Notes form an integral
+part of the basic financial statements.
+Changes in Financial Position
+The following tables show the significant changes that have taken place over the past three fiscal years ended FY
+2025, FY 2024, and FY 2023 for the Statement of Revenues, Expenses, and Changes in Net Position, and the
+Statement of Net Position of the Authority:
+Changes in Statement of Revenues, Expenses, and Net Position
+(In Millions of Dollars)
+% Change % Change
+FY 2025 FY 2024 FY 2023 2025/2024 2024/2023
+Revenues:
+Interest on mortgages $ 5.7 $ 6.4 $ 7.5 -10.9% -14.7%
+Investment income 103.7 80.7 51.1 28.5% 57.9%
+Increase (decrease) in fair market value of 38.9 (7.1) (40.5) 647.9% 82.5%
+investments and program MBS
+HUD contributions 41.8 51.2 40.5 -18.4% 26.4%
+U.S. Treasury contributions 33.4 16.7 20.4 100.0% -18.1%
+Other income 12.1 11.3 6 .8 7.1% 66.2%
+Total revenues 235.6 159.2 85.8 48.0% 85.5%
+Expenses:
+Interest 69.2 51.4 35.2 34.6% 46.0%
+Servicer fees 0 .4 0 .4 0 .5 0.0% -20.0%
+General and administrative 8 .4 8 .2 7 .8 2.4% 5.1%
+HUD housing assistance payments 29.9 27.6 27.7 8.3% -0.4%
+U.S. Treasury housing assistance payments 33.4 16.7 20.4 100.0% -18.1%
+Other 61.3 40.1 17.2 52.9% 133.1%
+Total expenses 202.6 144.4 108.8 40.3% 32.7%
+Change in net position $ 33.0 $ 14.8 $ (23.0) 123.0% 164.3%
+(continued on next page) 5
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+Changes in Assets, Deferred Outflows, Liabilities, Deferred Inflows and Net Position
+(In Millions of Dollars)
+% Change % Change
+FY 2025 FY 2024 FY 2023 2025/2024 2024/2023
+Assets:
+Cash and equivalents $ 650.3 $ 559.5 $ 585.3 16.2% -4.4%
+Investments 2,003.5 1,627.0 1,207.8 23.1% 34.7%
+Mortgages 284.2 284.6 276.0 -0.1% 3.1%
+Line of credit receivable 68.5 53.2 33.4 28.8% 59.3%
+Interest receivable 10.2 8 .6 6 .1 18.6% 41.0%
+Capital assets 4 .6 4 .4 4 .5 4.5% -2.2%
+Other 32.1 37.6 29.4 -14.6% 27.9%
+Total assets 3,053.4 2,574.9 2,142.5 18.6% 20.2%
+Deferred Outflows of Resources
+Deferred loss on refunding 1 .8 1 .9 2 .1 -5.3% -9.5%
+Deferred swap outflow 0 .6 0 .4 - 50.0% 100.0%
+Deferred outflow related to pension 1 .4 1 .4 1 .5 0.0% -6.7%
+Total assets and deferred outflows $ 3,057.2 $ 2,578.6 $ 2,146.1 18.6% 20.2%
+Liabilities:
+Current bonds payable $ 66.2 $ 163.2 $ 58.0 -59.4% 181.4%
+Interest payable 13.2 13.5 8 .0 -2.2% 68.8%
+Fair value of hedging derivatives 0 .6 0 .4 - 50.0% 100.0%
+Other 7 .7 7 .8 4 .8 -1.3% 62.5%
+Unearned revenue 56.3 54.3 72.8 3.7% -25.4%
+Noncurrent bonds payable 2,216.7 1,670.8 1,353.2 32.7% 23.5%
+Total liabilities 2,360.7 1,910.0 1,496.8 23.6% 27.6%
+Deferred Inflows of Resources
+Deferred gain on refunding inflow 8 .0 8 .5 9 .1 -5.9% -6.6%
+Deferred swap inflow 22.5 27.3 22.1 -17.6% 23.5%
+Deferred inflow related to pension 0 .9 0 .8 0 .9 12.5% -11.1%
+Total liabilities and deferred inflows 2,392.1 1,946.6 1,528.9 22.9% 27.3%
+Net Position:
+Net investment in capital assets (1.0) (1.3) (1.2) 23.1% -8.3%
+Restricted by state statute 164.6 176.9 170.5 -7.0% 3.8%
+Restricted for pension benefits 0 .5 0 .6 0 .6 -16.7% 0.0%
+Restricted by bond indentures 401.7 359.5 357.6 11.7% 0.5%
+Restricted by HOME, HTF and NSP programs 99.3 96.3 89.7 3.1% 7.4%
+Total net position 665.1 632.0 617.2 5.2% 2.4%
+Total liabilities, deferred inflows, and
+net position $ 3,057.2 $ 2,578.6 $ 2,146.1 18.6% 20.2%
+(continued on next page) 6
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+Financial Highlights for FY 2025
+• Total operating revenues increased 48.0% to $235.6 million for FY 2025, from $159.2 million for FY 2024.
+The main factors contributing to this increase were an additional $23.0 million in investment income, and
+a $46.0 million increase in market value adjustment.
+• Total operating expenses increased 40.3% to $202.6 million for FY 2025, from $144.4 million for FY 2024.
+The primary components of the increase were an additional $17.8 million in interest expense, $11.4
+million distributed for the Grant for Graduates program and housing grants for the Housing Infrastructure
+program.
+• Net position of the Authority for FY 2025 was $665.1 million, which represented an increase of $33.0
+million, or 5.2%, from the FY 2024 net position level.
+• Mortgage loans receivable, net of adjustments for the potential for loan loss, was $284.2 million at the
+end of FY 2025, which represented a decrease of $0.4 million, or 0.1%, for FY 2025 from the FY 2024 level
+of $284.6 million. In the last of half of FY 2012, the Authority changed its business model from purchasing
+homeownership loans to purchasing mortgage-backed securities (MBS) secured by homeownership loans.
+As a result, the homeownership loan portfolio, now in runoff, will continue to shrink as repayments and
+prepayments are no longer offset by new loans. Instead, the portion of investments represented by MBS
+will increase as they are purchased in place of loans as long as bonds can be issued to finance these
+purchases; otherwise, the MBS will be sold to investors and will not become part of the portfolio.
+• Investments were $2,003.5 million at the end of FY 2025, which represented an increase of $376.5 million,
+or 23.1%, from the FY 2024 total of $1,627.0 million. The increase is primarily related to the purchase of
+program mortgage-backed securities.
+• The line of credit receivable is a credit line in the maximum amount of $60 million (or other amount as
+approved) provided to the Authority’s master servicer to purchase mortgage loans until they can be
+securitized and delivered back as securities. The line of credit had a balance of $68.5 million at the end of
+FY 2025 and $53.2 million at the end of FY 2024.
+• Interest income on mortgage loans was $5.7 million for FY 2025, which represented a decrease of $0.7
+million from the $6.4 million reported in FY 2024. As the homeownership loan balance continues to
+decrease, so will the interest income on loans.
+• Investment income was $103.7 million for FY 2025, which represented an increase of $23.0 million, or
+28.5%, in FY 2025 from $80.7 million for FY 2024 due to the increase in rate of return on investments and
+an increase in the amount of funds held as investments. The fair market value increased by $38.9 million
+in FY 2025 and decreased by $7.1 million in FY 2024. The FY 2025 fair market increase was a result of the
+interest rates falling during the fiscal year. Ignoring the effects of the net increase in fair market value of
+investments, the change in net position would have been a decrease of $5.9 million for FY 2025 compared
+to an increase of $21.9 million for FY 2024.
+(continued on next page) 7
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+• Deferred outflows of resources from interest rate swaps at the end of FY 2025 increased by $0.2 million
+from the FY 2024 level of $0.4 million. Deferred inflows of resources from interest rate swaps at the end of
+FY 2025 decreased to $22.5 million from $27.3 million at the end of FY 2024, or 17.6%. See Note 9 for a list
+of the Authority’s swaps outstanding.
+• Bonds and notes outstanding of the Authority were $2,282.9 million for FY 2025, which was an increase of
+$448.9 million, or 24.5%, in FY 2025 from $1,834.0 million in FY 2024 due to more bonds being issued than
+being redeemed or maturing.
+• Unearned revenue consists of $54.6 million of funds received from the U.S. Treasury to fund COVID-
+related programs that have not been spent as of June 30, 2025, and $1.7 million for the Governor’s House
+Program. This is an increase of $2.0 million, or 3.7%, from FY 2024. The increase was due to interest
+income on the unused U.S Treasury funds and a large prepayment for the Governor’s House Program.
+• Interest expense on bonds and notes outstanding increased $17.8 million, or 34.6%, in FY 2025 from
+$51.4 million in FY 2024 due to a higher outstanding bond balance and a higher weighted average interest
+rate on the bonds.
+• The Authority performed an operating transfer of $6.6 million from the Homeownership Mortgage Loan
+Program and $1.5 million from the Multiple Purpose Bond Resolution to the General Operating Account.
+The Authority normally transfers up to 1% of loan purchases from the Homeownership Mortgage Loan
+Program. The Multiple Purpose Bond transfer of $1.5 million was to fund the Housing Opportunity Fund.
+Financial Highlights for FY 2024
+• Total operating revenues increased 85.5% to $159.2 million for FY 2024, from $85.8 million for FY 2023.
+The main factors contributing to this increase were an additional $29.6 million in investment income, an
+additional $10.7 million of HUD contributions and a $33.4 million increase in market value adjustment.
+• Total operating expenses increased 32.7% to $144.4 million for FY 2024, from $108.8 million for FY 2023.
+The primary components of the increase were an additional $16.2 million in interest expense and housing
+grants for the Housing Infrastructure program.
+• Net position of the Authority for FY 2024 was $632.0 million, which represented an increase of $14.8
+million, or 2.4%, from the FY 2023 net position level.
+• Mortgage loans receivable, net of adjustments for the potential for loan loss, was $284.6 million at the
+end of FY 2024, which represented an increase of $8.6 million, or 3.1%, for FY 2024 from the FY 2023 level
+of $276.0 million. In the last of half of FY 2012, the Authority changed its business model from purchasing
+homeownership loans to purchasing mortgage-backed securities (MBS) secured by homeownership loans.
+As a result, the homeownership loan portfolio, now in runoff, will continue to shrink as repayments and
+prepayments are no longer offset by new loans. Instead, the portion of investments represented by MBS
+will increase as they are purchased in place of loans as long as bonds can be issued to finance these
+purchases; otherwise, the MBS will be sold to investors and will not become part of the portfolio. The
+reason for the increase in loan balance in FY 2024 was for loans made in the HOME, Housing Trust Fund
+and the Housing Infrastructure program.
+(continued on next page) 8
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+• Investments were $1,627.0 million at the end of FY 2024, which represented an increase of $419.2 million,
+or 34.7%, from the FY 2023 total of $1,207.8 million. The increase is primarily related to the purchase of
+program mortgage-backed securities.
+• The line of credit receivable is a credit line in the maximum amount of $60 million (or other amount as
+approved) provided to the Authority’s master servicer to purchase mortgage loans until they can be
+securitized and delivered back as securities. The line of credit had a balance of $53.2 million at the end of
+FY 2024 and $33.4 million at the end of FY 2023.
+• Interest income on mortgage loans was $6.4 million for FY 2024, which represented a decrease of $1.1
+million from the $7.5 million reported in FY 2023. Even though the loan balance increased in FY 2024, the
+new loans added for the year are zero interest loans, so as the homeownership loan balance continues to
+decrease, so will the interest income on loans.
+• Investment income was $80.7 million for FY 2024, which represented an increase of $29.6 million, or
+57.9%, in FY 2024 from $51.1 million for FY 2023 due to the increase in rate of return on investments and
+an increase in the amount of funds held as investments. The fair market value decreased by $7.1 million in
+FY 2024 and decreased by $40.5 million in FY 2023. The FY 2024 fair market decrease was a result of the
+continued rise in interest rates to curb inflation. Ignoring the effects of the net decrease in fair market
+value of investments, the change in net position would have been $21.9 million for FY 2024 compared to
+$17.5 million for FY 2023.
+• Deferred outflows of resources from interest rate swaps at the end of FY 2024 increased by $0.4 million
+from the FY 2023 level of $0.0 million. Deferred inflows of resources from interest rate swaps at the end of
+FY 2024 increased to $27.3 million from $22.1 million at the end of FY 2023, or 23.5%. See Note 9 for a list
+of the Authority’s swaps outstanding.
+• Bonds and notes outstanding of the Authority were $1,834.0 million for FY 2024, which was an increase of
+$422.8 million, or 30.0%, in FY 2024 from $1,411.2 million in FY 2023 due to more bonds being issued than
+being redeemed or maturing.
+• Unearned revenue consists of $54.3 million of funds received from the U.S. Treasury to fund COVID-
+related programs that have not been spent as of June 30, 2024. This is a decrease of $18.5 million, or
+25.4%, from FY 2023. Of the $18.5 million, only $16.7 million was used for housing assistance payments
+and the other $1.8 million was returned to the U.S. Treasury.
+• Interest expense on bonds and notes outstanding increased $16.2 million, or 46.0%, in FY 2024 from
+$35.2 million in FY 2023 due to a higher outstanding bond balance and a higher weighted average interest
+rate on the bonds.
+• The Authority performed an operating transfer of $5.2 million from the Homeownership Mortgage Loan
+Program and $3.0 million from the Multiple Purpose Bond Resolution to the General Operating Account.
+The Authority normally transfers up to 1% of loan purchases from the Homeownership Mortgage Loan
+Program. In addition to the 1% of loan purchases, which was approximately $6.7 million, the other $1.5
+million was transferred to fund the Housing Opportunity Fund.
+(continued on next page) 9
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+Loan Portfolio Activity for FY 2025 and FY 2024
+The Authority’s loan portfolio is comprised of single family and multifamily development loans for low- and
+moderate-income individuals and families. The Homeownership Mortgage Loan Program is the Authority's
+largest single category of assets. Amortizing homeownership loans at fixed interest rates, secured by first
+mortgages, used to be the dominant loan product offered by the Authority. Then, in April 2012, the Authority
+changed its business model from purchasing whole loans financed with bond proceeds to purchasing loans and
+securitizing the loans into MBS. The MBS can then be held in the portfolio as an investment, sold to the
+secondary market using forward contracts to hedge the interest rate risk, or financed with bond proceeds.
+In February 2013, the Authority implemented the Mortgage Credit Certificate (MCC) program to utilize bonding
+authority that was set to expire. The MCC gives the Authority a competitive advantage over the conventional
+market by allowing the borrower a tax credit on their income tax return which, in return, allows a lower
+effective annual percentage rate on their loan.
+The Homeownership Mortgage Loan Program purchased approximately $586 million of MBS’s during FY 2025
+compared to $500 million in FY 2024.
+The Homeownership Mortgage Loan Program purchased approximately $500 million of MBS’s during FY 2024
+compared to $324 million in FY 2023.
+Debt Administration
+The Authority is authorized to issue debt to purchase or originate mortgage loans on single family and
+multifamily residential properties. As of FY 2025, the Authority had $2,282.9 million in bonds outstanding, a
+24.5% increase from FY 2024. As of FY 2024, the Authority had $1,834.0 million in bonds outstanding, a 30.0%
+increase from FY 2023.
+The Authority retired or paid at maturity a total of $217.2 million in bonds in FY 2025. $78.1 million was
+redeemed from refundings, prepayments, and excess reserves and $139.1 million was maturing principal. The
+Authority retired or paid at maturity a total of $140.0 million in bonds in FY 2024. $114.7 million was redeemed
+from refundings, prepayments, and excess reserves and $25.3 million was maturing principal.
+The Authority’s Homeownership Mortgage Bonds were rated AAA by Standard and Poor’s in FY 2025 and FY
+2024, and rated Aaa by Moody’s Investors Service in FY 2025 and FY 2024. In FY 2025 and FY 2024, the
+Authority’s Multiple Purpose Bonds were rated Aa3 by Moody’s Investors Service. The Authority’s Single Family
+Mortgage Bonds were rated Aa2 in FY 2025 and FY 2024. Moody’s Investors Service has given the Authority an
+Issuer Rating of Aa3.
+More detailed information about the Authority’s debt can be found in Note 6, Bonds Payable.
+(continued on next page) 10
+Management’s Discussion and Analysis
+June 30, 2025 and 2024 (Unaudited)
+Capital Assets
+Capital assets increased by $0.2 million in FY 2025 from $4.4 million in FY 2024. This net change is due to the
+purchase of capital assets.
+Capital assets decreased by $0.1 million in FY 2024 from $4.5 million in FY 2023. This net change is due to the
+depreciation of existing assets.
+More detailed information about the Authority's capital assets can be found in Note 17, Capital Assets.
+Economic Outlook
+Economic conditions in South Dakota are relatively good due to prudent fiscal policy. The State of South Dakota
+operates on a balanced budget and the State’s pension fund is 100.0% funded. The State’s foreclosure rate of
+0.50%, delinquency rate of 3.36%, and a steady unemployment rate (currently 1.8%) are well below the national
+averages. These percentages, along with stable home prices, have all contributed to the success of the Authority
+over the past five years. Going forward, the Authority will try to maximize its return on investments and will
+continue to look for innovative ways to finance the Authority’s Single and Multifamily programs.
+Overview
+This financial report is designed to provide a general overview of the Authority’s finances. If you have questions
+about this report or would like to request additional information, contact the South Dakota Housing
+Development Authority’s Director of Finance at PO Box 1237, 3060 E. Elizabeth Street, Pierre, SD 57501-1237.
+11
+Statements of Net Position As of June 30
+Assets 2025 2024
+Current Assets
+Cash and cash equivalents (Note 3) $ 650,311,204 $ 559,497,148
+Investment securities - other (Note 3) 7,037,579 83,304,123
+Investments - program mortgage-backed securities (Note 3) 301,202,580 222,916,863
+Mortgage loans receivable, net (Note 4) 35,968,937 31,991,578
+Interest receivable 10,194,329 8,572,453
+Other receivables 2,429,904 1,363,338
+Other assets 5,004,495 6,787,454
+Total Current Assets 1,012,149,028 914,432,957
+Noncurrent Assets
+Investment securities - other (Note 3) 189,558,945 206,475,678
+Investments - program mortgage-backed securities (Note 3) 1,505,651,529 1 ,114,316,868
+Mortgage loans receivable, net (Note 4) 248,232,086 252,685,173
+Line of credit receivable (Note 5) 68,537,154 53,203,587
+Other receivables 2,195,073 2,165,391
+Hedging derivatives (Note 9) 22,518,006 27,248,366
+Capital assets, at cost, less accumulated depreciation (Note 17) 4,555,767 4,391,140
+Total Noncurrent Assets 2,041,248,560 1 ,660,486,203
+Total Assets 3,053,397,588 2 ,574,919,160
+Deferred Outflows of Resources
+Loss on refundings 1,777,521 1,912,831
+Swaps (Note 9) 6 11,238 393,892
+Related to pensions (Note 14) 1,381,596 1,397,347
+Total Assets and Deferred Outflows of Resources $ 3,057,167,943 $ 2,578,623,230
+Liabilities
+Current Liabilities
+Bonds payable (Note 6) $ 66,178,480 $ 163,152,987
+Accrued interest payable 13,231,251 13,487,732
+Unearned revenue 4,095,130 17,000,000
+Accounts payable and other liabilities (Note 18) 3,020,317 3,098,230
+Multifamily escrows and reserves 8 23,723 1,249,466
+Total Current Liabilities 87,348,901 197,988,415
+Noncurrent Liabilities
+Bonds payable (Note 6) 2,216,688,823 1 ,670,843,302
+Unearned revenue 52,187,586 37,288,014
+Accounts payable and other liabilities (Note 18) 3,901,888 3,559,728
+Hedging derivatives (Note 9) 6 11,238 393,892
+Total Noncurrent Liabilities 2,273,389,535 1 ,712,084,936
+Total Liabilities 2,360,738,436 1 ,910,073,351
+Deferred Inflows of Resources
+Gain on refundings 7,936,156 8,467,162
+Swaps (Note 9) 22,518,006 27,248,366
+Related to pensions (Note 14) 9 20,397 795,264
+Total Liabilities and Deferred Inflows of Resources 2,392,112,995 1 ,946,584,143
+Net Position
+Net investment in capital assets (999,233) (1,268,860)
+Restricted for pension benefits 4 68,342 617,864
+Restricted by state statute 164,585,636 176,879,403
+Restricted by bond indentures 401,684,414 359,482,325
+Restricted by HOME, HTF, NSP, and HAF Program 99,315,789 96,328,355
+Total Net Position 665,054,948 632,039,087
+Total Liabilities, Deferred Inflows of Resources, and Net Position $ 3,057,167,943 $ 2,578,623,230
+See Notes to Financial Statements 12
+Statements of Revenues, Expenses, and
+Changes in Net Position For the Years Ended June 30
+Operating Revenues 2025 2024
+Interest income on mortgage loans $ 5,701,836 $ 6,369,588
+Earnings on investments and program mortgage-backed securities 103,721,732 80,681,925
+Net decrease in the fair market value of investments and program
+mortgage-backed securities 38,902,085 (7,079,602)
+HUD contributions 41,763,618 51,193,634
+U.S. Treasury contributions/COVID 33,415,608 16,708,872
+Fee, grant and other income 12,137,190 11,302,461
+Total Operating Revenues 235,642,069 159,176,878
+Operating Expenses
+Interest 69,188,843 51,434,185
+HUD housing assistance payments 29,855,780 27,647,481
+U.S. Treasury housing assistance payments/COVID 33,415,608 16,708,872
+Servicer fees 3 61,518 417,586
+Arbitrage rebate (benefit) 5 12,942 2,024,528
+General and administrative 8,392,566 8,163,266
+Bond financing costs 7,074,103 5,858,741
+Other housing programs 47,228,054 25,358,125
+Provision for loan loss 6,596,794 6,757,439
+Total Operating Expenses 202,626,208 144,370,223
+Change in net position 33,015,861 14,806,655
+Net position, beginning of fiscal year 632,039,087 617,232,432
+Net Position, End of Fiscal Year $ 665,054,948 $ 632,039,087
+See Notes to Financial Statements 13
+Statements of Cash Flows For the Years Ended June 30
+2025 2024
+Cash Flows Provided by (Used in) Operating Activities
+Receipts from loan payments and program mortgage-backed securities $ 209,282,229 $ 177,739,548
+Receipts for program fees 11,013,291 11,095,105
+Receipts from federal housing programs 41,763,618 51,193,634
+Receipts for U.S. Treasury Housing Assistance/COVID 35,410,310 -
+Payments for loan programs and program mortgage-backed securities (590,963,727) (517,803,143)
+Payments for operating expenses (3,614,153) (2,414,743)
+Payments to employees (6,776,830) (6,211,655)
+Payments for federal housing programs (29,855,780) (27,647,481)
+Payments for U.S. Treasury Housing Assistance/COVID (33,415,608) (16,708,872)
+Payments to U.S. Treasury for return of housing assistance funds - (1,811,537)
+Payments for other housing programs (43,898,744) (26,581,716)
+Net Cash Used in Operating Activities (411,055,394) (359,150,860)
+Cash Flows Provided by (Used in) Noncapital Financing Activities
+Proceeds from sale of bonds 669,927,694 567,499,480
+Principal paid on bonds (217,103,380) (139,886,118)
+Interest paid on bonds and swaps (74,483,250) (50,994,626)
+Bond issuance costs paid (6,588,486) (5,850,941)
+Net Cash Provided by Noncapital Financing Activities 371,752,578 370,767,795
+Cash Flows Provided by (Used in) Capital and Related Financing Activities
+Purchase of capital fixed assets (598,280) ( 306,858)
+Proceeds from sale of assets 19,012 13,878
+Principal paid on bonds (105,000) ( 100,000)
+Interest paid on capital debt (192,931) (215,339)
+Net Cash Used in Capital and Related Financing Activities (877,199) ( 608,319)
+Cash Flows Provided by (Used in) Investing Activities
+Purchase of investment securities (20,753,614) (117,550,699)
+Proceeds from sale and maturities of investment securities 121,583,605 60,732,670
+Interest received on investments 30,164,080 20,042,122
+Net Cash Provided by (Used in) Investing Activities 130,994,071 (36,775,907)
+Change in Cash and Cash Equivalents 90,814,056 (25,767,291)
+Cash and Cash Equivalents, Beginning of Year 559,497,148 585,264,439
+Cash and Cash Equivalents, End of Year $ 650,311,204 $ 559,497,148
+Reconciliation of Operating Income (Loss) to Cash Flows
+Provided by (Used in) Operating Activities
+Operating income (loss) $ 33,015,861 $ 14,806,655
+Adjustments to reconcile operating income (loss) to net cash
+used in operating activities:
+Interest on bonds payable 69,188,843 51,434,185
+Net decrease in fair market value of investments (38,902,085) 7 ,079,602
+Interest from investments (28,205,735) (18,971,893)
+Bond financing costs 7 ,074,103 5 ,858,741
+Provision for loan loss 6 ,596,794 6 ,757,439
+Depreciation 428,760 423,011
+Gain on sale of fixed assets (19,012) (13,878)
+Changes in assets and liabilities:
+Loan interest receivable (2,083,170) (1,952,152)
+Accounts payable and other liabilities 264,247 3 ,265,605
+Mortgage loans receivable (6,121,066) (15,398,935)
+Investments - program mortgage-backed securities (439,361,528) (371,058,197)
+Unearned revenue 1 ,994,702 (18,520,409)
+Line of credit receivable (15,333,567) (19,733,931)
+Other receivables (1,104,887) ( 193,478)
+Other assets 1 ,782,959 (2,830,911)
+Related to pensions 155,130 23,545
+Multifamily escrows and reserves (425,743) ( 125,859)
+Net Cash Used in Operating Activities $ ( 411,055,394) $ (359,150,860)
+See Notes to Financial Statements 14
+Notes to Financial Statements
+Note 1 - Authorizing Legislation and Indentures:
+Authorizing Legislation:
+The South Dakota Housing Development Authority (the Authority) was created in 1973 by an Act of the South
+Dakota Legislature. The Authority was established for the purpose of encouraging the investment of private
+capital and stimulating the construction and rehabilitation of residential housing for the people of the state
+through the use of public financing including public construction, public loans, public purchase of mortgages,
+and otherwise. The Authority may issue notes and bonds in principal amounts specifically approved by the
+Governor. The Internal Revenue Code of 1986 established a state ceiling for qualified private activity bonds
+applicable to the State of South Dakota for any calendar year. The calendar year state allocation for South
+Dakota is $388,780,000 for 2025. Amounts issued by the Authority shall not be deemed to constitute a debt of
+the State of South Dakota or any political subdivision thereof. The Authority is a business-type activity
+component unit of the State of South Dakota. As such, the accompanying financial statements are included in
+the Annual Comprehensive Financial Report of the State of South Dakota.
+Description of Reporting Entity:
+The Authority is considered a single enterprise fund for financial reporting purposes. The activities of the
+Authority are recorded under various indentures established for the administration of the Authority’s programs.
+A further description of these indentures is as follows:
+General Operating Account:
+This account, authorized by the enabling legislation, was initially funded in August 1973 by a $12,420 grant of
+federal funds from the South Dakota State Economic Opportunity Office. Funding on an ongoing basis is derived,
+principally, from loan origination fees, allowable transfers from other funds, and investment income. Authorized
+activities of this account include the following:
+(i) payment of general and administrative expenses and other costs not payable by other funds of the
+Authority; and,
+(ii) those activities deemed necessary to fulfill the Authority’s corporate purposes for which special funds are
+not established.
+Included in the account are the activities of statewide Section 8 Housing Assistance Payments Programs which
+the Authority administers on behalf of the U.S. Department of Housing and Urban Development (HUD). Under
+these programs, the Authority distributes housing assistance payments received from HUD.
+The Authority has appropriated all income received in the General Operating Account to a General Reserve
+Account. This account can be used only for the administration and financing of programs in accordance with the
+policy and purpose of the enabling legislation.
+Homeownership Mortgage Bonds:
+This indenture, established under the Homeownership Mortgage Bond Resolution adopted June 16, 1977, as
+amended and restated as of March 11, 2008, is prescribed for accounting for the proceeds from the sale of the
+Homeownership Mortgage Bonds, the debt service requirements of the bond indebtedness, the remaining
+assets and liabilities of the Single Family Housing Program, and mortgage loans on eligible single family
+residential housing disbursed from bond proceeds. The mortgage loans are made to finance the construction,
+rehabilitation or ownership of such housing, and are insured by the Federal Housing Administration (FHA) or
+private mortgage insurers, guaranteed by the Veterans Administration (VA), guaranteed by USDA Rural
+Development (RD), or have a principal amount which does not exceed 80% of the appraised value of the home.
+This indenture also accounts for the Mortgage-Backed Security Program and the investments related to this
+program.
+(continued on next page) 15
+Notes to Financial Statements
+Single Family Mortgage Bonds:
+This indenture established under the Single Family Mortgage Bonds Resolution adopted on December 2, 2009,
+was created to utilize the United States Treasury’s Single Family New Issue Bond Program. This indenture will
+facilitate the administration and financing of programs for the development or acquisition of owner-occupied
+housing, at prices that persons of low- or moderate-income can afford.
+Multiple Purpose Bonds:
+This indenture, established under the Multiple Purpose Bond Resolution adopted March 1, 2002, is prescribed
+for accounting for the proceeds from the sale of Multiple Purpose Bonds, for the purpose of effectuating the
+public purposes of the Authority, and establishing procedures to assure that amounts will be sufficient for the
+repayment of money borrowed for this purpose.
+Note 2 - Significant Accounting Policies:
+Basis of Presentation:
+The Authority, as a component unit of the State of South Dakota, follows standards established by the
+Governmental Accounting Standards Board (GASB). As required by Government Accounting Standards, these
+financial statements present the Authority and its component units, entities for which the Authority is
+considered to be financially accountable. The criteria for inclusion in, or exclusion from, the financial reporting
+entity is outlined in GASB Statement 14, as amended by GASB 61, and includes oversight responsibility, including
+financial accountability, over agencies by the Authority's Board of Commissioners. The Authority is financially
+accountable if it appoints a voting majority of an organization's governing body and is able to impose its will on
+that organization, or there is a potential for the organization to provide specific financial benefits to, or impose
+specific financial burdens on, the Authority. The financial statements of the Authority include the activity of
+Homeownership Education Resource Organization (H.E.R.O.), a non-profit organization devoted to monitoring
+homeownership education in South Dakota, as a blended component unit.
+Measurement Focus and Basis of Accounting:
+The Authority follows the economic resources measurement focus and accrual basis of accounting. Revenue is
+recognized in the accounting period in which it is earned, and expenses are recognized when they are incurred.
+Interest Income:
+Accrued interest is recognized on the amount of outstanding mortgage loans. The accrual of interest on
+delinquent loans is discontinued at the time that foreclosure activities are completed.
+Statements of Cash Flows:
+For the purposes of the Statements of Cash Flows, cash and cash equivalents are defined as investments with
+original maturities of ninety days or less and any participating funds in the State’s internal investment pool held
+by the State Treasurer. The amount held in the State’s internal investment pool is reported at fair value. The
+Authority essentially has on-demand access to the entire amount of cash in the internal investment pool.
+Investment Securities:
+Investments of the Authority are carried at fair value. Unrealized gains and losses due to fluctuations in fair
+value are included in income.
+(continued on next page) 16
+Notes to Financial Statements
+Investments - Program Mortgage-Backed Securities:
+Program mortgage-backed securities are backed by single family mortgage loans. These securities are
+guaranteed as to payment of principal and interest by either the Government National Mortgage Association or
+the Federal National Mortgage Association. The securities are carried at fair value and unrealized gains and
+losses are included in income.
+Fair Value:
+The Authority measures fair value of certain assets and liabilities based on the framework established by
+generally accepted accounting principles. GASB 72, Fair Value Measurement and Application, defines fair value
+as the price that could be received to sell an asset, or paid to transfer a liability, in an orderly transaction
+between market participants at the measurement date. This statement establishes a hierarchy of valuation
+inputs based on the extent to which the inputs are observable in the marketplace.
+A financial instrument’s level within the fair value hierarchy is based on the lowest level of any input that is
+significant to the fair value measurement. The fair value hierarchy, which has three levels, is based on the
+valuation inputs used to measure an asset’s fair value:
+Level 1: Values are based on quoted prices (unadjusted) for identical assets (liabilities) in active markets
+that a government can access at the measurement date.
+Level 2: Values determined with inputs, other than quoted prices included within Level 1, which are
+observable for an asset (liability), either directly or indirectly.
+Level 3: Values determined with unobservable inputs for an asset (liability) and may require a degree of
+professional judgement.
+Mortgage Loans Receivable:
+Loans receivable are carried at their unpaid principal balance less an allowance for loan loss, net of unamortized
+discounts or premiums, and are recorded as amounts are disbursed. Premiums and discounts are amortized,
+using the loans outstanding method, over the life of the loans.
+Allowance for Loan Loss:
+The allowance for loan loss is based upon management’s evaluation of the loan portfolio. Factors considered by
+management include the estimated fair values of the properties that represent collateral, mortgage insurance
+coverage on the collateral, the financial condition of the borrower, past experience, conversion to grant criteria,
+and the economy as a whole. While management uses available information to recognize losses on loans, future
+additions to the allowance may be necessary based on changes in economic conditions.
+Fee Income:
+Fees collected as reimbursement for costs incurred in developing and implementing the programs of the
+Authority and for other specific services are recorded as income in the period earned.
+Receivables:
+Receivables not expected to be collected within one year are recorded in the Statement of Net Position as
+noncurrent.
+(continued on next page) 17
+Notes to Financial Statements
+Bond Premiums, Discounts and Gains/Losses on Refunding:
+Premiums and discounts on bonds are amortized to interest expense using the bonds outstanding method over
+the life of the bonds to which they relate. Gains and losses on bond refunding are recorded as deferred outflows
+and inflows and are amortized to interest expense over the shorter of the remaining life of the refunded bonds or
+the new bonds.
+Bond Issuance Costs:
+Issuance costs on bonds are expensed as incurred.
+Derivative Instruments:
+The fair values of both hedging derivatives and investment derivatives (if any) are presented on the Statements
+of Net Position, either as a derivative liability (negative fair value) or as a derivative asset (positive fair value).
+The change in the total fair value of derivatives that are determined to be effective hedges is recorded as a
+deferred inflow or outflow of resources on the Authority’s Statements of Net Position. If a derivative was
+determined to be an ineffective hedge, it would be classified as an investment derivative, and the change in the
+total fair value would be presented as part of investment earnings. The Authority currently has one type of
+derivative outstanding, which is an effective hedge, therefore, having no effect on net position: interest rate
+swaps.
+Real Estate Owned:
+Real estate owned and held for sale arises from foreclosures or other mortgage default-related actions on
+properties pledged as collateral on mortgage loans. Real estate held for sale in connection with the Single Family
+and Multifamily Program is recorded at the unpaid principal balance on the loans, net of any allowance, as of
+the date the loans become real estate owned. Since most of the Single Family loans are insured or guaranteed, it
+is anticipated that the Authority will recover a majority of the unpaid principal balances of the loans, net of any
+allowance, through proceeds arising from the sale of such property and certain insurance proceeds. Recoveries
+for Multifamily loans arise from the sale of such property. Real estate owned is included with mortgage loans
+receivable.
+Capital Asset Policy:
+Capital assets costing more than $5,000 are recorded at cost when acquired and depreciated over the estimated
+useful life of the asset using the straight-line method. Assets sold or otherwise disposed of are removed from
+the related accounts and the resulting gains or losses are reflected in the Statements of Revenues, Expenses and
+Changes in Net Position. The classes of assets used by the Authority are furniture and equipment, land, land
+improvements, and buildings. The estimated useful life for furniture and equipment ranges from 4 to 15 years,
+the estimated useful life of land improvements ranges from 20 to 30 years, and the estimated useful life of
+buildings ranges from 27 to 50 years.
+Inventory:
+Other assets consist of Governor’s House inventory, which is recorded at the lower of cost or market. Cost is
+determined using the weighted average method.
+Pensions:
+For purposes of measuring the net pension liability (asset), deferred outflows of resources and deferred inflows
+of resources related to pensions, and pension expense, information about the fiduciary net position of the South
+Dakota Retirement System (SDRS) and additions to/deletions from SDRS’s fiduciary net position have been
+determined on the same basis as they are reported by SDRS. The Authority’s contributions and net pension
+liability (asset) are recognized on an accrual basis of accounting.
+(continued on next page) 18
+Notes to Financial Statements
+Arbitrage Rebate:
+The Authority is limited in the investment yield which it may retain for its own use on the non-mortgage
+investments for most of its bond issues. Excess arbitrage yields must be rebated to the federal government in
+accordance with applicable federal tax regulations. The Authority has recorded receivables/(liabilities) in the
+amount of ($2,799,766) and ($2,286,824) at June 30, 2025 and 2024, respectively, for arbitrage.
+Escrows and Reserves:
+The Authority requires multifamily projects to escrow funds with the Authority to cover certain future
+expenditures. Investments equal to the amount of escrows and reserves are restricted for this purpose.
+Investment income relating to these funds is credited directly to the escrow funds; it is not included in the
+investment income of the Authority.
+Revenue and Expense Recognition:
+Enterprise funds distinguish operating revenues and expenses from nonoperating items. Operating revenues
+and expenses generally result from providing services and producing and delivering items in connection with an
+enterprise fund’s ongoing operations. The Authority records all revenues derived from mortgages, investments,
+servicing, financing, grants, State contributions, and federal housing assistance programs as operating revenues
+since these revenues are generated from the Authority’s daily operations needed to carry out its purpose.
+Operating expenses include bond interest, bond issuance costs, housing program assistance payments, and
+depreciation and administrative expenses related to the administration of the Authority’s programs.
+Pass-Through Grants:
+The Authority follows GASB Statement No. 24, Accounting and Financial Reporting for Certain Grants and Other
+Financial Assistance. Statement No. 24 requires that all cash pass-through grants received by a governmental
+entity be reported in its financial statements. The effect of applying these provisions is to increase both
+operating income and expense when eligible expenses occur. Grant funds received in advance of meeting
+eligibility requirements are recorded as a liability as unearned revenue.
+Use of Estimates:
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities, reported amounts of revenues and expenses, and other disclosures. Actual
+results could differ from those estimates.
+Adoption of New Standard:
+As of July 1, 2024, the Authority adopted GASB Statement No. 101, Compensated Absences. The provisions of
+this standard modernize the types of leave that are considered a compensated absence and provides guidance
+for a consistent recognition and measurement of the compensated absence liability. There was not a significant
+effect on the Authority’s financial statements as a result of the implementation of this standard.
+(continued on next page) 19
+Notes to Financial Statements
+Net Position:
+Net position is classified in the following three components:
+• Net investment in capital assets – This component consists of capital assets, net of accumulated
+depreciation, reduced by the outstanding balances of any debt that is attributable to the acquisition,
+construction, or improvement of those assets.
+• Restricted – Consists of net position with constraints placed on their use by (1) bond indentures, (2) law
+through enabling legislation, (3) participation in the State pension plan, and (4) various grant agreements.
+• Unrestricted – Consists of net position that does not meet the definition of net investment in capital
+assets or restricted.
+The Authority’s net position, other than the net investment in capital assets, is all considered restricted as of June
+30, 2025 and 2024, and all expenses incurred are for restricted purposes.
+Note 3 - Deposits and Investments:
+Under the terms of the bond resolutions, the Authority is generally restricted to investments in direct general
+obligations of the United States of America, agencies and instrumentalities of the United States of America,
+negotiable or nonnegotiable certificates of deposit issued by a bank that is insured by the FDIC, obligations of
+the State or any agency or instrumentality thereof, or securities that are permissible for the investment of State
+public funds under the provisions of SDCL § 4-5-26. As of the years ended June 30, 2025 and 2024, all
+investments held by the Authority were in compliance with the requirements of the bond resolutions.
+Deposits:
+Custodial Credit Risk: Custodial credit risk is the risk that, in the event of a bank failure, the Authority’s deposits
+may not be returned. The Authority’s deposit policy requires deposits in excess of the Depository Insurance
+maximums must be collateralized 100%. Collateral must be deposited for safekeeping in a financial institution
+that is not owned or controlled, either directly or indirectly, by the pledging financial institution. The financial
+institution where the collateral is held must be a member of the Federal Reserve. As of June 30, 2025 and 2024,
+of the Authority’s deposits of $85,070,354 (carrying value of $83,492,354) and $78,573,163 (carrying value of
+$76,101,732), respectively, all were covered by insurance or collateral held in the Authority’s name in
+accordance with the Authority’s deposit policy.
+The $129,809,941 and $148,869,925 of the Authority’s cash and cash equivalents being held in the State’s
+internal investment pool as of June 30, 2025 and 2024, respectively, is the statutory responsibility of the South
+Dakota Investment Council (SDIC). The investment policy and required risk disclosures for the State’s internal
+investment pool are presented in the audit report of the South Dakota Investment Council, which can be
+obtained by contacting the Department of Legislative Audit, 427 South Chapelle, c/o 500 East Capitol, Pierre, SD
+57501.
+Investments:
+Custodial Credit Risk: For investments, custodial credit risk is the risk that, in the event of the failure of the
+counterparty, the Authority will not be able to recover the value of its investments or collateral securities that
+are in the possession of an outside party. The Authority does not have an investment policy for custodial risk. All
+investments are held in the Authority’s name.
+(continued on next page) 20
+Notes to Financial Statements
+Interest Rate Risk: The Authority limits the maturities of investments for its restricted accounts. Investments of
+the capital reserve accounts must provide for the purposes thereof as estimated by the Authority. The
+investments must not mature later than the final maturity of the related series of the bonds. The average
+duration of individual securities will not exceed twenty years. Investments of the mortgage reserve accounts
+must provide for the purposes thereof as estimated by the Authority. The duration of 50% of individual
+securities will not exceed two years from the date of purchase or deposit. The Authority assumes that its callable
+investments will not be called. The Authority invests in mortgage pass-through securities issued by Federal
+National Mortgage Association (Fannie Mae), Government National Mortgage Association (Ginnie Mae), and
+Federal Home Loan Mortgage Corporation (Freddie Mac). Because prepayments of mortgages underlying these
+securities affect the principal and interest payments received by these securities, the securities are considered
+highly sensitive to interest rate risk. As of June 30, 2025 and 2024, 79% and 75%, respectively, of the Authority’s
+securities were invested in mortgage pass-through securities.
+As of June 30, 2025 and 2024, the Authority had investments maturing as follows:
+2025 Investment Maturities (in Years)
+Greater
+Fair Value Less than 1 1 to 5 6 to 10 Than 10
+U.S Government obligations $ 66,285,320 $ 2,144,987 $ 47,072,563 $ 16,740,395 $ 327,375
+U.S. Agency obligations 1,929,861,813 3,444,323 19,201,524 7,476,171 1,899,739,795
+Money market/mutual funds 437,008,909 437,008,909 - - -
+Corporate-backed obligations 2,471,755 - 109,157 1,189,358 1,173,240
+State obligations 4,831,745 1,448,269 2,341,706 1,041,770 -
+Total $ 2,440,459,542 $ 444,046,488 $ 68,724,950 $ 26,447,694 $ 1,901,240,410
+2024 Investment Maturities (in Years)
+Greater
+Fair Value Less Than 1 1 to 5 6 to 10 Than 10
+U.S Government obligations $ 7 5,827,914 $ 9,258,243 $ 4 3,667,253 $ 2 2,574,832 $ 327,586
+U.S. Agency obligations 1,542,541,335 72,832,273 21,236,172 8,428,963 1,440,043,927
+Money market/mutual funds 3 34,525,491 3 34,525,491 - - -
+Certificates of deposit 248,917 248,917 - - -
+Corporate-backed obligations 2,799,350 2,640 176,145 1,187,600 1,432,965
+State obligations 5,596,015 962,050 3,610,735 1,023,230 -
+Total $ 1,961,539,022 $ 417,829,614 $ 6 8,690,305 $ 3 3,214,625 $ 1,441,804,478
+(continued on next page) 21
+Notes to Financial Statements
+At June 30, 2025 and 2024, certain cash equivalents and investments in securities are restricted in prescribed
+amounts by the bond resolutions as follows:
+2025
+Homeownership Single Family Multiple
+Mortgage Mortgage Purpose
+Bonds Bonds Bonds
+Capital reserve for debt service $ 65,944,699 $ - $ 868,960
+Mortgage reserve for debt service, bond
+redemption premiums, and potential for
+loan losses 1,469,505 - -
+Debt service reserve - 286,200 -
+Total $ 67,414,204 $ 286,200 $ 868,960
+2024
+Homeownership Single Family Multiple
+Mortgage Mortgage Purpose
+Bonds Bonds Bonds
+Capital reserve for debt service $ 5 2,941,151 $ - $ 873,723
+Mortgage reserve for debt service, bond
+redemption premiums, and potential for
+loan losses 1,727,292 - -
+Debt service reserve - 353,100 -
+Total $ 5 4,668,443 $ 353,100 $ 873,723
+Credit Risk and Concentration of Credit Risk: It is the investment policy of the Authority to invest in securities
+limited to direct general obligations of the United States Government, United States Government Agencies,
+mortgage-backed securities guaranteed by United States Government Agencies, direct and general obligations
+of any state within the United States, mutual funds invested in securities mentioned above, and investment
+agreements secured by securities mentioned above. If securities are downgraded after purchase, the Authority
+will analyze the reason for downgrade and determine what, if any, action is needed. The Authority will minimize
+concentration of credit risk by diversifying the investment portfolio and reducing the impact of potential losses
+from any one type of security or issuer. Investments issued by, or explicitly guaranteed by, the United States
+Government are not considered to have a credit risk. The investments are grouped as rated by Moody’s
+Investors Service:
+2025 2024
+Moody's
+Type/Provider Credit Rating Amount % of Total Amount % of Total
+Money market funds NR $ 437,008,909 17.9% $ 334,525,491 17.1%
+Certificates of deposit NR - 0.0% 248,918 0.0%
+Corporate-backed obligations NR 2,471,754 0.1% 2,799,350 0.1%
+U.S. Gov't agency securities AA1 3,334,078 0.1% 73,472,399 3.7%
+U.S. Treasury securities AA1 66,285,320 2.7% 75,827,914 3.9%
+State and municipal securities NR-AA3 4,831,746 0.2% 5,596,014 0.3%
+Mortgage-backed securities:
+GNMA NR 1,150,631,764 47.1% 8 96,409,427 45.7%
+FNMA NR 760,736,583 31.2% 5 56,373,432 28.4%
+FHLMC NR 15,159,388 0.6% 16,286,077 0.8%
+$ 2,440,459,542 100.0% $ 1,961,539,022 100.0%
+(continued on next page) 22
+Notes to Financial Statements
+Note 4 - Mortgage Loans Receivable:
+Mortgage loans receivable at June 30 consists of the following:
+2025 2024
+Homeownership Mortgage Loans $ 127,058,537 $ 135,863,040
+Single Family Mortgage Loans 12,046,846 13,585,077
+Multiple Purpose Loans 32,328,733 28,632,962
+Other (General Operating Account) 1 12,766,907 106,595,672
+Total $ 284,201,023 $ 284,676,751
+The above loans are substantially insured by FHA or private mortgage insurance companies, or guaranteed, in
+part, by the VA or USDA Rural Development. Losses on mortgage loans in the Homeownership Mortgage Bond
+Program are also secured by an insurance reserve fund established under the bond resolution. The mortgage
+loans receivable are reflected net of an allowance for loan loss of $1,203,407 and $1,133,639 as of June 30, 2025
+and 2024, respectively.
+Some loans receivable contain provisions for the loans to become grants if certain criteria is met. The conversion
+of loans receivable to grants is calculated on an annual basis, though the debtor is not entitled to receive full
+credit until maturity of the loan agreement or upon meeting certain criteria. As loans receivable converted to
+grants are estimated, loans receivable is credited and a charge to operations is made through the provision for
+loan loss. Loans receivable includes credits of $35,965,388 and $31,488,032 as of June 30, 2025 and 2024,
+respectively. Upon maturity of the loan agreement or achievement of specified criteria, the applicable portion of
+the loan receivable balance is awarded to the debtors.
+Included in the mortgage loan receivable balance is real estate owned by the Authority from foreclosures. The
+amount of real estate owned at June 30, 2025 and 2024, is $49,609 and $24,157, respectively.
+Note 5 - Line of Credit Receivable:
+On November 1, 2014, the Authority entered into a line of credit with its master servicer. The master servicer
+uses the line of credit to reimburse themselves for qualified mortgage loan purchases. The Authority receives
+first security position on the qualified mortgage loans being purchased as collateral. Unpaid balances on the line
+of credit bear interest prior to repayment at a rate per annum equal to that of the qualified mortgage loans
+purchased with funds advanced to the master servicer, less an amount to the master servicer for securitizing
+and servicing the qualified mortgage loans. The line of credit has a maximum amount of $60 million (or other
+amount as approved). The line of credit automatically renews each year if notice to terminate is not provided
+prior to 90 days of each calendar year-end. As of the issuance of these financial statements, there was no
+termination notice provided; thus, the agreement will expire on December 31, 2026. As of June 30, 2025 and
+2024, the balance of this line of credit receivable was $68,537,154 and $53,203,587, respectively.
+(continued on next page) 23
+Notes to Financial Statements
+Note 6 - Bonds Payable:
+Homeownership Mortgage Bonds require annual principal payments on May 1 of each year. Homeownership
+Mortgage bonds outstanding at June 30 are (in thousands):
+2025 2024
+Total Total
+Bond Issue Maturity Date Interest Rate Serial Term (1) Outstanding Outstanding
+2013 Series B 2024-2025 2.9%-3.0% $ - $ - $ - $ 1 ,405
+2013 Series C 2030-2033 3.55% - 4,110 4,110 4,110
+2013 Series D 2043 3.25%-4.0% - 8,792 8,792 9,945
+2013 Series F 2024 3.50% - - - 590
+2014 Series C 2025 3.45% 775 - 775 2,470
+2014 Series D 2025-2028 2.90%-3.15% 1,790 1,655 3,445 6,950
+2014 Series F 2025 3.60% 980 - 980 2,895
+2015 Series A 2025 2.75% 1,230 - 1,230 3,640
+2015 Series B 2024 3.27% - - - 645
+2015 Series C 2045 4.40% - 3 0,000 30,000 3 0,000
+2015 Series D 2025-2045 2.75%-4.0% 145 140 285 2,330
+2015 Series E 2027-2037 1.90% (2) - 2 5,000 (3) 25,000 2 5,000
+2016 Series A 2025-2036 2.70%-3.45% 5,375 95 5,470 8,295
+2016 Series B 2025-2046 2.15%-3.5% 3,735 1 0,025 13,760 1 6,795
+2016 Series C 2025 2.45% 180 - 180 4,890
+2016 Series D 2037-2046 3.50% - 3,035 3,035 8,150
+2017 Series A 2025-2037 3.06%-3.492% 4,045 610 4,655 6,335
+2017 Series B 2025-2047 2.45%-4.0% 1 5,280 2 5,880 41,160 4 8,745
+2017 Series C 2037-2039 4.00% - 1,340 1,340 2,310
+2017 Series D 2025-2047 2.25%-4.0% 1 1,525 2 3,510 35,035 4 2,470
+2017 Series E 2025-2039 2.80%-4.0% 3,780 1,490 5,270 9,395
+2017 Series F 2027-2030 2.6%-2.95% 1 2,065 - 12,065 1 2,065
+2018 Series A 2025-2048 2.85%-4.0% 1 0,535 7,250 17,785 2 3,560
+2018 Series B 2025-2048 3.00%-4.5% 9,920 9,860 19,780 2 5,855
+2019 Series A 2025-2049 2.35%-4.0% 1 6,800 1 4,480 31,280 3 7,420
+2019 Series B 2025-2049 1.50%-4.0% 2 2,260 2 9,235 51,495 5 8,140
+2020 Series A 2025-2050 1.375%-3.75% 1 6,850 1 4,975 31,825 3 8,655
+2020 Series B 2031-2041 1.87% (2) - 3 3,000 33,000 3 3,000
+2020 Series C 2025-2051 0.90%-3.50% 2 0,745 1 8,310 39,055 4 5,935
+2020 Series D 2033-2043 1.90% (2) - 3 3,000 33,000 3 3,000
+2021 Series A 2025-2051 0.50%-3.0% 2 3,975 5 1,465 75,440 8 2,640
+2021 Series B 2025-2051 0.55%-3.0% 2 5,695 6 7,520 93,215 101,855
+2021 Series C 2025-2030 1.058%-2.019% 1 3,385 - 13,385 1 5,600
+2022 Series A 2025-2027 0.95%-5.0% - - - 1 1,380
+2022 Series B 2028-2052 1.4%-5.0% 3 3,780 6 3,430 97,210 9 3,725
+2022 Series C 2025-2053 2.95%-5.0% 2 0,570 3 5,520 56,090 6 1,690
+2022 Series D 2038-2046 1.92% (2) - 3 3,000 33,000 3 3,000
+2022 Series E 2025-2053 4.797%-5.796% 6,700 2 1,550 28,250 3 0,895
+2022 Series F 2038-2046 4.35% (2) - 1 7,000 17,000 1 7,000
+2023 Series A 2025-2054 2.70%-6.0% 2 1,480 7 1,655 93,135 9 7,600
+2023 Series B 2025-2053 4.18%-5.13% 1 1,615 3 0,340 41,955 4 4,910
+2023 Series C 2039-2047 4.35% (2) - 2 3,000 23,000 2 3,000
+2023 Series D 2025-2054 3.45%-6.0% 2 0,850 7 4,905 95,755 9 8,675
+2023 Series E 2025-2054 5.566%-6.25% 9,585 3 7,560 47,145 4 9,825
+2023 Series F 2039-2048 4.35% (2) - 2 5,000 25,000 2 5,000
+2023 Series G 2025-2055 3.625%-6.25% 2 0,445 8 2,135 102,580 104,960
+2023 Series H 2025-2054 5.38%-6.266% 8,340 2 9,830 38,170 3 9,955
+2023 Series I 2040-2048 4.35% (2) - 2 0,000 20,000 2 0,000
+2023 Series J 2024 3.875% - - - 7 0,000
+2024 Series A 2044-2055 4.45%-6.25% - 9 8,180 98,180 9 9,000
+2024 Series B 2036-2039 5.097%-5.430% - 4 8,170 48,170 4 9,000
+2024 Series C 2029-2055 3.30%-6.25% 4,785 194,885 199,670 -
+2024 Series D 2025-2036 4.188%-4.999% 5 0,000 - 50,000 -
+2025 Series A 2029-2055 3.350%-6.50% 9,380 149,620 159,000 -
+2025 Series B 2026-2036 4.55%-5.5630% 4 0,000 - 40,000 -
+2025 Series C 2036-2056 4.50%-6.250% 5,240 119,760 125,000 -
+2025 Series D 2026-2055 4.414%-6.114% 2 9,335 4 4,665 74,000 -
+Total 2,148,157 1,714,705
+2016 Series E 2029-2037 2.27% (2) - 5 0,000 50,000 5 0,000
+Total Direct Placements 50,000 5 0,000
+Plus unamortized premium 56,007 3 7,680
+Less unamortized discount (226) -
+Total Homeownership Mortgage Program Bonds $ 2 ,253,938 $ 1,802,385
+(1) Term bonds are subject to mandatory redemption from mandatory sinking fund installments.
+(2) Variable rate adjusted weekly based on the current market rate for similar tax-exempt bonds.
+(3) During FY2022, the 2015 Series E Bonds were remarketed and are no longer considered direct placement.
+(continued on next page) 24
+Notes to Financial Statements
+Single Family Mortgage Bonds require annual principal payments on May 1 of each year. Single Family Mortgage
+Bonds outstanding at June 30 are (in thousands):
+2025 2024
+Total Total
+Bond Issue Maturity Date Interest Rate Serial Term (1) Outstanding Outstanding
+2016-1 2025-2041 2.734%-3.5% $ 3 ,035 $ 6 ,505 $ 9,540 $ 11,770
+Total 9,540 1 1,770
+Plus unamortized premium 59 81
+Total Single Family Mortgage Bonds $ 9,599 $ 11,851
+(1) Term bonds are subject to mandatory redemption from mandatory sinking fund installments.
+Multiple Purpose Bonds require annual principal payments on November 1 of each year. Multiple Purpose
+Bonds outstanding at June 30 are (in thousands):
+2025 2024
+Total Total
+Bond Issue Maturity Date Interest Rate Serial Term (1) Outstanding Outstanding
+2009 Series A 2025-2048 2.17% (2) $ - $ 5 ,555 $ 5,555 $ 5 ,660
+2013 Series A 2028 3.65% - 150 150 150
+2020 Series A 2025-2062 1.92% (2) - 1 3,625 13,625 1 3,950
+Total Multiple Purpose Bonds $ 19,330 $ 19,760
+(1) Term bonds are subject to mandatory redemption from mandatory sinking fund installments.
+(2) Variable rate adjusted weekly based on the current market rate for similar tax-exempt bonds.
+Total Bonds Outstanding $ 2 ,282,867 $ 1,833,996
+Following are the schedules of changes in bonds payable for the fiscal years ended June 30, 2025 and 2024:
+Amounts Due
+Balance Balance Within One
+July 1, 2024 Additions Deductions June 30, 2025 Year
+Homeownership Mortgage Program Bonds $ 1,714,705,022 $ 648,000,003 $ 214,548,379 $ 2,148,156,646 $ 64,468,480
+Homeownership Direct Placement Bonds 5 0,000,000 - - 5 0,000,000 -
+Single Family Mortgage Bonds 1 1,770,000 - 2,230,000 9,540,000 1,260,000
+Multiple Purpose Bonds 1 9,760,000 - 430,000 1 9,330,000 450,000
+Unamortized Premium/Discount 3 7,761,267 2 2,914,551 4,835,161 5 5,840,657 -
+$ 1,833,996,289 $ 670,914,554 $ 222,043,540 $ 2,282,867,303 $ 66,178,480
+Amounts Due
+Balance Balance Within One
+July 1, 2023 Additions Deductions June 30, 2024 Year
+Homeownership Mortgage Program Bonds $ 1,294,841,140 $ 557,000,000 $ 137,136,118 $ 1,714,705,022 $ 161,752,988
+Homeownership Direct Placement Bonds 50,000,000 - - 50,000,000 -
+Single Family Mortgage Bonds 14,200,000 - 2,430,000 11,770,000 970,000
+Multiple Purpose Bonds 20,180,000 - 420,000 19,760,000 430,000
+Unamortized Premium/Discount 31,977,545 10,499,479 4,715,757 37,761,267 -
+$ 1,411,198,685 $ 567,499,479 $ 144,701,875 $ 1,833,996,289 $ 163,152,988
+The assets and revenues of the above indentures are pledged as collateral for the payment of principal and
+interest on their respective bonds. The bond indentures contain provisions governing events of default and
+remedies to bondholders with respect to amounts due following events of default.
+(continued on next page) 25
+Notes to Financial Statements
+Required principal and interest payments are as follows:
+Homeownership Mortgage Homeownership Direct
+Year Ended Program Bonds Placement Bonds
+June 30 Principal Interest Principal Interest
+2026 $ 64,468,480 $ 83,907,414 $ - $ 2 ,115,000
+2027 6 4,655,000 8 3,685,165 - 2,115,000
+2028 6 8,135,000 8 1,008,991 - 2,115,000
+2029 6 9,055,000 7 9,308,054 - 2,115,000
+2030 7 2,275,000 7 7,096,972 - 2,052,713
+2031-2035 306,300,000 354,040,787 3 7,375,000 6,385,397
+2036-2040 315,820,000 301,264,707 1 2,625,000 642,643
+2041-2045 367,763,166 245,489,028 - -
+2046-2050 444,335,000 166,428,839 - -
+2051-2055 363,935,000 5 7,996,269 - -
+2056-2060 1 1,415,000 444,741 - -
+Total $ 2 ,148,156,646 $ 1 ,530,670,967 $ 50,000,000 $ 17,540,753
+Year Ended Single Family Mortgage Bonds Multiple Purpose Bonds
+June 30 Principal Interest Principal Interest
+2026 $ 1 ,260,000 $ 302,477 $ 4 50,000 $ 146,324
+2027 1 ,225,000 267,871 460,000 137,460
+2028 1 ,300,000 230,836 475,000 134,559
+2029 1 ,445,000 185,763 640,000 128,631
+2030 1 ,405,000 136,485 505,000 122,516
+2031-2035 2 ,020,000 224,111 2 ,785,000 555,637
+2036-2040 650,000 111,343 3 ,290,000 438,396
+2041-2045 235,000 8 ,138 3 ,915,000 283,198
+2046-2050 - - 3 ,410,000 85,870
+2051-2055 - - 1 ,275,000 15,617
+2056-2060 - - 1 ,410,000 8 ,276
+2061-2065 - - 715,000 1 ,140
+Total $ 9 ,540,000 $ 1 ,467,024 $ 19,330,000 $ 2 ,057,624
+The Authority issues certain series of bonds as variable rate interest debt in order to reduce its overall cost of
+funds and further its objective of providing affordable mortgage rates for homebuyers in the state. The
+Authority’s variable rate bonds are currently subject to optional tender on a weekly basis. Through standby
+bond purchase agreements, certain financial institutions (the Liquidity Providers) have agreed to purchase such
+variable rate bonds that have been tendered and cannot be remarketed. Variable rate bonds purchased by a
+Liquidity Provider bear interest at various special negotiated interest rates and have accelerated principal
+payments over various special negotiated interest rates and various terms of years, as set forth in each such
+agreement.
+(continued on next page) 26
+Notes to Financial Statements
+The following table sets forth certain information related to Liquidity Providers for variable rate bonds issued and
+outstanding as of June 30, 2025:
+Homeownership Bond Liquidity Provider Bonds
+Mortgage Bonds Liquidity Provider Maturity Rating (Moody's/S&P) Expiration Date Outstanding
+2015 Series C The Authority 11/1/2045 Aa3/NR 11/1/2045 $ 30,000,000
+2020 Series B The Authority 11/1/2041 Aa3/NR 11/1/2041 $ 33,000,000
+2015 Series E Bank of America 11/1/2037 Aa2/A+ 5/1/2030 $ 25,000,000 *
+2020 Series D Bank of America 5/1/2043 Aa2/A+ 2/10/2027 $ 33,000,000 *
+2022 Series D FHLB of Des Moines 11/1/2046 Aaa/AA+ 6/23/2027 $ 33,000,000 *
+2022 Series F The Authority 11/1/2046 Aa3/NR 11/1/2046 $ 17,000,000
+2023 Series C The Authority 11/1/2047 Aa3/NR 11/1/2047 $ 23,000,000
+2023 Series F FHLB of Des Moines 5/1/2048 Aaa/AA+ 10/4/2028 $ 25,000,000 *
+2023 Series I FHLB of Des Moines 11/1/2048 Aaa/AA+ 12/13/2028 $ 20,000,000 *
+Multiple Bond Liquidity Provider Bonds
+Purpose Bonds Liquidity Provider Maturity Rating (Moody's/S&P) Expiration Date Outstanding
+2009 Series A The Authority 11/1/2048 Aa3/NR 11/1/2048 $ 5,660,000
+2020 Series A FHLB of Des Moines 11/1/2062 Aaa/AA+ 6/30/2028 $ 13,625,000 *
+* Various terms and rates as set forth in each liquidity agreement
+Note 7 - Conduit Debt Obligations:
+The Authority has issued certain conduit bonds under the Multifamily Housing Revenue Bonds Resolution
+adopted April 15, 1991, the proceeds of which were made available to developers for the construction or
+rehabilitation of multifamily housing. The bonds and the interest thereon are a limited obligation of the issuer,
+payable solely from the trust estate pledged therefore under this indenture. The faith and credit of the Authority
+is not pledged for the payment of the principal and interest on the bonds. Accordingly, these obligations are
+excluded from the Authority’s financial statements.
+As of June 30, 2025 and 2024, the aggregate principal amount of conduit debt outstanding totaled $54,376,048
+and $56,468,935, respectively.
+Note 8 - Refunding of Debt:
+During the year ended June 30, 2025, the Authority issued Homeownership Mortgage Bonds Series 2024C and
+2025A in the aggregate principal amounts of $200 million and $159 million respectively, of which $96.8 million
+and $21.2 million, respectively, of bond proceeds were used to refund previously issued bonds for the sole
+purpose of recycling volume cap utilized for the issuance of the refunded bonds.
+During the year ended June 30, 2024, the Authority issued Homeownership Mortgage Bonds Series 2023D in the
+aggregate principal amount of $99 million, of which 52.1 million of bond proceeds were used to refund
+previously issued bonds for the sole purpose of recycling the volume cap utilized for the issuance of the
+refunded bonds.
+(continued on next page) 27
+Notes to Financial Statements
+Note 9 - Hedging Derivatives:
+Interest Rate Swaps:
+Swap Objectives:
+The Authority has entered into interest rate swap agreements in connection with issuing variable rate mortgage
+revenue bonds. The intentions of the swaps are to create synthetic fixed rate debt at a lower interest rate than
+achievable from long-term fixed-rate bonds, and to achieve the Authority’s goal of lending to low- and
+moderate-income first-time home buyers at below-market fixed interest rates.
+Swap Terms:
+The terms, including the fair values and counterparty credit ratings of the outstanding swaps as of June 30, 2025
+and 2024, are contained in the table below. The initial notional amounts of the swaps match the initial principal
+amounts of the associated debt. Current notional amounts may or may not match the current principal
+outstanding on the debt, which could result in unhedged variable rate debt or making interest payments on debt
+no longer outstanding (see amortization risk).
+The Authority has purchased the right to terminate the outstanding swap balances at par value on dates that are
+generally ten years after the date of issuance of the related bonds.
+Increase Increase
+(Decrease) in (Decrease) in
+Fair Value for Fair Value for
+Current Effective/ Counterparty the Fiscal the Fiscal
+Bond Notional Termination Rate Rate Credit Fair Value Year Ended Fair Value Year Ended
+Series Amount Date Payable Receivable Rating* June 30, 2025 June 30, 2025 June 30, 2024 June 30, 2024
+Wells Fargo Bank
+2015 E-1 25,000,000 4/1/2016 2.1050% 66.4% of LIBOR Aa1 $ 1,269,007 $ (625,469) $ 1,894,476 $ 182,478
+11/1/2037 plus 0.22%
+2016 E-1 50,000,000 5/1/2019 2.2080% 66.4% of LIBOR Aa1 2,564,823 (1,274,363) 3,839,186 446,646
+5/1/2037 plus 0.23%
+2020 D 33,000,000 8/12/2020 0.9280% 100% SIFMA Aa1 6,518,845 (742,292) 7,261,137 373,180
+5/1/2043
+MPB 2020 A 13,625,000 12/7/2020 1.3100% 100% SIFMA Aa1 2,672,485 (128,320) 2,800,805 261,735
+5/1/2060
+Bank of America
+2022 D 33,000,000 6/23/2022 2.3490% 70.0% of SOFR Aa1 3,139,762 (332,146) 3,471,908 1,155,213
+11/1/2046 plus 0.08%
+2023 F 25,000,000 10/4/2023 4.8100% 100% SOFR Aa1 31,314 (290,651) 321,965 321,965
+11/1/2047 plus 0.15%
+Bank of New York Mellon
+2020 B 33,000,000 2/12/2020 1.6525% 100% SIFMA Aa1 3,681,045 (791,889) 4,472,934 346,776
+11/1/2041
+2022 F 17,000,000 10/13/2022 4.3770% 100% SOFR Aa1 669,023 (244,890) 913,913 882,646
+11/1/2046 plus 0.15%
+2023 C 23,000,000 2/15/2023 3.9500% 100% SOFR Aa1 1,971,702 (300,340) 2,272,042 1,218,300
+11/1/2047 plus 0.15%
+2023 I 20,000,000 12/13/2023 5.1750% 100% SOFR Aa1 (611,238) (217,346) (393,892) (393,892)
+5/1/2048 plus 0.15%
+$ 21,906,768 $ 26,854,474
+*Moody’s Investor Service
+(continued on next page) 28
+Notes to Financial Statements
+Fair Value:
+The valuation was determined by calculating the difference between the present values of each fixed cash flow
+to be paid and each floating cash flow to be received by the Authority based upon the current market yield
+curve. The present value factors for each cash flow are based on the implied zero-coupon yield curve
+determined by current market rates. Additionally, the values of the call options are determined by calculating
+the present value of each predicted option outcome, whose interest rate prediction variance is determined by
+current market-implied volatility. Together, these calculations, along with considerations for non-performance
+risk, determine the current fair value of the Authority’s swap contracts. The fair values in the table above
+represent the termination payments that would have been due had the swaps been terminated as of June 30,
+2025 and 2024. A positive fair value represents money due the Authority by the counterparty upon termination
+of the swap, while a negative fair value represents money payable by the Authority.
+Swap Risks:
+Credit Risk: The terms of the swaps expose the Authority to potential credit risk with the counterparty upon the
+occurrence of a termination event. The fair value of a swap represents the Authority’s current credit exposure to
+the counterparty with which the swaps were executed. The Authority has credit risk exposure with its
+counterparties when the swap position has a positive value. Several of the swap agreements require that, upon
+demand, a party post collateral to secure its obligation to make a termination payment to the extent the fair
+value exceeds a collateral threshold specified in the agreement.
+The collateral thresholds are based on the prevailing ratings, as determined by Moody's and S&P, of each
+counterparty, in the case of the counterparties, or the hedged bonds, in the case of the Authority. These
+bilateral requirements are established to mitigate potential credit risk exposure. As of June 30, 2025 and 2024,
+neither the Authority nor any counterparty had been required to post collateral.
+Basis Risk: The Authority incurs the potential risk that the variable interest payments on its bonds will not equal
+the variable interest receipts from its swaps. This basis risk exists because the Authority pays the actual variable
+rate on its bonds; but, under the terms of its swaps, the Authority receives a variable rate based upon either the
+one-month taxable London Interbank Offered Rate (LIBOR) rate (replacement rate for LIBOR being the Secured
+Overnight Financing Rate (SOFR) Fallback Rate), or the Securities Industry and Financial Markets Association
+(SIFMA) rate. Basis risk will vary over time due to inter-market conditions. For the years ended June 30, 2025
+and 2024, the weighted average interest rate on the Authority’s variable rate debt associated with swaps was
+1.42% and 1.31% per annum, respectively, while the weighted average interest rate on the swaps was 1.51%
+and 1.50% per annum, respectively. In order to reduce the cumulative effects of basis risk, the variable rate
+determination structure for interest receipts within the swap is based upon a regression analysis of the long-
+term relationship between variable tax-exempt rates and the applicable swap index.
+Termination Risk: The Authority’s swap contracts are based upon the International Swap Dealers Association
+Master Agreement, which includes standard termination events. The swap contracts may be terminated by
+either party if the other party fails to perform under the terms of the contract. Upon termination, a payment is
+due to one party, irrespective of causality, based upon the fair value of the swap. The potential termination risks
+to the Authority are the liability for a termination payment to the counterparty or the inability to replace the
+swap under favorable financial terms. To reduce the Authority’s termination risk, the swap contracts limit the
+counterparty’s ability to terminate due to the following Authority actions or events: payment default, other
+defaults that remain uncured for 30 days after notice, bankruptcy, and insolvency.
+(continued on next page) 29
+Notes to Financial Statements
+Amortization Risk: The Authority may incur amortization risk because prepayments from the mortgage loan
+portfolio may cause the outstanding amount of variable rate bonds to decline faster than the amortization of
+the swap. To ameliorate amortization risk, call options were structured within the swaps to enable the Authority
+to manage the outstanding balances of variable rate bonds and notional swap amounts. Additionally, the
+Authority may terminate the swaps at market value at any time.
+Tax Risk: The structure of the variable interest rate payments the Authority receives from its swap contracts are
+based upon the historical long-term relationship between taxable and tax-exempt short-term interest rates. Tax
+risk represents a risk that may arise due to a change in the tax code that may fundamentally alter this
+relationship. The Authority has chosen to assume this risk because it was not economically feasible to transfer to
+the swap counterparty.
+Concentration Risk: The total outstanding bonds associated with swaps will be limited to thirty percent (30%) of
+the total of all outstanding bonds under the related indenture at the time bonds associated with swaps are
+issued. The total outstanding bonds associated with swaps with a single counterparty will not exceed
+$150,000,000.
+Swap Payments and Associated Debt: Variable-rate bond interest payments and net swap payments will vary
+during their term. Future debt service requirements of the variable-rate debt and net swap payments as of June
+30, 2025, are as follows:
+Year Ended Variable Rate Bond Interest Rate
+June 30 Principal Interest Swap - Net Total
+2026 $ 340,000 $ 7,462,736 $ (1,636,795) $ 6,165,941
+2027 340,000 7 ,456,208 (1,634,733) 6,161,475
+2028 350,000 7 ,447,115 (1,631,126) 6,165,989
+2029 355,000 7 ,405,340 (1,819,670) 5,940,670
+2030 6 ,460,000 7 ,320,732 (2,494,195) 11,286,537
+2031-2035 72,445,000 33,146,420 (10,866,739) 94,724,681
+2036-2040 70,070,000 25,716,680 (5,755,897) 90,030,783
+2041-2045 82,000,000 14,855,273 (1,828,059) 95,027,214
+2046-2050 36,865,000 2 ,559,110 ( 508,217) 38,915,893
+2051-2055 1 ,275,000 360,192 ( 354,769) 1,280,423
+2056-2060 2 ,125,000 232,224 ( 228,727) 2,128,497
+$ 272,625,000 $ 113,962,030 $ (28,758,927) $ 357,828,103
+Rollover Risk: Rollover risk is the risk that a swap associated with a bond issue does not extend to the maturity
+of that debt. When the swap terminates, the associated debt will no longer have the benefit of the swap. The
+Authority did not have any rollover risk as of June 30, 2025 and 2024.
+(continued on next page) 30
+Notes to Financial Statements
+Note 10 - Fair Value:
+The Authority had the following recurring fair value measurements as of June 30, 2025:
+Fair Value Measurements Using:
+Level 1 Level 2 Level 3
+Investments by fair value level
+U.S. Treasuries $ - $ 6 6,285,320 $ -
+U.S. Government agencies - 1,929,861,813 -
+Corporate-backed obligations - 2,471,754 -
+Money market mutual funds 4 37,008,909 - -
+State obligations - 4,831,746 -
+Total investments by fair value level $ 437,008,909 $ 2,003,450,633 $ -
+Hedging derivative instruments
+Assets
+Interest rate swaps $ - $ 2 2,518,006 $ -
+$ - $ 2 2,518,006 $ -
+Liabilities
+Interest rate swaps $ - $ 611,238 $ -
+$ - $ 611,238 $ -
+The Authority had the following recurring fair value measurements as of June 30, 2024:
+Fair Value Measurements Using:
+Level 1 Level 2 Level 3
+Investments by fair value level
+U.S. Treasuries $ - $ 75,827,914 $ -
+U.S. Government agencies - 1,542,541,335 -
+Corporate-backed obligations - 2,799,350 -
+Money market mutual funds 334,525,491 - -
+Certificates of deposit - 2 48,918 -
+State obligations - 5,596,015 -
+Total investments by fair value level $ 334,525,491 $ 1,627,013,532 $ -
+Hedging derivative instruments
+Assets
+Interest rate swaps $ - $ 27,248,366 $ -
+$ - $ 27,248,366 $ -
+Liabilities
+Interest rate swaps $ - $ 393,892 $ -
+$ - $ 393,892 $ -
+(continued on next page) 31
+Notes to Financial Statements
+The Authority obtains its fair value pricing on investments from their third-party trustee. There are multiple
+pricing methodologies which are used to value the Authority’s U.S. Treasury and Government Agency securities,
+Money Market Mutual Funds, Investment Agreements, Certificates of Deposit, and State Obligations. These
+methods include, but are not limited to, gathering pricing from multiple market sources and vendor credit
+information, observed market movements, sector news into the pricing applications and models, or manual
+methods.
+Money Market Mutual Funds classified as Level 1 are valued using quoted prices in active markets for those
+securities. Since the Authority’s debt security investments are not actively traded on an exchange and rely on
+significant observable inputs for fair value pricing, these securities are classified as Level 2.
+The Authority obtains its fair value pricing on interest rate swaps and forward MBS contracts from a third-party
+vendor. See Note 9 for further description of the fair value methodology for derivative instruments.
+Note 11 - Net Position:
+The State has pledged to, and agreed with, bondholders that it will not limit or alter the rights vested in
+the Authority to fulfill the terms of any agreements made with them, or in any way impair the rights and
+remedies of the bondholders, until the bonds, together with the interest thereon and on any unpaid
+installments of interest, and all costs and expenses in connection with any action or proceedings by or on behalf
+of such bondholders, are fully met and discharged. The net position of the indentures, other than the General
+Operating Account, are, therefore, restricted under the terms of the bond resolutions. The Authority may,
+however, subject to the provisions as defined in bond resolutions, transfer surplus earnings to the General
+Reserve Account in the General Operating Account. The Authority covenants that it will use money in the
+General Reserve Account only for the administration and financing of programs in accordance with the policy
+and purpose of the Act, including reserves for the payment of bonds and notes and of loans made from the
+proceeds thereof, and will accumulate and maintain therein such a balance of funds and investments as will be
+sufficient for that purpose.
+Sub-accounts of the General Operating Account, established as part of the General Reserve Account on the basis
+of specified guidelines, are restricted at June 30 as follows:
+2025 2024
+Bond and notes reserve $ 5,567,567 $ 4,490,588
+Program operations reserve 6,532,816 6 ,162,643
+Total $ 12,100,383 $ 10,653,231
+Note 12 - Commitments:
+As of 2025, the Authority had the following Homeownership Mortgage Program commitments:
+• Commitments to fund the Homeownership Mortgage Program aggregating $134,868,280.
+(continued on next page) 32
+Notes to Financial Statements
+Note 13 - Segment Information:
+The Authority issues bonds to finance the purchase of single-family homes and multifamily developments. The
+bond programs are accounted for in a single enterprise fund, but investors in those bonds rely on the revenue
+generated by the activities within the individual bond indentures. Summary financial information as of and for
+the years ended June 30, 2025 and 2024, for the Homeownership Mortgage Program Bonds, Single Family
+Mortgage Bonds, and the Multiple Purpose Bonds follows:
+2025 2024
+Homeownership Single Family Multiple Homeownership Single Family Multiple
+Mortgage Mortgage Purpose Mortgage Mortgage Purpose
+Bonds Bonds Bonds Bonds Bonds Bonds
+Condensed Statement of Net Position
+Assets
+Interfund receivables (payables) $ 21,364,254 $ (11,915,039) $ (1,050,995) $ 21,099,791 $ (11,958,403) $ (2,508,291)
+Current assets 743,646,042 8,956,512 26,809,961 639,784,820 8,889,118 2 6,250,722
+Noncurrent assets 1,861,354,132 13,608,037 64,028,322 1,479,093,177 1 5,397,389 6 4,600,088
+Total Assets 2,626,364,428 10,649,510 89,787,288 2,139,977,788 1 2,328,104 8 8,342,519
+Deferred Outflows of Resources 2,388,759 - - 2,306,723 - -
+Total Assets and Deferred Outflows of Resources $ 2,628,753,187 $ 10,649,510 $ 89,787,288 $ 2,142,284,511 $ 12,328,104 $ 88,342,519
+Liabilities
+Current liabilities $ 77,909,290 $ 1,315,149 $ 479,510 $ 1 75,163,885 $ 1 ,037,232 $ 475,403
+Noncurrent liabilities 2,192,588,684 8,339,607 18,902,240 1,643,306,318 1 0,881,412 1 9,330,000
+Total Liabilities 2,270,497,974 9,654,756 19,381,750 1,818,470,203 1 1,918,644 1 9,805,403
+Deferred Inflows of Resources 27,781,677 - 2,672,485 32,914,723 - 2,800,805
+Total Liabilities and Deferred Inflows of Resources 2,298,279,651 9,654,756 22,054,235 1,851,384,926 1 1,918,644 2 2,606,208
+Net Position
+Net investment in capital assets - - (2,483,071) - - (2,436,969)
+Restricted by bond indentures 330,473,536 994,754 70,216,124 290,899,585 409,460 6 8,173,280
+Total Liabilities, Deferred Inflows, and Net Position $ 2,628,753,187 $ 10,649,510 $ 89,787,288 $ 2,142,284,511 $ 12,328,104 $ 88,342,519
+Condensed Statement of Revenues,
+Expenses, and Changes in Net Position
+Operating revenues $ 134,372,538 $ 1,183,156 $ 4,181,125 $ 65,912,567 $ 1 ,101,464 $ 3 ,468,470
+Operating expenses 88,218,903 597,862 684,383 59,177,074 612,687 762,976
+Operating income 46,153,635 585,294 3,496,742 6,735,493 488,777 2,705,494
+Transfers in (out) (6,579,684) - (1,500,000) (5,187,904) 75,000 (3,000,000)
+Change in net position 39,573,951 585,294 1,996,742 1,547,589 563,777 (294,506)
+Beginning net position 290,899,585 409,460 65,736,311 289,351,996 (154,317) 6 6,030,817
+Ending net position $ 330,473,536 $ 994,754 $ 67,733,053 $ 2 90,899,585 $ 409,460 $ 65,736,311
+Condensed Statement of Cash Flows
+Net cash provided (used) by:
+Operating activities $ (380,968,556) $ 2,000,852 $ (4,358,295) $ (321,469,193) $ 2 ,399,134 $ (4,140,928)
+Noncapital financing activities 368,504,170 (2,693,955) (2,137,321) 369,180,437 (2,881,565) (3,643,981)
+Capital and related financing activities - - (297,931) - - (315,339)
+Investing activities 104,871,224 1,032,085 16,531,145 (61,511,512) 1,245,895 1 4,008,963
+Net change 92,406,838 338,982 9,737,598 (13,800,268) 763,464 5,908,715
+Beginning cash and cash equivalents 315,510,176 6,511,286 12,504,029 329,310,444 5,747,822 6,595,314
+Ending cash and cash equivalents $ 407,917,014 $ 6,850,268 $ 22,241,627 $ 3 15,510,176 $ 6 ,511,286 $ 12,504,029
+(continued on next page) 33
+Notes to Financial Statements
+Note 14 - Pension Plan:
+Plan Information:
+All employees working more than 20 hours per week during the year participate in the South Dakota Retirement
+System (SDRS). SDRS is a hybrid, defined-benefit plan designed with several defined contribution plan-type
+provisions and is administered by SDRS to provide retirement benefits for employees of the State of South
+Dakota and its political subdivisions. The SDRS provides retirement, disability, and survivors’ benefits. The right
+to receive retirement benefits vests after three years of credited service. Authority for establishing,
+administering, and amending plan provisions are found in South Dakota Codified Law 3-12. The SDRS issues a
+publicly available financial report that includes financial statements and required supplementary information.
+That report may be obtained at https://sdrs.sd.gov/publications.aspx or by writing to the SDRS, PO Box 1098,
+Pierre, SD 57501-1098 or by calling (605) 773-3731.
+Benefits Provided:
+SDRS has four classes of members: Class A general members, Class B public safety and judicial members, Class C
+Cement Plant retirement fund members, and Class D Department of Labor and Regulation members.
+Members that were hired before July 1, 2017, are Foundation members. Class A Foundation members and Class
+B Foundation members who retire after age 65 with three years of contributory service are entitled to an
+unreduced annual retirement benefit. An unreduced annual retirement benefit is also available after age 55 for
+Class A Foundation members where the sum of age and credited service is equal to or greater than 85, or after
+age 55 for Class B Foundation judicial members where the sum of age and credited service is equal to or greater
+than 80. Class B Foundation public safety members can retire with an unreduced annual retirement benefit after
+age 55 with three years of contributory service. An unreduced annual retirement benefit is also available after
+age 45 for Class B Foundation public safety members where the sum of age and credited service is equal to or
+greater than 75. All Foundation retirement benefits that do not meet the above criteria may be payable at a
+reduced level. Class A and B eligible spouses of Foundation members will receive a 60 percent joint survivor
+benefit when the member dies.
+Members that were hired on/after July 1, 2017, are Generational members. Class A Generational members and
+Class B Generational judicial members who retire after age 67 with three years of contributory service are
+entitled to an unreduced annual retirement benefit. Class B Generational public safety members can retire with
+an unreduced annual retirement benefit after age 57 with three years of contributory service. At retirement,
+married Generational members may elect a single-life benefit, a 60 percent joint and survivor benefit, or a 100
+percent joint and survivor benefit. All Generational retirement benefits that do not meet the above criteria may
+be payable at a reduced level. Generational members will also have a variable retirement account (VRA)
+established, in which they will receive up to 1.5 percent of compensation funded by part of the employer
+contribution. VRAs will receive investment earnings based on investment returns.
+Legislation enacted in 2017 established the current COLA process. At each valuation date:
+• Baseline actuarial accrued liabilities will be calculated assuming the COLA is equal to the long-term
+inflation assumption of 2.25%.
+• If the fair value of assets is greater than or equal to the baseline actuarial accrued liabilities, the COLA will
+be:
+ο The increase in the 3rd quarter CPI-W, no less than 0.5% and no greater than 3.5%.
+• If the fair value of assets is less than the baseline actuarial accrued liabilities, the COLA will be:
+ο The increase in the 3rd quarter CPI-W, no less than 0.5% and no greater than a restricted maximum
+such that, if the restricted maximum is assumed for future COLAs, the fair value of assets will be
+greater than or equal to the accrued liabilities.
+(continued on next page) 34
+Notes to Financial Statements
+Legislation enacted in 2021 reduced the minimum COLA from 0.5 percent to 0.0 percent.
+All benefits, except those depending on the member’s accumulated contributions, are annually increased by the
+cost-of-living adjustment.
+Contributions:
+Per SDCL § 3-12, contribution requirements of the active employees and the participating employers are
+established and may be amended by the SDRS Board. Covered employees are required by state statute to
+contribute the following percentages of their salary to the plan: Class A members, 6.0% of salary; Class B judicial
+members, 9.0% of salary; and Class B public safety members, 8.0% of salary. State statute also requires the
+employer to contribute an amount equal to the employee’s contribution. The Authority’s share of contributions
+to the SDRS, at 6% of salary for the fiscal years ending June 30, 2025, 2024, and 2023, were $327,871, $297,023,
+and $250,240, respectively, equal to the required contributions each year.
+Pension Liability (Asset), Pension Expense, Deferred Outflows of Resources, and Deferred Inflows of
+Resources to Pensions:
+At June 30, 2024 and 2023, SDRS is 100.00% and 100.10%, respectively, funded and, accordingly, has a net
+pension asset. The proportionate shares of the components of the net pension liability (asset) of SDRS, for the
+Authority as of the measurement period ending June 30, 2024 and 2023, respectively, and reported by the
+Authority as of June 30, 2025 and 2024, are as follows:
+2025 2024
+Proportionate share of total pension liability $ 26,323,720 $ 23,430,580
+Less proportionate share of net position restricted for pension benefits 26,330,863 23,446,362
+Proportionate share of net pension liability (asset) $ (7,143) $ (15,782)
+At June 30, 2025 and 2024, the Authority reported a liability (asset) of ($7,143) and ($15,782), respectively, for
+its proportionate share of the net pension liability (asset). The net pension liability (asset) was measured as of
+June 30, 2024 and 2023, and the total pension liability (asset) used to calculate the net pension liability (asset)
+was based on a projection of the Authority’s share of contributions to the pension plan relative to the
+contributions of all participating entities. At June 30, 2024, the Authority’s proportion was 0.176453%, which
+was an increase of 9% or 0.014759 from its proportion measured as of June 30, 2023, of 0.161694%, which was
+a decrease of 0.6% or 0.001083 from its proportion measured as of June 30, 2022, of 0.162777%.
+For the years ended June 30, 2025 and 2024, the Authority recognized pension expense (reduction of pension
+expense) of $155,130, and $23,546, respectively. At June 30, 2025, the Authority reported deferred outflows of
+resources and deferred inflows of resources related to pensions from the following sources:
+2025
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Difference between expected and actual experience $ 6 61,426 $ -
+Changes in assumption 117,763 897,659
+Net difference between projected and actual earnings on
+pension plan investments 269,050 -
+Changes in proportion and difference between Authority
+contributions and proportionate share of contributions 5,486 22,738
+Authority contributions subsequent to the measurement date 327,871 -
+Total $ 1,381,596 $ 9 20,397
+(continued on next page) 35
+Notes to Financial Statements
+At June 30, 2025, there is $327,871 reported as deferred outflow of resources related to pensions resulting from
+Authority contributions subsequent to the measurement date that will be recognized as a reduction of the net
+pension liability in the year ending June 30, 2026.
+Other amounts reported as deferred outflows of resources and deferred inflows of resources related to
+pensions will be recognized in pension expense (revenue) as follows:
+Year Ended
+June 30:
+2026 $ (254,344)
+2027 338,859
+2028 28,514
+2029 19,585
+Total $ 132,614
+At June 30, 2024, the Authority reported deferred outflows of resources and deferred inflows of resources
+related to pensions from the following sources:
+2024
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Difference between expected and actual experience $ 447,337 $ -
+Changes in assumption 539,526 788,689
+Net difference between projected and actual earnings on
+pension plan investments 105,072 -
+Changes in proportion and difference between Authority
+contributions and proportionate share of contributions 8,389 6,575
+Authority contributions subsequent to the measurement date 297,023 -
+Total $ 1,397,347 $ 795,264
+At June 30, 2024, there was $297,023 reported as deferred outflow of resources related to pensions resulting
+from Authority contributions subsequent to the measurement date that was recognized as a reduction of the
+net pension liability in the year ending June 30, 2025.
+Actuarial Assumptions:
+The total pension liability (asset) in the SDRS June 30, 2024, actuarial valuation was determined using the
+following actuarial assumptions, applied to all periods included in the measurement:
+Inflation 2.50%
+Salary increases Graded by years of service, from 7.66% at entry to 3.15%
+after 25 years of service
+Discount rate 6.50% net of plan investment expense. This is composed
+an average inflation rate of 2.5% and real returns of 4.00%.
+Future COLAS 1.71%
+(continued on next page) 36
+Notes to Financial Statements
+All mortality rates were based on Pub-2010 amount-weighted mortality tables, projected generationally with
+improvement scale MP-2020.
+Active and Terminated Vested Members:
+Teachers, Certified Regents, and Judicial: PubT-2010
+Other Class A Members: PubG-2010
+Public Safety Members: PubS-2010
+Retired Members:
+Teachers, Certified Regents, and Judicial Retirees: PubT-2010, 108% of rates above age 65
+Other Class A Retirees: PubG-2010, 93% of rates through age 74, increasing by 2% per year until 111% of
+rates at age 83 and above
+Public Safety Retirees: PubS-2010, 102% of rates at all ages
+Beneficiaries:
+PubG-2010 contingent survivor mortality table
+Disabled Members:
+Public Safety: PubS-2010 disabled member mortality table
+Others: PubG-2010 disabled member mortality table
+The actuarial assumptions used in the June 30, 2024, valuation were based on the results of an actuarial
+experience study for the period of July 1, 2016, to June 30, 2021.
+Investment portfolio management is the statutory responsibility of the South Dakota Investment Council (SDIC),
+which may utilize the services of external money managers for management of a portion of the portfolio. SDIC is
+governed by the Prudent Man Rule (i.e., the council should use the same degree of care as a prudent man).
+Current SDIC investment policies dictate limits on the percentage of assets invested in various types of vehicles
+(equities, fixed income securities, real estate, cash, private equity, etc.). The long-term expected rate of return
+on pension plan investments was determined using a method in which best-estimate ranges of expected future
+real rates of return (expected returns, net of pension plan investment expense, and inflation) are developed for
+each major asset class. These ranges are combined to produce the long-term expected rate of return by
+weighting the expected future real rates of return by the target asset allocation percentage and by adding
+expected inflation. Best estimates of real rates of return for each major asset class included in the pension plan’s
+target asset allocation as of June 30, 2024, (see the discussion of the pension plan’s investment policy) are
+summarized in the following table using geometric means:
+Long-Term
+Target Expected Real
+Asset Class Allocation Rate of Return
+Global Equity 56.3 % 3.6 %
+Investment Grade Debt 22.8 2.3
+High Yield Debt 7.0 2.8
+Real Estate 12.0 4.0
+Cash 1.9 0.8
+Total 100.0 %
+(continued on next page) 37
+Notes to Financial Statements
+Discount Rate:
+The discount rate used to measure the total pension liability (asset) was 6.50%. The projection of cash flows
+used to determine the discount rate assumed that plan member contributions will be made at the current
+contribution rate and that matching employer contributions will be made at rates equal to the member rate.
+Based on these assumptions, the pension plan’s fiduciary net position was projected to be available to make all
+future benefit payments of current plan members. Therefore, the long-term expected rate of return on pension
+plan investments was applied to all periods of projected benefit payments to determine the total pension
+liability (asset).
+Sensitivity of Asset to Changes in the Discount Rate:
+The following presents the Authority’s proportionate share of net pension liability (asset) as of June 30, 2025,
+calculated using the discount rate of 6.50%, as well as what the Authority’s proportionate share of the net
+pension liability (asset) would be if it were calculated using a discount rate that is 1 percentage point lower
+(5.50%) or one percentage point higher (7.50%) than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+Authority's proportionate share of
+the net pension liability (asset) $ 3,629,571 $ (7,143) $ (2,983,107)
+Pension Plan Fiduciary Net Position:
+Detailed information about the plan’s fiduciary net position is available in the separately issued SDRS financial
+report.
+Note 15 - Contingencies:
+The Authority is involved in various legal actions arising in the normal course of business. In the opinion of
+management, such matters will not have a material adverse effect upon the financial position of the Authority.
+Note 16 - Risk Management:
+The Authority is exposed to various risks of loss related to torts; theft of, damage to, and destruction of assets;
+errors and omissions; injuries to employees; and natural disasters. During the years ended June 30, 2025 and
+2024, the Authority managed its risks as follows:
+The Authority purchased insurance over property, workers’ compensation, cyber, and health insurance for its
+employees from a commercial carrier. The Authority purchased its liability, errors and omissions, and employee
+practices liability coverage through its participation in the South Dakota Authority Captive Insurance Company, a
+component unit of the State of South Dakota. The Authority provides coverage for unemployment benefits by
+paying into the Unemployment Compensation Fund established by state law and managed by the State of South
+Dakota.
+(continued on next page) 38
+Notes to Financial Statements
+Note 17 - Capital Assets:
+Beginning Balance Ending Balance
+July 1, 2024 Increase Decrease June 30, 2025
+Capital assets not depreciated:
+Land $ 2 20,409 $ - $ - $ 2 20,409
+Total capital assets not depreciated 220,409 - - 220,409
+Capital assets depreciated:
+Buildings 4,999,915 - - 4,999,915
+Land improvements 1,261,943 - - 1,261,943
+Furniture and equipment 4,878,019 598,280 472,691 5,003,608
+Total capital assets depreciated 11,139,877 598,280 472,691 11,265,466
+Total capital assets 11,360,286 598,280 472,691 11,485,875
+Less accumulated depreciation for:
+Buildings 1,982,575 127,748 - 2,110,323
+Land improvements 965,453 29,622 995,075
+Furniture and equipment 4,021,118 271,390 467,798 3,824,710
+Total accumulated depreciation 6,969,146 428,760 467,798 6,930,108
+Capital assets, net $ 4,391,140 $ 1 69,520 $ 4,893 $ 4,555,767
+Beginning Balance Ending Balance
+July 1, 2023 Increase Decrease June 30, 2024
+Capital assets not depreciated:
+Land $ 220,409 $ - $ - $ 220,409
+Total capital assets not depreciated 220,409 - - 220,409
+Capital assets depreciated:
+Buildings 4 ,999,915 - - 4 ,999,915
+Land improvements 1 ,261,943 - - 1 ,261,943
+Furniture and equipment 4 ,617,260 306,858 46,099 4 ,878,019
+Total capital assets depreciated 10,879,118 306,858 46,099 11,139,877
+Total capital assets 11,099,527 306,858 46,099 11,360,286
+Less accumulated depreciation for:
+Buildings 1 ,854,827 127,748 - 1 ,982,575
+Land improvements 935,832 29,621 965,453
+Furniture and equipment 3 ,801,575 265,642 46,099 4 ,021,118
+Total accumulated depreciation 6 ,592,234 423,011 46,099 6 ,969,146
+Capital assets, net $ 4,507,293 $ (116,153) $ - $ 4,391,140
+(continued on next page) 39
+Notes to Financial Statements
+Note 18 - Accounts Payable and Other Accruals:
+Payables at June 30, 2025 and 2024, were as follows:
+2025 2024
+Accounts Payable
+Contractual/Forex $ 41,975 $ 81,179
+Travel/moving costs 17,228 35,493
+Office/marketing 165,620 69,909
+Maintenance 34,083 26,726
+Cost of issuance 485,617 7,880
+General 864,747 1 ,082,470
+Prepaid sales - 500,885
+Excise/unemployment tax 39,113 9,121
+Materials/tools 756,662 825,747
+2,405,045 2 ,639,410
+Other Liabilities
+Amount held for SD Homebuilders Association 950,000 950,000
+Accrued leave 708,266 721,911
+Accrued payroll/taxes 34,193 30,229
+Employee withholdings 12 71
+Servicing fee 24,923 29,513
+Arbitrage payable 2,799,766 2 ,286,824
+Total Accounts Payable and Other Liabilities 6,922,205 6 ,657,958
+Current Liabilities 3,020,317 3 ,098,230
+Noncurrent Liabilities $ 3,901,888 $ 3,559,728
+Note 19 - Subsequent Events
+In October 2025, the Authority issued Homeownership Mortgage Bonds Series 2025EFG in the aggregate
+principal amount of $150 million, the proceeds of which are anticipated to be used to finance the
+Homeownership Mortgage Loan Program. In addition, the Authority entered into an interest rate swap
+agreement related to the 2025 Series G Bonds.
+# # # # #
+40
+South Dakota Housing Development
+Authority
+Required Supplementary Information
+June 30, 2025
+eidebailly.com
+Schedule of Authority’s Contributions As of June 30, 2025
+South Dakota Retirement System
+Last 10 Fiscal Years
+Contributions in
+Relation to the Contributions as a
+Contractually Required Contractually Required Contribution Percentage of Covered
+Fiscal Year Contribution Contribution Deficiency (Excess) Covered Payroll Payroll
+2025 $ 327,871.00 $ 327,871.00 $ 0 .00 $ 5,464,514.90 6.00%
+2024 $ 297,022.82 $ 297,022.82 $ 0 .00 $ 4,950,378.28 6.00%
+2023 $ 250,239.50 $ 250,239.50 $ 0 .00 $ 4,170,659.16 6.00%
+2022 $ 233,211.51 $ 233,211.51 $ 0 .00 $ 3,886,853.95 6.00%
+2021 $ 228,155.74 $ 228,155.74 $ 0 .00 $ 3,802,590.88 6.00%
+2020 $ 218,816.67 $ 218,816.67 $ 0 .00 $ 3,646,948.06 6.00%
+2019 $ 198,402.90 $ 198,402.90 $ 0 .00 $ 3,306,716.31 6.00%
+2018 $ 192,444.64 $ 192,444.64 $ 0 .00 $ 3,207,414.93 6.00%
+2017 $ 200,307.96 $ 200,307.96 $ 0 .00 $ 3,338,466.72 6.00%
+2016 $ 198,432.96 $ 198,432.96 $ 0 .00 $ 3,307,216.68 6.00%
+41
+Schedule of Authority’s Proportionate Share of the Net Pension Liability (Asset) As of June 30, 2025
+South Dakota Retirement System
+Last 10 Years*
+District's Proportionate Plan Fiduciary Net
+District's Proportionate Share of the Net Position as a
+District's Proportion of Share of the Net Pension Liability Percentage of the Total
+the Net Pension Pension District's Covered (Asset) as a Percentage Pension Liability
+Fiscal Year Liability/Asset Liability/(Asset) Payroll of its Covered Payroll (Asset)
+2025 0.176453% $ (7,142.78) $ 4,950,378.28 0.14% 100.00%
+2024 0.161694% $ (15,782.06) $ 4,170,659.16 0.38% 100.10%
+2023 0.162777% $ (15,383.44) $ 3,886,853.95 0.40% 100.10%
+2022 0.167565% $ ( 1,283,261.12) $ 3,802,590.88 33.75% 105.52%
+2021 0.166171% $ (7,216.76) $ 3,646,948.06 0.20% 100.04%
+2020 0.155522% $ (16,481.06) $ 3,306,716.31 0.50% 100.09%
+2019 0.154284% $ (3,598.26) $ 3,207,414.93 0.11% 100.02%
+2018 0.164311% $ (14,911.42) $ 3,338,466.72 0.45% 100.10%
+2017 0.173927% $ 587,507.30 $ 3,307,216.68 17.76% 96.89%
+2016 0.162348% $ (688,564.68) $ 2,964,016.68 23.23% 104.10%
+* The amounts presented for each year were determined as of the measurement date of the collective net pension liability (asset) which is 6/30 of previous
+fiscal year.
+42
+Notes to Required Supplementary Information As of June 30, 2023
+Changes from Prior Valuation
+The June 30, 2024, actuarial valuation reflects no changes to the plan provisions or actuarial methods and one
+change to the actuarial assumptions from the June 30, 2023, actuarial valuation.
+The details of the changes since the last valuation are as follows:
+Benefit Provision Changes
+During the 2024 legislative session, no significant SDRS benefit changes were made.
+Actuarial Assumption Changes
+The SDRS COLA equals the percentage increase in the most recent third calendar quarter CPI-W over the prior
+year, no less than 0% and no greater than 3.5%. However, if the FVFR assuming the long-term COLA is equal to
+the baseline COLA assumption (currently 2.25%) is less than 100%, the maximum COLA payable will be limited to
+the increase that, if assumed on a long-term basis, results in a FVFR equal to or exceeding 100%.
+As of June 30, 2023, the FVFR assuming the long-term COLA is equal to the baseline COLA assumption (2.25%)
+was less than 100% and the July 2024 SDRS COLA was limited to a restricted maximum of 1.91%. For the June 30,
+2023, actuarial valuation, future COLAs were assumed to equal the restricted maximum COLA assumption of
+1.91%.
+As of June 30, 2024, the FVFR assuming future COLAs equal to the baseline COLA assumption of 2.25% is again
+less than 100% and the July 2025 SDRS COLA is limited to a restricted maximum of 1.71%. The July 2025 SDRS
+COLA will equal inflation, between 0% and 1.71%. For this June 30, 2024, actuarial valuation, future COLAs were
+assumed to equal the restricted maximum COLA of 1.71%.
+Actuarial assumptions are reviewed for reasonability annually and reviewed in depth periodically, with the next
+experience analysis anticipated before the June 30, 2027, actuarial valuation and any recommended changes
+approved by the Board of Trustees are anticipated to be first implemented in the June 30, 2027, actuarial
+valuation.
+Actuarial Method Changes
+No changes in actuarial methods were made since the prior valuation.
+43
+South Dakota Housing Development
+Authority
+Supplementary Information
+June 30, 2025
+eidebailly.com
+Supplemental Schedule of Net Position As of June 30, 2025
+General Homeownership Single Family Multiple
+Operating Mortgage Mortgage Purpose Combined
+Assets Account Bonds Bonds Bonds Total
+Current Assets
+Cash and cash equivalents $ 213,302,295 $ 407,917,014 $ 6,850,268 $ 2 2,241,627 $ 650,311,204
+Investment securities - other - 3,443,538 - 3,594,041 7,037,579
+Investments - program mortgage-backed securities - 3 01,202,580 - - 301,202,580
+Mortgage loans receivable, net 11,999,819 21,351,333 2,022,580 595,205 35,968,937
+Interest receivable - 9,731,577 8 3,664 379,088 10,194,329
+Other receivables 2,429,904 - - - 2,429,904
+Other assets 5,004,495 - - - 5,004,495
+Total Current Assets 2 32,736,513 7 43,646,042 8,956,512 26,809,961 1,012,149,028
+Noncurrent Assets
+Investment securities - other - 1 59,424,794 3,583,771 26,550,380 189,558,945
+Investments - program mortgage-backed securities - 1,505,651,529 - - 1,505,651,529
+Mortgage loans receivable, net 1 00,767,088 1 05,707,204 10,024,266 31,733,528 248,232,086
+Line of credit receivable - 68,537,154 - - 68,537,154
+Other receivables 7,143 2,187,930 - - 2,195,073
+Hedging derivatives - 19,845,521 - 2,672,485 22,518,006
+Capital assets, net 1,483,838 - - 3,071,929 4,555,767
+Due from (to) other funds (8,398,220) 21,364,254 (11,915,039) (1,050,995) -
+Total Noncurrent Assets 93,859,849 1,882,718,386 1,692,998 62,977,327 2,041,248,560
+Total Assets 3 26,596,362 2,626,364,428 10,649,510 89,787,288 3,053,397,588
+Deferred Outflows of Resources
+Loss on refundings - 1,777,521 - - 1,777,521
+Swaps - 611,238 - - 6 11,238
+Related to pensions 1,381,596 - - - 1,381,596
+Total Assets and Deferred Outflows of Resources $ 327,977,958 $ 2,628,753,187 $ 1 0,649,510 $ 8 9,787,288 $ 3,057,167,943
+(continued on next page) 44
+Supplemental Schedule of Net Position As of June 30, 2025
+General Homeownership Single Family Multiple
+Operating Mortgage Mortgage Purpose Combined
+Account Bonds Bonds Bonds Total
+Liabilities
+Current Liabilities
+Bonds payable $ - $ 6 4,468,480 $ 1,260,000 $ 450,000 $ 66,178,480
+Accrued interest payable - 13,150,044 5 1,697 2 9,510 13,231,251
+Unearned revenue 4,095,130 - - - 4,095,130
+Accounts payable and other liabilities 2,726,099 290,766 3,452 - 3,020,317
+Multifamily escrows and reserves 823,723 - - - 8 23,723
+Total Current Liabilities 7,644,952 77,909,290 1,315,149 479,510 87,348,901
+Noncurrent Liabilities
+Bonds payable - 2,189,469,216 8,339,607 18,880,000 2,216,688,823
+Accounts payable and other liabilities 1,371,418 2,508,230 - 2 2,240 3,901,888
+Unearned revenue 52,187,586 - - - 52,187,586
+Hedging derivatives - 611,238 - - 6 11,238
+Total Noncurrent Liabilities 53,559,004 2,192,588,684 8,339,607 18,902,240 2,273,389,535
+Total Liabilities 61,203,956 2,270,497,974 9,654,756 19,381,750 2,360,738,436
+Deferred Inflows of Resources
+Gain on refundings - 7,936,156 - - 7,936,156
+Swaps - 19,845,521 - 2,672,485 22,518,006
+Related to pensions 920,397 - - - 9 20,397
+Total Liabilities and Deferred Inflows of Resources 62,124,353 2,298,279,651 9,654,756 22,054,235 2,392,112,995
+Net Position
+Net investment in capital assets 1,483,838 - - (2,483,071) (999,233)
+Restricted for pension benefits 468,342 - - - 4 68,342
+Restricted by statute 1 64,585,636 - - - 164,585,636
+Restricted by bond indentures - 3 30,473,536 994,754 70,216,124 401,684,414
+Restricted by HOME, HTF, NSP and HAF Program 99,315,789 - - - 99,315,789
+Total Net Position 2 65,853,605 3 30,473,536 994,754 67,733,053 665,054,948
+Total Liabilities, Deferred Inflows of Resources, and
+Net Position $ 327,977,958 $ 2,628,753,187 $ 1 0,649,510 $ 8 9,787,288 $ 3,057,167,943
+45
+Supplemental Schedule of Operations and Changes in Net Position For the Year Ended June 30, 2025
+General Homeownership Single Family Multiple
+Operating Mortgage Mortgage Purpose Combined
+Operating Revenues Account Bonds Bonds Bonds Total
+Interest income on mortgage loans $ 38,364 $ 4 ,253,867 $ 592,390 $ 817,215 $ 5,701,836
+Earnings - investments and program mortgage-backed securities 7,061,851 9 4,351,810 455,845 1 ,852,226 103,721,732
+Net increase (decrease) in fair value of investments and
+program mortgage-backed securities 1,497,766 3 5,766,861 134,921 1 ,502,537 38,902,085
+HUD contributions 4 1,763,618 - - - 41,763,618
+U.S. Treasury contributions/COVID 3 3,415,608 - - - 33,415,608
+Fee, grant and other income 1 2,128,043 - - 9,147 12,137,190
+Total Operating Revenues 9 5,905,250 $ 134,372,538 1,183,156 4,181,125 235,642,069
+Operating Expenses
+Interest - 6 8,430,613 330,584 427,646 69,188,843
+Housing assistance payments HUD 2 9,855,780 - - - 29,855,780
+Housing assistance payments/COVID 3 3,415,608 - - - 33,415,608
+Servicer fees - 305,131 56,387 - 3 61,518
+Arbitrage rebate expense (benefit) - 496,989 - 15,953 5 12,942
+General and administrative 7,828,218 404,040 4,407 155,901 8,392,566
+Bond financing costs - 6,906,103 100,000 68,000 7,074,103
+Other housing programs 3 5,807,186 1 1,403,985 - 16,883 47,228,054
+Provision for loan loss 6,218,268 272,042 106,484 - 6,596,794
+Total Operating Expenses 113,125,060 8 8,218,903 597,862 684,383 202,626,208
+Changes in Net Position Before Interfund Transfers (17,219,810) 4 6,153,635 585,294 3 ,496,742 33,015,861
+Interfund Transfers 8,079,684 (6,579,684) - (1,500,000) -
+Changes in Net Position (9,140,126) 3 9,573,951 585,294 1 ,996,742 33,015,861
+Net Position, Beginning of Fiscal Year 274,993,731 290,899,585 409,460 65,736,311 632,039,087
+Net Position, End of Fiscal Year $ 265,853,605 $ 330,473,536 $ 994,754 $ 67,733,053 $ 665,054,948
+46
+Tables I, II and III As of June 30, 2025
+TABLE I
+Amounts Available to Purchase Qualified Homeownership Mortgage Loans
+Date of Total Amount
+Issuance or Mortgage Available Amount Amount
+Remarketing Loan to Purchase Committed for Available for
+Series of Bonds to Maturity Interest Rate Mortgage Loans Mortgage Loans Commitment
+2024 Series C 9/18/2024 various 5 9,322,662 $ - $ 59,322,662
+2025 Series A 2/20/2025 various 4 8,366,901 - 48,366,901
+2025 Series C 6/17/2025 various 108,176,295 - 108,176,295
+2025 Series D 6/17/2025 various 3 3,991,140 - 33,991,140
+$ 249,856,998
+TABLE II
+Type of Home Financed with Outstanding Homeownership Mortgage Loans
+Number of
+Type of Home Homes
+Single Family Detached 94.99%
+Single Family Townhouse/Condominium 2.97%
+Two-Four Unit 0.51%
+Modular-Manufactured 1.53%
+100.00%
+TABLE III
+Outstanding Step Homeownership Mortgage Loans
+Principal
+Years Outstanding Number Amount
+1 - $ -
+2 - -
+3 - -
+4 - -
+5 or more 144 4,170,982
+Total 144 $ 4,170,982
+47
+Table IV As of June 30, 2025
+TABLE IV
+Outstanding Homeownership Mortgage Loans
+Outstanding Outstanding
+Interest Outstanding Principal Interest Outstanding Principal
+Rate Number Amount Rate Number Amount
+3.750% 17 1,017,605 6.125% 5 403,290
+3.850% 2 178,130 6.150% 1 51,953
+4.125% 32 1,650,408 6.250% 10 375,244
+4.250% 7 391,973 6.375% 1 67,515
+4.375% 47 2,917,431 6.400% 13 177,187
+4.500% 23 1,217,721 6.450% 2 50,480
+4.625% 9 643,456 6.500% 90 1,497,334
+4.750% 329 12,759,904 6.625% 2 99,245
+4.850% 32 1,871,769 6.650% 11 144,582
+4.870% 31 1,966,348 6.750% 7 66,421
+4.950% 322 11,414,235 6.850% 9 119,354
+5.000% 13 674,323 6.890% 4 23,923
+5.125% 58 2,498,891 6.900% 7 103,765
+5.150% 53 2,087,021 6.950% 18 376,805
+5.250% 122 5,615,109 7.110% 20 227,736
+5.375% 63 2,875,437 7.250% 10 56,843
+5.425% 13 661,286 7.300% 2 42,593
+5.450% 10 394,820 7.360% 2 10,122
+5.500% 204 8,767,408 7.400% 5 93,567
+5.625% 17 922,140 7.450% 3 46,086
+5.750% 23 1,086,105 7.550% 3 57,166
+5.850% 45 2,366,034 7.600% 3 7,707
+5.950% 205 5,300,253 7.650% 1 22,839
+6.000% 30 1,128,964 7.950% 2 8,167
+1,938 $ 74,536,695
+48
+Tables V and VI As of June 30, 2025
+TABLE V
+Type of Mortgage Insurance for Outstanding Homeownership Mortgage Loans
+Percent of
+Principal
+Insurer or Guarantor Amount
+FHA 32.36%
+VA 3.91%
+USDA Rural Development 43.56%
+Private Mortgage Insurance
+Mortgage Guaranty Insurance Company 0.15%
+Genworth 0.00%
+PMI 0.01%
+United Guaranty Insurance 0.00%
+CMG Mortgage Insurance Company 0.00%
+Total PMI Insured Mortgage Loans 0.16%
+Total Insured Mortgage Loans 79.99%
+Uninsured 20.01%
+Total All Mortgage Loans 100.00%
+TABLE VI
+Servicers of Outstanding Homeownership Mortgage Loans
+Principal
+Servicer Amount
+First Interstate $ 51,080,449
+CorTrust Mortgage 15,300,858
+First Bank & Trust 4 ,396,092
+Bankwest 2 ,971,819
+CU Mortgage 787,477
+$ 74,536,695
+49
+Tables VII, VIII and IX As of June 30, 2025
+TABLE VII
+Homeownership Mortgage Loan Delinquencies and Foreclosures
+Homeownership Program NIBP Program
+As of As of As of As of
+6/30/2025 6/30/2024 6/30/2025 6/30/2024
+31-60 Days (one payment) Delinquent 3.87% 7.27% 5.10% 8.67%
+61-90 Days (two payments) Delinquent 1.81% 0.51% 1.96% 0.36%
+91 Days or More (three or more payments)
+Delinquent 1.49% 0.88% 0.78% 0.00%
+Total Delinquent 7.17% 8.66% 7.84% 9.03%
+In Foreclosure 0.52% 1.08% 0.78% 0.00%
+Table VIII
+Valuation of Assets
+Value of Principal Assets of Homeownership Program $ 2,574,853,595
+Amount of Outstanding Homeownership Bonds $ 2,198,156,646
+Parity Calculation 109.62%
+Parity Requirement 102.00%
+Value of Principal Assets of Single Family Program $ 23,295,565
+Amount of Outstanding Single Family Bonds $ 9 ,540,000
+Parity Calculation 244.19%
+Parity Requirement 100.00%
+Value of Principal Assets of Multi-Purpose Program $ 24,866,504
+Amount of Outstanding Multi-Purpose Bonds $ 19,330,000
+Parity Calculation 128.64%
+Parity Requirement 100.00%
+Table IX
+Special Program Fund of the Authority
+Homeownership Program $ 165,183,507
+Single Family Program $ 601,176
+Multi-Purpose Program $ 43,743,898
+50
+Table X As of June 30, 2025
+Table X
+Description of Multifamily Developments
+Loans and Developments securing the Outstanding Multiple Purpose Bonds as of June 30, 2025:
+Twelve Month Preservation Loans
+Number of Occupancy Initial Loan Current Loan Interest
+Development Location Units Average (2) Amount Amount (3) Rate Amount (3) Interest Rate
+Old Main Canton 26 NA% $ 428,062 $ - - % $ - %
+Sagewood Yankton 10 NA 227,825 - - -
+South Sycamore Estates Sioux Falls 16 56.3 695,690 92,929 0.00 -
+Edmonton Heights Gregory 16 67.2 524,000 - - 118,563 3.00
+Pheasant Valley Courtyard Milbank 60 94.7 1,556,000 145,932 5.00 -
+Homestead Heights Bison 16 NA 355,400 - - -
+JARD Apartments Sisseton 16 NA 343,960 - - -
+Canterbury House Sioux Falls 50 NA 1,278,200 - - -
+Lynlo Heights Armour 20 65.0 462,900 - - 139,359 3.00
+The Lidi Tyndall 24 NA 493,500 - - -
+Huey Apartments Sioux Falls 46 (1) NA 1,390,000 - - -
+Bi-Centennial Apts Aberdeen 48 NA 1,026,244 - - -
+Grandview Apartments Mitchell 34 NA 734,500 - - -
+Heritage Estates II Brookings 44 NA 912,000 - - -
+Prairie View Madison 25 (1) NA 576,000 - - -
+Maplewood Townhouses Rapid City 50 NA 2,859,100 - - -
+Canyon Ridge Yankton 60 NA 1,575,600 - - -
+Lombardi Courts Mitchell 30 NA 977,500 - - -
+Fifth Avenue South Aberdeen 50 NA 1,400,000 - - -
+Woodland Hills Sioux Falls 32 NA 1,100,000 - - -
+The Evans Hot Springs 86 (1) 84.4 3,094,600 - - 105,712 2.50
+Dakota Square Aberdeen 55 NA 1,730,300 - - -
+Majestic View Townhouses Hot Springs 20 76.3 596,630 - - -
+Senechal Apts Philip 16 NA 520,000 - - -
+Riverview Townhouses Philip 10 NA 320,000 - - -
+Gateway I Apts Kadoka 16 NA 479,000 - - -
+The Sherman Aberdeen 51 NA 1,950,000 - - -
+Parkview Apts Madison 28 NA 890,000 - - -
+Oakwood Apts Vermillion 28 NA 890,000 - - -
+Arthur Courts Redfield 16 NA 510,000 - - -
+Terrawood Townhouses Sioux Falls 4 NA 100,900 - - -
+Beadle Plaza Sioux Falls 44 NA 1,353,096 - - -
+St. Cloud Apts Rapid City 16 (1) NA 562,000 - - -
+Gateway II Apts Kadoka 14 NA 463,800 - - -
+Grand Valley Apts Newell 12 NA 368,600 - - -
+Sir Charles Yankton 34 NA 1,184,200 - - -
+Timberland Lead 24 80.2 85,300 - - 892,912 3.75-5.00
+Collins Apts Sioux Falls 23 NA 670,000 - - -
+Baha Townhouses Sioux Falls 21 NA 778,900 - - -
+Hospitality Apts Sioux Falls 22 NA 461,599 - - -
+Whiting Court Yankton 17 NA 601,284 - - -
+Prairie West Lemmon 24 NA 630,900 - - -
+Sun Rise Apts Aberdeen 27 NA 474,500 - - -
+Cedar Apts Brookings 32 NA 1,068,800 - - -
+The Lidi II Tyndall 10 (1) NA 255,000 - - -
+Gold Mountain Apt. Lead 20 99.2 272,490 183,427 9.65 115,567 0.00
+Calypso Court Chamberlain 16 NA 550,000 - - -
+Riverview Park Sioux Falls 50 NA 1,873,700 - - -
+Olive Grove Apts Sioux Falls 19 NA 601,271 - - -
+Sunnycrest Sioux Falls 60 97.3 7,320,000 5,236,197 3.55 - 4.65 -
+Sunnycrest Sioux Falls 60 97.3 8,500,000 8,051,921 3.50 -
+$ 58,073,351 $ 13,710,406 $ 1,372,113
+(1) One unit, or in the case of Huey Apartments and The Lidi II, two units, are not the subject of housing assistance payments under the Section 8 Program.
+(2) Occupancy rate for the twelve month period ending June 30, 2025.
+(3) Amounts are balances as of June 30, 2025.
+51
+Table XI As of June 30, 2025
+Table XI
+Outstanding Guaranteed Mortgage Securities as of June 30, 2025:
+Pass Through Pass Through
+Rate Principal Amount Rate Principal Amount
+1.6750 $ 159,522 5.0500 13,200,783
+1.8000 865,922 5.1250 39,926,664
+1.9250 7 ,966,758 5.1450 1 ,406,336
+2.0000 41,403,973 5.1550 8 ,762,479
+2.0250 493,723 5.1650 1 ,581,924
+2.0300 95,102 5.1750 6 ,243,957
+2.0500 456,868 5.2500 47,323,741
+2.1750 13,214,184 5.2700 3 ,798,076
+2.2500 1 ,617,761 5.2800 12,533,398
+2.2750 1 ,014,557 5.2900 459,546
+2.2800 286,772 5.3000 8 ,000,749
+2.3000 20,275,282 5.3750 20,823,980
+2.4250 24,051,318 5.3950 11,940,060
+2.5000 210,006,062 5.4050 40,196,739
+2.5250 1 ,104,757 5.4150 2 ,815,426
+2.5300 53,190 5.4250 8 ,642,646
+2.5500 12,274,318 5.5000 204,210,930
+2.6250 281,315 5.5300 14,149,833
+2.6500 331,634 5.5500 7 ,772,299
+2.6750 12,360,270 5.6250 16,091,435
+2.7500 747,334 5.6750 10,474,928
+2.7750 723,017 5.7500 8 ,245,360
+2.8000 10,759,142 5.7700 288273
+2.8750 42,730 5.7800 14,951,246
+2.9000 182,375 5.8000 7 ,889,493
+2.9250 16,248,643 5.8750 13,138,848
+3.0000 112,848,145 5.8950 773,246
+3.0250 2 ,528,610 5.9050 19,695,414
+3.0500 8 ,884,657 5.9150 740,762
+3.1250 40,443 5.9250 6 ,832,880
+3.1500 598,710 6.0000 165,679,677
+3.1750 5 ,094,336 6.0200 833,904
+3.2500 249,673 6.0300 12,677,679
+3.2750 1 ,723,567 6.0500 2 ,416,006
+3.3000 8 ,057,854 6.1250 4 ,154,799
+3.3750 110,562 6.1450 1 ,716,815
+3.4000 22,953 6.1550 19,753,463
+3.4250 5 ,054,473 6.1750 2 ,108,610
+3.5000 51,765,449 6.2500 311,021.00
+3.5250 1 ,193,827 6.2700 2,570,024.00
+3.5500 11,681,234 6.2800 16,193,882
+3.6500 579,918 6.2900 303,275
+3.6750 4 ,247,761 6.3000 2 ,097,560
+3.7750 905,200 6.3750 241,319
+3.8000 2 ,285,117 6.4050 4 ,506,332
+3.9000 40,450 6.4250 1 ,326,122
+3.9250 3 ,221,919 6.5000 93,996,566
+4.0000 33,568,665 6.5300 4 ,854,612
+4.0500 1 ,106,641 6.5500 2 ,885,112
+4.1750 8 ,989,047 6.6250 991,614
+4.2750 87,941 6.6450 235,642
+4.3000 3 ,479,864 6.6550 6 ,081,131
+4.4250 10,938,216 6.6750 1 ,596,594
+4.4500 49,558 6.7500 688,885
+4.5000 30,714,807 6.7700 853,173
+4.5500 3 ,206,937 6.7800 2 ,095,618
+4.5750 40,930 6.8000 966,666
+4.6250 23,297 6.8750 1 ,024,979
+4.6750 6 ,376,722 6.9050 3 ,069,019
+4.7500 2 ,089,327 7.0000 22,785,681
+4.7800 606,192 7.0300 2 ,568,360
+4.7900 1 ,775,444 7.0500 355,705
+4.8000 3 ,831,902 7.1550 356,963
+4.8750 3 ,749,222 7.1750 634,928
+4.9250 3 ,233,828 7.2800 913,722
+5.0000 216,593,429 7.4050 153,263
+5.0200 488,730 7.5000 1 ,716,734
+5.0300 7 ,323,584
+5.0400 2 ,562,578 Total $ 1 ,877,615,154
+52

@@ -1,0 +1,2011 @@
+New Hampshire
+Housing Finance
+Authority
+
+Financial Statements and Management's
+Discussion and Analysis as of and for the
+Year Ended June 30, 2024 and
+Independent Auditors' Report
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY                                       Page
+
+TABLE OF CONTENTS                                                             1 - 3
+
+Independent Auditors' Report                                                  4 - 9
+
+Management's Discussion and Analysis                                            10
+Basic Financial Statements as of and for the Year Ended June 30, 2024:          11
+                                                                             12 - 13
+   Statement of Net Position                                                 14 - 29
+   Statement of Revenue, Expenses and Changes in Net Position
+   Statement of Cash Flows                                                   30 - 43
+   Notes to Financial Statements
+Supplemental Combining Schedules as of and for the Year Ended June 30, 2024
+                                       INDEPENDENT AUDITORS' REPORT
+
+To the Members of
+New Hampshire Housing Finance Authority
+
+Opinion
+
+We have audited the accompanying financial statements of New Hampshire Housing Finance Authority (NH
+Housing), which comprise the statement of net position as of June 30, 2024, the related statements of revenues,
+expenses and changes in net position, and cash flows for the year then ended, and the related notes to the
+financial statements (collectively, the financial statements).
+
+In our opinion, the accompanying financial statements present fairly, in all material respects, the financial
+position of NH Housing as of June 30, 2024, and the changes in net position and cash flows for the year then
+ended in accordance with accounting principles generally accepted in the United States of America.
+
+Basis for Opinion
+
+We conducted our audit in accordance with auditing standards generally accepted in the United States of
+America (GAAS). Our responsibilities under those standards are further described in the Auditors'
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of NH Housing and to meet our other ethical responsibilities, in accordance with the relevant
+ethical requirements relating to our audit. We believe that the audit evidence we have obtained is sufficient
+and appropriate to provide a basis for our audit opinion.
+
+Responsibilities of Management for the Financial Statements
+
+Management is responsible for the preparation and fair presentation of the financial statements in accordance
+with accounting principles generally accepted in the United States of America, and for the design,
+implementation, and maintenance of internal control relevant to the preparation and fair presentation of
+financial statements that are free from material misstatement, whether due to fraud or error.
+
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about NH Housing's ability to continue as a
+going concern within one year after the date that the financial statements are issued or available to be issued.
+
+                                                                 1
+To the Members of
+New Hampshire Housing Finance Authority
+
+Auditors' Responsibilities for the Audit of the Financial Statements
+
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditors' report that includes our
+opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a
+guarantee that an audit conducted in accordance with GAAS will always detect a material misstatement when
+it exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override
+of internal control. Misstatements are considered material if there is a substantial likelihood that, individually
+or in the aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+
+In performing an audit in accordance with GAAS we:
+
+       Exercise professional judgment and maintain professional skepticism throughout the audit.
+       Identify and assess the risks of material misstatement of the financial statements, whether due to
+
+            fraud or error, and design and perform audit procedures responsive to those risks. Such procedures
+            include examining, on a test basis, evidence regarding the amounts and disclosures in the financial
+            statements.
+       Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+            that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+            effectiveness of NH Housing's internal control. Accordingly, no such opinion is expressed.
+       Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+            accounting estimates made by management, as well as evaluate the overall presentation of the
+            financial statements.
+       Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that
+            raise substantial doubt about NH Housing's ability to continue as a going concern for a reasonable
+            period of time.
+
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+
+Required Supplementary Information
+
+Accounting principles generally accepted in the United States of America require that the Management's
+Discussion and Analysis as listed in the table of contents be presented to supplement the basic financial
+statements. Such information is the responsibility of management and, although not a part of the basic financial
+statements, is required by the Governmental Accounting Standards Board who considers it to be an essential
+part of financial reporting for placing the basic financial statements in an appropriate operational, economic,
+or historical context. We have applied certain limited procedures to the required supplementary information
+in accordance with auditing standards generally accepted in the United States of America, which consisted of
+inquiries of management about the methods of preparing the information and comparing the information for
+consistency with management's responses to our inquiries, the basic financial statements, and other knowledge
+we obtained during our audit of the basic financial statements. We do not express an opinion or provide any
+assurance on the information because the limited procedures do not provide us with sufficient evidence to
+express an opinion or provide any assurance.
+
+                                                                 2
+To the Members of
+New Hampshire Housing Finance Authority
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that collectively
+comprise NH Housing's basic financial statements. The Supplemental Combining Schedules as listed in the
+table of contents are presented for purposes of additional analysis and are not a required part of the basic
+financial statements. Such information is the responsibility of management and was derived from and relates
+directly to the underlying accounting and other records used to prepare the basic financial statements. The
+information has been subjected to the auditing procedures applied in the audit of the basic financial statements
+and certain additional procedures, including comparing and reconciling such information directly to the
+underlying accounting and other records used to prepare the basic financial statements or to the basic financial
+statements themselves, and other additional procedures in accordance with auditing standards generally
+accepted in the United States of America. In our opinion, the Supplemental Combining Schedules are fairly
+stated, in all material respects, in relation to the basic financial statements as a whole.
+
+Manchester, New Hampshire
+September 26, 2024
+
+                                                                 3
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                     Management's Discussion and Analysis
+                                       of Net Position and Operating Results
+
+                                                        June 30, 2024
+
+New Hampshire Housing Finance Authority (NH Housing) was created by Chapter 204-C of the
+Revised Statutes Annotated of New Hampshire and provides financial and technical assistance to
+create and preserve decent, affordable housing for low and moderate-income New Hampshire
+residents. NH Housing finances single family and multi-family housing for eligible persons and
+families in the state by either purchasing mortgage loans from lending institutions or granting loans
+directly to eligible borrowers. Historically, the resources required to fund single family loans have
+been generated through the issuance of bonds and NH Housing continues to have significant
+capacity to issue tax-exempt bonds. Based on market conditions, in fiscal year 2013 NH Housing
+transitioned to a secondary market program whereby single family loans are sold directly to the
+Federal National Mortgage Association (Fannie Mae) or pooled into mortgage-backed securities
+(MBS) guaranteed by the Government National Mortgage Association (Ginnie Mae) and sold. NH
+Housing uses forward commitments to hedge interest rate risk related to secondary market sales.
+In fiscal year 2023, NH Housing resumed issuing tax-exempt bonds to fund single family loans, with
+those loans securitized into Ginnie Mae and Fannie Mae MBS that are acquired with bond proceeds.
+NH Housing continued to issue tax-exempt bonds to fund single family loans in fiscal year 2024.
+
+Fannie Mae is a government-sponsored enterprise with a public mission to provide stability in and
+to increase the liquidity of the residential market for homebuyers. NH Housing is a Fannie Mae
+Seller/Servicer and sells whole loans to Fannie Mae for cash as well as securities that are acquired
+with single family bond proceeds.
+
+Ginnie Mae, through its mortgage-backed securities programs, guarantees securities that are
+backed by pools of mortgages and issued by mortgage lenders approved by Ginnie Mae. Security
+holders receive a "pass-through" of the principal and interest payments on a pool of mortgage loans,
+less amounts required to cover servicing costs and Ginnie Mae guaranty fees. The Ginnie Mae
+guaranty ensures that the security holder receives the timely payment of scheduled monthly principal
+and any unscheduled recoveries of principal on the underlying mortgage loans, plus interest at the
+rate provided for in the securities. If a borrower fails to make a timely payment on a mortgage loan,
+NH Housing must use its own funds to ensure that the security holders receive timely payment.
+
+Multi-family housing has been financed through the issuance of bonds and the allocation of other
+resources as noted below. Since fiscal year 2013, NH Housing has also sold 100% participation
+interests in multi-family loans to third party investors. In addition to private entities, the investors
+include the Federal Financing Bank, an instrumentality of the Federal government. A requirement
+of these sales of loan participations has been that the loans be insured through a Federal mortgage
+insurance program whereby NH Housing bears a portion of the risk of loss on defaulted and
+foreclosed loans.
+
+In addition to the above lending activity, NH Housing offers and administers a variety of programs to
+provide affordable housing opportunities such as Federal rental assistance programs,
+predevelopment loans to stimulate the development of multi-family and supportive housing, Low
+Income Housing Tax Credits and the HOME Investment Partnership Program.
+
+The accompanying financial statements present NH Housing's net position, revenue and expenses
+and changes in net position, and cash flows as of and for the year ended June 30, 2024. The
+enclosed supplemental combining schedules found on pages 30 - 43 present the statements of net
+position, revenue, expenses and changes in net position, and cash flows for NH Housing's general
+funds and each of the single family and multi-family bond programs.
+
+                                                                 4
+                   NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                           Management's Discussion and Analysis
+                   of Net Position and Operating Results (Continued)
+
+                                              June 30, 2024
+
+The following is a condensed summary of financial information as of June 30, 2024 and 2023.
+
+Condensed Financial Information - Statement of Net Position (in thousands of dollars)
+
+                                                        As of June 30            Increase
+                                                                                (Decrease)
+                                                        2024          2023
+
+Assets                                                  $ 17,617 $ 16,468 $ 1,149
+Cash and cash equivalents
+Cash held in escrow                                     37,634 68,177 (30,543)
+Investments
+Loans receivable, net                                   572,696 253,789 318,907
+Loans held for sale
+Accrued interest receivable on mortgage and             485,757 404,793 80,964
+
+   construction loans and loans held for sale           19,115 16,151           2,964
+Real estate owned, net
+Other assets                                             2,882         2,459      423
+                                                            504           223     281
+                                                                                2,113
+                                                        25,962        23,849
+
+Total assets                                            1,162,167 785,909 376,258
+
+Liabilities                                             853,669       473,610   380,059
+Bonds payable                                            15,835          7,580     8,255
+Accrued interest payable                                 46,229
+Notes payable                                            39,992        30,754    15,475
+Accrued and other liabilities                                          89,470   (49,478)
+
+Total liabilities                                       955,725 601,414 354,311
+
+Net Position                                            $ 206,442 $184,495 $ 21,947
+
+Discussion of Changes in the Statement of Net Position
+
+NH Housing's net position consists primarily of assets and liabilities related to the issuance of bond
+indebtedness in support of both single family and multi-family housing. Consequently, the most
+significant assets are investments, which include mortgage-backed securities in the single family
+programs, funds awaiting either the purchase of mortgage loans or MBS, or the redemption of
+outstanding bonds, and mortgage loans receivable financed through bond issuance. NH Housing's
+statement of net position also includes a portfolio of mortgage and construction loans financed
+through its general funds, as well as a variety of other assets such as mortgage loan servicing rights,
+property and equipment, and other receivables.
+
+Total assets of NH Housing increased by $376.3 million, or 47.9%, during the year ended June 30,
+2024, primarily the net result of:
+
+ Cash and cash equivalents increased by $1.1 million as cash provided by noncapital financing
+      activities exceeded cash used for operating activities, capital and related financing activities,
+      and investing activities. See "Cash Flows" below.
+
+                                               5
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                                     Management's Discussion and Analysis
+
+                              of Net Position and Operating Results (Continued)
+                                                        June 30, 2024
+
+ Cash held in escrow decreased by $30.5 million, due primarily to a $29.9 million decrease in
+      escrow funds held in federal and state grant programs awaiting disbursement and a $2.1 million
+      decrease in escrow funds held for multi-family projects, offset by a $1.5 million increase in
+      escrow funds held for single family program loans.
+
+ Investments increased by $318.9 million, due primarily to an increase of $3.3 million in the
+      general funds related largely to grant funds awaiting disbursement; increases of $14.3 million
+      and $16.1 million awaiting loan funding in the multi-family and single family bond programs,
+      respectively; an increase of $249.2 million in Ginnie Mae and Fannie Mae MBS held as collateral
+      in the single family bond programs, and an increase of $36.0 million related to balances held in
+      bond issues for debt service and other purposes.
+
+ Loans receivable increased by $81.0 million as originations of loans held by NH Housing of
+      $125.9 million exceeded principal payments of $44.9 million. The principal payments received
+      included $25.3 million of payments received in advance of scheduled repayment. New loan
+      purchases of $92.5 million in the multi-family bond programs contributed significantly to the
+      increase in the loans receivable balance.
+
+ Loans held for sale increased by $3.0 million due to an increase in loans waiting to be sold in
+      the secondary market or to be transferred to single family bond issues. During the year ended
+      June 30, 2024, $200.0 and $129.9 million in loans were exchanged for Ginnie Mae and Fannie
+      Mae securities with $77.8 million then sold in the secondary market and $251.9 million
+      transferred to tax-exempt bond issues.
+
+Total liabilities of NH Housing increased by $354.3 million, or 58.9%, during the year ended June 30,
+2024, primarily the net result of:
+ Bonds outstanding increased by $380.1 million as new issuances of $401.7 million exceeded
+
+      redemptions, both scheduled and prior to scheduled maturity, of $21.6 million. NH Housing
+      issued $130.2 million of multi-family bonds to finance new projects and $271.5 million of single
+      family bonds.
+ Accrued interest payable increased by $8.3 million due to an increase in bonds payable in both
+      the single family and multi-family bond programs.
+ Notes payable reflect the use of a bank line of credit to fund single family mortgage loan
+      acquisitions in advance of secondary market disposition or bond issue acquisition, and short-
+      term construction loans for multi-family housing projects. The $15.5 million increase is due to a
+      $11.0 million increase in multi-family construction loans and a $4.5 million increase related to
+      single family loans.
+ Accrued and other liabilities decreased by $49.5 million related primarily to a $50.9 million
+      decrease in funds held in connection with federal sponsored housing assistance fund,
+      emergency rental assistance and homeownership programs, a $1.9 million decrease in escrow
+      funds held for multi-family project disbursements and a $3.3 million increase in escrow funds
+      held in connection with single family loans and other operating funds. NH Housing has
+      contracted with the State of New Hampshire to administer the Federal Emergency Rental
+      Assistance and Homeowner Assistance Fund programs on behalf of the State. The programs
+      make funds available to mitigate financial hardships suffered by New Hampshire residents due
+      to the coronavirus pandemic, and are coming to an end. Funds received by NH Housing are
+      recorded as grant revenue and expense as they are disbursed.
+
+                                                                 6
+                    NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                            Management's Discussion and Analysis
+                    of Net Position and Operating Results (Continued)
+
+                                               June 30, 2024
+
+The net position of NH Housing increased by $21.9 million, or 11.9%, as a result of the excess
+of expenses over revenue for the year ended June 30, 2024 discussed in detail under
+"Discussion of Changes in the Operating Results for the Year Ended June 30, 2024 Compared
+to the Year Ended June 30, 2023."
+
+Condensed Financial Information - Operating Results (in thousands of dollars)
+
+                                                      For the Years Ended June 30
+
+                                                                              Increase
+
+                                                      2024             2023 (Decrease)
+
+Operating Revenue
+
+Interest and fees on mortgage and construction loans  $ 28,261    $ 22,986    $ 5,275
+   and loans held for sale                                 1,773       3,789       (2,016)
+                                                           6,684       5,861           823
+Gain on sale of loans and mortgage-backed securities                   7,864      16,615
+Servicing revenue                                        24,479        7,780           284
+Investment income, net                                     8,064                  11,997
+Housing management fees                                            114,886
+Federal rental assistance programs                     126,883     184,228       (86,401)
+Grants and subsidies                                     97,827                        117
+Other                                                        716         599
+
+Total operating revenue                               294,687 347,993 (53,306)
+
+Operating Expenses
+
+Bond interest expense and debt financing costs         25,359      13,884       11,475
+Administrative expenses                                27,510      23,149         4,361
+Loan origination expenses                                                         2,025
+Loan servicing expenses                                  4,426       2,401           (31)
+Federal rental assistance programs                       3,069       3,100
+Grants and subsidies                                  126,966     114,886       12,080
+Other                                                  85,153     200,635     (115,482)
+
+                                                           257         262             (5)
+
+Total operating expenses                              272,740 358,317 (85,577)
+
+Change in net position                                21,947 (10,324) 32,271
+
+Net position, beginning of year                       184,495 194,819 (10,324)
+
+Net position, end of year                             $206,442 $184,495 $ 21,947
+
+                                                7
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+        Management's Discussion and Analysis
+of Net Position and Operating Results (Continued)
+
+                           June 30, 2024
+
+Discussion of Changes in the Operating Results for the Year Ended June 30, 2024 Compared
+to the Year Ended June 30, 2023
+
+NH Housing's operating revenue consists primarily of interest and fees on mortgage and construction
+loans and loans held for sale, gain on sale of loans and mortgage-backed securities, servicing
+revenue, investment income and revenue received to administer and support Federal rental
+assistance programs. Operating expenses consist primarily of bond interest expense and debt
+financing costs, administrative expenses, loan origination and servicing expenses, and expenditures
+related to Federal rental assistance programs. In addition, NH Housing receives and distributes
+grants and subsidies in support of a variety of housing-related initiatives.
+
+NH Housing's change in net position for the year ended June 30, 2024 was $21.9 million compared
+to $(10.3) million for the year ended June 30, 2023. The $32.3 million increase was the net effect of
+a $53.3 million decrease in operating revenue and an $85.6 million decrease in operating expenses.
+Significant changes leading to the $32.3 million increase included:
+
+ A $5.3 million increase in interest and fees on mortgage and construction loans and loans held
+      for sale consisting of a $6.1 million increase related to multi-family loan activity funded by both
+      bonds and the general funds and a $0.8 million decrease related to the declining bond financed
+      single family loan portfolio.
+
+ A $2 million decrease in gain on sale of loans and mortgage backed securities due to decreased
+      secondary market volume related to market conditions and the continuation of loan activity to
+      the bond-based business model, as well as reduced profitability on the sales of securities.
+
+ A $16.6 million increase in investment income due to increased investment balances, as
+      explained above, and increased short-term investment yields.
+
+ An $11.5 million increase in bond interest expense and debt financing costs primarily due to
+      increased bonds outstanding in both the single family and multi-family bond programs.
+
+ A $4.4 million increase in administrative expenses to support overall operations.
+
+ A $2 million increase in loan origination fees due to an increase in loan volume in the single
+      family bond programs offset by a decrease of program volume in the FNMA and GNMA
+      secondary market lending programs.
+
+ A $29.1 million increase in the difference between revenues and expenses related to grants and
+      subsidies activity, as follows:
+
+                                      Year Ended June 30
+
+                                                   2024  2023
+
+Grants and subsidies revenue                       $ 97,827 $184,228
+Grants and subsidies expense                         85,153 200,635
+
+Net grants and subsidies activity                  $ 12,674 $ (16,407)
+
+                                   8
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                     Management's Discussion and Analysis
+                              of Net Position and Operating Results (Continued)
+
+                                                        June 30, 2024
+
+      The $29.1 million difference in net grants and subsidies activity is primarily due to a $33.3 million
+      increase in revenue over expenses in a state funded multi-family housing program and a
+      $4.2 million decrease in revenue over expenses in a state funded lead abatement program, both
+      due to the timing of program receipts and disbursements; a $1.9 million decrease in the net
+      expenditures in a single family downpayment assistance program; and a $1.9 million increase
+      in net program revenue over expenses in all other grant programs.
+
+Cash Flows
+
+The statement of cash flows, which summarizes the changes in NH Housing's statement of net
+position and the results of its operations in terms of cash and cash equivalents, shows a $1.1 million
+increase in cash and cash equivalents between June 30, 2023 and June 30, 2024. As evident in the
+Supplemental Combining Schedule of Cash Flows on pages 33 and 34, the increase in cash and
+cash equivalents is attributable primarily to the general funds, in which cash provided by noncapital
+financing activities and investing activities exceeded cash used for operating activities, and capital
+and related financing activities. In the general funds, operating activities include all lending,
+programmatic and administrative activities not directly supported by bond issuance; capital and
+related financing activities include additions to property and equipment; noncapital financing
+activities relate to the proceeds and repayments of notes payable; and investing activities include
+the purchase, sale and maturity of investments as well as receipt of investment income. In the single
+family and multi-family bond programs, operating activities include primarily loan receipts and
+disbursements; noncapital financing activities include bond issuance, bond repayment and debt
+service payments; and investing activities include the purchase, sale and maturity of investments as
+well as receipt of investment income.
+
+Significant Long-Term Debt Activity
+
+NH Housing is authorized to issue bonds, the outstanding balance of which cannot exceed $2 billion,
+under the laws of the State of New Hampshire. NH Housing has issued bonds for both single family
+and multi-family housing, the outstanding balance of which totaled $853.7 million at June 30, 2024.
+
+During the year ended June 30, 2024, NH Housing issued $271.5 million of single family bonds and
+$130.2 million of multi-family bonds. Based on scheduled maturities, NH Housing redeemed during
+the year $8.1 million of single family program bonds and $7.2 million of multi-family program bonds.
+NH Housing also redeemed during the year ended June 30, 2024, prior to scheduled maturities,
+$6.3 million of single family program bonds. The bond redemptions prior to scheduled maturities
+resulted from the repayment of mortgage loans prior to scheduled maturities.
+
+Additional Information
+
+The purpose of this financial report is to provide information needed to understand NH Housing's
+financial position and results of operations as of and for the year ended June 30, 2024.
+
+Inquiries for additional information may be directed to the Managing Director, Finance/CFO at New
+Hampshire Housing Finance Authority, 32 Constitution Drive, Bedford, New Hampshire 03110, at
+(603) 472-8623 or at www.nhhfa.org.
+
+                                                                 9
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY                        $ 17,617
+                                           STATEMENT OF NET POSITION                              37,634
+                                                        June 30, 2024
+                                                  (In thousands of dollars)                     250,970
+                                                                                                   1,766
+ASSETS
+Current assets:                                                                                   67,231
+                                                                                                  19,115
+    Cash and cash equivalents
+    Cash held in escrow                                                                            2,882
+    Short-term investments                                                                            504
+    Accrued interest receivable on investments
+    Current portion of mortgage and construction loans receivable                                 11,630
+    Loans held for sale, at lower of cost or fair value                                         409,349
+    Accrued interest receivable on mortgage and construction loans and loans held for sale      290,899
+    Real estate owned, net
+    Other current assets                                                                          30,827
+Total current assets                                                                            321,726
+Long-term investments:                                                                          461,645
+    Mortgage-backed securities
+    Other long-term investments                                                                   25,009
+Total long-term investments                                                                          (897)
+Loans receivable:
+    Mortgage loans                                                                              485,757
+    Construction loans                                                                           (67,231)
+    Less allowance for possible losses                                                          418,526
+    Loans receivable, net
+    Less current portion of loans receivable                                                       7,243
+    Long term portion of loans receivable                                                          3,823
+Other assets:                                                                                      1,500
+    Mortgage loan servicing rights, net                                                           12,566
+    Property and equipment, net                                                              1,162,167
+    Other
+Total other assets                                                                                43,970
+Total assets                                                                                      15,835
+LIABILITIES                                                                                       46,229
+Current liabilities:                                                                              37,543
+    Current portion of bonds payable                                                            143,577
+    Accrued interest payable                                                                    809,699
+    Notes payable
+    Current portion of accrued and other liabilities                                               2,449
+Total current liabilities                                                                       812,148
+Long-term liabilities:                                                                          955,725
+    Bonds payable, net of current portion
+    Accrued and other liabilities                                                                  3,823
+Total long-term liabilities                                                                     151,785
+Total liabilities
+Commitments and contingent liabilities (Notes 8 and 12)                                           50,834
+NET POSITION                                                                                $ 206,442
+    Invested in capital assets, net of related debt
+    Restricted
+    Unrestricted
+Total net position
+See notes to financial statements.
+
+                                                                10
+                NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+STATEMENT OF REVENUE, EXPENSES AND CHANGES IN NET POSITION
+
+                                   Year Ended June 30, 2024
+                                    (In thousands of dollars)
+
+OPERATING REVENUE:                                       $ 28,261
+   Interest and fees on mortgage and construction loans       1,773
+       and loans held for sale                                6,684
+   Gain on sale of loans and mortgage-backed securities
+   Servicing revenue                                        24,479
+   Investment income, net                                     8,064
+   Housing management fees
+   Federal rental assistance programs                     126,883
+   Grants and subsidies                                     97,827
+   Other                                                        716
+
+       Total operating revenue                            294,687
+
+OPERATING EXPENSES:                                         25,359
+   Bond interest expense and debt financing costs           27,510
+   Administrative expenses
+   Loan origination expenses                                  4,426
+   Loan servicing expenses                                    3,069
+   Federal rental assistance programs                     126,966
+   Grants and subsidies                                     85,153
+   Other
+                                                                257
+       Total operating expenses
+                                                          272,740
+CHANGE IN NET POSITION
+                                                            21,947
+Net position, beginning of year
+                                                          184,495
+NET POSITION, END OF YEAR
+                                                         $ 206,442
+
+See notes to financial statements.
+
+                                    11
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY          $ 49,982
+                                                                                   23,490
+                                            STATEMENT OF CASH FLOWS
+                                                                                 331,315
+                                                Year Ended June 30, 2024         126,883
+
+                                                  (In thousands of dollars)        97,827
+                                                                                   56,199
+Cash flows from operating activities:                                           (448,540)
+   Loan repayments received                                                         (2,031)
+   Loan interest income and servicing revenue received                            (15,232)
+   Proceeds from sale of loans and mortgage-backed securities                     (13,403)
+   Federal rental assistance program receipts                                   (126,966)
+   Grants and subsidies receipts                                                  (85,153)
+   Other receipts                                                                 (75,799)
+   Loan disbursements
+   Purchase of loan servicing rights                                              (81,428)
+   Payments to vendors
+   Payments to employees                                                         401,725
+   Federal rental assistance program disbursements                                (21,440)
+   Grants and subsidies disbursements                                            344,762
+   Other disbursements                                                          (329,287)
+                                                                                  (17,330)
+       Net cash used for operating activities
+                                                                                 378,430
+Cash flows from noncapital financing activities:
+   Proceeds from issuance of bonds                                                    (103)
+   Principal repayment of bonds
+   Proceeds from notes payable                                                        (103)
+   Repayment of notes payable
+   Interest paid                                                                (712,999)
+                                                                                 399,854
+       Net cash provided by noncapital financing activities
+                                                                                   17,395
+Cash flows from capital and related financing activities:
+   Additions to property and equipment                                          (295,750)
+
+       Net cash used for capital and related financing activities                    1,149
+
+Cash flows from investing activities:                                              16,468
+   Purchase of investment securities
+   Proceeds from sale and maturities of investment securities                 $ 17,617
+   Investment income received
+                                                                             (Continued)
+       Net cash used for investing activities
+
+Net increase in cash and cash equivalents
+
+Cash and cash equivalents, beginning of year
+
+Cash and cash equivalents, end of year
+
+                                                                12
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+    STATEMENT OF CASH FLOWS (CONTINUED)
+                  Year Ended June 30, 2024
+                    (In thousands of dollars)
+
+Reconciliation of change in net position to net                 cash    $ 21,947
+   cash used for operating activities:
+       Change in net position                                                 1,769
+       Adjustments to reconcile change in net position to net                (2,031)
+           used for operating activities:
+              Amortization of servicing rights                                   430
+              Mortgage loan servicing rights capitalized                    (11,200)
+              Depreciation of property and equipment                        (24,479)
+              Loan interest income converted to loan principal               25,359
+              Investment income, net
+              Bond interest expense and debt financing costs                (69,744)
+       Changes in operating assets and liabilities:                              944
+           Loans receivable                                                     (471)
+           Loans held for sale
+           Accrued interest - loans                                          27,818
+           Other assets                                                     (51,770)
+           Accrued and other liabilities
+                                                                        $ (81,428)
+Net cash used for operating activities
+                                                                        $ 1,517
+Supplemental disclosures of noncash information:
+   Real estate acquired through foreclosure                           (Concluded)
+
+See notes to financial statements.
+
+                                        13
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+1. Organization and Nature of Operations
+
+      New Hampshire Housing Finance Authority (NH Housing) is a body politic and corporate
+      authorized by Chapter 204-C of the Revised Statutes Annotated of New Hampshire. The initial
+      legislation and subsequent amendments grant NH Housing the power to sell bonds and use the
+      proceeds to stimulate the construction and rehabilitation of housing for low and moderate-
+      income families in New Hampshire (the State).
+
+      NH Housing finances single family and multi-family housing for eligible persons and families in
+      the State through the issuance of bonds and the secondary market sale of mortgage-backed
+      securities or loans. NH Housing purchases single family mortgage loans from lending
+      institutions and originates loans directly. Multi-family loans are originated directly. All such
+      loans are generally collateralized by residential real estate located within the State.
+
+      Under the terms of the single family bond programs, bond holders are protected from possible
+      losses on mortgage loans by primary mortgage insurance policies, government-backed
+      guarantee programs and by mortgage pool insurance policies. Certain of these arrangements
+      involve risk-sharing agreements under which NH Housing bears a portion of the risk of loss
+      when actual losses on defaulted and foreclosed loans exceed certain levels. Under the terms
+      of a number of multi-family bond programs, the bond issues are further protected from possible
+      losses on mortgage loans by a Federal mortgage insurance program. This program involves
+      risk-sharing arrangements by which NH Housing bears a portion of the risk of loss on defaulted
+      and foreclosed loans (see Note 12 for further discussion).
+
+2. Summary of Significant Accounting Policies
+
+      Basis of Presentation - NH Housing's financial statements have been prepared on the basis of
+      the proprietary-fund concept which pertains to financial activities that operate in a manner similar
+      to private business enterprises and are financed primarily through fees and charges assessed
+      to the users of the services. NH Housing follows the accrual basis of accounting promulgated
+      by the Governmental Accounting Standards Board (GASB) using, when applicable, funds and
+      accounts stipulated under bond resolutions adopted in connection with the issuance of bonds.
+
+      The financial statements encompass NH Housing's general funds and both single family and
+      multi-family bond programs. The general funds account for assets, liabilities, and transactions
+      that are not generally governed by provisions of bond resolutions. The single family bond
+      programs encompass various bond issues that were issued in accordance with the General
+      Single Family Mortgage Acquisition Revenue Bond Resolution adopted by NH Housing on
+      March 23, 1995, the General Single Family Mortgage Acquisition Revenue Bond Resolution
+      (Non-MBS) adopted by NH Housing on June 25, 2009 and the General Single Family Mortgage
+      Acquisition Revenue Bond Resolution adopted by NH Housing on August 25, 2022.
+
+                                                                14
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+2. Summary of Significant Accounting Policies (Continued)
+
+      The multi-family bond programs encompass various bond issues that were issued in accordance
+      with the Multi-family Housing Bond Resolution adopted by NH Housing on April 27, 2000 and
+      the General Multi-family Housing Bond Resolution adopted by NH Housing on September 28,
+      2017.
+
+      The financial statements comply with the provisions of GASB Statement No. 61, The Financial
+      Reporting Entity: Omnibus, in that the financial statements include all the organizations,
+      activities and functions for which NH Housing (the reporting entity) is financially accountable.
+      Determination of financial accountability includes, among other factors, appointment of a voting
+      majority of the component's governing body and (1) ability to impose its will over the component
+      unit or (2) the possibility that the component unit will provide a financial benefit to, or impose a
+      financial burden on, NH Housing. Based on the preceding criteria, the accompanying financial
+      statements do not include the financial activities of any entity other than NH Housing.
+
+      Use of Estimates - The preparation of financial statements in conformity with accounting
+      principles generally accepted in the United States of America requires management to make
+      estimates and assumptions that affect the reported amounts of assets and liabilities and
+      disclosure of contingent assets and liabilities at the date of the financial statements and the
+      reported amounts of revenue and expenses during the reporting period. Actual results could
+      differ from those estimates.
+
+      Restricted Assets - All of the assets within bond program funds are pledged for payment against
+      the various bond indentures. Certain assets in the general funds are restricted as to purpose
+      by entities other than NH Housing, primarily the State and the U.S. Department of Housing and
+      Urban Development (HUD).
+
+      Mortgage Loans and Allowances for Possible Losses - Loans are stated at the principal
+      amounts outstanding, net of allowances for possible losses. Interest income on loans is
+      recorded on the accrual basis. The recording of interest income on problem loans ceases when
+      collectability within a reasonable period of time becomes doubtful.
+
+      The allowance for loan losses is increased by charges to expense and decreased by charge-
+      offs (net of recoveries). Management's periodic evaluation of the adequacy of the allowance is
+      based on NH Housing's past loan loss experience, known and inherent risks in the portfolio,
+      adverse situations that may affect the borrower's ability to repay, estimated value of any
+      underlying collateral, existing mortgage insurance and current economic conditions.
+
+      Loans Held for Sale - Loans originated or acquired and intended for sale in the secondary
+      market are carried at the lower of aggregate cost or market value.
+
+                                                                15
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+2. Summary of Significant Accounting Policies (Continued)
+
+      Investments - Short-term investments consist of debt securities, nonparticipating guaranteed
+      investment contracts, collateralized repurchase agreements and money market funds. Long-
+      term investments consist of debt securities with fixed maturities in excess of one year. Debt
+      securities are recorded at fair value based on quoted market prices. Interest income on
+      investments is recorded on the accrual basis. Nonparticipating guaranteed investment
+      contracts and collateralized repurchase agreements are recorded at the contract value.
+
+      Mortgage Loan Servicing Rights - The cost of acquiring the rights to service mortgage loans
+      from loan originators is capitalized and amortized in proportion to, and over the period of,
+      estimated net servicing income. NH Housing makes an assessment of mortgage servicing
+      rights based on the fair value of those rights. For purposes of measuring impairment, NH
+      Housing stratifies mortgage servicing rights based on the age of the underlying loans. The
+      amount of impairment, if any, is the amount by which the carrying amount of the capitalized
+      mortgage servicing rights for a stratum exceeds its fair value. Fair value represents the present
+      value of the anticipated net cash flows from servicing the loans.
+
+      Property and Equipment - NH Housing uses a capitalization limit of $5 for developed software
+      and $1 for all other items of property and equipment. Property and equipment are stated at
+      cost, less accumulated depreciation. Depreciation is provided for using the straight-line method
+      over the estimated useful lives of the assets. Estimated useful lives range from 3 to 45 years.
+
+      Real Estate Owned - Real estate owned consists of single family and multi-family residential
+      properties acquired through foreclosure that are carried at the lower of cost or fair value less
+      estimated costs to sell. An allowance for losses on real estate owned is maintained for
+      estimated losses and valuation adjustments on a specific property basis.
+
+      Bonds - Bonds payable are general and limited obligations of NH Housing and are not a debt
+      or liability of the State or any subdivisions thereof. Each bond issue is secured, as described in
+      the applicable trust indenture, by all revenues, moneys, investments, mortgage loans and other
+      assets in the accounts of the program. The provisions of the applicable trust indentures require
+      or allow for redemption of bonds through the use of unexpended bond proceeds and excess
+      funds accumulated primarily through prepayment of mortgage loans. All outstanding bonds are
+      subject to redemption at the option of NH Housing, in whole or in part at any time after certain
+      dates, as specified in the respective series indentures. To date, NH Housing has issued only
+      bonds with fixed interest rates established at issuance.
+
+      Bond Discounts and Premiums - Discounts and premiums on bonds payable are amortized to
+      interest expense over the lives of the respective bond issues using the effective interest method.
+
+      Arbitrage Rebate - Federal income tax rules limit the investment yield that NH Housing may
+      retain from investing the proceeds and other funds related to its tax-exempt bond issues. The
+      excess yield is payable to the U.S. Treasury and included in accrued and other liabilities in the
+      accompanying statement of net position. There was no liability as of June 30, 2024.
+
+                                                                16
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+2. Summary of Significant Accounting Policies (Continued)
+
+      Operating Revenue and Expenses - NH Housing's primary operation is to fund single family
+      and multi-family loans with proceeds from the issuance of bonds or the sale of loans and
+      mortgage-backed securities. NH Housing's primary sources of operating revenue are the
+      income from mortgage loans or other permitted investments and the sale of loans and mortgage-
+      backed securities. The primary operating expenses are the bond interest expense associated
+      with bonds outstanding and the costs of originating loans.
+
+      NH Housing also administers various Section 8 subsidized housing programs in the State for
+      HUD. NH Housing receives federal financial assistance to provide rental subsidies to program
+      participants and to cover program administration costs. A portion of the subsidies are disbursed
+      on behalf of program participants who reside in housing developments on which NH Housing
+      holds a mortgage, some of which are loans financed through the issuance of multi-family
+      program bonds. The financial assistance received and disbursed on behalf of program
+      participants is reflected as both an operating revenue and expense. The financial assistance
+      that covers program administration costs is included in housing management fees.
+
+      NH Housing receives various other pass-through grants to support housing programs. In
+      addition to these pass-through funds, NH Housing also makes various grants to both
+      organizations and individuals for housing-related purposes.
+
+      Investment Derivative Instruments - Forward commitments to deliver mortgage-backed
+      securities are used to hedge changes in fair value of mortgage loans held for sale and
+      commitments to acquire or originate mortgage loans to be held for sale. These contracts are
+      considered investment derivative instruments, as defined in GASB Statement No. 53,
+      Accounting and Financial Reporting for Derivative Instruments. Changes in the fair value of
+      investment derivative instruments are included in investment income.
+
+      Interfund Transfers - NH Housing makes transfers between its various funds and programs,
+      primarily for the infusion of cash into new bond issue programs and the withdrawal of cash from
+      bond issues as permitted by the bond resolutions. All interfund receivables and payables are
+      eliminated from the financial statements.
+
+3. Loans Receivable, Related Allowances, and Concentrations
+
+      Mortgage Loans - Mortgage loans receivable provide for monthly receipts of principal and
+      interest for terms of 10 to 42 years and bear interest at annual rates of 0% to 8.375%.
+
+                                                                17
+                 NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                           NOTES TO FINANCIAL STATEMENTS
+
+                        As of and for the Year Ended June 30, 2024
+                                     (In thousands of dollars)
+
+3. Loans Receivable, Related Allowances, and Concentrations (Continued)
+
+Allowance for Possible Losses - The activity in the allowance for possible losses on mortgage
+and construction loans, other assets and GNMA loss liabilities during fiscal 2024 is summarized
+as follows:
+
+Balance - June 30, 2023                                                  $ 3,009
+
+Balance attributable to:                                                 $ 1,002
+   Mortgage and construction loans                                            229
+   Real estate owned
+   Other liabilities - GNMA loss liability                                 1,778
+
+Total                                                                    3,009
+
+Provision for loan losses                                                -
+
+Write-offs, net                                                          (64)
+
+Balance - June 30, 2024                                                  $ 2,945
+
+Balance attributable to:                                                 $ 897
+   Mortgage and construction loans                                            270
+   Real estate owned
+   Other liabilities - GNMA loss liability                                 1,778
+
+Total                                                                    $ 2,945
+
+NH Housing services both single family and multi-family mortgage loans on behalf of others and
+such loans are not reported on the Statement of Net Position. NH Housing services single family
+loans that it securitizes and sells as Ginnie Mae and Fannie Mae mortgage-backed securities
+and it also services loans sold directly to Fannie Mae. As of June 30, 2024, NH Housing
+serviced $1,009,505 of loans held in Ginnie Mae mortgage-backed securities and $425,942 of
+loans held by Fannie Mae. NH Housing is exposed to operational risks with respect to the loans
+sold to Ginnie Mae and Fannie Mae as discussed further in Note 12.
+
+The majority of single family mortgage loans either securitized and sold or sold directly by NH
+Housing are acquired from a network of mortgage loan originators. For the year ended June 30,
+2024, loans acquired from three originating lenders amounted to 49.9% of the sold loan volume,
+contributing 1.62% of NH Housing's total operating revenue and 4.76% of its change in net
+position.
+
+NH Housing also originates and services FHA risk-share insured multi-family mortgage loans
+for which it sells 100% participation interests. As of June 30, 2024, NH Housing serviced
+$127,917 of multi-family mortgage loans for five investors.
+
+                                            18
+       NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                 NOTES TO FINANCIAL STATEMENTS
+
+              As of and for the Year Ended June 30, 2024
+                           (In thousands of dollars)
+
+4. Cash and Investments
+
+Cash and Cash Equivalents - At June 30, 2024, the carrying amount of NH Housing's bank
+deposits was $17,617, such amount representing cash bank deposits. Bank balances of cash
+deposits held in the general funds totaled $12,723. Of such deposits, $250 was insured by the
+Federal Deposit Insurance Corporation, while deposits aggregating $12,473 were uninsured.
+
+Bank balances of cash deposits held in bond funds totaled $510, and $250 was insured by the
+Federal Deposit Insurance Corporation.
+
+At June 30, 2024, the carrying amount of NH Housing's restricted cash (cash held in escrow)
+was $37,634. The restricted cash bank balance was $43,443, which was uninsured.
+
+A bank provides an irrevocable stand-by letter of credit issued by the Federal Home Loan Bank
+of Pittsburgh as additional security for uninsured cash balances. The letter of credit
+collateralized $64,770 of deposits as of June 30, 2024.
+
+Investments - In accordance with the terms of its investment policy and its bond indentures, NH
+Housing may invest, subject to various restrictions, in direct obligations of the United States,
+United States government-sponsored enterprise (GSE) securities, guaranteed investment
+contracts, collateralized repurchase agreements, money market funds comprised of direct
+obligations of the United States or GSE debt obligations, collateralized certificates of deposit
+and interest-bearing time deposits, and certain direct and general obligations of any state or
+governmental entity of the United States. The majority of investments are restricted for the
+repayment of bond obligations or to satisfy certain reserve requirements specified by the bond
+indentures.
+
+Guaranteed investment contracts are uncollateralized contracts with qualified financial
+institutions and registered broker-dealers insured by the Securities Investor Protection
+Corporation (SIPC). Although the nominal maturity dates of the guaranteed investment
+contracts are closely matched with future bond maturities and loan disbursements, the contracts
+have short-term liquidity and termination provisions. U.S. Treasury Notes and U.S. Treasury
+Bills (UST), Federal Farm Credit Bank (FFCB), Federal Home Loan Bank (FHLB), Federal
+Home Loan Mortgage Corporation (FHLMC), Federal National Mortgage Association (FNMA)
+and Government National Mortgage Association (GNMA) obligations are in NH Housing's name
+and held by third parties.
+
+Short-Term Investments - Short-term investments at June 30, 2024 consist of the following
+investments with maturities of less than one year:
+
+Guaranteed investment contracts (at contract value)          $ 29,705
+Collateralized repurchase agreements (at contract value)          1,053
+U.S. Treasury obligation money market funds (at fair value)
+UST obligations (at fair value)                               178,963
+U.S. Government bonds                                           38,290
+                                                                  2,959
+
+Total                                                        $ 250,970
+
+                         19
+                 NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                           NOTES TO FINANCIAL STATEMENTS
+
+                        As of and for the Year Ended June 30, 2024
+                                     (In thousands of dollars)
+
+4. Cash and Investments (Continued)
+
+Long-Term Investments - Long-term investments at June 30, 2024 with their credit quality
+ratings as issued by Moody's Investors Service as of the date of this report, consist of the
+following (at fair value), all maturing in excess of one year, with maturities ranging from 2024 to
+2064.
+
+                 Rating  1 - 5               Investment Maturities            Total
+                                                      (In Years)
+
+                                     6 - 10 11 - 15 16 - 30 30+
+
+FHLB obligation  Aaa $ 1,364 $ - $ -           $ -                  $ -       $ 1,364
+                                                       -                   -       1,271
+FHLMC obligations Aaa    -           1,271  -
+                                                  61,044              19,618     80,662
+FNMA obligations Aaa     -           -      -   175,958               34,279   210,237
+
+GNMA obligations Aaa     -           -      -       1,423                  -     28,192
+
+UST obligations  Aaa 21,251 5,518           -
+
+Total                    $ 22,615 $ 6,789 $ - $238,425 $ 53,897 $321,726
+
+Interest Rate Risk - Interest rate risk is the risk that changes in interest rates of debt investments
+will adversely affect the fair value of an investment. NH Housing invests primarily in guaranteed
+investment contracts and collateralized repurchase agreements that provide for withdrawal of
+funds at par over the lives of the contracts. The portfolio of UST, FFCB, FHLB, FHLMC, FNMA
+and GNMA investments is subject to fair value fluctuations. The balance in money market funds
+at June 30, 2024 includes amounts withdrawn from guaranteed investment contracts and
+collateralized repurchase agreements to satisfy July 1, 2024 scheduled debt service payments.
+
+Credit Risk - Credit risk is the risk that an investment issuer will not fulfill its obligations. Credit
+risk is measured by the credit quality ratings of issuers as described by nationally recognized
+rating organizations. NH Housing requires providers of guaranteed investment contracts to
+have and maintain a long-term unsecured debt obligation rating or claims paying ability rating
+sufficient to support the applicable NH Housing bond rating. In the event of an investment
+provider rating downgrade that will impact the applicable NH Housing bond rating, NH Housing
+may request the provider to deliver collateral sufficient to maintain the NH Housing bond rating
+or terminate the contract.
+
+Custodial Credit Risk - Custodial credit risk is the risk that, in the failure of a counterparty, NH
+Housing will not be able to recover the value of its investments or collateral securities that are
+in the possession of an outside party. NH Housing's policy requires collateralized repurchase
+agreement providers to be members of the Federal Deposit Insurance Corporation or the
+Association of Primary Dealers in United States Government Securities and the collateral
+provided must be direct obligations of the United States or GSE debt obligations, have a
+maintained market value of not less than 102% of the repurchase agreement maturity value and
+be delivered to a third party custodian acting as a fiduciary on behalf of NH Housing.
+
+                                     20
+       NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                 NOTES TO FINANCIAL STATEMENTS
+
+              As of and for the Year Ended June 30, 2024
+                           (In thousands of dollars)
+
+4. Cash and Investments (Continued)
+
+Repurchase agreement collateral held by Wells Fargo Bank, National Association:  $ 1,245
+   Government National Mortgage Association mortgage pools (at fair value)
+
+Concentration of Credit Risk - Concentration of credit risk is the risk of loss that may be
+attributed to the magnitude of investment in a single issue or a single issuer. NH Housing does
+not place limits on the amount of investment in a single issue or a single issuer. Investments in
+issuers that represent 5% or more of total short and long-term investments at June 30, 2024,
+with their credit quality ratings as issued by Moody's Investors Service as of the date of this
+report, are as follows:
+
+Collateralized repurchase agreements and guaranteed            Rating            $ 22,428
+   investment contracts provided by:                                              210,237
+       Bayerische Landesbank Girozentrale                        Aa2
+                                                                 Aaa              127,303
+Government National Mortgage Association                                            66,482
+U.S. Treasury obligation money market funds provided by:       Aaa-mf               81,901
+                                                                 Aaa                51,660
+   Fidelity Institutional Money Market Funds                     Aaa
+U.S. Treasury obligations
+Federal National Mortgage Association                          AAAm
+Dreyfus Money Market
+
+Total                                                                            $ 560,011
+
+5. Other Assets                                                Current Long Term
+
+      Other assets at June 30, 2024 consist of the following:  $ 7,993           $ -
+                                                                   2,212               -
+      Accounts receivable                                            813               -
+      Repurchased loans                                                 2              -
+      Prepaid expenses                                                -
+      Fair value investment derivatives                              610           1,500
+      Notes receivable                                                                 -
+      Accrued servicing revenue
+                                                               $ 11,630 $ 1,500
+      Total
+
+                                     21
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+          NOTES TO FINANCIAL STATEMENTS
+
+       As of and for the Year Ended June 30, 2024
+                    (In thousands of dollars)
+
+6. Mortgage Loan Servicing Rights
+
+      During the year ended June 30, 2024, NH Housing capitalized $2,031 in connection with the
+      purchase of servicing rights and recorded amortization of $1,769. At June 30, 2024, mortgage
+      loan servicing rights totaled $7,243, net of accumulated amortization of $11,707. Gross
+      servicing rights totaled $18,950.
+
+7. Property and Equipment                                              $ 7,289
+                                                                            7,155
+      Property and equipment at June 30, 2024, consists of:                   728
+
+      Land and building                                                   15,172
+      Equipment
+      Furniture and fixtures                                             (11,349)
+
+      Total                                                            $ 3,823
+
+      Less accumulated depreciation
+
+      Property and equipment - net
+
+      Depreciation expense for the year ended June 30, 2024 was $430.
+
+8. Forward Commitments
+
+      NH Housing sells forward commitments to deliver Ginnie Mae and Fannie Mae guaranteed
+      mortgage-backed securities. Commitments are sold as mortgage loan reservations are taken
+      to hedge against market fluctuations prior to loan origination and securitization. NH Housing is
+      subject to market value fluctuations in the event that mortgage loans are not funded as expected
+      and the committed securities cannot be delivered. A net increase in fair value of $11 on these
+      forward commitments, classified as investment derivative instruments, has been recorded within
+      investment income. The $6 fair value mark-to-market adjustment is included in accrued and
+      other liabilities and other assets on the statement of net position. In addition, NH Housing has
+      agreements with five forward commitment counterparties that require the delivery of collateral
+      should the aggregate fair market value of outstanding forward commitments with a counterparty
+      decline from the aggregate contract amount by more than specified amounts. As of June 30,
+      2024, the aggregate fair market value of forward commitment contracts containing such
+      collateral provisions was $2,535 compared to an aggregate contract amount of $2,500 and no
+      collateral was posted as of that date.
+
+22
+                  NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                            NOTES TO FINANCIAL STATEMENTS
+
+                         As of and for the Year Ended June 30, 2024
+                                      (In thousands of dollars)
+
+8. Forward Commitments (Continued)
+
+NH Housing is subject to credit risk with respect to counterparties to the forward commitment
+contracts, summarized as follows at June 30, 2024, with their credit quality ratings as issued by
+Moody's Investors Service, unless otherwise noted, as of the date of this report:
+
+                                                Rating     Number of            Par
+                                                           Contracts         Amount
+
+Bank of Oklahoma                                A3                       3   $ 1,600
+Daiwa Capital Markets                                                             900
+Jefferies Group LLC                             Not Rated                3
+                                                                               2,100
+                                                Baa2                     4
+
+Total                                                                    10  $ 4,600
+
+9. Bonds Payable
+
+Bonds payable consist of term and serial bonds due in installments on January 1 and July 1 of
+each year, with interest rates ranging from 0.30% to 6.50%. Interest paid on bonds of NH
+Housing is generally exempt from Federal income taxes, except for certain bonds including nine
+series of Single Family Mortgage Acquisition Revenue Bonds and two series of Multi-family
+Housing Revenue bonds.
+
+Bonds payable activity for the year ended June 30, 2024 was as follows:
+
+Balance - June 30, 2023                                                      $ 473,610
+Bond issuance                                                                 401,725
+Amortization of bond premium and discount, net                                     (226)
+Principal repayment                                                            (21,440)
+
+Balance - June 30, 2024                                                      $ 853,669
+
+Amount payable within one year                                               $ 43,970
+
+                                    23
+       NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                 NOTES TO FINANCIAL STATEMENTS
+
+              As of and for the Year Ended June 30, 2024
+                           (In thousands of dollars)
+
+9. Bonds Payable (Continued)
+
+Principal and interest payments due on outstanding bonds are as follows at June 30, 2024:
+
+                                               Principal Interest Total
+
+Years ending June 30:                          $ 43,970 $ 32,933 $   76,903
+   2025                                           37,478 33,918      71,396
+   2026                                           54,845 32,492      87,337
+   2027                                           18,070 30,797      48,867
+   2028                                           19,340 30,168      49,508
+   2029
+
+       Subtotal, years ending 2025 - 2029      173,703 160,308       334,011
+
+Years ending June 30:                           83,285    141,457    224,742
+   2030 - 2034                                  91,240    125,509    216,749
+   2035 - 2039                                  97,895    106,540    204,435
+   2040 - 2044                                 197,630               266,672
+   2045 - 2049                                 130,485     69,042    163,902
+   2050 - 2054                                  49,060     33,417
+   2055 - 2059                                  20,985                56,894
+   2060 - 2064                                               7,834    22,583
+   2065 - 2069                                    1,330      1,598
+                                                                        1,360
+                                                                 30
+
+Total                                          845,613 $645,735 $1,491,348
+
+Unamortized premium                            8,390
+Unamortized discount                            (334)
+
+Total bonds payable                            $ 853,669
+
+In the ordinary course of its business, NH Housing redeems, prior to stated maturity, various
+amounts of bonds from prepayments of the related mortgage loans. During fiscal 2024, NH
+Housing redeemed, prior to stated maturity and in accordance with the terms of the bonds,
+$6,260 of current interest single family bond program bonds.
+
+                                           24
+       NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                 NOTES TO FINANCIAL STATEMENTS
+
+              As of and for the Year Ended June 30, 2024
+                           (In thousands of dollars)
+
+10. Notes Payable and Credit Facilities
+
+      NH Housing has a line of credit with a bank, with availability between $70,000 and $100,000
+      depending on need, for the purpose of acquiring single family mortgage loans prior to the
+      issuance of single family bonds or other secondary market disposition and for financing short-
+      term construction loans for multi-family housing projects. The bank holds collateral assignments
+      in the related mortgages and notes related to each advance. This line of credit bears interest
+      at a fluctuating per annum rate based on the bank's one-month Term Secured Overnight
+      Financing Rate (SOFR) rate plus 0.95% with a floor of 2.15% and expires on January 31, 2026.
+      At June 30, 2024, $47,717, with $1,488 included in current portion of bonds payable, was
+      outstanding with an interest rate of 6.28%, whereas $52,283 was unused with an interest rate
+      of 0.15%.
+
+      NH Housing has a $5,000 line of credit with a bank, which bears interest at a fluctuating per
+      annum rate based on the bank's one-month Term SOFR rate plus 2.45% and expires on
+      January 31, 2026. There were no amounts outstanding on the line at June 30, 2024.
+
+      In connection with the bank lines of credit, NH Housing has covenanted to maintain an
+      unrestricted net position of $40,000 and a minimum investment rating of A3 from Moody's
+      Investors Service, Inc. NH Housing was in compliance with these covenants as of and for the
+      year ended June 30, 2024.
+
+11. Accrued and Other Liabilities
+
+Accrued and other liabilities at June 30, 2024 consist of the following:
+
+                                                                          Current     Long-Term
+
+Accounts payable                                                          $ 3,700       $ -
+Funds held in escrow                                                        32,202         2,199
+Fair value investment derivatives                                                  8          -
+Accrued servicing fees                                                          106           -
+GNMA loss liability                                                           1,527           250
+
+Total                                                                     $ 37,543      $ 2,449
+
+                                   25
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+12. Commitments and Contingent Liabilities
+
+      In the normal course of business, NH Housing has outstanding various commitments and
+      contingent liabilities, including the following:
+
+       At June 30, 2024, NH Housing was committed to fund approximately $25,219 of mortgage
+            loans to be used in the Ginnie Mae mortgage-backed securities program. Ginnie Mae
+            guarantees securities that are backed by mortgage loan pools. These mortgages are either
+            acquired or originated by NH Housing and then exchanged with Ginnie Mae for mortgage-
+            backed securities which are either sold or transferred to tax-exempt bond issues. Ginnie
+            Mae has established minimum net worth requirements for program participants based on
+            outstanding securities and the balance of commitments to guarantee securities. At
+            June 30, 2024, NH Housing met the minimum net worth requirement of $7,706. Under the
+            Ginnie Mae program, NH Housing must use its own funds if a borrower fails to make a
+            timely payment on a mortgage loan. NH Housing must also assess the overall performance
+            of the portfolio and repurchase loans as necessary to maintain required delinquency
+            thresholds. NH Housing assesses the overall risk of loss on loans that it may be required
+            to repurchase and repurchases the loans as necessary. NH Housing securitized $199,979
+            of mortgage loans during the year ended June 30, 2024 and held $2,157 of repurchased
+            loans in other assets at June 30, 2024.
+
+       At June 30, 2024, NH Housing was committed to fund approximately $28,551 of mortgage
+            loans to be sold to Fannie Mae. NH Housing sells mortgage loans to Fannie Mae on a
+            nonrecourse basis although previously also sold loans on a risk-share basis. NH Housing
+            securitized $80,654 of mortgage loans during the year ended June 30, 2024.
+
+       NH Housing has committed to maintain primary mortgage insurance policies for all the
+            single family bond program bond issues. The primary insurance policies for two issues
+            contain risk-sharing arrangements. NH Housing has also committed to maintain pool
+            insurance policies or self-insurance funds held within bond indentures for all issues, except
+            those in the General Single Family Mortgage Acquisition Revenue Bond Resolution
+            adopted on August 25, 2023. The aggregate maximum contingent liability to the general
+            funds with respect to these arrangements is approximately $876 for the risk-sharing
+            insurance agreements.
+
+       NH Housing has committed to maintain mortgage insurance provided through the Federal
+            Housing Administration (FHA) for a number of multi-family mortgage loans, including the
+            multi-family loan participation interests sold as discussed in Note 3. The FHA insurance
+            used by NH Housing includes risk-sharing arrangements by which NH Housing has a
+            maximum contingent liability to the general funds of $221,633.
+
+       NH Housing has authorized the funding of approximately $17,829 from the general funds
+            for the purchase of housing units and for other housing-related purposes. This total
+            includes $14,476 of construction loans expected to be funded from a bank line of credit.
+
+                                                                26
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+          NOTES TO FINANCIAL STATEMENTS
+
+       As of and for the Year Ended June 30, 2024
+                    (In thousands of dollars)
+
+12. Commitments and Contingent Liabilities (Continued)
+
+       Provisions of certain general funds and multi-family bond program loans require NH
+            Housing to administer certain funds in escrow on behalf of developers for the purposes of
+            project completion, working capital and contingency reserves, insurance and taxes. At
+            June 30, 2024, these balances aggregated $62,127. These balances are not included in
+            NH Housing's financial statements as they are maintained in separate accounts in the
+            names of the developers.
+
+      NH Housing is subject to various legal proceedings and claims that arise in the normal course
+      of its business. In the opinion of management, the ultimate resolution of these actions will not
+      materially affect the accompanying financial statements of NH Housing.
+
+13. Restricted Net Position                                                       $ 64,570
+
+      The components of restricted net position at June 30, 2024 are as follows:     57,817
+                                                                                     29,398
+      Restricted for purpose of funding source
+      Restricted for purpose of bond issues:                                      $ 151,785
+
+         Single family bond programs
+         Multi-family bond programs
+
+      Total
+
+14. Grants and Subsidies
+
+      NH Housing receives and distributes grants and subsidies in support of a variety of housing-
+      related initiatives. Grants and subsidies revenue exceeds grants and subsidies expense by
+      $12,674 primarily due to $17,483 net receipts over disbursements related to the timing of
+      revenue and expenditures in a state supported multi-family subsidy program offset by a $3,863
+      net expense of down payments assistance grants in the single family programs, the timing of
+      revenue and expenditures in several smaller Federal and state supported programs, and
+      expenditures in certain NH Housing funded initiatives without direct revenue offsets.
+
+27
+                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                       NOTES TO FINANCIAL STATEMENTS
+
+                                    As of and for the Year Ended June 30, 2024
+
+                                                  (In thousands of dollars)
+
+15. Employee Benefit Plans
+
+      NH Housing has established, and can amend, the Defined Contribution Pension Plan for
+      Employees of New Hampshire Housing Finance Authority in accordance with the provisions of
+      Internal Revenue Code Section 401(a). All employees with over six months of service are
+      covered by the plan, which is administered by Mutual of America and requires employer
+      contributions equal to 5% or 10% of the salaries of covered employees and employer matching
+      contributions to specified limits of employee contributions. Payroll of covered employees for the
+      year ended June 30, 2024 totaled $11,458 while total payroll for the year ended June 30, 2024
+      totaled $12,451. NH Housing expensed and made contributions to the plan of $830 for the year
+      ended June 30, 2024, such amount representing 7.2% of covered payroll and including $254 of
+      matched contribution for the Voluntary Deferred Compensation Plan. The Voluntary Deferred
+      Compensation Plan for Employees of New Hampshire Housing Finance Authority was
+      established by NH Housing in accordance with the provisions of Internal Revenue Code
+      Section 457. This plan, which is administered by Mutual of America, enables all employees to
+      make tax-deferred contributions that are partially matched by NH Housing.
+
+16. Housing Management Fees
+
+      NH Housing administers subsidized housing programs under HUD Section 811, Family Self
+      Sufficiency and Section 8 mainstream voucher, moderate rehabilitation, moving to work,
+      housing choice voucher, COVID-19 and special allocation programs and receives fees for these
+      services. Total federal funds administered by NH Housing under these programs aggregated
+      $135,120 for the year ended June 30, 2024.
+
+17. Fair Value Measurements
+
+      NH Housing generally holds investments until maturity to pay reserve fund bonds as they
+      become due, so fluctuations in the fair value of the investments have a minimal long-term effect.
+      NH Housing categorizes its fair value measurements within the fair value hierarchy established
+      by generally accepted accounting principles. The hierarchy is based on the valuation inputs
+      used to measure the fair value of the asset. The three level framework provides a fair value
+      hierarchy that prioritizes the inputs to valuation techniques used to measure fair value.
+
+      United States government obligations and money market funds classified in Level 1 of the fair
+      value hierarchy are valued using prices quoted in active markets for those securities. Assets
+      and liabilities in Level 2 of the fair value hierarchy are valued using inputs, other than quoted
+      prices in Level 1, that are observable, either directly or indirectly. In Level 3, inputs are
+      unobservable for an asset or liability. Investment derivatives are classified in Level 3 and are
+      valued using mark-to-market techniques based on third-party pricing.
+
+                                                                28
+       NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+                 NOTES TO FINANCIAL STATEMENTS
+
+              As of and for the Year Ended June 30, 2024
+                           (In thousands of dollars)
+
+17. Fair Value Measurements (Continued)
+
+The following table sets forth by level, within the fair value hierarchy, NH Housing's money
+market funds, United States government obligations and investment derivative instruments at
+fair value as of June 30, 2024:
+
+                                             Level 1 Level 2 Level 3 Total
+
+Money market funds                           $178,963 $ -  $ - $178,963
+United States government obligations
+Investment derivative instruments            362,975  -    -    362,975
+
+                                             -        -    (6)  (6)
+
+Total                                        $541,938 $ -  $ (6) $541,932
+
+Certain investments not subject to the fair value measurement requirement at June 30, 2024
+include:
+
+Collateralized repurchase agreements                            $ 1,053
+Guaranteed investment contracts                                   29,705
+
+Total                                                           $ 30,758
+
+18. Subsequent Events
+
+       On July 2, 2024, NH Housing issued $50,000 of Single Family Mortgage Acquisition
+            Revenue Bonds, 2024 Series D. The bonds consist of convertible option bonds with a
+            July 1, 2025 maturity date.
+
+       On July 23, 2024, NH Housing issued $75,000 of Single Family Mortgage Acquisition
+            Revenue Bonds, 2024 Series C. The bonds will consist of serial and term bonds with
+            varying maturities and interest rates.
+
+       On September 24, 2024, NH Housing issued $50,560 of Multi-Family Housing Revenue
+            Bonds, 2024 Series 2. The bonds consist of serial and term bonds with varying maturities
+            and interest rates. Bond proceeds will be used to fund mortgage loans to four multi-family
+            housing projects and to fund the required mortgage reserve.
+
+                                         29
+SUPPLEMENTAL COMBINING SCHEDULES
+                                               NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                                     SUPPLEMENTAL COMBINING SCHEDULE OF STATEMENT OF NET POSITION
+
+                                                                     June 30, 2024
+
+                                                                     (In thousands of dollars)
+
+Assets                                                               General                                 Single Family    Multi-Family  Eliminations       Total
+Current assets:                                                       Funds                                 Bond Programs   Bond Programs    $ -           $ 17,617
+                                                                                                                                                      -
+    Cash and cash equivalents                            receivable  $ 17,107                               $ 510           $ -                       -          37,634
+    Cash held in escrow                                                 37,634                                      -               -                 -        250,970
+    Short-term investments                                              52,610                                                                        -
+    Accrued interest receivable on investments                              247                                93,156        105,204                  -           1,766
+    Current portion of mortgage and construction loans                  20,817                                     910             609                -          67,231
+    Loans held for sale, at lower of cost or fair value                 19,115                                                                        -          19,115
+    Accrued interest receivable on mortgage and                             306                                  6,624         39,790               (149)
+                                                                            461                                     -               -               (149)         2,882
+        construction loans and loans held for sale                        8,206                                    975                                -              504
+    Real estate owned, net                                                                                           43          1,601                -
+    Other current assets                                              156,503                                                       -                 -          11,630
+                                                                                                                 3,573              -                 -        409,349
+        Total current assets                                                                                 105,791                                  -        290,899
+                                                                                                                             147,204                  -
+                                                                                                                                                      -          30,827
+Long-term investments:                                                                                 239  290,660              -                    -        321,726
+    Mortgage backed securities                                                                       4,431     6,371        20,025                    -        461,645
+    Other long-term investments                                                                      4,670                  20,025                    -
+        Total long-term investments                                                                         297,031                                   -          25,009
+                                                                                                                                                (27,228)            (897)
+Loans receivable:                                                     16,457                                104,494         340,694                   -
+    Mortgage loans                                                    25,009                                      -               -             (27,228)       485,757
+    Construction loans                                                                                                            -          $ (27,377)         (67,231)
+    Less allowance for possible losses                                   (217)                                  (680)                                          418,526
+        Loans receivable, net                                        41,249                                 103,814         340,694
+    Less current portion of loans receivable                         (20,817)                                               (39,790)                              7,243
+        Long term portion of loans receivable                         20,432                                  (6,624)       300,904                               3,823
+                                                                                                             97,190
+                                                                                                                                                                      -
+Other assets:                                                                                        7,243  -                  -                                  1,500
+    Mortgage loan servicing rights, net                                                              3,823  -                  -                                 12,566
+    Property and equipment, net                                      19,135                                 875             7,218                          $ 1,162,167
+    Interfund receivables                                                                            1,500  -                  -
+    Other                                                            31,701                                 875             7,218
+        Total other assets
+
+Total assets                                                         $213,306                               $500,887        $475,351
+
+(Continued)
+                                                                                                 30
+                                                      NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+                    SUPPLEMENTAL COMBINING SCHEDULE OF STATEMENT OF NET POSITION (CONTINUED)
+
+                                                      June 30, 2024
+
+                                                      (In thousands of dollars)
+
+                                                      General         Single Family              Multi-Family  Eliminations  Total
+                                                       Funds         Bond Programs             Bond Programs
+
+Liabilities                                           $ 1,000                    $ 10,620      $ 32,350        $ -           $ 43,970
+Current liabilities:                                            7                     8,723         7,105              -           15,835
+                                                                                         -             -               -           46,229
+    Current portion of bonds payable                     46,229                           66            83                         37,543
+    Accrued interest payable                             37,543                                                      (149)
+    Notes payable                                        84,779                     19,409        39,538             (149)       143,577
+    Current portion of accrued and other liabilities
+
+        Total current liabilities
+
+Long-term liabilities:                                    488                    409,542       399,669               -       809,699
+    Bonds payable, net of current portion              2,449                           -             -               -          2,449
+    Accrued and other liabilities                     16,067                                                   (27,228)            -
+    Interfund payables                                19,004                        4,415         6,746        (27,228)
+        Total long-term liabilities                                              413,957       406,415                       812,148
+
+Total liabilities                                     103,783                    433,366       445,953         (27,377)      955,725
+
+Net Position                                           3,823                          -             -          -             3,823
+Invested in capital assets, net of related debt       64,570                     57,817        29,398
+Restricted                                            41,130                                                   -             151,785
+Unrestricted                                                                      9,704             -
+                                                                                                               -             50,834
+
+Total net position                                    $109,523                   $ 67,521      $ 29,398        $ -           $ 206,442
+
+                                                                                                                             (Concluded)
+
+                                                      31
+                                    NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF REVENUE, EXPENSES AND CHANGES IN NET POSITION
+
+                                                       Year Ended June 30, 2024
+                                                         (In thousands of dollars)
+
+                                                          General       Single Family    Multi-Family  Eliminations  Total
+                                                           Funds       Bond Programs   Bond Programs
+
+Operating revenue:                                        $ 5,577      $ 6,215         $ 16,586        $ (117)       $ 28,261
+    Interest and fees on mortgage and construction loans       1,773          -               -                -          1,773
+        and loans held for sale                                7,939          -               -                           6,684
+    Gain on sale of loans and mortgage-backed securities       4,492                                      (1,255)
+    Servicing revenue                                                   14,924            5,063                -        24,479
+    Investment income, net                                   16,793           -               -                           8,064
+    Housing management fees                                126,883           -               -            (8,729)
+    Federal rental assistance programs                                        -               -                -      126,883
+    Grants and subsidies                                     97,827           -               -                -        97,827
+    Other                                                        716                                           -            716
+        Total operating revenue                                         21,139          21,649
+                                                           262,000                                       (10,101)     294,687
+Operating expenses:
+    Bond interest expense and debt financing costs                 72   12,826          12,461                 -        25,359
+    Administrative expenses                                  36,033          113              93          (8,729)       27,510
+    Loan origination expenses                                                                 -
+    Loan servicing expenses                                      804      3,622                                -          4,426
+    Federal rental assistance programs                        3,067          411             846          (1,255)        3,069
+    Grants and subsidies                                   126,966           -               -                        126,966
+    Other                                                    81,262                          -                 -        85,153
+        Total operating expenses                                          4,008              124             (117)
+                                                                 133          -         13,524                              257
+Change in net position                                     248,337                                             -      272,740
+                                                                        20,980            8,125          (10,101)
+Net position, beginning of year                              13,663                                                     21,947
+Interfund transfers, net                                                     159        21,273                 -
+                                                           100,833                            -                       184,495
+Net position, end of year                                     (4,973)   62,389                                 -             -
+                                                                          4,973        $ 29,398                -
+                                                          $109,523                                                   $206,442
+                                                                       $ 67,521                        $ -
+
+                                                          32
+NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS
+
+                                                                    Year Ended June 30, 2024
+
+                                                                    (In thousands of dollars)
+
+Cash flows from operating activities:                               General        Single Family               Multi-Family     Eliminations     Total
+    Loan repayments received                                         Funds        Bond Programs              Bond Programs         $ -        $ 49,982
+    Loan interest income and servicing revenue received                                                                              (1,372)
+    Proceeds from sale of loans and mortgage-backed securities      $ 20,926                   $ 11,968          $ 17,088                 -       23,490
+    Federal rental assistance program receipts                            7,330                      6,326           11,206               -      331,315
+    Grants and subsidies receipts                                                                       -                 -               -      126,883
+    Other receipts                                                     331,315                          -                 -          (8,729)
+    Loan disbursements                                                 126,883                          -                 -               -       97,827
+    Purchase of loan servicing rights                                                                6,376             1,092              -       56,199
+    Payments to vendors                                                 97,827                          -           (97,450)          8,729     (448,540)
+    Payments to employees                                               57,460                          -                 -               -        (2,031)
+    Federal rental assistance program disbursements                   (351,090)                       (113)              (217)            -      (15,232)
+    Grants and subsidies disbursements                                   (2,031)                        -                 -              117     (13,403)
+    Other disbursements                                                (23,631)                         -                 -           1,255    (126,966)
+        Net cash provided by (used for) operating activities           (13,403)                     (4,008)               -               -      (85,153)
+                                                                     (126,966)                                        (6,719)                    (75,799)
+Cash flows from noncapital financing activities:                       (81,262)                   (11,062)          (75,000)                     (81,428)
+    Proceeds from issuance of bonds                                    (59,273)                      9,487
+    Principal repayment of bonds                                       (15,915)
+    Proceeds from notes payable
+    Repayment of notes payable                                            656                  271,534          129,535         -             401,725
+    Interest paid                                                          -                   (14,285)           (7,155)       -             (21,440)
+        Net cash provided by noncapital financing activities         344,762                                          -         -             344,762
+                                                                    (329,287)                        -                -         -             (329,287)
+Cash flows from capital and related financing activities:                  (65)                      -            (9,961)       -             (17,330)
+    Additions to property and equipment                               16,066                     (7,304)                        -             378,430
+        Net cash used for capital and related financing activities                             249,945          112,419
+
+Cash flows from investing activities:                                   (103)                  -                -               -             (103)
+    Purchase of investment securities                                   (103)                  -                -               -             (103)
+    Proceeds from sale and maturities of investment securities
+    Investment income received                                        (155,366)                  (420,807)      (136,826)              -         (712,999)
+        Net cash provided by (used for) investing activities           153,892                    149,633         96,329               -          399,854
+                                                                                                                    3,078              -
+Net increase in cash and cash equivalents                                 2,425                    11,892        (37,419)             -            17,395
+Cash and cash equivalents, beginning of year                                951                 (259,282)                             -          (295,750)
+Cash and cash equivalents, end of year                                      999                                 -                      -
+                                                                                                       150                      $ -                  1,149
+                                                                        16,108                         360      -                                  16,468
+                                                                    $ 17,107                   $ 510                                           $ 17,617
+                                                                                                             $  -                             (Continued)
+
+                                                                    33
+                                                      NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS (CONTINUED)
+
+                                                      Year Ended June 30, 2024
+
+                                                      (In thousands of dollars)
+
+                                                                                   General       Single Family     Multi-Family    Eliminations Total
+                                                                                    Funds       Bond Programs    Bond Programs
+Reconciliation of change in net position to net cash                                                                               $ -         $ 21,947
+    provided by (used for) operating activities:                                  $ 13,663          $ 159            $ 8,125
+        Change in net position                                                                                                     -           1,769
+        Adjustments to reconcile change in net position to net                          1,769                -                -
+            cash provided by (used for) operating activities:                          (2,031)               -                -    -           (2,031)
+                Amortization of servicing rights                                                             -                -
+                Mortgage loan servicing rights capitalized                                430                -            (4,982)  -           430
+                Depreciation of property and equipment                                 (6,218)         (14,924)           (5,063)
+                Loan interest income converted to loan principal/Owner's  equity       (4,492)          12,826           12,461    -           (11,200)
+                Investment income, net
+                Bond interest expense and debt financing costs                              72                                     -           (24,479)
+
+                                                                                                                                   -           25,359
+
+Changes in operating assets and liabilities:                                       (1,396)      12,015              (80,363)              -       (69,744)
+    Loans receivable                                                                   944           -                    -              -             944
+    Loans held for sale                                                               (138)          64                                  -            (471)
+    Accrued interest - loans                                                                                            (397)           (149)
+    Other assets                                                                   36,010       (2,172)              (5,871)             149       27,818
+    Accrued and other liabilities                                                 (49,545)      (3,464)               1,090               -       (51,770)
+    Interfund transfers                                                                          4,983
+                                                                                   (4,983)                                -        $ -                  -
+
+Net cash provided by (used for) operating activities                              $ (15,915)    $ 9,487          $ (75,000)                    $ (81,428)
+
+Supplemental disclosures of noncash information:                                  $ 1,374       $ 143            $  -              $ -          $ 1,517
+    Real estate acquired through foreclosure                                                                                                   (Concluded)
+
+                                                                                  34
+                                              NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF STATEMENT OF NET POSITION - SINGLE FAMILY BOND PROGRAMS
+
+                                                                         June 30, 2024
+                                                                  (In thousands of dollars)
+
+                                                                                                     1995         2009      2022   Total
+
+Assets                                                                                               $ 110        $ 400 $ -        $ 510
+Current assets:                                                                                         38,306                        93,156
+                                                                                                              71  3,568 51,282            910
+   Cash and cash equivalents                                                                              6,154                         6,624
+   Short-term investments                                                                                   886   -         839           975
+   Accrued interest receivable on investments                                                                 74                            43
+   Current portion of mortgage loans receivable                                                             510   470       -           3,573
+   Accrued interest receivable on mortgage loans                                                        46,111
+   Real estate owned, net                                                                                         89        -       105,791
+   Other current assets
+                                                                                                                  (31)      -
+       Total current assets
+                                                                                                                  76        2,987
+Long-term investments:
+   Mortgage backed securities                                                                                     4,572 55,108
+   Other long-term investments
+       Total long-term investments                                                                     151        -         290,509 290,660
+                                                                                                     6,371
+Loans receivable:                                                                                    6,522        -         -      6,371
+   Mortgage loans
+   Less allowance for possible losses                                                                             -         290,509 297,031
+       Loans receivable, net
+   Less current portion of loans receivable                                                          93,622       10,872     -     104,494
+       Long term portion of loans receivable                                                            (144)         (36)  (500)      (680)
+                                                                                                                            (500)
+Other assets:                                                                                        93,478       10,836           103,814
+   Interfund receivables                                                                             (6,154)         (470)   -       (6,624)
+                                                                                                     87,324                 (500)   97,190
+       Total other assets                                                                                         10,366
+
+Total assets                                                                                         840          -         35     875
+
+                                                                                                 35  840          -         35     875
+
+                                                                                                     $140,797 $ 14,938 $345,152 $500,887
+
+                                                                                                                                  (Continued)
+                                                        NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF STATEMENT OF NET POSITION - SINGLE FAMILY BOND PROGRAMS (CONTINUED)
+
+                                                                                   June 30, 2024
+                                                                             (In thousands of dollars)
+
+                                                         1995         2009     2022      Total
+
+Liabilities                                              $ 7,355 $    110 $ 3,155 $ 10,620
+Current liabilities:                                          1,228
+                                                                  59  229      7,266     8,723
+   Current portion of bonds payable
+   Accrued interest payable                                   8,642   7        -                        66
+   Current portion of accrued and other liabilities
+                                                                      346 10,421 19,409
+       Total current liabilities
+                                                         68,382       12,498   328,662   409,542
+Long-term liabilities:                                    2,971           529       915     4,415
+   Bonds payable, net of current portion
+   Interfund payables                                    71,353       13,027   329,577   413,957
+
+       Total long-term liabilities                       79,995       13,373   339,998   433,366
+
+Total liabilities                                        51,498       1,165    5,154     57,817
+                                                          9,304         400       -       9,704
+Net Position
+Restricted                                               $ 60,802 $ 1,565 $ 5,154 $ 67,521
+Unrestricted
+
+Total net position
+
+                                                                                  (Concluded)
+
+                                                     36
+                                      NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+SUPPLEMENTAL COMBINING SCHEDULE OF REVENUE, EXPENSES AND CHANGES IN NET POSITION -
+                                                 SINGLE FAMILY BOND PROGRAMS
+
+                                                         Year Ended June 30, 2024
+
+                                                          (In thousands of dollars)
+
+                                                             1995 2009    2022           Total
+
+Operating revenue:                                           $ 5,649 $ 566 $ - $ 6,215
+   Interest and fees on mortgage and construction loans
+   Investment income, net                                    1,096   150 13,678 14,924
+
+       Total operating revenue                               6,745   716 13,678 21,139
+
+Operating expenses:                                          2,532   472 9,822 12,826
+   Bond interest expense and debt financing costs                53
+   Administrative expenses                                      -    16              44  113
+   Loan origination expenses
+   Loan servicing expenses                                     369   -    3,622 3,622
+   Provision for loan losses                                    -
+   Grants and subsidies                                         -    42              -   411
+
+       Total operating expense                                       -               -   -
+
+Change in net position                                               -    4,008 4,008
+
+Net position, beginning of year                              2,954   530 17,496 20,980
+Interfund transfers, net
+                                                             3,791   186 (3,818)         159
+Net position, end of year
+                                                             57,416  979 3,994 62,389
+
+                                                             (405)   400  4,978          4,973
+
+                                                             $ 60,802 $ 1,565 $ 5,154 $ 67,521
+
+                                                         37
+                                 NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS - SINGLE FAMILY BOND PROGRAMS
+
+                                                    Year Ended June 30, 2024
+                                                     (In thousands of dollars)
+
+                                                                                                     1995      2009      2022       Total
+
+Cash flows from operating activities:                                                                $ 10,836 $ 1,132 $  - $ 11,968
+   Loan repayments received
+   Loan interest income received                                                                     5,753     573       -          6,326
+   Other receipts
+   Payments to vendors                                                                               210       410       5,756      6,376
+   Grants and subsidies disbursements
+   Other disbursements                                                                               (53)      (16)      (44)       (113)
+
+       Net cash provided by (used for) operating activities                                          -         -         (4,008)    (4,008)
+
+Cash flows from noncapital financing activities:                                                     (5,015)   (71)      (5,976) (11,062)
+   Proceeds from issuance of bonds
+   Principal repayment of bonds                                                                      11,731 2,028        (4,272)    9,487
+   Interest paid
+                                                                                                           -       -     271,534    271,534
+       Net cash provided by (used for) noncapital financing activities                               (10,730)  (2,310)     (1,245)  (14,285)
+                                                                                                                           (4,055)
+Cash flows from investing activities:                                                                 (2,729)    (520)                (7,304)
+   Purchase of investment securities                                                                                     266,234
+   Proceeds from sale and maturities of investment securities                                        (13,459)  (2,830)              249,945
+   Investment income received
+                                                                                                     (14,989)  (2,447)   (403,371)  (420,807)
+       Net cash provided by (used for) investing activities                                           15,517    3,509     130,607    149,633
+
+Net increase (decrease) in cash and cash equivalents                                                      957     133      10,802     11,892
+
+Cash and cash equivalents, beginning of year                                                         1,485 1,195 (261,962) (259,282)
+
+Cash and cash equivalents, end of year                                                               (243)     393       -          150
+
+                                                                                                 38  353          7      -          360
+
+                                                                                                     $ 110 $ 400 $       - $ 510
+
+                                                                                                                                (Continued)
+                                           NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS - SINGLE FAMILY BOND PROGRAMS (CONTINUED)
+
+                                                              Year Ended June 30, 2024
+                                                                (In thousands of dollars)
+
+                                                                         1995     2009     2022      Total
+
+Reconciliation of change in net position to net cash                     $ 3,791 $ 186 $ (3,818) $ 159
+   provided by operating activities:
+       Change in net position                                            (1,096)  (150)    (13,678)  (14,924)
+       Adjustments to reconcile change in net position                   2,532    472        9,822   12,826
+           to net cash provided by (used for) operating activities:
+              Investment income (loss), net                              10,883   1,132        -     12,015
+              Bond interest expense and debt financing costs                  57       7       -          64
+       Changes in operating assets and liabilities:                                        (2,348)
+           Loans receivable                                                  205     (29)     767    (2,172)
+           Accrued interest - loans                                      (4,641)    410     4,983    (3,464)
+           Other assets                                                              -                4,983
+           Accrued and other liabilities                                      -
+           Interfund transfers
+                                                                         $ 11,731 $ 2,028 $ (4,272) $ 9,487
+Net cash provided by (used for) operating activities
+                                                                         $ 143 $ - $       - $ 143
+Supplemental disclosures of noncash information:                                              (Concluded)
+   Real estate acquired through foreclosure
+
+                                                                     39
+                                             NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF STATEMENT OF NET POSITION - MULTI-FAMILY BOND PROGRAMS
+
+                                                                        June 30, 2024
+                                                                 (In thousands of dollars)
+
+                                                          2008-2013 2017-2024 Total
+
+Assets                                                    $1,521    $ 103,683               $ 105,204
+Current assets:                                                  2          607                     609
+
+    Short-term investments                                     98       39,692                  39,790
+    Accrued interest receivable on investments                 38         1,563                   1,601
+    Current portion of mortgage loans receivable           1,659
+    Accrued interest receivable on mortgage loans                     145,545                 147,204
+                                                               -
+         Total current assets                                  -    20,025                  20,025
+Long-term investments:                                              20,025                  20,025
+                                                           6,751
+    Other long-term investments                               (98)  333,943                 340,694
+         Total long-term investments                                (39,692)                (39,790)
+                                                           6,653    294,251                 300,904
+Loans receivable:
+    Mortgage loans                                             45   7,173                   7,218
+    Less current portion of loans receivable                   45   7,173                   7,218
+         Long term portion of loans receivable
+                                                           8,357    466,994 475,351
+Other assets:
+    Interfund receivables                                   125      32,225                  32,350
+         Total other assets                                 171        6,934                   7,105
+                                                             -             83                      83
+Total assets                                                296
+                                                                     39,242                  39,538
+Liabilities                                               6,687
+Current liabilities:                                        311     392,982                 399,669
+                                                                       6,435                   6,746
+    Current portion of bonds payable                      6,998
+    Accrued interest payable                                        399,417                 406,415
+    Current portion of accrued and other liabilities      7,294
+                                                                    438,659                 445,953
+         Total current liabilities
+Long-term liabilities:                                    $1,063 $ 28,335 $ 29,398
+
+    Bonds payable, net of current portion
+    Interfund payables
+
+         Total long-term liabilities
+
+Total liabilities
+
+Net Position
+
+Total net position - restricted
+
+                                                      40
+                                      NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+
+SUPPLEMENTAL COMBINING SCHEDULE OF REVENUE, EXPENSES AND CHANGES IN NET POSITION -
+                                                  MULTI-FAMILY BOND PROGRAMS
+
+                                                         Year Ended June 30, 2024
+
+                                                          (In thousands of dollars)
+
+                                                       2008-2013   2017-2024 Total
+
+Operating revenue:                                      $ 454      $ 16,132          $ 16,586
+   Interest and fees on mortgage loans                         57      5,006             5,063
+   Investment income, net
+                                                              511  21,138 21,649
+       Total operating revenue
+                                                            345      12,116            12,461
+Operating expenses:                                           11           82                93
+   Bond interest expense and debt financing costs            -
+   Administrative expenses                                    16         846               846
+   Loan servicing expenses                                               108               124
+   Other                                                    372
+                                                                     13,152            13,524
+       Total operating expenses                             139
+                                                                       7,986             8,125
+Change in net position                                      924
+                                                                     20,349            21,273
+Net position, beginning of year                        $ 1,063
+                                                                   $ 28,335          $ 29,398
+Net position, end of year
+
+                                                   41
+                                NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS - MULTI-FAMILY BOND PROGRAMS
+
+                                                   Year Ended June 30, 2024
+                                                     (In thousands of dollars)
+
+                                                                                                     2008-2013 2017-2024 Total
+
+Cash flows from operating activities:                                                                $ 92      $ 16,996 $ 17,088
+   Loan repayments received                                                                            453
+   Loan interest income received                                                                         23       10,753     11,206
+   Other receipts                                                                                       -
+   Loan disbursements                                                                                   (27)      1,069      1,092
+   Payments to vendors                                                                                    (3)
+   Other disbursements                                                                                            (97,450) (97,450)
+
+       Net cash provided by (used for) operating activities                                                       (190)      (217)
+
+Cash flows from noncapital financing activities:                                                                  (6,716)    (6,719)
+   Proceeds from issuance of bonds
+   Principal repayment of bonds                                                                      538          (75,538) (75,000)
+   Interest paid
+                                                                                                      -           129,535    129,535
+       Net cash provided by (used for) noncapital financing activities                               (120)          (7,035)    (7,155)
+                                                                                                     (346)          (9,615)    (9,961)
+Cash flows from investing activities:
+   Purchase of investment securities                                                                 (466)        112,885    112,419
+   Proceeds from sale and maturities of investment securities
+   Investment income received                                                                         (600)       (136,226)  (136,826)
+                                                                                                       471          95,858     96,329
+       Net cash used for investing activities                                                                         3,021      3,078
+                                                                                                         57
+Net change in cash and cash equivalents                                                                           (37,347) (37,419)
+Cash and cash equivalents, beginning of year                                                            (72)
+                                                                                                                  -          -
+Cash and cash equivalents, end of year                                                                  -
+                                                                                                        -         -          -
+                                                                                                 42
+                                                                                                     $ -       $  - $        -
+
+                                                                                                                          (Continued)
+                                          NEW HAMPSHIRE HOUSING FINANCE AUTHORITY
+SUPPLEMENTAL COMBINING SCHEDULE OF CASH FLOWS - MULTI-FAMILY BOND PROGRAMS (CONTINUED)
+
+                                                             Year Ended June 30, 2024
+                                                               (In thousands of dollars)
+
+                                                                    2008-2013 2017-2024 Total
+
+Reconciliation of change in net position to net cash                $ 139 $ 7,986 $ 8,125
+   provided by (used for) operating activities:
+       Change in net position                                          -      (4,982)     (4,982)
+       Adjustments to reconcile change in net position to net          (57)   (5,006)     (5,063)
+           cash provided by (used for) operating activities:          345     12,116      12,461
+              Loan interest income converted to loan principal
+              Investment income, net                                    91    (80,454)    (80,363)
+              Bond interest expense and debt financing costs           -          (397)       (397)
+       Changes in operating assets and liabilities:
+           Loans receivable                                              (1)   (5,870)     (5,871)
+           Accrued interest - loans                                     21      1,069       1,090
+           Other assets
+           Accrued and other liabilities                            $ 538     $ (75,538) $ (75,000)
+
+Net cash provided by (used for) operating activities
+
+                                                                                          (Concluded)
+
+                                                                43
+

@@ -1,0 +1,2359 @@
+MISSOURI HOUSING
+DEVELOPMENT COMMISSION
+INDEPENDENT AUDITORS’ REPORT
+AND FINANCIAL STATEMENTS
+FISCAL YEAR ENDED
+JUNE 30, 2025
+Contents
+Page
+Independent Auditors’ Report ...................................................... 1 - 4
+Management’s Discussion and Analysis ................................... 5 - 14
+Financial Statements
+Statement of Net Position .......................................................... 15 - 16
+Statement of Revenues, Expenses and
+Changes in Net Position .................................................................1 7
+Statement of Cash Flows ............................................................ 18 - 19
+Statement of Fiduciary Net Position ................................................. 20
+Statement of Changes in Fiduciary Net Position .............................. 21
+Notes to Financial Statements ................................................... 22 - 62
+Required Supplementary Information
+Schedules of Selected Pension Information ....................................... 63
+Schedules of Selected Other Postemployment
+Benefit Information ........................................................................6 4
+Supplementary Information
+Combining Statement of Net Position........................................ 65 - 66
+Multifamily Bond-Financed Programs .................................... 67
+Single Family Bond-Financed Programs ................................ 68
+Combining Statement of Revenues, Expenses and
+Changes in Net Position ................................................................6 9
+Multifamily Bond-Financed Programs .................................... 70
+Single Family Bond-Financed Programs ................................ 71
+Independent Auditors’ Report
+Commissioners
+Missouri Housing Development Commission
+Kansas City, Missouri
+Opinion
+We have audited the accompanying financial statements of the business-type activities
+and the aggregate remaining fund information of the Missouri Housing Development
+Commission, as of and for the year ended June 30, 2025, and the related notes to the
+financial statements, which collectively comprise the Missouri Housing Development
+Commission’s basic financial statements as listed in the table of contents.
+In our opinion, the accompanying financial statements present fairly, in all material
+respects, the respective financial position of the business-type activities and the
+aggregate remaining fund information of the Missouri Housing Development
+Commission as of June 30, 2025, and the respective changes in financial position and,
+where applicable, cash flows thereof for the year then ended in accordance with
+accounting principles generally accepted in the United States of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in
+the United States of America (GAAS). Our responsibilities under those standards are
+further described in the Auditors’ Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of Missouri
+Housing Development Commission and to meet our other ethical responsibilities, in
+accordance with the relevant ethical requirements relating to our audit. We believe that
+the audit evidence we have obtained is sufficient and appropriate to provide a basis for
+our audit opinions.
+Emphasis of Matter
+As discussed in Note 1 to the financial statements, as of July 1, 2024, the Missouri
+Housing Development Commission adopted Governmental Accounting Standards Board
+Statement No. 100, Accounting Changes and Error Corrections and Statement No. 101,
+Compensated Absences. Our opinions are not modified with respect to these matters.
+The Commissioners
+Missouri Housing Development Commission
+Responsibilities of Management for the Financial Statements
+Missouri Housing Development Commission’s management is responsible for the
+preparation and fair presentation of the financial statements in accordance with
+accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the
+preparation and fair presentation of financial statements that are free from material
+misstatement, whether due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether
+there are conditions or events, considered in the aggregate, that raise substantial doubt
+about Missouri Housing Development Commission’s ability to continue as a going
+concern for 12 months beyond the financial statement date, including any currently
+known information that may raise substantial doubt shortly thereafter.
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial
+statements as a whole are free from material misstatement, whether due to fraud or
+error, and to issue an auditors’ report that includes our opinion. Reasonable assurance
+is a high level of assurance but is not absolute assurance and therefore is not a
+guarantee that an audit conducted in accordance with GAAS will always detect a
+material misstatement when it exists. The risk of not detecting a material
+misstatement resulting from fraud is higher than for one resulting from error, as fraud
+may involve collusion, forgery, intentional omissions, misrepresentations, or the
+override of internal control. Misstatements are considered material if there is a
+substantial likelihood that, individually or in the aggregate, they would influence the
+judgment made by a reasonable user based on the financial statements. In performing
+an audit in accordance with GAAS, we:
+• Exercise professional judgment and maintain professional skepticism throughout
+the audit.
+• Identify and assess the risks of material misstatement of the financial
+statements, whether due to fraud or error, and design and perform audit
+procedures responsive to those risks. Such procedures include examining, on a
+test basis, evidence regarding the amounts and disclosures in the financial
+statements.
+• Obtain an understanding of internal control relevant to the audit in order to
+design audit procedures that are appropriate in the circumstances, but not for
+the purpose of expressing an opinion on the effectiveness of Missouri Housing
+Development Commission’s internal control. Accordingly, no such opinion is
+expressed.
+Page 2
+The Commissioners
+Missouri Housing Development Commission
+• Evaluate the appropriateness of accounting policies used and the reasonableness
+of significant accounting estimates made by management, as well as evaluate the
+overall presentation of the financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in
+the aggregate, that raise substantial doubt about Missouri Housing Development
+Commission’s ability to continue as a going concern for a reasonable period of
+time.
+We are required to communicate with those charged with governance regarding, among
+other matters, the planned scope and timing of the audit, significant audit findings, and
+certain internal control related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that
+the management’s discussion and analysis, schedules of Commission’s proportionate
+share of the net pension and OPEB liability and schedules of Commission’s
+contributions on pages 5 through 14 and 63 and 64 be presented to supplement the
+basic financial statements. Such information is the responsibility of management and,
+although not a part of the basic financial statements, is required by the Governmental
+Accounting Standards Board who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational,
+economic or historical context. We have applied certain limited procedures to the
+required supplementary information in accordance with auditing standards generally
+accepted in the United States of America, which consisted of inquires of management
+about the methods of preparing the information and comparing the information for
+consistency with management’s responses to our inquires, the basic financial
+statements, and other knowledge we obtained during our audit of the basic financial
+statements. We do not express an opinion or provide any assurance on the information
+because the limited procedures do not provide us with sufficient evidence to express an
+opinion or provide any assurance.
+Page 3
+The Commissioners
+Missouri Housing Development Commission
+Supplementary Information
+Our audit was conducted for the purpose of forming opinions on the financial
+statements that collectively comprise the Missouri Housing Development Commission’s
+basic financial statements. The accompanying supplementary information, which
+includes the combining statement of net position; combining statement of net position
+multifamily bond-financed programs; combining statement of net position single family
+bond-financed programs; combining statement of revenues, expenses and changes in net
+position; combining statement of revenues, expenses and changes in net position
+multifamily bond-financed programs; and the combining statement of revenues,
+expenses and changes in net position single family bond-financed programs, as listed in
+the table of contents, are presented for purposes of additional analysis and are not a
+required part of the basic financial statements.
+The supplementary information is the responsibility of management and was derived
+from and relates directly to the underlying accounting and other records used to
+prepare the basic financial statements. Such information has been subjected to the
+auditing procedures applied in the audit of the basic financial statements and certain
+additional procedures, including comparing and reconciling such information directly to
+the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional
+procedures in accordance with auditing standards generally accepted in the United
+States of America. In our opinion, this supplementary information is fairly stated in all
+material respects in relation to the basic financial statements taken as a whole.
+September 25, 2025
+Page 4
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+For The Year Ended June 30, 2025
+Management’s discussion and analysis provides an overview of the financial activities of
+the Missouri Housing Development Commission (Commission) and its financial
+performance for the fiscal year ended June 30, 2025. Please read it in conjunction with
+the Commission’s financial statements and accompanying notes.
+Introduction - Missouri Housing Development Commission
+The Missouri Housing Development Commission was established by the 75th Missouri
+General Assembly in 1969 and is the housing finance agency for the state of Missouri
+(State). The Commission is a self-sustaining organization and does not draw upon the
+general taxing authority of the State. The Commission secures resources through the
+sale of bonds and notes and through the sale of mortgage assets, for the purposes of
+financing owner-occupied residential mortgage loans for lower and moderate-income
+persons and providing construction and long-term financing for rental developments to
+be occupied by lower and moderate-income persons. The Commission’s net position is
+also a source of funding for such loans and other housing-related programs.
+The Commission manages other programs related to its housing finance activities,
+including administering the Missouri Housing Trust Fund, the Missouri Affordable
+Housing Assistance Program and the housing tax credits for the State. The Commission
+also administers federal and other assistance programs, including the HOME Investment
+Partnerships Program (HOME), Housing Trust Fund and the Project-Based Section 8
+program, which provides rental subsidies.
+Overview of the Financial Statements
+This annual financial report consists of three parts: management’s discussion and
+analysis; the basic financial statements, including notes to the financial statements; and
+required and other supplementary information. The basic financial statements include
+the statement of net position, the statement of revenues, expenses, and changes in net
+position, and the statement of cash flows. The Commission is a self-supporting entity and
+follows enterprise fund reporting, using the accrual basis of accounting. Enterprise fund
+statements offer short and long-term financial information about the activities and
+operations of the Commission.
+Page 5
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+Financial Highlights
+The following financial highlights provide important aspects regarding the Commission’s
+financial activities and operations, with additional discussion provided in this discussion
+and analysis. This information should be considered in conjunction with the detail
+provided in the financial statements, accompanying notes and supplementary
+information.
+Fiscal Year Ended June 30, 2025
+• Total assets were $3.2 billion, an increase of 29.7% from June 30, 2024. Excluding
+net unrealized losses, total assets were $3.4 billion, an increase of 27.2% from June
+30, 2024. The increase reflects significant growth in homeownership bond-financed
+assets, including mortgage-backed securities, resulting from robust single family
+mortgage lending financed primarily with tax-exempt mortgage revenue bonds.
+• Fiscal year 2025 mortgage investment purchases and originations totaled
+$934.6 million as compared to $536.2 million in fiscal year 2024. These purchases
+include $890.6 million of homeownership program mortgage-backed securities in
+fiscal year 2025 as compared to $513.8 million in fiscal year 2024. Principal
+repayments on mortgage assets totaled $165.6 million in fiscal year 2025 as compared
+to $135.0 million in fiscal year 2024.
+• Single family mortgage revenue bonds issued totaled $782.0 million in fiscal year
+2025 and totaled $540.0 million in fiscal year 2024.
+• Total revenues were $364.8 million in fiscal year 2025. Excluding the net change in
+fair value of investments, total revenues decreased 4.9% to $358.4 million in fiscal
+year 2025. Revenues from federal assistance programs decreased 21.2% to $219.3
+million in fiscal year 2025 as compared to $278.1 million in fiscal year 2024. This
+decrease was primarily due to a decrease in funds administered in accordance with
+the Consolidated Appropriations Act and the American Rescue Plan Act.
+• Net operating income, excluding the net change in fair value of investments, was
+$37.0 million in fiscal year 2025 as compared to $22.9 million in fiscal year 2024.
+Excluding federal and other assistance programs and the net change in fair value of
+investments, net operating income was $25.4 million in fiscal year 2025 as compared
+to $19.0 million in fiscal year 2024.
+• Net position increased $43.4 million as of June 30, 2025. Excluding the change in
+fair value of investments, net position increased $33.5 million (3.9%) as of June 30,
+2025.
+Page 6
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The Commission has maintained a general obligation issuer credit rating from Standard
+and Poor’s Ratings Services of AA+ with a stable outlook. This rating was affirmed
+December 31, 2024.
+The Commission implemented GASB Statement No. 101, Compensated Absences. This
+statement provides recognition and measurement guidance for compensated absences,
+and also refines the related disclosure requirements. As a result of the implementation,
+the financial information as of June 30, 2024 was restated to recognize accrued
+compensated absences, reducing unrestricted net position by $743,000.
+Financial Position
+The following table summarizes the Commission’s current, restricted and noncurrent
+assets, deferred outflows of resources, liabilities and deferred inflows of resources. The
+table also displays restricted and unrestricted net position as of June 30, 2025 and 2024.
+Condensed Summary of Net Position (In Thousands)
+June 30, $ change
+2025 2024 2025 - 2024
+Assets
+Current assets $ 37,709 $ 49,185 $ (11,476)
+Restricted cash and cash equivalents 154,134 199,977 (45,843)
+Restricted investments 111,775 103,982 7,793
+Restricted mortgage investments 2,550,729 1,820,267 730,462
+Other restricted assets 10,808 7,539 3,269
+Noncurrent investments and mortgage investments 318,318 270,073 48,245
+Capital assets 2,763 2,724 39
+Lease and subscription assets 6,315 7,382 (1,067)
+Total Assets 3,192,551 2,461,129 731,422
+Deferred Outflows of
+Resources 10,377 12,896 (2,519)
+Liabilities
+Current liabilities 47,954 22,592 25,362
+Current liabilities - payable from
+restricted assets 61,809 58,433 3,376
+Long-term bonds and notes payable 2,326,045 1,670,451 655,594
+Other 55,726 54,795 931
+Total Liabilities 2,491,534 1,806,271 685,263
+Deferred Inflows of
+Resources 3,387 3,165 222
+Net Position
+Net investment in capital assets 2,112 2,602 (490)
+Restricted 439,405 402,664 36,741
+Unrestricted 266,490 259,323 7,167
+Total Net Position $ 708,007 $ 664,589 $ 43,418
+Page 7
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The cost-basis of assets totaled $3.4 billion and $2.7 billion at June 30, 2025 and 2024,
+respectively. Mortgage-backed securities financed for the Commission’s single family
+mortgage programs increased $755.1 million during the year and totaled $2.3 billion as
+reported at June 30, 2025.
+Investments
+Investments consist of U.S. government and agency fixed rate securities. The
+Commission’s investment policy emphasizes preservation of principal. At June 30, 2025,
+the Commission had $341.3 million in investments, at cost, as compared to $329.8 million
+at June 30, 2024.
+Mortgage Investments
+The Commission’s mortgage investments, at cost, increased 36.1% during fiscal year
+2025. Mortgage investments, as reported, comprised 83.9% of the Commission’s total
+assets at June 30, 2025 as compared to 77.9% at June 30, 2024. Government National
+Mortgage Association (GNMA), Federal National Mortgage Association (Fannie Mae) and
+Federal Home Loan Mortgage Corporation (Freddie Mac) mortgage-backed securities
+(MBS) comprise 85.3% of the Commission’s mortgage investments at June 30, 2025
+compared to 79.9% at June 30, 2024. In fiscal year 2025 new loans totaled $934.6 million,
+with mortgage payment and prepayment activity and change in fair value resulting in a
+net increase of $763.0 million in the mortgage investment portfolio, as reported.
+Excluding unrealized net losses, the Commission’s mortgage investments increased
+$763.3 million in fiscal year 2025. The Commission’s loan portfolio is low-risk, with all of
+the bond-financed homeownership loan investment portfolio being GNMA, Fannie Mae
+and Freddie Mac MBS and its bond-financed multifamily loan portfolio backed by Federal
+Housing Administration (FHA) insurance, including Risk-Share loans. The
+Commission’s loan loss reserve was 9.0% of total mortgage assets, excluding MBS, at
+June 30, 2025 and 9.3% at June 30, 2024 which is allocated to uninsured loans, Risk-
+Share loans and related accrued interest on such loans.
+Page 8
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The composition of mortgage investments among operating fund loans, multifamily bond-
+financed programs and single family bond-financed programs at June 30, 2025 and 2024
+is depicted in the following chart:
+$3,500,000
+$3,000,000
+$2,500,000
+$2,000,000
+$1,500,000
+$1,000,000
+$500,000
+$-
+June 30, 2025 June 30, 2024
+The Commission had significant growth in its bond-financed single family mortgage
+programs in fiscal year 2025. Mortgage-backed securities purchased totaled $890.6
+million and $513.8 million in fiscal years 2025 and 2024, respectively. This accelerated
+growth resulted from robust lending in the Commission’s First Place homebuyer
+mortgage program financed with tax-exempt mortgage revenue bonds.
+The Commission provides financing for single family mortgages eligible for GNMA,
+Fannie Mae, and Freddie Mac securitization. The Commission currently provides eligible
+homebuyers with mortgage loans financed by the Commission’s first-time homebuyer
+bond programs (First Place loans) for which the MBS are initially purchased for the
+Commission’s warehouse funded by short-term FHLB advances or net position and
+ultimately financed by the proceeds of tax-exempt bonds issued by the Commission. In
+addition, the Commission finances eligible homebuyers, including non-first-time
+homebuyers, with mortgage loans (Next Step program) financed with proceeds provided
+by the Commission’s issuance of taxable bonds.
+Page 9
+$
+sdnasuohT
+nI
+Mortgage Investments
+Single Family Multifamily Operating Fund
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The Commission’s operating fund mortgage investments include mortgage-backed
+securities and loans financed with Commission resources (net position). These mortgage
+investments total $169.9 million at June 30, 2025, as compared to $137.1 million at June
+30, 2024. The operating fund mortgage investments also include loans financed by the
+federal HOME program totaling $239.7 million at June 30, 2025, as compared to $232.6
+million at June 30, 2024. In addition, the operating fund loans at June 30, 2025 include
+$25.9 million in loans financed by the federal Tax Credit Assistance Program (TCAP), as
+compared to $26.1 million at June 30, 2024.
+The Commission’s multifamily loan portfolio includes FHA-insured Risk-Share mortgage
+loans, in which the Commission participates in 50% of the insured risk. These loans
+totaled $31.2 million at June 30, 2025 and $36.3 million at June 30, 2024.
+Debt
+The Commission had $2.4 billion and $1.7 billion in bonds and notes outstanding at
+June 30, 2025 and 2024, respectively. Bonds and notes include short-term FHLB
+advances used to fund the Commission’s warehousing of First Place homeownership
+program mortgage-backed securities in advance of selling mortgage revenue bonds. The
+short-term FHLB advances included financings of $496.1 million during fiscal year 2025,
+including rollover financings of 237.9 million. There was an advance totaling $25.2
+million outstanding at June 30, 2025 and no advances outstanding at June 30, 2024.
+During fiscal year 2025, new debt issued included seven single family mortgage revenue
+bond series which totaled $782.0 million. During fiscal year 2024, new debt issued
+included seven single family mortgage revenue bond series which totaled $540.0 million.
+The Commission’s single family and multifamily housing bonds are rated AA+ with a
+stable outlook by Standard and Poor’s. For additional information, see Note 5, Bonds
+Payable and Long-Term Obligations, in the Notes to Financial Statements.
+Page 10
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+Net Position
+The Commission continues to demonstrate a strong financial position. Net position,
+excluding unrealized gains and losses, was $889.8 million at June 30, 2025 and $856.2
+million at June 30, 2024, representing growth of 3.9% in fiscal year 2025. A significant
+portion of the Commission’s net position is restricted by bond indentures, grant
+agreements and other legal requirements. Restricted net position totaled $439.4 million
+at June 30, 2025 compared to $402.7 million at June 30, 2024. In addition, the
+Commission has designated certain unrestricted net position for its affordable housing
+programs. The amounts designated were $249.3 million at June 30, 2025 and $245.4
+million at June 30, 2024. Net position provides liquidity and capital adequacy to support
+the Commission’s general obligations and commitments, such as the Commission’s
+ongoing operating expenses, construction and permanent loan funding and participation
+in the U.S. Department of Housing and Urban Development (HUD) Risk-Share Program,
+that are secured by the Commission’s full faith and credit.
+Operating Activities
+The following table summarizes the Commission’s revenues, expenses and changes in net
+position for fiscal years 2025 and 2024.
+Condensed Summary of
+Revenues, Expenses and Changes in Net Position (In Thousands)
+$ change
+2025 2024 2025 - 2024
+Operating Revenues
+Interest and investment income $ 126,554 $ 5 4,374 $ 72,180
+Grants and federal assistance 219,260 2 78,135 (58,875)
+Other 18,995 1 8,518 477
+Total Operating Revenues 364,809 3 51,027 13,782
+Operating Expenses
+Interest expense 73,624 4 3,629 29,995
+Compensation and administrative
+expenses 26,665 2 6,118 547
+Grants and federal assistance 207,646 2 74,223 (66,577)
+Other 13,480 1 0,565 2,915
+Total Operating Expenses 321,415 3 54,535 (33,120)
+Income before transfers from Custodial Funds 43,394 (3,508) 46,902
+Transfer from Custodial Funds 24 5 56 (532)
+Change in Net Position $ 43,418 $ (2,952) $ 46,370
+Page 11
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The Commission continues to exhibit healthy financial activity. Total revenues fluctuated
+primarily due to increased interest and investment income, changes in grants and federal
+assistance and changes in fair value with an overall increase in fiscal year 2025.
+Excluding the effects of fair value reporting:
+• Revenues totaled $358.4 million and $376.9 million in fiscal years 2025 and 2024,
+respectively. The decrease in fiscal year 2025 primarily reflects an increase in
+interest and investment income of $39.9 million offset by a $58.9 million decrease in
+federal grant program revenues.
+• The change in net position was an increase of $33.5 million in fiscal year 2025 and
+$17.6 million in fiscal year 2024, demonstrating continued financial strength.
+• The return on average equity was 3.8% and the return on average assets was 1.1% for
+fiscal year 2025 as compared to 2.1% and 0.7%, respectively, in fiscal year 2024.
+Revenues
+Interest and investment income totaled $126.6 million in fiscal year 2025 as compared to
+$54.4 million in fiscal year 2024. This income includes a net increase in fair value of $6.4
+million in fiscal year 2025 and a net decrease in fair value of $25.8 million in fiscal year
+2024. Changes in the fair value of the Commission’s portfolio of mortgage-backed
+securities and other investments result from fluctuations in interest rates and other
+market factors.
+Without the fair value adjustments, interest and investment income totaled $120.1
+million in fiscal year 2025, which was a 49.8% increase from a total of $80.2 million in
+fiscal year 2024. This increase included a 48.7% increase in mortgage asset investment
+income resulting primarily from an increase in mortgage-backed securities held, which
+at cost were 44.8% higher at June 30, 2025 as compared to June 30, 2024. Depending on
+future financial markets, interest rate fluctuations and thus, changes in the fair value of
+investments and mortgage-backed securities reported, are expected to have continuing
+material effects on the Commission’s financial statements.
+Other operating revenues include $8.9 million and $9.1 million in administration fee
+income for fiscal years 2025 and 2024, respectively. These fees are predominantly related
+to the Commission’s administration of federal programs.
+Page 12
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+Grants and Federal Assistance
+Federal assistance program revenues and expenses represent activity related to
+developments funded by HUD (including Project-Based Section 8, Housing Trust Fund
+and HOME), federal rental and homeowner assistance stimulus programs provided by
+the Consolidated Appropriations Act and the American Rescue Plan Act and other
+housing programs. These revenues totaled $219.3 million in fiscal year 2025 as compared
+to $278.1 million in fiscal year 2024 while expenses incurred were $207.6 million in fiscal
+year 2025 and $274.2 million in fiscal year 2024. Grant revenues in fiscal year 2025
+decreased primarily due to a decrease in emergency rental and homeowner assistance,
+which decreased to $9.1 million in fiscal year 2025 from $84.7 million in fiscal year 2024.
+Project-Based Section 8 revenues totaled $185.4 million and $171.1 million in fiscal years
+2025 and 2024, respectively. Housing Trust Fund and HOME funding has varied
+reflecting timing of awards and disbursements and totaled $21.5 million in fiscal year
+2025 and $17.4 million in fiscal year 2024. These programs, along with tax credit
+programs, are integral to the Commission’s achievement of its objectives. The
+Commission continues to effectively use ongoing federal government and other programs
+that serve its mission utilizing those that provide resources that leverage its net position
+and other resources to finance affordable multifamily and owner-occupied housing for
+Missourians as well as provide housing assistance to very low-income Missourians.
+Expenses
+Interest costs were $73.6 million for fiscal year 2025 as compared to $43.6 million for
+fiscal year 2024 (an increase of 68.8% in fiscal year 2025). The increase in fiscal year 2025
+reflects a significant increase in bonds outstanding of $687.5 million, net of paydowns, in
+fiscal year 2025.
+Beyond the costs associated with debt financing, the Commission’s chief operating costs
+consist of compensation, facilities rent, information systems, professional services and
+travel expenses. These costs totaled $26.7 million in fiscal year 2025 as compared to $26.1
+million in fiscal year 2024. Fiscal year 2025 costs include pension benefit costs of $6.5
+million as compared to $5.9 million in fiscal year 2024.
+Economic and Other Factors
+The Commission’s programs and activities are subject to economic and other factors that
+may affect the Commission’s financial position and operations. In the coming year,
+changes in interest rates and market conditions can be expected to impact investment
+earnings and in particular, may result in significant fluctuations in the fair value of
+investments and mortgage-backed securities.
+Page 13
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Management’s Discussion and Analysis (Continued)
+The level of lending activity in the Commission’s single family programs is impacted by
+economic conditions, including the availability of single family homes for sale. The
+Commission expects to continue to finance its First Place and Next Step mortgage
+programs primarily with bond proceeds. Changes in interest rates and market conditions
+may impact the Commission’s financing of its homeownership programs, including
+potential sales in the TBA market as an alternative for financing in the bond market.
+The Commission participates in various federal and other assistance programs, primarily
+with HUD, which are significant to the Commission’s multifamily development and other
+housing assistance programs. Changes in federal policies or budget priorities could
+impact the Commission’s administration of these programs and the resources available.
+The Commission administers the Project-Based Section 8 program in the State through
+a contract with HUD, which results in over $185 million in housing assistance payment
+revenue and expense activity annually. The current contract terminates January 31,
+2026. HUD may extend the current contract term or may competitively bid this program
+administration.
+Contacting the Commission’s Financial Management
+This financial report is designed to provide the Commission’s stakeholders with a general
+overview of the Commission’s finances and to demonstrate accountability of resources.
+Questions about this report or inquiries for additional financial information may be
+directed to the Custodian of Records at the Missouri Housing Development Commission,
+1201 Walnut Street, Suite 1800, Kansas City, Missouri, 64106 or visit the Commission’s
+website at www.mhdc.com.
+Page 14
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF NET POSITION
+June 30, 2025
+(In Thousands)
+Assets
+Current Assets
+Cash and cash equivalents $ 18,497
+Investments 3,362
+Mortgage investments 11,630
+Accrued interest receivable 2,553
+Accounts receivable - other 1,276
+Prepaid expenses 3 91
+Total Current Assets 37,709
+Noncurrent Assets
+Restricted assets
+Cash and cash equivalents 154,134
+Investments 111,775
+Mortgage investments 2,550,729
+Accrued interest receivable 10,808
+Total restricted assets 2,827,446
+Investments 201,170
+Mortgage investments, net of current portion and allowances
+for loan losses of $38,816 117,148
+Capital assets (excluding lease and subscription assets),
+less accumulated depreciation of $6,333 2,763
+Capital assets - lease and subscription assets, less accumulated
+amortization of $2,622 6,315
+Total Noncurrent Assets 3,154,842
+Total Assets 3,192,551
+Deferred Outflows of Resources
+Refunding of debt 6 41
+Pension 7,121
+Other Postemployment Benefits (OPEB) 2,615
+Total Deferred Outflows of Resources 10,377
+See the notes to the financial statements. Page 15
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF NET POSITION (Continued)
+June 30, 2025
+(In Thousands)
+Liabilities
+Current Liabilities
+Bonds and notes payable $ 25,215
+Lease liabilities 8 05
+Accrued interest payable 2 2
+Accounts payable 19,789
+Accrued compensated absences 7 40
+Unearned revenue 1,383
+Total Current Liabilities 47,954
+Current Liabilities - Payable from Restricted Assets
+Bonds and notes payable 40,072
+Accrued interest payable 16,894
+Federal housing subsidy and other deposits 4,842
+Accounts payable 1
+Total Current Liabilities - Payable from
+Restricted Assets 61,809
+Noncurrent Liabilities
+Lease liabilities 6,161
+Accrued compensated absences 7 85
+Unearned revenue 10,145
+Pension 31,708
+Other Postemployment Benefits (OPEB) 6,927
+Payable from restricted assets
+Bonds and notes payable 2,326,045
+Total Noncurrent Liabilities 2,381,771
+Total Liabilities 2,491,534
+Deferred Inflows of Resources
+Refunding of debt 8 28
+Pension 6 03
+Other Postemployment Benefits (OPEB) 1,956
+Total Deferred Inflows of Resources 3,387
+Net Position
+Net investment in capital assets 2,112
+Restricted 439,405
+Unrestricted, including designated balances 266,490
+Total Net Position $ 708,007
+See the notes to the financial statements. Page 16
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF REVENUES, EXPENSES AND
+CHANGES IN NET POSITION
+For the Year Ended June 30, 2025
+(In Thousands)
+Operating Revenues
+Interest and investment income
+Income - mortgage investments $ 1 01,598
+Income - investments 1 8,533
+Net increase in fair value 6 ,423
+Total interest and investment income 1 26,554
+Administration fees 8 ,885
+Financing fees and other income 1 0,110
+Federal program income 2 19,260
+Total Operating Revenues 3 64,809
+Operating Expenses
+Interest expense on bonds 7 3,624
+Bond debt expense and other fees 7 ,280
+Compensation 2 0,078
+General and administrative expenses 6 ,587
+Rent and other subsidy payments 2 ,399
+Missouri Housing Trust Fund grants 3 ,801
+Federal program expenses 2 07,646
+Total Operating Expenses 3 21,415
+Income before transfers from Custodial Funds 4 3,394
+Transfer from Custodial Funds 24
+Change in Net Position 4 3,418
+Net Position - Beginning of Year, as Restated 6 64,589
+Net Position - End of Year $ 7 08,007
+See the notes to the financial statements. Page 17
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF CASH FLOWS
+For the Year Ended June 30, 2025
+(In Thousands)
+Cash Flows from Operating Activities
+Interest received on mortgage investments $ 98,245
+Fees, charges and other 11,847
+Principal repayments on mortgage loans 165,625
+Disbursements of mortgage loans ( 934,557)
+Federal assistance receipts 209,557
+Federal assistance disbursed ( 207,671)
+Collection of compliance and origination fees 7,889
+Cash payments for compensation, administrative and other costs ( 21,149)
+Other operating payments ( 13,456)
+Net Cash Used in Operating Activities ( 683,670)
+Cash Flows from Noncapital Financing Activities
+Retirement of principal on bonds and notes ( 364,514)
+Proceeds from issuance of bonds and notes 1,064,588
+Interest paid on bonds and notes ( 79,817)
+Net Cash Provided by Noncapital Financing Activities 620,257
+Cash Flows Used in Capital and Related Financing Activities
+Payments for capital assets, other than leases and subscriptions (701)
+Payments on capital assets - leases and subscriptions (538)
+Net Cash Used in Capital and Related Financing Activities ( 1,239)
+Cash Flows from Investing Activities
+Purchases of investments ( 158,705)
+Proceeds from maturities and sales of investments 148,872
+Interest received on investments 18,539
+Net Cash Provided by Investing Activities 8,706
+Net Decrease in Cash and Cash Equivalents ( 55,946)
+Cash and Cash Equivalents - Beginning of Year 228,577
+Cash and Cash Equivalents - End of Year $ 172,631
+See the notes to the financial statements. Page 18
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF CASH FLOWS (Continued)
+For the Year Ended June 30, 2025
+(In Thousands)
+Reconciliation of Increase in Net Position to
+Net Cash Used in Operating Activities
+Increase in net position $ 43,418
+Adjustments to reconcile increase in net position to
+net cash used in operating activities
+Depreciation and amortization 1,729
+Net increase in fair value ( 6,423)
+Compliance and origination fee receipts 2,653
+Amortization of unearned revenue ( 2,063)
+Income - investments ( 18,533)
+Net change in mortgage loans ( 768,932)
+Interest expense related to bonds and other debt 73,624
+Change in deferred outflows related to pensions and OPEB 2,480
+Change in deferred inflows related to pensions and OPEB 2 91
+Change in assets and liabilities
+Decrease in accounts receivable 151
+Increase in accrued mortgage interest receivable ( 3,353)
+Increase in prepaid expenses (12)
+Decrease in federal housing subsidy deposits ( 9,703)
+Decrease in accounts payable (155)
+Increase in pension and OPEB liabilities 1,158
+Net Cash Used in Operating Activities $ (683,670)
+See the notes to the financial statements. Page 19
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF FIDUCIARY NET POSITION
+June 30, 2025
+(In Thousands)
+Assets
+Cash and cash equivalents $ 10,760
+Investments 106,109
+Accrued interest receivable 3 22
+Total Assets 117,191
+Net Position
+Restricted for Mortgagors 117,191
+Total Net Position $ 117,191
+See the notes to the financial statements. Page 20
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+STATEMENT OF CHANGES IN FIDUCIARY NET POSITION
+For the Year Ended June 30, 2025
+(In Thousands)
+Additions
+Interest and investment income
+Income - investments $ 1,664
+Net increase in fair value 4,359
+Total interest and investment income 6,023
+Mortgage escrow receipts - Mortgagors 44,780
+Total Operating Revenues 50,803
+Deductions
+Mortgage escrow disbursements - Mortgagors 42,902
+Transfers to Enterprise Fund 24
+Total Operating Expenses 42,926
+Change in Net Position 7,877
+Net Position - Beginning of Year 109,314
+Net Position - End of Year $ 117,191
+See the notes to the financial statements. Page 21
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+NOTES TO FINANCIAL STATEMENTS
+June 30, 2025
+1. Nature of Operations and Summary of Significant Accounting
+Policies
+Nature of Operations
+The Missouri Housing Development Commission (Commission) is a body corporate
+and politic established on October 13, 1969, by Chapter 215 of the Missouri state
+statutes. In accordance with the provisions of Chapter 215 and resolutions of the
+Commission, the Commission is authorized to make or purchase mortgage loans
+that are uninsured, partially insured or insured or guaranteed by the federal
+government and to insure mortgage loans, the funds of which are to be used to
+develop new or rehabilitated low and moderate-income housing. The Commission
+is also authorized to issue bonds for making or purchasing such loans. The
+outstanding balance of bonds applicable to loans not insured or guaranteed by a
+federal agency or to bonds rated lower than “AA” by rating agencies at the time of
+issuance shall not exceed $200,000,000. At June 30, 2025, the Commission had
+$23,290,000 of bonds outstanding applicable to conduit loans that are not so
+insured or guaranteed or to bonds that are not so rated. These conduit bonds are
+not reported on the Commission’s statement of net position. Bonds issued by the
+Commission are not an obligation of the state of Missouri (State).
+Reporting Entity
+The Commission defines its reporting entity to include all component units for
+which the Commission is financially accountable. The extent of financial
+accountability is based upon several criteria including: appointment of a voting
+majority of the governing body, imposition of will, financial benefit to or burden on
+a primary government and financial accountability as a result of fiscal dependency.
+No separate entities meet the requirements to be considered component units of
+the Commission.
+The Commission is considered a related organization of the State for financial
+reporting purposes. Accordingly, the Commission is included as a note disclosure
+in the state of Missouri’s comprehensive annual financial report.
+For financial reporting purposes, the Commission reports its operations as a single
+enterprise fund. The financial statements are prepared using the economic
+resources measurement focus and the accrual basis of accounting with revenues
+recognized when earned and expenses recorded when incurred. All significant
+interfund transactions are eliminated.
+Page 22
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Revenues and expenses are typically divided into operating and nonoperating
+items. Operating revenues generally result from providing services in connection
+with the Commission’s principal ongoing operations. The principal operating
+revenues of the Commission are derived from the interest and investment income
+from loans and investments, financing fees, federal and other assistance program
+funding and other charges related to providing financing for affordable housing
+through mortgage loans and grants. Operating expenses consist primarily of
+interest expense on bonds outstanding and federal and other assistance program
+expenses and other costs to administer its affordable housing programs. All
+revenues and expenses not meeting these definitions would be reported as
+nonoperating revenues and expenses. The Commission has no nonoperating
+activities.
+When both restricted and unrestricted resources are available for use, it is the
+Commission’s policy to use restricted resources first, then unrestricted resources
+as needed.
+Fiduciary Fund Statements
+The Statement of Fiduciary Net Position and Statement of Changes in Fiduciary
+Net Position provide information on the Commission’s fiduciary activities in
+administering escrow funds on behalf of mortgagors of permanent and construction
+loans serviced by the Commission. The net position of such funds are reported as
+restricted net position for mortgagors in the Statement of Fiduciary Net Position.
+Investment earnings on the escrow funds held are reported as additions to
+restricted net position in the Fiduciary Fund.
+Use of Estimates
+The preparation of financial statements in conformity with generally accepted
+accounting principles requires management to make estimates and assumptions
+that affect the reported amounts of assets and liabilities, the disclosure of
+contingent assets and liabilities at the date of the financial statements and the
+reported amounts of revenues and expenses during the reported period. Actual
+results could differ from those estimates.
+Cash and Cash Equivalents
+Cash and cash equivalents include cash on hand and on deposit and short-term,
+highly liquid investments with an original maturity of three months or less. At
+June 30, 2025 cash equivalents consisted primarily of money market funds,
+overnight repurchase agreements, U.S. Treasury securities and a Federal Home
+Loan Bank (FHLB) daily time account.
+Page 23
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Investments
+Securities purchased under agreements to resell, U.S. government and agency
+securities and mortgage-backed securities are reported at fair value. Short-term,
+highly liquid U.S. Treasury bill investments are reported at cost. Net increases
+(decreases) in fair value are reported on the Statement of Revenue, Expenses and
+Changes in Net Position and the Statement of Changes in Fiduciary Net Position.
+Mortgage Investments
+Proceeds from the sale of bonds, resources provided in the Commission’s
+warehousing program and available net position are used to make mortgage loans
+and to purchase mortgage-backed securities. The mortgage-backed securities are
+guaranteed as to timely payment of principal and interest by the Government
+National Mortgage Association (GNMA), Federal National Mortgage Association
+(Fannie Mae) or the Federal Home Loan Mortgage Corporation (Freddie Mac) and
+are backed by pools of qualifying mortgage loans. Advances made on such loans
+during the construction period of related housing units are recorded as construction
+loans and are serviced as mortgage loans upon final endorsement after construction
+completion. Mortgage and construction loans are reported at cost, while GNMA,
+Fannie Mae and Freddie Mac mortgage-backed securities are reported at fair value.
+Loans that management has the intent and ability to hold for the foreseeable
+future or until maturity or payoffs are reported at their outstanding principal
+balances adjusted for any charge-offs and the allowance for loan losses. Generally,
+loans are evaluated for nonaccrual status at 90 days past due and interest is
+considered a loss, unless the loan is well secured and in the process of collection.
+Fair Value Reporting
+The Commission categorizes its fair value measurements applicable for reporting
+its investments and mortgage-backed securities within the fair value hierarchy
+established by generally accepted accounting principles. The hierarchy is based on
+the valuation inputs used to measure the fair value of the asset. Level 1 inputs are
+quoted prices in active markets for identical assets; Level 2 inputs are significant
+other observable inputs; and Level 3 inputs are significant unobservable inputs.
+Allowance for Loan Losses
+The allowance for loan losses is associated with uninsured loans, Risk-Share loans
+and related accrued interest on such loans. The allowance is management’s
+estimate of uncollectible loans and related accrued interest and is based on existing
+payment conditions, prior experience and such other factors that, in management’s
+opinion, require consideration. For financial statement presentation, the allowance
+for loan losses has been netted against the noncurrent portion of mortgage and
+construction loans.
+Page 24
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Capital, Lease and Subscription Assets
+Capital assets are stated at cost less accumulated depreciation and consist of
+leasehold improvements, software, office furniture and equipment. Depreciation
+is calculated on the straight-line method over the estimated useful lives of the
+assets, which range from two to seven years. The Commission defines capital
+assets as assets with an initial, individual cost of more than $5,000 and an
+estimated useful life in excess of one year.
+The Commission recognizes a lease liability and an intangible right-to-use lease
+asset at the commencement of the lease term. The lease asset is amortized over
+the shorter of the lease term or the useful life of the underlying asset. In addition,
+the Commission recognizes a subscription liability and intangible right-to-use
+subscription asset at the commencement of a subscription-based information
+technology arrangement (SBITA) where the Commission contracts for the right to
+use another party’s software. The subscription asset is amortized over the term of
+the subscription contract.
+Deferred Inflows and Deferred Outflows of Resources
+In addition to assets, the statement of financial position includes a separate section
+for deferred outflows of resources. This separate financial element represents a
+consumption of net position that applies to future periods and so will not be
+recognized as an outflow of resources until then.
+In addition to liabilities, the statement of financial position includes a separate
+section for deferred inflows of resources. This separate financial element
+represents an acquisition of net position that applies to future periods and so will
+not be recognized as an inflow of resources until then.
+Bonds and Notes Payable
+Bonds and notes payable are carried at their unpaid principal balances, net of any
+unamortized bond premium or discount. Principal balances scheduled to be paid
+within one year subsequent to year-end are reported as current liabilities.
+Original issue bond discounts and premiums are deferred and amortized over the
+life of the related issue using the effective interest method or the outstanding bond
+method, which approximates the effective interest method.
+Page 25
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Accrued Compensated Absences
+Accrued compensated absences include annual leave and medical leave balances,
+more likely than not to be used or paid. The portion expected to be paid within one
+year subsequent to year-end are reported as a current liability.
+The Commission’s employees are eligible for annual leave benefits in varying
+amounts based on years of service with the State. Annual leave time accrues on a
+semi-monthly basis. Employees are allowed to accumulate a maximum 48 times
+an employee’s current semi-monthly accrual rate per year. Hours accumulated and
+not taken in excess of these amounts are forfeited by employees upon separation
+of employment and at October 31st of each year.
+Medical leave benefits accrue, with no maximum accumulation, to employees, at
+the rate of five hours semi-monthly. Upon retirement, an employee’s retirement
+benefit is increased by one month of service time for every 168 hours of accrued
+but unused medical leave. This increase in service time does not allow an employee
+to retire early but is used in calculation of the benefit amount. An estimate of
+accumulated medical leave that is more likely than not to be used as paid leave is
+recognized as a portion in the compensated absences liability.
+Pensions
+For purposes of measuring the net pension liability, deferred outflows of resources
+and deferred inflows of resources related to pensions, and pension expense,
+information about the fiduciary net position of the pension plans administered by
+the Missouri State Employees’ Retirement System (MOSERS) and additions to and
+deductions from MOSERS’ fiduciary net position have been determined on the
+same basis as reported by MOSERS. For this purpose, benefit payments are
+recognized when due and payable in accordance with the benefit terms.
+Investments are reported at fair value.
+Other Postemployment Benefits (OPEB)
+For purposes of measuring the net OPEB liability, deferred outflows of resources
+and deferred inflows of resources related to OPEB, and OPEB expense,
+information about the fiduciary net position of the State Retiree Welfare Benefit
+Trust (SRWBT) administered by the Missouri Consolidated Health Care Plan
+(MCHCP) and additions to and deductions from the SRWBT fiduciary net position
+have been determined on the same basis as reported by MCHCP. For this purpose,
+benefit payments are recognized when due and payable in accordance with the
+benefit terms. Investments are reported at fair value.
+Page 26
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Fees, Charges and Expenses
+Unearned revenue consists primarily of tax credit fees and compliance monitoring
+fees that are recognized as income over the contractual periods.
+Service and other fees and charges are recorded as income when earned and the
+associated administrative expenses are recorded as incurred.
+Operating expenses identifiable to a particular program are charged directly to the
+program. All other operating expenses are accounted for by the Commission in the
+Operating Fund (see Note 2).
+Federal Assistance and Grants
+The Commission administers grants and federal assistance programs,
+representing “pass-through” financial assistance, on the behalf of secondary
+recipients. The Commission reports federal assistance deposits received in advance
+of incurring related expenditures as a liability presented on the statement of net
+position. The Commission recognizes financial activity related to pass-through
+grants and financial assistance as revenues and expenses of the Commission.
+Grants received from federal, state and local governments, and other organizations
+are recognized as operating revenue as the related expenditures are incurred.
+Debt Refunding
+For refundings resulting in defeasance of debt reported by proprietary activities,
+the difference between the reacquisition price and the net carrying amount of the
+old debt is deferred and amortized as a component of interest expense over the
+remaining life of the old or new debt, whichever is shorter, using the bonds
+outstanding method. The deferred refunding amounts are classified as deferred
+inflows or deferred outflows of resources in the financial statements.
+Net Position
+Net position represents the difference between assets and deferred outflows and
+liabilities and deferred inflows in the financial statements. Net position is
+classified as follows:
+Net Investment in Capital Assets: This component of net position consists
+of capital assets, including lease and subscription assets, net of accumulated
+depreciation and amortization, net of related liabilities.
+Page 27
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Restricted Net Position: This component of net position consists of
+restrictions placed on net position use through external constraints imposed
+by grant agreements and contracts, laws or regulations of other governments,
+bond resolutions or constraints imposed by law through constitutional
+provisions or enabling legislation.
+Unrestricted Net Position: This component represents net position used at
+the discretion of the Board of Commissioners to complement bond and loan
+programs, to fund housing initiatives and to provide for the Commission’s
+operations. Certain unrestricted net position has been designated by the
+Commission to provide for its housing programs. Unrestricted net position
+provides additional security for the Commission’s general obligations and
+commitments.
+New Accounting Standards
+For fiscal year ended June 30, 2025, the Commission implemented GASB
+Statement No. 100, Accounting Changes and Error Corrections – an amendment of
+GASB Statement No. 62.
+In addition, the Commission implemented GASB Statement No. 101, Compensated
+Absences. This statement provides recognition and measurement guidance for
+compensated absences and refines the related disclosure requirements. As a result
+of the implementation, net position of the business-type activities as of July 1, 2024
+was restated as follows (in thousands):
+Net position, as previously reported $ 665,332
+Prior period adjustment
+Increase in accrued compensated absences
+during the fiscal year ended June 30, 2024 (743)
+Net position, as restated $ 664,589
+2. Description of Funds or Programs
+The following describes the funds or programs maintained by the Commission, all
+of which conform to Chapter 215 of the Missouri state statutes and the respective
+bond resolutions.
+Page 28
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Operating Fund
+Funding of the Operating Fund on an ongoing basis is derived principally from
+allowable transfers from other funds, fees earned for administering various U.S.
+Department of Housing and Urban Development (HUD) programs, and interest
+income from Operating Fund investments and mortgage loans. Mortgage and
+construction loans in the Operating Fund are collateralized by deeds of trust on
+the related properties, including approximately $8,109,000 at June 30, 2025,
+which are insured by HUD’s Federal Housing Administration (FHA) Risk-Share
+Program as described in Note 4. Authorized activities of the Operating Fund
+include the following:
+• Payment of general and administrative expenses and other costs not
+payable by other funds of the Commission.
+• Financing multifamily or homeownership residential housing units from
+accumulated resources (net position), if financing of such units is not
+provided for under existing bond indentures.
+• Those activities deemed necessary to fulfill the Commission’s corporate
+purposes for which special funds are not established.
+The Commission administers the Missouri Housing Trust Fund, which provides
+for a variety of housing needs, such as emergency home repair, emergency rent,
+mortgage or utility payments, rehabilitation or new construction of housing
+facilities and related services for very low-income families and individuals. The
+Missouri Housing Trust Fund is authorized by Section 215.034, RSMo and its
+financial activities are included in the financial statements of the Commission.
+Separate financial statements for the Missouri Housing Trust Fund may be
+obtained through the Commission.
+Multifamily Bond-Financed Program (2000 Indenture)
+The Commission’s Multifamily Bond-Financed Program (2000 Indenture) was
+established to support the financing and refinancing of eligible multifamily
+developments and includes funds and accounts to allocate the proceeds from the
+bond sales, receive payments on the related mortgage loans, provide for payment
+of the debt service requirements on the bonds and retain balances in reserves all
+pursuant to the Commission’s Trust Indenture dated as of June 1, 2000. All loans
+are insured by HUD, including HUD’s Risk-Share Program.
+Page 29
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Multifamily Bond-Financed Program (2014 Indenture)
+The Commission’s Multifamily Bond-Financed Program (2014 Indenture) was
+established to succeed the program established in 2000 with updated terms and
+flow of funds to support the financing and refinancing of eligible multifamily
+developments and includes funds and accounts to allocate the proceeds from the
+bond sales, receive payments on the related mortgage loans, provide for payment
+of the debt service requirements on the bonds and retain balances in reserves all
+pursuant to the Commission’s Trust Indenture dated as of April 1, 2014. All loans
+are insured by HUD, including HUD’s Risk-Share Program.
+Special Homeownership Bond-Financed Program (2009 Indenture)
+The Commission’s Special Homeownership Bond-Financed Program was
+established under the United States Treasury’s Single Family New Issue Bond
+Program to support the financing of loans for low and moderate income
+homebuyers and includes funds and accounts to allocate the proceeds from the
+bond sales, receive payments on the related mortgage loans, provide for payment
+of the debt service requirements on the bonds and retain balances in reserves. The
+bonds are secured by mortgage-backed securities on eligible owner-occupied units
+pursuant to the Commission’s Trust Indenture dated as of December 1, 2009. The
+pledged mortgage-backed securities are guaranteed as to timely payment of
+principal and interest by GNMA, Fannie Mae or Freddie Mac.
+First Place Homeownership Bond-Financed Program (2015 Indenture)
+The Commission’s First Place Homeownership Bond-Financed Program was
+established to succeed the Special Homeownership Bond-Financed Program to
+support the financing of loans for low and moderate income homebuyers and
+includes funds and accounts to allocate the proceeds from the bond sales, receive
+payments on the related mortgage loans, provide for payment of the debt service
+requirements on the bonds and retain balances in reserves. The bonds are secured
+by mortgage-backed securities on eligible owner-occupied units pursuant to the
+Commission’s Trust Indenture dated as of May 1, 2015. The pledged mortgage-
+backed securities are guaranteed as to timely payment of principal and interest by
+GNMA, Fannie Mae or Freddie Mac.
+Page 30
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Fiduciary Funds
+In the course of its loan servicing, the Commission administers escrow and reserve
+funds held on behalf of its mortgagors. The funds are used to pay taxes and
+insurance on underlying mortgage property, held as reserve for replacements, or
+for other purposes. The funds received from the mortgagors are invested in
+accordance with the Commission’s investments guidelines and the assets are offset
+by a corresponding restricted net position for mortgagors. The cash and
+investments balance of the escrow funds was $116,869,000 as of June 30, 2025.
+Page 31
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+3. Cash and Investments
+A summary of cash and investments as of June 30, 2025 is as follows (in
+thousands):
+2025
+Enterprise Fund Cost Fair Value
+Cash and cash equivalents:
+Cash $ 23,001 $ 23,001
+FHLB daily time accounts 452 452
+Repurchase agreements 101 101
+Money market funds 136,375 136,375
+U.S. Treasury bills 12,702 12,702
+Total cash and cash equivalents $ 172,631 $ 172,631
+Investments:
+U.S. Treasury bonds and notes
+and agency obligations $ 341,261 $ 316,307
+Total investments 341,261 316,307
+Total cash and cash equivalents
+and investments $ 513,892 $ 488,938
+2025
+Fiduciary Fund Cost Fair Value
+Cash and cash equivalents:
+Cash $ 5,792 $ 5 ,792
+U.S. Treasury bills 4,968 4 ,968
+Total cash and cash equivalents $ 10,760 $ 1 0,760
+Investments:
+U.S. Treasury bonds and notes $ 113,197 $ 106,109
+and agency obligations
+Total investments 113,197 1 06,109
+Total cash and cash equivalents
+and investments $ 123,957 $ 116,869
+Page 32
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Investment Policy
+General
+The Commission’s formal Investment Policy and Guidelines apply to investments
+that are not held by a trustee in connection with bond or note issues. This policy
+permits the Commission to invest in obligations of the state of Missouri, obligations
+of the United States of America, obligations issued or guaranteed by certain agencies
+of the federal government, certain collateralized repurchase agreements and
+certificates of deposit. The general policy of the Commission is to make investments
+for future funding requirements and not for trading purposes. At June 30, 2025, all
+of the Commission’s general investments (non-bond related investments) were in
+compliance with the Commission’s Investment Policy and Guidelines.
+Indentures
+The Commission’s bond indentures permit investments in the direct obligations of,
+or obligations guaranteed by, the United States of America, certificates of deposit,
+investment agreements and certain other investments permitted by applicable
+law. At June 30, 2025, all investments of debt-related issues held by the
+Commission’s trustees were in compliance with the requirements of the indentures.
+Investment Maturities
+As of June 30, 2025, the Commission had the following investments and maturities
+(in thousands):
+Enterprise Fund
+Investment Maturities (in Years)
+Fair Less More
+Investment Type Value Than 1 1 - 5 6 - 10 Than 10
+U.S. Treasury securities $ 44,495 $ 34,369 $ 987 $ 8,158 $ 981
+U.S. agency securities 271,812 10,206 138,025 123,581 —
+Total investments $ 316,307 $ 44,575 $ 139,012 $ 131,739 $ 981
+Fiduciary Fund
+Investment Maturities (in Years)
+Fair Less
+Investment Type Value Than 1 1 - 5 6 - 10
+U.S. Treasury securities $ 2,229 $ — $ — $ 2,229
+U.S. agency securities 103,880 11,805 70,962 21,113
+Total investments $ 106,109 $ 11,805 $ 70,962 $ 23,342
+Page 33
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The Commission’s Investment Policy and Guidelines limit investments for general
+funds in repurchase agreements to 90 days and U.S. Treasury and U.S. agency
+securities to 10 years. The bond resolutions and indentures allow for investments
+in obligations of the United States of America and investment agreements for the
+terms specified in these documents, generally 30 years.
+At June 30, 2025, as reported at fair value, the Commission’s enterprise fund U.S.
+agency securities consist of $139,778,000 Federal Farm Credit Bank (FFCB),
+$67,458,000 Federal Home Loan Bank (FHLB), $19,899,000 Fannie Mae,
+$27,067,000 Freddie Mac and $17,610,000 Farmer Mac debt securities. At June
+30, 2025, as reported at fair value, the Commission’s fiduciary fund U.S. agency
+securities consist of $57,101,000 Federal Farm Credit Bank (FFCB), $13,183,000
+Federal Home Loan Bank (FHLB), $14,254,000 Fannie Mae, $17,027,000 Freddie
+Mac and $2,315,000 Farmer Mac debt securities.
+The Commission’s recurring fair value measurements include U.S. Treasury and
+government agency securities, valued using a multi-dimensional relational pricing
+model (Level 2 inputs). Short-term, highly liquid U.S. Treasury bill investments
+are reported at cost. Investment securities totaled $316,307,000 in the
+Commission’s enterprise fund and totaled $106,109,000 in the Commission’s
+fiduciary fund as of June 30, 2025.
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates may adversely affect the
+fair value of investments. The Commission manages interest rate risk by
+structuring investment portfolios so that securities mature to meet cash
+requirements for ongoing operations and debt service obligations, thereby avoiding
+the need to sell securities on the open market prior to maturity.
+Credit Risk
+The Commission’s money market funds and investments include the securities of
+U.S. government agencies rated in the highest rating category by Moody’s Investor
+Services (Aaa) and AA+ by Standard & Poor’s. Repurchase agreements are
+unrated, but collateralized by U.S. agency securities.
+Page 34
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Concentration of Credit Risk
+The Commission places no limit on the amount it may invest in any one issuer with
+respect to U.S. Treasury and government agency securities. Obligations of the
+state of Missouri and collateralized certificates of deposit are limited to 60% of the
+non-bond fund portfolio, each. Collateralized repurchase agreements are limited
+to 50% of the non-bond fund portfolio. The following tables list investments in
+issuers that represent 5% or more of total investments, which includes U.S.
+Treasury Bills and money market funds classified as cash equivalents at June 30,
+2025:
+Enterprise Fund Percent of
+Total
+Issuer Investments
+Federal Farm Credit Bank (FFCB) 30.0%
+Morgan Stanley Institutional Liquidity Funds Government Portfolio 29.3%
+Federal Home Loan Bank (FHLB) 14.6%
+U.S. Treasury 12.3%
+Federal Home Loan Mortgage Corporation (Freddie Mac) 5.8%
+Fiduciary Fund Percent of
+Total
+Issuer Investments
+Federal Farm Credit Bank (FFCB) 53.8%
+Federal Home Loan Bank (FHLB) 12.4%
+Federal Home Loan Mortgage Corporation (Freddie Mac) 16.1%
+Fannie Mae 13.4%
+Custodial Credit Risk
+For investments, custodial credit risk is the risk that in the event of the failure of
+the counterparty to a transaction, the Commission will not be able to recover the
+value of its investments or collateral securities that are in the possession of an
+outside party. In accordance with its policy, the Commission addresses custodial
+credit risk by pre-qualifying institutions with which the Commission places
+investments, diversifying its investment portfolio and maintaining a standard of
+quality for its investments.
+Page 35
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+For deposits, custodial credit risk is the risk that in the event of a bank failure, the
+Commission may not be able to recover its deposits. Protection of the Commission’s
+enterprise fund deposits of $14,362,000 and custodial fund deposits of $5,792,000
+at June 30, 2025 is provided by the Federal Deposit Insurance Corporation, FHLB
+letters of credit and by eligible securities pledged by the financial institution.
+Deposits in the Commission’s enterprise fund with the FHLB at June 30, 2025
+include $8,639,000 in a demand deposit account and $452,000 in a daily time
+account, which are uninsured and uncollateralized, but secured by the full faith
+and credit of the FHLB system with implicit government support.
+4. Mortgage Investments
+Mortgage investments reported consist of the following as of June 30, 2025 (in
+thousands):
+2025
+Total mortgage loan principal outstanding $ 432,737
+Less: Allowance for mortgage loan losses (38,816)
+Mortgage loans, net 393,921
+Total mortgage-backed securities, at cost 2,442,399
+Unrealized loss on securitized mortgage loans (156,813)
+Mortgage-backed securities, at fair value 2,285,586
+Mortgage investments, net $ 2,679,507
+Mortgages include loans financed by the federal HOME Investment Partnerships
+Program (HOME) totaling $239,703,000 as of June 30, 2025. A portion of these
+loans totaling $181,266,000 at June 30, 2025 include prepayment terms allowing
+deferment or repayment based on net income of the multifamily developments. An
+estimated allowance for mortgage loan losses of $22,474,000 is attributable to the
+HOME-financed loan portfolio at June 30, 2025. In addition, there were
+$40,745,000 in HOME-financed mortgages outstanding at June 30, 2025 that have
+continuing compliance requirements and convert to grants upon maturity and
+satisfaction of program requirements. Such mortgages are recognized as
+expenditures at the time of disbursement. At June 30, 2025, mortgages also
+include $25,888,000 in loans financed by the federal Tax Credit Assistance
+Program (TCAP). An estimated allowance for mortgage loan losses of $3,064,000
+is attributable to this portfolio at June 30, 2025.
+Page 36
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The Commission warehouses mortgage-backed securities created by its single
+family homeownership programs. The warehoused securities have been funded by
+short-term FHLB advances or available net position. U.S. agency securities, which
+totaled $61,184,000 at June 30, 2025 are pledged as collateral for the short-term
+FHLB advances. There were warehoused mortgage-backed securities totaling
+$26,242,000 held at June 30, 2025.
+The single family bond-financed programs generally require that mortgage loans
+be made to borrowers whose household income does not exceed the statewide or
+applicable metropolitan statistical area (MSA) median income, based on family
+size. For loans financed with tax-exempt bond proceeds (First Place loans), Section
+143 of the Internal Revenue Code specifies certain requirements with respect to
+the nature of the residence, mortgage and eligibility of the borrower. These
+programs provide funding for mortgage loans that are FHA insured, VA
+guaranteed, U.S. Department of Agriculture/Rural Development (USDA/RD)
+guaranteed or Freddie Mac-qualified or Fannie Mae-qualified conventional loans.
+The multifamily bond-financed programs provide long-term financing for rental
+housing developments for occupancy by families and persons of low and moderate
+incomes. The Commission has entered into an agreement with HUD, which
+permits the Commission to participate in HUD’s Risk-Share Program. In
+accordance with the terms of this agreement, HUD will insure certain mortgage
+loans on rental housing developments (FHA-insured “Risk-Share Mortgage
+Loans”) and the Commission will underwrite the Risk-Share Mortgage Loans
+following its underwriting guidelines. HUD will insure the Risk-Share Mortgage
+Loans and will bear 50% of the risk and the Commission will bear the remaining
+50% of the risk. The Commission had Risk-Share Mortgage Loans totaling
+$31,190,000, representing 27 loans as of June 30, 2025.
+Proceeds of revenue bonds, as indicated in Note 5, provided resources to finance
+mortgages. Multifamily housing revenue bonds were used to fund mortgages for
+multifamily developments. Single family mortgage revenue bonds, as well as
+resources of the Commission’s mortgage-backed security warehousing program,
+were used to purchase GNMA, Fannie Mae and Freddie Mac certificates
+collateralized by mortgage loans approved in accordance with the guidelines of the
+Commission’s mortgage programs. The financing periods of the pooled mortgage
+loans are 30 years. Mortgage-backed securities have repayments based on the
+underlying pooled mortgages and are subject to prepayment.
+Page 37
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The fair value of the mortgage-backed securities is sensitive to changes in interest
+rates, which may result in large fluctuations in carrying value and investment
+earnings as reported. The mortgage-backed securities held at June 30, 2025 have
+stated interest rates ranging from 1.75% to 7.53%, while the underlying mortgages
+have stated interest rates ranging from 2.25% to 8.25%.
+GNMA, Fannie Mae and Freddie Mac certificates, which are included in mortgage
+investment balances, are presented in the statement of net position at fair value.
+These mortgage-backed securities are guaranteed as to payment of principal and
+interest by GNMA, Fannie Mae or Freddie Mac. As of June 30, 2025, the par value
+of securitized mortgage loans consist of 63.8% GNMA, 15.8% Fannie Mae and
+20.4% Freddie Mac certificates. All other loans included in mortgage investments
+are carried at cost. The following summarizes the carrying value and cost of
+mortgage investments as of June 30, 2025 (in thousands):
+2025
+Carrying
+Value Cost
+GNMA, Fannie Mae and
+Freddie Mac mortgage-backed
+securities $ 2,285,586 $ 2,442,399
+Other mortgage loans 432,737 432,737
+Total mortgage investments $ 2,718,323 $ 2,875,136
+The Commission’s recurring fair value measurements as of June 30, 2025 include
+the GNMA, Fannie Mae and Freddie Mac certificates totaling $2,285,586,000
+valued using a matrix pricing technique, which utilizes pricing indices, index
+spreads and other market reference data (Level 2 inputs).
+Page 38
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+5. Bonds Payable and Long-Term Obligations
+The following table provides a summary of the changes in long-term obligations for
+the year ended June 30, 2025 (in thousands):
+Amount
+Balance Balance Due
+June 30, June 30, Within
+2024 Increases Decreases 2025 One Year
+Publicly Sold Bonds
+Multifamily Bond-Financed
+Program (2000 Indenture) $ 1 4,590 $ — $ (3,450) $ 1 1,140 $ 5 35
+Multifamily Bond-Financed
+Program (2014 Indenture) 1 4,314 — (2,573) 1 1,741 6 07
+Special Homeownership
+Bond-Financed Program (2009 Indenture) 1 9,627 — (3,916) 1 5,711 9 64
+First Place Homeownership
+Bond-Financed Program (2015 Indenture) 1 ,610,044 7 82,000 (121,604) 2 ,270,440 3 7,033
+Total Publicly Sold 1 ,658,575 7 82,000 (131,543) 2 ,309,032 3 9,139
+Direct Borrowings and Direct Placements
+Operating Fund - Direct Borrowings — 4 96,094 (470,879) 2 5,215 2 5,215
+Total Direct Borrowings and Direct Placements — 4 96,094 (470,879) 2 5,215 2 5,215
+Total bonds and notes payable 1 ,658,575 1 ,278,094 (602,422) 2 ,334,247 6 4,354
+Unamortized premium and discount, net 4 5,305 2 4,402 (12,622) 5 7,085 9 33
+Total bonds and notes payable, net 1 ,703,880 1 ,302,496 (615,044) 2 ,391,332 6 5,287
+Lease and subscription liabilities 7 ,504 — (538) 6 ,966 8 05
+Accrued compensated absences 1 ,556 8 53 (884) 1 ,525 7 40
+Unearned revenue 1 0,938 2 ,653 (2,063) 1 1,528 1 ,383
+Total long-term debt and other
+obligations $ 1 ,723,878 $ 1 ,306,002 $ (618,529) $ 2 ,411,351 $ 6 8,215
+The net proceeds of bond issues for both publicly sold bonds and direct placements
+are used to provide financing for multifamily bond-financed housing developments
+or for homeownership residential housing units. The bond proceeds are deposited
+with and invested by bank trust departments in qualified investments until
+required for such financing. These bonds are obligations of the Commission
+payable from the mortgage investments and funds specifically pledged to the
+payment of the bonds and are not liabilities of the state of Missouri.
+Page 39
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Multifamily bonds are secured by a pledge of the mortgages and mortgage loans,
+funds and investments held under each applicable indenture. The mortgage loans
+held by the 2000 and 2014 Indentures are insured by HUD, including HUD’s Risk-
+Share Program. Single family bonds are secured by pledged mortgage-backed
+securities, funds and investments held under each applicable indenture. The
+pledged mortgage-backed securities consist of pools of mortgages originated in
+accordance with the Commission’s loan programs and are guaranteed as to timely
+payment of principal and interest by GNMA, Fannie Mae or Freddie Mac.
+Under the terms of the bond indentures, an event of default occurs if payment of
+principal or interest is not made when due or in the event the Commission does
+not comply with one or more covenants in or related to the bond indenture and fails
+to cure the noncompliance within specified timeframes. If an event of default is not
+resolved, the trustee can take actions to protect and enforce the rights of the
+bondholders, including enforcement of rights under the mortgages or mortgage-
+backed securities and declaring all applicable outstanding bonds due and payable.
+Page 40
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+A summary of bonds payable outstanding at June 30, 2025 follows (in thousands),
+including the applicable calendar date reference for future maturities:
+Original
+Amount Outstanding
+Authorized 2025
+Multifamily Bond-Financed Program (2000 Indenture)
+2012 Series 1 Refunding Bonds (4.156%), due 2033 $ 42,740 $ 1 ,430
+2013 Series 1 Friendship Village (3.10% to 3.75%), due 2028 - 2045 6,555 2,475
+2013 Series 3 Shepard Apts. (4.125% to 5.00%), due 2026-2045 12,030 5,825
+2013 Series 4 House Springs Apts. (4.00% to 5.00%) due 2028-2045 2,555 1,410
+63,880 1 1,140
+Add: Unamortized debt premium 70
+63,880 1 1,210
+Multifamily Bond - Financed Program (2014 Indenture)
+2014 Series 1 Refunding Bonds (4.20%), due 2040 $ 23,742 $ 1 ,734
+2021 Series 1 Refunding Bonds (2.20%), due 2042 11,503 1 0,007
+35,245 1 1,741
+Total Multifamily Bond - Financed Programs 99,125 2 2,951
+Special Homeownership Bond - Financed Program (2009 Indenture)
+Publicly Sold Bonds:
+2014 Series A (3.10% to 4.00%), due 2025 - 2041* $ 50,000 $ 2 ,020
+2014 Series B (2.95% to 3.75%), due 2025 - 2039* 50,000 3,715
+2014 Series C (2.97%), due 2036* 40,579 4,185
+2016 Series C (2.40%), due 2044* 31,503 5,791
+172,082 1 5,711
+Page 41
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Original
+Amount Outstanding
+Authorized 2025
+First Place Homeownership Bond - Financed
+Program (2015 Indenture)
+2015 Series A (2.75% to 3.75%), due 2025 - 2038* $ 60,000 $ 485
+2015 Series B-1 (4.00%), due 2045* 23,090 6 90
+2015 Series B-2 (4.00%), due 2045* 50,000 8 20
+2016 Series A-2 (2.45% to 4.00%), due 2025 - 2040* 70,000 5,150
+2016 Series B (2.00% to 3.50%), due 2025 - 2041* 70,000 12,025
+2016 Series D (3.40%), due 2046* 51,489 15,268
+2017 Series A-1 (4.00%), due 2042* 14,400 1,820
+2017 Series A-2 (2.50% to 4.00%), due 2025 - 2042* 50,000 6,880
+2017 Series B (3.25%), due 2047* 54,241 14,214
+2017 Series C (3.30%), due 2047* 53,939 18,535
+2017 Series D (2.55% to 4.00%), due 2025 - 2047* 54,500 16,805
+2018 Series A (2.60% to 4.25%), due 2025 - 2049* 55,000 19,735
+2018 Series B (2.90% to 4.75%), due 2025 - 2049* 70,000 28,335
+2019 Series A (2.25% to 4.25%), due 2025 - 2047* 65,000 25,335
+2019 Series B (1.85% to 4.00%), due 2025 - 2050* 80,000 38,260
+2019 Series C (1.65% to 3.875%), due 2025 - 2050* 120,000 66,170
+2020 Series A (1.25% to 3.50%), due 2025 - 2050* 100,000 63,670
+2020 Series B (2.25% to 2.625%) due 2043* 75,470 27,206
+2020 Series C (1.00% to 3.50%) due 2025 - 2050* 55,000 37,820
+2020 Series D (0.65% to 3.25%) due 2025 - 2051* 50,000 34,275
+2020 Series E (1.85% to 2.00%) due 2050* 33,400 21,012
+2021 Series A (0.55% to 3.00%) due 2025 - 2052* 75,000 55,175
+2021 Series B (0.55% to 3.00%) due 2025 - 2052* 65,000 52,530
+2021 Series C (0.75% to 3.25%) due 2025 - 2052* 75,000 62,290
+2022 Series A (1.70% to 3.50%) due 2025 - 2052* 75,000 62,720
+2022 Series B (3.15% to 5.00%) due 2025 - 2052* 80,000 67,820
+2022 Series C (2.60% to 5.00%) due 2025 - 2053* 75,000 65,160
+2023 Series A (2.70% to 5.75%) due 2025 - 2053* 90,000 80,575
+2023 Series B (3.00% to 5.50%) due 2025 - 2053* 75,000 70,380
+2023 Series C (3.50% to 6.00%) due 2025 - 2053* 80,000 76,145
+2023 Series D (5.39% to 6.18%) due 2025 - 2053* 15,000 12,750
+2023 Series E (3.60% to 6.50%) due 2025 - 2054* 120,000 1 15,205
+2024 Series A (3.00% to 5.75%) due 2025 - 2055* 120,000 1 15,560
+2024 Series B (4.87% to 5.94%) due 2026 - 2054* 10,000 10,000
+2024 Series C (3.25% to 6.00%) due 2025 - 2055* 180,000 1 76,205
+2024 Series D (4.809% to 5.875%) due 2025 - 2054* 15,000 14,795
+2024 Series E (3.15% to 6.00%) due 2025 - 2055* 230,000 2 27,680
+2024 Series F (4.57% to 5.92%) due 2026 - 2054* 10,000 9,845
+2024 Series G (3.00% to 5.50%) due 2025 - 2055* 130,000 1 29,095
+2024 Series H (3.96% to 5.61%) due 2026 - 2054* 12,000 12,000
+2025 Series A (3.00% to 6.00%) due 2026 - 2056* 140,000 1 40,000
+2025 Series B (4.57% to 6.00%) due 2027 - 2055* 10,000 10,000
+2025 Series C (3.15% to 5.75%) due 2026 - 2056* 250,000 2 50,000
+3 ,187,529 2,270,440
+Less: Unamortized debt discount (359)
+Add: Unamortized debt premium 57,374
+3 ,187,529 2,327,455
+Total Single Family Bond - Financed Programs 3 ,359,611 2,343,166
+Total bonds payable, net $ 3,458,736 $ 2,366,117
+Page 42
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The proceeds of bond issues denoted by “*” are used to purchase GNMA, Fannie
+Mae and Freddie Mac mortgage-backed securities, which are backed by mortgage
+loans originated through the Commission’s loan programs.
+During the fiscal year ended June 30, 2025, the Commission redeemed, prior to their
+scheduled maturity, the principal amount of certain of its bonds. Net gains of
+$915,000 for the year ended June 30, 2025 on early extinguishment of debt have
+been recorded and included with other income. These gains arise as a result of
+immediate recognition of bond premiums, net of immediate recognition of bond
+discounts, that would have been amortized over the life of the applicable bond issue
+if not retired and net of any call premiums as required by the applicable bond
+indentures.
+Conduit Debt Obligations
+The Commission is authorized to issue conduit revenue bonds to provide financing
+for multifamily rental housing developments. These bonds are limited obligation,
+conduit debt issued by the Commission, secured by a mortgage and payable solely
+from payments made pursuant to the loan agreement. Payments on the bonds do
+not constitute a general obligation payable from funds of the Commission.
+Accordingly, the bonds are not reported as liabilities in the Commission’s
+statement of net position. The Commission had $24,090,000 in conduit bonds at
+June 30, 2025.
+Direct Borrowings - Operating Fund
+In addition to bonds payable, the Commission utilizes short-term FHLB advances,
+which are secured by pledged U.S. agency securities and mortgage-backed
+securities. The FHLB can dispose of all or a portion of such securities for purposes
+of collecting payment of principal and interest on an advance in the event of a
+payment default. The short-term FHLB advances included financings of
+$496,094,000 during fiscal year 2025, including rollover financings of
+$237,907,000. The principal and interest on the short-term FHLB advance
+outstanding at June 30, 2025 is payable at maturity as follows (in thousands):
+Interest
+Maturity Date Rate Principal Interest Total
+2025 4.497% $ 25,215 $ 22 $ 25,237
+Page 43
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Bond and Long-term Obligation Maturities
+All bonds have early redemption provisions. A summary of future annual
+scheduled principal and interest maturities for the Commission’s long-term
+obligations, which excludes unamortized debt discounts and premiums, follows (in
+thousands):
+Bonds Maturing
+During Years Publicly Sold Bonds
+Ending June 30, Principal Interest Total
+2026 $ 39,139 $ 100,255 $ 139,394
+2027 4 5,790 98,747 144,537
+2028 4 7,747 97,240 144,987
+2029 4 9,870 95,617 145,487
+2030 5 2,121 93,871 145,992
+2031 - 2035 297,259 438,544 735,803
+2036 - 2040 370,808 373,681 744,489
+2041 - 2045 455,618 287,608 743,226
+2046 - 2050 528,038 176,925 704,963
+2051 - 2055 420,787 5 3,414 474,201
+2056 - 2060 1,855 52 1,907
+$ 2,309,032 $ 1,815,954 $ 4,124,986
+Lease and Subscription Liabilities
+The Commission leases office space and parking in Kansas City in accordance with
+a ten-year lease and in St. Louis in accordance with an 11-year lease. The
+Commission also leases storage space in Kansas City in accordance with a five-
+year lease. The total value of these lease assets was $8,416,000 and the related
+accumulated amortization was $2,141,000 at June 30, 2025.
+The Commission has a SBITA contract through September 2025 for its investment
+accounting software. The value of the subscription asset was $521,000 and the
+related accumulated amortization was $481,000 at June 30, 2025.
+Page 44
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Future principal and interest requirements to maturity for the lease liabilities as
+of June 30, 2025 are as follows (in thousands):
+Year Principal Interest Total
+2026 $ 805 $ 3 11 $ 1,116
+2027 857 2 82 1,139
+2028 585 2 52 837
+2029 621 2 22 843
+2030 621 1 91 812
+2031-2035 3,477 4 27 3,904
+$ 6,966 $ 1 ,685 $ 8,651
+6. Escrow Deposits and Rent Subsidies Payable
+Escrow deposits in the fiduciary fund represent funds paid by development
+mortgagors for real estate taxes, insurance, future replacement of property and
+other costs.
+Federal housing subsidy and other deposits reported on the Commission’s
+statement of net position represent federal funds received in advance for
+emergency rental assistance, payment of rent subsidies and for other programs.
+7. Restrictions and Designations
+Restricted Cash and Investments
+Substantially all of the assets of each bond program of the Commission are pledged
+as collateral for the payment of principal and interest on bond indebtedness of that
+program. Therefore, all related bond program assets of the Commission that are
+pledged as collateral are treated as restricted and noncurrent. The obligations of
+the Commission are not obligations of the State and the State is not liable for such
+obligations. The trust indentures between the Commission and the trustees
+establish accounts for the segregation of assets and restrictions on the use of bond
+proceeds and certain other funds received.
+Resolutions of the Commission require that, to the extent funds are available in
+the general account of each bond fund, the funds are to be transferred to a debt
+service account on a periodic basis, from the date of bond issuance to the date of
+each succeeding maturity, sufficient to make principal and interest payments on
+the bonds as they become due. Funds within the general account of each bond fund
+are on deposit in restricted accounts.
+Page 45
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The statute and resolutions of the Commission require that for certain bond issues
+an amount be maintained in reserve accounts to be used to make principal and
+interest payments on payment due dates. Such amounts are on deposit in
+restricted accounts for the various issues within the multifamily and single family
+mortgage revenue bond programs.
+Restricted investments include U.S. agency securities pledged as collateral for
+short-term FHLB advances. Pursuant to state statute, the Commission has also
+restricted cash and investments held for the Missouri Housing Trust Fund. In
+addition, cash and investments held associated with federal grant agreements are
+restricted. These funds include deposits for rental assistance received in
+accordance with the Consolidated Appropriations Act, homeowner assistance
+funds received in accordance with the American Rescue Plan Act and other federal
+programs.
+As of June 30, 2025, the assets of all accounts satisfied the requirements as
+established by the trust indentures, applicable agreements and state statute. Such
+assets are restricted as follows (in thousands):
+2025
+Program restricted funds and pledged investments $ 73,319
+Federal Program Funds 47,326
+Missouri Housing Trust Fund 3,049
+Bond Proceeds Accounts - funds for purchase of qualified
+mortgage-backed securities or mortgage loans
+and payment of costs of issuance 53,960
+Revenue and Debt Service Funds - program revenues
+for debt services payments 70,598
+Debt Service and Other Bond Reserve Accounts - reserves
+held as required by bond indentures, including: debt
+service reserves, mortgage reserves and capitalized interest 17,657
+$ 265,909
+Page 46
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Restricted Net Position
+Pursuant to certain bond resolutions, the Commission has restricted the net
+position of the multifamily and single family mortgage revenue bond programs to
+maintain a level of reserves necessary to provide sound fiscal operations. U.S.
+agency securities and mortgage-backed securities are pledged as collateral for
+short-term FHLB advances. In addition, net position associated with the federal
+grant agreements of HOME and TCAP are restricted. In fiscal year 1997, the
+Commission acquired a portfolio of loans from HUD. Revenues collected from these
+HUD-purchased loans are restricted by an agreement between the Commission
+and HUD to be used primarily for rehabilitation loans or grants.
+Pursuant to state statute, the Commission has restricted the amount of net
+position representing revenues over expenses related to the financial activity of
+the Missouri Housing Trust Fund. Revenues of the Missouri Housing Trust Fund
+are restricted to programs that financially assist, through loans or grants, the
+development of housing stock and that provide housing assistance to persons and
+families with incomes at or below specified levels.
+Below is a summary of restricted net position by bond resolution and state statute
+as of June 30, 2025 (in thousands):
+2025
+Restricted Net Position
+Restricted by bond resolution $ 52,612
+Restricted by collateral custodial agreement - FHLB 61,184
+Restricted by grant agreement - HOME Investment
+Partnerships Program 282,830
+Restricted by grant agreement - Housing Trust Fund 1 09
+Restricted by grant agreement - TCAP 27,896
+Restricted earnings of HUD-purchased Loans 11,701
+Restricted by state statute - Missouri Housing
+Trust Fund 3,073
+Total Restricted Net Position $ 439,405
+Page 47
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Commission Designated Net Position
+The Commission has designated certain unrestricted net position for its affordable
+housing programs. The Commission has the discretion to reverse any designated
+net position and as of June 30, 2025, has designated the following amounts (in
+thousands):
+2025
+Designated by Commission for:
+Housing assistance $ 245
+Loans not funded by a bond sale 1 17,189
+Construction loan commitments 47,000
+Loan and other commitments not yet disbursed 42,847
+Single Family Homeownership Program 20,000
+Single Family Cash Assistance Program 21,500
+Rural Initiative Program 557
+Total Commission Designated Net Position $ 249,338
+8. Pension Plan
+General Information about the Pension Plan
+Plan description. Benefit eligible employees of the Commission are provided
+pensions through Missouri State Employees’ Plan (MSEP) - cost-sharing multiple-
+employer defined benefit pension plans administered by MOSERS. The plans are
+referred to as MOSERS throughout the Notes. Section 104.320 of the Revised
+Statutes of Missouri grants the authority to establish a defined benefit plan for
+eligible state and other related Commission employees. MOSERS issues a Annual
+Comprehensive Financial Report (ACFR), a publicly available financial report that
+can be obtained at www.mosers.org.
+Benefits provided. MOSERS provides retirement, disability, and life insurance
+benefits to eligible employees. The base retirement benefits are calculated by
+multiplying the employee’s final average pay by a specific factor multiplied by the
+years of credited service. The factor is based on the specific plan in which the
+employee participates, which is based on the employee’s hire date. Information on
+the three plans administered by MOSERS (MSEP, MSEP 2000, and MSEP 2011
+retirement plans) and how eligibility and the benefit amount is determined for
+each plan may be found in the Notes to the Financial Statements of MOSERS’
+ACFR.
+Page 48
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Contributions. Per Section 104.436 of the Revised Statutes of Missouri,
+contribution requirements of the active employees and the participating employers
+are established and may be amended by the MOSERS Board. Employees in the
+MSEP 2011 Plan are required to contribute 4.0% of their annual pay. The
+Commission’s required contribution rate for the year ended June 30, 2025 was
+28.75% of annual payroll, which totaled $2,863,000, actuarially determined as an
+amount that, when combined with employee contributions, is expected to finance
+the costs of benefits earned by employees during the year, with an additional
+amount to finance the unfunded accrued liability. Contributions to the pension
+plan from the Commission were $2,614,000 for MOSERS plan year ended June 30,
+2024.
+Pension Liabilities, Pension Expense, and Deferred Outflows of
+Resources and Deferred Inflows of Resources Related to Pensions
+At June 30, 2025, the Commission reported a liability of $31,708,000 for its
+proportionate share of the net pension liability. The net pension liability was
+measured as of June 30, 2024 and the total pension liability used to calculate the
+net pension liability was determined by an actuarial valuation as of that date. The
+total pension liability as of June 30, 2024 was offset by the fiduciary net position
+obtained from the MOSERS ACFR as of June 30, 2024 to determine the net pension
+liability.
+The Commission’s proportion of the net pension liability was based on the
+Commission’s actual share of contributions to the pension plan relative to the
+actual contributions of all participating employers for MOSERS plan year ended
+June 30, 2024. At the June 30, 2024 measurement date, the Commission’s
+proportion was 0.39067%, a decrease from 0.40609%, as of the June 30, 2023
+measurement date.
+There were no changes in benefit terms during the MOSERS plan year ended
+June 30, 2024 that affected the measurement of total pension liability.
+Page 49
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Actuarial Assumptions
+The total pension liability in the June 30, 2024 actuarial valuation, which is also
+the date of measurement for financial reporting purposes, was determined using
+the following actuarial assumptions, applied to all periods included in the
+measurement:
+Summary of Key Actuarial Methods & Assumptions
+Valuation Date June 30, 2024
+Actuarial Cost Method Entry Age Normal
+Asset Valuation Method Fair Value
+Investment Rate of Return, Net of Investment Expense 6.95%
+Projected Salary Increases 2.75% to 10.00%
+Rate of Payroll Growth 2.25%
+Cost-of-Living Adjustments (COLAs)* 4% or 1.80%
+Price Inflation 2.25%
+*4.00%, compounded annually, when a minimum COLA of 4.00% is in effect.
+1.80%, compounded annually, when no minimum COLA is in effect (80% of price inflation)
+An actuarial experience study covering the five-year period ended June 30, 2020,
+was performed in 2021.
+Mortality
+Pre-retirement mortality rates were based on the Pub-2010 General Members
+Below Median Employee mortality table, set back two years for males and set
+forward one year for females. Mortality was projected generationally from 2010 to
+2020 using Scale MP-2020 and 75% of Scale MP-2020 for years after 2020.
+Post-retirement mortality rates for retirees were based on the Pub-2010 General
+Members Below Median Healthy Retiree mortality table, scaled by 104%, set back
+two years for males and set forward one year for females. Mortality projected
+generationally from 2010 to 2020 using Scale MP-2020 and 75% of Scale MP-2020
+for years after 2020.
+Post-retirement mortality rates for beneficiaries were based on the Pub-2010
+General Members Below Median Contingent Survivor mortality table, set back two
+years for males and set forward one year for females. Mortality was projected
+generationally from 2010 to 2020 using Scale MP-2020 and 75% of Scale MP-2020
+for years after 2020.
+Disabled mortality rates were based on the Pub-2010 Non-Safety Disabled Retiree
+mortality table, without mortality projection.
+Page 50
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Long-term Investment Rate of Return
+The long-term expected rate of return on pension plan investments was
+determined using a building-block method in which best-estimates rates of
+expected future real rates of return (expected returns, net of pension plan
+investment expense and inflation) are developed for each major asset class. These
+ranges are combined to produce the long-term expected rate of return by weighting
+the expected future real rates of return by the target asset allocation percentage
+and by adjusting for expected inflation, volatility and correlations. Best estimates
+of the real rates of return for each major asset class are summarized in the
+following table:
+Long-Term Expected Rate of Return
+Weighted Average
+Policy Long-Term Expected Long-Term Expected Long-Term Expected
+Asset Class Allocation Nominal Return * Real Return Nominal Return
+Global public equities 30.0% 7.7% 5.8% 2.3%
+Global private equities 15.0% 9.3% 7.4% 1.4%
+Long treasuries 25.0% 3.5% 1.6% 0.9%
+Core bonds 10.0% 3.1% 1.2% 0.3%
+Commodities 5.0% 5,5% 3.6% 0.3%
+TIPS 25.0% 2.7% 0.8% 0.7%
+Private real assets 5.0% 7.1% 5.2% 0.3%
+Public real assets 5.0% 7.7% 5.8% 0.4%
+Hedge funds 5.0% 4.8% 2.9% 0.2%
+Alternative beta 10.0% 5.3% 3.4% 0.5%
+Private credit 5.0% 9.5% 7.6% 0.5%
+Cash and cash equivalents** -40.0% - - -
+Total 100.0%
+Correlation/Volatility Adjustment -0.6%
+Long-Term Expected Net Nominal Return 7.2%
+Less: Investment Inflation Assumption -1.9%
+Long-Term Expected Geometric Net Real Return 5.3%
+* Long-term expected arithmetic returns of the asset classes at the time of the asset allocation
+study for each portfolio.
+** Cash and cash equivalents policy allocation amounts are negative due to use of leverage.
+Page 51
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Discount Rate
+The discount rate used to measure the total pension liability was 6.95%, net of
+investment expenses. The projection of cash flows used to determine the discount
+rate assumed that contributions from participating employers will be made using
+the actuarially determined rates. Based on those assumptions, MOSERS’ fiduciary
+net position was projected to be available to make all the projected future benefit
+payments of the current plan members. As a result, the long-term expected rate of
+return on pension plan investments of 6.95%, net of investment expense, was
+applied to all periods of projected benefit payments to determine the total pension
+liability.
+Sensitivity of the Commission’s Proportionate Share of the Net Pension
+Liability to Changes in the Discount Rate
+The following presents the Commission’s proportionate share of the net pension
+liability calculated using the discount rate of 6.95%, as well as what the
+Commission’s proportionate share of the net pension liability would be if it were
+calculated using a discount rate that is 1-percentage-point lower (5.95%) or
+1-percentage-point higher (7.95%) than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+(5.95%) (6.95%) (7.95%)
+Commission's proportionate share of
+net pension liability (in thousands) $ 39,367 $ 31,708 $ 25,312
+Pension Plan Fiduciary Net Position
+Detailed information about the pension plan’s fiduciary net position is available in
+the separately issued MOSERS Annual Comprehensive Financial Report.
+Pension Expense
+For the fiscal year ended June 30, 2025, the Commission recognized pension
+expense of $6,538,000.
+Page 52
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Deferred Outflows of Resources and Deferred Inflows of Resources
+At June 30, 2025, the Commission reported deferred outflows of resources and
+deferred inflows of resources related to pensions from the following sources (in
+thousands):
+Deferred Deferred
+Outflows of Inflows of
+June 30, 2025 Resources Resources
+Differences between expected and actual experience $ 1,540 $ —
+Net difference between projected and actual
+earnings on pension plan investments 2,139 —
+Changes in proportion 5 79 6 03
+Commission contributions subsequent to
+the measurement date of 6-30-2024 2,863 —
+Total $ 7,121 $ 6 03
+$2,863,000 reported as deferred outflows of resources related to pensions resulting
+from Commission contributions subsequent to the measurement date of June 30,
+2024 will be recognized as a reduction of the net pension liability in the
+Commission’s financial statements for the fiscal year ended June 30, 2026. Other
+amounts reported as deferred outflows of resources and deferred inflows of
+resources related to pensions will be recognized in pension expense in the
+Commission’s fiscal year following MOSERS’ fiscal year as follows (in thousands):
+Commission's
+Fiscal Year Ending
+June 30: Amount
+2026 $ 1,668
+2027 1,632
+2028 334
+2029 21
+Total $ 3,655
+Page 53
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Payables to the Pension Plan
+The Commission had a payable to MOSERS of $118,000 as of June 30, 2025,
+included as a component of accrued liabilities due to contribution obligations
+related to compensation incurred prior to the fiscal year end.
+9. Deferred Compensation Plan
+The Commission’s employees may participate in the State of Missouri Deferred
+Compensation Plan, a voluntary defined contribution plan offered in compliance
+with IRS Code Sections 457 and 401(a). The plan is administered by MOSERS in
+accordance with Sections 105.900 to 105.927 of the Revised Statutes of Missouri.
+Participant account record keeping and processing services is administered by a
+third party. Under this plan, employees are permitted to defer a portion of their
+current salary until future years. The Commission contributes $25 or up to a
+maximum of $75 per month for each employee who meets requirements based on
+employee contribution. The Commission’s contributions for the year ended
+June 30, 2025 totaled $96,000.
+10. Other Postemployment Benefits
+General Information about the OPEB Plan
+Plan Description. The State Retiree Welfare Benefit Trust (SRWBT), a cost-
+sharing multiple employer, defined benefit OPEB plan, is administered by the
+Missouri Consolidated Health Care Plan (MCHCP). Employees may participate
+at retirement if eligible to receive a monthly retirement benefit from MOSERS or
+another retirement system whose members are grandfathered for coverage under
+the plan by law. The terms and conditions governing postemployment benefits, are
+vested with the MCHCP Board of Trustees within the authority granted under
+Chapter 103 of the Revised Statutes of Missouri. Financial information for the
+OPEB plan is included in MCHCP’s ACFR which is available on the MCHCP
+website at www.mchcp.org.
+Benefits Provided. Benefit provisions of the SRWBT provide postemployment
+healthcare coverage. Employees and their eligible dependents may participate in
+state-sponsored medical coverage in retirement based on plan criteria. Medical
+coverage, including prescription coverage, is provided through plan options
+including a qualified high deductible plan with health savings account and
+preferred provider organization plans (PPO 1250 and PPO 750). Health care
+benefits are funded through both employer and retiree contributions.
+Page 54
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Contributions. Contributions are established and may be amended by the
+MCHCP Board of Trustees within the authority granted under Chapter 103 of the
+Revised Statutes of Missouri (2000) as amended (“RSMo”) 103.003 through
+103.178. For each year of a retiree’s service, 2.5% of the monthly PPO 1250
+healthcare plan premium is contributed on behalf of the retiree up to a maximum
+contribution of 65%. The retiree pays the balance of the premiums. Participants
+contributed $43,341,000 toward their required contributions for the plan year
+ended June 30, 2024. The Commission’s required contribution rate for the fiscal
+year ended June 30, 2025 ranged from 3.23% to 3.55% of annual payroll, which
+totaled $318,000 in contributions actuarially determined as an amount that, when
+combined with participant contributions, is expected to finance the costs of benefits
+earned by employees during the year, with an additional amount to finance any
+unfunded accrued liability. Contributions to the OPEB plan from the Commission
+were $323,000 for the plan year ended June 30, 2024.
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources
+and Deferred Inflows of Resources Related to OPEB
+At June 30, 2025, the Commission reported a liability of $6,927,000 for its
+proportionate share of the net OPEB liability. The net OPEB liability was
+measured as of June 30, 2024 and the total OPEB liability used to calculate the
+net OPEB liability was determined by an actuarial valuation as of that date. The
+Commission’s proportion of the net OPEB liability was determined by dividing
+each employer’s statutorily required OPEB contributions to the system during the
+measurement period by the percent of OPEB contributions required from all
+applicable employers during the measurement period. At the June 30, 2024
+measurement date, the Commission’s proportion was 0.4384%, a decrease from
+0.4496% as of the June 30, 2023 measurement date.
+Page 55
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+For the fiscal year ending June 30, 2025, the Commission recognized OPEB
+expense of $572,000. At June 30, 2025, the Commission reported deferred outflows
+of resources and deferred inflows of resources related to OPEB from the following
+sources:
+Deferred Deferred
+Outflows of Inflows of
+June 30, 2025 Resources Resources
+Differences between expected and actual experience $ 239 $ 33
+Changes of assumptions 382 1,571
+Net difference between projected and actual
+earnings on plan investments 9 —
+Changes in proportion 1,667 352
+Commission contributions subsequent to
+the measurement date of 6-30-2024 318 —
+Total $ 2,615 $ 1,956
+$318,000 reported as deferred outflows of resources related to OPEB resulting
+from Commission contributions subsequent to the measurement date of June 30,
+2024 will be recognized as a reduction of the net OPEB liability in the
+Commission’s financial statements for the fiscal year ended June 30, 2026. Other
+amounts reported as deferred outflows of resources and deferred inflows of
+resources related to OPEB will be recognized in OPEB expense as follows:
+Commission's
+Fiscal Year Ending
+June 30: Amount
+2026 $ 81
+2027 77
+2028 76
+2029 68
+2030 39
+Thereafter —
+Total $ 341
+Page 56
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Actuarial Methods and Assumptions
+The actuarial calculations utilize methodologies and assumptions designed to
+reduce short-term volatility. Actuarial valuations are developed based upon
+economic assumptions that are appropriate for the purpose of the measurements,
+take into account relevant historical and current data, reflect estimates of future
+experience, are free of bias, and include demographic actuarial assumptions that
+are considered to be reasonable and within a best projection range as described by
+the Actuarial Standards of Practice. Future actuarial measurements may differ
+from the current measurements due to many factors, including plan experience
+differing from that anticipated by the economic or demographic assumptions and
+changes in plan provisions or applicable law.
+Projections include a broad array of complex social and economic events, such as
+the emergence of new and expensive medical procedures and prescription drug
+options, change in investment rates of return, and other uncertainties. As such,
+the estimate of post-retirement program cost contains considerable uncertainty
+and variability, and actual experience may vary significantly from the current
+estimated obligation.
+Page 57
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The following presents additional information as of the latest actuarial valuation:
+Summary of Key Actuarial Methods & Assumptions
+Valuation Year July 1, 2023 - June 30, 2024
+Actuarial Cost Method Entry age normal, level percent of payroll
+Amortization Method 30 years, open, level percent of pay
+Asset Valuation Method Fair value
+Discount Rate 5.50%
+Projected Payroll Growth Rate 4.00%
+Inflation Rate 3.00%
+Healthcare Cost Trend Rates Non-Medicare, Medical and Prescription Drug: 6.34%, 6.78%,
+6.56%, 6.34%, 6.12%, 5.90%, 5.77%, 5.72%, 5.62%, 5.46%, 5.30%,
+5.13%, 4.95%, 4.77%, 4.59%, 4.50% (ultimate)
+Medicare, Medical and Prescription Drug: 7.75%, 9.39%, 12.87%,
+12.73%, 9.56%, 9.14%, 8.34%, 7.67%, 7.35%, 6.92%, 6.49%, 6.05%,
+5.61%, 5.16%, 4.72%, 4.50% (ultimate)
+Administrative Expenses: 0.00%, 3.00% (ultimate)
+Mortality Pre-Retirement: Pri-2012 Employee Amount-weighted Mortality
+Table projected generationally using MP-2021
+Annuitant: Pri-2012 Retiree Amount-weighted Mortality Table
+projected generationally using MP-2021
+The per capita health costs, administrative expenses and retiree contributions
+were updated to reflect current experience. The trend assumptions were revised to
+reflect future expectations.
+Expected Return on Plan Assets
+The MCHCP Board of Trustees adopted an asset allocation model for the SRWBT
+that implemented a moderate investment approach to steadily increase the
+exposure of the SRWBT to higher asset classes over time. Exposure to equities will
+be through a combination of actively managed index funds and/or exchange traded
+funds that are highly rated and reviewed regularly. Allocations are back-tested,
+and future assets are projected in all models.
+Page 58
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The table below presents the asset allocation for the plan at June 30, 2024:
+Long-Term
+Target Expected
+Asset Class Allocation Real Return
+Domestic Large Cap Equity 20.0% 7.5%
+Domestic Mid Cap Equity 5.0% 8.4%
+Domestic Small Cap Equity 5.0% 9.3%
+Global Equity 6.0% 7.9%
+Domestic Fixed Income 64.0% 4.4%
+Total 100.0%
+Rate of Return
+For the plan year ended June 30, 2024, the annual time weighted rate of return on
+OPEB plan investments, net of OPEB plan investment expense, was 8.66%. The
+time weighted rate of return expresses investment performance, net of investment
+expenses, adjusted for the changing amounts actually invested. Investment results
+for the portfolio are measured using the Modified Dietz methodology, which is a
+time-weighted analysis of portfolio return.
+Discount Rate
+The discount rate used to measure the total OPEB liability was 5.50%. The OPEB
+plan’s fiduciary net position was projected to be available to make all projected
+future benefit payments of current plan members. Therefore, the long-term
+expected rate of return on OPEB plan investments was applied to all periods of
+projected benefit payments to determine the total OPEB liability.
+Sensitivity of the Commission’s proportionate share of the net OPEB
+liability to changes in the discount rate
+The following presents the Commission’s proportionate share of the net OPEB
+liability calculated using the discount rate of 5.50%, as well as what the
+Commission’s proportionate share of the net OPEB liability would be if it were
+calculated using a discount rate that is 1-percentage-point lower (4.50%) or 1-
+percentage-point higher (6.50%) than the current rate:
+Current
+1% Decrease Discount Rate 1% Increase
+(4.50%) (5.50%) (6.50%)
+Commission's proportionate share of
+net OPEB liability (in thousands) $ 8,170 $ 6,927 $ 5,926
+Page 59
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+Sensitivity of the Commission’s proportionate share of the net OPEB
+liability to Healthcare Cost Trend Rate
+The following presents the Commission’s proportionate share of the net OPEB
+liability calculated using assumed trend rates, as well as what the Commission’s
+proportionate share of net OPEB liability would be if it were calculated using a
+trend rate that is 1-percentage-point lower or 1-percentage-point higher:
+1% Decrease Current 1% Increase
+in Trend Rates Trend Rates in Trend Rates
+Commission's proportionate share of
+net OPEB liability (in thousands) $ 5,879 $ 6,927 $ 8,241
+OPEB Plan Fiduciary Net Position
+Detailed information about the OPEB plan’s fiduciary net position is available in
+the separately issued MCHCP Annual Comprehensive Financial Report.
+11. Commitments, Contingencies and Concentrations
+Federal and Other Assistance Programs
+The Commission participates in various federal and other grant programs,
+primarily with HUD, which are significant to the Commission’s multifamily
+development and other housing assistance programs. Changes in federal policies
+or budget priorities could impact the Commission’s administration of these
+programs and the resources available.
+In addition to an annual financial audit, the Commission is also subject to program
+audits, as deemed necessary by its federal and other grantor agencies that may
+result in disallowed costs to the Commission. The Commission’s management does
+not believe such audits would result in any disallowed costs that would be material
+to the Commission’s financial position at June 30, 2025.
+The Commission has identified certain questionable rental assistance payments,
+for which some have been reported to the appropriate agencies in accordance with
+regulatory requirements and applicable potential repayment has been recognized;
+others are pending investigation. The Commission’s management does not believe
+the ultimate resolution of such questioned costs would be material to the
+Commission’s financial position at June 30, 2025.
+Page 60
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+The Commission is the administrator of the Project-Based Section 8 program in
+the State. This contract, which terminates January 31, 2026, resulted in
+$185,404,000 in housing assistance payment revenue and expense activity for the
+fiscal year ended June 30, 2025. HUD may extend the current contract term or
+may competitively bid this program administration.
+Arbitrage Rebate and Yield Compliance
+Federal income tax rules limit the investment and loan yields, which the
+Commission may retain for its own use from investing the proceeds of certain tax-
+exempt bond issues. Excess yields, if any, payable to the U.S. Treasury are
+included in accounts payable. There was no liability payable as of June 30, 2025.
+The Commission has previously acquired certain participations in mortgage-
+backed securities that were financed with tax-exempt bond proceeds in which the
+interest participation percentage is lower than the principal participation
+percentage, which could result in the Commission having to originate future below-
+market loans or make a future yield reduction payment to the U.S. Treasury.
+Litigation
+From time to time, the Commission may be a defendant in legal actions related to
+its programs and operations. While the final outcomes of these legal actions vary,
+management is of the opinion that the ultimate liability, if any, will not have a
+material effect on the Commission’s financial position.
+Other
+The Commission is exposed to various risks of loss related to torts; theft of, damage
+to and destruction of assets; errors and omissions; and natural disasters for which
+the Commission carries commercial insurance. In addition, the Commission carries
+commercial insurance for workers’ compensation. The Commission retains risk of
+loss; however, there have been no settlements which exceeded insurance coverage
+in the last three years.
+The Commission has committed to mortgage loans funded by the operating fund
+resources (net position) of $68,461,000 that have not been disbursed as of June 30,
+2025.
+Page 61
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+Notes to the Financial Statements (Continued)
+12. Subsequent Events
+During the current year the Commission authorized Single Family Mortgage
+Revenue Bonds to provide funding for the Commission’s homeownership programs.
+In accordance with this authorization, the Commission sold 2025 Series D and E
+bonds totaling $268,000,000 on June 24, 2025. The bonds closed July 23, 2025. In
+addition, on September 9, 2025 the Commission sold 2025 Series F, G and H bonds
+totaling $265,000,000, which are scheduled to close September 29, 2025.
+In August 2025 the State transferred $25,000,000 to the Missouri Housing Trust
+Fund administered by the Commission for the purpose of providing emergency aid
+through community-based organizations to provide assistance to households with
+income at or below specified levels in Missouri communities impacted by severe
+weather or other natural disasters.
+Page 62
+Required Supplementary Information
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+SCHEDULES OF SELECTED PENSION INFORMATION
+MISSOURI STATE EMPLOYEES’ RETIREMENT SYSTEM
+(In Thousands)
+Schedule of Commission’s Proportionate Share of the Net Pension Liability
+Plan Fiscal Year Ended
+June 30, 2015 June 30, 2016 June 30, 2017 June 30, 2018 June 30, 2019 June 30, 2020 June 30, 2021 June 30, 2022 June 30, 2023 June 30, 2024
+Commission's proportion of the net pension liability or asset 0.3030% 0.3148% 0.3141% 0.2993% 0.28676% 0.27947% 0.28894% 0.35908% 0.40609% 0.39067%
+Commission’s proportionate share of the net pension liability $ 9,714 $ 1 4,613 $ 1 6,355 $ 1 6,698 $ 17,324 $ 17,740 $ 16,154 $ 2 5,712 $ 3 0,997 $ 3 1,708
+Commission’s covered payroll $ 5,856 $ 6 ,097 $ 6 ,182 $ 5 ,818 $ 5,571 $ 5,585 $ 5,825 $ 7 ,164 $ 8 ,946 $ 9 ,587
+Commission’s proportionate share of the net pension liability
+as a percentage of its covered payroll 165.88% 239.69% 264.55% 286.99% 310.97% 317.64% 277.32% 358.91% 346.49% 330.73%
+Plan fiduciary net position as a percentage of
+the total pension liability 77.62% 63.60% 60.41% 59.02% 56.72% 55.48% 63.00% 53.53% 52.86% 52.02%
+Schedule of Commission’s Contributions
+Commission Fiscal Year Ended
+June 30, 2016 June 30, 2017 June 30, 2018 June 30, 2019 June 30, 2020 June 30, 2021 June 30, 2022 June 30, 2023 June 30, 2024 June 30, 2025
+Required contribution $ 1,035 $ 1 ,049 $ 1 ,132 $ 1 ,126 $ 1,216 $ 1,332 $ 1,684 $ 2 ,355 $ 2 ,614 $ 2 ,863
+Contributions in relation to the required contribution $ 1,035 $ 1 ,049 $ 1 ,132 $ 1 ,126 $ 1,216 $ 1,332 $ 1,684 $ 2 ,355 $ 2 ,614 $ 2 ,863
+Contribution deficiency — — — — — — — — — —
+Commission’s covered payroll $ 6,097 $ 6 ,182 $ 5 ,818 $ 5 ,571 $ 5,585 $ 5,825 $ 7,164 $ 8 ,946 $ 9 ,587 $ 9 ,959
+Contributions as a percentage of covered payroll 16.97% 16.97% 19.45% 20.21% 21.77% 22.88% 23.51% 26.33% 27.26% 28.75%
+Notes:
+Information provided is based on a measurement date and actuarial valuation as of the end of the preceding fiscal year.
+Changes of Benefit Terms or Assumptions
+Change in assumptions. There were no changes in benefit terms or assumptions during the fiscal year reported.
+Page 63
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+SCHEDULES OF SELECTED OTHER POSTEMPLOYMENT
+BENEFIT INFORMATION
+MISSOURI CONSOLIDATED HEALTH CARE PLAN
+(In Thousands)
+Schedule of Commission’s Proportionate Share of the Net OPEB Liability
+Plan Fiscal Year Ended
+June 30, 2017 June 30, 2018 June 30, 2019 June 30, 2020 June 30, 2021 June 30, 2022 June 30, 2023 June 30, 2024
+Commission's proportion of the net OPEB liability 0.3424% 0.3245% 0.3082% 0.3061% 0.3073% 0.3932% 0.4496% 0.4384%
+Commission’s proportionate share of the net OPEB liability $ 6 ,042 $ 5,686 $ 5,451 $ 5,452 $ 5,242 $ 5 ,539 $ 6,480 $ 6,927
+Commission’s covered payroll $ 5 ,542 $ 5,245 $ 5,026 $ 5,187 $ 5,381 $ 6 ,719 $ 8,053 $ 9,004
+Commission’s proportionate share of the net OPEB liability
+as a percentage of its covered payroll 109.02% 108.41% 108.46% 105.11% 97.42% 82.44% 80.47% 76.93%
+Plan fiduciary net position as a percentage of
+the total OPEB liability 6.64% 6.90% 7.31% 8.24% 10.14% 12.12% 12.18% 12.41%
+Schedule of Commission’s Contributions
+Commission Fiscal Year Ended
+June 30, 2017 June 30, 2018 June 30, 2019 June 30, 2020 June 30, 2021 June 30, 2022 June 30, 2023 June 30, 2024 June 30, 2025
+Required contribution $ 230 $ 224 $ 2 53 $ 221 $ 229 $ 2 90 $ 335 $ 323 $ 318
+Contributions in relation to the required contribution $ 230 $ 224 $ 2 53 $ 221 $ 229 $ 2 90 $ 335 $ 323 $ 318
+Contribution deficiency — — — — — — — — —
+Commission’s covered payroll $ 5,542 $ 5,245 $ 5,026 $ 5,187 $ 5,381 $ 6 ,719 $ 8,053 $ 9,004 $ 9,386
+Contributions as a percentage of covered payroll 4.14% 4.27% 5.03% 4.26% 4.26% 4.31% 4.16% 3.59% 3.39%
+Notes:
+Information provided is based on a measurement date and actuarial valuation as of the end of the preceding fiscal year.
+Above schedules are ultimately required to show information for ten years. Only the data for years currently available is displayed
+Changes of benefit terms or assumptions
+The per capita health costs, administrative expenses and retiree contributions were updated to reflect current experience.
+The trend assumptions were revised to reflect future expectations.
+Page 64
+Supplementary Information
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF NET POSITION
+Page 1 of 2
+June 30, 2025
+(In Thousands)
+Bond-Financed Programs
+Operating Multifamily Single Family Total
+Assets
+Current Assets
+Cash and cash equivalents $ 18,497 $ — $ — $ 18,497
+Investments 3,362 — — 3,362
+Mortgage investments 11,630 — — 11,630
+Accrued interest receivable 2,553 — — 2,553
+Accounts receivable - other 1,276 — — 1,276
+Prepaid expenses 391 — — 391
+Total Current Assets 37,709 — — 37,709
+Noncurrent Assets
+Restricted assets
+Cash and cash equivalents 17,759 6,520 1 29,855 154,134
+Investments 105,935 2,824 3 ,016 111,775
+Mortgage investments 267,132 24,253 2 ,259,344 2,550,729
+Accrued interest receivable 810 159 9 ,839 10,808
+Total restricted assets 391,636 33,756 2,402,054 2,827,446
+Investments 201,170 — — 201,170
+Mortgage investments, net of current portion
+and allowances for loan losses of $38,816 117,148 — — 117,148
+Capital assets (excluding lease and subscription assets),
+less accumulated depreciation of $6,333 2,763 — — 2,763
+Capital assets - lease and subscription assets, less
+accumulated amortization of $2,622 6,315 — — 6,315
+Total Noncurrent Assets 719,032 33,756 2,402,054 3,154,842
+Total Assets 756,741 33,756 2 ,402,054 3,192,551
+Deferred Outflows of Resources
+Refunding of debt — 5 6 36 641
+Pension 7,121 — — 7,121
+Other Postemployment Benefits (OPEB) 2,615 — — 2,615
+Total Deferred Outflows of Resources 9,736 5 6 36 10,377
+Page 65
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF NET POSITION (Continued)
+Page 2 of 2
+June 30, 2025
+(In Thousands)
+Bond-Financed Programs
+Operating Multifamily Single Family Total
+Liabilities
+Current Liabilities
+Bonds and notes payable $ 25,215 $ — $ — $ 25,215
+Lease liabilities 805 — — 805
+Accrued interest payable 22 — — 22
+Accounts payable 19,789 — — 19,789
+Accrued compensated absences 740 — — 740
+Unearned revenue 1,383 — — 1,383
+Total Current Liabilities 47,954 — — 47,954
+Current Liabilities - Payable from Restricted Assets
+Bonds and notes payable — 1,145 3 8,927 40,072
+Accrued interest payable — 270 1 6,624 16,894
+Federal housing subsidy deposits 4,842 — — 4,842
+Accounts payable 1 — — 1
+Total Current Liabilities - Payable from
+Restricted Assets 4,843 1,415 5 5,551 61,809
+Noncurrent Liabilities
+Lease liabilities 6,161 — — 6,161
+Accrued compensated absences 785 — — 785
+Unearned revenue 10,145 — — 10,145
+Pension 31,708 — — 31,708
+Other Postemployment Benefits (OPEB) 6,927 — — 6,927
+Payable from restricted assets
+Bonds and notes payable — 21,806 2 ,304,239 2,326,045
+Total Noncurrent Liabilities 55,726 21,806 2 ,304,239 2,381,771
+Total Liabilities 108,523 23,221 2 ,359,790 2,491,534
+Deferred Inflows of Resources
+Refunding of debt — 51 7 77 828
+Pension 603 — — 603
+Other Postemployment Benefits (OPEB) 1,956 — — 1,956
+Total Deferred Inflows of Resources 2,559 51 7 77 3,387
+Net Position
+Net investment in capital assets 2,112 — — 2,112
+Restricted 386,793 10,489 4 2,123 439,405
+Unrestricted, including designated balances 266,490 — — 266,490
+Total Net Position $ 655,395 $ 10,489 $ 42,123 $ 708,007
+Page 66
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF NET POSITION
+MULTIFAMILY BOND - FINANCED PROGRAMS
+June 30, 2025
+(In Thousands)
+Multifamily Multifamily
+(2000 Indenture) (2014 Indenture) Total
+Assets
+Noncurrent Assets
+Restricted assets
+Cash and cash equivalents $ 4,276 $ 2,244 $ 6,520
+Investments 864 1,960 2 ,824
+Mortgage investments 12,548 11,705 2 4,253
+Accrued interest receivable 75 84 1 59
+Total Noncurrent Assets 17,763 15,993 3 3,756
+Total Assets 17,763 15,993 3 3,756
+Deferred Outflows of Resources
+Refunding of debt — 5 5
+Liabilities
+Current Liabilities - Payable from Restricted Assets
+Bonds and notes payable 538 607 1 ,145
+Accrued interest payable 246 24 2 70
+Total Current Liabilities - Payable from
+Restricted Assets 784 631 1 ,415
+Noncurrent Liabilities
+Bonds and notes payable 10,672 11,134 2 1,806
+Total Noncurrent Liabilities 10,672 11,134 2 1,806
+Total Liabilities 11,456 11,765 2 3,221
+Deferred Inflows of Resources
+Refunding of debt — 51 5 1
+Total Deferred Inflows of Resources — 51 5 1
+Net Position
+Restricted 6,307 4,182 1 0,489
+Total Net Position $ 6,307 $ 4,182 $ 10,489
+Page 67
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF NET POSITION
+SINGLE FAMILY BOND - FINANCED PROGRAMS
+June 30, 2025
+(In Thousands)
+Special First Place
+Homeownership Homeownership
+(2009 Indenture) (2015 Indenture) Total
+Assets
+Noncurrent Assets
+Restricted assets
+Cash and cash equivalents $ 1,034 $ 128,821 $ 129,855
+Investments — 3 ,016 3 ,016
+Mortgage investments 3 0,543 2 ,228,801 2 ,259,344
+Accrued interest receivable 1 12 9 ,727 9 ,839
+Total Noncurrent Assets 3 1,689 2 ,370,365 2 ,402,054
+Total Assets 31,689 2,370,365 2,402,054
+Deferred Outflows of Resources
+Refunding of debt — 636 6 36
+Total Deferred Outflows of Resources — 6 36 6 36
+Liabilities
+Current Liabilities - Payable from Restricted Assets
+Bonds and notes payable 9 64 3 7,963 3 8,927
+Accrued interest payable 5 7 1 6,567 1 6,624
+Total Current Liabilities - Payable from
+Restricted Assets 1 ,021 5 4,530 5 5,551
+Noncurrent Liabilities
+Payable from restricted assets
+Bonds and notes payable 1 4,747 2 ,289,492 2 ,304,239
+Total Noncurrent Liabilities 1 4,747 2 ,289,492 2 ,304,239
+Total Liabilities 1 5,768 2 ,344,022 2 ,359,790
+Deferred Inflows of Resources
+Refunding of debt 3 81 3 96 7 77
+Total Deferred Inflows of Resources 3 81 3 96 7 77
+Net Position
+Restricted 1 5,540 2 6,583 4 2,123
+Total Net Position $ 15,540 $ 26,583 $ 42,123
+Page 68
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND
+CHANGES IN NET POSITION
+For the Year Ended June 30, 2025
+(In Thousands)
+Bond-Financed Programs
+Operating Multifamily Single Family Total
+Operating Revenues
+Interest and investment income
+Income - mortgage investments $ 8,367 $ 1,310 $ 9 1,921 $ 101,598
+Income - investments 9,007 444 9,082 18,533
+Net increase (decrease) in fair value 11,474 (2) (5,049) 6,423
+Total interest and investment income 28,848 1,752 95,954 126,554
+Administration fees 8,885 — — 8,885
+Financing fees and other income 9,195 — 915 10,110
+Federal program income 219,260 — — 219,260
+Total Operating Revenues 266,188 1,752 96,869 364,809
+Operating Expenses
+Interest expense on bonds 1,120 868 71,636 73,624
+Bond debt expense and other fees 111 22 7,147 7,280
+Compensation 20,078 — — 20,078
+General and administrative expenses 6,587 — — 6,587
+Rent and other subsidy payments 2,399 — — 2,399
+Missouri Housing Trust Fund grants 3,801 — — 3,801
+Federal program expenses 207,646 — — 207,646
+Total Operating Expenses 241,742 890 78,783 321,415
+Income before transfers from Custodial Funds 24,446 862 18,086 43,394
+Transfer from Custodial Funds 24 — — 24
+Change in Net Position 24,470 862 18,086 43,418
+Net Position - Beginning of Year, as Restated 631,377 11,560 21,652 664,589
+Interfund Transfers (452) (1,933) 2,385 —
+Net Position - End of Year $ 6 55,395 $ 10,489 $ 4 2,123 $ 708,007
+Page 69
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND
+CHANGES IN NET POSITION
+MULTIFAMILY BOND - FINANCED PROGRAMS
+For the Year Ended June 30, 2025
+(In Thousands)
+Multifamily Multifamily
+(2000 Indenture) (2014 Indenture) Total
+Operating Revenues
+Interest and investment income
+Income - mortgage investments $ 703 $ 607 $ 1,310
+Income - investments 2 49 195 444
+Net increase (decrease) in fair value (15) 13 (2)
+Total interest and investment income 9 37 815 1,752
+Total Operating Revenues 9 37 815 1,752
+Operating Expenses
+Interest expense on bonds 5 14 354 868
+Bond debt expense and other fees 1 5 7 22
+Total Operating Expenses 5 29 361 890
+Change in Net Position 4 08 454 862
+Net Position - Beginning of Year 7 ,573 3,987 11,560
+Interfund Transfers (1,674) (259) (1,933)
+Net Position - End of Year $ 6,307 $ 4,182 $ 10,489
+Page 70
+MISSOURI HOUSING DEVELOPMENT COMMISSION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND
+CHANGES IN NET POSITION
+SINGLE FAMILY BOND - FINANCED PROGRAMS
+For the Year Ended June 30, 2025
+(In Thousands)
+Special First Place
+Homeownership Homeownership
+(2009 Indenture) (2015 Indenture) Total
+Operating Revenues
+Interest and investment income
+Income - mortgage investments $ 1,376 $ 90,545 $ 91,921
+Income - investments 52 9,030 9 ,082
+Net increase (decrease) in fair value 346 (5,395) (5,049)
+Total interest and investment income 1,774 94,180 9 5,954
+Other income 42 873 9 15
+Total Operating Revenues 1,816 95,053 9 6,869
+Operating Expenses
+Interest expense on bonds 503 71,133 7 1,636
+Bond debt expense and other fees 13 7,134 7 ,147
+Total Operating Expenses 516 78,267 7 8,783
+Change in Net Position 1,300 16,786 1 8,086
+Net Position - Beginning of Year 14,571 7,081 2 1,652
+Interfund Transfers (331) 2,716 2 ,385
+Net Position - End of Year $ 15,540 $ 26,583 $ 42,123
+Page 71

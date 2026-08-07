@@ -1,0 +1,5294 @@
+CONNECTICUT HOUSING FINANCE AUTHORITY
+FINANCIAL STATEMENTS AND
+SUPPLEMENTARY INFORMATION
+DECEMBER 31, 2025 AND 2024
+CONNECTICUT HOUSING FINANCE AUTHORITY
+CONTENTS
+Independent Auditors’ Report 1 - 3
+Management’s Discussion and Analysis 4 - 14
+Basic Financial Statements:
+Statements of Net Position 15
+Statements of Revenues, Expenses and Changes in Net Position 16
+Statements of Cash Flows 17
+Notes to Financial Statements 18 - 61
+Required Supplementary Information:
+Schedule of the Authority’s Proportionate Share of Net Pension Liability – Connecticut
+State Employees Retirement System 62
+Schedule of Employer Contributions – Connecticut State Employees Retirement System 63
+Schedule of the Authority’s Proportionate Share of Net OPEB Liability 64
+Schedule of Employer Contributions – Employees’ Other Post Employment Benefit Plan 65
+Supplementary Information:
+Combining Schedules of Net Position 66 - 67
+Combining Schedules of Revenues, Expense and Changes in Net Position 68 - 69
+INDEPENDENT AUDITORS' REPORT
+To the Board of Directors
+Connecticut Housing Finance Authority
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of the Connecticut Housing Finance
+Authority (the Authority), a component unit of the state of Connecticut, as of and for the year
+ended December 31, 2025 and 2024, and the related notes to the financial statements, which
+collectively comprise the Authority’s basic financial statements as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects,
+the financial position of the Authority as of December 31, 2025 and 2024, and the changes in its
+financial position and its cash flows for the years then ended in accordance with accounting
+principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United
+States of America and the standards applicable to financial audits contained in Government
+Auditing Standards, issued by the Comptroller General of the United States. Our responsibilities
+under those standards are further described in the Auditors’ Responsibilities for the Audit of the
+Financial Statements section of our report. We are required to be independent of the Authority
+and to meet our other ethical responsibilities, in accordance with the relevant ethical requirements
+relating to our audit. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements
+in accordance with accounting principles generally accepted in the United State of America, and
+for the design, implementation, and maintenance of internal control relevant to the preparation
+and fair presentation of financial statements that are free from material misstatement, whether
+due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about the
+Authority’s ability to continue as a going concern for twelve months beyond the financial statement
+date, including any currently known information that may raise substantial doubt shortly thereafter.
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditors’
+1
+report that includes our opinions. Reasonable assurance is a high level of assurance but is not
+absolute assurance and therefore is not a guarantee that an audit conducted in accordance with
+generally accepted auditing standards and Government Auditing Standards will always detect a
+material misstatement when it exists. The risk of not detecting a material misstatement resulting
+from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they
+would influence the judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with generally accepted auditing standards and Government
+Auditing Standards, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks.
+Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Authority’s internal control. Accordingly, no such opinion
+is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Authority’s ability to continue as a going
+concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management's discussion and analysis and the pension and OPEB schedules, as presented in
+the table of contents, be presented to supplement the basic financial statements. Such information
+is the responsibility of management and, although not a part of the basic financial statements, is
+required by the Governmental Accounting Standards Board, who considers it to be an essential
+part of financial reporting for placing the basic financial statements in an appropriate operational,
+economic, or historical context. We have applied certain limited procedures to the required
+supplementary information in accordance with auditing standards generally accepted in the
+United States of America, which consisted of inquiries of management about the methods of
+preparing the information and comparing the information for consistency with management's
+responses to our inquiries, the basic financial statements, and other knowledge we obtained
+during our audit of the basic financial statements. We do not express an opinion or provide any
+assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+Accounting principles generally accepted in the United States of America require that the
+management's discussion and analysis on pages 4-14 be presented to supplement the basic
+financial statements. Such information is the responsibility of management and, although not a
+2
+part of the basic financial statements, is required by the Governmental Accounting Standards
+Board, who considers it to be an essential part of financial reporting for placing the basic financial
+statements in an appropriate operational, economic, or historical context. We have applied certain
+limited procedures to the required supplementary information in accordance with auditing
+standards generally accepted in the United States of America, which consisted of inquiries
+of management about the methods of preparing the information and comparing the information
+for consistency with management's responses to our inquiries, the basic financial statements, and
+other knowledge we obtained during our audit of the basic financial statements. We do not
+express an opinion or provide any assurance on the information because the limited procedures
+do not provide us with sufficient evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Authority’s basic financial statements. The accompanying combining
+and supplementary schedules are presented for purposes of additional analysis and are not a
+required part of the basic financial statements. Such information is the responsibility of
+management and was derived from and relates directly to the underlying accounting and other
+records used to prepare the basic financial statements. The information has been subjected to
+the auditing procedures applied in the audit of the basic financial statements and certain additional
+procedures, including comparing and reconciling such information directly to the underlying
+accounting and other records used to prepare the basic financial statements or to the basic
+financial statements themselves, and other additional procedures in accordance with auditing
+standards generally accepted in the United States of America. In our opinion, the combining and
+supplementary schedules are fairly stated, in all material respects, in relation to the basic financial
+statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+April 4, 2025, on our consideration of the Authority's internal control over financial reporting and
+on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant
+agreements and other matters. The purpose of that report is solely to describe the scope of our
+testing of internal control over financial reporting and compliance and the results of that testing,
+and not to provide an opinion on the effectiveness of the Authority's internal control over financial
+reporting or on compliance. That report is an integral part of an audit performed in accordance
+with Government Auditing Standards in considering the Authority's internal control over financial
+reporting and compliance.
+Hartford, Connecticut
+April 6, 2026
+3
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024
+This section of the Connecticut Housing Finance Authority’s (the “Authority”) financial statements, Management’s
+Discussion and Analysis, presents an overview of the Authority’s financial performance as of and for the years
+ended December 31, 2025 and 2024. It provides an assessment of the Authority’s financial position and identifies
+the factors that, in management’s view, significantly affected the Authority’s overall financial position. It may
+contain assumptions or conclusions by the Authority’s management that should not be considered a replacement
+for, and must be read in conjunction with, the financial statements described below.
+Overview of the Financial Statements
+This annual financial report consists of four parts: Management’s Discussion and Analysis, the Basic Financial
+Statements, Required Supplementary Information and Supplementary Information. The Authority is a self-
+supporting quasi-public agency established for the purpose of alleviating the shortage of affordable housing for
+low and moderate income households in the State of Connecticut and, when appropriate, to promote or maintain
+the economic development of Connecticut through employer-assisted housing efforts. The financial statements
+are presented using the accrual basis of accounting. The Authority operates in a manner similar to a private
+business that includes activities such as the financing of home mortgage loans and multifamily and special needs
+housing real estate development.
+The Basic Financial Statements
+The Statement of Net Position provides information about the Authority’s financial condition at the end of the
+year by indicating the nature and amounts of its investments in resources (assets), its deferred outflows of
+resources, its obligations (liabilities), its deferred inflows of resources and its resulting net position. Net position
+represents total assets, plus total deferred outflows of resources, less total liabilities, less deferred inflows of
+resources. The organization of the statement of net position separates assets and liabilities into their current and
+non-current components.
+The Statement of Revenues, Expenses and Changes in Net Position accounts for all of the current year’s
+revenues and expenses, measures the success of the Authority’s operations over the past year and can be used
+to determine how the Authority has funded its costs.
+The Statement of Cash Flows provides information about the Authority’s cash receipts, cash payments and net
+changes in cash resulting from operations, financing, capital and investing activities.
+The Notes to the Financial Statements
+The Notes to Financial Statements provide:
+• Information that is essential to understanding the basic financial statements, such as the Authority’s
+accounting methods and policies.
+• Details of contractual obligations, future commitments and contingencies of the Authority.
+• Other events or developing situations that could materially affect the Authority’s financial position.
+Required Supplementary Information and Supplementary Information
+Required Supplementary Information represents information required by GASB, which supplements the basic
+financials statements and notes. These schedules provide additional information about the Authority’s
+proportionate share of the Net OPEB Liability, Net Pension Liability and schedules of the Authority’s contributions
+to the State Employees’ Retirement System (SERS).
+The Supplementary Information includes individual program schedules that present the Authority’s financial
+statements in more detail
+4
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+Financial Highlights – Year Ended December 31, 2025
+During 2025, the Authority closed $1.0 billion in single family loans bringing homeownership to 3,788
+homebuyers. The need for multifamily financing remained strong. During the year, the Authority financed 1,168
+affordable multifamily units for a total investment commitment of $196.4 million.
+The Time-To-Own (TTO) forgivable loan program continued to be highly utilized by homebuyers as a tool to
+enhance homeownership affordability. During the year, 2,718 or 72% of the Authority’s borrowers received TTO
+loans. TTO along with the Downpayment Assistance Program (DAP) helped make purchasing a home a reality
+for CHFA borrowers. TTO and DAP are described in further detail in Note 16.
+The Authority issued five series of Housing Mortgage Finance Program Bonds generating $1.27 billion in
+proceeds to provide financing for its home mortgage and multifamily mortgage housing programs, in addition to
+refunding approximately $22.8 million in outstanding bonds. As demand remained high during 2025, the Authority
+issued a strategic mix of tax-exempt and taxable debt in response to volume cap constraints.
+The Authority issued its first three series of bonds under the Housing Revenue Bond General Trust Indenture.
+The proceeds were used to finance the acquisition and rehabilitation of three multifamily properties. The bonds
+are backed by Fannie Mae MBS and as a result, are not carried under the Authority’s general obligation.
+The Authority’s investment earnings were propelled by an increase in investments, specifically program assets,
+as the majority of single-family loans purchased during the year were securitized into mortgage-backed
+securities. Short-term interest rates, although lower than 2024, remained elevated during 2025. The State
+Treasurer’s Short-Term Investment Fund averaged 4.32% for the year, starting the year at a high of 4.58%.
+Financial Highlights – Year Ended December 31, 2024
+During 2024, the Authority closed $1.1 billion in single family loans bringing homeownership to 3,873
+homebuyers. The need for multifamily financing remained strong as the high interest rate environment influenced
+the demand for 9% LIHTC taxable financings. During the year, the Authority financed 1,201 affordable multifamily
+units for a total investment commitment of $234.9 million.
+The Authority launched the Smart Rate Pilot Program during the year. Under Smart Rate, eligible borrowers
+receive a 1.125% interest rate reduction on their CHFA first mortgage. The goal of the Program’s interest rate
+reduction is to help offset a borrower’s student loan debt burden. During the year, the Authority funded 163 Smart
+Rate loans for $49.4 million.
+The TTO forgivable loan program was highly utilized by homebuyers as a tool to enhance homeownership
+affordability. During the year, 2,697 or 70% of the Authority’s borrowers applied for and received TTO loans.
+TTO along with DAP helped propel single family production to near record levels.
+The Authority issued six series of Housing Mortgage Finance Program Bonds generating $1.1 billion in proceeds
+to provide financing for its home mortgage and multifamily mortgage housing programs in addition to refunding
+approximately $163.8 million in outstanding bonds. The Authority had originally projected to issue $650 million
+in bonds, however, the large increase in homeownership purchase activity, substantially driven by the Authority’s
+TTO forgivable loan program, drove the need to generate additional funding. This included the need to issue
+taxable bonds, as the remaining Private Activity Bond Volume Cap was exhausted during the year.
+The Authority’s investment earnings were propelled by an increase in investments, specifically program assets,
+as the majority of single-family loans purchased during the year were securitized into mortgage-backed
+5
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+securities. Short-term interest rates remained elevated during 2024. The State Treasurer’s Short-Term
+Investment Fund averaged 5.26% for the year, starting the year at a high of 5.49%.
+Financial Analysis of the Authority
+The following table summarizes the changes in Net Position between December 31, 2025, 2024 and 2023:
+(in millions) % Change
+2025 2024 2023 2025/2024 2024/2023
+Assets
+Current assets $ 1,455.8 $ 1,394.1 $ 1,416.3 4.4 % (1.6)%
+Capital assets 3.3 3.6 4.2 (9.2) (13.0)
+Noncurrent assets 6,663.2 5,645.7 4,860.6 18.0 16.2
+Total assets 8,122.3 7,043.4 6,281.1 15.3 12.1
+Deferred outflows of resources
+Unamortized deferred bonds
+refunding costs 40.2 46.7 53.9 (14.0) (13.3)
+Deferred amounts for OPEB 9.0 15.3 15.5 (41.1) (1.6)
+Deferred amounts for pensions 10.8 14.7 9.5 (26.7) 55.1
+Total deferred outflows
+of resources 60.0 76.7 78.9 (21.8) (2.8)
+Liabilities
+Long-term bonds payable 6,005.8 5,129.7 4,464.8 17.1 14.9
+Net OPEB liability 39.5 56.3 52.1 (29.9) 8.0
+Net pension liability 32.2 48.2 42.0 (33.1) 14.8
+Other liabilities 908.5 881.5 808.1 3.1 9.1
+Total liabilities 6,986.0 6,115.7 5,367.0 14.2 13.9
+Deferred inflow of resources
+Deferred amount for OPEB 28.2 24.9 32.9 13.3 (24.6)
+Deferred amount for pensions 16.4 11.7 16.1 40.7 (27.4)
+Derivative Financial Instruments 194.7 203.3 171.3 (4.2) 18.7
+Total deferred inflows
+of resources 239.3 239.9 220.3 (0.3) 8.9
+Net position
+Net investment in
+capital assets 3.3 3.6 4.2 (9.2) (13.0)
+Restricted 953.7 760.9 768.5 25.3 (1.0)
+Total Net Position $ 957.0 $ 764.5 $ 772.7 25.2 % (1.1) %
+.
+6
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+Change 2025/2024
+• Cash and investments in securities increased $981.5 million or 22.7% primarily resulting from:
+• A net increase of $34.6 million in bond proceeds and other funds held to be used for the financing of
+mortgage loans, the retirement of bond debt and the payment of administrative costs.
+• The majority of the single family loans purchased during the year were securitized into mortgage-backed
+securities resulting in an increase in Program Assets of $1.053 billion. Program Assets and other
+investments were reduced by maturities of $236.9 million.
+• A $130.8 million increase attributable to the increase in investment fair values specifically related to
+GNMA, FNMA and FHLMC Program Assets (see Note 4 of the financial statements). There is an inverse
+relationship between the market value of MBS’s and changes in interest rates.
+• Mortgage loan receivable increased by $84.3 million or 3.3%. This increase was substantially attributed to
+the increase in the multifamily construction and permanent loan portfolios.
+• Accrued interest receivable on securities increased $3.6 million or 21.5%. This increase is due to the
+increase in the Authority’s investment portfolio, as the majority of single-family loans purchased were
+securitized.
+• Accounts receivable and other assets increased $17.5 million or 18.9%. This increase is substantially
+attributed to:
+• The Authority has an arrangement with a GNMA/FNMA/FHLMC seller/servicer. The terms of the
+agreement provide for immediate reimbursement of single-family loans that have been originated,
+however are waiting to be pooled and securitized. The time lag between reimbursement and
+securitization varies but is generally 45 days. The Authority earns interest at the note rate during this
+time. The Authority entered into seller/servicer agreements with two other providers during 2025. Those
+new arrangements did not require immediate reimbursement for loans awaiting securitization. This
+reduced the volume of loans that were required to be immediately reimbursed, and as a result reduced
+the corresponding receivable by $20 million over prior year. However, multifamily funding provided
+under the new Housing Revenue Bond Indenture during the year in the amount of $37.5 million will not
+convert to a mortgage-backed security until the end of the two-year construction period.
+• Deferred outflows of resources decreased $16.7 million or 21.8%. This decrease is substantially attributed
+to:
+• A $3.9 million decrease in deferred amount for pensions and $6.3 million decrease in deferred amount
+for OPEB. The deferred amounts are allocated to the Authority from an actuarial analysis prepared by
+the State of Connecticut. It is comprised of the difference between expected and actual experience,
+changes in actuarial assumptions, changes in proportion and differences between employer
+contributions and proportionate share of employer contributions and lastly, the employer contributions
+made between the measurement date of June 30, 2025 and the Authority’s year-end of December 31,
+2025.
+• A net decrease of $6.5 million or 14% in unamortized deferral on bond refundings. The Authority has
+refunded certain variable rate bonds that were being hedged by interest rate swaps. The fair value of
+the swaps at the time of the refundings was reclassified from derivative financial instruments-deferred
+outflows to unamortized deferral on bond refundings. The amounts reclassed are then amortized over
+the shorter of the life of the refunded or new debt. The $6.5 million decrease is a result of the current
+year amortization of these deferrals.
+7
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+• Escrow deposits and unearned revenue increased by $66 million or 22.3%. This is substantially attributed
+to:
+• A $38.9 million increase to collateral held in the Housing Revenue Bond Fund, to be released upon the
+completion of the project construction period and subsequent securitization of the corresponding Fund
+assets.
+• An $11.8 million increase in Build-for-CT funds on hand. The Authority received additional funding from
+the State during the year and is in the process of spending down those funds on program activities.
+• An increase in escrows pertaining to the multifamily housing portfolio, the majority of the increase
+pertains to capital contributions received from developers and escrows required to be funded at initial
+closings.
+• Line of credit payable decreased by $71.4 million or 32.0%. This change is largely due to the fact that the
+Bank of America line was paid down by $75 million during 2025. All line of credit agreements are further
+described in Note 8 of the financial statements.
+• Bonds payable increased by $890.7 million or 13.3%. The increase is attributed to:
+• An increase of $1.33 billion as a result of new bonds issued including original issue premium.
+• A decrease of $430.0 million as a result of redemptions.
+• A decrease of $10.3 million as a result of the amortization of bond premiums.
+Change 2024/2023
+• Cash and investments in securities increased $698.6 million or 19.3% primarily resulting from:
+• A net increase of $39.3 million in short-term investments (STIF and Money Market).
+• The majority of the single family loans purchased during the year were securitized into mortgaged-
+backed-securities resulting in an increase in Program Assets of $986.5 million. Program Assets and
+other investments were reduced by maturities of $264.9 million.
+• A $62.2 million decrease attributable to the decrease in investment fair values specifically related to
+GNMA, FNMA and FHLMC Program Assets (see Note 4 of the financial statements). There is an inverse
+relationship between the market value of MBS’s and changes in interest rates.
+• Accrued interest receivable on securities increased $3.4 million or 25.9%. This increase is due to the
+increase in the Authority’s investment portfolio, as the majority of single family loans purchased were
+securitized.
+• Accounts receivable and other assets decreased $7.4 million or 7.4%. This decrease is substantially
+attributed to:
+• The Authority has an arrangement with a GNMA/FNMA/FHLMC seller/servicer. The terms of the
+agreement provide for immediate reimbursement of single-family loans that have been originated,
+however are waiting to be pooled and securitized. The time lag between reimbursement and
+securitization varies but is generally 45 days. The Authority earns interest at the note rate during this
+time. Although single family loan production increased 23% year-over-year, the timing of the last security
+settlement of the year resulted in the majority of this reduction.
+• Deferred outflows of resources decreased $2.2 million or 2.8%. This decrease is substantially attributed to:
+• A $5.2 million increase in deferred amount for pensions. The deferred amounts are allocated to the
+Authority from an actuarial analysis prepared by the State of Connecticut. It is comprised of the
+difference between expected and actual experience, changes in actuarial assumptions, changes in
+proportion and differences between employer contributions and proportionate share of employer
+8
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+contributions and lastly, the employer contributions made between the measurement date of June 30,
+2024 and the Authority’s year-end of December 31, 2024.
+• A net decrease of $7.2 million or 13.3% in unamortized deferral on bond refundings. The Authority has
+refunded certain variable rate bonds that were being hedged by interest rate swaps. The fair value of
+the swaps at the time of the refundings was reclassified from derivative financial instruments-deferred
+outflows to unamortized deferral on bond refundings. The amounts reclassed are then amortized over
+the shorter of the life of the refunded or new debt. The $7.2 million decrease is a result of the current
+year amortization of these deferrals.
+• Line of credit payable increased by $100 million or 80.0%. During 2024, the Authority drew down on the
+Wells Fargo line of credit and remainder of US Bank’s available line to meet liquidity needs. All line of credit
+agreements are further described in Note 8 of the financial statements.
+• Bonds payable increased by $631.4 million or 16.3%. The increase is attributed to:
+• An increase of $1.112 billion as a result of new bonds issued including original issue premium.
+• An increase of $60 thousand due to capital appreciation bond accretions.
+• A decrease of $469.4 million as a result of redemptions.
+• A decrease of $11.3 million due to the amortization of original issue premiums.
+• Net OPEB liability increased by $4.2 million or 8.0%. Net pension liability increased by $6.2 million or
+14.8%. The Authority is a component unit of the State of Connecticut and participates in the State’s OPEB
+and pension plan. Liabilities are allocated based on the Authority’s proportionate share of the State of
+Connecticut’s net OPEB and pension liability. Both liabilities are adjusted annually based on an actuarial
+valuation prepared by the State (see Note 13 and Note 14 of the financial statements).
+• Deferred inflows of resources increased $19.7 million or 8.9%. This includes:
+• A $8.1 million decrease in deferred amount for OPEB and a $4.3 million decrease in deferred amount for
+pensions. The deferral changes are explained in further detail in Note 13 and Note 14 of the financial
+statements.
+• A $32.1 million increase in derivative financial instruments due to fluctuations in the fair market value of
+the Authority’s interest rate swap contracts.
+The home mortgage, rental housing and special needs housing loan and investment portfolios are one of the
+Authority’s primary assets.
+New loans financed under the Authority’s home mortgage and special needs housing programs (including
+GNMA, FNMA & FHLMC Program Assets, excluding the acquired portfolio from the State) exceeded payoffs for
+the three years ended December 31, 2025, 2024 and 2023 as follows:
+(in millions)
+New Loans
+Financed Payoffs Net
+2025 $ 1,138.8 $ 163.7 $ 975.1
+2024 1,115.9 145.0 970.9
+2023 847.0 142.8 704.2
+9
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+The change in the multifamily rental housing and special needs housing portfolios (excluding the acquired
+portfolio from the State) is summarized as follows:
+As a result of legislation that was passed during calendar year 2002, on April 9, 2003 the Authority acquired
+housing assets from the Connecticut Department of Economic and Community Development from a reallocation
+of $85 million of its available cash resources. The par value of this acquired portfolio at December 31, 2003 was
+$213.3 million. After evaluation of the underlying loans by the Authority, the carrying value of this portfolio was
+written down to $65.0 million.
+During calendar year 2016, further legislation was passed which resulted in the Authority acquiring multifamily
+housing assets from the Connecticut Department of Housing from a reallocation of $15 million of the Authority’s
+available cash resources. The par value of this acquired portfolio at December 31, 2016 was $16.1 million. After
+evaluation of the underlying loans by the Authority, the carrying value of this portfolio was written down to zero.
+The status of these acquired portfolios combined, as of December 31, 2025, 2024 and 2023, is summarized as
+follows (in millions):
+10
+C o n s
+P e rm
+S p e c
+T o ta
+H o
+M u
+T o
+A llo w
+tru c tio n lo a n b a la n c e s
+a n e n t lo a n b a la n c e s
+ia l n e e d s h o u s in g p e rm a n e n
+l M u ltifa m ily M o r tg a g e L o
+m e m o r tg a g e lo a n s
+ltifa m ily m o r tg a g e lo a n s
+ta l a c q u ir e d p o r tfo lio
+a n c e fo r lo s s e s % to p a r v
+t lo a
+a n s
+a lu e
+n b a la
+$
+$
+n c e s
+V
+Pa
+$
+$
+a r
+lu e
+1 5
+1 5
+03
+3
+2
+1
+1
+.3.6
+.9
+0 2
+1,4
+,6
+D
+$
+$
+5
+6 4 .7 $
+2 3 .9
+5 7 .6
+4 6 .2 $
+e c e m b
+A llo
+f o r L
+(in m illio
+2 0 2 4
+1 0 7
+1 ,3 3 8
+5 7
+1 ,5 0 3
+e r 3 1 , 2 0
+w a n c e
+o s s e s
+( 0 .3 )
+( 1 3 5 .0 )
+( 1 3 5 .3 )
+8 7 .9 %
+n s
+.2.9.6
+.7
+2 5
+$
+$
+)
+$
+$
+CA am r
+2
+1
+1
+r yo
+0 2
+,2
+,4
+in
+u n
+1
+1
+3
+9 2 .2
+5 3 .5
+6 0 .5
+0 6 .2
+gt
+0 .0
+8 .6
+8 .6
+2 0 2 5 /2
+5
+% C
+0 2 4
+3 .6
+6 .3
+0 .0
+9 .5
+h
+%
+%
+a n g2
+0
+e2
+4 /2 0
+1 66(4
+6
+2 3
+.3.8.7
+.9
+)
+%
+%
+December 31, 2024
+Par Allowance Carrying
+Value for Losses Amount
+Home mortgage loans $ 0.3 $ (0.3) $ 0.0
+Multifamily mortgage loans 154.7 (135.6) 19.1
+Total acquired portfolio $ 155.0 $ (135.9) $ 19.1
+Allowance for losses % to par value 87.6%
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+Mortgage loan earnings, including earnings on GNMA, FNMA and FHLMC Program Assets, which are included
+in “interest on investments,” represent the Authority’s major source of operating revenue. The Authority also
+charges various program fees that include but are not limited to application fees, commitment fees, extension
+fees and financing fees.
+The following table summarizes the changes in operating income between December 31, 2025, 2024 and 2023.
+11
+H o m e m o r tg a g e lo a n s $
+M u ltifa m ily m o r tg a g e lo a n s
+T o ta l a c q u ir e d p o r tfo lio $
+A llo w a n c e fo r lo s s e s % to p a r v a lu e
+O p e ra tin g R e v e n u e s :
+In te re s t o n m o rtg a g e lo a n s
+In te re s t o n in v e s tm e n ts
+F e e s a n d o th e r in c o m e
+T o ta l o p e r a tin g r e v e n u e s
+O p e ra tin g E x p e n s e s :
+In te re s t
+B o n d is s u a n c e c o s ts
+S e rv ic e r fe e s
+A d m in is tra tiv e
+P ro v is io n fo r lo a n lo s s re s e rv e
+T o ta l o p e r a tin g e x p e n s e s
+O p e ra tin g in c o m e
+N o n o p e ra tin g R e v e n u e s (E x p e n s e s ):
+A c tu a ria l a s s u m p tio n c h a n g e s p e n s io n &
+N e t in c re a s e (d e c re a s e ) in th e fa ir v a lu e
+o f in v e s tm e n ts
+O th e r
+T o ta l n o n o p e r a tin g in c o m e (lo s s )
+C h a n g e in N e t P o s itio n
+O P
+V
+E
+Pa
+B
+a r
+lu e
+0
+1 5 6
+1 5 6
+$
+$
+.6.0
+.6
+D
+$
+$
+2
+e
+0
+12
+3
+2
+3
+1
+1
+1
+c
+2
+2026
+2124
+1
+4
+1
+3
+4
+9
+e m b
+A llo
+f o r L
+5
+6 .7
+8 .8
+5 .8
+1 .3
+7 .9
+0 .3
+9 .0
+0 .3
+8 .1
+5 .6
+5 .7
+4 .6
+0 .8
+1 .4
+6 .8
+2 .5
+e r 3 1 , 2 0 2 3
+w a n c e
+o s s e s
+( 0 .5 ) $
+( 1 3 6 .5 )
+( 1 3 7 .0 ) $
+8 7 .5 %
+(in m illio n
+2 0 2 4
+$ 1 1 5 .1
+1 6 3 .7
+2 2 .6
+3 0 1 .4
+1 8 4 .1
+1 0 .1
+2 7 .8
+3 8 .4
+4 .5
+2 6 4 .9
+3 6 .5
+7 .0
+(6 2 .2
+1 0 .5
+(4 4 .7
+$ (8 .2
+s
+)
+)
+)
+CA
+)
+am
+$
+$
+r r yo in g
+u n t
+0 .1
+1 9 .5
+1 9 .6
+2 0 2 3
+1 1 3
+1 2 6
+1 3
+2 5 3
+1 5 05
+2 0
+3 8
+1 9
+2 3 5
+1 8
+9
+3 31
+4 4
+6 2
+.8.2.7.7
+.4.5.9.7.9.4
+.3
+.6
+.1.4.1
+.4
+$
+$
+2 0 2
+$ C
+5 /2 0 2 4
+1 1 .6
+4 5 .1
+3 .2
+5 9 .9
+4 3 .8
+0 .2
+1 .2
+1 .9
+3 .6
+5 0 .7
+9 .2
+7 .6
+1 9 3 .0
+(9 .1 )
+1 9 1 .5
+2 0 0 .7
+h a
+$
+$
+n g2 e0
+2 4 /2 0
+1
+3 78
+4 7
+3 346(0
+(1 5
+2 9
+1 8
+(2
+(9 59
+(8 8
+(7 0
+2 3
+.3
+.5
+.9
+.7
+.7
+.6
+.9
+.3 )
+.4 )
+.5
+.2
+.6 )
+.3 )
+.1
+.8 )
+.6 )
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+Operating Revenue ($000)
+$225,000
+$200,000
+$175,000
+$150,000
+$125,000
+$100,000
+$75,000
+$50,000
+$25,000
+$0
+2025 2024 2023
+Mortgage Interest Investment Interest
+Fees/Other Income
+Change 2025/2024
+• Net position increased $192.5 million in 2025. Operating income was $45.7 million, an increase of $9.2
+million from the prior year.
+• Operating revenues increased $59.9 million or 19.9%. This increase is primarily due to an increase in
+interest earned from investments. This increase was driven by a 22.8% increase in the Authority’s
+investment portfolio as the majority of single-family loans purchased during the year were securitized
+into mortgage-backed securities, coupled with an elevated short-term interest rate environment. In
+addition, there was an $11.6 million increase in interest on mortgage loans, largely as a result of the
+increase in the multifamily loan portfolio.
+• Operating expenses increased $50.7 million or 19.1%. This increase is substantially attributable to:
+• A $43.8 million increase in interest costs. Outstanding bonds payable were $896 million higher than
+prior year, contributing to the majority of the increase in interest costs.
+• A $3.5 million increase in provision for loss reserves. The Authority reevaluated the adequacy of loss
+reserves for certain multifamily loans currently receiving federal subsidies due to recent changes at
+the federal level.
+• Nonoperating gain was $146.8 million in 2025 compared to a nonoperating loss of $44.7 million in 2024, a
+year-over-year increase of $191.5 million. The difference is substantially attributable to:
+• A $7.6 million increase resulting from pension and OPEB actuarial assumption changes. Pension and
+OPEB liabilities and expenses are allocated to the Authority per an actuarial analysis prepared by the
+State of Connecticut. See Notes 13 and 14 for further detail.
+• During 2025, there was a $130.8 million increase in the fair value of the Authority’s investment
+portfolio, specifically the Authority’s GNMA, FNMA and FHLMC Program Assets discussed in Note 4
+of the financial statements. When compared to the fair value decrease of $62.2 million during 2024,
+the result is a year-over-year increase of $193.0 million. The change in market interest rates has an
+inverse relationship to the fair value of mortgage-backed securities. Interest rates at the end of 2025
+were lower than at the end of 2024.
+• Grant funding exceeded grant expenditures by $1.4 million during 2025, however grant funding
+exceeded grant expenditures by $10.5 million in 2024, resulting in a year-over-year change of $9.1
+12
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+million. This change was substantially attributed to the $9 million in additional DAP program funding
+received from the State during 2024. No DAP funds were received in 2025.
+Change 2024/2023
+• Net position decreased $8.2 million in 2024. Operating income was $36.5 million, an increase of $18.2
+million from the prior year.
+• Operating revenues increased $47.7 million or 18.9%. This increase is primarily due to an increase in
+interest earned from investments. This increase was driven by a 19.3% increase in the Authority’s
+investment portfolio as the majority of single family loans purchased during the year were securitized
+into mortgage-backed securities, coupled with an elevated short-term interest rate environment. In
+addition, there was an increase in fees and other income. The substantial increase in single family
+production during 2024 has resulted in an increase in fee income associated with the single family
+program.
+• Operating expenses increased $29.5 million or 12.5%. This increase is substantially attributable to:
+• A $33.7 million increase in interest costs. Outstanding bonds payable were $635 million higher than
+prior year, substantially contributing to the increase in interest costs.
+• A $4.6 million increase in bond issuance costs. The debt issued during the year was approximately
+double that of the prior year due to the considerable increase in demand for homeownership financing.
+• A $6.9 million increase in servicer fees. The Authority experienced a substantial increase in single
+family loan production during 2024 as borrowers took advantage of lower than market interest rates
+and its generous down payment assistance programs.
+• A $15.4 million decrease in provision for loss reserves. A component of the loss reserve analysis is to
+conduct a loan specific review of projects’ recent annual financial statements with a focus towards
+debt service coverage ratio (DSCR). Reserves are generally increased for projects that have a DSCR
+of less than 1.0. According to their 2023 audited financial statements, the number of new projects that
+fell into this category was substantially less than prior year, as the financial impact due to the lingering
+effects from the pandemic had diminished.
+• Nonoperating loss was $44.7 million in 2024 compared to $44.1 million in nonoperating income in 2023, a
+year-over-year decrease of $88.8 million. The difference is substantially attributable to:
+• A $2.6 million decrease resulting from pension and OPEB actuarial assumption changes. Pension
+and OPEB liabilities and expenses are allocated to the Authority per an actuarial analysis prepared by
+the State of Connecticut. See Notes 13 and 14 for further detail.
+• During 2024, there was a $62.2 million decrease in the fair value of the Authority’s investment
+portfolio, specifically the Authority’s GNMA, FNMA and FHLMC Program Assets discussed in Note 4
+of the financial statements. When compared to the fair value increase of $33.1 million during 2023,
+the result is a year-over-year decrease of $95.3 million. The change in market interest rates has an
+inverse relationship to the fair value of mortgage-backed securities. Interest rates at the end of 2024
+were higher than at the end of 2023.
+• Grant funding exceeded grant expenditures by $10.5 million during 2024, however grant funding only
+exceeded grant expenditures by $1.4 million in 2023, resulting in a year-over-year change of $9.1
+million. This change was substantially attributed to:
+• The $9 million in additional DAP program funding received from the State during 2024. No DAP
+funds were received in 2023.
+13
+CONNECTICUT HOUSING FINANCE AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS (UNAUDITED)
+December 31, 2025, and 2024 – (Continued)
+Debt Administration
+The following table summarizes the changes in bonds payable between December 31, 2025, 2024 and 2023.
+More detailed information related to the Authority’s outstanding bond debt obligations is presented in Note 8 of
+the financial statements.
+Contacting the Authority’s Financial Management
+This financial report is designed to provide a general overview of the Authority’s finances. If you have questions
+about this report or need additional information, contact the Finance Department of the Connecticut Housing
+Finance Authority at 999 West Street, Rocky Hill, CT 06067.
+14
+B o n d s p a y a b le $
+2 0
+6
+2
+,3
+5
+4 4 .1 $
+( in m2 illio
+0 2 4
+5 ,4 5
+n
+3
+s )
+.3 $
+2 0
+4
+2
+,8
+3
+2 1 .9
+2 0 2 5 /2
+1 6
+%
+0 2
+.3
+C
+4
+%
+h a n g2 e0
+2 4 /2
+1 3
+0 2
+.1
+3
+%
+CONNECTICUT HOUSING FINANCE AUTHORITY
+STATEMENTS OF NET POSITION
+(in 000’s)
+December 31,
+2025 2024
+Assets
+Restricted current assets:
+Cash and cash equivalents $ 1,102 $ 1,293
+Mortgage loans receivable 203,178 158,057
+Investments in securities 1,108,289 1,114,323
+Real estate owned - multifamily 2,300 2,300
+Accrued interest receivable on:
+Mortgage loans 10,665 8,884
+Securities 20,179 16,610
+Accounts receivable and other assets 110,127 92,657
+Total current assets 1,455,840 1,394,124
+Restricted noncurrent assets:
+Mortgage loans receivable, net of current portion 2,426,500 2,387,323
+Investments in securities, net of current portion 4,187,349 3,199,654
+Derivative instruments - interest rate swaps 48,906 57,536
+Capital assets, net of depreciation 3,289 3,621
+Real estate owned - single family 471 1,235
+Total noncurrent assets 6,666,515 5,649,369
+Total assets 8,122,355 7,043,493
+Deferred Outflows of Resources
+Unamortized deferral on bond refundings 40,175 46,700
+Deferred amount for OPEB 8,990 15,251
+Deferred amount for pensions 10,795 14,718
+Total deferred outflows of resources 59,960 76,669
+Liabilities
+Current liabilities:
+Escrow deposits and unearned revenue 136,074 120,548
+Accrued interest payable 32,102 25,379
+Accounts payable and accrued liabilities 4,687 4,420
+Compensated absences 2,275 2,167
+Line of credit payable 153,594 224,999
+Notes payable 438 118
+Bonds payable 338,189 323,609
+Total current liabilities 667,359 701,240
+Noncurrent liabilities
+Escrow deposits and unearned revenue, net of current portion 225,998 175,501
+Compensated absences 1,291 931
+Notes payable, net of current portion 13,806 3,858
+Bonds payable, net of current portion 6,005,877 5,129,737
+Net OPEB liability 39,462 56,303
+Net pension liability 32,220 48,150
+Total noncurrent liabilities 6,318,654 5,414,480
+Total liabilities 6,986,013 6,115,720
+Deferred Inflows of Resources
+Deferred amount for OPEB 28,165 24,856
+Deferred amount for pensions 16,405 11,758
+Derivative financial Instruments 194,693 203,322
+Total deferred inflows of resources 239,263 239,936
+Net Position
+Net investment in capital assets 3,289 3,621
+Restricted by contractual agreements 72,910 78,995
+Restricted by bond indentures and/or enabling legislation 880,840 681,890
+Total Net Position $ 957,039 $ 764,506
+The accompanying notes are an integral part of the financial statements
+15
+The accompanying notes are an integral part of the financial statements
+16
+CS(
+O
+O
+O
+N
+C
+N
+N
+i
+O N N E C T I C U T H O U S I N G F I N A N C E A
+T A T E M E N T S O F R E V E N U E S , E X P E N
+n 0 0 0 ’ s )
+p e r a t i n g R e v e n u e s
+I n t e r e s t o n m o r t g a g e lo a n s
+I n t e r e s t o n in v e s t m e n t s
+F e e s a n d o t h e r in c o m e
+T o t a l o p e r a t in g r e v e n u e s
+p e r a t i n g E x p e n s e s
+I n t e r e s t
+B o n d is s u a n c e c o s t s
+S e r v ic e r f e e s
+A d m in is t r a t iv e
+P r o v is io n f o r lo a n lo s s r e s e r v e s
+T o t a l o p e r a t in g e x p e n s e s
+p e r a t i n g I n c o m e
+o n o p e r a t i n g R e v e n u e s ( E x p e n s e s )
+A c t u a r ia l a s s u m p t io n c h a n g e s f o r p e n s
+N e t in c r e a s e ( d e c r e a s e ) in t h e f a ir v a lu
+G r a n t p r o g r a m f u n d in g
+G r a n t p r o g r a m e x p e n s e s
+N o n o p e r a t in g g a in ( lo s s )
+h a n g e i n N e t P o s i t i o n
+e t P o s i t i o n - B e g i n n i n g o f Y e a r
+e t P o s i t i o n - E n d o f Y e a r
+US
+io
+e
+TE
+n
+o
+HS
+a
+f
+O R
+A
+n d
+in v
+I T
+N D
+O
+e s
+Y
+Pt
+m
+C
+E
+H
+B
+e n
+A
+t s
+N G E S I N N E T
+$
+$
+P O
+Y
+S
+e
+I T I O
+a r E
+2 0 2
+1 2 6
+2 0 8
+2 5
+3 6 1
+2 2 7
+1 0
+2 9
+4 08
+3 1 5
+4 5
+1 4
+1 3 0
+6 9
+( 6 8
+1 4 6
+1 9 2
+7 6 4
+9 5 7
+N
+n5
+, 7
+, 7
+, 8
+, 3
+, 9
+, 2
+, 0
+, 3
+, 0
+, 6
+, 6
+, 6
+, 8
+, 8
+, 4,
+8
+, 5
+, 5
+, 0
+d e
+4 4
+5 3
+2 8
+2 5
+2 9
+6 4
+0 3
+8 7
+6 7
+5 0
+7 5
+3 0
+3 8
+5 1
+6 1
+5 8
+3 3
+0 6
+3 9
+d
+)
+D
+$
+$
+e c e m b e r 3 1
+2 0 2 4
+1 1 5 , 0
+1 6 3 , 7
+2 2 , 6
+3 0 1 , 4
+1 8 4 , 1
+1 0 , 1
+2 7 , 8
+3 8 , 4
+4 , 5
+2 6 4 , 9
+3 6 , 4
+7 , 0
+( 6 2 , 2
+1 0 1 , 1
+( 9 0 , 6
+( 4 4 , 7
+( 8 , 2
+7 7 2 , 7
+7 6 4 , 5
+,
+9235
+110048
+7
+01991
+4
+4
+0
+3351
+439400
+1
+13992
+1
+7
+6
+)
+))
+)
+CONNECTICUT HOUSING FINANCE AUTHORITY
+STATEMENTS OF CASH FLOWS
+(in 000’s)
+Year Ended December 31,
+2025 2024
+Cash Flows from Operating Activities
+Cash received from interest on mortgage loans $ 124,962 $ 115,803
+Cash received from scheduled mortgage principal payments 80,173 80,297
+Cash received from mortgage principal prepayments 134,845 88,949
+Cash received from fees and other income 25,571 22,465
+Cash payments to purchase mortgage loans (309,518) (212,890)
+Cash payments to employees (25,329) (24,740)
+Cash payments to suppliers (43,024) (41,003)
+Net cash (used in)/provided by operating activities (12,320) 28,881
+Cash Flows from Noncapital Financing Activities
+Proceeds from/(release of) escrow deposits 66,023 (2,787)
+Retirement of bonds payable (430,002) (469,443)
+Proceeds from sales of bonds 1,330,874 1,112,225
+Proceeds from notes payable 10,267 3,976
+(Reductions to)/proceeds from line of credit (71,406) 99,999
+Interest paid (224,862) (182,549)
+Bond issuance costs (10,319) (10,080)
+Proceeds from grant program funding 69,851 101,199
+Grant program costs (68,444) (90,674)
+Net cash provided by noncapital financing activities 671,982 561,866
+Cash Flows from Investing Activities
+Proceeds from sales of and maturities of investment securities 239,812 264,868
+Purchase of investment securities (1,089,689) (1,025,851)
+(Increase) decrease of warehoused loans awaiting securitization (17,471) 7,383
+Sales of real estate owned 755 418
+Interest received from investments 206,740 162,997
+Net cash used in investing activities (659,853) (590,185)
+(Decrease) Increase in Cash and Cash Equivalents (191) 562
+Cash and Cash Equivalents - Beginning of Year 1,293 731
+Cash and Cash Equivalents - End of Year $ 1,102 $ 1,293
+Reconciliation of Operating Income to Net Cash (Used in)/Provided by Operating Activities
+Operating income $ 45,675 $ 36,471
+Adjustments to reconcile operating income to net cash (used in)/provided by operating activities:
+Depreciation 332 540
+Provision for loan loss reserves 8,067 4,540
+Bond issuance costs 10,264 10,113
+Interest on investments (208,753) (163,723)
+Interest expense 227,929 184,114
+Change in assets and liabilities:
+(Increase) decrease in accrued interest receivable on mortgage loans (1,781) 710
+(Increase) decrease in accounts receivable and other assets (17,471) 7,383
+Increase in accounts payable and other accrued liabilities and compensated absences 736 99
+Increase in mortgage loan and other receivables, net (77,318) (51,366)
+Net Cash (Used in)/Provided by Operating Activities $ (12,320) $ 28,881
+Noncash Investing Activities
+Net increase (decrease) in the fair value of investments $ 130,838 $ (62,213)
+The accompanying notes are an integral part of the financial statements
+17
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+NOTE 1 - AUTHORIZING LEGISLATION
+Connecticut Housing Finance Authority (the “Authority”) is a public instrumentality and political
+subdivision of the State of Connecticut. It was created in 1969 for the purpose of increasing the housing
+supply and encouraging and assisting in the purchase, development and construction of housing for low
+and moderate-income families and persons throughout Connecticut. The Authority operates pursuant to
+Chapter 134 of the Connecticut General Statutes, as amended (the “Act”). As required by the Act, the
+Authority’s powers are exercised by a Board of Directors consisting of fifteen members, four of whom are
+State officials, seven of whom are appointed by the Governor and four of whom are appointed by leaders
+of the General Assembly.
+The Authority is authorized to issue bonds, notes and other obligations to fund loans to qualified
+borrowers for single family homes and multifamily developments. Funding of loan programs on an on-
+going basis is derived principally from bond proceeds and interest earned on loans and investments.
+The Authority is a component unit of the State of Connecticut, based on the criteria for defining the
+reporting entity as identified and described in the Government Accounting Standards Board’s Codification
+of Governmental Accounting and Financial Reporting Standards, Sections 2100 and 2600.
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Accounting
+The Authority is a self-supported entity and the accompanying financial statements are presented using
+the economic resources measurement focus and accrual basis of accounting wherein revenues are
+recognized when earned, and expenses are recognized when the liability is incurred. The financial
+statements are prepared in accordance with generally accepted accounting principles as prescribed by
+the Governmental Accounting Standards Board (“GASB”). While detail sub-fund information is not
+presented, separate accounts are maintained for each program and include certain funds that are legally
+designated as to use. The funds of the Authority and similar component units are proprietary fund types.
+Reporting Entity
+Connecticut Housing Finance Authority Funds
+Under the Act and the General Housing Mortgage Finance Program Bond Resolution of September 27,
+1972 (the “Bond Resolution”), the Authority is authorized to maintain Housing Mortgage General and
+Capital Reserve Funds. In addition to the aforementioned funds, the Authority, as permitted by the Act,
+has established other funds. Included in other funds are the Investment Trust Fund, which may be used
+to account for assets which are determined to be “surplus funds” under the terms of the Bond Resolution,
+and the Housing Mortgage Insurance Fund, which provides mortgage insurance.
+18
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Also included in other funds are:
+a. the Special Needs Housing Fund, the Special Needs Housing Capital Reserve Fund, the State
+Assistance Agreement Fund, and, as to the Authority’s Emergency Mortgage Assistance Payment
+(EMAP) Program: the EMAP State Assistance Agreement Fund and the EMAP Revolving Loan
+Fund (collectively, the “Special Needs Housing Program Funds”), the Group Home Renewal and
+Replacement Fund, the Assisted Living Facilities Renewal and Replacement Fund and the
+Supportive Housing Renewal and Replacement Fund (collectively the “Special Needs Housing
+Renewal and Replacement Funds”). The Authority is authorized to maintain the Special Needs
+Housing Program Funds and the Special Needs Housing Renewal and Replacement Funds
+(collectively the “Special Needs Housing Funds”) under the Act and the Special Needs Housing
+Mortgage Finance Program Indenture (formerly known as the Group Home Mortgage Finance
+Program Indenture of Trust) (the “Special Needs Indenture”),
+b. the Multifamily Special Obligation Bond and Other Bond Funds which the Authority is authorized
+to maintain under the Act, the Multifamily Bond Resolution Providing for the Issuance of
+Multifamily Mortgage Revenue Bonds (the “MFSOB Resolution”) of November 19, 2009, and the
+Bond Resolution Providing for the Issuance of Other Bonds for the Housing Mortgage Finance
+Program (Multifamily) (the “Multifamily Other Bond Resolution”) of October 27, 2011, and
+c. the Qualified Energy Conservation Bond Fund which the Authority is authorized to maintain under
+the Act, the Qualified Energy Conservation Bond Resolution providing for the Issuance of
+Qualified Energy Conservation Revenue Bonds (the “QECB Resolution”) of February 26, 2015.
+d. the Housing Revenue Bond Fund which the Authority is authorized to maintain under the Act, the
+Housing Revenue Bond General Trust Indenture (the “HRB Resolution”) of September 1, 2023,
+which was created to allow the Authority to structure the issuance of debt based on market
+demand and collateral. Bonds issued under this resolution rely on federal insurance or guaranty
+for security and will not be carried under the Authority’s general obligation.
+Blended Component Units
+The Authority’s operations include blended component units which are included in the Authority’s basic
+financial statements in accordance with GASB Statement No. 61. These are legally separate entities for
+which the Authority is considered financially accountable. The Authority is financially accountable for
+those units that make up its legal entity, as well as certain legally separate organizations because they
+have essentially the same board of directors and management personnel. Blended component units are,
+in substance, part of the Authority’s operations; therefore, data from these units are combined with data
+of the primary Authority. Interfund activity has been eliminated. Additional information relating to these
+blended component units can be found in the supplementary information section of this report.
+State Housing Authority
+The State Housing Authority (the “Corporation”) is a quasi-public agency of the State of Connecticut and
+a subsidiary of the Authority. It was created as the successor to the Connecticut Housing Authority
+(“CHA”) under Public Act No. 95-250, which transferred $1,282,000 to establish the Corporation. The
+Corporation operates pursuant to Chapter 129 of the Connecticut General Statutes, as amended (the
+“CHA Act”). This entity is currently inactive.
+Cash and Cash Equivalents
+Cash is comprised of accounts on deposit with financial institutions. For purposes of reporting cash flows,
+highly liquid instruments with an original maturity of less than 90 days are generally considered to be
+cash equivalents, exclusive of the State of Connecticut Short Term Investment Fund and overnight
+sweeps which are considered to be investments in securities.
+19
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Mortgage Loans Receivable
+Mortgage loans are carried at their principal balance net of allowance for losses and are generally
+secured by first liens on real property. Interest on loans is accrued and credited to operations based on
+the principal amount outstanding. The accrual of interest income is discontinued when a loan becomes
+90 days past due or in management’s opinion is deemed uncollectible as to principal or interest. When
+interest accruals are discontinued, unpaid interest previously recorded as income is reversed and
+subsequently recognized only when received.
+Investments in Securities
+The Authority is limited under the Act to (i) investment obligations issued or guaranteed by the United
+States Government or the State of Connecticut, (ii) participation certificates for the State of Connecticut
+Short Term Investment Fund (“STIF”) which is an investment pool administered by the State Treasurer,
+and (iii) other obligations which are legal investments for savings banks in Connecticut and to time
+deposits or certificates of deposit or other similar arrangements secured in such a manner as the Authority
+determines.
+Investments are carried at net asset value or at fair value with the exception of those investments
+maturing within one year, which are carried at amortized cost, excluding accrued interest.
+Real Estate Owned - Multifamily
+CHFA - Small Properties, Inc., was established as a tax-exempt organization and subsidiary of the
+Authority. This organization operates pursuant to Section 8-244(c)(1) of the Connecticut General
+Statutes and was created to provide distinct accountability for multifamily real estate awaiting sale. As of
+December 31, 2025, total assets, total liabilities, and net position were $4,650,190, $2,470,050 and
+$2,180,140, respectively.
+Real Estate Owned – Single Family
+Real estate acquired in satisfaction of a loan are reported separately in real estate owned. Properties
+acquired by foreclosure or deed in lieu of foreclosure are transferred to real estate owned and recorded
+at the lower of cost or fair value less estimated selling costs at the date of foreclosure and are adjusted,
+if necessary, at year end. An allowance for losses on real estate owned is maintained for subsequent
+valuation adjustments on a specific property basis.
+Capital Assets
+Land, building, building improvements and computer software exceeding $100,000 are capitalized at
+cost. Maintenance and repair expenses are charged to operations when incurred. Depreciation is
+computed using the straight-line method over the estimated useful life; 32 years for building and building
+improvements and 7 to 10 years for computer software.
+Deferred Outflows and Inflows of Resources
+Deferred outflows of resources represents a consumption of net position that applies to a future period
+or periods and so will not be recognized as an outflow of resources (expense) until then. Deferred inflows
+of resources represents an acquisition of net position or fund balance that applies to a future period or
+periods and so will not be recognized as an inflow of resources (revenue) until that time.
+The Authority reports deferred outflows and inflows related to pension and OPEB in the statement of net
+position which result from differences between expected and actual experience, changes in assumptions,
+20
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+net difference between projected and actual earnings on pension plan investments, changes in proportion
+and differences between employer contributions and proportionate share of contributions and lastly,
+contributions made after the measurement date. These amounts are deferred and included in pension
+expense and OPEB expense in a systematic and rational manner over a period equal to the average of
+the expected remaining service lives of all employees that are provided with benefits, the one exception
+being contributions made after the measurement date which are recognized as pension expense in the
+following year.
+GASB Statement No. 53, Accounting and Financial Reporting for Derivative Instruments, defines
+derivative instruments and requires that they be reported at fair value in the statements of net position.
+The swap agreements the Authority has entered into are characterized as derivatives. Offsetting changes
+in fair value are carried on the statements of net position as either deferred inflows or outflows for swaps
+classified as effective hedges. As of December 31, 2025 and 2024 the Authority’s swaps were
+considered effective hedges.
+Gains and losses in connection with advanced refundings of debt are recorded as either a deferred
+outflow or deferred inflow of resources and are amortized as a component of interest expense over the
+shorter of the remaining life of the old or the new debt.
+Compensated Absences
+Full-time employees accrue vacation or annual leave at the rate of fifteen to twenty-five days per year,
+depending on length of service. Employees may accumulate leave time, subject to certain limitations,
+and upon retirement, termination or death may be compensated for certain accumulated amounts at their
+then current rates of pay.
+Net OPEB Liability
+The Authority’s proportionate share of the net OPEB liability and expense associated with the Authority’s
+requirement to contribute to the State of Connecticut Other Post-Employment Benefits Program have
+been determined by an actuarial valuation prepared and reported by the State of Connecticut’s Other
+Post-Employment Benefits Program. The net OPEB liability is measured as of a date (measurement date)
+no earlier than the end of the employer’s prior fiscal year-end. The measurement date relating to the
+Authority’s net OPEB liability is June 30th of the current reporting year.
+Net Pension Liability
+Net pension liability is measured as the portion of the actuarial present value of projected pension benefits
+that is attributed to past periods of employee service (total pension liability), net of the pension plan’s
+fiduciary net position. The pension plan’s fiduciary net position is determined using the same valuation
+methods that are used by the pension plan for the purposes of preparing its statement of fiduciary net
+position. The net pension liability is measured as of a date (measurement date) no earlier than the end
+of the employer’s prior fiscal year-end. The measurement date relating to the Authority’s net pension
+liability is June 30th of the current reporting year.
+Derivative Financial Instruments
+The Authority’s derivative financial instruments consist of interest rate swaps, all of which have been
+determined by the Authority to represent effective cash flow hedges. Accordingly, changes in the fair
+value of the swaps are reported as either deferred outflows or inflows of resources on the statement of
+net position.
+21
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+The interest differentials to be paid or received under interest rate swaps are recognized as increases or
+decreases in interest expense of the related bond liability. The fair value of the Authority’s position at year
+end in swap agreements is disclosed in Note 8. No gains or losses will result under the agreements
+unless an agreement is terminated prior to maturity or the counterparty defaults.
+Net Position
+Net position is classified in the following three categories:
+Net Investment in Capital Assets
+This component of net position consists of capital assets, net of accumulated depreciation. There is no
+outstanding debt related to the Authority’s capital assets.
+Restricted by Contractual Agreements
+This component of net position represents assets pledged as collateral for certain debt instruments
+further described in Note 12.
+Restricted by Bond Indentures and/or Enabling Legislation
+All funds and component units of the Authority that are not related to capital assets or are restricted by
+contractual agreements are restricted by the Bond Resolution, Special Needs Indenture, MFSOB
+Resolution, QECB Resolution, Housing Revenue Bond Indenture and Multifamily Other Bond
+Resolution and/or the Act.
+Bond Premiums and Discounts
+Discount and premium on bonds issued are deferred and amortized as a component of interest expense
+using a method approximating the effective interest method.
+Bond Issuance Costs
+Bond issuance costs are expensed when incurred and are classified as an operating expense in the
+statements of revenues, expenses and changes in net position.
+Provision for Loan Loss Reserves
+The allowance for losses on the loan and real estate owned portfolios is provided through charges against
+current operations based on management’s periodic review of the loan and real estate owned portfolios.
+This review considers such factors as the payment history of the loans, the current and projected cash
+flows of the borrowers, estimated value of the collateral, subsidies, historical loss experience for each
+type of insurance or guarantee and economic conditions.
+Operating and Nonoperating Revenues and Expenses
+The Authority distinguishes operating revenues and expenses from nonoperating items. Operating
+revenues consist primarily of interest income on mortgage loans, fees and other charges related to
+mortgage loans and interest on investments, including fees and interest on GNMA, FNMA & FHLMC
+Program Asset investments more fully described in Note 4. The Authority also recognizes revenues from
+other administrative fees as operating revenues. Operating expenses include interest expense, general
+and administrative expenses, costs and expenses incurred in connection with the amortization, issuance
+and sale of bonds; and other costs related to various loan programs. Revenues or expenses not meeting
+this definition are generally reported as nonoperating revenues and expenses.
+22
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Actuarial Assumption Changes for Pension and OPEB
+Non-cash changes to pension and OPEB expenses that result from changes in actuarial assumptions
+are recorded as nonoperating income or expenses.
+Grants (Private, State and Federal Grant Programs)
+Grants received from private entities and federal and state governments are recognized as nonoperating
+revenue as the related expenditures are incurred in accordance with GASB Statement No. 33, Accounting
+and Financial Reporting for Nonexchange Transactions.
+Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the
+United States of America requires management to make estimates and assumptions that affect certain
+reported amounts and disclosures in the financial statements. Actual results could differ from those
+estimates.
+Accounting Pronouncements
+Recently Adopted Accounting Pronouncements
+Effective January 1, 2025, the Authority adopted GASB Statement No. 102, Certain Risk Disclosures.
+This Statement requires a government to assess whether a concentration or constraint makes the primary
+government reporting unit or other reporting units that report a liability for revenue debt vulnerable to the
+risk of a substantial impact. Additionally, this Statement requires a government to assess whether an
+event or events associated with a concentration or constraint that could cause the substantial impact
+have occurred, have begun to occur, or are more likely than not to begin to occur within 12 months of the
+date the financial statements are issued.
+Upcoming Accounting Pronouncements
+In April 2024, the GASB issued Statement No. 103, Financial Reporting Model Improvements. The
+objective of this Statement is to improve key components of the financial reporting model to enhance its
+effectiveness in providing information that is essential for decision making and assessing a government’s
+accountability. This Statement also addresses certain application issues. This Statement requires that
+the information presented in MD&A be limited to the related topics discussed in five sections: (1) Overview
+of the Financial Statements, (2) Financial Summary, (3) Detailed Analyses, (4) Significant Capital Asset
+and Long-Term Financing Activity, and (5) Currently Known Facts, Decisions, or Conditions.
+Furthermore, this Statement stresses that the detailed analyses should explain why balances and results
+of operations changed rather than simply presenting the amounts or percentages by which they changed.
+Governments are required to display the inflows and outflows related to each unusual or infrequent item
+separately as the last presented flow(s) of resources prior to the net change in resource flows in the
+government-wide, governmental fund, and proprietary fund statements of resource flows. Additionally,
+this Statement requires that the proprietary fund statement of revenues, expenses, and changes in fund
+net position continue to distinguish between operating and nonoperating revenues and expenses. The
+requirements related to GASB 103 are effective for fiscal years beginning after June 15, 2025, and all
+reporting periods thereafter.
+In September 2024, the GASB issued Statement No.104, Disclosure of Certain Capital Assets. The
+objective of this Statement is to provide users of government financial statements with essential
+information about certain types of capital assets. This Statement establishes requirements for certain
+types of capital assets, such as Lease assets, Right to use assets, Subscriptions assets and Intangible
+23
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+assets to be disclosed separately in the capital assets note disclosures required by Statement No. 34,
+Basic Financial Statements—and Management’s Discussion and Analysis—for State and Local
+Governments. It also establishes requirements for capital assets held for sale, including additional
+disclosures for those capital assets. The requirements related to GASB 104 are effective for fiscal years
+beginning after June 15, 2025, and all reporting periods thereafter.
+In December 2025, the Governmental Accounting Standards Board (GASB) issued Statement No. 105,
+Subsequent Events, which provides updated guidance for identifying, evaluating, recognizing, and
+disclosing subsequent events. GASB 105 replaces and supersedes the previous guidance incorporated
+from GASB Statement No. 56. The Statement clarifies that governments must evaluate subsequent
+events through the date the financial statements are “available to be issued,” defined as the point when
+the financial statements are complete in a GAAP‑compliant form and all approvals necessary for issuance
+have been obtained. This Statement requires governments to distinguish between recognized
+subsequent events, which provide evidence of conditions existing as of the financial statement date and
+must be reflected in the financial statements, and non-recognized subsequent events, which relate to
+conditions arising after the financial statement date. Significant non-recognized subsequent events must
+be disclosed, including a description of the event, its financial effect, or a statement that such an estimate
+cannot be made. The requirements related to GASB 105 are effective for fiscal years beginning after
+June 15, 2026, and all reporting periods thereafter.
+NOTE 3 - FAIR VALUE
+Fair Value is defined as the price that would be received to sell an asset or paid to transfer a liability in
+an orderly transaction between market participants in the principal market, or if none exists, the most
+advantageous market, for the specific asset or liability at the measurement date (“exit price”). The fair
+value hierarchy established by generally accepted accounting principles prioritizes the inputs to valuation
+techniques used to measure fair value as follows:
+Level 1
+Quoted prices in active markets for identical assets or liabilities at the measurement date.
+Level 2
+Inputs that are observable for the asset or liability, either directly or indirectly, for substantially the full
+term of the asset or liability.
+Level 3
+Prices or valuation techniques that require inputs that are both significant to the fair value measurement
+and are unobservable.
+The Authority has the following investment and derivative instruments measured at fair value which are
+included in the statements of net position as of December 31, 2025, and December 31, 2024. It should
+be noted that the STIF investment is not included in these schedules since it is valued at net asset value.
+24
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Investments and Derivative Instruments Measured at Fair Value
+(in 000's)
+December 31, 2025
+Quoted Prices Significant
+in Active Other Significant
+Markets for Observable Unobservable
+Fair Value Identical Assets Inputs Inputs
+12/31/25 (Level 1) (Level 2) (Level 3)
+Investments measured at fair value:
+CMO's $ 394 $ $ 394 $
+GNMA, FNMA & FHLMC Program Assets 4,123,273 4,123,273
+MBS's 25,657 25,657
+Money Market Funds 8,695 8,695
+US Treasury Notes 38,975 38,975
+Structured Securities 212 212
+US Government Agency Securities 686 686
+Total $ 4,197,892 $ 48,356 $ 4,149,536 $
+Derivative Instruments measured at fair value:
+Interest rate swaps $ 4 8,906 $ $ 4 8,906 $
+NOTE 4 - CASH AND CASH EQUIVALENTS AND INVESTMENTS IN SECURITIES
+Deposits (in 000’s)
+At December 31, 2025, and 2024, the carrying amount reported as cash and cash equivalents on the
+statements of net position of the Authority represents deposits (including checking accounts and escrow
+accounts) of $1,102 and $1,293, respectively. This entire amount is on deposit in independent financial
+institutions with a balance of $1,924 and $2,405 at December 31, 2025, and 2024, respectively. Included
+in the carrying amount reported as cash and cash equivalents, are deposits held in escrow by the
+Authority at December 31, 2025, and 2024, of $862 and $1,052, respectively.
+25
+In v e s tm e n ts a n d D e r iv a tiv e In
+(in 0 0 0 's )
+D e c e m b e r 3 1 , 2 0 2 4
+In v e s tm e n ts m e a s u re d a t fa ir v a
+C M O 's
+G N M A , F N M A & F H L M C P ro g
+M B S 's
+M o n e y M a rk e t F u n d s
+M u n ic ip a l B o n d s
+S tru c tu re d S e c u ritie s
+U S G o v e rn m e n t A g e n c y S e c u
+T o ta l
+D e riv a tiv e In s tru m e n ts m e a s u re
+In te re s t ra te s w a p s
+s tr u m
+lu e :
+ra m A
+ritie s
+d a t fa
+e n ts M
+s s e ts
+ir v a lu e
+e
+:
+a s u r e
+$
+$
+$
+d a t F a ir V a lu e
+F a ir V a lu e
+1 2 /3 1 /2 4
+5 0
+3 ,1 7 3 ,7 15
+8 ,6 4
+2 9 ,2 7
+3 8
+6 7
+3 ,2 1 3 ,2 4
+5 7 ,5 3
+4205257
+5
+6
+$
+$
+$
+Q
+Id
+u o te d P r ic e
+in A c tiv e
+M a r k e ts fo r
+e n tic a l A s s e
+(L e v e l 1 )
+8 ,6 4
+6 7
+9 ,3 2
+s
+ts
+5
+7
+2
+$
+$
+$
+S ig n ific a n t
+O th e r
+O b s e r v a b le
+In p u ts
+(L e v e l 2 )
+5 0 4
+3 ,1 7 3 ,7 1 2
+5 0
+2 9 ,2 7 2
+3 8 5
+3 ,2 0 3 ,9 2 3
+5 7 ,5 3 6
+$
+$
+$
+S ig n ific a n t
+U n o b s e r v a b le
+In p u ts
+(L e v e l 3 )
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Custodial Credit Risk (in 000’s)
+Of the $1,924 and $2,405 financial institution balance at December 31, 2025, and 2024, $241 and $242,
+respectively, were held in the Authority’s name in the corporate trust division of one financial institution.
+These amounts were collateralized with a market value of underlying collateral equal to at least 100% of
+the amount on deposit with acceptable collateral compliant with 12 CFR § 9.10(b). In addition, in
+compliance with 12 CFR § 9.13 these amounts were protected from any potential creditors of the financial
+institution. The balances of $1,924 and $2,405, respectively, were held in demand deposit accounts at
+FDIC-insured institutions. As of December 31, 2025, $1,433 was uninsured, $168 of which was
+collateralized with securities by the financial institution, but not in the Authority’s name. As of December
+31, 2024, $1,914 was uninsured, $216 of which was collateralized with securities by the financial
+institution, but not in the Authority’s name.
+Investments in Securities (in 000’s)
+At December 31, 2025, and 2024, the Authority held the following investments with the listed maturities
+bearing interest at annual rates ranging from 0% to 7.65%. All Authority investments are direct obligations
+issued by the United States Government or its agencies or are fully collateralized by such obligations.
+Ratings are displayed with the S&P Global Ratings listed first (if available), the Moody’s Investors Service
+second (if available) and the Fitch Rating last (if available) or NR for not-rated.
+As of December 31, 2025:
+Investment Maturities (in Years)
+Amortized
+Cost, Net
+Asset
+Value or Less More
+Fair Value Than 1 1 - 5 6 -10 Than 10
+CMO $ 394 $ $ $ $ 394
+GNMA, FNMA & FHLMC Program Assets 4,123,273 4 2,746 33,996 4,086,527
+MBS's 25,657 34 25,623
+Money Market Funds 8,695 8,695
+U.S. Treasury Notes 38,975 1,844 37,131
+STIF 1,097,746 1,097,746
+Structured Securities 212 212
+U.S. Government Agency Securities 686 686
+Total Investments Held by All Funds
+and Component Units $ 5,295,638 $ 1,108,289 $ 40,809 $ 33,996 $ 4,112,544
+Restricted current assets:
+Capital Reserve Funds $ 59,435
+Renewal and Replacement Funds 15,601
+All other funds and component units 1,033,253
+Total restricted current assets 1,108,289
+Restricted noncurrent assets:
+Capital Reserve Funds 484,585
+All other funds and component units 3,702,764
+Total restricted noncurrent assets 4,187,349
+Total Investments Held by All Funds
+and Component Units $ 5,295,638
+26
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Interest Rate Risk
+Exposure to declines in fair value is substantially limited to the Authority’s investment in the GNMA, FNMA
+and FHLMC Program Assets and U.S. Treasury Notes. The Authority’s investment policy requires
+diversification of its investment portfolio to eliminate the risk of loss resulting from, among other things,
+an over-concentration of assets in a specific maturity. This policy also requires the Authority to attempt
+to match its investments with anticipated cash flow requirements and to seek diversification by staggering
+maturities in such a way that avoids undue concentration of assets in a specific maturity sector.
+Credit Risk (in 000’s)
+The Authority’s investments are limited under the Act to (i) United States Government obligations,
+including its agencies or instrumentalities, (ii) investments guaranteed by the State of Connecticut, (iii)
+participation certificates for the investment pool administered by the State Treasurer or (iv) other
+obligations which are legal investments for savings banks in the State of Connecticut. The Money Market
+Funds are fully collateralized by obligations issued by the United States Government or its agencies.
+Mortgage Backed Securities (“MBSs”) are fully collateralized by the Federal National Mortgage
+Association (“FNMA”), the Federal Home Loan Mortgage Corporation (“FHLMC”) or the Government
+National Mortgage Association (“GNMA”), and Collateralized Mortgage Obligations (“CMOs”) are fully
+collateralized by the United States Department of Housing and Urban Development (“HUD”) mortgage
+pools. Structured Securities are fully collateralized by Manufactured Housing Sales Contracts and
+Installment Loan Agreements. At December 31, 2025, two Structured Securities (fair value $212) were
+below Investment Grade rating standards. At December 31, 2024, one CMO (fair value $6) and one
+Structured Security (fair value $385) were below Investment Grade rating standards. At the time of their
+initial purchase, these two investments were classified as Investment Grade.
+27
+P re s e n te d b e lo w
+R a tin g s *
+A A A m /N R /N R
+A A + /A a 1 /A A +
+A A -/A a 3 /A A -
+N R /A a a /N R
+N R /C /N R
+N R /N R /N R
+T o ta l
+* S & P /M o o d y s /F
+P re s e n te d b e lo w
+R a tin g s *
+A A A m /N R /N R
+A A + /A a a /A A +
+A A -/A a 3 /A A -
+N R /A a a /N R
+N R /C /N R
+N R /N R /N R
+T o ta l
+* S & P /M o o d y s /F
+is th
+$
+$
+itc h
+is th
+$
+$
+itc h
+e
+e
+ra
+ra
+tin g
+C M
+tin g
+C M
+fo
+O
+3
+3
+fo
+O
+4
+5
+r e
+9 4
+9 4
+r e
+9 9
+6
+0 4
+a c
+$
+$
+a c
+$
+$
+h
+h
+in v e s tm e n t ty p
+P ro g ra m
+A s s e ts
+$
+4 ,1 2 3 ,2 7 3
+4 ,1 2 3 ,2 7 3 $
+in v e s tm e n t ty p
+P ro g ra m
+A s s e ts
+$
+3 ,1 7 3 ,7 1 2
+3 ,1 7 3 ,7 1 2 $
+e
+e
+a
+a
+s
+s
+o
+M
+o
+M
+f D e c
+B S 's
+2 5 ,6
+2 5 ,6
+f D e c
+B S 's
+e
+5
+5
+e
+5
+5
+m
+7
+7
+m
+0
+0
+b
+$
+$
+b
+$
+$
+e
+e
+r 3
+r 3
+1 , 2
+M o
+M a
+1 , 2
+M o
+M a
+0 2 5 :
+n e y
+rk e t
+7 ,3 3
+1 ,3 6
+8 ,6 9
+0 2 4 :
+n e y
+rk e t
+7 ,3 7
+1 ,2 7
+8 ,6 4
+1
+4
+5
+2
+3
+5
+$
+$
+$
+$
+U .S
+M
+. T re a s u ry
+N o te s
+3 8 ,9 7 5
+3 8 ,9 7 5
+u n ic ip a l
+B o n d s
+4 ,5 9 0
+2 4 ,6 8 2
+2 9 ,2 7 2
+$
+$
+$
+$
+1
+1
+1
+1
+S
+,0
+,0
+S
+,1
+,1
+T
+9
+9
+T
+0
+0
+IF
+7 ,7
+7 ,7
+IF
+0 ,7
+0 ,7
+4
+4
+3
+3
+6
+6
+2
+2
+$
+$
+$
+$
+SS
+SS
+tru
+e c
+tru
+e c
+cu
+cu
+tu re
+ritie
+2
+2
+tu re
+ritie
+3
+3
+ds
+1
+1
+ds
+8
+8
+11
+2
+5
+5
+$
+$
+$
+$
+UA
+UA
+.S
+g e
+.S
+g e
+. G
+n c
+. G
+n c
+o v
+y S
+o v
+y S
+ee
+ee
+rn m e n
+c u ritie
+6
+6
+rn m e n
+c u ritie
+6
+6
+ts
+8
+8
+ts
+7
+7
+6
+6
+7
+7
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Concentration of Credit Risk (in 000’s)
+The Authority’s investment policy requires diversification of its investment portfolio to reduce the risk of
+loss resulting from, among other things, an over-concentration of assets with a specific issuer. As of
+December 31, 2025 and 2024, the Authority had no investments in any one issuer that represents 5% or
+more of total investments, other than investments guaranteed by the U.S. Government (GNMA, FNMA
+and FHLMC Program Assets - fair value - $4,123,273 or 78% in 2025 and $3,173,712 or 74% in 2024 or
+the State of Connecticut (STIF – net asset value - $1,097,746 or 26% in 2025 and $1,100,732 or 26% in
+2024).
+Custodial Credit Risk (in 000’s)
+All investments exist in book entry form and are held by the Trustee or other financial institution in the
+Authority’s name or insured (fair value - $4,197,892 in 2025 and $3,213,245 in 2024) with the exception
+of the STIF (net asset value - $1,097,746 in 2025 and $1,100,732 in 2024). The underlying value of the
+investment in the STIF’s pool is the same as the value of the pool’s shares. The pool is managed by the
+Cash Management Division of the State of Connecticut’s Treasurer’s Office. The State Treasurer set up
+a cash management advisory board tasked with reviewing the pool’s portfolio, performance investment
+policies and procedures.
+GNMA, FNMA & FHLMC Program Assets (in 000’s)
+Since 1999, the Authority directed certain of its participating lenders to assign government insured
+Authority qualified home mortgage loans and sold a portion of its existing home mortgage loan portfolio
+for assembly into pools guaranteed by the Government National Mortgage Association (“GNMA”). GNMA
+securities were issued backed by these home mortgage loans, and the Authority purchased the securities
+(“GNMA Program Assets”) with funds held in the Housing Mortgage Capital Reserve Fund. In 2000, the
+Authority expanded this program to allow the purchase of GNMA Program Assets with funds held in the
+Housing Mortgage General Fund. As a result of this program expansion and in order to assure
+compliance with Bond Resolution requirements, the Authority transferred the $331,081 net position held
+in the Investment Trust Fund to the Housing Mortgage General Fund in 2001. Since 2001, GNMA
+Program Assets have also been purchased with funds held in the Special Needs Housing Fund and the
+Special Needs Housing Capital Reserve Fund. In 2013, the Authority directed certain of its participating
+lenders to assign privately insured Authority qualified conventional home mortgage loans for assembly
+into pools guaranteed by the Federal National Mortgage Association (“FNMA”).
+These pools were securitized and are backed by these home mortgage loans. In 2016, the Authority
+further expanded the program to securitize pools of home mortgage loans guaranteed by the Federal
+Home Loan Mortgage Corporation (“FHLMC”). GNMA, FNMA & FHLMC Program Assets are carried at
+fair value. As of December 31, 2025 and 2024, the fair value of GNMA, FNMA & FHLMC Program Asset
+investments was $4,123,273 and $3,173,712, respectively.
+Bond Resolution Capital Reserve Fund (in 000’s)
+The Bond Resolution Capital Reserve Fund is established pursuant to the Act and the Bond Resolution
+and is required to be maintained at an amount at least equal to the amount of principal, sinking fund
+installments and interest maturing and becoming due in the next succeeding calendar year ($452,273 at
+December 31, 2025 and $387,387 at December 31, 2024) on all bonds of the Authority then outstanding
+under the Bond Resolution. Further, the Authority may not issue additional bonds under the Bond
+Resolution unless the amount in the Bond Resolution Capital Reserve Fund is at least equal to the
+maximum amount of principal, sinking fund installments and interest maturing and becoming due in any
+succeeding calendar year ($471,933 at December 31, 2025 and $399,461 at December 31, 2024) on all
+bonds of the Authority then outstanding under the Bond Resolution. For purposes of satisfying these
+28
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+requirements, the Act and the Bond Resolution require that investments of the Bond Resolution Capital
+Reserve Fund be valued at the lowest of par, actual cost or market value. To satisfy this calculation, all
+variable rate interest payments and receipts are assumed to be based on the average interest rates for
+the prior twelve months plus 200 basis points, interest payments on swapped bonds are included at the
+fixed rate on the swaps, and retirement of principal on bonds with mandatory tender dates are assumed
+in accordance with the sinking fund schedule of each respective bond series resolution.
+Special Needs Indenture Capital Reserve Fund (in 000’s)
+The Special Needs Indenture Capital Reserve Fund is established pursuant to the Act and the Special
+Needs Indenture and is required to be maintained at an amount at least equal to the amount of principal,
+sinking fund installments and interest maturing and becoming due in the next succeeding calendar year
+($5,058 at December 31, 2025 and $5,079 at December 31, 2024) on all bonds of the Authority then
+outstanding under the Special Needs Indenture. Further, the Authority may not issue additional bonds
+under the Special Needs Indenture unless the amount in the Special Needs Indenture Capital Reserve
+Fund is at least equal to the maximum amount of principal, sinking fund installments and interest maturing
+and becoming due in any succeeding calendar year ($5,058 at December 31, 2025 and $5,136 at
+December 31, 2024) on all bonds of the Authority then outstanding under the Special Needs Indenture.
+For purposes of satisfying these requirements, the Act and the Special Needs Indenture require that
+investments of the Special Needs Indenture Capital Reserve Fund be valued at amortized cost or such
+other method as determined by the Authority to be reasonable and in the best interest of the bondholders,
+provided such other method is approved by the trustee and any applicable bond insurer.
+Restricted funds of the Bond Resolution and Special Needs Indenture Capital Reserve Funds consisted
+of the following (in 000’s):
+29
+InA
+T
+R
+R
+T
+v e s tm e n t in s e c u r itie s
+c c r u e d in te r e s t r e c e iv a b le
+o t a l C a p it a l R e s e r v e F u n d s
+e s tr ic te d c u r r e n t a s s e ts :
+In v e s tm e n ts in s e c u r itie s
+A c c r u e d in te r e s t r e c e iv a b le
+T o ta l r e s tr ic te d c u r r e n t a s s
+e s tr ic te d n o n c u r r e n t a s s e ts :
+In v e s tm e n ts in s e c u r itie s
+o t a l C a p it a l R e s e r v e F u n d s
+e
+$
+$
+$
+ts
+$
+R
+B o
+e s o
+5 3 8
+1
+5 4 0
+5 4
+1
+5 6
+4 8 3
+5 4 0
+n d
+lu t io
+,8 0 4
+,9 8 9
+,7 9 3
+,8 7 8
+,9 8 9
+,8 6 7
+,9 2 6
+,7 9 3
+n
+$
+$
+$
+$
+2 0 2 5
+S p e c ia
+N e e d s
+In d e n t u
+5 ,2 1
+2
+5 ,2 3
+4 ,5 5
+2
+4 ,5 7
+6 5
+5 ,2 3
+l
+r e
+60
+6
+70
+7
+9
+6
+$
+$
+$
+$
+D e c e
+T o t a l
+5 4 4 ,0 2 0
+2 ,0 0 9
+5 4 6 ,0 2 9
+5 9 ,4 3 5
+2 ,0 0 9
+6 1 ,4 4 4
+4 8 4 ,5 8 5
+5 4 6 ,0 2 9
+m b
+$
+$
+$
+$
+e r 3 1 ,
+B o
+R e s o
+4 4 7
+1
+4 4 9
+2 8
+1
+3 0
+4 1 8
+4 4 9
+n d
+lu t io
+,6 4 3
+,5 8 4
+,2 2 7
+,8 6 0
+,5 8 4
+,4 4 4
+,7 8 3
+,2 2 7
+n
+$
+$
+$
+$
+2 0 2 4
+S p e c ia
+N e e d s
+In d e n t u
+5 ,2 0
+2
+5 ,2 2
+4 ,5 1
+2
+4 ,5 4
+6 8
+5 ,2 2
+l
+r e
+53
+8
+83
+1
+7
+8
+$
+$
+$
+$
+T o
+4 5 2
+1
+4 5 4
+3 3
+1
+3 4
+4 1 9
+4 5 4
+t a
+,8,6
+,4
+,3,6
+,9
+,4
+,4
+l
+40
+5
+70
+8
+7
+5
+87
+5
+87
+5
+0
+5
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Special Needs Housing Renewal and Replacement Funds
+The Special Needs Housing Renewal and Replacement Funds are established pursuant to the Act and
+the Special Needs Indenture to provide funding for capital repairs and replacements exceeding $2,500
+for group homes, assisted living facilities and supportive housing facilities financed with the proceeds of
+bonds issued under the Special Needs Indenture. At December 31, 2025 and 2024, the carrying amount
+of restricted funds of the Special Needs Housing Renewal and Replacement Funds consisted of the
+following (in 000’s):
+2025 2024
+Investments in securities $ 15,601 $ 14,783
+Accrued interest receivable 51 58
+Total Special Needs Housing Renewal and Replacement Funds $ 15,652 $ 14,841
+NOTE 5 - MORTGAGE LOANS RECEIVABLE
+The Authority makes single family and multifamily loans to residents and properties domiciled in the State
+of Connecticut. All such loans are collateralized by real estate located in the State of Connecticut. The
+majority of the Authority’s loan portfolio is comprised of residential mortgages made to low and moderate
+income borrowers.
+The Authority has entered into agreements with various banks and other financial institutions for the
+servicing of the majority of its home mortgage loan portfolio. As of December 31, 2025 and 2024, 47%
+of this portfolio were serviced by two financial institutions.
+Mortgage loans consisted of the following (in 000’s):
+30
+H o m e m o r t g a g e lo a n s
+In s u r e d b y th e F e d e r a l H o u s in g A
+th e V e te r a n s A d m in is tr a tio n
+In s u r e d b y p r iv a te m o r tg a g e in s u r a
+U n in s u r e d r e v e r s e a n n u ity m o r tg a g
+U n in s u r e d , S ta te o f C o n n e c tic u t s u
+U n in s u r e d , S ta te o f C o n n e c tic u t s u
+U n in s u r e d , n o t g u a r a n te e d
+T o t a l h o m e m o r t g a g e lo a n s
+d m
+n c e
+e lo
+p p o
+p p o
+in is tr a
+c o m p
+a n s
+r te d E
+r te d T
+tio n o r g u
+a n ie s
+M A P lo a n
+T O lo a n s
+a
+s
+r a n te e d b y
+$
+2 0
+1
+2
+71
+12,3
+5
+42
+4989
+1112894
+D
+,1,6,0,6,7,1,4
+e
+8651846
+c
+8756940
+e m b
+$
+e r 3 1 ,
+2 0
+1
+2
+71
+12,4
+4
+72
+4590
+6915184 ,8,7,1,8,7,7,0 0955257 1340604
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Single Family
+The Federal Housing Administration (“FHA”) home mortgage program insures the repayment of the
+unpaid principal amount of the mortgages. HUD will pay debenture interest on the unpaid principal
+balance from the date of default to the date of initial claim settlement. Debenture interest is determined
+by the monthly average yield for the month in which the default on the mortgage occurred, on United
+States Treasury Securities, adjusted to a constant maturity of 10 years. The debenture rate may be less
+than that of the insured mortgage.
+The Veterans Administration (“VA”) mortgage program provides limited guarantees subject to the amount
+of the entitlement a veteran has available. For loans between $45,000 and $144,000, the minimum VA
+guarantee amount is $22,500, with a maximum guarantee of up to 40% of the loan up to $36,000. For
+loans of more than $144,000, the maximum VA guarantee is 25% of the loan amount.
+EMAP Loan repayments are made by the homeowner in accordance with the provisions of Connecticut
+General Statutes § 8-265bb through 8-265kk. These repayments are to be used solely for the benefit of
+the EMAP program. Debt service on bonds issued under the Special Needs Indenture for the purpose
+of financing EMAP Loans is paid by the State of Connecticut.
+The current average interest rate of the Authority’s outstanding single-family portfolio is 4.10% with an
+original 30 year payment term.
+Multifamily
+Through the issuance of bonds under the Special Needs Indenture and/or amounts received from the
+State of Connecticut, the Authority has made special needs housing mortgage loans to (i) finance
+community based residential facilities for persons with intellectual disabilities (“Group Home”), (ii) finance
+projects for assisted living communities for residents who need help with one or more activities of daily
+living (“Assisted Living Facility”), (iii) finance residential facility housing for up to one or more persons or
+families that are homeless or at risk of homelessness (“Supportive Housing Facility”) and (iv) provide
+financial assistance to homeowners at risk of foreclosure (“EMAP Loan”). Mortgage loan repayments for
+the Group Home, Assisted Living Facility and Supportive Housing Facility (collectively the “Special Needs
+Housing Loans”) which require regularly scheduled payments are made through subsidies received from
+31
+M u lt if a m ily m o r t g a g e lo a n s
+C o m p le te d d e v e lo p m e n ts :
+In s u r e d b y th e F e d e r a l H o u s in g A d m in is tr a tio n
+b y p r iv a te in s u r e r
+U n in s u r e d , fe d e r a lly s u b s id iz e d
+U n in s u r e d , S ta te o f C o n n e c tic u t s u b s id iz e d s p
+h o u s in g m o r tg a g e lo a n s
+U n in s u r e d , u n s u b s id iz e d , n o t g u a r a n te e d
+T o t a l c o m p le t e d d e v e lo p m e n t s
+C o n s tr u c tio n m o r tg a g e lo a n s :
+U n in s u r e d , u n s u b s id iz e d
+T o t a l c o n s t r u c t io n m o r t g a g e lo a n s
+T o t a l m u lt if a m ily m o r t g a g e lo a n s
+T o t a l h o m e a n d m u lt if a m ily m o r t g a g e lo
+L e s s a llo w a n c e fo r lo s s e s
+T o t a l in v e s t m e n t s in m o r t g a g e lo a n s
+R e s tr ic te d c u r r e n t a s s e ts
+R e s tr ic te d n o n c u r r e n t a s s e ts
+T o t a l m o r t g a g e lo a n s r e c e iv a b le
+o r g u a r a
+e c ia l n e e
+a n s
+n
+d
+te
+s
+e d
+$
+$
+$
+11
+13
+(2
+22
+3
+,2,6
+11,7,1
+5 6
+,6
+2,4,6
+20
+543
+669942
+022
+3 ,4
+8 ,6
+7 ,6
+5 ,3
+5 ,0
+4 ,7
+4 ,7
+9 ,7
+4 ,1
+,5 2
+9 ,6
+3 ,1
+6 ,5
+9 ,6
+03
+363
+003907
+707
+45
+368
+0088)8
+808
+$
+$
+$
+11
+13
+(2
+22
+3
+,1,5
+11,6,0
+5 1
+,5
+1,3,5
+21
+555
+005674
+584
+4 ,0
+4 ,9
+7 ,5
+4 ,6
+1 ,1
+7 ,2
+7 ,2
+8 ,3
+2 ,4
+,0 5
+5 ,3
+8 ,0
+7 ,3
+5 ,3
+74
+013
+226398
+528
+49
+137
+8858)0
+730
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+the State of Connecticut. For Special Needs Housing Loans that do not require regularly scheduled
+payments, the debt service on the bonds is paid by the State of Connecticut.
+The Authority has entered into a risk-sharing agreement with the U.S. Department of Housing and Urban
+Development (“HUD”) whereby HUD will provide partial mortgage insurance on affordable multifamily
+housing projects processed by the Authority. The risk of loss to the Authority varies from 10% to 50% or
+more depending on the level of participation by HUD.
+Construction loans earn interest at rates ranging from 0% to 7.32% as of December 31, 2025 and 0% to
+7.32% as of December 31, 2024, and will generally be payable over 2 years. The related permanent
+mortgage loan will typically be provided by the Authority. Permanent loans earn interest at rates ranging
+from 0% to 10.5% at December 31, 2025 and December 31, 2024, and will generally be payable over 40
+years.
+NOTE 6 - REAL ESTATE OWNED
+Real Estate Owned (in 000’s)
+With respect to single family real estate owned, the majority of such assets are at least partially insured
+or guaranteed by outside parties. It is anticipated that the Authority will recover substantially all of the
+balance of these assets through such insurance and from proceeds from the sale of the underlying
+properties.
+With respect to multifamily real estate owned, the Authority is holding such assets for subsequent sale in
+a manner that will allow the maximization of value. As of December 31, 2025, and 2024, one property
+remained in the multifamily real estate owned portfolio.
+32
+RA
+R
+C
+e a l e s
+llo w a n
+e a l E s
+a rry in
+ta te o w n e d
+c e fo r lo s s
+ta te O w n e
+g A m o u n t
+e
+d
+s
+-
+$
+$
+SF in g
+a m
+le
+ily
+4 9(2
+4 7
+76
+1
+)
+$
+$
+M u
+2 0 2
+ltifa
+2
+2
+5
+m
+,3
+,3
+ily
+0 0
+0 0
+$
+$
+T o
+D e c
+ta l
+2 ,7 9(2
+2 ,7 7
+e
+76
+1
+m
+)
+$
+$
+b e r 3
+SF
+1 ,
+in g
+a m
+1
+1
+le
+ily
+,2 5(1
+,2 3
+27
+5
+)
+$
+$
+M u
+2 0 2
+ltifa
+2
+2
+4
+m
+,3
+,3
+ily
+0 0
+0 0
+$
+$
+T o ta l
+3 ,5 5(1
+3 ,5 3
+27
+5
+)
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Note 7 - Capital Assets
+Capital asset activity for the years ended December 31, 2025 and 2024 is as follows (in 000’s):
+NOTE 8 - DEBT
+The Act authorizes the Authority to issue its own bonds and other obligations in such principal amounts
+as, in the opinion of the Authority, will be necessary to provide sufficient funds for carrying out its
+purposes. The State legislature enacted legislation that provides the authority to enter into agreements
+to reduce the rate of borrowing and moderate the effect of bond interest rate fluctuations through the use
+of contracts commonly known as interest rate swap agreements and similar type contracts. The
+Authority’s obligations are not debt of the State of Connecticut, and the State is not liable thereon.
+Included in the Authority’s bond portfolio are variable rate demand bonds. The Authority has two
+mechanisms to ensure the purchase of variable rate demand bonds in the event that the bonds cannot
+be remarketed.
+1) The Authority has entered into Standby Bond Purchase Agreements with various providers to
+purchase the bonds.
+2) The Authority has entered into a Standby Letter of Credit and Reimbursement Agreement
+(SBLOC) which provides for the Authority to withdraw funds to directly purchase its own bonds.
+Upon the successful remarketing of the bonds, the funds are to be reimbursed back to the SBLOC
+provider. As of December 31, 2025, the amount available under the SBLOC is $123,529,762. No
+drawings have been made as of December 31, 2025.
+33
+C a p ita l A s s
+L a n d
+B u ild in g
+Im p ro v e m
+C o m p u te
+L e s s a c c u m
+C a p ita l A s s
+C a p ita l A s s
+L a n d
+B u ild in g
+Im p ro v e m
+C o m p u te
+L e s s a c c u m
+C a p ita l A s s
+e ts :
+e n ts
+r s o ftw
+u la te
+e ts , N
+e ts :
+e n ts
+r s o ftw
+u la te
+e ts , N
+a re
+d d e
+e t
+a re
+d d e
+e t
+p
+p
+re
+re
+c
+c
+ia
+ia
+tio
+tio
+n
+n
+$
+$
+$
+$
+J
+J
+Ba
+Ba
+a la
+n u a
+2 0
+a la
+n u a
+2 0
+n c e
+r y 1 ,
+2 5
+8 5 1
+2 ,8 5 1
+2 ,0 8 5
+4 ,2 6 1
+1 0 ,0 4 8
+(6 ,4 2 7 )
+3 ,6 2 1
+n c e
+r y 1 ,
+2 4
+8 5 1
+2 ,8 5 1
+2 ,0 8 5
+4 ,2 6 1
+1 0 ,0 4 8
+(5 ,8 8 7 )
+4 ,1 6 1
+$
+$
+$
+$
+A
+A
+d
+d
+d
+d
+itio n
+(3
+(3
+itio n
+(5
+(5
+s
+3
+3
+s
+4
+4
+2
+2
+0
+0
+)
+)
+)
+)
+$
+$
+$
+$
+D
+D
+e
+e
+le
+le
+tio
+tio
+n
+n
+s
+s
+D
+D
+e
+e
+Bc
+Bc
+a la
+e m2
+0
+a la
+e m2
+0
+n c
+b e
+2 5
+224
+1 0
+(6
+3
+n c
+b e
+2 4
+2
+24
+1 0
+(6
+3
+er
+3
+8 5
+,8 5
+,0 8
+,2 6
+,0 4
+,7 5
+,2 8
+er
+3
+8 5
+,8 5
+,0 8
+,2 6
+,0 4
+,4 2
+,6 2
+1
+11518
+9
+9
+1
+11
+5187
+1
+,
+)
+,
+)
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Bond Resolution
+Housing Mortgage Finance Program Bonds issued under the Bond Resolution bear fixed interest at rates
+ranging from 0.55% to 6.274% as of December 31, 2025 and 0.4% to 6.274% as of December 31, 2024,
+and are subject to certain redemption provisions and mature in years through 2068 as of December 31,
+2025 and in years through 2066 as of December 31, 2024.
+The following assets of the Authority are pledged for the payment of bond principal and interest under
+the Bond Resolution: (1) the proceeds derived from the sale of bonds issued under the Bond Resolution,
+(2) all mortgage repayments with respect to long-term mortgage and construction loans financed, or
+deemed to have been financed from the Housing Mortgage General Fund, and (3) all monies and
+securities of the Housing Mortgage General Fund and the Bond Resolution Capital Reserve Fund.
+Special Needs Indenture
+Special Needs Housing Mortgage Finance Program Bonds issued under the Special Needs Indenture
+bear fixed interest at rates ranging from 0.95% to 4.70% as of December 31, 2025 and 0.75% to 4.70%
+as of December 31, 2024, are subject to certain redemption provisions and mature in years through 2051
+as of December 31, 2025 and December 31, 2024.
+The following assets of the Authority are pledged for the payment of bond principal and interest under
+the Special Needs Indenture: (1) the proceeds derived from the sale of bonds issued under the Special
+Needs Indenture, (2) all mortgage repayments with respect to Special Needs Housing mortgages
+financed from the Special Needs Housing Fund, and (3) all monies and securities of the Special Needs
+Housing Fund, the State Assistance Agreement Fund, the EMAP State Assistance Agreement Fund and
+the Special Needs Housing Capital Reserve Fund.
+MFSOB Resolution and Multifamily Other Bond Resolution
+In October 2009, the U.S. Department of Treasury (the “Treasury”), the Federal Housing Finance Agency
+and Fannie Mae and Freddie Mac (the “GSEs”) announced the Federal New Issue Bond Program (the
+“Federal NIBP”) authorized by the Housing Economic Recovery Act of 2008. The Federal NIBP allowed
+the GSEs to purchase bonds from housing finance agencies (the “HFAs”) and package them into GSE-
+guaranteed securities for delivery to and purchase by the Treasury. These HFA bonds were to be issued
+to finance single family or multifamily mortgage loans. If issued to finance single family loans, the HFA
+bonds were not to exceed 60% of the bond issue. The HFA bonds were required to be issued at fixed
+rates to maturity or monthly rate reset bonds that were to convert to rates fixed to maturity in calendar
+year 2010. In September 2010, the Treasury announced an extension to the end of this conversion
+period to December 31, 2011. The fixed interest rates were expected to be lower than prevailing interest
+rates available through a public bond offering. Pursuant to this program and based on an allocation for
+GSE purchase received from the Treasury, the Authority issued $27,610,000 in Multifamily Special
+Obligation Bonds under the MFSOB Resolution (collectively, the “NIBP Escrow Bonds”) on December
+30, 2009, that settled on January 12, 2010. The proceeds of the NIBP Escrow Bonds were held in escrow
+pending the issuance by the Authority of additional taxable or tax-exempt bonds (the “NIBP Market
+Bonds”). As of December 31, 2011, all NIBP Escrow Bonds had been converted to long-term fixed rates
+of interest.
+Bonds issued under the MFSOB Resolution are special obligations of the Authority payable solely from
+and secured by assets pledged under the MFSOB Resolution for Multifamily Special Obligation Bonds.
+In connection with the Federal NIBP, the Authority has also authorized the Multifamily Other Bond
+Resolution to issue Other Bonds secured by the Bond Resolution Capital Reserve Fund under the Bond
+34
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Resolution. Proceeds of the Other Bonds, the NIBP Escrow Bonds and the NIBP Market Bonds are
+intended to be used to (i) participate in the purchase or making of single-family or multifamily mortgage
+loans under the Authority’s Housing Mortgage Finance Program, (ii) fund reserves and (iii) pay related
+bond costs. Bonds issued under the Other Bond Resolutions are general obligations of the Authority.
+QECB Resolution
+The Authority adopted the Qualified Energy Conservation Bond Resolution (“QECB Resolution”) on
+February 26, 2015. The bond proceeds are intended to be used for energy conservation improvements
+and replacements for multifamily housing developments owned or managed by participating public
+housing authorities. Bonds issued under the QECB Resolution are secured by, among others, the loan
+repayments from the QECB funded loans, the QECB federal tax credit subsidy and are general
+obligations of the Authority. The Authority will no longer issue bonds under the QECB Resolution due to
+the Tax Cuts and Jobs Act of 2017.
+Housing Revenue Bond Indenture
+The Authority adopted the Housing Revenue Bond General Trust Indenture (“HRB Indenture”) on
+September 1, 2023. This vehicle was created to provide an alternative method of financing the purchase
+or making of federally insured construction or permanent multifamily loans or federally guaranteed
+mortgage-backed securities consisting of multifamily or single family loans, without the general obligation
+of the Authority or the use of a debt service reserve fund supported by the State of Connecticut.
+35
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Bonds payable as of December 31, 2025 and 2024 were as follows (in 000’s):
+Housing Mortgage Finance Program Bonds Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Publicly Offered Maturity Date Range % 2025 2024 Year
+1998 Series D 2025 Index 5,200
+2001 Series D 2027 Index 4,560 6,645 2,210
+2004 Series A 2025 Index 4,000
+2009 Series D 2039 6.274 52,175 53,015 900
+2013 Series B 2034 Variable 15,775 16,845 1,105
+2014 Series B 2044 3.60 - 4.15 44,305 45,000 730
+2014 Series C 2038 3.20 - 3.95/Variable 34,195 38,025 2,250
+2014 Series D 2036 2.85 - 3.40/Variable 72,835 80,175 6,870
+2014 Series F 2054 3.25 - 4.05 35,600 36,650 990
+2015 Series A 2045 2.80 - 3.85 63,730 68,185 4,235
+2015 Series C 2045 3.20 - 3.60/Variable 55,940 58,860 4,710
+2015 Series E 2055 2.75 - 4.00 21,175 24,590 2,545
+2016 Series A 2045 2.40 - 3.50/Variable 104,910 109,955 5,240
+2016 Series B 2046 2.40 - 3.55/Variable 107,350 113,420 4,990
+2016 Series C 2051 2.15 - 3.50 39,510 40,770 1,355
+2016 Series E 2046 2.50 - 3.00/Variable 99,050 107,130 5,705
+2016 Series F 2046 2.40 - 3.50/Variable 93,675 102,785 5,555
+2016 Series G 2056 2.40 - 3.90 16,795 17,020 235
+2017 Series A 2047 2.875- 4.00/Variable 58,465 67,450 535
+2017 Series C 2047 2.90 - 4.00/Variable 67,935 74,305
+2017 Series D 2047 2.35 - 4.00/Variable 97,745 105,170 4,475
+2017 Series E 2057 2.35 - 3.90 11,230 12,740 165
+2017 Series F 2047 2.45 - 4.00/Variable 80,140 88,740 2,565
+2018 Series A 2048 3.50 - 4.00/Variable 60,390 64,690
+2018 Series B 2048 4.00/Variable 50,855 54,800
+2018 Series C 2048 3.625 - 4.00/Variable 62,350 66,950
+2018 Series D 2058 3.00 - 4.40 30,395 30,760 385
+2018 Series E 2048 4.25/Variable 45,625 50,180 40,000
+2019 Series A 2049 2.45 - 4.00/Variable 46,250 52,485 1,755
+2019 Series B 2049 2.15 - 4.00/Variable 78,905 85,175 36,300
+2019 Series D 2049 1.85 - 4.00/Variable 82,680 89,140 37,930
+2019 Series E 2059 1.80 - 3.35 65,455 71,985 6,740
+2019 Series F 2049 1.75 - 3.50/Variable 83,440 89,885 37,935
+2020 Series A 2050 1.65- 3.50/Variable 101,455 109,460 3,830
+2020 Series C 2050 0.90 - 5.00/Variable 115,215 124,215 4,625
+2020 Series D 2060 0.90 - 2.85 45,045 56,250 405
+2020 Series E 2050 1.15 - 3.00/Variable 104,710 113,725 5,175
+2021 Series A 2038 0.55 - 1.85 155,770 163,665 10,755
+2021 Series B 2065 0.65 - 3.00 136,905 149,500 9,280
+2021 Series D 2051 1.55 - 5.00 118,495 130,320 5,195
+2021 Series E 2061 0.75 - 5.00 97,070 109,130 7,215
+2022 Series A 2051 2.15 - 5.00/Variable 83,245 91,075 2,570
+2022 Series B 2052 3.60 - 5.00 75,930 77,310 850
+2022 Series C 2052 2.80 - 4.50/Variable 64,620 66,040 1,505
+2022 Series D 2052 3.30 - 5.00 24,700 54,955 250
+2022 Series E 2052 3.35 - 5.50/Variable 131,575 140,380 2,185
+2023 Series A 2053 3.20 - 5.25 154,765 164,540 4,545
+2023 Series B 2053 3.15 - 5.75 135,435 142,750 2,545
+2023 Series C 2066 3.80 - 5.25 15,725 52,180 125
+2023 Series D 2054 3.95 - 6.25 182,125 187,545 3,045
+2024 Series A 2054 3.05 - 6.00 190,850 195,760 3,390
+36
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Housing Mortgage Finance Program Bonds (continued) Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Publicly Offered Maturity Date Range % 2025 2024 Year
+2024 Series C 2054 3.35 - 6.143 241,360 246,210 4,135
+2024 Series D 2064 3.35 - 4.90 116,165 122,915 470
+2024 Series E 2066 3.00 - 5.75 185,015 188,715 2,745
+2024 Series F 2055 3.85 - 6.00 294,450 298,645 5,085
+2025 Series A 2055 3.00 - 5.953 296,725 4,680
+2025 Series B 2060 2.90 - 5.968 120,775 485
+2025 Series C 2055 3.30 - 6.158/Variable 348,920 4,785
+2025 Series D 2068 2.70 - 4.95 120,790 650
+2025 Series E 2055 2.75 - 6.00/Variable 369,975 3,365
+Subtotal $ 5,811,250 $ 4,918,010 $ 312,300
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Direct Placements Maturity Date Range % 2025 2024 Year
+2013 Series A 2041 Index 88,130 88,130
+2013 Series C 2046 Index 30,320 30,320
+2016 Series D 2050 3.25 11,335 11,595 270
+2021 Series C 2033 Index 148,137 174,840 20,917
+2022 Series C 2055 3.31 23,640 28,495
+2024 Series B 2033 5.17 50,000 50,000
+Subtotal 351,562 383,380 21,187
+Plus unamortized bond premium 38,414 43,814
+Total Housing Mortgage Finance Bonds $ 6,201,226 $ 5,345,204 $ 333,487
+The amounts due within one year in the previous table include the total outstanding balance of variable
+rate demand bond obligations where the standby bond purchase agreements expire within one year of
+the balance sheet date, although the maturities extend well beyond. The value of these obligations as of
+December 31, 2025 is $143,500. It is the intention of the Authority to renew these agreements prior to
+expiration.
+Special Needs Housing Mortgage Finance Program Special Obligation Bonds
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Publicly Offered Maturity Date Range % 2025 2024 Year
+Series 18 2046 3.50 - 4.45 8,095 8,340 255
+Series 19 2035 3.50 - 4.25 5,565 6,160 615
+Series 20 2045 3.50 - 4.40 3,040 3,140 100
+Series 21 2045 3.60 - 4.70 9,995 10,390 405
+Series 23 2048 3.40 - 4.30 3,180 3,265 90
+Series 24 2037 3.40 - 4.10 4,265 4,870 270
+Series 27 2051 0.95 - 2.65 7,335 7,385 50
+Series 28 2040 0.95 - 2.375 10,465 12,325 1,535
+Total Special Needs Housing Mortgage Finance $ 51,940 $ 55,875 $ 3,320
+Program Special Obligation Bonds
+37
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Multifamily Special Obligation Bonds
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Direct Placements Maturity Date Range % 2025 2024 Year
+Series 2009-1 2051 2.32 20,890 21,470 600
+Total Multifamily Special Obligation Bonds $ 20,890 $ 21,470 $ 600
+Housing Mortgage Finance Program Bonds (Multifamily) Other Bonds
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Direct Placements Maturity Date Range % 2025 2024 Year
+2011 Series A 2055 4.75 1,286
+2013 Series A 2053 5.50/Variable 23,348
+Total Housing Mortgage Finance Program Bonds $ $ 24,634 $
+(Multifamily) Other Bonds
+Qualified Energy Conservation Bonds
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Direct Placements Maturity Date Range % 2025 2024 Year
+2015 Series A (1,2) 2034 4.35 3,239 3,515 291
+2016 Series B 2035 3.94 1,381 1,510 131
+2016 Series C 2036 3.94 1,043 1,137 95
+Total Qualified Energy Conservation Bonds 5,663 6,163 517
+Housing Revenue Bonds
+Outstanding Balance
+December 31, Amount Due
+Final Interest Rate Within 1
+Publicly Offered Maturity Date Range % 2025 2024 Year
+2025 Series A 2043 2.70 - 4.80 24,667
+2025 Series B 2043 2.70 - 4.80 12,920
+2025 Series C 2041 2.75 - 4.80 26,760 265
+Total Housing Revenue Bonds 64,347 265
+Total Bonds Payable, Net $ 6,344,066 $ 5,453,346 $ 338,189
+38
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Line of Credit
+On November 4, 2021, CHFA entered into a revolving line of credit agreement with Wells Fargo Bank
+National Association, proceeds of which were used to acquire single family loan prepayments and redeem
+the corresponding bonds. The acquired single family loan prepayments were subsequently pledged as
+collateral pursuant to the agreement. The original revolving agreement has been extended twice with the
+current term expiring on July 29, 2026. The current maximum line of credit available is $75 million. The
+outstanding line of credit balance incurs interest based on daily SOFR plus 63 basis points. As of December
+31, 2025, the outstanding balance was $58.6 million.
+On April 27, 2022, CHFA entered into a revolving line of credit agreement with Bank of America, N.A.,
+proceeds of which were used as a single-family loan warehouse facility. The agreement originally had a
+maximum line of credit of $75 million and had an original expiration date of April 26, 2024. On March 28,
+2024 the agreement was modified and extended to April 30, 2026. The amount available under the line
+was reduced by $25 million to $50 million on August, 27, 2025. The outstanding line of credit balance bears
+interest at an index rate which resets monthly and is one-month Term SOFR plus 65 basis points. As of
+December 31, 2025, the outstanding balance was zero.
+On November 1, 2023, CHFA entered into a line of credit agreement with U.S. Bank National Association,
+proceeds of which were used as a single-family loan warehouse facility. The agreement had a maximum
+line of credit of $75 million and bore interest at an index rate which reset daily at one-month Term SOFR
+plus a spread of 128 basis points. On May 22, 2025, the agreement was extended to November 16, 2026.
+The extension reduced the spread to 44 basis points. As of December 31, 2025, $75 million of the line of
+credit was outstanding.
+On April 1, 2025, CHFA entered into a revolving line of credit agreement with PNC Bank, National
+Association, proceeds of which were used as a single-family loan warehouse facility. The agreement has
+a maximum line of credit of $75 million and bears interest at an index rate which resets daily at one-month
+Term SOFR plus a spread of 48 basis points. The agreement expires on April 9, 2027. As of December 31,
+2025, $20 million of the line of credit was outstanding.
+Note Payable (in 000’s)
+The Authority has executed Fixed Rate Amortizing Advances (Advances) pursuant to the Agreement for
+Advances, Collateral Pledge and Security Agreement (Agreement) with the Federal Home Loan Bank of
+Boston. The purpose of the Advances was to provide long-term financing for multifamily properties. The
+Authority pledged a security interest in the first mortgage on the corresponding multifamily loan as collateral,
+as required under the terms of the Agreement. The Agreements contains several provisions which would
+result in default, including, but not limited to, failure to pay the debt and a material breach of any
+representations or warranty. A summary of the Advances is below.
+Outstanding Balance
+December 31,
+Interest Due Within
+Maturity Date Rate 2025 2024 One Year
+12/1/2044 5.01% 3,858 3,976 124
+8/1/2045 5.10% 2,573 78
+12/1/2045 4.82% 7,813 236
+Total Notes Payable $ 14,244 $ 3,976 $ 438
+39
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Conduit Debt
+In furtherance of the Authority’s mission, the Authority has issued conduit debt obligations. The
+outstanding principal balances of conduit debt obligations as of December 31, 2025 include four
+Multifamily Housing Revenue Bonds totaling $20,726,410, one series totaling $2,697,422 of Multifamily
+Housing Revenue Notes, and four series totaling $37,680,000 of State-Supported Special Obligation
+Bonds. The outstanding principal balances of conduit debt obligations as of December 31, 2024 include
+four Multifamily Housing Revenue Bonds totaling $22,630,930, one series totaling $2,742,666 of
+Multifamily Housing Revenue Notes, and four series totaling $45,755,000 of State-Supported Special
+Obligation Bonds. The issuance of these obligations does not create or imply any indebtedness on the
+part of the Authority. Each issue requires that the funds related to such issue be held by a trustee for the
+bondholders; therefore, such funds are not under the control of the Authority, and, accordingly, the
+Authority’s financial statements do not reflect the balances or operating results of the various trust
+accounts.
+Debt Service Requirements
+The following tables provide a summary of debt service requirements and net swap payments for the
+next five years and in five-year increments thereafter (in 000’s). The interest calculations are based on
+the variable rates in effect on December 31, 2025, and may not be indicative of the actual interest
+expense that will be incurred.
+40
+Y e a r E
+D e c e m
+2 0 2 6
+2 0 2 7
+2 0 2 8
+2 0 2 9
+2 0 3 0
+2 0 3 1 -2
+2 0 3 6 -2
+2 0 4 1 -2
+2 0 4 6 -2
+2 0 5 1 -2
+2 0 5 6 -2
+2 0 6 1 -2
+2 0 6 5 -2
+T o ta l
+n d in g
+b e r 3 1 ,
+0 3 5
+0 4 0
+0 4 5
+0 5 0
+0 5 5
+0 6 0
+0 6 5
+0 7 0
+$
+$
+F ix e
+P r in c
+1 6 3
+1 5 7
+1 9 4
+1 6 1
+1 7 0
+8 6 0
+7 8 3
+7 4 1
+6 6 0
+6 6 2
+1 1 3
+4 8
+2
+4 ,7 2 2
+d
+ip
+,9,9,2,5,7,3,3,1,7,9,9,6,5
+,2
+-P u
+a l
+7 0
+6 5
+3 0
+5 5
+4 0
+1 0
+6 0
+7 0
+9 0
+8 0
+9 5
+1 0
+8 5
+6 0
+b lic
+$
+$
+ly O ffe r e d
+In te r e s
+1 9 5 ,2
+1 9 0 ,4
+1 8 5 ,2
+1 7 9 ,5
+1 7 4 ,3
+7 8 5 ,2
+6 2 8 ,8
+4 6 4 ,6
+2 9 5 ,1
+1 2 3 ,8
+2 5 ,3
+5 ,1
+1
+3 ,2 5 3 ,3
+t
+1506178758493
+1
+5849797478191
+9
+$
+$
+P r in c ip a
+4 ,8 3
+4 ,8 4
+8 ,9 7
+1 2 ,6 0
+1 2 ,9 6
+1 7 4 ,9 5
+2 0 0 ,9 1
+2 3 4 ,2 6
+3 8 7 ,6 8
+4 6 ,9 8
+-
+1 ,0 8 8 ,9 9
+V
+l
+0500050000
+0
+a r
+B
+ia b
+$
+$
+o n d R e s o
+le -P u b lic
+In te r e s
+3 6 ,0
+3 5 ,8
+3 5 ,5
+3 5 ,1
+3 4 ,7
+1 5 7 ,4
+1 2 6 ,1
+9 2 ,2
+3 5 ,4
+7
+5 8 9 ,3
+lu tio n
+ly O ffe
+t
+2 5 $
+3 7
+2 6
+4 3
+2 1
+8 7
+1 2
+0 2
+9 4
+5 3
+0 0 $
+r e d
+In te r e s t
+R a te
+S w a p s , N e
+(3 0 2
+(6 4 6
+(9 9 8
+(1 ,1 4 7
+(1 ,5 2 5
+(9 ,8 2 4
+(1 0 ,1 4 5
+(5 ,4 2 7
+2 6 8
+1 0 0
+(2 9 ,6 4 6
+t
+))))))))
+)
+$
+$
+F ix e d - D ir e c
+P r in c ip a l
+2 7 0
+2 8 5
+2 9 5
+5 ,3 0 5
+1 0 ,3 2 0
+3 6 ,8 3 0
+2 ,2 5 5
+2 ,7 9 0
+1 4 ,4 2 0
+1 2 ,2 0 5
+8 4 ,9 7 5
+t P la
+$
+$
+c e m e n ts
+In te r e s
+3 ,7
+3 ,7
+3 ,7
+3 ,7
+3 ,1
+8 ,4
+5 ,0
+4 ,6
+3 ,7
+7
+4 0 ,7
+t
+3210785538
+7
+4556989507
+8
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+41
+Y e a r E
+D e c e m
+2 0 2 6
+2 0 2 7
+2 0 2 8
+2 0 2 9
+2 0 3 0
+2 0 3 1 - 2
+2 0 3 6 - 2
+2 0 4 1 - 2
+2 0 4 6 - 2
+2 0 5 1 - 2
+2 0 5 6 - 2
+2 0 6 1 - 2
+2 0 6 5 - 2
+T o ta l
+n d in g
+b e r 3 1
+0 3 5
+0 4 0
+0 4 5
+0 5 0
+0 5 5
+0 6 0
+0 6 5
+0 7 0
+,
+2222222222
+T
+0000000000
+o
+V a r ia
+P r in c ip a l
+$ 2 0 ,9 1 7
+2 0 ,7 6 2
+2 0 ,2 1 9
+2 0 ,9 3 6
+2 0 ,9 3 6
+7 0 ,3 2 7
+4 7 ,7 0 5
+2 8 ,1 0 0
+1 6 ,6 8 5
+-
+$ 2 6 6 ,5 8 7
+Y e a r E n d in g
+D e c e m b e r 3 1 ,
+2 6
+2 7
+2 8
+2 9
+3 0
+3 1 - 2 0 3 5
+3 6 - 2 0 4 0
+4 1 - 2 0 4 5
+4 6 - 2 0 5 0
+5 1 - 2 0 5 5
+ta l
+b le
+$
+$
+- D ir e c t P la c e m
+In t e r e s t
+1 1 ,1 6 1 $
+1 0 ,6 8 1
+9 ,7 8 9
+8 ,8 8 1
+7 ,9 6 2
+2 9 ,1 2 7
+1 4 ,4 5 4
+5 ,1 3 5
+7 3 7
+9 7 ,9 2 7 $
+S p e c ia l N e
+F ix e d - P u b
+P r in c ip a l
+$ 3 ,3 2 0
+3 ,1 3 0
+2 ,8 7 0
+2 ,8 7 0
+2 ,9 9 0
+1 3 ,2 3 0
+1 1 ,9 7 0
+7 ,9 9 5
+3 ,2 3 5
+3 3 0
+$ 5 1 ,9 4 0
+B o n d R e s
+e n t sIn
+t e r e s t
+R a t e
+S w a p s , N e t
+9 9 3 $
+8 2 1
+6 5 0
+5 1 8
+3 9 9
+4 4 6
+3 ,8 2 7 $
+e d s In d e n t u r e
+lic ly O f f e r e d
+In t e r e s t
+$ 1 ,7 3 8
+1 ,6 6 0
+1 ,5 7 8
+1 ,4 9 2
+1 ,4 0 1
+5 ,5 6 1
+3 ,2 6 6
+1 ,3 0 4
+2 3 6
+4
+$ 1 8 ,2 4 0
+o lu t io n
+T o t a l B o n d R e s o lu
+P r in c ip a l In t e r e s t
+1 8 9 ,9 8 7 $ 2 4 6 ,8 2 6
+1 8 3 ,8 5 7 2 4 0 ,8 7 6
+2 2 3 ,7 1 4 2 3 3 ,8 8 6
+2 0 0 ,3 9 6 2 2 6 ,6 7 0
+2 1 4 ,9 5 6 2 1 9 ,0 5 3
+1 ,1 4 2 ,4 2 2 9 7 1 ,0 0 3
+1 ,0 3 4 ,2 3 0 7 6 4 ,3 6 7
+1 ,0 0 6 ,3 2 0 5 6 1 ,2 3 9
+1 ,0 7 9 ,5 7 5 3 3 5 ,3 8 6
+7 2 2 ,1 6 5 1 2 5 ,5 2 8
+1 1 3 ,9 9 5 2 5 ,3 4 1
+4 8 ,6 1 0 5 ,1 9 9
+2 ,5 8 5 1 3 1
+6 ,1 6 2 ,8 1 2 $ 3 ,9 5 5 ,5 0 5
+M F S O B R e s o lu t io n
+F ix e d - P u b lic ly O f f e r e d
+P r in c ip a l In t e r e s t
+$ 6 0 0 $ 4 8 2
+6 1 0 4 6 7
+6 5 0 4 5 3
+6 6 0 4 3 8
+6 9 0 4 2 2
+3 ,8 1 0 1 ,8 6 0
+4 ,5 1 0 1 ,3 8 2
+5 ,3 9 0 8 1 4
+3 ,9 0 0 1 8 0
+7 0 1
+$ 2 0 ,8 9 0 $ 6 ,4 9 9
+t io
+$
+$
+n
+T o t a
+4 3 6
+4 2 4
+4 5 7
+4 2 7
+4 3 4
+2 ,1 1 3
+1 ,7 9 8
+1 ,5 6 7
+1 ,4 1 4
+8 4 7
+1 3 9
+5 3
+2
+1 0 ,1 1 8
+l
+,8,7,6,0,0,4,5,5,9,6,3,8,7
+,3
+1306029569301
+1
+3306957913696
+7
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+QECB Resolution HRB Resolution
+Fixed - Direct Placement Fixed - Publicly Offered
+Year Ending Grand
+December 31, Principal Interest Principal Interest Total
+2026 $ 517 $ 231 $ 265 3,318 448,433
+2027 533 209 280 2,990 435,751
+2028 552 187 415 2,981 468,425
+2029 570 164 560 2,968 437,927
+2030 590 139 575 2,951 444,906
+2031-2035 2,806 311 3,265 14,444 2,164,406
+2036-2040 9 5 3 4,167 13,705 1,843,389
+2041-2045 54,820 4,982 1,648,173
+2046-2050 1,422,512
+2051-2055 848,098
+2056-2060 139,336
+2061-2065 53,809
+2065-2070 2 ,716
+Total $ 5,663 $ 1,244 $ 64,347 48,339 1 0,357,881
+Notes Payable
+Year Ending
+December 31, Principal Interest Total
+2026 $ 438 $ 711 $ 1,149
+2027 460 679 1,139
+2028 482 657 1,139
+2029 505 634 1,139
+2030 536 603 1,139
+2031-2035 3,108 2,586 5,694
+2036-2040 3,989 1,705 5,694
+2041-2045 4,726 583 5,309
+Total $ 14,244 $ 8,158 $ 22,402
+Objective of the Interest Rate Swaps
+The Authority employs swaps to establish synthetic fixed rates for a portion of its variable rate bond
+obligations. The Authority’s interest rate swap transactions are structured for the Authority to pay a fixed
+interest rate while receiving variable interest rates from the counterparties which are comparable to the
+rates required by the variable rate bonds. These synthetic fixed rates were lower than those available to
+the Authority from fixed rate obligations of comparable maturity. The proceeds of these transactions are
+generally used to make fixed rate mortgage loans. As the objective of the derivative instruments entered
+into was to hedge changes in cash flows for each bond series, they are classified as cash flow hedges.
+Terms
+The Authority has entered into amortizing interest rate swap agreements under the Bond Resolution in
+which the Authority owes a fixed payment to the counterparties of the swaps. In return, the counterparties
+owe the Authority a payment based on common indices such as the Securities Industry and Financial
+42
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Markets Association Municipal Swap Index (“SIFMA”) or the New York Federal Reserve Secured
+Overnight Financing Rate (“SOFR”) that is comparable to the rates required by the Authority’s bonds.
+Only the net difference in interest payments is actually exchanged between the Authority and the
+counterparties. The Authority’s amortizing interest rate swap agreements contain scheduled reductions
+to outstanding notional amounts that are projected to follow scheduled or anticipated reductions in bonds
+payable. The Authority did not pay or receive any cash when the swap transactions were initiated.
+On October 23, 2020, the International Swaps and Derivatives Association (ISDA) published its LIBOR
+Fallbacks Protocol and Supplement to the 2006 ISDA Definitions in anticipation of the expected
+discontinuation of the London Interbank Offered Rate (LIBOR) at the end of 2021. While the use of the
+Protocol and the Supplement is voluntary, the Authority agreed and adhered to the Protocol on January
+19, 2021 to avoid any market disruption. On November 30, 2020, the ICE Benchmark Administration
+and the Financial Conduct Authority announced that most tenors of US Dollar LIBOR including the 1
+month and the 3 month, would continue to be published through June 30, 2023. Recognizing the need to
+for a uniform, nationwide solution on LIBOR, on March 15, 2022, Congress enacted the Adjustable
+Interest Rate Act (“AIRA”) which lays out a set of default rules that apply to legacy contracts subject to
+U.S. law. Beginning July 1, 2023, all tenors of US Dollar LIBOR were replaced by Fallback Rate as
+determined by AIRA. Fallback Rate means the term adjusted SOFR plus the spread relating to the US
+Dollar LIBOR.
+43
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+The terms, fair values and credit ratings of outstanding swaps as of December 31, 2025, were as follows
+(in 000’s):
+Counterparty
+Fixed
+Associated Effective Notional Rate Variable Fair Termination Credit % of Total
+Bond Issue Date Amount Paid Rate Received ** Value Date Rating * Outstanding
+2016 Series B-4 8/15/08 9,855 3.849% 67% 3M LIBOR (959) 11/15/38
+2016 Series B-4 8/15/08 8,925 3.855% 67% 3M LIBOR (627) 11/15/33
+2016 Series F-5 7/1/98 6,700 4.870% 100% 1W SIFMA (783) 11/15/28
+2016 Series F-5 8/15/08 27,550 3.845% 67% 3M LIBOR (1,921) 11/15/33
+2017 Series C-3 & 2018 Series C-3 7/11/01 11,935 4.310% 67% 1M LIBOR (486) 5/15/32
+2018 Series C-3, 2018 Series C-4, 2018 Series E-2,
+2017 Series C-3 11/15/18 25,162 2.471% 67% 3M LIBOR 4,540 11/15/48
+2021 Series C 7/11/01 4,560 5.820% 167% 1M LIBOR-SIFMA (123) 11/15/27
+Total Bank of America, N.A. 94,687 (359) A+/Aa2/AA 9.72%
+2001 Series D-5 12/20/01 4,560 5.360% 167% 3M LIBOR-SIFMA (84) 11/15/27
+2021 Series C 12/20/01 28,790 4.090% 67% 1M LIBOR (968) 5/15/33
+2021 Series C 8/15/08 8,005 3.852% 67% 3M LIBOR (200) 11/15/28
+2014 Series D-3 2/18/09 20,405 3.433% 67% 3M LIBOR (986) 11/15/34
+2017 Series D-3, 2017 Series F-3, 2018 Series A-3 5/15/18 53,205 2.248% 70% 3M LIBOR 7,116 5/15/48
+2017 Series D-3, 2018 Series A-3, 2018 Series B-3 2/18/09 49,630 3.430% 67% 3M LIBOR (2,341) 11/15/38
+2018 Series B-3 6/4/18 10,105 2.500% 70% 3M LIBOR 3,557 11/15/48
+2022 Series A-3 3/24/22 15,000 2.173% 100% 1W SIFMA 339 5/15/31
+Total Bank of New York Mellon 189,700 6,433 AA-/Aa2/AA 19.48%
+2021 Series C 6/5/02 19,245 5.740% 167% 1M LIBOR- SIFMA (1,787) 5/15/33
+2018 Series C-3 & 2018 Series C-4 6/5/02 11,105 4.352% 67% 1M LIBOR (640) 5/15/33
+2019 Series F-2 10/29/19 26,250 1.708% 100% 1W SIFMA 6,316 11/15/49
+2025 Series E-3 11/13/25 64,000 2.986% 67% 1D SOFR 1,424 11/15/51
+Total Citibank, NA 120,600 5,313 A+/Aa3/A+ 12.39%
+2017 Series C-3 & 2017 Series F-3 8/1/02 25,470 3.981% 67% 1M LIBOR (1,512) 5/15/33
+2018 Series C-3 & 2018 Series C-4 3/7/01 8,115 4.120% 67% 1M LIBOR (320) 5/15/32
+2021 Series C 3/7/01 13,980 5.475% 167% 1M LIBOR-SIFMA (1,023) 5/15/32
+Total Goldman Sachs Mitsui Marine 47,565 (2,855) AA-/Aa2/NR 4.89%
+2025 Series C-3 6/12/25 64,000 3.241% 67% 1D SOFR (488) 11/15/51
+Total J.P Morgan Chase Bank, N.A. 64,000 (488) AA-/Aa2/AA 6.57%
+2013 Series B-6 & 2016 Series E 6/15/15 26,195 2.0515% 67% 3M LIBOR 518 11/15/35
+2015 Series C 8/6/15 45,000 2.3625% 70% 1M LIBOR 3,043 11/15/45
+2016 Series A 11/16/15 40,000 2.1325% 67% 3M LIBOR 3,327 11/15/45
+2016 Series B-4 11/15/18 21,220 2.1400% 70% 1M LIBOR 2,741 11/15/46
+2016 Series E-3 8/25/16 27,555 1.7970% 67% 3M LIBOR 4,246 11/15/46
+2017 Series A-3 3/2/17 38,000 2.3350% 67% 3M LIBOR 3,384 11/15/47
+2019 Series A-2 3/5/19 5,000 1.8600% 67% 3M LIBOR 97 5/15/29
+2019 Series B-2 & 2019 Series B-3 5/9/19 25,125 1.9990% 67% 3M LIBOR 2,415 11/15/43
+2020 Series C-3 8/13/20 30,000 1.2660% 100% 1W SIFMA 1 0,705 11/15/50
+2022 Series C-2 7/21/22 15,000 2.9980% 100% 1W SIFMA 546 11/15/37
+Total Royal Bank of Canada 273,095 3 1,022 AA-/Aa1/AA- 28.06%
+2014 Series C & 2020 Series E 12/17/20 26,200 0.723% 100% 1W SIFMA 2,102 11/15/30
+2018 Series E-2, 2017 Series C-3, 2018 Series C-3
+& 2018 Series C-4 11/15/18 25,168 2.242% 67% 3M LIBOR 159 11/15/28
+2018 Series B-3 6/4/18 10,105 2.071% 70% 3M LIBOR 118 5/15/28
+Total Toronto-Dominion Bank, New York Branch 61,473 2,379 A+/Aa2/AA-u 6.31%
+2019 Series A-2 & 2019 Series A-3 3/5/19 18,500 2.290% 67% 3M LIBOR 2,305 5/15/49
+2019 Series D-3 8/8/19 26,230 1.4725% 67% 3M LIBOR 4,045 11/15/43
+Total U.S. Bank National Association 44,730 6,350 A+/A1/A+ 4.59%
+2016 Series F-5 11/15/16 14,250 1.820% 67% 3M LIBOR 4,141 11/15/46
+2017 Series F-3 10/4/00 13,140 5.397% 100% 1W SIFMA (1,174) 11/15/31
+2021 Series C & 2020 Series A-3 3/2/06 27,920 3.4175% 67% 3M LIBOR (1,198) 5/15/36
+2022 Series E-2 11/10/22 22,500 3.848% 100% 1W SIFMA (658) 11/15/37
+Total Wells Fargo Bank, NA 77,810 1,111 A+/Aa2/AA- 7.99%
+Portfolio Total $ 973,660 $ 4 8,906 100.00%
+* S&P/Moody's/Fitch
+** As a result of the cessation of LIBOR on 6/30/23, all reference to LIBOR in this chart refers to the corresponding LIBOR Fallback Rate (SOFR).
+44
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+The changes in fair value of outstanding swaps from December 31, 2024 to December 31, 2025 were
+as follows (in 000's):
+Fair Fair
+Associated Value Value Change in
+Bond Issue 12/31/2025 12/31/2024 Fair Value
+1998 Series D-4 $ $ (69) $ 69
+2016 Series B-4 (959) (843) (116)
+2016 Series B-4 (627) (528) (99)
+2016 Series F-5 (783) (771) (12)
+2016 Series F-5 (1,921) (1,614) (307)
+2017 Series C-3 & 2018 Series C-3 (486) (330) (156)
+2018 Series C-3, 2018 Series C-4, 2018 Series E-2 4,540 4,377 163
+2021 Series C (123) (187) 64
+Total Bank of America, N.A. (359) 35 (394)
+2001 Series D-5 (84) (106) 22
+2021 Series C (968) (1,015) 47
+2021 Series C (200) (223) 23
+2014 Series D-3 (986) (710) (276)
+2017 Series D-3, 2017 Series F-3, 2018 Series A-3 7,116 7,469 (353)
+2017 Series D-3, 2018 Series A-3, 2018 Series B-3 (2,341) (1,838) (503)
+2018 Series B-3 3,557 3,177 380
+2022 Series A-3 339 816 (477)
+Total Bank of New York Mellon 6,433 7,570 (1,137)
+2021 Series C (1,787) (1,786) (1)
+2018 Series C-3 & 2018 Series C-4 (640) (630) (10)
+2019 Series F-2 6,316 6,463 (147)
+2025 Series E-3 1,424 1,424
+Total Citibank, NA 5,313 4,047 1,266
+2017 Series C-3 & 2017 Series F-3 (1,512) (1,354) (158)
+2018 Series C-3 & 2018 Series C-4 (320) (269) (51)
+2021 Series C (1,023) (1,008) (15)
+Total Goldman Sachs Mitsui Marine (2,855) (2,631) (224)
+2025 Series C-3 (488) (488)
+Total J.P Morgan Chase Bank, N.A. (488) (488)
+2013 Series B-6 & 2016 Series E 518 1,210 (692)
+2015 Series C 3,043 4,100 (1,057)
+2016 Series A 3,327 4,207 (880)
+2016 Series B-4 2,741 3,064 (323)
+2016 Series E-3 4,246 4,773 (527)
+2017 Series A-3 3,384 4,111 (727)
+2019 Series A-2 97 214 (117)
+2019 Series B-2 & 2019 Series B-3 2,415 2,848 (433)
+2020 Series C-3 10,705 10,250 455
+2022 Series C-2 546 949 (403)
+Total Royal Bank of Canada 31,022 35,726 (4,704)
+2014 Series C & 2020 Series E 2,102 3,173 (1,071)
+2018 Series E-2, 2017 Series C-3, 2018 Series C-3 - -
+& 2018 Series C-4 159 659 (500)
+2018 Series B-3 118 327 (209)
+Total Toronto-Dominion Bank, New York Branch 2,379 4,159 (1,780)
+2019 Series A-2 & 2019 Series A-3 2,305 2,450 (145)
+2019 Series D-3 4,045 4,589 (544)
+Total U.S. Bank National Association 6,350 7,039 (689)
+2016 Series F-5 4,141 3,761 380
+2017 Series F-3 (1,174) (1,142) (32)
+2021 Series C & 2020 Series A-3 (1,198) (896) (302)
+2022 Series E-2 (658) (132) (526)
+Total Wells Fargo Bank, NA 1,111 1,591 (480)
+Portfolio Total $ 48,906 $ 57,536 $ (8,630)
+45
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Fair Value
+There is a multi-step process in determining the fair value of the Authority’s swap portfolio. The first step
+is to determine the settlement price utilizing the Income Approach from “mid market” pricing data. Such
+data consists primarily of observable quotes from the over-the-counter swap markets that fall into Level
+2 of the fair value hierarchy. The second step is to determine the credit valuation adjustment (“CVA”).
+The purpose of the CVA is to quantify the nonperformance risk of the reporting entity as well as the
+nonperformance risk of the counterparty. Default probabilities are derived from credit default swap
+quotes or generic ratings based on borrowing curves that fall into Level 2 of the fair value hierarchy. In
+the final step, to determine fair value, the settlement price is adjusted by the CVAs of both the reporting
+entity’s and counterparty’s payment obligations. The aggregate fair value of the Authority’s swap
+agreements was $48,906,143 as of December 31, 2025.
+Credit Risk
+Credit exposure arises when the fair value of a swap is positive due to the obligation of the counterparty
+to make payment to the Authority in the event of termination. Counterparty credit risk is lessened due to
+the Authority’s broad diversification approach and collateral posting rating requirement. For any new
+swap contract, the Authority’s derivative transaction policy requires a counterparty to have credit ratings
+no lower than Aa3 by Moody’s, AA- by S&P or AA- by Fitch. As of December 31, 2025, the fair value of
+approximately 52% of the agreements in the portfolio were positive. The Authority’s existing
+counterparties have credit ratings ranging from A1 to Aa2 by Moody’s, A+ to AA- by S&P and A+ to AA
+by Fitch.
+Basis Risk
+Basis risk is the risk that there may be a difference between the floating rate component of the swap,
+which is based on indices that consist of taxable or tax-exempt market-wide averages, and the rate on
+the Authority’s variable rate bonds, which is based on that specific bond issue. CHFA’s basis risk is within
+the Authority’s acceptable tolerance levels.
+Termination Risk
+Counterparties to the Authority’s interest rate swap agreements have default termination rights that may
+require settlement payments by the Authority or by the counterparty based on the fair value of the swap
+at the date of termination. As of December 31, 2025, no termination events requiring settlement
+payments have occurred.
+Rollover Risk
+The Authority’s interest rate swap agreements have limited rollover risk because the swap agreements
+contain scheduled reductions to outstanding notional amounts which are expected to follow scheduled
+and anticipated reductions in the associated bonds payable. As of December 31, 2025, sixteen of the
+Authority’s outstanding interest rate swap agreements provided the Authority with full or partial
+termination rights requiring no settlement payments to accommodate unexpected faster paydowns of the
+associated bonds as a result of higher repayment of home mortgage loans.
+Contingencies
+Thirty-six of the Authority’s forty-two interest rate swap agreements (outstanding notional amount
+$879,605,000, fair value $53,500,024) at December 31, 2025, require the Authority to post collateral in
+the event that the fair value of the interest rate swap falls below specific declining thresholds based on
+declines in the Authority’s credit rating. As of December 31, 2025, the Authority’s ratings remain at
+46
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+AAA/Aaa (S&P/Moody’s) and therefore, was not required to post collateral for any of its outstanding
+swaps.
+Refunding Bonds
+Due to the current elevated interest rate environment, it was not advantageous for the Authority to refund
+fixed rate bonds the past two years.
+NOTE 9 - CHANGES IN LONG-TERM LIABILITIES
+The changes in long-term liabilities for the years ended December 31, 2025, and 2024 were as follows
+(in 000’s):
+Balance Balance
+January 1, December 31,
+2025 Increase Decrease 2025
+Escrow deposits $ 175,501 $ 78,885 $ (28,388) $ 225,998
+Notes Payable 3,858 10,019 (71) 13,806
+Bonds payable, publicly offered 4,712,689 1,316,675 (379,298) 5,650,066
+Bonds payable, direct placement 417,048 (61,237) 355,811
+Compensated Absences * 931 360 1,291
+Net OPEB liability 56,303 18,556 (35,397) 39,462
+Net pension liability 48,150 (15,930) 32,220
+$ 5,414,480 $ 1,424,495 $ (520,321) $ 6,318,654
+Balance Balance
+January 1, December 31,
+2024 Increase Decrease 2024
+Escrow deposits $ 163,810 $ 39,503 $ (27,812) $ 175,501
+Notes Payable 3,858 3,858
+Bonds payable, publicly offered 4,076,217 999,687 (363,215) 4,712,689
+Bonds payable, direct placement 388,593 50,000 (21,545) 417,048
+Compensated Absences * 677 254 931
+Net OPEB liability 52,123 33,077 (28,897) 56,303
+Net pension liability 41,960 12,818 (6,628) 48,150
+$ 4,723,380 $ 1,139,197 $ (448,097) $ 5,414,480
+* The change in compensated absences liability is presented as a net change.
+NOTE 10 - INTERFUND RECEIVABLES, PAYABLES AND TRANSFERS
+The Authority reports interfund balances among its funds which are reflected on the combining schedule
+of net position as “due from/due to other funds/component units”. These balances generally consist of
+accruals of various revenues or expenses due to a fund, but received or paid to another, and transfers
+47
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+between funds to meet liquidity requirements. These transactions and resulting year-end interfund
+balances have been eliminated in the accompanying combining financial statements.
+The composition of interfund balances as of December 31, 2025 is as follows:
+Receivable Fund Payable Fund Amount
+General Fund Multifamily Real Estate Owned 2,300,000
+During the year, operating transfers are used to reallocate or move resources from one fund to another
+and are reflected on the combining schedule of revenues, expenses and changes in net position.
+NOTE 11 – ARBITRAGE REBATES
+On certain bond issues, the Authority’s earnings from the investment of bond proceeds are limited per
+Federal Income Tax rules. Yields in excess of Federal Limits are payable to the U.S. Treasury and are
+recorded as a liability. As of December 31, 2025 and December 31, 2024, the Authority had arbitrage
+rebate liabilities totaling $4,580,972 and $3,286,000, respectively, and are reported in the statements of
+net position as a component of “escrow deposits and unearned revenue”. The net effect of changes in
+this liability are recorded as increases or reductions of “interest on investments” in the statements of
+revenues, expenses and changes in net position.
+NOTE 12 - NET POSITION
+Net position consisted of the following (in 000’s):
+December 31,
+2025 2024
+General and Capital Reserve Funds:
+Net investment in capital assets $ 3,289 $ 3,621
+Restricted by contractual agreements 72,910 78,995
+Restricted by bond indentures and enabling legislation 816,204 622,529
+Other Funds:
+Housing Mortgage Insurance Fund 4,357 4,169
+Multifamily Special Obligation Bond and Other Bond Funds 4,452 4,188
+Special Needs Housing Funds 53,947 48,218
+Qualified Energy Conservation Bonds 875 792
+Housing Revenue Bond Fund (1,175)
+Component Units:
+CHFA-Small Properties, Inc. 2,180 1,994
+$ 957,039 $ 764,506
+Restricted by Contractual Agreements
+FHLB of Boston Notes Payable collateral 14,316 3,996
+Wells Fargo line of credit collateral 58,594 74,999
+Total Restricted by Contractual Agreements $ 72,910 $ 78,995
+48
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+NOTE 13 - PENSION PLAN
+Plan Description
+Eligible employees of the Authority participate in the Connecticut State Employees’ Retirement System
+(“SERS”) which is administered by the State Employees’ Retirement Commission. SERS is a cost-
+sharing multiple-employer defined benefit public employee retirement system (“PERS”) established in
+1939 and governed by Sections 5-152 to 5-192 of the Connecticut General Statutes. Detailed information
+about the total Plan’s funding status and progress, contributions required and fiduciary net position can
+be found in the Connecticut State Employees’ Retirement System GASB Statement 68 Report available
+at www.osc.ct.gov/rbsd/reports/index.html.
+SERS provides retirement, disability and health benefits, and annual cost-of-living allowances to plan
+members and their beneficiaries. Employees are covered under one of five tiers. All Authority employees
+are classified as non-hazardous duty. A summary of plan benefits and required contributions for non-
+hazardous duty members is represented in the following table:
+49
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Tier I Tier II Tier IIA Tier III Tier IV
+Eligibility - hire date Prior to On or after On or after On or after On or after
+July 1, 1984 July 1, 1984 July 1, 1997 July 1, 2011 July 1, 2017
+Final Average Earnings (FAE) Average Salary of 3 Average Salary of 3 Average Salary of 5
+highest paid years of service highest paid years of service highest paid years of service
+Benefit Plan B
+2% of FAE x years of service up 1.4 % of FAE plus 0.433% of FAE in excess 1.3% of FAE x years of service
+to age 65. Thereafter, 1% of FAE of breakpoint x years of service up to a max of 35 years plus
+up to $4,800 plus 2% of FAE in 1.625% of FAE x years of service over 35 years
+excess of $4,800. At age 70,
+greater of 1.25% of FAE up to
+$4,800 plus 2.5% of FAE in excess
+of $4,800 x years of service or 1% of
+FAE up to $4,800 plus 2% of FAE in
+excess of $4,800 x years of service.
+Plan C
+2% of FAE x years of service. At
+age 70, greater of 2.5% of FAE x
+years of service (max 20 years) or
+2% of FAE x years of service.
+Vesting 10 years of service 5 years of service 5 years of service 10 years of service 10 years of service
+Normal Retirement Age 55 with 25 years If eligible for retirement prior Age 63 with 25 years Age 63 with 25 years
+Age 60 with 10 years to July 1, 2022 Age 65 with 10 years Age 65 with 10 years
+Age 70 with 5 years Age 62 with 10 years
+Age 60 with 25 years
+Age 70 with 5 years
+If NOT eligible for retirement
+prior to July 1, 2022
+Age 65 with 10 year
+Age 63 with 25 years
+Age 70 with 5 years
+Early Retirement Age 55 with 10 years Age 55 with 10 years Age 55 with 10 years Age 58 with 10 years Age 58 with 10 years
+Member Contributions Plan B
+(prior to 7/1/17) 2% of earnings up to None 2% of earnings 2% of earnings n/a
+social security wage base
+plus 5% of earnings above
+that level
+Plan C
+5% of earnings
+Member Contributions Plan B
+(Effective 7/1/17 - 6/30/19) 3.5% of earnings up to 1.5% of earnings 3.5% of earnings 3.5% of earnings * 5% of earnings
+social security wage base
+plus 5% of earnings above
+that level
+Plan C
+6.5% of earnings
+Member Contributions Plan B
+(Effective 7/1/19) 4.0% of earnings up to 2.0% of earnings 4.0% of earnings 4.0% of earnings * 5% of earnings
+social security wage base
+plus 5% of earnings above
+that level
+Plan C
+7.0% of earnings
+50
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+* In years where plan asset losses require further increases in contributions, Tier IV employees’
+contributions may increase by half the necessary increase in rates (up to 2%). All Tier IV employees must
+contribute 1% to the Defined Contribution (DC) portion of the Hybrid Plan and may elect additional
+contributions of up to 3% of salary to the DC portion. Effective July 1, 2023, through June 30, 2024,
+retirement contributions for Tier IV members increased 2% (from 5% to 7%). This increase was temporary
+and was a result of lower-than-expected performance of plan assets during the prior plan year. The
+additional contribution requirement was suspended on July 1, 2024, as asset performance exceeded
+earnings targets during the plan year.
+The 2011 State Employees Bargaining Agent Coalition Agreement (Agreement) provides current Tier II
+and Tier IIA members who remain employed after July 1, 2022, the opportunity for a one-time irrevocable
+election to retain the normal retirement eligibility in place prior to the Agreement. The election would
+require an additional employee contribution based on their original eligible retirement date. Under the
+prior agreement, normal retirement eligibility was age 60 and 25 years of service or age 62 and 10 years
+of service. All plans provide for death and disability benefits.
+The contribution requirements of plan members and the State are established and may be amended by
+the State legislature subject to the contractual rights established by collective bargaining. Individuals
+hired on or after July 1, 2011, otherwise eligible for the Alternative Retirement Plan (ARP) are eligible to
+become members of the Hybrid Plan in addition to their other existing choices. The Hybrid Plan has
+defined benefits identical to Tier II/IIA and Tier III for individuals hired on or after July 1, 2011, but requires
+employee contributions 3% higher than the contributions required from the applicable Tier II/IIA/III plan.
+The State is required to contribute at an actuarially determined rate.
+The Authority’s contractually required contribution rates for the years ended December 31, 2025 and
+2024 were 34.20% and 41.86%, respectively, of annual payroll, actuarially determined as an amount that,
+when combined with employee contributions, is expected to finance the costs of benefits earned by
+employees during the year, with an additional amount to finance any unfunded accrued liability.
+Contributions to the pension plan from the Authority were $5,649,161 and $6,628,002 for the years ended
+December 31, 2025, and 2024, respectively.
+Pension Liabilities, Pension Expense, Deferred Outflows of Resources and Deferred Inflows of
+Resources Related to Pensions
+As of December 31, 2025, and 2024, the Authority reported a liability of $32,220,285 and $48,149,784
+for its proportionate share of the net pension liability. The net pension liability was measured as of June
+30, 2025, and the total pension liability used to calculate the net pension liability was determined by an
+actuarial valuation as of that date. The Authority’s proportion of the net pension liability was based on a
+projection of the Authority’s long-term share of contributions to the plan relative to the projected
+contributions of all participating governmental units. The Authority’s proportion was 0.19205% as of June
+30, 2025.
+51
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+For the year ended December 31, 2025, the Authority recognized pension expense of ($1,348,584). At
+December 31, 2025 the Authority reported deferred outflows of resources and deferred inflows of
+resources related to pensions from the following sources:
+Of the total amount reported as deferred outflows of resources related to pensions, $3,049,645 resulting
+from Authority contributions made subsequent to the measurement date will be recognized as a reduction
+of the net pension liability for the year ended December 31, 2026. Other amounts reported as deferred
+outflows of resources and deferred inflows of resources related to pensions will be recognized in pension
+expense as follows:
+Actuarial Assumptions
+The total pension liability was determined based on the annual actuarial valuation report prepared as of
+June 30, 2025. The total pension liability was based on the results of an actuarial experience study for
+the period July 1, 2015 – June 30, 2020. The key actuarial assumptions are summarized below:
+Inflation 2.50%
+Salary increases 3.00% - 11.50% including inflation
+Cost of living 1.95% - 3.25%
+Investment rate of return 6.9%, net of pension plan investment
+expense, including inflation
+52
+D iffe r e n c e s b e tw e e n e x p e c te d a n d a c tu a
+C h a n g e o f a s s u m p tio n s
+N e t d iffe r e n c e b e tw e e n p r o je c te d a n d a c
+e a r n in g s o n p e n s io n p la n in v e s tm e n ts
+C h a n g e s in p r o p o r tio n a n d d iffe r e n c e s
+b e tw e e n e m p lo y e r c o n tr ib u tio n s a n d
+p r o p o r tio n a te s h a r e o f c o n tr ib u tio n s
+C o n tr ib u tio n s s u b s e q u e n t to th e m e a s u r e
+l e x p
+tu a l
+m e n
+e r
+t d
+ie
+a
+n
+te
+c e $
+$
+D e fe
+O u t flo
+R e s o
+1
+5
+3
+1 0
+r r
+wu
+r
+,8
+,9,0
+,7
+e
+sc
+1
+34
+9
+d
+o f
+e s
+4 ,6
+0 ,6
+9 ,6
+4 ,9
+1
+74
+2
+0
+45
+9
+$
+$
+D e fe r r e d
+In flo w s o
+R e s o u r c e
+5
+1 ,7 0 5
+1 4 ,6 9 3
+1 6 ,4 0 4
+fs
+,7
+,9
+,3
+,9
+3
+1
+2
+7
+4
+6
+4
+4
+Year Ending December 31,
+2026 $ (3,027,629)
+2027 (2,047,804)
+2028 (991,732)
+2029 (1,839,722)
+2030 (752,803)
+$ (8,659,690)
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Assumed rates of mortality were obtained from the Pub-2010 Mortality Tables projected generationally
+with scale MP-2020. These assumptions are applied to all periods included in the measurement.
+Investment Rate of Return
+The long-term expected rate of return on pension plan investments was determined using a log-normal
+distribution analysis in which best-estimate ranges of expected future real rates of return (expected
+returns, net of pension plan investment expense and inflation) are developed for each major asset class.
+These ranges are combined to produce the long-term expected rate of return by weighting the expected
+future real rates of return by the target asset allocation percentage and by adding expected inflation.
+The target asset allocation and best estimates of arithmetic real rates of return for each major asset class
+are summarized in the following table:
+Long-Term
+Target Expected Real
+Asset Class Allocation Rate of Return
+Domestic Equity Fund 20.0 % 5.4 %
+Developed Markets International Stock Fund 11.0 6.4
+Emerging Markets International Stock Fund 9.0 8.6
+Core Fixed Income Fund 13.0 0.8
+Emerging Market Debt Fund 5.0 3.8
+High Yield Bond Fund 3.0 3.4
+Real Estate Fund 19.0 5.2
+Private Equity 10.0 9.4
+Private Credit 5.0 6.5
+Alternative Investments 3.0 3.1
+Liquidity Fund 2.0 -0.4
+100.0
+Discount Rate
+The discount rate used to measure the total pension liability at June 30, 2025 was 6.9%. The projection
+of cash flows used to determine the discount rate assumed that plan member contributions will be made
+at the current contribution rate and that State contributions will be made at the actuarially determined
+rates in future years. Based on those assumptions, the pension plan’s fiduciary net position was projected
+to be available to make all projected future benefits payments of current plan members. Therefore, the
+long-term expected rate of return on pension plan investments was applied to all periods of projected
+benefit payments to determine the total pension liability.
+Sensitivity of the Authority’s Proportionate Share of the Net Pension Liability to Changes in the
+Discount Rate
+The following presents the Authority’s proportionate share of the net pension liability calculated using the
+discount rate of 6.9%, as well as what the Authority’s proportionate share of the net pension liability would
+be if it were calculated using a discount rate that is 1 percentage-point lower or 1 percentage-point higher
+than the current rate.
+53
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Fiduciary Plan Net Position
+Detailed information about the pension plan’s fiduciary net position is available in the separately issued
+Comprehensive Annual Financial Report of the State of Connecticut.
+NOTE 14 – POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (OPEB)
+Plan Description
+The State provides postemployment healthcare and life insurance benefits in accordance with State
+statutes, Section 5-257(d) and 5-259(a), to all eligible employees who retire from the State, including
+employees of the Authority. The benefits are provided through the State of Connecticut State Employee
+OPEB Plan (the Plan), a cost sharing single-employer defined benefit plan administered by the State of
+Connecticut. The Plan does not issue stand-alone financial statements, however, financial statements
+for the Plan are included as part of the State of Connecticut’s Annual Comprehensive Financial Report
+that is publicly available online at https://www.osc.ct.gov/reports/.
+Under a cost-sharing plan, OPEB obligations for employees of all employers are pooled, and plan assets
+are available to pay the benefits of the employees of any participating employer providing OPEB benefits
+through the plan, regardless of the status of the employers’ payment of their OPEB obligation to the plan.
+Benefits Provided
+When employees retire, the State pays up to 100% of their healthcare insurance premium cost (including
+dependents’ coverage), depending on the plan. The State currently pays up to 20% of the cost for retiree
+dental insurance (including dependents’ coverage) depending on the plan. In addition, the State pays
+100% of the premium cost for a portion of the employees’ life insurance continued after retirement. The
+amount of life insurance, continued at no cost to the retiree, is determined based on the number of years
+of service that the retiree had with the State at the time of retirement as follows: (a) if the retiree had 25
+years or more of service, the amount of insurance will be one-half of the amount of insurance for which
+the retiree was insured immediately prior to retirement, but the reduced amount cannot be less than
+$10,000; (b) if the retiree had less than 25 years of service, the amount of insurance will be the
+proportionate amount that such years of service is to 25, rounded to the nearest $100 of coverage. The
+State finances the cost of postemployment healthcare and life insurance benefits on a pay-as you-go
+basis through an appropriation in the State’s General Fund.
+Contributions
+In accordance with the Revised State Employees Bargaining Agent Coalition (SEBAC) 2011 Agreement
+between the State of Connecticut and SEBAC, all employees shall pay a 3% retiree healthcare insurance
+contribution for a period of 10 years or retirement, whichever is sooner. Participants of Tier I, Tier II and
+Tier IIA shall be required to have 10 years of actual state service to be eligible for retirement health
+insurance. Participants of Tier III and Tier IV shall be required to have 15 years of actual state service to
+be eligible for retirement health insurance. Deferred vested retirees who are eligible for retiree health
+insurance shall be required to meet the rule of 75, which is the combination of age and actual state
+54
+A u
+n
+th
+e
+o r
+t p
+ity
+e n
+'s
+s
+p
+io
+r
+n
+o p o
+lia
+r
+b
+tio n
+ility
+a te s h a r e o f $
+D e
+5
+4
+1 %
+c r e
+.9 0
+2 ,0
+a
+%
+6
+s
+8
+e
+,9 6 5 $
+D is c o
+R a t
+6 .9 0
+3 2 ,2
+u
+e
+%
+2
+n
+0
+t
+,2 8 5 $
+In
+7
+2 3
+1
+c r
+.9
+,9
+%
+e
+0
+9
+a
+%
+5
+s e
+,1 3 4
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+service equaling 75 in order to begin receiving retiree health insurance based on applicable SEBAC
+agreement. Contributions made by the Authority in 2025 and 2024 totaled $2,088,286 and $2,683,715.
+Contributions made by employees in 2025 and 2024 totaled $284,405 and $396,390.
+OPEB Liabilities, OPEB Expense, Deferred Outflows of Resources and Deferred Inflows of
+Resources Related to OPEB
+At December 31, 2025, and 2024, the Authority reported a liability of $39,461,947 and $56,302,927 for
+its proportionate share of the net OPEB liability. The net OPEB liability was measured as of June 30,
+2025, and the total OPEB liability used to calculate the net OPEB liability was determined by an actuarial
+valuation as of that date. The Authority’s proportion of the net OPEB liability was based on the Authority’s
+actuarially required contribution for the year ended June 30, 2025, relative to all other contributing
+employers. The Authority’s proportion was 0.248067% as of June 30, 2025.
+For the year ended December 31, 2025, the Authority recognized OPEB expense of ($5,143,826). At
+December 31, 2025, the Authority reported deferred outflows of resources and deferred inflows of
+resources related to OPEB from the following sources:
+Of the total amount reported as deferred outflows of resources related to OPEB, $1,127,341 resulting
+from Authority contributions made subsequent to the measurement date will be recognized as a reduction
+of the net OPEB liability for the year ended December 31, 2026. Other amounts reported as deferred
+outflows of resources and deferred inflows of resources related to OPEB will be recognized in the
+Authority’s OPEB expense as follows:
+55
+C h a n g e s in a s s u m p tio n s
+N e t d iffe r e n c e b e tw e e n p r o je c te d a n d a c tu a l
+e a r n in g s o n O P E B p la n in v e s tm e n ts
+C h a n g e s in p r o p o r tio n a te s h a r e a n d d iffe r e n c
+a m o u n t c o n tr ib u te d a n d p r o p o r tio n a te s h a r e
+E m p lo y e r c o n tr ib u tio n s to th e p la n s u b s e q u e n
+m e a s u r e m e n t d a te
+D iffe r e n c e b e tw e e n e x p e c te d a n d a c tu a l e x p e
+th e to ta l O P E B lia b ility
+e b e tw e e
+o f c o n tr
+t to th e
+r ie n c e in
+nib
+u tio n s
+$
+$
+D e fe r r
+O u t flo w
+R e s o u r
+4 ,0 4
+3 ,6 4
+1 ,1 2
+1
+8 ,9 8
+esc
+6
+1
+7
+7
+9
+d
+o f
+e s
+,9 4
+,9 1
+,3 4
+3 ,3
+,5 8
+1
+4
+1
+9
+6
+0
+$
+$
+D e fe r
+In flo w
+R e s o u
+8 ,0
+1
+1 8 ,4
+1 ,3
+2 8 ,1
+r e d
+s o f
+r c e s
+8 9 ,2
+9 8 ,0
+9 9 ,9
+7 7 ,6
+6 4 ,8
+5
+1
+5
+0
+2
+1
+0
+6
+8
+5
+Year Ending December 31,
+2026 $ (7,269,573)
+2027 (3,659,930)
+2028 (3,624,444)
+2029 (3,771,886)
+2030 (1,976,747)
+$ (20,302,580)
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Actuarial Assumptions
+The total OPEB liability in the June 30, 2025 actuarial valuation was determined using key actuarial
+assumptions summarized as follows:
+Inflation 2.50%
+Payroll growth rate 3.00%
+Salary increases 3.00% to 11.50%, vary by service and retirement system
+Discount rate* 5.20% for non-contributory members as of June 30, 2025
+6.90% for contributory members as of June 30, 2025
+Healthcare cost trend rates:
+Medical (Non-Medicare) 5.30%, 13.34% then 5.50% decreasing by 0.25% yearly to an ultimate
+level of 4.50% per year
+Prescription drug (Non-Medicare) 5.85%, 2.41% then 6.25% decreasing by 0.25% yearly to an ultimate
+level of 4.50% per year
+Medical and prescription drug (Medicare) 53.45%, 53.75%, 18.20% then 5.75% decreasing by 0.25%
+yearly to an ultimate level of 4.50% per year
+Dental 2.65%, 2.70% then an ultimate level of 3.00% per year
+Part B 4.50%
+Administrative costs 1.85%, 3.30%, then 3.00%
+* CHFA employees are non-contributory members
+Assumed rates of mortality were obtained from the Pub-2010 General, Above-Median, Employee
+Headcount-weighted Mortality Table projected generationally using Scale MP-2020. These assumptions
+are applied to all periods included in the measurement.
+Investment Rate of Return
+The long-term expected rate of return on OPEB plan investments was determined by an actuarial
+analysis. The June 30, 2025, target allocation and projected arithmetic real rates of return for each major
+asset class, after deducting inflation, but before investment expenses, used in the derivation of the long-
+term expected investment rate of return assumption are summarized in the following table:
+Long-Term
+Target Expected Real
+Asset Class Allocation Rate of Return
+Domestic Equity Fund 20.0 % 5.4 %
+Developed Market International Stock Fund 11.0 6.4
+Emerging Market International Stock Fund 9.0 8.6
+Core Fixed Income 13.0 0.8
+Emerging Market Debt Fund 5.0 3.8
+High Yield Bond Fund 3.0 3.4
+Real Estate Fund 19.0 5.2
+Private Equity 10.0 9.4
+Private Credit 5.0 6.5
+Alternative Investments 3.0 3.1
+Liquidity Fund 2.0 -0.4
+Total 100.0
+56
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Discount Rate
+The discount rate (non-contributory members) used to measure Total OPEB Liability (TOL) was 5.20%
+as of June 30, 2025. Since the State funds non-contributory members on a pay-as-you-go basis, the
+discount rate is based on the yield or index rate for 20-year, tax exempt general obligation municipal
+bonds with an average rating of AA/Aa or higher as shown in the Bond Buyer 20-Bond General Obligation
+Index.
+Sensitivity of the Authority’s Proportionate Share of the Net OPEB Liability to Changes in the
+Discount Rate
+The following presents the Authority’s proportionate share of the net OPEB liability calculated using the
+discount rate of 5.20%, as well as what the Authority’s proportionate share of the net OPEB liability would
+be if it were calculated using a discount rate that is 1 percentage-point lower or 1 percentage-point higher
+than the current rate:
+Sensitivity of the Authority’s Proportionate Share of the Net OPEB Liability to Changes in the
+Healthcare Cost Trend Rate
+The following presents the Authority’s proportionate share of the net OPEB liability calculated using the
+current healthcare cost trend rate as well as what the Authority’s proportionate share of the net OPEB
+liability would be if it were calculated using a healthcare cost trend rate that is 1 percentage-point lower
+or 1 percentage-point higher than the current rates:
+NOTE 15 - COMMITMENTS AND CONTINGENCIES
+The Authority is a party to financial instruments with risk in connection with its commitments to provide
+financing that is not included in the statement of net position. These expose the Authority to credit risk
+in excess of the amount recognized on the statement of net position. The Authority’s exposure to credit
+loss in the event of nonperformance by the borrowers is represented by the contractual amount of those
+instruments. The Authority uses the same credit policies in making commitments and conditional
+obligations as it does for instruments that are included in the statement of net position.
+57
+A u
+n
+th
+e
+o r
+t O
+ity
+P
+'s
+E
+p
+B
+r o
+lia
+p
+b
+o r tio
+ility
+n a te s h a r e o f $
+D e
+4
+4
+1 %
+c r e a s e
+.2 0 %
+5 ,7 3 3 ,4 5 5 $
+D is c o
+R a t
+5 .2 0
+3 9 ,4
+u
+e
+%
+6
+n
+1
+t
+,9 4 7 $
+In
+6
+3 4
+1
+c r
+.2
+,2
+%
+e
+0
+9
+a
+%
+1
+s e
+,1 5 2
+Current
+1% Healthcare Cost 1%
+Decrease Trend Rate Increase
+Authority's proportionate share of $ 33,402,215 $ 39,461,947 $ 4 6,943,803
+net OPEB liability
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+Total credit exposure is summarized below (in 000’s):
+Commitments to extend credit are agreements to lend to a borrower as long as there is no violation of
+any condition established in the contract. Commitments generally have fixed expiration dates or other
+termination clauses and may require payment of a fee. The Authority evaluates each borrower’s credit
+worthiness on a case-by-case basis. The amount of collateral obtained if deemed necessary by the
+Authority upon extension of credit is based on management’s credit evaluation of the counterparty.
+Collateral held is primarily residential and multifamily properties. Interest rates on approved mortgage
+loan commitments are fixed.
+CHFA has funds committed for initiatives other than mortgage loans.
+CHFA is involved in certain litigation and disputes incidental to its operations. Because it is generally
+difficult to predict the outcome of lawsuits, CHFA cannot give any assurance as to the outcome of such
+litigation. Based on the information it presently possesses, however, it is management’s judgment that
+such litigation will not have a material adverse impact upon the financial condition of the Authority.
+The Authority offers mortgage insurance through the CHFA Insurance Fund. CHFA mortgage insurance
+is permitted on a case-by-case basis when FHA insurance and VA guarantees are not available and PMI
+insurance is either not available for the home or has been declined for a reason that would not prevent
+CHFA from issuing an insurance commitment. The CHFA Insurance Fund receives annual premiums
+from participating borrowers. The accumulation of these premiums is used to fund any claims. Premiums
+are collected until the LTV reaches certain thresholds which at such time the insurance coverage is
+terminated. As of December 31, 2025 and December 31, 2024, the Authority had $5,245,000 and
+$5,839,000, respectively, of outstanding home mortgage loans that are insured under this program. For
+the years ended December 31, 2025 and 2024, there were no claims paid from the CHFA Insurance
+Fund.
+NOTE 16 – GRANT PROGRAMS
+Pursuant to Public Act No. 05-228 (CIA), the Authority was receiving a 25% distribution of funds held in
+the State of Connecticut’s land protection, affordable housing and historic preservation account for the
+purpose of supplementing new or existing affordable housing programs. Effective May 28, 2014, and
+pursuant to Public Act No. 14-45 passed on said date, distribution of these funds was redirected to the
+State of Connecticut’s Department of Housing. The Authority is currently spending down the funds
+received in prior years.
+The rights of certain property owners are protected in Connecticut foreclosure actions by § 8-265cc
+through 8-265kk of the Connecticut General Statutes known as the Emergency Mortgage Assistance
+Payment (“EMAP”) Program. These provisions allow homeowners the opportunity to avoid foreclosure
+58
+H
+M
+R
+E
+T
+Z
+o m e M o rtg a g e P ro
+u ltifa m ily D e v e lo p m
+e v e rs e A n n u ity M o
+m e rg e n c y M o rtg a g
+im e to O w n (T T O )
+e ro -1 6 E n d H o m e le
+g ra m P
+e n t L o
+rtg a g e
+e A s s is
+s s n e s s
+u rc h a
+a n s
+ta n c e
+In itia
+s e s
+(E
+tiv e
+M A P )
+$
+$
+2 0 2 5
+2 3 4 ,8 4
+1 7 1 ,9 1
+-
+2 ,1 7
+4 ,5 7
+1 ,2 5
+4 1 4 ,7 5
+58
+0
+1
+0
+4
+$
+$
+2 0 2 4
+1 9 3 ,5 4
+1 6 1 ,3 1
+1 ,5 8
+2 ,9 4
+1 ,7 5
+3 6 1 ,1 3
+50
+38
+2
+0
+8
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+by enabling them to obtain financial assistance from the State, acting through the Authority. A qualified
+homeowner may obtain funds under this program to bring a delinquent mortgage current and may also
+obtain assistance with subsequent mortgage payments to a maximum period of 60 months. The program
+is governed by the relevant statutes and pursuant to a memorandum of understanding between the
+Authority and the State of Connecticut, Office of Policy and Management. Unspent funds are held by the
+Authority in escrow until expended on the program. Only when funds are spent are they recognized as
+program revenue and expenses. During 2011, the Authority issued $20,000,000 in conduit debt under
+its Special Needs Indenture in support of the EMAP Program. Debt service on these bonds is paid by the
+State of Connecticut.
+In 2025 and 2024, the Authority received $337,000 and $222,000, respectively, in Comprehensive
+Counseling (“CC”) grant funds from the U.S. Department of Housing and Urban Development; the
+purpose being to provide counseling and advice to tenants and homeowners to assist them in improving
+their housing conditions and fulfilling the responsibilities of tenancy or homeownership. The funds were
+made available through Section 106 of the Housing and Urban Development Act of 1968 and Section 4
+of the Department of Housing and Urban Development Act as amended by Title XIV of the Dodd-Frank
+Wall Street Reform and Consumer Protection Act, the use of which is subject to the terms and conditions
+of the grant agreement.
+The Qualified Energy Conservation Bond (“QECB”) program was established under the Economic
+Stabilization Act of 2008 (“Act”) and is governed by certain provisions of the Internal Revenue Code of
+1986, as amended (“Code”). Pursuant to the Act and Code, QECBs are qualified tax credit bonds where
+the U.S. Treasury subsidizes a portion of the bond interest payment equal to 70% of the tax credit bond
+rate, subject to sequestration. The interest subsidy due or received in 2025 and 2024 was $162,000 and
+$175,000, respectively.
+The goal of ending chronic homelessness was set when the State of Connecticut’s governor signed onto
+the “Zero:2016” initiative back in 2016. In furtherance of reaching this goal, the Authority committed to
+contributing $5,000,000 over ten years to fund supportive housing rental subsidies. The funding is to be
+made first from State funds on hand resulting from CHFA’s administration of the State’s supportive
+housing program. Once the designated State funds are exhausted, Financing Adjustment Factor (FAF)
+funds obtained from an agreement between the Authority and U.S. Department of Housing and Urban
+Development (HUD) will be used to fund the balance of the subsidy. In 2025 and 2024, the Authority
+funded $500,000 each year towards this commitment. $1.25 million remains committed to be spent on
+this program in future years.
+The Authority maintains a Small Multifamily Lending Program (the SML Program) which provides loans
+through community development financial institutions for the acquisition, rehabilitation or long-term
+financing of small multifamily properties having 3 to 20 units. The State of Connecticut Office of Policy
+and Management (OPM) has partnered with CHFA to promote the SML Program, with a focus on
+providing loans in areas near transit stations and in neighborhoods served by public transportation. The
+program was recapitalized in 2025; providing for the Authority to fund up to $10 million from multiple
+funding sources, $2 million of which is matching funds contributed from OPM. The Authority and OPM
+each contributed $2,000,000 to recapitalize the program during 2025.
+Section 3206 of the American Rescue Plan Act of 2021, authorized the U.S. Department of the Treasury
+to help mitigate financial hardships associated with the coronavirus pandemic by providing funds to
+eligible entities under the Homeowner Assistance Fund Program (HAF). Program funds were used to
+assist qualified applicants with payment of delinquent mortgage payments including principal, interest,
+taxes and other costs the loan servicers incurred to bring the loan current. The Authority received
+$12,314,000 in HAF funds during 2021. In 2022, $110,823,000 in additional grant funds were received.
+Under current guidelines, the program will run through September 30, 2026 or until funds are exhausted.
+59
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+One of the significant obstacles to homeownership is a potential homebuyer’s inability to cover the down
+payment and closing costs required to purchase a home. To address this obstacle, in December 2021,
+the Connecticut State Bond Commission allocated $20,000,000 to the Connecticut Department of
+Housing (DOH) to create a First Time Homebuyers Assistance Program (“Program”). DOH in turn
+requested the Authority to administer and implement the Program on their behalf. The Program was
+named “Time to Own (TTO)” and provides downpayment assistance to eligible applicants. The first
+$155,000,000 in Program funds provided assistance of up to 25% of the cost of a home, up to a maximum
+of $50,000. The Program was modified in 2024 to provide assistance of up to 25% of the cost of a home,
+up to a maximum of $25,000. Program loans are non-amortizing (deferred), with a 10-year term and a
+0% interest rate. 10% of the loan balance is forgiven on each anniversary of the loan closing until fully
+forgiven. The program has received a total funding commitment of $280,000,000, all but $25,000,000 of
+which was received through December 31, 2025.
+The Authority manages a Down Payment Assistance Program (DAP) that helps single family borrowers
+purchase their first home. The DAP allows first time homebuyers access to additional assistance in the
+form of a 2nd mortgage loan to help cover down payment and closing costs. During 2024, the Authority
+received $9,000,000 from the State of Connecticut to further capitalize the program. The Authority funded
+818 DAP loans during 2025 with an average loan of approximately $12,000 per borrower.
+The United States Treasury’s Community Development Financial Institutions Fund created the Capital
+Magnet Fund Program (CMF Program) in order to spur investment in affordable housing and related
+economic development efforts to revitalize neighborhoods across the country by serving low-income
+families and communities. During 2024, the Authority was awarded a $2,000,000 grant from the CMF
+Program. CHFA committed to contribute $2,000,000 in matching funds. The $4,000,000 in total funds
+were used to capitalize the Affordable Housing Fund. Affordable Housing Program funds are to be used
+to support the creation of deeply affordable housing units in the Low-Income Housing Tax Credit Program.
+Activity under these programs for the years ended December 31, 2025 and 2024 is summarized below
+(in 000’s):
+2025 2025
+Program Program
+Funding Expenses Net
+PA 05-228 $ $ 110 $ (110)
+EMAP 1,255 1,255
+CC 337 337
+QECB 162 162
+ZERO 16 500 (500)
+SML PROGRAM 2,000 2,000
+HAF 1,039 1,039
+TIME TO OWN 65,058 65,058
+$ 69,851 $ 68,461 $ 1,390
+60
+CONNECTICUT HOUSING FINANCE AUTHORITY
+NOTES TO FINANCIAL STATEMENTS
+2024 2024
+Program Program
+Funding Expenses Net
+EMAP $ 815 $ 815 $
+CC 222 222
+QECB 175 175
+ZERO 16 500 (500)
+HAF 11,303 11,303
+TIME TO OWN 77,684 77,684
+DAP 9,000 9,000
+CAPITAL MAGNET 2,000 2,000
+$ 101,199 $ 90,699 $ 10,500
+NOTE 17 - RISK MANAGEMENT
+The Authority is subject to normal risks associated with its operations including property damage,
+personal injury and employee dishonesty. All risks are managed through the purchase of commercial
+insurance. There are no pending claims against the Authority as of December 31, 2025. There have
+been no losses exceeding insurance coverage, and there have been no decreases in insurance coverage
+over the last three years.
+NOTE 18 - SUBSEQUENT EVENTS
+On January 27, 2026, the Authority entered into a new swap agreement with JPMorgan Chase Bank,
+N.A. to partially hedge 2026 Series A, Subseries A-3 variable rate bonds. The terms include an effective
+date of February 12, 2026, with an initial notional balance of $64,000,000. The swap has a par termination
+option that can be exercised beginning 2034 through the 2052 termination date. The Authority pays
+3.162% fixed and receives 63% of Daily SOFR plus a spread of 14 basis points.
+On December 18, 2025, the State of Connecticut Bond Commission approved additional funding totaling
+$25,000,000 to recapitalize the Time to Own Program due to high demand. On January 29, 2026, the
+Authority received the allocation from the State.
+On February 12, 2026, the Authority issued 2026 Series A fixed rate and variable rate bonds in the
+amount of $369,760,000 under the Bond Resolution. The bond proceeds were used to partially pay down
+the Wells Fargo line of credit and to fund the purchase of single-family whole loans and mortgage-backed
+securities. On the same date, CHFA entered into a Standby Bond Purchase Agreement with Bank of
+America, N.A., to secure the liquidity needs for 2026 Series A, Subseries A-3 in the principal balance of
+$80,000,000. Additionally, CHFA entered into a Remarketing Agreement with BofA Securities, Inc. to
+perform the remarketing of 2026 Series A, Subseries A-3.
+On February 17, 2026, the Authority redeemed $25,965,000 of various series of outstanding bonds held
+under the Bond Resolution.
+61
+CONNECTICUT HOUSING FINANCE AUTHORITY
+SCHEDULE OF THE AUTHORITY’S PROPORTIONATE SHARE OF NET PENSION LIABILITY
+CONNECTICUT STATE EMPLOYEES’ RETIREMENT SYSTEM (SERS)
+LAST TEN YEARS
+62
+P ro p o rtio n o f th e n e t p e n s io n lia b
+P ro p o rtio n a te s h a re o f th e n e t p e
+C o v e re d p a y ro ll
+P ro p o rtio n a te s h a re o f th e n e t p e
+p e rc e n ta g e o f its c o v e re d -e m p lo
+P la n fid u c ia ry n e t p o s itio n a s o f p
+o f to ta l p e n s io n lia b ility
+ility
+n s io n lia b ility
+n s io n lia b ility
+y e e p a y ro ll
+e rc e n ta g e
+a s a
+$
+$
+3
+1
+2 0 2 5
+0 .1 9 2 0
+2 ,2 2 0 ,2
+6 ,5 1 5 ,8
+1 9 5 .0
+6 1 .5
+5
+8
+0
+9
+3
+%
+5
+1
+%
+%
+$
+$
+4
+1
+2 0 2 4
+0 .2 5 3 8
+8 ,1 4 9 ,7
+5 ,8 3 2 ,3
+3 0 4 .1
+5 5 .7
+4
+8
+8
+2
+5
+%
+4
+2
+%
+%
+$
+$
+4
+1
+2 0 2 3
+0 .2 0 2 2
+1 ,9 5 9 ,5
+4 ,5 9 7 ,2
+2 8 7 .4
+5 0 .5
+7
+3
+3
+5
+9
+%
+8
+2
+%
+%
+$
+$
+5
+1
+2 0 2 2
+0 .2 2 7 2
+0 ,1 1 0 ,6
+4 ,2 2 2 ,9
+3 5 2 .3
+4 5 .7
+3
+9
+0
+2
+6
+%
+3
+6
+%
+%
+$
+$
+6
+1
+2 0 2 1
+0 .3 0 5 1
+4 ,8 8 0 ,1
+2 ,9 5 0 ,4
+5 0 0 .9
+4 4 .5
+2
+1
+5
+9
+5
+%
+9
+5
+%
+%
+$
+$
+7
+1
+2 0 2 0
+0 .2 9 7 1
+0 ,4 8 0 ,1
+3 ,1 6 0 ,6
+5 3 5 .5
+3 5 .8
+1
+0
+5
+4
+4
+%
+0
+4
+%
+%
+$
+$
+7
+1
+2 0 1 9
+0 .3 3 5 4
+6 ,5 2 3 ,9
+3 ,2 2 6 ,6
+5 7 8 .5
+3 6 .7
+5
+0
+2
+6
+9
+%
+4
+1
+%
+%
+$
+$
+6
+1
+2 0 1 8
+0 .3 1 3 0
+7 ,8 9 6 ,4
+3 ,2 5 6 ,1
+5 1 2 .1
+3 6 .6
+8
+7
+2
+9
+2
+%
+9
+4
+%
+%
+$
+$
+6
+1
+2 0 1 7
+0 .3 1 8 3
+7 ,0 6 9 ,5
+3 ,3 0 5 ,3
+5 0 4 .0
+3 6 .2
+0
+6
+0
+8
+5
+%
+5
+9
+%
+%
+$
+$
+6
+1
+2 0 1 6
+0 .3 0 3 2
+9 ,6 2 8 ,1
+2 ,7 3 5 ,4
+5 4 6 .7
+3 1 .6
+2
+7
+8
+3
+9
+%
+8
+8
+%
+%
+CONNECTICUT HOUSING FINANCE AUTHORITY
+SCHEDULE OF EMPLOYER CONTRIBUTIONS
+CONNECTICUT STATE EMPLOYEES’ RETIREMENT SYSTEM (SERS)
+LAST TEN YEARS
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Contractually required contribution $ 5,649,161 $ 6,628,002 $ 6,597,741 $ 6,474,089 $ 5,452,202 $ 4,802,267 $ 5,294,507 $ 4,517,904 $ 4,909,189 $ 4,553,783
+Amount contributed in relation to contractually
+required contribution 5,649,161 6,628,002 6,597,741 6,474,089 5,452,202 4,802,267 5,294,507 4,517,904 4,909,189 4,553,783
+Contribution deficiency - - $ - $ - $ - $ - $ - $ - $ - $ -
+Covered payroll $ 16,515,801 15,832,382 $ 14,597,232 $ 14,222,906 $ 12,950,455 $ 13,160,654 $ 13,226,621 $ 13,256,124 $ 13,305,309 $ 12,735,488
+Contributions as a percentage of covered
+employee payroll 34.20% 41.86% 45.20% 45.52% 42.10% 36.49% 40.03% 34.08% 36.90% 35.76%
+Notes to Schedule
+Changes in assumptions:
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Investment rate of return (net of pension plan
+investment expense, including inflation) 6.90% 6.90% 6.90% 6.90% 6.90% 6.90% 6.90% 6.90% 6.90% 6.90%
+Salary increases 3.00% - 11.5% 3.00% - 11.5% 3.00% - 11.5% 3.00% - 11.5% 3.00% - 11.5% 3.50% - 19.5% 3.50% - 19.5% 3.50% - 19.5% 3.50% - 19.5% 3.50% - 19.5%
+Cost of living adjustments 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 1.95% - 3.25% 2.25% - 3.25%
+Inflation 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50%
+63
+CONNECTICUT HOUSING FINANCE AUTHORITY
+SCHEDULE OF THE AUTHORITY’S PROPORTIONATE SHARE OF NET OPEB LIABILITY
+LAST TEN YEARS
+64
+P ro p o rtio n o f th e n e t O P E B lia b ility
+P ro p o rtio n a te s h a re o f th e n e t O P E B lia b ility
+C o v e re d p a y ro ll
+P ro p o rtio n a te s h a re o f th e n e t O P E B lia b ility a
+p e rc e n ta g e o f its c o v e re d -e m p lo y e e p a y ro ll
+P la n fid u c ia ry n e t p o s itio n a s o f p e rc e n ta g e
+o f to ta l O P E B lia b ility
+s a
+$
+$
+2 0 2 5
+0 .2 4 8 0 6
+3 9 ,4 6 1 ,9
+1 6 ,5 1 5 ,8
+2 3 8 .9
+1 8 .2
+7
+4
+0
+3
+4
+%
+7
+1
+%
+%
+$
+$
+2 0 2 4
+0 .3 4 8 5 9
+5 6 ,3 0 2 ,9
+1 5 ,8 3 2 ,3
+3 5 5 .6
+1 6 .2
+2
+2
+8
+2
+2
+%
+7
+2
+%
+%
+$
+$
+2 0 2 3
+0 .3 6 6 2 7
+5 2 ,1 2 2 ,6
+1 4 ,5 9 7 ,2
+3 5 7 .0
+1 5 .7
+2
+6
+3
+7
+9
+%
+7
+2
+%
+%
+$
+$
+2 0 2 2
+0 .3 3 0 8 3
+5 1 ,2 7 2 ,8
+1 4 ,2 2 2 ,9
+3 6 0 .4
+1 2 .6
+1
+4
+0
+9
+3
+%
+6
+6
+%
+%
+$
+$
+2 0 2 1
+0 .3 2 0 4 3
+7 7 ,3 3 1 ,4
+1 2 ,9 5 0 ,4
+5 9 7 .1
+8 .3
+1
+8
+5
+3
+5
+%
+8
+5
+%
+%
+$
+$
+2 0 2 0
+0 .3 4 9 9 0
+8 2 ,3 7 1 ,2
+1 3 ,1 6 0 ,6
+6 2 5 .8
+6 .1
+7
+7
+5
+9
+3
+%
+9
+4
+%
+%
+$
+$
+2 0 1 9
+0 .4 1 8 6 5
+7 8 ,5 4 7 ,2
+1 3 ,2 2 6 ,6
+5 9 3 .8
+5 .9
+1
+8
+2
+6
+9
+%
+8
+1
+%
+%
+$
+$
+2 0 1 8
+0 .3 6 5 7 6
+6 3 ,1 4 7 ,4
+1 3 ,2 5 6 ,1
+4 7 6 .3
+4 .6
+7
+7
+2
+6
+9
+%
+1
+4
+%
+%
+$
+$
+2 0 1 7
+0 .3 9 0 0 4
+6 7 ,7 2 2 ,0
+1 3 ,3 0 5 ,3
+5 0 8 .9
+3 .0
+6
+4
+0
+9
+3
+%
+9
+9
+%
+%
+$
+$
+2 0 1 6
+0 .3 8 0 7 4
+6 5 ,6 4 9 ,1
+1 2 ,7 3 5 ,4
+5 1 5 .4
+1 .9
+2
+6
+8
+8
+4
+%
+1
+8
+%
+%
+CONNECTICUT HOUSING FINANCE AUTHORITY
+SCHEDULE OF EMPLOYER CONTRIBUTIONS
+EMPLOYEES’ OTHER POST EMPLOYEMENT BENEFIT PLAN
+LAST TEN YEARS
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Contractually required contribution $ 2,088,286 $ 2,683,715 $ 3,115,192 $ 2,805,206 $ 2,781,565 $ 3,034,471 $ 3,152,196 $ 2,933,060 $ 2,603,173 $ 2,317,169
+Amount contributed in relation to contractually
+required contribution 2,088,286 2,683,715 3,115,192 2,805,206 2,781,565 3,034,471 3,152,196 2,933,060 2,603,173 2,317,169
+Contribution deficiency $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Covered payroll $ 16,515,801 $ 15,832,382 $ 14,597,232 $ 14,222,906 $ 12,950,455 $ 13,160,654 $ 13,226,621 $ 13,256,124 $ 13,305,309 $ 12,735,488
+Contributions as a percentage of covered
+employee payroll 12.64% 16.95% 21.34% 19.72% 21.48% 23.06% 23.83% 22.13% 19.56% 18.19%
+Notes to Schedule
+Changes in assumptions:
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Payroll growth rate 3.00% 3.00% 3.00% 3.00% 3.50% 3.50% 3.50% 3.50% 3.50% 3.75%
+Salary increases 3.00% - 11.5% 3.00% - 11.5% 3.00% - 11.5% 3.00% - 11.5% 3.25% - 19.5% 3.25% - 19.5% 3.25% - 19.5% 3.25% - 19.5% 3.25% - 19.5% 3.25% - 19.5%
+Discount rate 5.20% 3.93% 4.46% 3.90% 2.31% 2.38% 3.58% 3.95% 3.68% 3.74%
+Health care cost trend rates:
+6.0% graded to 6.0% graded to 6.0% graded to 6.0% graded to 6.5% graded to 6.5% graded to 6.5% graded to
+Medical 4.5% over 6 4.5% over 6 4.5% over 6 4.5% over 6 4.5% over 4 4.5% over 4 4.5% over 4 5.00%
+years years years years years years years
+6.0% graded to 6.0% graded to 6.0% graded to 6.0% graded to 8.0% graded to 8.0% graded to 8.0% graded to 10.0% graded to
+Prescription drug 4.5% over 6 4.5% over 6 4.5% over 6 4.5% over 6 4.5% over 7 4.5% over 7 4.5% over 7 5.0% over 5
+years years years years years years years years
+2.65%, 2.70% then an
+ultimate level of 3.0% per
+Dental year
+Part B 4.50%
+Dental and Part B 2.6% to 3.0%/ 4.5% 3.0% / 4.5% 3.0% / 4.5% 3.0% / 4.5% 3.0% / 4.5% 4.50% 4.50% 4.50% 5.00%
+Administrative expense 1.85%, 3.30% then 3.0% 1.85%, 3.30% then 3.0% 3.00% 3.00% 3.00% 3.00% 3.00% 3.00% 3.00% $250 per participant
+5.30%, 13.34% then 5.50% -0.35%, then 5.75%
+decreasing by 0.25% yearly decreasing by 0.25%
+Medical (Non-Medicare) to 4.50% yearly to 4.50%
+5.85%, 2.41% then 6.25% 2.35%, then 6.50%
+decreasing by 0.25% yearly decreasing by 0.25%
+Prescription Drug (Non-Medicare) to 4.50% yearly to 4.50%
+53.45%, 53.75%, 18.20% 43.03%, 60.47%, 24.36%
+then 5.75% decreasing by then 5.75% decreasing
+Medical and Prescription Drug (Medicare) 0.25% yearly to 4.50% by 0.25% yearly to 4.50%
+65
+EXHIBIT I
+CONNECTICUT HOUSING FINANCE AUTHORITY
+COMBINING SCHEDULE OF NET POSITION
+DECEMBER 31, 2025
+(in 000’s)
+Component
+Other Funds Units
+Multifamily
+Special
+Obligation
+General & Housing Bond Special Qualified Housing
+Capital ` Mortgage and Other Needs Energy Revenue Multifamily
+Reserve Insurance Bond Housing Conservation Bond Real Estate Combined
+Funds Fund Funds Funds Bond Fund Fund Owned Eliminations Total
+Assets
+Restricted current assets:
+Cash and cash equivalents $ 992$ $ $ 110$ $ $ $ $ 1,102
+Mortgage loans receivable 196,285 482 5,903 508 203,178
+Investments in securities 1,004,816 4,342 4,582 89,020 1,363 2,525 1,641 1,108,289
+Real estate owned - multifamily 2,300 2,300
+Accrued interest receivable on:
+Mortgage loans 10,163 75 414 13 10,665
+Securities 19,728 15 15 297 119 5 20,179
+Due from other funds/component units 2,300 (2,300)
+Accounts receivable and other assets 71,011 825 37,587 704 110,127
+Total current assets 1,305,295 4,357 5,154 96,569 1,884 40,231 4,650 (2,300) 1,455,840
+Restricted noncurrent assets:
+Mortgage loans receivable, net of current portion 2,347,699 21,809 51,730 5,262 2,426,500
+Investments in securities, net of current portion 4,123,781 814 62,754 4,187,349
+Derivative instruments - interest rate swaps 48,906 48,906
+Capital assets, net of depreciation 3,289 3,289
+Real estate owned - single family 471 471
+Total noncurrent assets 6,524,146 21,809 52,544 5,262 62,754 6,666,515
+Total assets 7,829,441 4,357 26,963 149,113 7,146 102,985 4,650 (2,300) 8,122,355
+Deferred Outflows of Resources
+Unamortized deferral on bond refundings 40,175 40,175
+Deferred amount for OPEB 8,990 8,990
+Deferred amount for pensions 10,795 10,795
+Total deferred outflows of resources 59,960 59,960
+Liabilities
+Current liabilities:
+Escrow deposits and unearned revenue 126,974 602 7,915 583 136,074
+Due to other funds/component units 2,300 (2,300)
+Accrued interest payable 31,033 40 79 25 925 32,102
+Accounts payable and accrued liabilities 3,618 3 896 170 4,687
+Compensated absences 2,275 2,275
+Line of credit payable 153,594 153,594
+Notes payable 438 438
+Bonds payable 333,487 600 3,320 517 265 338,189
+Total current liabilities 651,419 1,245 12,210 1,125 1,190 2,470 (2,300) 667,359
+Noncurrent liabilities
+Escrow deposits and unearned revenue, net 151,798 976 34,336 38,888 225,998
+of current portion
+Compensated absences 1,291 1,291
+Notes payable, net of current portion 13,806 13,806
+Bonds payable, net of current portion 5,867,739 20,290 48,620 5,146 64,082 6,005,877
+Net OPEB liability 39,462 39,462
+Net pension liability 32,220 32,220
+Total noncurrent liabilities 6,106,316 21,266 82,956 5,146 102,970 6,318,654
+Total liabilities 6,757,735 22,511 95,166 6,271 104,160 2,470 (2,300) 6,986,013
+Deferred Inflows of Resources
+Deferred amount for OPEB 28,165 28,165
+Deferred amount for pensions 16,405 16,405
+Derivative financial Instruments 194,693 194,693
+Total deferred inflows of resources 239,263 239,263
+Net Position
+Net investment in capital assets 3,289 3,289
+Restricted by contractual agreements 72,910 72,910
+Restricted by bond indentures and/or
+enabling legislation 816,204 4,357 4,452 53,947 875 (1,175) 2,180 880,840
+Total Net Position $ 892,403$ 4,357$ 4,452$ 53,947$ 875$ (1,175)$ 2,180$ $ 957,039
+66
+EXHIBIT I
+CONNECTICUT HOUSING FINANCE AUTHORITY
+COMBINING SCHEDULE OF NET POSITION
+DECEMBER 31, 2024
+(in 000’s)
+Component
+Other Funds Units
+Multifamily
+Special
+Obligation
+General & Housing Bond Special Qualified
+Capital ` Mortgage and Other Needs Energy Multifamily
+Reserve Insurance Bond Housing Conservation Real Estate Combined
+Funds Fund Funds Funds Bond Fund Owned Eliminations Total
+Assets
+Restricted current assets:
+Cash and cash equivalents $ 1,258$ $ $ 35$ $ $ $ 1,293
+Mortgage loans receivable 150,942 813 5,815 487 158,057
+Investments in securities 1,012,458 4,153 7,883 87,041 1,273 1,515 1,114,323
+Real estate owned - multifamily 2,300 2,300
+Accrued interest receivable on:
+Mortgage loans 8,332 183 350 19 8,884
+Securities 16,206 16 31 351 6 16,610
+Due from other funds/component units 2,419 (2,419)
+Accounts receivable and other assets 91,243 789 625 92,657
+Total current assets 1,282,858 4,169 8,910 94,381 1,779 4,446 (2,419) 1,394,124
+Restricted noncurrent assets:
+Mortgage loans receivable, net of current portion 2,284,860 44,991 51,686 5,786 2,387,323
+Investments in securities, net of current portion 3,198,779 875 3,199,654
+Derivative instruments - interest rate swaps 57,536 57,536
+Capital assets, net of depreciation 3,621 3,621
+Real estate owned - single family 1,235 1,235
+Total noncurrent assets 5,546,031 44,991 52,561 5,786 5,649,369
+Total assets 6,828,889 4,169 53,901 146,942 7,565 4,446 (2,419) 7,043,493
+Deferred Outflows of Resources
+Unamortized deferral on bond refundings 46,700 46,700
+Deferred amount for OPEB 15,251 15,251
+Deferred amount for pensions 14,718 14,718
+Total deferred outflows of resources 76,669 76,669
+Liabilities
+Current liabilities:
+Escrow deposits and unearned revenue 111,612 1,222 7,131 583 120,548
+Due to other funds/component units 119 2,300 (2,419)
+Accrued interest payable 25,227 42 83 27 25,379
+Accounts payable and accrued liabilities 3,385 9 874 152 4,420
+Compensated absences 2,167 2,167
+Line of credit payable 224,999 224,999
+Notes payable 118 118
+Bonds payable 318,930 929 3,250 500 323,609
+Total current liabilities 686,438 2,321 11,338 1,110 2,452 (2,419) 701,240
+Noncurrent liabilities
+Escrow deposits and unearned revenue, net 138,523 2,217 34,761 175,501
+of current portion
+Compensated absences 931 931
+Notes payable, net of current portion 3,858 3,858
+Bonds payable, net of current portion 5,026,274 45,175 52,625 5,663 5,129,737
+Net OPEB liability 56,303 56,303
+Net pension liability 48,150 48,150
+Total noncurrent liabilities 5,274,039 47,392 87,386 5,663 5,414,480
+Total liabilities 5,960,477 49,713 98,724 6,773 2,452 (2,419) 6,115,720
+Deferred Inflows of Resources
+Deferred amount for OPEB 24,856 24,856
+Deferred amount for pensions 11,758 11,758
+Derivative financial Instruments 203,322 203,322
+Total deferred inflows of resources 239,936 239,936
+Net Position
+Net investment in capital assets 3,621 3,621
+Restricted by contractual agreements 78,995 78,995
+Restricted by bond indentures and/or
+enabling legislation 622,529 4,169 4,188 48,218 792 1,994 681,890
+Total Net Position $ 705,145$ 4,169$ 4,188$ 48,218$ 792$ 1,994$ $ 764,506
+67
+EXHIBIT II
+CONNECTICUT HOUSING FINANCE AUTHORITY
+COMBINING SCHEDULE OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED DECEMBER 31, 2025
+(in 000’s)
+Component
+Other Funds Units
+Multifamily
+Special
+Obligation
+General & Housing Bond Special Qualified Housing
+Capital Mortgage and Other Needs Energy Revenue Multifamily
+Reserve Insurance Bond Housing Conservation Bond Real Estate Combined
+Funds Fund Funds Funds Bond Fund Fund Owned Eliminations Total
+Operating Revenues
+Interest on mortgage loans $ 121,414 1,803 3,356 171 $ 126,744
+Interest on investments 206,321 184 253 2,113 935 66 (1,119) 208,753
+Fees and other income 25,620 4 84 120 25,828
+Total operating revenues 353,355 188 2,056 5,553 171 935 186 (1,119) 361,325
+Operating Expenses
+Interest 224,601 1,613 1,821 88 925 (1,119) 227,929
+Bond issuance costs 10,264 10,264
+Servicer fees 29,003 29,003
+Administrative 40,387 40,387
+Provision for loss reserves 8,067 8,067
+Total operating expenses 312,322 1,613 1,821 88 925 (1,119) 315,650
+Operating Income 41,033 188 443 3,732 83 10 186 45,675
+Nonoperating Revenues (Expenses)
+Actuarial assumption changes pension and OPEB 14,630 14,630
+Net increase in the fair value of investments 132,009 14 (1,185) 130,838
+State and federal program funding 68,434 1,255 162 69,851
+State and federal program expenses (67,044) (1,255) (162) (68,461)
+Nonoperating loss 148,029 14 (1,185) 146,858
+Income (Loss) before Transfers 189,062 188 443 3,746 83 (1,175) 186 192,533
+Operating Transfers In (Out) (1,804) (179) 1,983
+Change in Net Position 187,258 188 264 5,729 83 (1,175) 186 192,533
+Net Position - Beginning of Year 705,145 4,169 4,188 48,218 792 1,994 764,506
+Net Position - End of Year $ 892,403 $ 4,357 $ 4,452 $ 53,947 $ 875 $ (1,175)$ 2,180 $ $ 957,039
+68
+69
+C O N N E C T IC U T H O U S IN G F IN A N C E A U T H O
+C O M B IN IN G S C H E D U L E O F R E V E N U E S , E X
+F O R T H E Y E A R E N D E D D E C E M B E R 3 1 , 2 0 2
+(in 0 0 0 ’s )
+O p e ra tin g R e v e n u e s
+In te re s t o n m o rtg a g e lo a n s
+In te re s t o n in v e s tm e n ts
+F e e s a n d o th e r in c o m e
+T o ta l o p e ra tin g re v e n u e s
+O p e ra tin g E x p e n s e s
+In te re s t
+B o n d is s u a n c e c o s ts
+S e rv ic e r fe e s
+A d m in is tra tiv e
+P ro v is io n fo r lo s s re s e rv e s
+T o ta l o p e ra tin g e xp e n s e s
+O p e ra tin g In c o m e
+N o n o p e ra tin g R e v e n u e s (E x p e n s e s )
+A c tu a ria l a s s u m p tio n c h a n g e s p e n s io n a n d O P E B
+N e t d e c re a s e in th e fa ir v a lu e o f in v e s tm e n ts
+S ta te a n d fe d e ra l p ro g ra m fu n d in g
+S ta te a n d fe d e ra l p ro g ra m e xp e n s e s
+N o n o p e ra tin g lo s s
+In c o m e (L o s s ) b e fo re T ra n s fe rs
+O p e ra tin g T ra n s fe rs In (O u t)
+C h a n g e in N e t P o s itio n
+N e t P o s itio n - B e g in n in g o f Y e a r
+N e t P o s itio n - E n d o f Y e a r
+RP4
+$
+$
+ITE YN
+S E S A N D
+G e n e ra l &
+C a p ita l
+R e s e rv e
+F u n d s
+1 0 9 ,3 4 3
+1 6 2 ,1 2 1
+2 2 ,4 1 9
+2 9 3 ,8 8 3
+1 8 1 ,6 2 1
+1 0 ,1 1 3
+2 7 ,8 0 9
+3 8 ,4 0 4
+4 ,5 4 0
+2 6 2 ,4 8 7
+3 1 ,3 9 6
+7 ,0 0 1
+(6 2 ,1 8 6 )
+1 0 0 ,2 0 9
+(8 9 ,7 0 9 )
+(4 4 ,6 8 5 )
+(1 3 ,2 8 9 )
+(1 ,9 3 4 )
+(1 5 ,2 2 3 )
+7 2 0 ,3 6 8
+7 0 5 ,1 4 5
+C
+$
+H
+HMIn
+A N G E S IN
+o u s in g
+o rtg a g e
+s u ra n c e
+F u n d
+2 1 3
+7
+2 2 0
+2 2 0
+2 2 0
+2 2 0
+3 ,9 4 9
+4 ,1 6 9 $
+N E T P O S IT
+O th e r F
+M u ltifa m ily
+S p e c ia l
+O b lig a tio n
+B o n d
+a n d O th e r
+B o n d
+F u n d s
+2 ,1 5 2
+2 9 1
+2 ,4 4 3
+1 ,8 5 8
+1 ,8 5 8
+5 8 5
+5 8 5
+(1 8 3 )
+4 0 2
+3 ,7 8 6
+4 ,1 8 8 $
+IO N
+u n d s
+S p e c ia l
+N e e d s
+H o u s in g
+F u n d s
+3 ,4 1 6
+2 ,3 7 7
+5 ,7 9 3
+1 ,8 9 1
+1 ,8 9 1
+3 ,9 0 2
+(2 7
+8 1 5
+(8 1 5
+(2 7
+3 ,8 7 5
+2 ,1 1 7
+5 ,9 9 2
+4 2 ,2 2 6
+4 8 ,2 1 8
+)
+))
+$
+C
+Q u a lifie d
+E n e rg y
+o n s e rv a tio n
+B o n d F u n d
+1 8 2
+1 8 2
+9 5
+9 5
+8 7
+1 7 5
+(1 7 5 )
+8 7
+8 7
+7 0 5
+7 9 2 $
+C
+MR
+o m p o n e n t
+U n its
+u ltifa m ily
+e a l E s ta te
+O w n e d
+7 2
+2 0 9
+2 8 1
+2 8 1
+2 8 1
+2 8 1
+1 ,7 1 3
+1 ,9 9 4 $
+E lim in a tio n
+(1 ,3 5 1
+(1 ,3 5 1
+(1 ,3 5 1
+(1 ,3 5 1
+s
+)
+)
+)
+)
+$
+$
+E X
+C
+H IB IT II
+o m b in e d
+T o ta l
+1 1 5 ,0 9 3
+1 6 3 ,7 2 3
+2 2 ,6 3 5
+3 0 1 ,4 5 1
+1 8 4 ,1 1 4
+1 0 ,1 1 3
+2 7 ,8 0 9
+3 8 ,4 0 4
+4 ,5 4 0
+2 6 4 ,9 8 0
+3 6 ,4 7 1
+7 ,0 0 1
+(6 2 ,2 1 3 )
+1 0 1 ,1 9 9
+(9 0 ,6 9 9 )
+(4 4 ,7 1 2 )
+(8 ,2 4 1 )
+(8 ,2 4 1 )
+7 7 2 ,7 4 7
+7 6 4 ,5 0 6
+Headquarters
+280 Trumbull Street, 24th Floor
+Hartford, CT 06103
+860.522.3111
+One Hamden Center
+2319 Whitney Avenue, Suite 2A
+Hamden, CT 06518
+203.397.2525
+14 Bobala Road, 3rd Floor
+Holyoke, MA 01040
+413.536.3970
+WAdvising.com

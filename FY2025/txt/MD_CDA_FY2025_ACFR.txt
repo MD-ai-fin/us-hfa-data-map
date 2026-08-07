@@ -1,0 +1,962 @@
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+FINANCIAL STATEMENTS
+YEARS ENDED JUNE 30, 2025 AND 2024
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+YEARS ENDED JUNE 30, 2025 AND 2024
+TABLE OF CONTENTS
+INDEPENDENT AUDITORS’ REPORT 1
+FINANCIAL STATEMENTS
+STATEMENTS OF NET POSITION 4
+STATEMENTS OF REVENUE, EXPENSES, AND CHANGES IN NET POSITION 5
+STATEMENTS OF CASH FLOWS 6
+NOTES TO FINANCIAL STATEMENTS 8
+SUPPLEMENTAL DISCLOSURE OF CHANGES IN FAIR VALUE OF INVESTMENTS
+AND MORTGAGE-BACKED SECURITIES 23
+CliftonLarsonAllen LLP
+CLAconnect.com
+INDEPENDENT AUDITORS’ REPORT
+Office of the Secretary
+Department of Housing and Community Development
+Lanham, Maryland
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of the Community Development
+Administration Housing Revenue Bonds (the Fund) of the Department of Housing and Community
+Development of the State of Maryland, as of and for the years ended June 30, 2025 and 2024, and the
+related notes to the financial statements, as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of the Fund, as of June 30, 2025 and 2024, and the changes in financial position, and
+its cash flows for the years then ended in accordance with accounting principles generally accepted in
+the United States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditors’ Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the State of Maryland and to
+meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating to
+our audit. We believe that the audit evidence we have obtained is sufficient and appropriate to provide
+a basis for our audit opinion.
+Emphasis of Matter
+Financial Statement Presentation
+As discussed in Note 1, the financial statements present only the financial position, the changes in
+financial position and cash flows of the Fund and do not purport to, and do not, present fairly the
+financial position of the Department of Housing and Community Development of the State of Maryland
+as of June 30, 2025 and 2024, and the changes in its net position and its cash flows for the years then
+ended, in conformity with accounting principles generally accepted in the United States of America. Our
+opinion on the financial statements is not modified with respect to this matter.
+CLA (CliftonLarsonAllen LLP) is an independent network member of CLA Global. See CLAglobal.com/disclaimer.
+(1)
+Office of the Secretary
+Department of Housing and Community Development
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America; this includes
+the design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting a
+material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Fund’s internal control. Accordingly, no such opinion is
+expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control related
+matters that we identified during the audit.
+(2)
+Office of the Secretary
+Department of Housing and Community Development
+Required Supplementary Information
+Management has elected to omit the management’s discussion and analysis that accounting principles
+generally accepted in the United States of America require to be presented to supplement the financial
+statements. Such missing information is the responsibility of management and, although not a part of
+the financial statements, is required by the Governmental Accounting Standards Board who considers it
+to be an essential part of financial reporting for placing the financial statements in an appropriate
+operational, economic, or historical context. Our opinion on the financial statements is not affected by
+this missing information.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements as a whole.
+The Supplemental Disclosure of Changes in Fair Value of Investments and Mortgage-Backed
+Securities, which is the responsibility of management, is presented for the purpose of additional
+analysis and is not a required part of the financial statements. Such information has not been subjected
+to the auditing procedures applied in the audit of the financial statements, and, accordingly, we do not
+express an opinion or provide any assurance on it.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+September 26, 2025, on our consideration of the Fund’s internal control over financial reporting and on
+our tests of its compliance with certain provisions of laws, regulations, contracts, and grant agreements
+and other matters. The purpose of that report is solely to describe the scope of our testing of internal
+control over financial reporting and compliance and the results of that testing, and not to provide an
+opinion on the effectiveness of the Fund’s internal control over financial reporting or on compliance.
+That report is an integral part of an audit performed in accordance with Government Auditing Standards
+in considering the Fund’s internal control over financial reporting and compliance.
+CliftonLarsonAllen LLP
+Baltimore, Maryland
+September 26, 2025
+(3)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+STATEMENTS OF NET POSITION
+(in thousands)
+JUNE 30, 2025 AND 2024
+2025 2024
+RESTRICTED ASSETS
+RESTRICTED CURRENT ASSETS
+Cash and Cash Equivalents on Deposit $ 1 76,015 $ 1 44,680
+Mortgage-Backed Securities 4 49 4 28
+Mortgage Loans:
+Multi-Family Construction and Permanent Financing 5 3,802 4 ,784
+Accrued Interest and Other Receivables 2,802 2 ,243
+Total Restricted Current Assets 2 33,068 1 52,135
+RESTRICTED LONG-TERM ASSETS
+Investments 7 ,215 5 ,723
+Mortgage-Backed Securities, Net of Current Portion 34,242 2 1,906
+Mortgage Loans, Net of Current Portion and Allowance:
+Multi-Family Construction and Permanent Financing 5 11,535 4 45,891
+Accrued Other Receivables, Net of Current Position 3 12 -
+Total Restricted Long-Term Assets 5 53,304 4 73,520
+Total Restricted Assets $ 7 86,372 $ 6 25,655
+LIABILITIES AND NET POSITION
+CURRENT LIABILITIES
+Accrued Interest Payable $ 1 1,375 $ 8 ,908
+Accounts Payable 2 50 1 22
+Positive Arbitrage Liability 2 50 -
+Rebate Liability 1 00 -
+Bonds Payable 5 3,880 2 2,739
+Deposits by Borrowers 1 3,037 8 ,211
+Total Current Liabilities 7 8,892 3 9,980
+LONG-TERM LIABILITIES
+Positive Arbitrage Liability, Net of Current Portion 8 84 -
+Rebate Liability, Net of Current Portion 592 3 10
+Bonds Payable, Net of Current Portion 5 89,689 4 83,374
+Deposits by Borrowers, Net of Current Portion 3 8,145 3 2,687
+Total Long-Term Liabilities 6 29,310 5 16,371
+Total Liabilities 708,202 5 56,351
+NET POSITION
+Restricted by Bond Indenture 7 8,170 6 9,304
+Total Liabilities and Net Position $ 786,372 $ 6 25,655
+See accompanying Notes to Financial Statements.
+(4)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+STATEMENTS OF REVENUE, EXPENSES, AND CHANGES IN NET POSITION
+(in thousands)
+YEARS ENDED JUNE 30, 2025 AND 2024
+2025 2024
+OPERATING REVENUE
+Interest on Mortgage Loans $ 2 2,796 $ 1 8,526
+Interest on Mortgage-Backed Securities 1 ,343 1 ,232
+Interest Income on Investments, Net of Rebate 5 ,085 5 ,359
+Decrease in Fair Value of Investments (69) (57)
+Fee Income 2 ,096 1 ,087
+Decrease in Provision for Loan Losses - 2 3
+Other Operating Revenue 2 2
+Total Operating Revenue 3 1,253 2 6,172
+OPERATING EXPENSES
+Interest Expense on Bonds 2 2,763 1 8,195
+Professional Fees and Other Operating Expenses 6 90 6 46
+Total Operating Expenses 2 3,453 1 8,841
+Operating Income 7 ,800 7 ,331
+NONOPERATING INCOME (EXPENSES)
+Increase (Decrease) in Fair Value of Mortgage-Backed Securities 1 ,066 (75)
+Transfer of Funds, as Permitted by the Resolution - (1,000)
+CHANGE IN NET POSITION 8 ,866 6 ,256
+NET POSITION - RESTRICTED AT BEGINNING OF YEAR 6 9,304 6 3,048
+NET POSITION - RESTRICTED AT END OF YEAR $ 7 8,170 $ 6 9,304
+See accompanying Notes to Financial Statements.
+(5)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+STATEMENTS OF CASH FLOWS
+(in thousands)
+YEARS ENDED JUNE 30, 2025 AND 2024
+2025 2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Principal and Interest Received on Mortgage Loans $ 4 2,104 $ 4 4,960
+Principal and Interest Received on Mortgage-Backed Securities 1 ,735 8 ,175
+Deposits by Borrowers Received 2 2,631 1 6,969
+Deposits by Borrowers Paid (12,347) (10,485)
+Loan Fees Received 2 ,096 1 ,087
+Purchase of Mortgage Loans (134,466) (62,287)
+Purchase of Mortgage-Backed Securities (11,731) -
+Professional Fees and Other Operating Expenses (562) (595)
+Other Income Received 2 2
+Other Disbursements - (1)
+Net Cash Used by Operating Activities (90,538) (2,175)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Proceeds from Maturities or Sales of Investments, Net of Cash Equivalents 3 17 3 ,535
+Purchase of Investments, Net of Cash Equivalents (1,882) (3,499)
+Interest Received on Investments 6 ,278 5 ,118
+Net Cash Provided by Investing Activities 4,713 5 ,154
+CASH FLOWS FROM NONCAPITAL FINANCING ACTIVITIES
+Proceeds from the Sale of Bonds 1 64,195 8 5,170
+Payments on Bond Principal (26,739) (42,183)
+Interest on Bonds (20,296) (16,646)
+Transfers Among Funds - (1,000)
+Net Cash Provided by Noncapital Financing Activities 1 17,160 2 5,341
+NET INCREASE IN CASH AND
+CASH EQUIVALENTS ON DEPOSIT 3 1,335 2 8,320
+Adjustments to Report Cash Equivalents at Fair Value:
+Amortized Investment Discount on Cash Equivalents - 2 6
+Decrease in Fair Value on Cash Equivalents - (1)
+ADJUSTED NET INCREASE IN CASH AND CASH
+EQUIVALENTS ON DEPOSIT 3 1,335 2 8,345
+CASH AND CASH EQUIVALENTS ON DEPOSIT - BEGINNING OF YEAR 1 44,680 1 16,335
+CASH AND CASH EQUIVALENTS ON DEPOSIT - END OF YEAR $ 1 76,015 $ 1 44,680
+See accompanying Notes to Financial Statements.
+(6)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+STATEMENTS OF CASH FLOWS (CONTINUED)
+(in thousands)
+YEARS ENDED JUNE 30, 2025 AND 2024
+2025 2024
+RECONCILIATION OF OPERATING INCOME TO NET CASH
+USED BY OPERATING ACTIVITIES
+Operating Income $ 7 ,800 $ 7 ,331
+Adjustments to Reconcile Operating Income to Net Cash
+Used by Operating Activities:
+Amortization of Investment Premiums/Discounts 4 (58)
+Decrease in Provision for Loan Losses - (23)
+Decrease in Fair Value of Investments 6 9 5 7
+Interest Received on Investments (6,278) (5,118)
+Interest on Bonds 2 0,296 1 6,646
+(Increase) Decrease in Assets:
+Mortgage Loans (114,662) (35,689)
+Mortgage-Backed Securities (11,291) 6 ,909
+Accrued Interest and Other Receivables (871) (205)
+Increase (Decrease) in Liabilities:
+Accrued Interest Payable 2 ,467 1 ,549
+Accounts Payable 1 ,262 2
+Rebate Liability 3 82 (60)
+Deposits by Borrowers 1 0,284 6 ,484
+Net Cash Used by Operating Activities $ (90,538) $ (2,175)
+See accompanying Notes to Financial Statements.
+(7)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 1 AUTHORIZING LEGISLATION AND PROGRAM DESCRIPTION
+The Community Development Administration (CDA) was created in 1970 by Sections 266 DD-1 to
+266 DD-8 of Article 41 (now in Sections 4-101 through 4-255 of the Housing and Community
+Development Article) of the Annotated Code of Maryland to meet the shortage of adequate, safe, and
+sanitary housing in the state of Maryland, particularly for persons or families of limited income. CDA
+is in the Division of Development Finance in the Department of Housing and Community
+Development (DHCD) of the State of Maryland.
+The accompanying financial statements only include CDA’s Housing Revenue Bonds (the Fund).
+CDA’s other Funds are not included. The Fund was established to issue bonds to provide funds to
+finance or refinance loans for various types of housing. As of June 30, 2025 and 2024, Housing
+Revenue Bonds have primarily financed multi-family projects.
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The Fund is accounted for as an enterprise fund. Accordingly, the accompanying financial statements
+have been prepared using the accrual method of accounting and on the basis of accounting principles
+generally accepted in the United States of America (U.S. GAAP).
+Basis of Accounting and Measurement Focus
+The basis of accounting for the Fund is determined by measurement focus. The flow of economic
+resources measurement focus and the accrual basis of accounting are used to account for the Fund.
+Under this method, revenues are recorded when earned and expenses are recorded at the time
+liabilities are incurred. All assets and liabilities associated with the operation of the Fund are included
+on the Statements of Net Position. The Fund is required to follow all statements of the Governmental
+Accounting Standards Board (GASB).
+Generally Accepted Accounting Principles
+CDA reports its financial activities by applying Standards of Governmental Accounting and Financial
+Reporting as promulgated by GASB. Consequently, CDA applies all applicable GASB
+pronouncements.
+In accordance with accounting guidance issued by GASB, net position should be reported as
+restricted when constraints placed on net position use is either: externally imposed by creditors (such
+as through debt covenants), grantors, contributors, or laws or regulations of other governments; or is
+imposed by law through constitutional provisions or enabling legislation. Accordingly, the net
+position of the Fund is restricted as to its use as the net position is pledged to bondholders.
+Since CDA is an enterprise fund included in the state of Maryland’s Annual Comprehensive Financial
+Report, a separate Management’s Discussion and Analysis is not included in these financial
+statements.
+(8)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+Cash and Cash Equivalents on Deposit
+Cash equivalents may include money market funds, repurchase agreements, investment agreements
+and any other investments, primarily obligations of the U.S. Treasury and U.S. government agencies,
+which have maturities of 90 or less days at the time of purchase. As of June 30, 2025 and 2024, all of
+the Fund’s cash equivalents were invested in a money market mutual fund. Cash equivalents are more
+fully described in Note 3.
+Investments
+Investments are principally governmental debt securities or investment agreements collateralized by
+governmental debt securities. Debt securities are stated at fair value, based on quoted market prices.
+Investments are classified as current or long-term based on the maturity date or call date. Callable
+investments are classified as current, if exercise of the call within the next fiscal year is probable.
+Investments are more fully described in Note 3.
+Mortgage-Backed Securities
+These guaranteed securities are issued in connection with mortgage loans on multi-family projects.
+They are stated at fair value, based on quoted market prices. Mortgage-backed securities are more
+fully described in Note 3.
+Mortgage Loans
+Mortgage loans are carried at their unpaid principal balances, net of allowance for loan losses. Loan
+fees are recognized as revenue in the period received. See Notes 4 and 12 for additional information
+on mortgage loans and mortgage insurance, respectively.
+Allowance for Loan Losses
+Substantially all of the mortgage loans of the Fund are insured or guaranteed. Less than 1% of the
+loan portfolio is uninsured and CDA has established an allowance for loan losses on these loans.
+Management believes the allowance established is adequate based on prior experience and
+evaluations from DHCD’s asset management group. See Notes 4 and 12 for additional information.
+Accrued Interest and Other Receivables
+Accrued interest and other receivables include interest on loans and investments. On insured multi-
+family mortgage loans that are in default, CDA continues to accrue interest until receipt of a mortgage
+insurance claim. See Note 5 for additional information.
+Bonds Payable
+Bonds payable are carried at their unpaid principal balances. However, in an economic refunding, any
+costs incurred from the refunding of bonds would be reported as deferred outflows or inflows of
+resources on the Statements of Net Position. See Notes 6, 7, 8, and 10 for more information.
+(9)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+Deposits by Borrowers
+This account primarily consists of escrows and reserves held by CDA on behalf of multi-family
+housing developments. CDA invests these deposits and, for reserves, allows earnings to accrue to the
+benefit of the mortgagor. Escrows represent amounts held by CDA for mortgage insurance and hazard
+insurance premiums and real estate taxes, all of which are generally paid annually and which are
+classified as a current liability. Based on the current year’s reserve disbursements, CDA has estimated
+the current reserve liability. The balance of the reserves is classified as long-term.
+Additionally, this account includes other borrower-funded accounts held by CDA. The Negative
+Arbitrage Account is a subaccount for certain multi-family housing developments established within
+the revenue fund and utilized during the construction period for payment of all or a portion of interest
+when due on the bonds issued to finance such developments. The current liability for this account is
+estimated based on the remaining construction period. The Collateral Account is a subaccount within
+the bond proceeds fund which consists of amounts delivered on behalf of borrowers as consideration
+for their loans. The amounts in the subaccount directly secure, and are to be applied to timely
+payment of principal of and interest on, the bonds issued to finance the associated multi-family
+housing developments. The current liability for this account is estimated based on the maturity date of
+the bonds linked to these loans.
+See Note 10 for further information on changes in long-term obligations.
+Positive Arbitrage Liability
+This account consists of excess investments earnings that arose due to actual investment yields earned
+on various funds and accounts that may be greater than yields permitted to be retained by such funds
+and accounts under the Internal Revenue Code. For more information, see Note 2 – “Summary of
+Significant Accounting Policies – Rebate Liability on Investments” and Note 9 – “Rebate Liability”.
+Following the calculation and payment of rebate liability to the IRS, excesses will be returned to the
+borrowers, as applicable. The current liability for this account is determined by the expected
+settlement timing. See Note 10 for further information on changes in long-term obligations.
+Rebate Liability on Investments
+Regulations governing the issuance of tax-exempt debt place limitations on permitted investment
+yield on borrowed funds. Based on these regulations, CDA is required to periodically rebate excess
+earning from investments to the United States Treasury. In addition, the liability may also include an
+estimate of the rebate obligation related to unrealized gains as a result of recording investments at fair
+value. Rebate liability is more fully described in Note 9.
+(10)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+Mortgage Yield Limitations
+All mortgage loans are subject to yield limitations under the Internal Revenue Code (IRC) in order for
+the associated bonds to maintain their tax-exempt status. At the time of bond issuance and over the
+term of the bonds, CDA determines and maintains compliance with the permitted mortgage yield on
+the loans. In certain bond refunding transactions, CDA transfers loans from prior series of bonds to
+the refunding series. CDA monitors the yield on these transferred loans to ensure that the composite
+yield over the term of the bonds is within the yield limitations of the IRC. If at any time the composite
+yields on the transferred loans are out of compliance with the IRC, CDA has certain remedies
+available to bring the yield into compliance. As of June 30, 2025 and 2024, all mortgage loan yields
+were in compliance with the IRC.
+Interest on Mortgage Loans and Mortgage-Backed Securities
+Interest on mortgage loans and mortgage-backed securities is calculated using the effective interest
+method.
+Fee Income
+CDA receives multi-family financing fees at loan origination. These fees are recognized as revenue in
+the period received as fee income.
+Administrative Support
+In addition to expenses incurred directly by the Fund, CDA receives certain support services from
+other divisions of DHCD. Support services and the operating expenses of CDA have been allocated to
+CDA’s General Bond Reserve Fund and reported in the financial statements of CDA’s Revenue
+Obligation Funds. The General Bond Reserve Fund records these expenses as invoiced by DHCD for
+the fiscal year.
+The employees of CDA are covered by the Maryland State Retirement and Pension System. See
+Note 13 for additional information.
+Revenue and Expenses
+CDA distinguishes operating revenue and expenses from nonoperating items in accordance with
+accounting guidance issued by GASB. Operating revenue and expenses are identified as those
+activities that are directly related to financing affordable housing in the state of Maryland. The Fund’s
+activities are considered to be operating except for increases and decreases in the fair value of
+mortgage-backed securities that are held within the portfolio.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted
+in the United States of America requires management to make estimates and assumptions. These
+estimates and assumptions affect the reported amounts of assets and liabilities and disclosures of
+contingent assets and liabilities at the date of the financial statements and the reported amounts of
+revenue, expenses, gains, and losses during the reporting period. Actual results could differ from
+these estimates.
+(11)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 3 CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+SECURITIES
+Bond proceeds and revenues from mortgages, mortgage-backed securities, and investments are
+invested in authorized investments as defined in the Housing Revenue Bond Resolution (the
+Resolution) and in CDA’s Investment Policy until required for purchasing mortgage-backed securities
+or originating mortgage loans, funding reserves, paying bond debt service, or redeeming outstanding
+bonds, and funding program expenses. Authorized investments include State Housing Finance
+Agency (HFA) Variable Rate Demand Obligations (VRDO), obligations of the U.S. Treasury, U.S.
+government agencies, repurchase agreements, investment agreements, money market funds, and
+certificates of deposit.
+The following assets, reported at fair value and held by the Fund as of June 30, 2025 and 2024, are
+evaluated in accordance with GASB accounting guidance for interest rate risk, credit risk,
+concentration of credit risk and custodial credit risk.
+Assets 2025 2024
+Cash and Cash Equivalents:
+BlackRock Liquidity FedFund Administration Shares $ 1 76,015 $ 1 44,680
+Investments:
+U.S. Treasury Securities 7 ,215 5 ,723
+Mortgage-Backed Securities:
+GNMA Mortgage-Backed Securities 34,691 2 2,334
+Total $ 2 17,921 $ 1 72,737
+Interest Rate Risk
+Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an
+investment. As a means of limiting its exposure to fair value losses from rising interest rates, CDA’s
+Investment Policy requires that the maturities of the investment portfolio are scheduled to meet the
+cash requirements for bond debt service, projected loan originations and ongoing operations.
+As of June 30, 2025, the amortized cost, fair value, and maturities for these assets were as follows:
+Maturities (in Years)
+Amortized Fair Less More
+Asset Cost Value Than 1 1-5 6 - 10 11 - 15 Than 15
+BlackRock Liquidity FedFund
+Administration Shares $ 176,015 $ 1 76,015 $ 176,015 $ - $ - $ - $ -
+U.S. Treasury
+Securities 7 ,008 7 ,215 - 7,215 - - -
+GNMA Mortgage-Backed
+Securities 35,757 34,691 - - - - 34,691
+Total $ 218,780 $ 2 17,921 $ 1 76,015 $ 7,215 $ - $ - $ 34,691
+(12)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 3 CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+SECURITIES (CONTINUED)
+Interest Rate Risk (continued)
+As of June 30, 2024, the amortized cost, fair value, and maturities for these assets were as follows:
+Maturities (in Years)
+Amortized Fair Less More
+Asset Cost Value Than 1 1-5 6 - 10 11 - 15 Than 15
+BlackRock Liquidity FedFund
+Administration Shares $ 144,680 $ 1 44,680 $ 1 44,680 $ - $ - $ - $ -
+U.S. Treasury
+Securities 5,447 5 ,723 - 5 ,723 - - -
+GNMA Mortgage-Backed
+Securities 23,677 2 2,334 - - - - 2 2,334
+Total $ 1 73,804 $ 1 72,737 $ 1 44,680 $ 5 ,723 $ - $ - $ 22,334
+The current portions of Mortgage-Backed Securities classified as current assets on the Statements of
+Net Position for the years ended June 30, 2025 and 2024 in the amounts of $449 and $428,
+respectively, represent principal repayments expected to be received within the next twelve months,
+including both scheduled repayments and anticipated prepayments, and are not reflected in the tables
+above as current.
+The BlackRock Liquidity FedFund Administration Shares invests primarily in cash, U.S. Treasury
+bills, notes, and other obligations issued or guaranteed as to principal and interest by the U.S.
+government, its agencies, or instrumentalities, and repurchase agreements secured by such obligations
+or cash. It is operated in accordance with Rule 2a-7 of the Investment Company Act of 1940, as
+amended. It can reasonably be expected to have a fair value that will be unaffected by interest rate
+changes because the interest rates are variable and the principal can be recovered on demand. As
+noted above, as of June 30, 2025 and 2024, the cost of the money market mutual fund approximated
+fair value.
+Credit Risk and Concentration of Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its
+obligations. Neither CDA’s Investment Policy nor the Resolution requires investment agreements or
+deposits to be collateralized. CDA’s Investment Policy places no limit on the amount that CDA may
+invest in any one issuer or counterparty. According to the Resolution and CDA’s Investment Policy,
+securities must be at a rating no lower than the rating on the bonds or, if an investment maintains only
+a short-term rating, a rating not less than F1/P-1; and financial institutions who are a counterparty to
+CDA in investment agreements must be rated at least comparable to the existing rating on CDA
+bonds unless counterparty ratings lower than the bond ratings are permitted and do not affect the
+ratings on the bonds. In addition, certain investment and repurchase agreements require counterparty
+ratings no less than the ratings on the bonds. As of June 30, 2025 and 2024, all counterparty ratings
+were at least equal to the ratings on the Fund’s bonds.
+(13)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 3 CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+SECURITIES (CONTINUED)
+Credit Risk and Concentration of Credit Risk (continued)
+As of June 30, 2025 and 2024, the ratings on Housing Revenue Bonds were Aa2 by Moody’s
+Investors Service and AA+ by Fitch Ratings. The following tables provide credit quality rating
+information for the investment portfolio and individual issuers, if they represent 5% or more of total
+investments in accordance with accounting guidance issued by GASB.
+As of June 30, 2025, credit ratings and allocation by type of investments for the following assets
+were:
+Percentage Money Securities
+Fair of Total Market Credit Rating
+Asset Value Investments Fund Rating Rating Agency
+BlackRock Liquidity FedFund
+Administration Shares $ 176,015 80.77% Aaa-mf Moody's
+Government National Mortgage Association Direct U.S.
+(GNMA) Mortgage-Backed Securities 34,691 15.92% Obligations
+As of June 30, 2024, credit ratings and allocation by type of investments for the following assets
+were:
+Percentage Money Securities
+Fair of Total Market Credit Rating
+Asset Value Investments Fund Rating Rating Agency
+BlackRock Liquidity FedFund
+Administration Shares $ 144,680 83.76% Aaa-mf Moody's
+Government National Mortgage Association Direct U.S.
+(GNMA) Mortgage-Backed Securities 22,334 12.93% Obligations
+Mortgage-Backed Securities
+All mortgage-backed securities held by the Fund are guaranteed by the Government National
+Mortgage Association (GNMA), an instrumentality of the United States Government. GNMA
+securities are “fully modified pass-through” mortgage-backed securities which require monthly
+payments by a Federal Housing Administration (FHA) lender, as the issuer of the guaranteed security
+to CDA. GNMA guarantees timely payment of principal and interest on Guaranteed Securities.
+Custodial Credit Risk
+Custodial credit risk is the risk that in the event of a bank or counterparty failure, CDA will not be
+able to recover its deposits or the value of its collateral securities that are in the possession of an
+outside party. As of June 30, 2025 and 2024, the Fund’s investments were not subject to custodial
+credit risk under accounting guidance issued by GASB. CDA’s investments and collateralized
+securities are held in trust by the trustee or the trustee’s agent, kept separate from the assets of the
+bank and from other trust accounts and are held in CDA’s name.
+(14)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 3 CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+SECURITIES (CONTINUED)
+Fair Value Measurements
+CDA categorizes its fair value measurements within the fair value hierarchy established by
+accounting principles generally accepted in the United States of America. The hierarchy is based on
+the valuation inputs used to measure the fair value of the asset. Level 1 inputs are quoted market
+prices in active markets for identical assets; Level 2 inputs are significant other observable inputs; and
+Level 3 inputs are significant unobservable inputs.
+The Fund has the following recurring fair value measurements as of June 30, 2025 and 2024:
+• U.S. Treasury Securities of $7,215 and $5,723, respectively, are valued using quoted market
+prices (Level 1).
+• GNMA mortgage-backed securities of $34,691 and $22,334, respectively, are valued using
+the matrix pricing technique (Level 2).
+NOTE 4 MORTGAGE LOANS
+All multi-family mortgage loans are secured by first liens on the related property and approximately
+99% of the outstanding loan amounts are insured or credit enhanced by the Federal Housing
+Administration (FHA), Maryland Housing Fund (MHF), Federal National Mortgage Association
+(FNMA), GNMA, or bank letters of credit. As of June 30, 2025 and 2024, interest rates on such loans
+range from 2.62% to 6.99% with remaining loan terms ranging from less than 1 year to 40 years. For
+the years ended June 30, 2025 and 2024, an allowance for loan losses in the amount of $9 has been
+established for uninsured loans.
+NOTE 5 ACCRUED INTEREST AND OTHER RECEIVABLES
+Accrued interest and other receivables as of June 30, 2025 and 2024 were as follows:
+2025 2024
+Accrued Mortgage Loan Interest $ 2 ,082 $ 1 ,638
+Accrued Mortgage-Backed Securities Interest 1 35 8 7
+Accrued Investment Interest 5 29 5 14
+Accrued Rebate Liability Due From Borrowers 3 12 -
+Negative Arbitrage Due from Mortgagors 5 6 4
+Total $ 3 ,114 $ 2 ,243
+(15)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 6 BONDS PAYABLE
+The bonds issued by CDA are special obligations of CDA and are payable from the revenue and
+special funds of the Resolution. These bonds do not constitute debt of and are not guaranteed by the
+State of Maryland or any other program of the State of Maryland or any political subdivision.
+The provisions of the Resolution require or allow for the special redemption of bonds at par through
+the use of unexpended bond proceeds and excess funds accumulated primarily through prepayment of
+mortgage loans. All outstanding bonds are subject to optional redemption, in whole or in part at any
+time, after certain dates, as specified in the respective series resolutions, at a redemption price equal
+to the principal amount thereof to be redeemed. When bonds are redeemed, whether as a special or
+optional redemption, CDA writes off a proportionate share of any unamortized original issue
+premiums, net of any unamortized original issue discounts, as a gain on early retirement of debt in the
+accompanying Statements of Revenue, Expenses, and Changes in Net Position. If unamortized
+original issue discounts exceed unamortized original issue premiums, CDA records a loss. The Fund’s
+bonds are tax-exempt and have fixed rates, except Series 2013 E which is a taxable, variable rate
+issue. The variable rate is set weekly by a remarketing agent so that the market value of the bonds is
+as close as possible to 100% of the principal amount of the bonds. In no event will these variable rate
+bonds bear interest at a rate in excess of 12%.
+(16)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 6 BONDS PAYABLE (CONTINUED)
+The following is a summary of the bond activity for the year ended June 30, 2025 and bonds payable
+as of June 30, 2025:
+Bonds Bond Activity Bonds
+Payable Scheduled Payable
+Issue Range of Range of at June 30, New Bonds Maturity Bonds at June 30,
+Dated Interest Rates Maturities 2024 Issued Payments Redeemed 2025
+Housing Revenue
+Bonds
+Series 2013 A 02/28/13 3.10% - 4.00% 2025-2054 $ 9,430 $ - $ (175) $ - $ 9,255
+Series 2013 E 11/07/13 Variable Rate 7/1/2045 25,800 - - (4,000) 21,800
+Series 2013 F 12/12/13 4.125% - 5.00% 2025-2048 5,405 - (240) - 5,165
+Series 2014 A 02/27/14 4.00% - 5.00% 2025-2055 3,060 - (100) - 2,960
+Series 2014 B 05/21/14 3.25% - 4.45% 2025-2055 1,145 - (20) - 1,125
+Series 2014 C 08/21/14 3.15% - 4.05% 2025-2046 1,965 - (60) - 1,905
+Series 2014 D 12/17/14 2.95% - 4.20% 2025-2056 8,925 - (150) - 8,775
+Series 2015 A 05/28/15 3.00% - 4.55% 2025-2057 7,260 - (110) - 7,150
+Series 2015 B 10/07/15 2.80% - 4.50% 2025-2057 41,515 - (625) - 40,890
+Series 2016 A 12/14/16 3.05% - 4.40% 2025-2058 6,785 - (100) - 6,685
+Series 2017 A 04/13/17 3.95% 11/1/2058 13,995 - - ( 177) 13,818
+Series 2017 B 05/10/17 3.75% 3/1/2059 5,913 - - (77) 5,836
+Series 2017 C 12/18/17 2.25% - 3.80% 2025-2059 16,960 - (260) - 16,700
+Series 2018 A 05/31/18 2.75% - 4.25% 2025-2060 23,990 - (330) - 23,660
+Series 2019 A 01/17/19 2.50% - 4.20% 2025-2061 11,180 - (150) - 11,030
+Series 2019 B 04/18/19 2.20% - 3.90% 2025-2061 9,620 - (135) - 9,485
+Series 2019 C 06/27/19 1.80% - 3.65% 2025-2061 14,170 - (215) - 13,955
+Series 2019 D 08/08/19 1.75% - 3.60% 2025-2061 29,445 - (440) - 29,005
+Series 2019 E 11/14/19 1.70% - 3.40% 2025-2061 2,660 - (40) - 2,620
+Series 2020 A 06/30/20 1.15% - 3.10% 2025-2062 10,075 - (160) - 9,915
+Series 2020 C 07/09/20 1.125% - 3.100% 2025-2062 9,080 - (140) - 8,940
+Series 2020 D 10/22/20 0.70% - 2.95% 2025-2062 8,415 - (140) - 8,275
+Series 2020 E 12/17/20 0.70% - 2.70% 2025-2062 21,555 - (370) - 21,185
+Series 2021 A 06/24/21 0.55% - 2.65% 2025-2063 13,515 - (230) - 13,285
+Series 2021 B 07/29/21 0.55% - 2.10% 2025-2041 11,240 - (190) - 11,050
+Series 2021 C 11/18/21 0.70% - 3.05% 2025-2064 32,015 - (3,490) - 28,525
+Series 2022 A 06/09/22 3.10% - 4.60% 2025-2042 17,895 - (85) - 17,810
+Series 2022 B 10/18/22 3.35% - 5.25% 2025-2064 3,595 - (15) - 3,580
+Series 2022 C 12/01/22 3.45% - 5.15% 2025-2042 11,555 - (2,135) - 9,420
+Series 2023 A 03/15/23 3.15% - 5.00% 2025-2065 17,205 - (8,785) - 8,420
+Series 2023 B 05/03/23 2.75% - 4.35% 2025-2043 25,575 - (3,595) - 21,980
+Series 2023 C 07/27/23 3.30% - 4.80% 2025-2065 25,880 - - - 25,880
+Series 2023 D 09/28/23 3.50% - 5.00% 2026-2066 29,920 - - - 29,920
+Series 2023 E 12/14/23 3.60% - 4.75% 2026-2043 14,605 - - - 14,605
+Series 2024 A 03/21/24 3.15% - 4.85% 2026-2066 14,765 - - - 14,765
+Series 2024 B 07/10/24 3.35% - 4.85% 2026-2068 - 40,890 - - 40,890
+Series 2024 C 07/10/24 3.45% 1/1/2028 - 1 ,565 - - 1,565
+Series 2024 D 09/17/24 3.10% - 4.75% 2026-2067 - 58,205 - - 58,205
+Series 2024 E 11/14/24 3.125% - 4.750% 2026-2067 - 27,550 - - 27,550
+Series 2025 A 04/23/25 3.15% - 5.00% 2027-2067 - 21,520 - - 21,520
+Series 2025 B 06/11/25 3.60% - 5.25% 2027-2067 - 14,465 - - 14,465
+Total $ 506,113 $ 164,195 $ (22,485) $ (4,254) $ 643,569
+(17)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 6 BONDS PAYABLE (CONTINUED)
+The following is a summary of the bond activity for the year ended June 30, 2024 and bonds payable
+as of June 30, 2024:
+Bonds Bond Activity Bonds
+Payable Scheduled Payable
+Issue Range of Range of at June 30, New Bonds Maturity Bonds at June 30,
+Dated Interest Rates Maturities 2023 Issued Payments Redeemed 2024
+Housing Revenue
+Bonds
+Series 2013 A 02/28/13 2.75% - 4.00% 2024-2054 $ 9,600 $ - $ (170) $ - $ 9,430
+Series 2013 E 11/07/13 Variable Rate 7/1/2045 41,795 - - (15,995) 25,800
+Series 2013 F 12/12/13 3.45% - 5.00% 2024-2048 5,560 - (155) - 5,405
+Series 2014 A 02/27/14 3.35% - 5.00% 2024-2055 3,120 - (60) - 3,060
+Series 2014 B 05/21/14 3.125% - 4.45% 2024-2055 1,165 - (20) - 1,145
+Series 2014 C 08/21/14 3.05% - 4.05% 2024-2046 2,025 - (60) - 1,965
+Series 2014 D 12/17/14 2.90% - 4.20% 2024-2056 9,070 - (145) - 8,925
+Series 2015 A 05/28/15 2.85% - 4.55% 2024-2057 7,370 - (110) - 7,260
+Series 2015 B 10/07/15 2.70% - 4.50% 2024-2057 42,125 - (610) - 41,515
+Series 2016 A 12/14/16 2.85% - 4.40% 2024-2058 6,885 - (100) - 6,785
+Series 2017 A 04/13/17 3.95% 11/1/2058 14,165 - - ( 170) 13,995
+Series 2017 B 05/10/17 3.75% 3/1/2059 5,986 - - (73) 5,913
+Series 2017 C 12/18/17 2.10% - 3.80% 2024-2059 17,210 - (250) - 16,960
+Series 2018 A 05/31/18 2.60% - 4.25% 2024-2060 25,425 - (520) (915) 23,990
+Series 2019 A 01/17/19 2.30% - 4.20% 2024-2061 11,330 - (150) - 11,180
+Series 2019 B 04/18/19 2.05% - 3.90% 2024-2061 9,750 - (130) - 9,620
+Series 2019 C 06/27/19 1.70% - 3.65% 2024-2061 14,380 - (210) - 14,170
+Series 2019 D 08/08/19 1.60% - 3.60% 2024-2061 29,875 - (430) - 29,445
+Series 2019 E 11/14/19 1.60% - 3.40% 2024-2061 2,700 - (40) - 2,660
+Series 2020 A 06/30/20 0.90% - 3.10% 2024-2062 10,235 - (160) - 10,075
+Series 2020 C 07/09/20 1.00% - 3.10% 2024-2062 9,220 - (140) - 9,080
+Series 2020 D 10/22/20 0.55% - 2.95% 2024-2062 8,555 - (140) - 8,415
+Series 2020 E 12/17/20 0.55% - 2.70% 2024-2062 21,925 - (370) - 21,555
+Series 2021 A 06/24/21 0.40% - 2.65% 2024-2063 13,605 - (90) - 13,515
+Series 2021 B 07/29/21 0.40% - 2.10% 2024-2041 11,395 - (155) - 11,240
+Series 2021 C 11/18/21 0.60% - 3.05% 2024-2064 44,585 - (7,370) ( 5,200) 32,015
+Series 2022 A 06/09/22 2.95% - 4.60% 2025-2042 23,270 - (5,375) - 17,895
+Series 2022 B 10/18/22 3.30% - 5.25% 2025-2064 6,465 - (2,870) - 3,595
+Series 2022 C 12/01/22 3.40% - 5.15% 2025-2042 11,555 - - - 11,555
+Series 2023 A 03/15/23 3.15% - 5.00% 2024-2065 17,205 - - - 17,205
+Series 2023 B 05/03/23 2.75% - 4.35% 2025-2043 25,575 - - - 25,575
+Series 2023 C 07/27/23 3.30% - 4.80% 2025-2065 - 25,880 - - 25,880
+Series 2023 D 09/28/23 3.50% - 5.00% 2026-2066 - 29,920 - - 29,920
+Series 2023 E 12/14/23 3.60% - 4.75% 2026-2043 - 14,605 - - 14,605
+Series 2024 A 03/21/24 3.15% - 4.85% 2026-2066 - 14,765 - - 14,765
+Total $ 463,126 $ 85,170 $ (19,830) $ (22,353) $ 506,113
+(18)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 7 DEBT SERVICE REQUIREMENTS
+As of June 30, 2025, the required principal payments for bonds (including mandatory sinking fund
+payments, mandatory payments, and prepayments from 2017A and 2017B loans) and interest
+payments for each of the next five years and in five-year increments thereafter, were as follows:
+Year Ending June 30, Interest Principal
+2026 $ 2 3,884 $ 5 3,880
+2027 2 2,629 3 9,657
+2028 2 1,490 1 2,499
+2029 2 1,168 7 ,602
+2030 2 0,951 7 ,676
+2031 - 2035 1 00,952 4 2,552
+2036 - 2040 9 2,892 5 1,515
+2041 - 2045 7 4,241 1 60,731
+2046 - 2050 4 5,774 7 9,529
+2051 - 2055 3 3,055 6 7,731
+2056 - 2060 1 8,909 6 6,882
+2061 - 2065 7 ,547 4 0,130
+2066 - 2068 9 79 1 3,185
+Total $ 4 84,471 $ 6 43,569
+As of June 30, 2024, the required principal payments for bonds (including mandatory sinking fund
+payments, mandatory payments and prepayments from 2017A and 2017B loans) and interest
+payments for each of the next five years and in five-year increments thereafter, were as follows:
+Year Ending June 30, Interest Principal
+2025 $ 1 8,548 $ 2 2,739
+2026 1 7,935 4 7,930
+2027 1 6,502 6 ,097
+2028 1 6,349 6 ,324
+2029 1 6,180 6 ,432
+2030 - 2034 7 7,990 3 4,555
+2035 - 2039 7 1,764 4 1,910
+2040 - 2044 5 9,618 1 22,047
+2045 - 2049 3 5,093 7 3,081
+2050 - 2054 2 3,412 5 4,973
+2055 - 2059 1 2,178 5 6,035
+2060 - 2064 3 ,487 2 9,500
+2065 - 2067 2 83 4 ,490
+Total $ 3 69,339 $ 5 06,113
+The interest calculations on outstanding variable rate bonds in the amount of $21,800 and $25,800,
+respectively, are based on the variable rate in effect on June 30, 2025 and 2024, and are not indicative
+of the actual interest expense that will be incurred in future years. As rates vary, variable rate bond
+interest payments will vary.
+(19)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 8 BOND REFUNDINGS
+For current refundings of debt in an optional redemption, CDA replaces previously issued bonds for
+the purpose of lowering debt costs by reducing interest rates or for other purposes such as revising
+payment schedules or modifying restrictions related to the old debt. This type of transaction is
+commonly known as an economic refunding. There were no bond refundings for the years ended June
+30, 2025 and 2024.
+NOTE 9 REBATE LIABILITY
+In accordance with the Internal Revenue Code (IRC), the Fund has recorded a rebate liability for
+excess investment earnings in tax-exempt bond and note issues. The excess investment earnings arise
+due to actual investment yields earned by the Fund being greater than yields permitted to be retained
+by the Fund under the IRC. The IRC requires 90% of such excess investment earnings to be remitted
+to the United States Treasury every five years and in full at the final redemption of the bonds. Interest
+income on the Statements of Revenue, Expenses, and Changes in Net Position is reduced by CDA’s
+rebate liability share due to excess investment earnings. For the years ended June 30, 2025 and 2024,
+CDA’s share of estimated rebate liability was $380 and $310, respectively. The Borrowers are
+responsible for a rebate liability amount computed on their share of undrawn bond proceeds held in
+the Program Fund. For the years ended June 30, 2025 and 2024, the estimated Borrowers’ share of
+rebate liability was $312 and $0, respectively.
+2025 2024
+Beginning Rebate Liability:
+CDA's Share $ 3 10 $ 3 70
+Multi-Family Borrowers' Share - -
+Total 3 10 3 70
+Change in Estimated Liability Due to
+Excess Earnings (Calculated as of the Interim
+Computation Period Ending 6/30):
+CDA's Share 7 0 3 05
+Less Payments to IRS - (365)
+Multi-Family Borrowers' Share 3 12 -
+Total 3 82 (60)
+Ending Rebate Liability:
+CDA's Share 3 80 3 10
+Multi-Family Borrowers' Share 3 12 -
+Total $ 692 $ 3 10
+(20)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 10 LONG-TERM OBLIGATIONS
+Changes in long-term obligations for the years ended June 30, 2025 and 2024 were as follows:
+2025 2024
+Rebate Liability:
+Beginning Balance at June 30 $ 3 10 $ 3 70
+Additions 3 82 3 05
+Reductions - (365)
+Ending Balance at June 30 6 92 3 10
+Less: Due Within One Year (100) -
+Total Long-Term Rebate Liability 5 92 3 10
+Positive Arbitrage Liability:
+Beginning Balance at June 30 - -
+Additions 1 ,134 -
+Reductions - -
+Ending Balance at June 30 1 ,134 -
+Less: Due Within One Year (250) -
+Total Long-Term Positive Arbitrage Liability 884 -
+Bonds Payable:
+Beginning Balance at June 30 506,113 4 63,126
+Additions 1 64,195 8 5,170
+Reductions (26,739) (42,183)
+Ending Balance at June 30 6 43,569 5 06,113
+Less: Due Within One Year (53,880) (22,739)
+Total Long-Term Bonds Payable 589,689 4 83,374
+Deposits by Borrowers:
+Beginning Balance at June 30 4 0,898 3 4,414
+Additions 2 2,631 1 6,969
+Reductions (12,347) (10,485)
+Ending Balance at June 30 5 1,182 4 0,898
+Less: Due Within One Year (13,037) (8,211)
+Total Long-Term Deposits by Borrowers 3 8,145 3 2,687
+Total Long-Term Liabilities $ 629,310 $ 5 16,371
+(21)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+NOTES TO FINANCIAL STATEMENTS
+(in thousands)
+JUNE 30, 2025 AND 2024
+NOTE 11 INTERFUND ACTIVITY
+In accordance with the Resolution, net position in the Fund is restricted and pledged to bondholders.
+However, restricted assets may be transferred to other Funds, subject to the provisions of the
+Resolution. Generally, an officer of CDA must authorize such withdrawals and a cash flow analysis
+must demonstrate that sufficient monies remain in the Resolution to meet the obligations of the Fund
+in current and future years.
+During the years ended June 30, 2025 and 2024, the Fund transferred the following amounts, as
+permitted, among Funds:
+2025 2024
+Excess Revenue Transferred to the General
+Bond Reserve Fund $ - $ (1,000)
+NOTE 12 MORTGAGE INSURANCE
+Approximately 99% of the Fund’s outstanding loan amounts are insured or credit enhanced as
+described in Note 4.
+Multi-family mortgagors pay premiums for mortgage insurance and insurance coverage is 100% of
+the unpaid principal balance of the loan.
+NOTE 13 PENSION AND OTHER POSTRETIREMENT BENEFITS
+Eligible employees of CDA and employees of the state of Maryland are covered under the retirement
+plans of the State Retirement and Pension System of Maryland (the System) and are also entitled to
+certain healthcare benefits upon retirement. CDA’s only obligation for retirement and
+postemployment benefits is its required annual contribution, which was paid in full by CDA to the
+state of Maryland prior to year-end. The liability for the employees is recorded by the general fund of
+the state of Maryland and is not allocated to CDA. The System prepares a separate audited Annual
+Comprehensive Financial Report which can be obtained from the State Retirement and Pension
+System of Maryland, 120 East Baltimore Street, Baltimore, Maryland 21202 or by visiting the
+website at www.sra.maryland.gov.
+NOTE 14 SUBSEQUENT EVENTS
+Subsequent to the year ended June 30, 2025, CDA issued $48,470 of Series 2025 C Housing Revenue
+Bonds on July 16, 2025.
+Subsequent to the year ended June 30, 2025, Moody’s upgraded CDA’s Housing Revenue Bonds to
+Aa1 from Aa2 on September 8, 2025.
+(22)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+SUPPLEMENTAL DISCLOSURE OF CHANGES IN FAIR VALUE OF
+INVESTMENTS AND MORTGAGE-BACKED SECURITIES
+(in thousands)
+JUNE 30, 2025 AND 2024
+In accordance with accounting guidance issued by GASB, CDA reflects investments and mortgage-backed
+securities at fair value, and the increase or decrease in fair value is included in the Statements of Revenue,
+Expenses, and Changes in Net Position.
+For investments (U.S. Treasury Securities) held by the Fund as of June 30, 2025, the following schedule
+summarizes annual increases/(decreases) in fair value and the cumulative difference between fair value and
+amortized cost:
+Annual Increases/ Cumulative
+Fiscal Year Ended June 30, (Decreases) Total
+1997 $ (352) $ (352)
+1998 832 4 80
+1999 (407) 7 3
+2000 48 1 21
+2001 193 3 14
+2002 157 4 71
+2003 889 1 ,360
+2004 (678) 6 82
+2005 897 1 ,579
+2006 (866) 7 13
+2007 48 7 61
+2008 444 1 ,205
+2009 202 1 ,407
+2010 472 1 ,879
+2011 (280) 1 ,599
+2012 1,283 2 ,882
+2013 (730) 2 ,152
+2014 (27) 2 ,125
+2015 36 2 ,161
+2016 409 2 ,570
+2017 (666) 1 ,904
+2018 (454) 1 ,450
+2019 276 1 ,726
+2020 330 2 ,056
+2021 (493) 1 ,563
+2022 (852) 7 11
+2023 (378) 3 33
+2024 (57) 2 76
+2025 (69) 2 07
+(23)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+HOUSING REVENUE BONDS
+SUPPLEMENTAL DISCLOSURE OF CHANGES IN FAIR VALUE OF
+INVESTMENTS AND MORTGAGE-BACKED SECURITIES (CONTINUED)
+(in thousands)
+JUNE 30, 2025 AND 2024
+For mortgage-backed securities held by the Fund as of June 30, 2025, the following schedule summarizes annual
+increases/(decreases) in fair value and the cumulative difference between fair value and cost:
+Annual Increases/ Cumulative
+Fiscal Year Ended June 30, (Decreases) Total
+2000 $ (3,825) $ (3,825)
+2001 (3,291) (7,116)
+2002 3,340 (3,776)
+2003 21,435 1 7,659
+2004 (11,126) 6 ,533
+2005 12,879 1 9,412
+2006 (27,704) (8,292)
+2007 3,661 (4,631)
+2008 (5,987) (10,618)
+2009 17,358 6 ,740
+2010 13,103 1 9,843
+2011 (7,348) 1 2,495
+2012 6,303 1 8,798
+2013 (8,491) 1 0,307
+2014 (5,694) 4 ,613
+2015 (1,650) 2 ,963
+2016 2,232 5 ,195
+2017 (2,551) 2 ,644
+2018 (1,920) 7 24
+2019 (705) 1 9
+2020 (33) (14)
+2021 634 6 20
+2022 (723) (103)
+2023 (1,165) (1,268)
+2024 (75) (1,343)
+2025 1,066 (277)
+(24)

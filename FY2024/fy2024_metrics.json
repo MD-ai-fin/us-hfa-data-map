@@ -1,0 +1,771 @@
+[
+  {
+    "state": "AL",
+    "name": "Alabama Housing Finance Authority",
+    "abbr": "AHFA",
+    "source_file": "AL_AHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 485041000,
+    "net_position_prior": 302024000.0,
+    "net_position_change": 183017000.0,
+    "net_position_change_pct": 60.59683998622626,
+    "total_assets": 1082234000,
+    "net_position_ratio": 44.81849581513795,
+    "notes": []
+  },
+  {
+    "state": "AK",
+    "name": "Alaska Housing Finance Corporation",
+    "abbr": "AHFC",
+    "source_file": "AK_AHFC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": 13823000000.0,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "AZ",
+    "name": "Arizona Department of Housing",
+    "abbr": "ADOH",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "AR",
+    "name": "Arkansas Development Finance Authority",
+    "abbr": "ADFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": 146205000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "CA",
+    "name": "California Housing Finance Agency",
+    "abbr": "CalHFA",
+    "source_file": "CA_CalHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 3220848000,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 4558601000,
+    "net_position_ratio": 70.65430819674721,
+    "notes": []
+  },
+  {
+    "state": "CO",
+    "name": "Colorado Housing and Finance Authority",
+    "abbr": "CHFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": 828465000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 10000000000.0,
+    "net_position_ratio": 8.284650000000001,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "CT",
+    "name": "Connecticut Housing Finance Authority",
+    "abbr": "CHFA",
+    "source_file": "CT_CHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 2000000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 4670053873.0,
+    "net_position_ratio": 0.04282605842221726,
+    "notes": []
+  },
+  {
+    "state": "DE",
+    "name": "Delaware State Housing Authority",
+    "abbr": "DSHA",
+    "source_file": "DE_DSHA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 705352858,
+    "net_position_prior": 811000000.0,
+    "net_position_change": -105647142.0,
+    "net_position_change_pct": -13.026774599260172,
+    "total_assets": 1033142200,
+    "net_position_ratio": 68.27258222537033,
+    "notes": []
+  },
+  {
+    "state": "DC",
+    "name": "DC Housing Finance Agency",
+    "abbr": "DCHFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": 211524332.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "FL",
+    "name": "Florida Housing Finance Corporation",
+    "abbr": "FloridaHousing",
+    "source_file": "FL_FloridaHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 4212748551,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 6805023312,
+    "net_position_ratio": 61.90645289298607,
+    "notes": []
+  },
+  {
+    "state": "GA",
+    "name": "Georgia Housing and Finance Authority",
+    "abbr": "GHFA",
+    "source_file": "GA_GHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 303769317,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 3223377883,
+    "net_position_ratio": 9.423943702104257,
+    "notes": []
+  },
+  {
+    "state": "HI",
+    "name": "Hawaii Housing Finance and Development Corporation",
+    "abbr": "HHFDC",
+    "source_file": "HI_HHFDC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "文件为州级ACFR/合并报表，未纳入HFA专项排名"
+    ]
+  },
+  {
+    "state": "ID",
+    "name": "Idaho Housing and Finance Association",
+    "abbr": "IHFA",
+    "source_file": "ID_IHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 302024000.0,
+    "net_position_prior": 302024000.0,
+    "net_position_change": 0.0,
+    "net_position_change_pct": 0.0,
+    "total_assets": 1337700000.0,
+    "net_position_ratio": 22.577857516633028,
+    "notes": []
+  },
+  {
+    "state": "IL",
+    "name": "Illinois Housing Development Authority",
+    "abbr": "IHDA",
+    "source_file": "IL_IHDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 1373800000,
+    "net_position_prior": 886003000.0,
+    "net_position_change": 487797000.0,
+    "net_position_change_pct": 55.05590838857205,
+    "total_assets": 6526900000,
+    "net_position_ratio": 21.048277130031103,
+    "notes": []
+  },
+  {
+    "state": "IN",
+    "name": "Indiana Housing and Community Development Authority",
+    "abbr": "IHCDA",
+    "source_file": "IN_IHCDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": 2743779136.0,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "IA",
+    "name": "Iowa Finance Authority",
+    "abbr": "IFA",
+    "source_file": "IA_IFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 93208000000.0,
+    "net_position_ratio": null,
+    "notes": []
+  },
+  {
+    "state": "KS",
+    "name": "Kansas Housing Resources Corporation",
+    "abbr": "KHRC",
+    "source_file": "KS_KHRC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "KY",
+    "name": "Kentucky Housing Corporation",
+    "abbr": "KHC",
+    "source_file": "KY_KHC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 63597000000.0,
+    "net_position_ratio": null,
+    "notes": []
+  },
+  {
+    "state": "LA",
+    "name": "Louisiana Housing Corporation",
+    "abbr": "LHC",
+    "source_file": "LA_LHC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 1550828455.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 5790177000.0,
+    "net_position_ratio": 26.783783207318184,
+    "notes": []
+  },
+  {
+    "state": "ME",
+    "name": "MaineHousing",
+    "abbr": "MaineHousing",
+    "source_file": "ME_MaineHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 3280000000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 26303348767.0,
+    "net_position_ratio": 12.469895103679974,
+    "notes": []
+  },
+  {
+    "state": "MD",
+    "name": "Maryland Community Development Administration",
+    "abbr": "CDA",
+    "source_file": "MD_CDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "MA",
+    "name": "MassHousing",
+    "abbr": "MassHousing",
+    "source_file": "MA_MassHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "MI",
+    "name": "Michigan State Housing Development Authority",
+    "abbr": "MSHDA",
+    "source_file": "MI_FY2024_full.txt",
+    "status": "downloaded",
+    "net_position": 2920501000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 6469000000.0,
+    "net_position_ratio": 45.14609676920699,
+    "notes": []
+  },
+  {
+    "state": "MN",
+    "name": "Minnesota Housing Finance Agency",
+    "abbr": "MNHousing",
+    "source_file": "MN_MNHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 1389402000.0,
+    "net_position_prior": 719757000.0,
+    "net_position_change": 669645000.0,
+    "net_position_change_pct": 93.03765020694485,
+    "total_assets": 16088000000.0,
+    "net_position_ratio": 8.636263053207358,
+    "notes": []
+  },
+  {
+    "state": "MS",
+    "name": "Mississippi Home Corporation",
+    "abbr": "MHC",
+    "source_file": "MS_MHC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": 6072758000.0,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "MO",
+    "name": "Missouri Housing Development Commission",
+    "abbr": "MHDC",
+    "source_file": "MO_MHDC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": 2014000000.0,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "MT",
+    "name": "Montana Housing",
+    "abbr": "MTHousing",
+    "source_file": "MT_MTHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 302000000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 886009021.0,
+    "net_position_ratio": 34.0854317328672,
+    "notes": []
+  },
+  {
+    "state": "NE",
+    "name": "Nebraska Investment Finance Authority",
+    "abbr": "NIFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": 643937023.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 2256453000.0,
+    "net_position_ratio": 28.53757747225402,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "NV",
+    "name": "Nevada Housing Division",
+    "abbr": "NHD",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "NH",
+    "name": "New Hampshire Housing Finance Authority",
+    "abbr": "NHHousing",
+    "source_file": "NH_NHHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 89470000000.0,
+    "net_position_ratio": null,
+    "notes": []
+  },
+  {
+    "state": "NJ",
+    "name": "New Jersey Housing and Mortgage Finance Agency",
+    "abbr": "NJHMFA",
+    "source_file": "NJ_NJHMFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 567192000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 45185000000.0,
+    "net_position_ratio": 1.2552661281398694,
+    "notes": []
+  },
+  {
+    "state": "NM",
+    "name": "New Mexico Mortgage Finance Authority",
+    "abbr": "MFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "NY",
+    "name": "New York State Homes and Community Renewal",
+    "abbr": "HCR",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "NC",
+    "name": "North Carolina Housing Finance Agency",
+    "abbr": "NCHFA",
+    "source_file": "NC_NCHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF",
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "ND",
+    "name": "North Dakota Housing Finance Agency",
+    "abbr": "NDHFA",
+    "source_file": "ND_raw.txt",
+    "status": "downloaded",
+    "net_position": 302024000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 1000000000.0,
+    "net_position_ratio": 30.2024,
+    "notes": []
+  },
+  {
+    "state": "OH",
+    "name": "Ohio Housing Finance Agency",
+    "abbr": "OHFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": 438942146,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 3040037194,
+    "net_position_ratio": 14.438709725865282,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "OK",
+    "name": "Oklahoma Housing Finance Agency",
+    "abbr": "OHFA_OK",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "OR",
+    "name": "Oregon Housing and Community Services",
+    "abbr": "OHCS",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "PA",
+    "name": "Pennsylvania Housing Finance Agency",
+    "abbr": "PHFA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "RI",
+    "name": "Rhode Island Housing",
+    "abbr": "RIHousing",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "SC",
+    "name": "South Carolina State Housing Finance and Development Authority",
+    "abbr": "SCHFDA",
+    "source_file": "",
+    "status": "missing",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未找到FY2024 PDF/文本"
+    ]
+  },
+  {
+    "state": "SD",
+    "name": "South Dakota Housing Development Authority",
+    "abbr": "SDHDA",
+    "source_file": "SD_SDHDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 100000000000.0,
+    "net_position_ratio": null,
+    "notes": []
+  },
+  {
+    "state": "TN",
+    "name": "Tennessee Housing Development Agency",
+    "abbr": "THDA",
+    "source_file": "TN_THDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 634885000.0,
+    "net_position_prior": 571430000.0,
+    "net_position_change": 63455000.0,
+    "net_position_change_pct": 11.104597238506903,
+    "total_assets": 63000000000.0,
+    "net_position_ratio": 1.0077539682539682,
+    "notes": []
+  },
+  {
+    "state": "TX",
+    "name": "Texas Department of Housing and Community Affairs",
+    "abbr": "TDHCA",
+    "source_file": "TX_TDHCA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 970575954,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 4415168572,
+    "net_position_ratio": 21.98276097893913,
+    "notes": []
+  },
+  {
+    "state": "UT",
+    "name": "Utah Housing Corporation",
+    "abbr": "UtahHousing",
+    "source_file": "UT_UtahHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": null,
+    "net_position_ratio": null,
+    "notes": [
+      "未能自动提取核心指标，需人工复核PDF"
+    ]
+  },
+  {
+    "state": "VT",
+    "name": "Vermont Housing Finance Agency",
+    "abbr": "VHFA",
+    "source_file": "VT_VHFA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": null,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 20400000000.0,
+    "net_position_ratio": null,
+    "notes": []
+  },
+  {
+    "state": "VA",
+    "name": "Virginia Housing",
+    "abbr": "VirginiaHousing",
+    "source_file": "VA_VirginiaHousing_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 5491305000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 6000000000.0,
+    "net_position_ratio": 91.52175,
+    "notes": []
+  },
+  {
+    "state": "WA",
+    "name": "Washington State Housing Finance Commission",
+    "abbr": "WSHFC",
+    "source_file": "WA_WSHFC_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 935600000,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 2162400000,
+    "net_position_ratio": 43.26674065852757,
+    "notes": []
+  },
+  {
+    "state": "WV",
+    "name": "West Virginia Housing Development Fund",
+    "abbr": "WVHDF",
+    "source_file": "WV_WVHDF_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 71592000.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 12928000000.0,
+    "net_position_ratio": 0.5537747524752475,
+    "notes": []
+  },
+  {
+    "state": "WI",
+    "name": "Wisconsin Housing and Economic Development Authority",
+    "abbr": "WHEDA",
+    "source_file": "WI_WHEDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 1100000000.0,
+    "net_position_prior": 4200000000.0,
+    "net_position_change": -3100000000.0,
+    "net_position_change_pct": -73.80952380952381,
+    "total_assets": 2900000000.0,
+    "net_position_ratio": 37.93103448275862,
+    "notes": []
+  },
+  {
+    "state": "WY",
+    "name": "Wyoming Community Development Authority",
+    "abbr": "WCDA",
+    "source_file": "WY_WCDA_FY2024_ACFR.txt",
+    "status": "downloaded",
+    "net_position": 441265649.0,
+    "net_position_prior": null,
+    "net_position_change": null,
+    "net_position_change_pct": null,
+    "total_assets": 1017258000.0,
+    "net_position_ratio": 43.37794826877744,
+    "notes": []
+  }
+]

@@ -1,0 +1,2714 @@
+SOUTH CAROLINA STATE HOUSING FINANCE AND
+DEVELOPMENT AUTHORITY
+(A COMPONENT UNIT OF THE STATE OF SOUTH CAROLINA)
+COLUMBIA, SOUTH CAROLINA
+FINANCIAL STATEMENTS AND
+SUPPLEMENTARY INFORMATION
+YEAR ENDED JUNE 30, 2025
+September 26, 2025
+Members of the Board of Commissioners
+South Carolina State Housing Finance and Development Authority
+Columbia, South Carolina
+This report on the audit of the financial statements of the South Carolina State Housing Finance
+and Development Authority for the fiscal year ended June 30, 2025, was issued by CliftonLarsonAllen
+LLP, Certified Public Accountants, under contract with the South Carolina Office of the State Auditor.
+If you have any questions regarding this report, please let us know.
+Respectfully submitted,
+Sue F. Moss, CPA
+Interim State Auditor
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+TABLE OF CONTENTS
+YEAR ENDED JUNE 30, 2025
+INDEPENDENT AUDITORS’ REPORT 1
+MANAGEMENT’S DISCUSSION AND ANALYSIS 4
+BASIC FINANCIAL STATEMENTS
+GOVERNMENT-WIDE FINANCIAL STATEMENTS
+STATEMENT OF NET POSITION 9
+STATEMENT OF ACTIVITIES 11
+FUND FINANCIAL STATEMENTS
+BALANCE SHEET – GOVERNMENTAL FUNDS 12
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN
+FUND BALANCE – GOVERNMENTAL FUNDS 13
+STATEMENT OF NET POSITION – PROPRIETARY FUNDS 14
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET
+POSITION – PROPRIETARY FUNDS 16
+STATEMENT OF CASH FLOWS – PROPRIETARY FUNDS 17
+NOTES TO BASIC FINANCIAL STATEMENTS 20
+REQUIRED SUPPLEMENTARY INFORMATION
+SCHEDULE OF THE EMPLOYER’S PROPORTIONATE SHARE OF THE
+NET PENSION LIABILITY 70
+SCHEDULE OF THE EMPLOYER’S PENSION CONTRIBUTIONS 71
+SCHEDULE OF THE EMPLOYER’S PROPORTIONATE SHARE OF THE
+NET OPEB LIABILITY 72
+SCHEDULE OF THE EMPLOYER’S OPEB CONTRIBUTIONS 73
+CliftonLarsonAllen LLP
+CLAconnect.com
+INDEPENDENT AUDITORS’ REPORT
+Ms. Sue Moss, CPA, Interim State Auditor and
+Members of the Board of Commissioners
+South Carolina State Housing Finance and Development Authority
+Columbia, South Carolina
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the accompanying financial statements of the governmental activities, the business-
+type activities, and each major fund of the South Carolina State Housing Finance and Development
+Authority, a component unit of the state of South Carolina, as of and for the year ended June 30, 2025,
+and the related notes to the financial statements, which collectively comprise the South Carolina State
+Housing Finance and Development Authority’s basic financial statements as listed in the table of
+contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the governmental activities, the business-type activities, and each major
+fund of the South Carolina State Housing Finance and Development Authority, as of June 30, 2025,
+and the respective changes in financial position, and, where applicable, cash flows thereof for the year
+then ended in accordance with accounting principles generally accepted in the United States of
+America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditors’ Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the South Carolina State
+Housing Finance and Development Authority and to meet our other ethical responsibilities, in
+accordance with the relevant ethical requirements relating to our audit. We believe that the audit
+evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions.
+CLA (CliftonLarsonAllen LLP) is an independent network member of CLA Global. See CLAglobal.com/disclaimer.
+(1)
+Ms. Sue Moss, CPA, Interim State Auditor and
+Members of the Board of Commissioners
+South Carolina State Housing Finance and Development Authority
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the South Carolina State
+Housing Finance and Development Authority’s ability to continue as a going concern for twelve months
+beyond the financial statement date, including any currently known information that may raise
+substantial doubt shortly thereafter.
+Auditors’ Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditors’ report that
+includes our opinions. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with GAAS and Government
+Auditing Standards will always detect a material misstatement when it exists. The risk of not detecting a
+material misstatement resulting from fraud is higher than for one resulting from error, as fraud may
+involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal control.
+Misstatements are considered material if there is a substantial likelihood that, individually or in the
+aggregate, they would influence the judgment made by a reasonable user based on the financial
+statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and disclosures
+in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the South Carolina State Housing Finance and Development
+Authority’s internal control. Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the
+financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate,
+that raise substantial doubt about the South Carolina State Housing Finance and Development
+Authority’s ability to continue as a going concern for a reasonable period of time.
+(2)
+Ms. Sue Moss, CPA, Interim State Auditor and
+Members of the Board of Commissioners
+South Carolina State Housing Finance and Development Authority
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control related
+matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that management’s
+discussion and analysis, the schedule of the employer’s proportionate share of the net pension liability,
+the schedule of the employer’s pension contributions, the schedule of the employer’s proportionate
+share of the net OPEB liability, and the schedule of the employer’s OPEB contributions, as listed in the
+table of contents, be presented to supplement the basic financial statements. Such information is the
+responsibility of management and, although not a part of the basic financial statements, is required by
+the Governmental Accounting Standards Board who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical
+context. We have applied certain limited procedures to the required supplementary information in
+accordance with GAAS, which consisted of inquiries of management about the methods of preparing
+the information and comparing the information for consistency with management’s responses to our
+inquiries, the basic financial statements, and other knowledge we obtained during our audit of the basic
+financial statements. We do not express an opinion or provide any assurance on the information
+because the limited procedures do not provide us with sufficient evidence to express an opinion or
+provide any assurance.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+September 26, 2025, on our consideration of the South Carolina State Housing Finance and
+Development Authority’s internal control over financial reporting and on our tests of its compliance with
+certain provisions of laws, regulations, contracts, and grant agreements and other matters. The
+purpose of that report is solely to describe the scope of our testing of internal control over financial
+reporting and compliance and the results of that testing, and not to provide an opinion on the
+effectiveness of the South Carolina State Housing Finance and Development Authority’s internal control
+over financial reporting or on compliance. That report is an integral part of an audit performed in
+accordance with Government Auditing Standards in considering the South Carolina State Housing
+Finance and Development Authority’s internal control over financial reporting and compliance.
+CliftonLarsonAllen LLP
+Baltimore, Maryland
+September 26, 2025
+(3)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+JUNE 30, 2025
+As management of the South Carolina State Housing Finance and Development Authority (the
+“Authority”), we offer readers of the Authority’s financial statements this narrative overview and analysis
+of the financial activities of the Authority for the fiscal year ended June 30, 2025.
+Financial Highlights
+ Net position of the Authority’s business-type activities increased by $26,666,264 to
+$469,871,811. This increase is primarily attributable to the increase in the Authority’s single-
+family mortgage portfolio and non-operating revenues in the General Operating Fund.
+ The governmental activities net position increased by $16,025,420 to $142,865,167. This
+increase is primarily the result of an increase in documentary tax revenue, interest on deposits
+and investments, and the net increase in the fair value of investments.
+ Federal grant revenue increased by $11,207,235 to $210,474,120. Federal assistance received
+by the Authority during the current fiscal year was from the U.S. Department of Housing and
+Urban Development (HUD) and the U.S. Department of Treasury. The increase in federal
+assistance is due primarily to increased funding for the Housing Choice Voucher program and
+Contract Administration.
+ The Authority made principal payments on mortgage revenue bonds of $94,680,000 during the
+fiscal year. Of which, $82,845,000 were redeemed prior to maturity.
+ For the fiscal year ended June 30, 2025, the Authority purchased $377,363,495 of single family
+first mortgages, down payment assistance loans, and multifamily mortgages in its proprietary
+funds. The majority of single family production was funded through the Mortgage Revenue Bond
+indenture and is recorded as loans.
+ Bonds outstanding, net of unamortized premiums, increased by $426,840,796 to
+$1,600,948,740. This is mainly attributable to the increase in demand for the Authority’s
+mortgage loans, which resulted in an increase in the current year of bonds issued by 200% over
+the prior year.
+Overview of the Financial Statements
+This annual report consists of three parts - management’s discussion and analysis, the basic financial
+statements, and supplementary information. The basic financial statements include two types of
+statements presenting different views of the Authority’s finances.
+ The first two statements are entity-wide financial statements that provide information about the
+Authority’s overall financial position and results. These statements, which are presented on an
+accrual basis of accounting, consist of the Statement of Net Position and the Statement of
+Activities. The Statement of Net Position includes all of the Authority’s assets, deferred outflows
+of resources, liabilities, deferred inflows of resources, and net position. All of the current year’s
+revenues and expenses are accounted for in the Statement of Activities regardless of when
+cash is received or paid. Most of the Authority’s activities are business-type activities and are
+reported in proprietary funds.
+ The remaining statements are fund financial statements of the Authority’s proprietary funds
+which operate similar to business activities and for which the Authority follows an accrual basis
+of accounting, and the governmental funds, which are special revenue funds that follow the
+modified accrual basis of accounting.
+ The basic financial statements also include a “Notes to Financial Statements” section that
+explains the information in the entity-wide and fund financial statements. The notes also provide
+a more detailed explanation of data and significant accounting procedures and policies.
+(4)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+JUNE 30, 2025
+The remainder of this overview section explains the structure and contents of each of these statements.
+Prior year results referred to throughout this section are for comparison purposes only.
+Fund Financial Statements
+The fund financial statements provide more detailed information about the Authority’s most significant
+funds and not the Authority as a whole. The Authority has two kinds of funds:
+Governmental Funds - Governmental funds finance the Authority’s governmental functions, including
+the disbursement of restricted monies. The Authority’s governmental fund type is a special revenue
+fund. Expendable assets are assigned to the applicable governmental fund according to the purposes
+for which they may or must be used; current liabilities are assigned to the fund from which they are to
+be paid; and the difference between assets and liabilities is fund balance.
+As such, in accordance with governmental accounting standards, the portions of net position/fund
+balances that are not available for appropriation and expenditure and/or are legally segregated for a
+specified use are presented as restricted in the fund entity-wide statements.
+Proprietary Funds - The Authority’s primary activities are accounted for in its proprietary funds. These
+activities are accounted for in a manner similar to businesses operating in the private sector. Funding is
+primarily provided through the issuance of bonds, the proceeds of which are used to make various
+types of loans to finance low and moderate-income housing. HUD contracts are accounted for in the
+proprietary funds since the Authority receives fees to administer various HUD programs. The net
+positions of these programs represent accumulated earnings since their inception and are generally
+restricted for program purposes.
+Financial Analysis of the Authority as a Whole
+Net Position: The combined net position of the Authority increased by $42,691,684 to $612,736,978.
+The following table summarizes the financial position for the Authority as of and for the fiscal years
+ended June 30, 2025 and 2024.
+Governmental Activities Business-Type Activities Total
+2025 2024 2025 2024 2025 2024
+Assets:
+Current Assets $ 123,765,482 $ 111,903,789 $ 628,393,898 $ 422,215,727 $ 752,159,380 $ 534,119,516
+Noncurrent Assets 20,747,570 16,286,050 1,557,591,515 1,297,383,685 1,578,339,085 1,313,669,735
+Total Assets 144,513,052 128,189,839 2,185,985,413 1,719,599,412 2,330,498,465 1,847,789,251
+Deferred Outflows of
+Resources - - 7,323,922 6,090,218 7,323,922 6,090,218
+Liabilities:
+Current Liabilities 1,647,885 1,350,092 107,257,429 88,563,541 108,905,314 89,913,633
+Noncurrent Liabilities - - 1,608,387,513 1,185,383,068 1,608,387,513 1,185,383,068
+Total Liabilities 1,647,885 1,350,092 1,715,644,942 1,273,946,609 1,717,292,827 1,275,296,701
+Deferred Inflows of
+Resources - - 7,792,582 8,537,474 7,792,582 8,537,474
+Net Position:
+Net Investment in Capital
+Assets - - 745,665 415,127 745,665 415,127
+Restricted 142,865,167 126,839,747 441,603,956 424,649,157 584,469,123 551,488,904
+Unrestricted - - 27,522,190 18,141,263 27,522,190 18,141,263
+Total Net Position $ 142,865,167 $ 126,839,747 $ 469,871,811 $ 443,205,547 $ 612,736,978 $ 570,045,294
+(5)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+JUNE 30, 2025
+Total net position of the Authority’s governmental activities increased by $16,025,420 to $142,865,167.
+The Housing Trust Fund Act enacted by the General Assembly during 1992 restricts fund balance of
+the Housing Trust Fund. The Authority receives funding from a percentage of the documentary stamp
+tax on the instruments conveying real property to finance in whole or in part, affordable housing
+projects, and/or developments eligible under the Housing Trust Fund Act.
+Net position of the Authority’s business-type activities increased by $26,666,264 to $469,871,811.
+Statement of Activities: The Statement of Activities shows the sources of the Authority’s changes in
+net position as they progress through the various programs and functions. The Housing Trust Fund is
+shown as governmental activities, and all other programs are shown as business-type activities. The
+business-type activities include the Single Family Loan Programs, federal housing assistance, tax
+credits allocations, compliance monitoring, and other activities that are part of the Authority’s
+administrative functions.
+A condensed Statement of Activities for the last two fiscal years is shown below.
+Governmental Activities Business-Type Activities Total
+2025 2024 2025 2024 2025 2024
+Revenues:
+Charges for Services $ 4,616,406 $ 3,724,966 $ 111,544,176 $ 95,223,370 $ 116,160,582 $ 98,948,336
+General Revenues 28,429,117 25,661,206 16,703,269 10,789,854 45,132,386 36,451,060
+Operating Grants and
+Contributions - - 210,474,120 199,266,885 210,474,120 199,266,885
+Total Revenues 33,045,523 29,386,172 338,721,565 305,280,109 371,767,088 334,666,281
+Expenses 17,516,503 14,292,573 311,558,901 293,297,366 329,075,404 307,589,939
+Excess (Deficiency) Before
+Transfers 15,529,020 15,093,599 27,162,664 11,982,743 42,691,684 27,076,342
+Transfers Between Funds 496,400 - (496,400) - - -
+Change in Net Position 16,025,420 15,093,599 26,666,264 11,982,743 42,691,684 27,076,342
+Net Position - Beginning of Year 126,839,747 111,746,148 443,205,547 431,222,804 570,045,294 542,968,952
+Net Position - End of Year $ 142,865,167 $ 126,839,747 $ 469,871,811 $ 443,205,547 $ 612,736,978 $ 570,045,294
+Revenues of the Authority’s governmental activities were derived from a documentary stamp tax, a
+federal grant, interest payments on loans, and investment income. Revenues of the Authority’s
+business-type activities were primarily from federal program revenue of $210,474,120, charges for
+services of $111,544,176, and net program investment income of $16,703,269 which included a fair
+value adjustment loss of $5,144,964. Charges for services consist primarily of interest income on loans,
+HUD administrative fees, tax credit application fees, and various other fees, such as monitoring and
+servicing. Program investment income came primarily from the bond programs, and the income is
+restricted to those programs.
+Direct expenses of the Authority’s business-type activities consist of two major types—housing
+assistance payments and bond interest. All administrative expenses were incurred in the Authority’s
+General Operating Fund. Program revenue adequately covers all expenses of the Authority. Total
+revenues exceeded expenses by $27,162,664 for the business-type activities.
+Total net position of the Authority increased from the previous year by $42,691,684 to $612,736,978.
+(6)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+JUNE 30, 2025
+Debt Administration
+The Authority’s total liabilities increased by $441,996,126 to $1,717,292,827. Non-current liabilities
+increased by $423,004,445 to $1,608,387,513. Refunding debt and optional bond redemptions are
+based on mortgage pre-payments received and an economic analysis of calling debt vs. making loans
+vs. investing funds. In recent years, calling debt has been the best financial alternative. The Authority’s
+long-term debt, including amounts due within the next fiscal year, consists of bonds payable, net of
+unamortized premiums of $1,600,948,740, net pension liability of $15,282,740, net OPEB liability of
+$12,887,769, accrued compensated absences of $2,612,142, and $4,353,213 of noncurrent liabilities,
+which consists primarily of future lease payments. See Notes 5, 6, 11 and 12 to the financial statements
+for more information on the Authority’s long-term liabilities.
+Economic Factors
+The Authority’s financial condition remained strong at June 30, 2025. The State of South Carolina
+continued to experience steady growth, with the current economic expansion having entered its
+sixteenth year during 2025.
+Data from the Authority’s Mortgage Servicing division indicates that the number of customers in
+forbearance and/or seriously delinquent has increased. The Authority will continue to focus efforts on
+loan servicing and loss mitigation in order to prevent foreclosure and preserve assets. The Homeowner
+Assistance Program, funded by the federal Homeowner Assistance Fund, is closed for applications and
+the Authority anticipates that some loans brought current through this program may fall delinquent in
+the future.
+Interest rates continue to increase. The Authority was able to remain in the bond market based on the
+strength of the Statement of Net Position. The Authority will continue to monitor all economic factors
+impacting its financial stability.
+Requests for Information
+This financial report provides a general overview of the South Carolina State Housing Finance and
+Development Authority’s finances for all those with an interest in the government’s finances. Questions
+concerning any of the information provided in this report or requests for additional information should be
+addressed to the following:
+South Carolina State Housing Finance and Development Authority
+Finance Division
+300-C Outlet Pointe Boulevard
+Columbia, South Carolina 29210
+(7)
+BASIC FINANCIAL STATEMENTS
+(8)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF NET POSITION
+JUNE 30, 2025
+Governmental Business-Type
+Activities Activities Total
+ASSETS
+Current Assets:
+Cash and Cash Equivalents $ - $ 6,062,236 $ 6,062,236
+Restricted Assets:
+Cash and Cash Equivalents 3,134,665 251,272,135 254,406,800
+Investments 119,208,869 228,114,585 347,323,454
+Loans Receivable 472,960 114,752,265 115,225,225
+Accrued Interest Receivable:
+Loans - 6,927,409 6,927,409
+Accounts Receivable:
+Due from Grantor - 1,168,656 1,168,656
+Due from Primary Government 2,439,512 - 2,439,512
+Other - 4,203 4,203
+Accrued Interest Receivable:
+Loans 4,138 151,642 155,780
+Deposits and Investments - 1,276,146 1,276,146
+Prepaids - 17,169,959 17,169,959
+Internal Balances (1,494,662) 1,494,662 -
+Total Current Assets 123,765,482 628,393,898 752,159,380
+Noncurrent Assets:
+Loans Receivable, Net of Current Portion 20,747,570 - 20,747,570
+Restricted Assets:
+Investments - 37,627,444 37,627,444
+Loans Receivable, Net of Current Portion - 1,516,986,193 1,516,986,193
+Allowance for Doubtful Loans - (2,121,000) (2,121,000)
+Capital Assets, Net of Accumulated
+Depreciation and Amortization - 5,098,878 5,098,878
+Total Noncurrent Assets 20,747,570 1,557,591,515 1,578,339,085
+Total Assets 144,513,052 2,185,985,413 2,330,498,465
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred Outflows of Resources Related to
+Pension Plan - 2,835,738 2,835,738
+Deferred Outflows of Resources Related to
+OPEB Plan - 4,488,184 4,488,184
+Total Deferred Outflows of Resources - 7,323,922 7,323,922
+See accompanying Notes to Basic Financial Statements.
+(9)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF NET POSITION (CONTINUED)
+JUNE 30, 2025
+Governmental Business-Type
+Activities Activities Total
+LIABILITIES
+Current Liabilities:
+Liabilities Payable from Restricted Assets:
+Bonds Payable, Net of Unamortized
+Premiums $ - $ 26,142,983 $ 26,142,983
+Accrued Interest Payable on Bonds - 28,892,161 28,892,161
+Other Liabilities - 3,976,489 3,976,489
+Mortgage Escrows - 11,014,483 11,014,483
+Total Liabilities Payable from
+Restricted Assets - 70,026,116 70,026,116
+Accrued Compensated Absences - 1,132,234 1,132,234
+Accrued Salaries and Related Payroll
+Expenses - 1,322,637 1,322,637
+Accounts Payable and Accrued Expenses 1,647,885 2,710,707 4,358,592
+Unearned Revenue - 32,065,735 32,065,735
+Total Current Liabilities 1,647,885 107,257,429 108,905,314
+Noncurrent Liabilities:
+Accrued Compensated Absences, Net of
+Current Portion - 1,479,908 1,479,908
+Bonds Payable, Net of Current Portion and
+Unamortized Premiums - 1,574,805,757 1,574,805,757
+Other Noncurrent Liabilities - 3,931,339 3,931,339
+Net Pension Liability - 15,282,740 15,282,740
+Net OPEB Liability - 12,887,769 12,887,769
+Total Noncurrent Liabilities - 1,608,387,513 1,608,387,513
+Total Liabilities 1,647,885 1,715,644,942 1,717,292,827
+DEFERRED INFLOWS OF RESOURCES
+Deferred Gain on Refunding - 2,040,795 2,040,795
+Deferred Inflows of Resources Related to
+Pension Plan - 699,229 699,229
+Deferred Inflows of Resources Related to
+OPEB Plan - 5,052,558 5,052,558
+Total Deferred Inflows of Resources - 7,792,582 7,792,582
+NET POSITION
+Net Investment in Capital Assets - 745,665 745,665
+Restricted for:
+Debt Service - 85,937,908 85,937,908
+Bond Reserves - 45,732,450 45,732,450
+Housing Projects and Development 142,865,167 309,933,598 452,798,765
+Unrestricted - 27,522,190 27,522,190
+Total Net Position $ 142,865,167 $ 469,871,811 $ 612,736,978
+See accompanying Notes to Basic Financial Statements.
+(10)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF ACTIVITIES
+YEAR ENDED JUNE 30, 2025
+Net Revenue (Expenses) and
+Program Revenue Change in Net Position
+Operating
+Charges for Grants and Governmental Business-Type
+Functions/Programs Expenses Services Contributions Activities Activities Total
+GOVERNMENTAL ACTIVITIES
+Housing Development $ 17,516,503 $ 4,616,406 $ - $ (12,900,097) $ - $ (12,900,097)
+Total Governmental Activities 17,516,503 4,616,406 - (12,900,097) - (12,900,097)
+BUSINESS-TYPE ACTIVITIES
+Administrative 25,849,345 37,136,430 - - 11,287,085 11,287,085
+Single-Family Mortgage Loan Programs 68,203,237 74,407,746 - - 6,204,509 6,204,509
+Federal Programs 217,506,319 - 210,474,120 - (7,032,199) (7,032,199)
+Total Business-Type Activities 311,558,901 111,544,176 210,474,120 - 10,459,395 10,459,395
+Total $ 329,075,404 $ 116,160,582 $ 210,474,120 (12,900,097) 10,459,395 (2,440,702)
+GENERAL REVENUE
+Documentary Stamp Taxes 25,363,207 - 25,363,207
+Investment Income 3,065,910 16,703,269 19,769,179
+Total General Revenue 28,429,117 16,703,269 45,132,386
+Transfers In 496,400 - 496,400
+Transfers Out - (496,400) (496,400)
+Total Transfers 496,400 (496,400) -
+CHANGE IN NET POSITION 16,025,420 26,666,264 42,691,684
+Net Position - Beginning 126,839,747 443,205,547 570,045,294
+NET POSITION - END OF YEAR $ 142,865,167 $ 469,871,811 $ 612,736,978
+See accompanying Notes to Basic Financial Statements.
+(11)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+JUNE 30, 2025
+Housing Trust
+Fund
+ASSETS
+CURRENT ASSETS
+Cash and Cash Equivalents $ 3,134,665
+Investments 119,208,869
+Accounts Receivable:
+Due from Primary Government 2,439,512
+Loans Receivable 472,960
+Accrued Interest Receivable:
+Loans 4,138
+Total Current Assets 125,260,144
+NONCURRENT ASSETS
+Loans Receivable, Net of Current Portion 20,747,570
+Total Noncurrent Assets 20,747,570
+Total Assets $ 146,007,714
+LIABILITIES AND FUND BALANCE
+CURRENT LIABILITIES
+Accounts Payable and Accrued Expenses $ 1,647,885
+Due to Other Funds 1,494,662
+Total Current Liabilities 3,142,547
+FUND BALANCE
+Nonspendable 21,224,668
+Restricted for:
+Housing Projects and Development 121,640,499
+Total Fund Balance 142,865,167
+Total Liabilities and Fund Balance $ 146,007,714
+See accompanying Notes to Basic Financial Statements.
+(12)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF REVENUES, EXPENDITURES, AND CHANGES IN FUND BALANCE
+GOVERNMENTAL FUNDS
+YEAR ENDED JUNE 30, 2025
+Housing Trust
+Fund
+REVENUE
+Documentary Stamp Taxes $ 25,363,207
+Administrative Fees 470,874
+Interest on Loans 110,246
+Interest on Deposits and Investments 4,035,286
+Net Increase (Decrease) in the Fair Value of Investments 3,065,910
+Total Revenue 33,045,523
+EXPENDITURES
+Housing Development 17,516,503
+Total Expenditures 17,516,503
+OTHER FINANCING SOURCES (USES)
+Transfer from General Operating Fund 496,400
+Total Other Financing Sources (Uses) 496,400
+NET CHANGES IN FUND BALANCE 16,025,420
+Fund Balance - Beginning of Year 126,839,747
+FUND BALANCE - END OF YEAR $ 142,865,167
+See accompanying Notes to Basic Financial Statements.
+(13)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF NET POSITION
+PROPRIETARY FUNDS
+JUNE 30, 2025
+Single Family
+General Finance
+Operating Programs Program Total
+ASSETS
+Current Assets:
+Cash and Cash Equivalents $ 5,974,775 $ - $ 87,461 $ 6,062,236
+Restricted Assets:
+Cash and Cash Equivalents 53,745,743 197,526,392 - 251,272,135
+Investments 16,791,678 195,798,881 15,524,026 228,114,585
+Loans Receivable 993,179 113,124,412 634,674 114,752,265
+Accrued Interest Receivable:
+Loans Receivable - 6,927,409 - 6,927,409
+Accounts Receivable:
+Due from Grantor 1,166,646 - 2,010 1,168,656
+Other 4,203 - - 4,203
+Accrued Interest Receivable:
+Loans 81,679 - 69,963 151,642
+Deposits and Investments 18,567 1,257,579 - 1,276,146
+Prepaids 16,919,834 250,125 - 17,169,959
+Due from Other Funds 1,494,662 - - 1,494,662
+Total Current Assets 97,190,966 514,884,798 16,318,134 628,393,898
+Noncurrent Assets:
+Restricted Assets:
+Investments - 37,627,444 - 37,627,444
+Loans Receivable, Net of Current Portion 86,967,135 1,428,613,562 1,405,496 1,516,986,193
+Allowance for Doubtful Loans ( 24,000) ( 1,299,000) ( 798,000) ( 2,121,000)
+Capital Assets, Net of Accumulated
+Depreciation 5,098,878 - - 5,098,878
+Total Noncurrent Assets 92,042,013 1,464,942,006 607,496 1,557,591,515
+Total Assets 189,232,979 1,979,826,804 16,925,630 2,185,985,413
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred Outflows of Resources Related to
+Pension Plan 2,835,738 - - 2,835,738
+Deferred Outflows of Resources Related to
+OPEB Plan 4,488,184 - - 4,488,184
+Total Deferred Outflows of Resources 7,323,922 - - 7,323,922
+See accompanying Notes to Basic Financial Statements.
+(14)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF NET POSITION
+PROPRIETARY FUNDS (CONTINUED)
+JUNE 30, 2025
+Single Family
+General Finance
+Operating Programs Program Total
+LIABILITIES
+Current Liabilities:
+Liabilities Payable from Restricted Assets:
+Bonds Payable, Net of Unamortized
+Premiums $ - $ 26,142,983 $ - $ 26,142,983
+Accrued Interest Payable on Bonds - 28,892,161 - 28,892,161
+Other Liabilities 3,471,404 503,005 2,080 3,976,489
+Mortgage Escrows 11,014,483 - - 11,014,483
+Total Liabilities Payable from
+Restricted Assets 14,485,887 55,538,149 2,080 70,026,116
+Accrued Compensated Absences 1,132,234 - - 1,132,234
+Accrued Salaries and Related Payroll
+Expenses 1,322,637 - - 1,322,637
+Accounts Payable and Accrued Expenses 2,710,707 - - 2,710,707
+Unearned Revenue 32,062,298 - 3,437 32,065,735
+Total Current Liabilities 51,713,763 55,538,149 5,517 107,257,429
+Noncurrent Liabilities:
+Accrued Compensated Absences, Net of
+Current Portion 1,479,908 - - 1,479,908
+Bonds Payable, Net of Current Portion and
+Unamortized Premiums - 1,574,805,757 - 1,574,805,757
+Other Noncurrent Liabilities 3,931,339 - - 3,931,339
+Net Pension Liability 15,282,740 - - 15,282,740
+Net OPEB Liability 12,887,769 - - 12,887,769
+Total Noncurrent Liabilities 33,581,756 1,574,805,757 - 1,608,387,513
+Total Liabilities 85,295,519 1,630,343,906 5,517 1,715,644,942
+DEFERRED INFLOWS OF RESOURCES
+Deferred Gain on Refunding - 2,040,795 - 2,040,795
+Deferred Inflows of Resources Related to
+Pension Plan 699,229 - - 699,229
+Deferred Inflows of Resources Related to
+OPEB Plan 5,052,558 - - 5,052,558
+Total Deferred Inflows of Resources 5,751,787 2,040,795 - 7,792,582
+NET POSITION
+Net Investment in Capital Assets 745,665 - - 745,665
+Restricted for:
+Debt Service - 85,937,908 - 85,937,908
+Bond Reserves - 45,732,450 - 45,732,450
+Housing Projects and Development 94,161,853 215,771,745 - 309,933,598
+Unrestricted 10,602,077 - 16,920,113 27,522,190
+Total Net Position $ 105,509,595 $ 347,442,103 $ 16,920,113 $ 469,871,811
+See accompanying Notes to Basic Financial Statements.
+(15)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+PROPRIETARY FUNDS
+YEAR ENDED JUNE 30, 2025
+Single Family
+General Finance
+Operating Programs Program Eliminations Total
+OPERATING REVENUES
+Interest and Other Charges on Loans $ 8 26,104 $ 68,811,982 $ 37,744 $ - $ 69,675,830
+Interest on Deposits and Investments 83,721 10,963,293 511,291 - 11,558,305
+Net Increase in the Fair Value of Investments 385,409 4,372,456 387,099 - 5,144,964
+Administrative Fees and Other 35,952,563 5,595,764 320,019 - 41,868,346
+Total Operating Revenues 3 7,247,797 89,743,495 1,256,153 - 128,247,445
+OPERATING EXPENSES
+Bond Interest - 44,759,792 - - 44,759,792
+Program Services - 18,810,011 - - 18,810,011
+General and Administrative 25,146,145 - - - 25,146,145
+Bond Issuance Expense - 4,633,434 - - 4,633,434
+Depreciation and Amortization 703,200 - - - 703,200
+Total Operating Expenses 2 5,849,345 68,203,237 - - 94,052,582
+OPERATING INCOME 1 1,398,452 21,540,258 1,256,153 - 34,194,863
+NONOPERATING REVENUE (EXPENSES)
+Federal Grant and Contract Revenue 210,474,120 - - - 210,474,120
+Housing Assistance Payments and
+Grant Awards Disbursed (217,455,170) - (51,149) - (217,506,319)
+Total Nonoperating Revenue
+(Expenses) (6,981,050) - (51,149) - (7,032,199)
+INCOME BEFORE TRANSFERS 4 ,417,402 21,540,258 1,205,004 - 27,162,664
+TRANSFERS
+Transfers In 5,450,042 - - (5,450,042) -
+Transfers Out (496,400) (5,450,042) - 5,450,042 (496,400)
+Total Transfers, Net 4 ,953,642 (5,450,042) - - (496,400)
+CHANGES IN NET POSITION 9 ,371,044 16,090,216 1,205,004 - 26,666,264
+Fund Balance - Beginning 9 6,138,551 331,351,887 15,715,109 - 443,205,547
+NET POSITION - END OF YEAR $ 1 05,509,595 $ 347,442,103 $ 16,920,113 $ - $ 469,871,811
+See accompanying Notes to Basic Financial Statements.
+(16)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF CASH FLOWS
+PROPRIETARY FUNDS
+YEAR ENDED JUNE 30, 2025
+Single Family
+General Finance
+Operating Programs Program Total
+CASH FLOWS FROM OPERATING ACTIVITIES
+Receipt of Loan Payments $ 1,932,146 $ 96,407,573 $ 659,002 $ 98,998,721
+Receipt of Loan Interest Payments - - -
+Purchases of New Loans ( 1,807,813) (377,363,495) - (379,171,308)
+Administrative Fees and Other 33,496,145 87,048,285 1,208,103 121,752,533
+Payments to Employees ( 13,223,211) - - ( 13,223,211)
+Payments to Vendors ( 8,084,704) ( 60,729,772) (15) ( 68,814,491)
+Net Cash Provided (Used) by
+Operating Activities 12,312,563 (254,637,409) 1,867,090 (240,457,756)
+CASH FLOWS FROM CAPITAL AND
+RELATED FINANCING ACTIVITIES
+Purchases of Equipment ( 1,300,879) - - ( 1,300,879)
+Net Cash Used by Capital
+and Related Financing Activities ( 1,300,879) - - ( 1,300,879)
+CASH FLOWS FROM NONCAPITAL
+FINANCING ACTIVITIES
+Transfers from Other Programs 5,450,042 - - 5,450,042
+Transfers to Other Programs ( 496,400) ( 5,450,042) - ( 5,946,442)
+Lease Liability Payments 173,534 - - 173,534
+Proceeds from the Sale of Bonds - 500,000,000 - 500,000,000
+Receipts from Federal Grants 210,474,120 - - 210,474,120
+Payments of Housing Assistance Grants (217,455,170) - - (217,455,170)
+Premium Received from the Sale of Bonds - 21,520,796 - 21,520,796
+Principal Payments on Bonds Payable - ( 94,680,000) - ( 94,680,000)
+Net Cash Provided (Used) by
+Noncapital Financing Activities ( 1,853,874) 421,390,754 - 419,536,880
+CASH FLOWS FROM INVESTING ACTIVITIES
+Sales of Investments - 38,715,005 - 38,715,005
+Purchase of Investments ( 4,260,809) ( 74,338,213) ( 3,105,016) ( 81,704,038)
+Income on Deposits and Investments 83,721 - 831,310 915,031
+Net Cash Provided (Used) by Investing
+Activities ( 4,177,088) ( 35,623,208) ( 2,273,706) ( 42,074,002)
+NET INCREASE (DECREASE) IN CASH AND
+CASH EQUIVALENTS 4,980,722 131,130,137 ( 406,616) 135,704,243
+Cash and Cash Equivalents -
+Beginning of Year 54,739,796 66,396,255 494,077 121,630,128
+CASH AND CASH EQUIVALENTS -
+END OF YEAR $ 59,720,518 $ 197,526,392 $ 87,461 $ 257,334,371
+See accompanying Notes to Basic Financial Statements.
+(17)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF CASH FLOWS
+PROPRIETARY FUNDS (CONTINUED)
+YEAR ENDED JUNE 30, 2025
+Single Family
+General Finance
+Operating Programs Program Total
+RECONCILIATION OF OPERATING INCOME TO
+NET CASH PROVIDED (USED) BY OPERATING
+ACTIVITIES
+Operating Income $ 11,398,452 $ 21,540,258 $ 1,205,004 $ 34,143,714
+Adjustments to Reconcile Operating Income
+to Net Cash Provided (Used) by Operating
+Activities:
+Depreciation and Amortization Expense 703,200 - - 703,200
+Pension Expense Related to the Recognition
+of the Net Pension Liability ( 602,956) - - ( 602,956)
+OPEB Expense Related to the Recognition
+of the Net OPEB Liability 2,152,881 - - 2,152,881
+Changes in Operating Assets and Liabilities:
+Loans Receivable 124,333 ( 280,955,922) 659,002 ( 280,172,587)
+Due From Grantor ( 41,810) - ( 2,010) ( 43,820)
+Accrued Interest Receivables - Loans ( 102,897) ( 2,695,210) 1,672 ( 2,796,435)
+Accounts Receivable 50,297 - - 50,297
+Due from Other Funds ( 1,494,662) - - ( 1,494,662)
+Prepaids ( 3,552,870) - - ( 3,552,870)
+Deferred Outflows - OPEB ( 1,015,788) - - ( 1,015,788)
+Deferred Outflows - Pension ( 217,916) - - ( 217,916)
+Deferred Revenue ( 104,372) - 3,437 ( 100,935)
+Mortgage Escrows 1,782,585 - - 1,782,585
+Accrued Compensated Absences 1,590,307 - - 1,590,307
+Accrued Salaries and Related Payroll
+Expenses 98,806 - - 98,806
+Accounts Payable and Accrued Expenses 2,294,698 - - 2,294,698
+Other Liabilities ( 148,939) 7,617,571 ( 15) 7,468,617
+Deferred Gain on Refunding - ( 144,106) - ( 144,106)
+Deferred Inflows - OPEB ( 1,230,637) - - ( 1,230,637)
+Deferred Inflows - Pension 629,851 - - 629,851
+Total Adjustments 914,111 ( 276,177,667) 662,086 ( 274,601,470)
+Net Cash Provided (Used) by Operating
+Activities $ 12,312,563 $ ( 254,637,409) $ 1,867,090 $ ( 240,457,756)
+See accompanying Notes to Basic Financial Statements.
+(18)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+STATEMENT OF CASH FLOWS
+PROPRIETARY FUNDS (CONTINUED)
+YEAR ENDED JUNE 30, 2025
+Noncash Noncapital Financing Activities
+a. Interest payments on bonds do not include $3,149,311 of amortization of bond premiums,
+$73,211 of amortization of deferred losses on refundings of debt, and $217,315 of amortization
+of deferred gains on refunding of debt that were included in operating revenues and expenses in
+the Single Family Finance Program Funds.
+b. The Authority recorded an increase in the fair value of investments in the amount of $5,144,964
+for the fiscal year ended June 30, 2025.
+c. The Authority recorded $2,430,642 of amortization of servicing release premiums and $49,513
+of amortization of deferred fee revenue in the General Operating Fund.
+Single Family
+General Finance
+Operating Programs Program Total
+Cash is Reported on the Statement of Net
+Position as:
+Cash and Cash Equivalents $ 5,974,775 $ - $ 87,461 $ 6,062,236
+Restricted Cash and Cash Equivalents 53,745,743 197,526,392 - 251,272,135
+Total Cash and Cash Equivalents $ 59,720,518 $ 197,526,392 $ 87,461 $ 257,334,371
+See accompanying Notes to Basic Financial Statements.
+(19)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+The financial statements of South Carolina State Housing Finance and Development
+Authority (the Authority) were prepared in conformity with accounting principles generally
+accepted in the United States of America as applied to governmental entities. The
+Governmental Accounting Standards Board (GASB) is the accepted standard-setting body
+in the United States of America for establishing governmental accounting and financial
+reporting principles. The most significant accounting policies of the Authority are described
+hereafter.
+A. Reporting Entity
+The core of the financial reporting entity is the primary government which has a
+separately elected governing body. As required by generally accepted accounting
+principles, the financial reporting entity includes both the primary government and all of
+its component units. Component units are legally separate organizations for which the
+officials of the primary government are financially accountable. In turn, component units
+may also have component units.
+An organization other than a primary government may serve as a nucleus for a reporting
+entity when it issues separate financial statements. That organization is identified herein
+as a primary entity. The Authority, a primary entity, is a public body, corporate, and
+politic, and is a discretely presented component unit of the state of South Carolina. As
+such, its funds are included in the Annual Comprehensive Financial Report of the state
+of South Carolina as a discretely presented component unit.
+The Authority was established during 1971 pursuant to Section 31-13-20 of the South
+Carolina Code of Laws. The laws of the state of South Carolina and policies and
+procedures specified by the state of South Carolina for state agencies are applicable to
+the Authority. The powers of the Authority were expanded through the passage of the
+South Carolina State Housing Act of 1977 (31-13-10 through 330 and 31-3-1510), and
+as amended during 1982 (31-13-70), 1983 (31-13-80), 1986 (31-1-340), 1988
+(31-13-50), and 1990 (31-13-200).
+The South Carolina State Housing Act empowers the Authority to enter into grants and
+contracts with the federal government and to issue bonds and notes. During 1992, the
+General Assembly amended Chapter 13, Title 13 by adding Article 4 which enacts the
+Housing Trust Fund Act of 1992.
+The Authority’s Board of Commissioners (the Board), whose members are appointed by
+the Governor, is the governing body of the Authority. The Board administers, has
+jurisdiction over, and is responsible for the management of the Authority.
+(20)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+A. Reporting Entity (Continued)
+SC Housing Corp. was formed in 2010 to administer and distribute funds from the U.S.
+Department of Treasury’s Hardest Hit Fund, through the SC HELP Program. SC
+Housing Corp. is governed by a Board of Directors, whose members are appointed by
+the Authority’s Board of Commissioners.
+The SC HELP Program closed in October 2020 and all unused funds were returned to
+Treasury. The entity remains open only for the purpose of releasing liens on
+downpayment assistance loans as they mature or are forgiven.
+The core of the financial reporting entity is the primary government which has a
+separately elected governing body. As required by generally accepted accounting
+principles, the financial reporting entity includes both the primary government and all of
+its component units. Component units are legally separate organizations for which the
+officials of the primary government are financially accountable. In turn, component units
+may also have component units.
+The Authority follows the provisions of GASB Statement No. 14, The Financial Reporting
+Entity, as amended by GASB Statement No. 39, Determining Whether Certain
+Organizations Are Component Units, GASB Statement No. 61, The Financial Reporting
+Entity Omnibus, GASB Statement No. 80, Blending Requirement For Certain
+Component Units, and GASB Statement No. 90, Majority Equity Interests, an
+amendment of GASB Statements No. 14 and No. 61.
+GASB Statement No. 61 clarified previous statements by requiring a financial benefit or
+burden criteria to be present in order for a separate entity to be dependent on a primary
+government and included as a component unit of the primary entity, regardless of
+whether the primary government appoints a voting majority of the organization’s
+governing body. The financial benefit or burden exists if the primary government is
+(a) legally entitled or can access the organization’s resources, or (b) legally obligated or
+has assumed the obligation to finance deficits or provide financial support to the
+organization, or (c) obligated in some manner for the debt of the organization. In
+addition, the relationship to the primary government can also be determined by the
+services provided by the component unit to the citizens, such that separate reporting as
+a major component unit is considered essential to the financial statement users.
+Based on these criteria, the Authority has been determined to be classified as a
+discretely presented component unit of the state of South Carolina and that SC Housing
+Corp. is a blended component unit of the Authority. SC Housing Corp. has no activity
+reported.
+(21)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+A. Reporting Entity (Continued)
+The accompanying financial statements present the financial position, results of
+operations, and cash flows of only that portion of the funds of the state of South Carolina
+that is attributable to the transactions of the Authority and SC Housing Corp. The
+mortgage revenue bonds are special obligations of the Authority and are not a debt,
+grant or loan of the state of South Carolina nor any political subdivision of the state of
+South Carolina, and neither the state of South Carolina nor any political subdivision
+thereof is liable. The bonds are secured by and payable solely from the monies, income,
+and receipts of the Authority pledged for the payment thereof under the bond indentures.
+Payment of the principal or redemption price of, and interest on, all bonds is secured
+ratably and equally by the proceeds of the bonds, revenue (including scheduled
+payments of principal and interest on mortgages and repayments of mortgage loans and
+interest and income received on investments of money held in the funds and accounts),
+and the right, title, and interest of the Authority in and to the mortgage loans.
+B. Fund Accounting
+While separate government-wide and fund financial statements are presented, they are
+interrelated. The governmental activities column incorporates data from governmental
+funds, while business-type activities incorporate data from the Authority’s enterprise
+funds. Separate financial statements are provided for governmental funds and
+proprietary funds. The Authority reports no fiduciary funds. As a general rule, the effect
+of interfund activity has been eliminated from the government‐wide financial statements.
+Fund accounting is the procedure by which resources for various purposes are classified
+for accounting and reporting purposes into funds that are in accordance with specified
+activities or objectives, in accordance with limitations and restrictions imposed by
+sources outside the entity and in accordance with directives issued by the governing
+board.
+The Authority’s funds are classified into two categories: governmental and proprietary.
+Governmental Funds
+Governmental funds finance the Authority’s governmental functions including the
+disbursement of restricted monies. Within the Authority’s governmental funds,
+expendable assets are assigned to the applicable governmental fund according to the
+purposes for which they may or must be used; current liabilities are assigned to the fund
+from which they are to be paid; and the difference between assets and liabilities is fund
+balance.
+(22)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+B. Fund Accounting (Continued)
+Governmental Funds (Continued)
+As such, in accordance with governmental accounting standards, the portions of net
+position/fund balance that are not available for appropriation and are legally segregated
+for a specified use are presented as restricted in the entity-wide and fund statements.
+Housing Trust Fund
+The Housing Trust Fund, a special revenue fund, was established during May 1992
+pursuant to South Carolina Code of Laws, Chapter 31, Article 4. The Authority
+receives funding from a percentage of the documentary stamp tax on instruments
+conveying real property under Title 12. Under this legislation, the Housing Trust Fund
+is to be used to “increase the supply of safe, decent and affordable housing for
+members of the very low-and lower-income individuals and households.”
+Proprietary Funds
+The proprietary funds are used to account for activities similar to those found in the
+private sector, where the determination of operating income is necessary or useful for
+sound financial administration. Goods or services from activities of the Authority are
+provided to outside parties, and such activities are accounted for in an enterprise fund
+type. An enterprise fund accounts for activities that are self-sustaining, primarily through
+user charges or are used when management wants to control or measure costs of
+services.
+The Authority’s proprietary fund category includes the following enterprise funds:
+General Operating Fund
+The General Operating Fund records administrative fees from the U.S. Department
+of Housing and Urban Development (HUD), loan servicing fees, other fee type
+income, and interest earned on loans and investments. These sources of funds as
+well as operating transfers from other programs are used to defray the general and
+administrative expenses of the Authority. The General Operating Fund also accounts
+for HUD funds that are used to provide rental assistance to qualified recipients as
+well as fund loans and grants for various other rental, homeownership, rehabilitation,
+and development activities. The General Operating Fund also accounts for funds
+from the U.S. Department of the Treasury to administer both the Emergency Rental
+and Homeownership Assistance Funds.
+(23)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+B. Fund Accounting (Continued)
+Proprietary Funds (Continued)
+Single Family Finance Programs Fund
+The Single Family Finance Programs Fund accounts for the financing activities of the
+Authority’s Single Family Mortgage Purchase Bond Indenture, the Mortgage
+Revenue Bonds Indenture and the Homeownership Revenue Bond Indenture. The
+proceeds of each series of bonds issued under these three programs are used to
+purchase mortgage loans made to the State of South Carolina’s moderate- to low-
+income citizens who meet federal and Authority eligibility requirements. The three
+indentures generate income to cover the costs of administration and debt service on
+the bonds. Excess funds as determined by cash flow analysis and certification may
+be transferred to the other programs at the discretion of the Authority.
+Program Fund
+The Program Fund was established in accordance with Section 31-13-340 of the
+South Carolina Code of Laws. Monies not required to be accounted for elsewhere
+can be deposited into the Program Fund. This fund is used by the Authority to
+finance special initiatives and down payment assistance loans (both forgivable and
+repayable) as authorized by the Authority’s Board.
+C. Measurement Focus, Basis of Accounting, and Reporting
+The accounting and financial reporting treatment is determined by the applicable
+measurement focus and basis of accounting. Measurement focus indicates the type of
+resources being measured such as current financial resources or economic resources.
+The basis of accounting indicates the timing of recognition in the financial statements of
+various kinds of transactions or events.
+All governmental funds are accounted for using the current financial resources
+measurement focus whereby only current assets and current liabilities generally are
+included on the balance sheet. In accordance with GASB Statement No. 54, Fund
+Balance Reporting and Governmental Fund Type Definitions, the Authority also reports
+the noncurrent portion of outstanding loans receivable on the balance sheet. Operating
+statements of these funds present increases and decreases in fund balance.
+Governmental fund revenues and expenditures are recognized on the modified accrual
+basis of accounting. Revenues and other fund financial resources are recognized during
+the accounting period in which they become both measurable and available to finance
+expenditures. For this purpose, the Authority considers funds to be available if they are
+collected within 60 days of the end of the current fiscal year. Grants and similar items
+are recognized as revenue as soon as all eligibility requirements imposed by the
+provider have been met. Expenditures are recognized during the accounting period in
+which the fund liability is incurred, if measurable.
+(24)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+C. Measurement Focus, Basis of Accounting, and Reporting (Continued)
+Proprietary funds are accounted for via the flow of economic resources measurement
+focus. With the government-wide and this measurement focus, all assets and liabilities
+associated with the operation of these funds are included on the statement of net
+position.
+The Authority recognizes revenues and expenses and the recording of depreciation
+expense for the enterprise fund-type using the accrual basis of accounting. Revenues
+and federal reimbursement type grants are recognized during the accounting period in
+which they are earned and become measurable; expenses are recognized during the
+period incurred, if measurable.
+Transfers of financial resources among funds are recognized in all affected funds during
+the period in which the related interfund receivables and payables arise.
+The Authority has elected to treat all funds as major and present them in separate
+columns.
+D. Restricted Assets and Liabilities Payable from Restricted Assets under Revenue
+Bond Resolutions
+Generally, under the applicable bond indentures, the earnings and receipts of loan
+payments related to investment and mortgage loan assets in the Single Family Finance
+Programs Fund are required to be used to purchase mortgages or for the related debt
+service payments. Because these assets are generally restricted for this purpose, they
+have been reflected as current and noncurrent restricted assets in the accompanying
+statements of net position. Net restricted position for bond reserves are computed July 1
+of each year by a percentage of the then outstanding bond principal in accordance with
+the bond indenture (see Note 2E).
+E. Discounts, Premiums, and Deferred Gains and Losses on Refundings of Debt
+Under provisions of applicable bond indentures, net restricted position not restricted for
+the respective bond reserves of the Single Family Finance Programs Fund are reflected
+as either restricted for debt service or for special programs in the accompanying
+statements.
+(25)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+E. Discounts, Premiums, and Deferred Gains and Losses on Refundings of Debt
+(Continued)
+Bond discounts and premiums are amortized over the terms of the bonds. The deferred
+gains and losses on refundings of debt include the call premiums and the unamortized
+premiums or discounts attributable to the bonds refunded and are amortized over the
+term of the refunded issues or the new issues whichever is shorter, using the bonds
+outstanding method. The deferred gains on refundings of debt represent a deferred
+inflow of resources, which is reported separately on the statement of net position. The
+deferred losses on refundings of debt represent a deferred outflow of resources, which is
+reported separately on the statement of net position. Amortization of bond discounts and
+premiums and deferred losses and gains on refunding of debt are included in interest
+expense.
+F. Federally Assisted Program Advances and Fees
+In accordance with the terms of contracts between the Authority and HUD, the Authority
+administers Section 8 Housing Assistance Payments Programs, Contract Administration,
+and the Housing Choice Voucher Program, the Mainstream 5 Voucher Program and the
+Emergency Voucher Program in certain areas of South Carolina. Under these programs,
+housing assistance payments are made to eligible individuals or to owners of rental
+housing on behalf of persons of limited income who meet the eligibility requirements.
+Generally, HUD advances the Authority sufficient funds to cover the current month’s
+housing assistance payments before such disbursements are made by the Authority.
+Additionally, HUD advances funds on a monthly basis for the Authority’s costs of
+administering the subsidy contracts. These administrative fees are recognized as
+operating revenues when earned in the General Operating Fund. Because such funds
+are generally restricted as to purpose, they have been reflected in the restricted portion
+of the accompanying statements where appropriate.
+The Authority also administers the Home Investments Partnership Program and
+Neighborhood Stabilization Program. The Home Investments Partnership Program
+provides loans and grants to local governments and nonprofit entities to assist private
+property owners in building new and rehabilitating existing rental housing for low-income
+tenants. The Home Investments Partnership Program also provides forgivable and
+repayable down payment assistance loans to qualified first time homebuyers. The
+Neighborhood Stabilization Program provides grants to other entities, primarily local
+governments and nonprofit entities, to purchase foreclosed or abandoned properties and
+to rehabilitate, resell, or redevelop these properties in order to stabilize neighborhoods
+and stem the decline of value for other homes in the neighborhood. Under both of these
+programs, an administrative fee is drawn from HUD to reimburse the Authority, as well
+as the entity that has been awarded funds under the program, for administrative costs.
+These administrative fees are recognized as operating revenues when earned.
+(26)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+F. Federally Assisted Program Advances and Fees (Continued)
+Funds granted and passed through by the Authority are included in the accompanying
+financial statements in the General Operating Fund as nonoperating revenues and
+expenses.
+The Authority is also currently administering the Emergency Rental Assistance Program
+and the Homeowners Assistance Fund Program, both funded by the U.S. Department of
+Treasury. Unlike the HUD pass-through programs, the Treasury programs were funded
+to the state in full, via several tranches of payments. The programs allow for 10% - 15%
+of the funds to be used for administrative expenses. The programs have varying sunset
+dates, with the last being September 30, 2025. Funds for these programs are expected
+to be fully expended by the sunset date for each program.
+G. Cash and Cash Equivalents
+Amounts denoted in the financial statements as “cash and cash equivalents” represent
+cash on deposit in banks and cash on deposit with the State Treasurer’s Office.
+For purposes of the statement of cash flows, the Authority considers all highly liquid debt
+instruments purchased with a maturity of three months or less at the time of acquisition
+to be cash equivalents.
+Most state agencies, including the Authority, participate in the state of South Carolina’s
+cash management pool. Because the cash management pool operates as a demand
+deposit account, amounts invested in the pool are classified as cash and cash
+equivalents. The State Treasurer administers the cash management pool. The cash
+management pool includes some long-term investments such as obligations of the
+United States and certain agencies of the United States, obligations of the state of South
+Carolina and certain of its political subdivisions, certificates of deposit, collateralized
+repurchase agreements, and certain corporate bonds.
+The state of South Carolina’s cash management pool consists of a general deposit
+account and several special deposit accounts. The state of South Carolina records each
+fund’s equity interest in the general deposit account; however, all earnings on that
+account are credited to the General Fund of the state of South Carolina.
+(27)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+G. Cash and Cash Equivalents (Continued)
+Interest earned by the Authority on amounts held in special deposit accounts is posted to
+the Authority’s accounts at the end of each month and is retained by the Authority.
+Interest earnings are allocated based on the percentage of the Authority’s accumulated
+daily interest income receivable to the total income receivable of the cash management
+pool. Reported interest income includes interest earnings at the stated rate, realized
+gains/losses, and unrealized gains/losses arising from changes in fair value on
+investments held by the cash management pool. Realized gains and losses are
+allocated daily and are included in the receivable. Unrealized gains and losses are
+allocated at year-end based on the Authority’s percentage ownership in the cash
+management pool.
+Although the cash management pool may include some long-term investments, it
+operates as a demand deposit account. Credit risk information pertaining to the cash
+management pool is contained in Note 2D.
+The Authority has funds in State Treasurer accounts not included in the state’s cash
+management pool and at other institutions. For these accounts, cash equivalents include
+investments in short- term, highly liquid securities having an initial maturity of three
+months or less at the time of acquisition.
+The Authority records and reports its deposits in the general deposit account at cost but
+reports its deposits in the special deposit accounts at fair value.
+H. Investments
+In accordance with GASB Statement No. 31, Accounting and Financial Reporting for
+Certain Investments and for External Investment Pools, Government National Mortgage
+Association (GNMA), Federal National Mortgage Association (FNMA), Mortgage Backed
+Securities (MBS), and the state of South Carolina’s cash management pool are recorded
+at fair value and unrealized gains or losses are reported in the statement of revenues,
+expenses, and changes in net position.
+In accordance with GASB Statement No. 72, Fair Value Measurement and Application,
+the Authority uses valuation techniques that are appropriate under the circumstances
+and for which sufficient data are available to measure fair value of investments.
+(28)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+I. Loans Receivable
+Loans receivable consist of mortgage loans, which are carried at par. Most mortgage
+loans in the Single Family Finance Programs Fund as well as the single family mortgage
+loans of approximately $90 million in the General Operating and Program Fund are
+insured with various governmental agencies and private mortgage insurance carriers at
+specified percentages of the original loan amount varying from 18% to 100%. Loans
+closed after July 29, 1999, are covered by the Homeowners Protection Act. Private
+mortgage insurance is cancelled after the loan-to- value ratio reaches 78% as provided
+by federal law. The Authority considers the mortgaged property as adequate collateral
+against significant potential loan losses for such uninsured properties. Most loans made
+from the Housing Trust Fund and a portion of the loans in the General Operating Fund
+are not single family mortgage loans and are not insured.
+Management is of the opinion that the mortgage insurance coverage, in addition to over-
+collateralization, is adequate to cover any significant potential loan losses under the
+Single Family Finance Programs should they occur. Loans determined to be
+uncollectible and unrecoverable from mortgage insurance carriers are charged off
+against program income. The Authority has recorded allowances for doubtful loans
+which are considered adequate.
+J. Prepaid Items
+Certain payments to vendors reflect costs applicable to future accounting periods.
+Servicing Release Premium (SRP) means the fee included with the Purchase Price as
+compensation to the Originator for release of the right to service the mortgage loan,
+which shall be based on an amount equal to 1.50% of the principal amount of the
+mortgage loan (FHA Insured, Rural Development Guaranty, Veterans Administration, or
+Conventional Mortgage Loans) purchased by the Authority. The Housing Authority
+records these payments as prepaid items in both the government-wide and fund
+financial statements. The state’s policy is to reflect consumption of the future benefit
+under the consumption method.
+K. Capital Assets
+Capital assets are recorded at cost at the date of acquisition. The Authority follows
+capitalization guidelines established by the state of South Carolina. The Authority
+capitalizes furniture and equipment with a unit value exceeding $5,000 and an estimated
+useful life of more than two years. Routine repairs and maintenance are charged to
+operating expenses during the year in which the expense was incurred.
+(29)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+K. Capital Assets (Continued)
+Depreciation is computed using the straight-line method over estimated useful lives of
+3 to 10 years for furniture and equipment. Currently, the Authority owns personal
+property only and owns no real property (land, buildings, attachments, etc.).
+The Authority is a lessee for noncancelable leases of office space. The Authority
+recognizes a lease liability and an intangible right-to-use lease asset (lease asset) in the
+statement of net position. The Authority recognizes lease liabilities with an initial,
+individual value of $5,000 or more.
+At the commencement of a lease, the Authority initially measures the lease liability at the
+present value of payments expected to be made during the lease term. Subsequently,
+the lease liability is reduced by the principal portion of lease payments made. The lease
+asset is initially measured as the initial amount of the lease liability, adjusted for lease
+payments made at or before the lease commencement date, plus certain initial direct
+costs. Subsequently, the lease asset is amortized on a straight‐line basis over its useful
+life.
+Key estimates and judgments related to leases include how the Authority determines
+(1) the discount rate it uses to discount the expected lease payments to present value,
+(2) lease term, and (3) lease payments.
+ The Authority uses the interest rate charged by the lessor as the discount rate.
+When the interest rate charged by the lessor is not provided, the Authority
+generally uses its estimated incremental borrowing rate as the discount rate for
+leases.
+ The lease term includes the noncancelable period of the lease. Lease payments
+included in the measurement of the lease liability are composed of fixed
+payments and purchase option price that the Authority is reasonably certain to
+exercise.
+The Authority monitors change in circumstances that would require a remeasurement of
+its lease and will remeasure the lease asset and liability if certain changes occur that are
+expected to significantly affect the amount of the lease liability.
+Lease assets are reported with other capital assets and lease liabilities are reported with
+accounts payable and accrued expenses for current and long-term liabilities for
+noncurrent on the statement of net position.
+(30)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+L. Subscription-Based Information Technology Arrangements (SBITA)
+SBITA assets are initially measured as the sum of the present value of payments
+expected to be made during the subscription term, payments associated with the SBITA
+contract made to the SBITA vendor at the commencement of the subscription term,
+when applicable, and capitalizable implementation costs, less any SBITA vendor
+incentives received form the SBITA vendor at the commencement of the SBITA term.
+SBITA assets are amortized in a systematic and rational manner over the shorter of the
+subscription term or the useful life of the underlying IT assets.
+M. Mortgage Escrows
+Under provisions of certain mortgage loan agreements, the Authority is responsible for
+collecting deposits from homeowners for payment of property taxes and insurance. This
+is recorded as a current liability and paid from restricted assets.
+N. Compensated Absences
+The liability for compensated absences consists of leave that has not been used that is
+attributable to services already rendered, accumulates and is more likely than not to be
+used for time off or otherwise paid in cash or settled through noncash means. The
+liability also includes amounts for leave that has been used for time off but has not yet
+been paid in cash or settled through noncash means and certain other types of leave
+O. Unearned Revenue
+Unearned revenue are funds received in advance of the period in which they are earned
+and are recorded as a liability in the statement of net position. As of June 30, 2025,
+unearned revenue of $32,065,735 consisted of the following:
+Unearned
+Revenue
+Compliance Monitoring $ 1,844,273
+Neighborhood Stabilization Program -
+Program Income 1,766,709
+Emergency Rental Assistance #2 - Unspent Funds 24,913,360
+Homeowners Assistance Fund - Unspent Funds 3,056,202
+Emergency Housing Vouchers - Unspent
+Service Fees 418,136
+Program Fund - Unspent Funds 3,437
+Loan Servicing and Miscellaneous Prepaid 63,618
+Total Unearned Revenue $ 32,065,735
+(31)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+P. Rebatable Arbitrage
+Arbitrage involves the investment of proceeds from the sale of tax-exempt debt in a
+taxable investment that yields a higher rate than the rate of the obligation. This results in
+income in excess of interest costs. Federal law requires entities to rebate to the
+government such income on tax- exempt debt if the yield from those earnings exceeds
+the effective yield on the related tax-exempt debt issued. Governmental units may avoid
+the requirement to rebate the “excess” earnings to the federal government under certain
+circumstances if they issue no more than $5 million in total of all such debt in a calendar
+year and if they meet specified targets for expenses of the proceeds and interest
+earnings thereon. For this purpose, tax-exempt indebtedness includes bonds, notes, and
+certain capital leases and installment purchases. The federal government only requires
+arbitrage to be calculated, reported, and paid every five years or at maturity of the debt,
+whichever is earlier. However, the potential liability is calculated annually for financial
+reporting purposes. At June 30, 2025, the Authority had no arbitrage rebate liability
+associated with the Authority’s Mortgage Revenue Bonds outstanding.
+Q. Budget Policy
+The Appropriations Act as enacted by the General Assembly becomes the legal
+operating budget for the Authority. The Appropriations Act authorizes expenditures from
+funds appropriated from the General Fund of the state of South Carolina and authorizes
+expenditures of Total Funds. The Total Funds column in the Appropriations Act for each
+individual budgetary unit authorizes expenditures from all budgeted resources. A
+revenue budget is not adopted for individual budgetary units. The General Assembly
+enacts the budget through passage of line-item appropriations by program within
+budgetary unit within budgetary fund category, State General Fund or other budgeted
+funds. Budgetary control is maintained at the line-item level of the budgetary entity.
+Agencies may process disbursement vouchers in the state of South Carolina’s
+budgetary accounting system only if enough appropriation authorization exists and
+generally if sufficient cash is on hand.
+Under GASBS No. 34, budgetary comparison information is required to be presented for
+each major special revenue fund with a legally adopted budget. The Authority is not
+legally required to adopt a budget for the Housing Trust Fund. Therefore, budget
+comparison information is not included in the Authority’s financial statements.
+(32)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+R. Operating and Non-operating Revenues and Expenses
+The Authority distinguishes operating revenues and expenses from nonoperating items.
+Operating revenues and expenses generally result from providing services and
+delivering goods in connection with the proprietary fund’s principal ongoing operations
+including granting and collecting loans. The Authority’s primary operating revenues are
+from administrative fees for the administration of HUD programs and interest and other
+charges on loans. Operating expenses include the Authority’s administrative expenses
+and depreciation on capital assets. All revenues and expenses (excluding bond interest
+expense) not meeting this definition are reported as nonoperating revenues and
+expenses.
+S. Net Position and Fund Balance
+Net position or fund balance is presented in the following components or classifications:
+Net Investment in Capital Assets – Consists of capital assets, right to use assets, net
+of accumulated depreciation and amortization, and reduced by the outstanding
+balances of any bonds, mortgages, notes, or other borrowings that are attributable to
+the acquisition, construction, or improvement of those assets, and the lease liability
+associated with the right to use asset.
+Restricted Net Position – Net position or fund balance, for enterprise or
+governmental fund types, respectively, are reported as restricted when constraints
+placed on resource use are restricted by legal and/or contractual requirements.
+Generally, such assets have use restrictions placed on them by (1) external parties
+such as creditors, grantors, contributions, or laws or regulations of other
+governments; or (2) laws of the enabling government. The Authority’s restrictions are
+primarily due to requirements of bond indentures, South Carolina law and federal
+program requirements. Amounts restricted for housing projects and development
+include funds that have been set aside for projects approved by the Board of
+Commissioners and unspent bond proceeds for single family housing.
+Unrestricted Net Position – For business-type activities, all assets not meeting the
+definition of “restricted” or “net investment in capital assets” are classified as
+unrestricted.
+(33)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+S. Net Position and Fund Balance (Continued)
+Other Governmental Fund Balance Classifications – The Authority follows the
+provisions of GASB Statement No. 54, Fund Balance Reporting and Governmental
+Fund Type Definitions. Under GASB Statement No. 54, all governmental fund assets
+of the Authority not meeting the definition of "restricted" are classified as
+“nonspendable,” “committed,” “assigned,” or “unassigned” as appropriate. The
+nonspendable fund balance classification includes amounts that cannot be spent
+because they are not in spendable form, or legally or contractually required to be
+maintained intact. The nonspendable fund balance includes long-term loan
+receivables.
+For governmental funds, it is the policy of the Authority to spend unassigned fund
+balances first followed thereafter by restricted, committed, and assigned resources
+as needed.
+For business-type activities, when both restricted and unrestricted resources are
+available, it is the policy of the Authority to spend restricted resources first followed
+thereafter by unrestricted resources as needed.
+T. Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates and
+assumptions at the date of financial statement preparation that affect certain reported
+amounts of assets, liabilities, revenues, expenses, and disclosures of contingent assets
+and liabilities, for the reporting period. Actual results may differ from those estimates.
+U. Pension Plan
+For purposes of measuring the net pension liability, deferred outflows of resources, and
+deferred inflows of resources related to pensions and pension expense, information
+about the fiduciary net position of the South Carolina Retirement System (SCRS), as
+well as additions to and deductions from SCRS’ fiduciary net position, have been
+determined on the same basis as they are reported by SCRS. For this purpose, benefit
+payments (including refunds of employee contributions) are recognized when due and
+payable in accordance with the benefit terms. Investments are reported at fair value.
+(34)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 1 SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+V. Other Postemployment Benefits (OPEB)
+For purposes of measuring the net OPEB liability, deferred outflows of resources, and
+deferred inflows of resources related to OPEB and OPEB expense, information about
+the fiduciary net position of the South Carolina Retiree Health Insurance Trust Fund
+(SCRHITF), as well as additions to and deductions from SCRHITF’s fiduciary net
+position, have been determined on the same basis as they are reported by SCRHITF.
+For this purpose, revenues are recognized when earned and expenses are recognized
+when incurred. Therefore, benefit and administrative expenses are recognized when due
+and payable. Investments are reported at fair value.
+W. Deferred Outflows of Resources and Deferred Inflows of Resources
+Changes in the net pension liability, net OPEB liability included in pension expense or
+OPEB expense, respectively, reported as deferred outflows of resources or deferred
+inflows of resources. Employer contributions made subsequent to the measurement date
+of the net pension liability and net OPEB liability are reported as deferred outflows of
+resources. Deferred outflows of resources and deferred inflows of resources are also
+determined by the difference in actual and expected liability experience, projected and
+actual returns on investments, deferred amounts from changes in the Authority’s
+proportionate share, changes in assumptions, and differences between the Authority’s
+contributions and its proportionate share of the total employer contributions to the plans.
+Deferred outflows of resources and deferred inflows of resources also include deferred
+losses and deferred gains on bond refundings, respectively.
+X. Adoption of New Accounting Standard
+For the year ended June 30, 2025, the Authority adopted GASB Statement Number 101,
+Compensated Absences. This statement updated the recognition and measurement
+guidance for compensated absences and associated salary-related payments and
+amended certain previously required disclosures. The compensated absence liability
+was adjusted for the implementation of this standard. The impact of the standard was
+immaterial to the financial statements, thus the financial statements were not restated.
+Y. Subsequent Events
+In preparing these financial statements, the Authority has evaluated events and
+transactions for potential recognition or disclosure through September 26, 2025, the date
+these financial statements were available to be issued. See Note 15 for additional
+information regarding subsequent events.
+(35)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 2 DEPOSITS AND INVESTMENTS
+Financial Statements
+Current Assets:
+Cash and Cash Equivalents:
+Unrestricted $ 6,062,236
+Restricted 254,406,800
+Investments:
+Restricted 347,323,454
+Noncurrent Assets:
+Investments:
+Restricted 37,627,444
+Total $ 645,419,934
+Footnotes:
+Deposits:
+Deposits Held by State Treasurer $ 34,137,985
+Deposits with Banks 226,331,051
+Total Deposits 260,469,036
+Investments:
+State Treasurer 225,550,776
+Other Investments 159,400,122
+Total Investments 384,950,898
+Total $ 645,419,934
+A. Deposits
+All deposits of the Authority are insured or collateralized by using the dedicated method.
+Under the dedicated method, all deposits that exceed the federal depository insurance
+coverage level are collateralized with securities held by each of the depository banks. At
+June 30, 2025, excluding the deposits held by the State Treasurer of $34,137,985, the
+Authority’s cash had a carrying amount of $226,331,051 and a bank balance of
+$227,722,259. Of that balance, $750,000 was covered by federal depository insurance
+and the remainder was covered by collateral held under the dedicated method.
+(36)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 2 DEPOSITS AND INVESTMENTS (CONTINUED)
+B. Deposits Held by State Treasurer
+State law requires full collateralization of all deposits and investments of state funds. The
+depository institution must correct any deficiencies in collateral within seven days. With
+respect to investments in the state’s cash management pool, all of the state Treasurer’s
+investments are insured or registered or are investments for which the securities are
+held by the state or its agents in the state’s name. Information pertaining to the reported
+amounts, fair values, and credit risk of the state Treasurer’s investments is disclosed in
+the Annual Comprehensive Financial Report of the State of South Carolina.
+C. Investments
+At June 30, 2025, the Authority’s investment balances were as follows:
+Less Than Greater Than
+Fair Value 1 Year 1 Year
+SC State Treasurer Pool $ 225,550,776 $ 225,550,776 $ -
+U.S. Treasuries 125,772,678 121,772,678 4,000,000
+Government National Mortgage
+Association Insured Mortgage-
+Backed Securities (GNMAs) 25,058,406 - 25,058,406
+Federal National Mortgage
+Association Mortgage-Backed
+Securities (FNMAs) 8,569,038 - 8,569,038
+Total $ 384,950,898 $ 347,323,454 $ 37,627,444
+The Authority categorizes its fair value measurements within the fair value hierarchy
+established by generally accepted accounting principles. The hierarchy is based on the
+valuation inputs used to measure the fair value of the asset. Level 1 inputs are quoted
+prices in active markets for identical assets. Level 2 inputs are significant other
+observable inputs. Level 3 inputs are significant unobservable inputs. GNMAs and
+FNMAs are backed by HUD and have a credit rating of AAA.
+The Authority has the following recurring fair value measurements as of June 30, 2025:
+The South Carolina Treasurer’s Pool of $225,550,776 is valued using quoted prices for
+similar assets or liabilities in active markets (Level 2 inputs). U.S. Treasuries of
+$125,772,678, GNMAs of $25,058,406 and FNMAs of $8,569,038 are valued using a
+matrix pricing model (Level 2 inputs).
+(37)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 2 DEPOSITS AND INVESTMENTS (CONTINUED)
+D. Investment Risk Factors
+There are a number of variables that affect the value of investments. These risks are
+discussed below.
+Interest Rate Risk
+Interest rate risk is the risk that the value of fixed income securities will decline because
+of changes in interest rates. It is the Authority’s policy to limit interest rate risk by calling
+debt as quickly as allowed. During the fiscal year ended June 30, 2025, the Authority
+called over $82.2 million in debt prior to maturity.
+Custodial Credit Risk
+For a deposit, the custodial credit risk is the risk that in the event of the failure of the
+counterparty, the Authority will not be able to recover the value of its deposits,
+investments, or collateral securities held by an outside party. The Authority has no policy
+on custodial credit risk.
+Credit Risk
+The Authority follows Section 11-9-660 of the South Carolina Code of Laws regarding
+credit risk. The Authority places a portion of its funds on deposit in the state’s cash
+management pool. Although the state’s cash management pool itself is unrated, it is
+invested according to the requirements of state law, which allows only limited
+investments in instruments subject to credit risk. State law further requires that
+investments in obligations of corporations and in state or political subdivisions of the
+United States have an investment grade rating from at least two nationally recognized
+rating agencies.
+Concentration of Credit Risk
+The Authority places no limit on the amount it may invest in any one issuer. The
+Authority’s investments are as follows: State Treasurer Investment Pools (58.6%), U.S.
+Treasuries (32.7%), GNMAs (6.5%), and FNMAs (2.2%).
+(38)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 2 DEPOSITS AND INVESTMENTS (CONTINUED)
+E. Restricted Deposits and Investments
+Under provisions of applicable bond indentures, the Authority is required to restrict
+sufficient assets with an independent trustee (The Bank of New York/Mellon) in the
+Single Family Finance Program Funds in order to meet reserve requirements for
+payment of debt service on bonds. The required and actual reserve amounts for each
+program at June 30, 2025, are as follows:
+Reserve Actual
+Requirements Funding Over
+Single-Family Indenture Bond
+Reserve Funds $ 161,250 $ 294,457 $ 133,207
+Mortgage Revenue Indenture
+Bond Reserve Funds 45,571,200 47,303,396 1,732,196
+Total $ 45,732,450 $ 47,597,853 $ 1,865,403
+NOTE 3 LOANS RECEIVABLE
+Loans receivable consist of the following:
+Governmental Funds:
+Housing Trust Fund notes maturing on various dates
+from 2025-2055 plus interest ranging from
+0.000%-4.000% per annum, payable in monthly
+installments of principal and interest, as provided in the
+notes, reported net of allowance for doubtful accounts
+of $-0-. $ 21,220,530
+Total Governmental Funds $ 21,220,530
+Proprietary Funds:
+General Operating Fund notes maturing on various
+dates from 2025-2060 plus interest ranging from
+0.000%-6.000% per annum, payable in installments of
+principal and interest as provided in the notes, reported
+net of allowance for doubtful accounts of $24,000. $ 87,936,314
+Program Fund notes maturing on various dates from
+2025- 2041 plus interest ranging from 0.000%-4.000%
+per annum, payable in monthly installments of principal
+and interest as provided in the notes, reported net of
+allowance for doubtful accounts of $798,000. 1,242,170
+Single Family Finance Programs notes maturing on
+various dates from 2025-2055 plus interest ranging from
+0.000%-9.500% per annum, payable in monthly
+installments of principal and interest, reported net of
+allowance for doubtful accounts of $1,299,000. 1,540,438,974
+Total Proprietary Funds $ 1,629,617,458
+(39)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 3 LOANS RECEIVABLE (CONTINUED)
+The Authority issues various loans that will be forgiven once certain criteria are met. Due to
+the nature of these loans, they are recorded as grants and expensed in the year issued. If
+the borrower fails to satisfy the conditions of the underlying agreement, and the loan
+becomes due, the Authority will recognize a recovery equal to the amount repaid. For the
+fiscal year ending June 30, 2025, the Authority recovered $1,968,800 of previously
+expensed loans and issued $13,344,341 in forgivable loans. As of June 30, 2025, the
+balance of forgivable loans issued is $57,679,515.
+NOTE 4 CAPITAL ASSETS
+Capital asset activity for the fiscal year ended June 30, 2025, was as follows:
+Beginning Ending
+Balance Increases Decreases Adjustments Balance
+Capital Assets, Depreciable/Amortizable:
+Right-to-Use Asset - Building $ 4,243,880 $ - $ - $ - $ 4,243,880
+Right-to-Use Asset - Copiers 56,156 - - - 56,156
+Equipment and Furniture 2,933,201 81,293 - - 3,014,494
+Right-to-Use Subscription Assets - 1,399,889 - - 1,399,889
+Total Capital Assets,
+Depreciable/Amortizable 7,233,237 1,481,182 - - 8,714,419
+Less: Accumulated Amortization of:
+Right-to-Use Asset - Building (282,925) (424,388) - - (707,313)
+Right-to-Use Asset - Copiers (14,009) (11,239) - - (25,248)
+Equipment and Furniture (2,435,104) (117,217) - (180,303) (2,732,624)
+Right-to-Use Subscription Assets - (150,356) - - (150,356)
+Less: Accumulated Depreciation (2,732,038) (703,200) - (180,303) (3,615,541)
+Total Capital Assets, Net of
+Accumulated Amortization/
+Depreciation $ 4,501,199 $ 777,982 $ - $ (180,303) $ 5,098,878
+The lease for office space has been renewed for 10 years from November 1, 2023, to
+October 31, 2033. The Authority entered into long-term subscription-based IT arrangements
+(SBITAs) that expires in various dates from 2029 through to 2032. The lease payments are
+included below.
+(40)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 4 CAPITAL ASSETS (CONTINUED)
+Future minimum annual lease payments under noncancelable leases with remaining terms
+in excess of one year are as follows:
+Year Ending June 30, Principal Interest Total
+2026 $ 342,588 $ 147,471 $ 490,059
+2027 371,986 132,445 504,431
+2028 389,635 116,138 505,773
+2029 421,208 99,778 520,986
+2030 454,465 82,108 536,573
+2031-2034 1,777,924 127,758 1,905,682
+Total Leases with External Entities $ 3,757,806 $ 705,698 $ 4,463,504
+Future minimum annual SBITAs with remaining terms in excess of one year are as follows:
+Year Ending June 30, Principal Interest Total
+2026 $ 79,286 $ 30,306 $ 109,592
+2027 86,609 26,271 112,880
+2028 94,404 21,862 116,266
+2029 102,697 17,057 119,754
+2030 111,517 11,830 123,347
+2031 120,894 6,154 127,048
+Total SBITAs $ 595,407 $ 113,480 $ 708,887
+NOTE 5 CHANGES IN LONG-TERM LIABILITIES
+Long-term liabilities activity for the fiscal year ended June 30, 2025, was as follows:
+Beginning Ending Due Within
+Balance Increases Decreases Balance One Year
+Bond Payable: $ 1,119,095,000 $ 500,000,000 $ (94,680,000) $ 1,524,415,000 $ 23,035,000
+Unamortized Premiums 55,012,944 29,928,470 (8,407,674) 76,533,740 3,107,983
+Total Bonds Payable 1,174,107,944 529,928,470 (103,087,674) 1,600,948,740 26,142,983
+Net Pension Liability 15,885,696 - (602,956) 15,282,740 -
+Net OPEB Liability 10,734,888 2,152,881 - 12,887,769 -
+*Accrued Compensated
+Absences 1,021,835 1,590,307 - 2,612,142 1,132,234
+Leases and Subscription Payable 4,072,667 681,607 (401,061) 4,353,213 421,874
+Total Other Long-Term
+Liabilities 31,715,086 4,424,795 (1,004,017) 35,135,864 1,554,108
+Total Long-Term
+Liabilities $ 1,205,823,030 $ 534,353,265 $ (104,091,691) $ 1,636,084,604 $ 27,697,091
+*Activity is shown net, as allowable under GASB 101.
+(41)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 5 CHANGES IN LONG-TERM LIABILITIES (CONTINUED)
+The following is a summary of lease liability of the Authority for the year ended June 30,
+2025:
+Beginning Ending Due Within
+Balance Increases Decreases Balance One Year
+Total Equipment Lease Liability $ 4,072,667 $ - $ (314,861) $ 3,757,806 $ 342,588
+The following is a summary of subscription liability of the Authority for the year ended
+June 30, 2025:
+Beginning Ending Due Within
+Balance Increases Decreases Balance One Year
+Total Subscription Liability $ - $ 681,607 $ (86,200) $ 595,407 $ 79,286
+NOTE 6 BONDS PAYABLE
+At June 30, 2025, bonds payable, including unamortized premiums, consisted of the
+following:
+Date Issue Outstanding
+Issued Amount Balance
+Single-Family Mortgage Purchase Bonds:
+(5.00% to 5.50%) due 2022-2035 09/11/98 $ 106,975,000 $ 5,375,000
+Plus: Unamortized Premium 206,837
+Total 5,581,837
+Mortgage Revenue Bonds:
+2015A (3.00% to 4.00%) due 2022-2037 07/07/15 39,595,000 2,345,000
+2016A (1.45% to 4.00%) due 2022-2036 02/23/16 30,000,000 1,380,000
+2016B (1.25% to 4.00%) due 2022-2043 08/02/16 67,000,000 18,605,000
+2017A (1.90% to 4.00%) due 2022-2047 01/19/17 50,000,000 695,000
+2017B (1.25% to 4.00%) due 2022-2047 09/07/17 55,000,000 18,415,000
+2018A (1.90% to 4.50%) due 2022-2049 08/14/18 70,000,000 18,180,000
+2019A (1.50% to 4.00%) due 2022-2050 07/02/19 74,000,000 30,855,000
+2019B (1.25% to 3.75%) due 2022-2050 11/14/19 111,800,000 68,455,000
+2020A (1.20% to 4.00%) due 2022-2050 04/30/20 115,000,000 73,700,000
+2020B (0.25% to 3.25%) due 2022-2052 10/08/20 123,280,000 94,055,000
+2021A (0.10% to 5.00%) due 2022-2052 09/09/21 166,000,000 134,600,000
+2022A (1.15% to 5.00%) due 2022-2052 04/26/22 84,000,000 69,065,000
+2022B (2.40% to 5.00%) due 2023-2052 08/23/22 160,000,000 147,015,000
+2023B (3.45% to 6.00%) due 2023-2054 09/21/23 100,000,000 94,835,000
+2024A (3.65% to 6.25%) due 2023-2054 02/14/24 150,000,000 146,850,000
+2024B (3.75% to 6.00%) due 2025-2055 08/22/24 150,000,000 149,280,000
+2025A (3.875% to 6.50%) due 2026-2056 01/30/25 172,000,000 172,000,000
+2025B (4.25% to 6.50%) due 2026-2056 06/12/25 178,000,000 178,000,000
+Plus: Unamortized Premium 76,326,903
+Total 1,595,366,903
+Total Bonds Payable, Including
+Unamortized Premiums $ 1,600,948,740
+(42)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 6 BONDS PAYABLE (CONTINUED)
+Amounts, including interest, required to complete payment of the bond obligations as of
+June 30, 2025, are as follows:
+Year Ending June 30, Principal Interest Total
+2026 $ 23,035,000 $ 62,902,907 $ 85,937,907
+2027 31,595,000 67,007,443 98,602,443
+2028 33,530,000 65,683,890 99,213,890
+2029 35,025,000 64,252,668 99,277,668
+2030 35,720,000 62,758,219 98,478,219
+2031-2035 212,100,000 289,928,641 502,028,641
+2036-2040 251,165,000 244,365,697 495,530,697
+2041-2045 295,420,000 188,302,546 483,722,546
+2046-2050 323,650,000 118,251,066 441,901,066
+2051-2055 278,050,000 39,644,538 317,694,538
+2056 5,125,000 166,563 5,291,563
+Total $ 1,524,415,000 $ 1,203,264,178 $ 2,727,679,178
+The Authority has the option to redeem most of its bonds prior to maturity as specified under
+each bond issue. These early redemptions are funded by mortgage pre-payments and other
+income. The mortgage pre-payment rate varies from year to year and determines the amount
+of funds available to call bonds prior to maturity. Below is a listing of the Single Family Finance
+Program bonds redeemed prior to their maturity during the fiscal year ended June 30, 2025:
+Single Family Finance Programs:
+Single Family Mortgage Purchase Bonds:
+Series 1998A $ -
+Mortgage Revenue Bonds:
+Series 2014A 1,340,000
+Series 2015A 895,000
+Series 2016A 960,000
+Series 2016B 3,295,000
+Series 2017A 1,875,000
+Series 2017B 3,740,000
+Series 2018A 4,255,000
+Series 2019A 5,655,000
+Series 2019B 6,760,000
+Series 2020A 9,460,000
+Series 2020B 8,100,000
+Series 2021A 11,550,000
+Series 2022A 5,435,000
+Series 2022B 7,355,000
+Series 2023A 3,595,000
+Series 2023B 5,070,000
+Series 2024A 2,785,000
+Series 2024B 720,000
+Subtotal 82,845,000
+Total $ 82,845,000
+(43)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 6 BONDS PAYABLE (CONTINUED)
+During the reporting period, the Authority issued $500,000,000 in Mortgage Revenue Bonds
+Series 2024B, 2025A, and 2025B, with fixed interest rates ranging from 3.75% to 6.50%.
+The proceeds of 2024B, 2025A, and 2025B will purchase first-time homeowner mortgages.
+The proceeds of 2022C are invested until released as a result of refunding the notes; 2023B
+represents the first tranche of refunding. The Bonds were issued at premiums of
+$8,610,333, $10,754,105, and $10,564,032, respectively, with underwriters’ fees of
+$1,011,033, $1,152,242, and $1,194,925, respectively.
+Bond Issue Issued Underwriters
+Series Date Amount From To Premium Fees
+2024B 08/22/24 $ 150,000,000 3.75% 6.00% $ 8 ,610,333 $ 1 ,011,033
+2025A 01/30/25 172,000,000 3.88% 6.50% 10,754,105 1,152,242
+2025B 06/12/25 178,000,000 4.25% 6.50% 10,564,032 1,194,925
+Total $ 500,000,000 $ 29,928,470 $ 3,358,200
+Bond premium amortized for the fiscal year ended June 30, 2025, and attributable to the
+Single Family Finance Programs Fund bonds totaled $3,149,311 and was reported as
+interest expense in the fund.
+Amortization of net deferred gains on refundings of debt of $144,104 for the fiscal year
+ended June 30, 2025, was attributable to the Single Family Finance Programs Fund bonds
+and was included in interest expense in the fund.
+All bonds are secured by all mortgage loans, the documents evidencing and securing such
+mortgage loans, the mortgage purchase agreements and servicing agreements, and any
+other assets acquired with the bond proceeds. Terms of the Authority’s bond resolutions
+include certain events of default, which upon occurrence, could result in the bonds
+becoming immediately due and payable. Such events include (but are not limited to) failure
+to pay any principal or interest installment, or failure to perform or observe any other
+covenant, agreement, or condition contained in the bond resolutions.
+(44)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 7 TRANSACTIONS WITH STATE AGENCIES
+These financial statements include the following related party transactions between the
+Authority and the state of South Carolina and various state agencies:
+ The South Carolina Department of Revenue collects documentary stamp taxes and
+remits $0.20 of every $1.30 collected to the State Treasurer’s Office, the Trustee.
+The Authority administers the Housing Trust Fund for the State Treasurer’s Office.
+ The employee insurance plans and retirement plan are administered by PEBA.
+PEBA was created July 1, 2012, by the South Carolina General Assembly as a state
+agency responsible for the administration and management of the state’s employee
+insurance programs and retirement systems.
+ Services received at no cost from state agencies include maintenance of certain
+accounting records and payroll and disbursement processing from the Comptroller
+General; check preparation, banking and investment functions from the State
+Treasurer; and legal services from the Attorney General.
+ The Authority receives services from both the Department of Administration and the
+State Fiscal Accountability Authority (SFAA) to include grant services, personnel
+management, review, and approval of certain budget amendments, procurement
+services, and other centralized functions. The Authority accrued $186,522 for the
+Statewide Cost Allocation Plan during the fiscal year ended June 30, 2025.
+ Financial transactions include payments to the Department of Administration and the
+SFAA for vehicle rental, insurance coverage, office supplies, printing, and telephone.
+Payments were also made for the workers’ compensation insurance coverage and
+unemployment compensation. The amounts for such items applicable to fiscal year
+2025 expenditures were not readily available.
+(45)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 8 FUND TRANSFERS AND INTERFUND BALANCES
+Fund transfers to and from other funds, which are legally allowable and in accordance with
+the terms of the respective bond indentures, as applicable, during the fiscal year ended
+June 30, 2025, are as follows:
+ $5,450,042 from the Single Family Fund to the General Operating Fund to transfer
+servicing release fees to be amortized.
+ $496,400 from the General Operating Fund to the Housing Trust Fund for reclass of
+a loan into the HTF program.
+As of June 30, 2025, the Housing Trust Fund had payable balance of $1,494,662 due to the
+General Operating Fund. This was relieved subsequent to fiscal year end.
+NOTE 9 RISK MANAGEMENT
+The Authority is exposed to various risks of loss and maintains state or commercial
+insurance coverage for such risks except business interruption insurance. The Authority has
+arranged for backup facilities for its information technology needs. Management believes
+such coverage is sufficient to preclude any significant uninsured losses for the covered
+risks. Settled claims have not exceeded this coverage in any of the past three years. The
+Authority pays insurance premiums to certain other State agencies and commercial insurers
+to cover risks that may occur in normal operations. The insurers promise to pay to or on
+behalf of the insured for covered economic losses sustained during the policy period in
+accordance with insurance policy and benefit program limits except for deductibles.
+Several state funds accumulate assets and the state assumes substantially all risks for the
+following:
+1. Claims of state employees for unemployment compensation benefits (South Carolina
+Department of Employment and Workforce).
+2. Claims of covered employees for workers’ compensation benefits for job-related
+illnesses or injuries (State Accident Fund).
+3. Claims of covered public employees for health and dental insurance benefits (Public
+Employee Benefit Authority Insurance Benefits).
+4. Claims of covered public employees for long-term disability and group-life insurance
+benefits (Public Employee Benefit Authority Insurance Benefits).
+Employees elect health coverage through the state’s self-insured plan. All other coverage
+listed above is through the applicable state self-insured plan except that dependent and
+optional life premiums are remitted to commercial carriers.
+(46)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 9 RISK MANAGEMENT (CONTINUED)
+The Authority and other entities pay premiums to the state’s Insurance Reserve Fund (IRF),
+which issues policies, accumulates assets to cover the risks of loss, and pays claims
+incurred for covered losses related to the following assets, activities, and/or events:
+1. Theft of, damage to, or destruction of assets
+2. Torts
+The IRF is a self-insurer and purchases reinsurance to obtain certain services and
+specialized coverage and to limit losses in the areas of property and equipment. IRF rates
+are determined actuarially.
+The Authority obtains coverage through a commercial insurer for employee fidelity bond
+insurance for potential losses arising from theft or misappropriation by employees.
+The Authority obtains coverage through a commercial insurer for cyber insurance for
+potential losses arising from a breach of the Authority’s electronic data.
+The Authority records expenses for insurance premiums in the general and administrative
+expense category of the General Operating Fund.
+NOTE 10 CONDUIT DEBT
+The Authority has issued bonds to provide financing for multifamily housing. These bonds
+are special limited obligations of the Authority, payable solely from and secured by
+mortgages to be received from mortgage loans with various mortgagees. The bonds do not
+constitute a debt or pledge of the faith and credit of the Authority or the state of South
+Carolina, and accordingly, have not been reported in the accompanying financial
+statements.
+Original
+Issue Issue Amount
+Date Bond/Note Title Amount Outstanding
+Fiscal Year 2015 (14/15):
+Multifamily Rental Housing Revenue Bonds:
+11/14 Ashley Arms Apartments $ 6,600,000 $ 6,080,000
+11/14 Palmilla Apartments 14,385,000 10,720,000
+05/15 Village at River's Edge 11,000,000 9,431,025
+Fiscal Year 2016 (15/16):
+Multifamily Rental Housing Revenue Bonds:
+12/15 Columbia Gardens 15,000,000 12,003,000
+12/15 Willow Run 15,000,000 11,836,000
+(47)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 10 CONDUIT DEBT (CONTINUED)
+Original
+Issue Issue Amount
+Date Bond/Note Title Amount Outstanding
+Fiscal Year 2017 (16/17):
+Multifamily Rental Housing Revenue Bonds:
+07/16 Waters at St James 31,597,000 28,467,544
+08/16 The Colony 7,900,000 7,093,243
+Fiscal Year 2019 (18/19):
+Multifamily Rental Housing Revenue Bonds:
+03/19 Killian Terrace 23,398,000 21,058,000
+06/19 Belle Meade 10,950,000 8,985,000
+Fiscal Year 2020 (19/20):
+Multifamily Rental Housing Revenue Bonds:
+05/20 Northside Apartments 8,600,000 4,832,937
+Fiscal Year 2021 (20/21):
+Multifamily Rental Housing Revenue Bonds:
+11/20 Robert Smalls Apartments 28,000,000 22,071,726
+12/20 Assembly II SC, LLC 13,500,000 12,025,000
+12/20 Broad River Village 21,850,000 19,000,000
+12/20 Clinton Manor 4,200,000 3,869,923
+12/20 Friendship Court 6,800,000 5,797,251
+12/20 Newberry Arms 4,000,000 3,685,641
+12/20 Bridgeview 65,900,000 62,646,118
+12/20 Palmetto Towers 8,133,000 8,133,000
+12/20 John G. Felder 2,118,000 2,118,000
+12/20 Redemption Towers 12,150,000 12,150,000
+(48)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 10 CONDUIT DEBT (CONTINUED)
+Original
+Issue Issue Amount
+Date Bond/Note Title Amount Outstanding
+Fiscal Year 2022 (21/22):
+Multifamily Rental Housing Revenue Bonds:
+08/21 James Lewis Jr. Eastside $ 13,969,000 $ 4,800,000
+08/21 The Sullivan 22,000,000 13,805,000
+12/21 Villages at Congaree Pointe 27,865,000 17,916,794
+12/21 Garden Oaks Apartments 33,000,000 32,850,000
+Fiscal Year 2023 (22/23):
+Multifamily Rental Housing Revenue Bonds:
+10/22 Shannon Park Apartments 16,700,000 16,433,672
+04/23 Dillon Graded Schools 10,635,000 10,635,000
+05/23 Dunbar Place Apartments 17,750,000 17,750,000
+05/23 Dunean Creek 16,000,000 15,951,934
+Fiscal Year 2024 (23/24)
+Multifamily Rental Housing Revenue Bonds
+12/23 Magnolia Branch Apartments 28,928,000 28,928,000
+12/23 Edgewood Place Apartments 30,839,000 30,839,000
+Fiscal Year 2025 (24/25)
+Multifamily Rental Housing Revenue Bonds
+9/24 573 Meeting Street 17,000,000 17,000,000
+12/24 Avery Landing 2,190,020 2,190,020
+3/25 Talford Greene 7,947,217 7,947,217
+3/25 Settlement Manor 16,999,639 16,999,639
+3/25 Poplar Square 9,455,000 9,455,000
+Total $ 582,358,876 $ 515,504,684
+NOTE 11 PENSION PLAN
+The South Carolina Public Employee Benefit Authority (PEBA), created July 1, 2012, is the
+state agency responsible for the administration and management of the retirement systems
+and benefit programs of the state of South Carolina, including the State Optional Retirement
+Program and the S.C. Deferred Compensation Program, as well as the state’s employee
+insurance programs. As such, PEBA is responsible for administering the South Carolina
+Retirement Systems’ five defined benefit pension plans. PEBA has an 11‐member Board of
+Directors, appointed by the Governor and General Assembly leadership, which serves as
+custodian, co‐trustee and co‐fiduciary of the Systems and the assets of the retirement trust
+funds. The Retirement System Investment Commission (Commission as the governing
+body, RSIC as the agency), created by the General Assembly in 2005, has exclusive
+authority to invest and manage the retirement trust funds’ assets.
+(49)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+The Commission, an eight‐member board, serves as co‐trustee and co‐fiduciary for the
+assets of the retirement trust funds. By law, the State Fiscal Accountability Authority (SFAA),
+which consists of five elected officials, also reviews certain PEBA Board decisions regarding
+the actuary of the Systems.
+For purposes of measuring the net pension liability, deferred outflows and inflows of
+resources related to pensions, and pension expense, information about the fiduciary net
+position of the Systems and additions to/deductions from the Systems fiduciary net position
+have been determined on the accrual basis of accounting as they are reported by the
+Systems in accordance with generally accepted accounting principles (GAAP). For this
+purpose, revenues are recognized when earned and expenses are recognized when
+incurred. Benefit and refund expenses are recognized when due and payable in accordance
+with the terms of the plan. Investments are reported at fair value.
+PEBA issues an Annual Comprehensive Financial Report (ACFR) containing financial
+statements and required supplementary information for the Systems’ Pension Trust Funds.
+The ACFR is publicly available through the Retirement Benefits’ link on PEBA’s website at
+www.peba.sc.gov, or a copy may be obtained by submitting a request to PEBA, 202 Arbor
+Lake Drive, Columbia, SC 29223. PEBA is considered a division of the primary government
+of the state of South Carolina and, therefore, retirement trust fund financial information is
+also included in the Annual Comprehensive Financial Report of the State of South Carolina.
+A. Plan Descriptions
+The South Carolina Retirement System (SCRS), a cost-sharing, multiemployer defined
+benefit pension plan, was established effective July 1, 1945, pursuant to the provisions
+of Section 9-1-20 of the South Carolina Code of Laws for the purpose of providing
+retirement and other benefits for employees of the state of South Carolina, its public
+school districts, and political subdivisions.
+The State Optional Retirement Program (State ORP) is a defined contribution plan that
+is offered as an alternative to certain newly hired state, public school, and higher
+education employees. State ORP participants direct the investment of their funds into a
+plan administered by one of four investment providers.
+B. Membership
+Membership requirements are prescribed in Title 9 of the South Carolina Code of Laws.
+A brief summary of the requirements under each system is presented below.
+ SCRS – Generally, all employees of covered employers are required to participate
+in and contribute to the system as a condition of employment. This plan covers
+general employees, teachers, and individuals newly elected to the South Carolina
+General Assembly beginning with the November 2012 general election. An
+employee member of the system with an effective date of membership prior to
+July 1, 2012, is a Class Two member. An employee member of the system with an
+effective date of membership on or after July 1, 2012, is a Class Three member.
+(50)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+B. Membership (Continued)
+ State ORP – As an alternative to membership in SCRS, newly hired state, public
+school, and higher education employees and individuals newly elected to the
+South Carolina General Assembly beginning with the November 2012 general
+election have the option to participate in the State ORP, which is a defined
+contribution plan. State ORP participants direct the investment of their funds into
+a plan administered by one of four investment providers. PEBA assumes no
+liability for State ORP benefits. Rather, the benefits are the liability of the
+investment providers. For this reason, State ORP programs are not part of the
+retirement systems’ trust funds for financial statement purposes. Employee and
+Employer contributions to the State ORP are at the same rates as SCRS. A
+direct remittance is required from the employers to the member’s account with
+investment providers for the employee contribution and a portion of the employer
+contribution (5%). A direct remittance is also required to SCRS for the remaining
+portion of the employer contribution and an incidental death benefit contribution,
+if applicable, which is retained by SCRS.
+C. Benefits
+Benefit terms are prescribed in Title 9 of the South Carolina Code of Laws. PEBA does
+not have the authority to establish or amend benefit terms without a legislative change in
+the code of laws. Key elements of the benefit calculation include the benefit multiplier,
+years of service, and average final compensation. A brief summary of the benefit terms
+for each system is presented below.
+ SCRS – A Class Two member who has separated from service with at least five
+or more years of earned service is eligible for a monthly pension at age 65 or
+with 28 years credited service regardless of age. A member may elect early
+retirement with reduced pension benefits payable at age 55 with 25 years of
+service credit. A Class Three member who has separated from service with at
+least eight or more years of earned service is eligible for a monthly pension upon
+satisfying the Rule of 90 requirement that the total of the member’s age and the
+member’s creditable service equals at least 90 years.
+Both Class Two and Class Three members are eligible to receive a reduced deferred
+annuity at age 60 if they satisfy the five- or eight-year earned service requirement,
+respectively. An incidental death benefit is also available to beneficiaries of active and
+retired members of employers who participate in the death benefit program.
+(51)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+C. Benefits (Continued)
+The annual retirement allowance of eligible retirees or their surviving annuitants is
+increased by the lesser of 1% or $500 every July 1. Only those annuitants in receipt of a
+benefit on July 1 of the preceding year are eligible to receive the increase. Members who
+retire under the early retirement provisions at age 55 with 25 years of service are not
+eligible for the benefit adjustment until the second July 1 after reaching age 60 or the
+second July 1 after the date they would have had 28 years of service credit had they not
+retired.
+D. Contributions
+Actuarial valuations are performed annually by an external consulting actuary to ensure
+applicable contribution rates satisfy the funding parameters specified in Title 9 of the
+South Carolina Code of Laws. Under these provisions, SCRS and PORS contribution
+requirements must be sufficient to maintain an amortization period for the financing of
+the unfunded actuarial accrued liability (UAAL) over a period that does not exceed the
+number of years scheduled in state statute. Effective July 1, 2017, employee rates were
+increased and capped at 9% for SCRS and 9.75% for PORS. The legislation also
+increased employer contribution rates beginning July 1, 2017, for both SCRS and PORS
+until reaching 18.56% for SCRS and 21.24 percent for PORS. The legislation included a
+further provision that if the scheduled contributions are not sufficient to meet the funding
+periods set in state statute, the PEBA board would increase the employer contribution
+rates as necessary to meet the funding periods set for the applicable year.
+Pension reform legislation modified statute such that the employer contribution rates for
+SCRS and PORS to be further increased, not to exceed one‐half of one percent in any
+one year, if necessary, in order to improve the funding of the plans. The statute set rates
+intended to reduce the unfunded liability of SCRS and PORS to the maximum
+amortization period of 20 years from 30 years over a 10‐year schedule, as determined
+by the annual actuarial valuations of the plan. Finally, under the revised statute, the
+contribution rates for SCRS and PORS may not be decreased until the plans are at least
+85% funded.
+(52)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+D. Contributions (Continued)
+The Retirement System Funding and Administration Act establishes a ceiling on
+employee contribution rates at 9% and 9.75% for SCRS and PORS respectively. The
+employer contribution rates will continue to increase annually by 1% through July 1,
+2023. The legislation’s ultimate scheduled employer rate is 18.56% for SCRS and
+21.24% for PORS. The amortization period is scheduled to be reduced one year for
+each of the next 10 years to a 20-year amortization period.
+Fiscal Year
+2025 2024
+SCRS:
+Employee Class Two 9.00 % 9.00 %
+Employee Class Three 9.00 9.00
+State ORP:
+Employee 9.00 9.00
+Required employer contribution rates1 are as follows:
+Fiscal Year
+2025 2024
+SCRS:
+Employer Class Two 18.56 % 18.56 %
+Employer Class Three 18.56 18.56
+State ORP:
+Employer Contributions2 18.56 18.56
+1 Calculated on earnable compensation as defined in Title 9 of the South Carolina Code
+of laws.
+2 Of this employer contribution, 5% of earnable compensation must be remitted by the
+employer directly to the ORP vendor to be allocated to the member’s account with the
+remainder of the employer contribution remitted to the SCRS.
+The Authority has contributed $1,857,441 to the retirement and incidental death benefit
+programs, during the year ended June 30, 2025.
+(53)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+E. Actuarial Assumptions and Methods
+Actuarial valuations of the ongoing plan involve estimates of the reported amounts and
+assumptions about the probability of occurrence of events far into the future. Examples
+include assumptions about future employment, mortality and future salary increases.
+Amounts determined regarding the net pension liability are subject to continual revision
+as actual results are compared with past expectations and new estimates are made
+about the future. South Carolina state statute requires that an actuarial experience study
+be completed at least once in each five‐year period. The GASB Statement No. 67
+valuation report prepared as of June 30, 2024, is based on the experience study report
+for the period ending June 30, 2019. A more recent experience report on the Systems
+was issued for the period ending June 30, 2023 and will be used for future valuations.
+The June 30, 2024, total pension liability (TPL), net pension liability (NPL), and
+sensitivity information shown in this report were determined by our consulting actuary,
+Gabriel Roeder Smith & Company (GRS) and are based on an actuarial valuation
+performed as of July 1, 2023. The total pension liability was rolled‐forward from the
+valuation date to the plans’ fiscal year end, June 30, 2024, using generally accepted
+actuarial principles. There was no legislation enacted during the 2024 legislative session
+that had a material change in the benefit provisions for any of the systems.
+The following table provides a summary of the actuarial assumptions and methods used
+to calculate the total pension liability as of June 30, 2024.
+SCRS
+Actuarial Cost Method Entry Age Normal
+Investment Rate of Return1 7.00%
+Projected Salary Increases1 3.0% to 11.0% (Varies by Service)
+Benefit Adjustments Lesser of 1% or $500 Annually
+1 Includes inflation at 2.25%.
+The post-retiree mortality assumption is dependent upon the member’s job category and
+gender. The base mortality assumptions, the 2020 Public Retirees of South Carolina
+Mortality table (2020 PRSC), was developed using the Systems’ mortality experience.
+These base rates are adjusted for future improvement in mortality using 80% of Scale
+UMP projected from the year 2020.
+(54)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+E. Actuarial Assumptions and Methods (Continued)
+Assumptions used in the determination of the June 30, 2024, total pension liability are as
+follows.
+Former Job Class Males Females
+Educators 2020 PRSC 2020 PRSC
+Multiplied by 95% Multiplied by 94%
+General Employees and Members of the 2020 PRSC 2020 PRSC
+General Assembly Multiplied by 97% Multiplied by 107%
+Public Safety and Firefighters 2020 PRSC 2020 PRSC
+Multiplied by 127% Multiplied by 107%
+F. Net Pension Liability
+The net pension liability is calculated separately for each system and represents that
+particular system’s total pension liability determined in accordance with GASB Statement
+No. 67 less that System’s fiduciary net position. The net pension liability amounts for
+SCRS are presented below:
+Plan Fiduciary
+Net Position as
+Total Plan Employers' a Percentage
+Pension Fiduciary Net Pension of the Total
+System Liability Net Position Liability Pension Liability
+SCRS $ 61,369,806,968 $ 37,919,492,371 $ 23,450,314,597 61.8%
+The total pension liability is calculated by the Systems’ actuary, and each plan’s fiduciary
+net position is reported in the Systems’ financial statements. The net pension liability is
+disclosed in accordance with the requirements of GASB Statement No. 67 in the
+Systems’ notes to the financial statements and required supplementary information.
+Liability calculations performed by the Systems’ actuary for the purpose of satisfying the
+requirements of GASB Statement Nos. 67 and 68 are not applicable for other purposes,
+such as determining the plans’ funding requirements.
+The Authority’s proportionate share of the net pension liability was calculated on the
+basis of historical employer contributions. Although GASB Statement No. 68 encourages
+the use of the employer’s projected long-term contribution effort to the retirement plan,
+allocating on the basis of historical employer contributions is considered acceptable. For
+the year ending June 30, 2025, the Authority’s percentage of the SCRS net pension
+liability was 0.065171%, a decrease of 0.000534% from the prior year’s percentage of
+0.065705%. The Authority’s proportionate share is determined by its percentage of total
+contributions to SCRS during the respective fiscal year. The change in percentage
+resulted in the Authority’s recognizing a change in its proportionate share of the SCRS
+net pension liability at related deferred outflows and inflows of resources.
+(55)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+F. Net Pension Liability (Continued)
+The change in percentage resulted in the Authority’s recognizing a change in its
+proportionate share of the SCRS net pension liability at related deferred outflows and
+inflows of resources.
+G. Discount Rate
+The discount rate used to measure the total pension liability was 7.00%. The projection
+of cash flows used to determine the discount rate assumed that contributions from
+participating employers in SCRS will be made based on the actuarially determined rates
+based on provisions in the South Carolina Code of Laws. Based on those assumptions,
+the System’s fiduciary net position was projected to be available to make all the
+projected future benefit payments of current plan members. Therefore, the long-term
+expected rate of return on pension plan investments was applied to all periods of
+projected benefit payments to determine the total pension liability.
+H. Long-Term Expected Rate of Return
+The long-term expected rate of return on pension plan investments is based upon 20-
+year capital market assumptions. The long-term expected rate of returns represents
+assumptions developed using an arithmetic building block approach primarily based on
+consensus expectations and market-based inputs. Expected returns are net of
+investment fees.
+The expected returns, along with the expected inflation rate, form the basis for the target
+asset allocation adopted at the beginning of the 2024 fiscal year. The long-term
+expected rate of return is produced by weighting the expected future real rates of return
+by the target allocation percentage and adding expected inflation and is summarized
+below. For actuarial purposes, the 7.00% assumed annual investment rate of return
+used in the calculation of the total pension liability includes a 4.75% real rate of return
+and a 2.25% inflation component.
+Long-Term
+Expected Expected
+Arithmetic Portfolio
+Target Asset Real Rate Real Rate
+Asset Class Allocation of Return of Return
+Public Equity 46.00% 6.23% 2.86%
+Bonds 26.00 2.60 0.68
+Private Equity 9.00 9.60 0.86
+Private Debt 7.00 6.90 0.48
+Real Assets:
+Real Estate 9.00 4.30 0.39
+Infrastructure 3.00 7.30 0.22
+Total Expected Real Return 100.00% 5.49
+Inflation for Actuarial Purposes 2.25
+Total Expected Nominal Return 7.74%
+(56)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+I. Sensitivity Analysis
+The following table presents the collective net pension liability of the participating
+employers calculated using the discount rate of 7.00%, as well as what the employers’
+net pension liability would be if it were calculated using a discount rate that is
+1-percentage-point lower (6.00%) or 1-percentage-point higher (8.00%) than the current
+rate.
+1% Current 1%
+Decrease Discount Increase
+System (6.00%) Rate (7.00%) (8.00%)
+SCRS $ 30,388,957,993 $ 23,450,314,597 $ 17,060,373,399
+Authority's Proportionate Share 19,804,704 15,282,740 11,118,369
+J. Additional Financial and Actuarial Information
+Information contained in these Notes to the Schedules of Employer and Nonemployer
+Allocations and Schedules of Pension Amounts by Employer (Schedules) was compiled
+from the Systems’ audited financial statements for the fiscal year ended June 30, 2024,
+and the accounting valuation report as of June 30, 2024. Additional financial information
+supporting the preparation of the Schedules (including the unmodified audit opinion on
+the financial statements and required supplementary information) is available in the
+Systems’ ACFR.
+K. Deferred Outflows (Inflows) of Resources
+For the year ended June 30, 2025, the Authority recognized pension expense of
+$1,626,630. At June 30, 2025, the Authority reported deferred outflows (inflows) of
+resources related to pensions from the following sources and will be amortized to
+pension expense as noted in the following table:
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Pension Contributions Subsequent to the
+Measurement Date $ 1,857,441 $ -
+Differences in Actual and Expected Plan Experience 502,245 18,967
+Change in Proportionate Share and Differences
+Between the Authority's Contributions and
+Proportionate Share of Contributions 206,620 91,413
+Change in Assumptions 269,432 -
+Net Differences Between Projected and Actual
+Earnings on Plan Investments - 588,849
+Total $ 2,835,738 $ 699,229
+(57)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 11 PENSION PLAN (CONTINUED)
+K. Deferred Outflows (Inflows) of Resources (Continued)
+Average remaining service lives of all employees provided with pensions through the
+pension plans at June 30, 2025 was 3.616 years for SCRS:
+Fiscal Year
+Measurement Period Ending June 30, Ending June 30, SCRS
+2025 2026 $ (84,164)
+2026 2027 556,718
+2027 2028 (38,847)
+2028 2029 (154,639)
+Total $ 279,068
+The authority reported $1,857,441 as deferred outflows of resources related to
+contributions subsequent to the measurement date will be recognized as a reduction of
+the net pension liability in the year ended June 30, 2026.
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS
+A. General Information
+The South Carolina Public Employee Benefit Authority (PEBA) was created by the South
+Carolina General Assembly as part of Act No. 278 effective July 1, 2012. PEBA –
+Insurance Benefits is a state agency responsible for the administration and management
+of the state’s employee insurance programs, other post-employment benefits trusts and
+retirement systems and is part of the State of South Carolina primary government.
+The governing board of PEBA is a board of 11 members. The membership composition
+is three members appointed by the Governor, two members appointed by the President
+Pro Tempore of the Senate, two members appointed by the Chairman of the Senate
+Finance Committee, two members appointed by the Speaker of the House of
+Representatives and two members appointed by the Chairman of the House Ways and
+Means Committee. Individuals appointed to the PEBA board must possess certain
+qualifications. Members of the PEBA board serve for terms of two years and until their
+successors are appointed and qualify. Terms commence on July first of even numbered
+years. The PEBA board appoints the Executive Director. The laws of the State and the
+policies and procedures specified by the State for State agencies are applicable to all
+activities of PEBA. By law, the State Fiscal Accountability Authority (SFAA), which
+consists of five elected officials, also reviews certain PEBA Board decisions in
+administering the State Health Plan and other post-employment benefits (OPEB).
+(58)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+B. Plan Descriptions
+The OPEB Trusts, collectively refers to the South Carolina Retiree Health Insurance
+Trust Fund (SCRHITF) and the South Carolina Long-Term Disability Insurance Trust
+Fund (SCLTDITF), were established by the state of South Carolina as Act 195, which
+became effective on May 2008. The SCRHITF was created to fund and account for the
+employer costs of the state’s Retiree Health and Dental Plans. The SCLTDITF was
+created to fund and account for the employer costs of the state’s Basic Long-Term
+Disability Income Benefit Plan.
+In accordance with Act 195, the OPEB Trusts are administered by PEBA-Insurance
+Benefits and the state Treasurer is the custodian of the funds held in trust. The PEBA
+Board of Directors has been designated as the Trustee.
+The OPEB Trusts are cost-sharing, multiemployer defined benefit OPEB plans. Article 5
+of the South Carolina Code of Laws defines the two plans and authorizes the Trustee to
+at any time adjust the plans, including its benefits and contributions, as necessary to
+insure the fiscal stability of the plans. In accordance with the South Carolina Code of
+Laws and the annual Appropriations Act, the State provides postemployment health and
+dental and long-term disability benefits to retired State and school district employees and
+their covered dependents.
+C. Benefits
+The SCRHITF is a healthcare plan that covers retired employees of the state of South
+Carolina, including all agencies and public school districts. The SCRHITF provides
+health and dental insurance benefits to eligible retirees. Generally, retirees are eligible
+for the health and dental benefits if they have established at least ten years of retirement
+service credit. For new hires beginning employment May 2, 2008 and after, retirees are
+eligible for benefits if they have established 25 years of service for 100% employer
+funding and 15-24 years of service for 50% employer funding.
+The SCLTDITF is a long-term disability plan that covers employees of the state of South
+Carolina, including all agencies, public school districts, and all participating local
+governmental entities. The SCLTDITF provides disability payments to eligible employees
+that have been approved for disability.
+Management of the Authority evaluated the net OPEB liability, OPEB expense, and
+related deferred outflows and inflows of resources associated with the SCLTDITF, and
+has concluded that these financial statement items are immaterial to the Authority’s
+financial statements as of and for the fiscal year ended June 30, 2025. Accordingly, no
+adjustments were made to the Authority’s financial statements pursuant to the provisions
+of GASB Statement No. 75 for the SCLTDITF.
+(59)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+D. Contributions and Funding Policies
+Section 1-11-710 of the South Carolina Code of Laws of 1976, as amended, requires
+these postemployment and long-term disability benefits to be funded through
+nonemployer and employer contributions for active employees and retirees to PEBA-
+Insurance Benefits.
+The SCRHITF is funded through participating employers that are mandated by State
+statute to contribute at a rate assessed each year by the Department of Administration
+Executive Budget Office on active employee covered payroll. The covered payroll
+surcharge for the year ended June 30, 2024, was 6.35%. The South Carolina Retirement
+System collects the monthly covered payroll surcharge for all participating employers
+and remits it directly to the SCRHITF. Other sources of funding for the SCRHITF include
+the implicit subsidy, or age-related subsidy inherent in the healthcare premium’s
+structure. The implicit subsidy represents a portion of the healthcare expenditures paid
+on behalf of the employer’s active employees. For purposes of GASB 75, the
+expenditure on behalf of the active employee is reclassified as a retiree healthcare
+expenditure so that the employer’s contributions towards the plan reflect the underlying
+age- adjusted, retiree benefit costs. Nonemployer contributions consist of an annual
+appropriation by the General Assembly and the statutorily required transfer from PEBA-
+Insurance Benefits reserves. However, due to the COVID-19 pandemic and the impact it
+has had on the PEBA Insurance Benefits reserves, the General Assembly has
+indefinitely suspended the statutorily required transfer until further notice. The SCRHITF
+is also funded through investment income.
+The allocation percentage of the PEBA amounts are calculated differently for each
+OPEB Trust. For the SCRHITF, the allocation percentage is based on the covered
+payroll surcharge contribution for each employer. Please note that actual covered payroll
+contributions received from SCRS for the fiscal year 2024 totaled $732,799,781.
+However, the covered payroll contributions total includes prior year covered payroll
+contribution adjustments and true-ups that net to a total of $2,577,195.
+In accordance with part (b) of paragraph 60 of GASB Statement No. 75, participating
+employers should recognize revenue in an amount equal to the employer’s proportionate
+share of the change in the collective net OPEB liability arising from contributions to the
+OPEB plan during the measurement period from nonemployer contribution entities for
+the purposes other than the separate financing of specific liabilities to the OPEB plan.
+Therefore, employers should classify this revenue the same manner as it classifies
+grants from other entities.
+For purposes of measuring the net OPEB liability, deferred outflows and inflows of
+resources related to OPEB, and OPEB expense, information about the fiduciary net
+position of the OPEB Trusts, and additions to and deductions from the OPEB Trusts
+fiduciary net position have been determined on the same basis as they were reported by
+the OPEB Trusts. For this purpose, revenues are recognized when earned and
+expenses are recognized when incurred. Therefore, benefit and administrative expenses
+are recognized when due and payable. Investments are reported at fair value.
+(60)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+D. Contributions (Continued)
+PEBA – Insurance Benefits issues audited financial statements and required
+supplementary information for the OPEB Trust Funds. This information is publicly available
+through the PEBA – Insurance Benefits’ link on PEBA’s website at www.peba.sc.gov or a
+copy may be obtained by submitting a request to PEBA – Insurance Benefits, 202 Arbor
+Lake Drive, Columbia, SC 29223. PEBA is considered a division of the primary
+government of the state of South Carolina and therefore, OPEB Trust fund financial
+information is also included in the comprehensive annual financial report of the state.
+Authority’s contributions to the SCRHITF plan were $635,493 for the fiscal year ended
+June 30, 2025.
+E. Net OPEB Liability and OPEB Expense
+At June 30, 2025, the Authority reported a liability of $12,887,769 for its proportionate
+shares of the SCRHITF’s net OPEB liability, measured at June 30, 2024. The
+SCRHITF’s net OPEB liability represents its total OPEB liability determined in
+accordance with GASB Statement No. 74, less its fiduciary net position. The net OPEB
+liability was determined based upon actuarial valuations performed on June 30, 2023
+which were then rolled forward to the June 30, 2024 measurement date. This method is
+expected to be reflective of the Authority’s long-term contribution effort, as well as be
+transparent to individual employers and their external auditors. At June 30, 2024, the
+Authority’s proportionate share of the SCRHITF plan’s net OPEB liability was
+0.079940%, which represents an increase of 0.002059% from its proportionate share
+measured as of June 30, 2024.
+For the year ended June 30, 2025, the Authority recognized OPEB expense of $519,062.
+F. Deferred Outflows of Resources and Deferred Inflows of Resources Related to
+OPEB
+At June 30, 2025, the Authority reported deferred outflows of resources and deferred
+inflows of resources related to OPEB from the following sources:
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Differences Between Expected and Actual
+Experience $ 669,938 $ 1,907,476
+Change in Assumptions 2,760,235 2,646,265
+Net Difference Between Projected and Actual
+Earnings on OPEB Plan Investments 62,862 -
+Changes in Proportion and Differences Between
+Between the Authority's Contributions and
+Proportionate Share of Contributions 359,656 498,817
+Authority's Contributions Subsequent to the
+Measurement Date 635,493 -
+Total $ 4,488,184 $ 5,052,558
+(61)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+F. Deferred Outflows of Resources and Deferred Inflows of Resources Related to
+OPEB (Continued)
+Of the total amount reported as deferred outflows of resources related to OPEB,
+$635,493 resulting from contributions made subsequent to the measurement date and
+before the end of the fiscal year will be included as a reduction of the net OPEB liability
+during the fiscal year ending June 30, 2026.
+Other amounts reported as deferred outflows of resources and deferred inflows of
+resources related to OPEB will be recognized in the Authority’s OPEB expense as
+follows:
+Year Ending June 30, SCRHITF
+2026 $ (209,498)
+2027 (164,837)
+2028 (429,283)
+2029 (646,238)
+2030 27,909
+Thereafter 222,080
+Total $ (1,199,867)
+G. Actuarial Assumptions and Methods
+Actuarial valuations of an ongoing plan involve estimates of the value of reported
+amounts and assumptions about the probability of occurrence of events far into the
+future. Examples include assumptions about future employment, mortality, and the
+healthcare cost trend. Actuarially determined amounts are subject to continual revision
+as actual results are compared with past expectations and new estimates are made
+about the future.
+Projections of benefits for financial reporting purposes are based on the substantive
+plans (as understood by the employer and plan participants) and include the types of
+benefits provided at the time the valuation and the historical pattern of sharing of benefit
+costs between the employer and plan members to that point. The actuarial valuations
+were performed as of June 30, 2023. Update procedures were used to roll forward the
+total OPEB liabilities to June 30, 2024.
+(62)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+G. Actuarial Assumptions and Methods (Continued)
+Additional information as of the latest actuarial valuations for the SCRHITF Plan is as
+follows:
+Valuation Date June 30, 2023
+Actuarial Cost Method Individual Entry - Age Normal
+Inflation 2.25%
+Investment Rate of Return 2.75%, Net of OPEB Plan investment expense, including inflation
+Single Discount Rate 3.97% as of June 30, 2024
+Demographic Assumptions Based on the experience study performed for the South Carolina Retirement Systems for the
+five-year period ending June 30, 2019
+Mortality For healthy retirees, the gender-distinct South Carolina Retirees 2020 Mortality Tables are
+used with multipliers based on plan experience; the rates are projected on a fully
+generational basis using 80% of the ultimate rates of Scale MP-2019 to account for future
+mortality improvements.
+Health Care Trend Rate Initial trend starting at 6.50% and gradually decreasing to an ultimate trend rate of 4.25%
+over a period of 14 years.
+Aging Factors Based on Plan Specific Experience.
+Retiree Participation 79% for retirees who are eligible for funded premiums; 59% participation for retirees who are
+eligible for Partial Funded Premiums, 20% participation for retirees who are eligible for
+Non- Funded Premiums, 20% participation for retirees who are eligible for Non-Funded Premiums.
+Notes The discount rate changed from 3.86% as of June 30, 2023 to 3.97% as of June 30, 2024.
+The long-term expected rate of returns represents assumptions developed using an
+arithmetic building block approach primarily based on consensus expectations and
+market-based inputs. The expected returns, along with the expected inflation rate, form
+the basis for the target asset allocation adopted at the beginning of the 2018 fiscal year.
+The long-term expected rate of return is produced by weighting the expected future real
+rates of return by the target allocation percentage and adding expected inflation.
+This information is summarized in the following table:
+Allocation
+Weighted
+Expected Long-Term
+Arithmetic Expected
+Target Asset Real Rate Real Rate
+Asset Class Allocation of Return of Return
+U.S. Domestic Fixed Income 80.00% 0.95% 0.76%
+Cash and Equivalents 20.00 0.35 0.07
+Total Expected Real Return 100.00% 0.83
+Expected Inflation 2.25
+Total Return 3.08%
+Investment Return 2.75%
+(63)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 12 POSTEMPLOYMENT BENEFITS OTHER THAN PENSIONS (CONTINUED)
+H. Discount Rate
+The Single Discount Rate of 3.97% was used to measure the total OPEB liability for the
+SCRHITF. The accounting policy for this plan is to set the Single Discount Rate equal to
+the prevailing municipal bond rate. Due to the plan’s investment and funding policies, the
+difference between a blended discount rate and the municipal bond rate would be less
+than several basis points (several hundredths of 1%).
+I. Sensitivity Analysis
+The following table presents the SCRHITF’s net OPEB liability calculated using a Single
+Discount Rate of 3.97%, as well as what the plan’s net OPEB liability would be if it were
+calculated using a Single Discount Rate that is 1-percentage-point lower or
+1-percentage-point higher. In addition, regarding the sensitivity of the SCRHITF’s net
+OPEB liability to changes in the healthcare cost trend rates, the following table presents
+the plan’s net OPEB liability, calculated using the assumed trend rates as well as what
+the plan’s net OPEB liability would be if were calculated using a trend rate that is
+1-percentage-point lower or 1-percentage-point higher.
+1% Current 1%
+Decrease Discount Increase
+System (2.97%) Rate (3.97%) (4.97%)
+SCRHITF Net OPEB Liability $ 19,137,805,594 $ 16,121,802,098 $ 13,707,528,008
+Authority's Proportionate Share 15,298,762 12,887,769 10,957,798
+Current
+1% Healthcare 1%
+System Decrease Cost Trend Rate Increase
+SCRHITF Net OPEB Liability $ 13,257,148,932 $ 16,121,802,098 $ 19,837,408,667
+Authority's Proportionate Share 10,597,765 12,887,769 15,858,025
+Detailed information about the SCRHITF’s fiduciary net position is available in the
+separately issued PEBA financial report, which is publicly available through the PEBA –
+Insurance Benefits’ link on PEBA’s website at www.peba.sc.gov or a copy may be
+obtained by submitting a request to PEBA – Insurance Benefits, 202 Arbor Lake Drive,
+Columbia, SC 29223.
+(64)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 13 DEFERRED COMPENSATION PLANS
+The South Carolina Deferred Compensation Program (Deferred Comp) provides participants
+with a supplemental retirement savings strategy through its 401(k) and 457(b) retirement
+savings plans. The minimum amount that can be contributed to each plan is $10 per pay
+period. Participants can change the amount they are deferring to Deferred Comp at any
+time. The Internal Revenue Service (IRS) sets annual contribution limits for both 401(k) and
+457(b) Plans. Traditional contributions to the 401(k) and 457(b) plans are made on a before-
+tax basis and taxes are paid only when there is a distribution. Roth contributions are made
+with after-tax dollars, which means taxes have already been paid on the money before it
+enters any account(s). Deferred Comp offers valuable benefits to its participants. In an effort
+to maximize this value, the South Carolina Public Employee Benefit Authority (PEBA) has
+contracted with Empower Retirement to provide recordkeeping, administration, and
+communication services related to Deferred Comp. With a dedicated local Deferred Comp
+office in the Columbia area, Empower focuses on providing high-quality retirement plan
+services to employers and their employees. Empower is a leading services provider of
+employer-sponsored deferred compensation retirement programs, primarily for government,
+healthcare, and nonprofit entities. Employees who retire or separate from service have a
+variety of payment choices and can also choose to leave the account balance in Deferred
+Comp.
+The State of South Carolina has no liability for losses under the Deferred Comp plans and
+does not allow employer matching.
+NOTE 14 COMMITMENTS AND CONTINGENCIES
+Financial Award Commitments
+As of June 30, 2025, the Authority has financial award commitments outstanding totaling
+$67,846,740 under the Housing Trust Fund programs.
+The Authority receives significant federal grant and entitlement revenues. Compliance audits
+of federal programs may identify disallowed expenditures. Disallowances by federal program
+officials as a result of these audits may become liabilities of the Authority. The Authority
+records a liability for pending disallowances if settlement is probable and the settlement
+amount is reasonably estimable. Otherwise, the liability is recorded only when the Authority
+and the federal government agree on reimbursement terms.
+Based on an analysis of historical data, the Authority believes that any such disallowances
+relating to the fiscal year ended June 30, 2025, or earlier years will not have a material
+impact on the Authority’s financial statements.
+NOTE 15 SUBSEQUENT EVENTS
+In July, 2025, the Authority paid off the remaining Single Family 1998 series indenture prior
+to maturity. A new Mortgage Revenue Bond series, 2025C, is expected to close in October,
+2025.
+(65)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 16 SEGMENT FINANCIAL INFORMATION
+Segment financial information, as required by the bond trustees for each indenture of the
+Authority’s Single Family Finance Programs as of and for the fiscal year ended June 30,
+2025, is presented on the following pages.
+Single Mortgage Homeownership Revenue
+Family Revenue Bond Reserve Total
+ASSETS
+Current Assets:
+Restricted Assets:
+Cash and Cash Equivalents $ 6,395,476 $ 167,350,749 $ - $ 23,780,167 $ 197,526,392
+Investments 26,254,369 169,209,778 - 334,734 195,798,881
+Loans Receivable 5,502,975 106,009,568 - 1,611,869 113,124,412
+Accrued Interest Receivable:
+Loans 278,759 6,628,222 - 20,428 6,927,409
+Deposits and Investments 107,319 1,015,356 - 134,904 1,257,579
+Other Current Assets - 250,125 - - 250,125
+Total Current Assets 38,538,898 450,463,798 - 25,882,102 514,884,798
+Noncurrent Assets:
+Restricted Assets:
+Investments 2,134,725 22,038,442 - 13,454,277 37,627,444
+Loans Receivable, Net of Current Portion 48,276,038 1,359,121,552 - 21,215,972 1,428,613,562
+Allowance for Doubtful Loans (86,000) (1,210,000) - (3,000) (1,299,000)
+Total Noncurrent Assets 50,324,763 1,379,949,994 - 34,667,249 1,464,942,006
+Total Assets $ 88,863,661 $ 1,830,413,792 $ - $ 60,549,351 $ 1,979,826,804
+Single Mortgage Homeownership Revenue
+Family Revenue Bond Reserve Total
+LIABILITIES
+Current Liabilities:
+Liabilities Payable from Restricted Assets:
+Bonds Payable, Net of Unamortized
+Premiums $ 4,775,000 $ 21,367,983 $ - $ - $ 26,142,983
+Accrued Interest Payable on Bonds 146,313 28,745,848 - - 28,892,161
+Other Liabilities 16,519 484,681 - 1,805 503,005
+Total Current Liabilities 4,937,832 50,598,512 - 1,805 55,538,149
+Noncurrent Liabilities:
+Bonds Payable, Net of Current Portion and
+Unamortized Premiums 806,837 1,573,998,920 - - 1,574,805,757
+Total Noncurrent Liabilities 806,837 1,573,998,920 - - 1,574,805,757
+Total Liabilities 5,744,669 1,624,597,432 - 1,805 1,630,343,906
+DEFERRED INFLOWS OF RESOURCES
+Deferred Gain on Refunding - 2,040,795 - - 2,040,795
+Total Deferred Inflows of Resources - 2,040,795 - - 2,040,795
+NET POSITION
+Restricted for:
+Debt Service 4,936,313 81,001,595 - - 85,937,908
+Bond Reserves 161,250 45,571,200 - - 45,732,450
+Housing Projects and Development 78,021,429 77,202,770 - 60,547,546 215,771,745
+Total Net Position $ 83,118,992 $ 203,775,565 $ - $ 60,547,546 $ 347,442,103
+(66)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 16 SEGMENT FINANCIAL INFORMATION (CONTINUED)
+Single Mortgage Homeownership Revenue
+Family Revenue Bond Reserve Total
+OPERATING REVENUES
+Interest and Other Charges on Loans $ 2,815,422 $ 65,759,106 $ - $ 237,454 $ 68,811,982
+Income on Deposits and Investments 920,293 8,393,011 - 1,649,989 10,963,293
+Net Increase (Decrease) in the Fair Value
+of Investments 692,207 2,611,852 - 1,068,397 4,372,456
+Administrative Fees and Other - 5,068,365 - 527,399 5,595,764
+Total Operating Revenues 4,427,922 81,832,334 - 3,483,239 89,743,495
+OPERATING EXPENSES
+Bond Interest 258,264 44,501,528 - - 44,759,792
+Program Services 195,064 17,856,424 - 758,523 18,810,011
+Bond Issuance Expense - 4,633,434 - - 4,633,434
+Total Operating Expenses 453,328 66,991,386 - 758,523 68,203,237
+OPERATING INCOME (LOSS) 3,974,594 14,840,948 - 2,724,716 21,540,258
+TRANSFERS
+Transfers Out, Net - (211,081) (31,516) (5,207,445) (5,450,042)
+Total Transfers - (211,081) (31,516) (5,207,445) (5,450,042)
+CHANGES IN NET POSITION 3,974,594 14,629,867 (31,516) (2,482,729) 16,090,216
+Net Position - Beginning of Year 79,144,398 189,145,698 31,516 63,030,275 331,351,887
+NET POSITION - END OF YEAR $ 83,118,992 $ 203,775,565 $ - $ 60,547,546 $ 347,442,103
+Single Mortgage Homeownership Revenue
+Family Revenue Bond Reserve Total
+CASH FLOWS FROM OPERATING ACTIVITIES
+Receipt of Loan Principal Payments $ 6,327,165 $ 89,212,378 $ - $ 868,030 $ 96,407,573
+Purchases of New Loans - (358,771,920) - (18,591,575) (377,363,495)
+Administrative Fees and Other 4,378,918 79,291,852 - 3,377,515 87,048,285
+Payments to Vendors (612,346) (59,359,135) - (758,291) (60,729,772)
+Net Cash Provided (Used) by
+Operating Activities 10,093,737 (249,626,825) - (15,104,321) (254,637,409)
+CASH FLOWS FROM NONCAPITAL FINANCING
+ACTIVITIES
+Transfers to Other Programs - (211,081) (31,516) (5,207,445) (5,450,042)
+Proceeds from the Sale of Bonds - 500,000,000 - - 500,000,000
+Premium Received from the Sale of Bonds - 21,520,797 - - 21,520,797
+Principal Payments on Bonds Payable - (82,845,000) - - (82,845,000)
+Net Cash Provided (Used) by
+Noncapital Financing Activities - 438,464,716 (31,516) (5,207,445) 433,225,755
+CASH FLOWS FROM INVESTING ACTIVITIES
+Sales of Investments 177,941 - - 38,537,064 38,715,005
+Purchase of Investments (4,615,748) (69,722,465) - - (74,338,213)
+Net Cash Provided (Used) by Investing
+Activities (4,437,807) (69,722,465) - 38,537,064 (35,623,208)
+NET INCREASE (DECREASE) IN CASH AND
+CASH EQUIVALENTS 5,655,930 119,115,426 (31,516) 18,225,298 142,965,138
+Cash and Cash Equivalents - Beginning of Year 5,269,546 55,540,323 31,516 5,554,869 66,396,254
+CASH AND CASH EQUIVALENTS - END OF YEAR $ 10,925,476 $ 174,655,749 $ - $ 23,780,167 $ 209,361,392
+(67)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+JUNE 30, 2025
+NOTE 16 SEGMENT FINANCIAL INFORMATION (CONTINUED)
+Single Mortgage Homeownership Revenue
+Family Revenue Bond Reserve Total
+RECONCILIATION OF OPERATING INCOME TO
+NET CASH PROVIDED (USED FOR) BY OPERATING ACTIVITIES
+Operating Income $ 3,974,594 $ 14,840,948 $ - $ 2,724,716 $ 21,540,258
+Adjustments to Reconcile Operating Income to
+Net Cash Provided (Used by) by Operating Activities:
+Changes in Operating Assets and Liabilities:
+Loans Receivable 6,327,165 (269,559,537) - (17,723,550) (280,955,922)
+Accrued Interest Receivable - Loans (83,367) (2,506,131) - (105,712) (2,695,210)
+Accounts Payable, Accrued Expenses, and
+Unearned Revenue (124,655) 7,742,001 - 225 7,617,571
+Deferred Gain on Refunding (144,106) (144,106)
+Total Adjustments 6,119,143 (264,467,773) - (17,829,037) (276,177,667)
+Net Cash Provided (Used) by Operating
+Activities $ 10,093,737 $ (249,626,825) $ - $ (15,104,321) $ (254,637,409)
+(68)
+REQUIRED SUPPLEMENTARY INFORMATION
+(69)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+SCHEDULE OF THE EMPLOYER’S PROPORTIONATE SHARE OF THE NET PENSION LIABILITY
+LAST TEN FISCAL YEARS
+SCRS
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Authority's Proportion of the Net Pension Liability 0.065171% 0.065705% 0.064645% 0.062646% 0.062704% 0.063826% 0.068320% 0.070898% 0.067562% 0.070607%
+Authority's Proportionate Share of the Net Pension
+Liability $ 15,282,740 $ 15,885,696 $ 15,671,451 $ 13,557,459 $ 16,021,889 $ 14,574,077 $ 15,308,300 $ 15,960,280 $ 14,431,143 $ 13,390,958
+Authority's Covered Payroll During the Measurement
+Period $ 8,015,738 $ 7,524,695 $ 6,965,567 $ 6,168,841 $ 6,307,929 $ 5,999,910 $ 5,863,935 $ 5,718,578 $ 5,169,442 $ 5,144,469
+Authority's Proportionate Share of the Net Pension
+Liability as a Percentage of its Covered Payroll
+During the Measurement Period 190.66% 211.11% 224.98% 212.87% 254.00% 242.90% 261.06% 279.10% 279.16% 260.31%
+Plan Fiduciary Net Position as a Percentage of the
+Total Pension Liability 61.8% 58.6% 57.1% 60.7% 50.7% 54.4% 54.1% 53.3% 52.9% 57.0%
+Note: The amounts presented above were determined as of June 30, of the preceding year.
+(70)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+SCHEDULE OF THE EMPLOYER’S PENSION CONTRIBUTIONS
+LAST TEN FISCAL YEARS
+SCRS
+2025 2024 2023 2022 2021 2020 2019 2018 2017 2016
+Contractually Required Contribution $ 1 ,857,441 $ 1 ,701,946 $ 1 ,526,009 $ 1 ,403,593 $ 1 ,109,122 $ 1 ,182,801 $ 972,451 $ 907,016 $ 791,248 $ 694,073
+Contributions in Relation to the Contractually
+Required Contribution 1,857,441 1,701,946 1,526,009 1,403,593 1,109,122 1,182,801 972,451 907,016 791,248 694,073
+Contribution Deficiency (Excess) $ - $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Authority's Covered Payroll $ 8 ,690,487 $ 8 ,015,738 $ 7 ,524,695 $ 6 ,965,567 $ 6 ,368,841 $ 6 ,307,929 $ 5 ,999,910 $ 5 ,863,935 $ 5 ,718,578 $ 5 ,169,442
+Contributions as a Percentage of Covered Payroll 21.37% 19.86% 20.28% 20.15% 17.41% 18.75% 16.21% 15.47% 13.84% 13.43%
+(71)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+SCHEDULE OF THE EMPLOYER’S PROPORTIONATE SHARE OF THE NET OPEB LIABILITY
+LAST NINE FISCAL YEARS*
+SCRHITF
+2025 2024 2023 2022 2021 2020 2019 2018 2017
+Authority's Proportion of the Net OPEB Liability 0.079940% 0.081999% 0.081198% 0.078685% 0.078440% 0.079531% 0.085118% 0.087616% 0.087616%
+Authority's Proportionate Share of the Net OPEB Liability $ 12,887,769 $ 10,734,888 $ 12,351,711 $ 16,384,720 $ 14,159,555 $ 12,026,302 $ 12,061,720 $ 11,867,444 $ 12,676,836
+Authority's Covered Payroll During the Measurement Period $ 8,567,830 $ 7,524,695 $ 6,965,567 $ 6,368,841 $ 6,307,929 $ 5,999,910 $ 5,863,935 $ 5,718,578 $ 5,169,442
+Authority's Proportionate Share of the Net OPEB Liability as a Percentage
+of its Covered Payroll During the Measurement Period 150.30% 142.66% 177.33% 257.26% 224.47% 200.44% 205.69% 207.52% 245.23%
+Plan Fiduciary Net Position as a Percentage of the Total OPEB Liability 9.91% 11.24% 9.64% 7.48% 8.39% 8.44% 7.91% 7.60% 6.60%
+Note 1: The amounts presented above were determined as of June 30, of the preceding year.
+Note 2 * Only nine years of data is available, thus only nine years are presented.
+(72)
+SOUTH CAROLINA STATE HOUSING FINANCE AND DEVELOPMENT AUTHORITY
+SCHEDULE OF THE EMPLOYER’S OPEB CONTRIBUTIONS
+LAST EIGHT FISCAL YEARS*
+SCRHITF
+2025 2024 2023 2022 2021 2020 2019 2018 2017
+Contractually Required Contribution $ 635,493 $ 573,123 $ 535,520 $ 529,738 $ 437,617 $ 475,097 $ 404,112 $ 342,999 $ 360,607
+Contributions in Relation to the Contractually Required Contribution 635,493 573,123 535,520 529,738 437,617 475,097 404,112 342,999 360,607
+Contribution Deficiency (Excess) $ - $ - $ - $ - $ - $ - $ - $ - $ -
+Authority's Covered Payroll $ 8 ,690,487 $ 8 ,567,630 $ 7 ,524,695 $ 6 ,965,567 $ 6 ,368,841 $ 6 ,307,929 $ 5 ,999,910 $ 5 ,863,935 $ 5,718,578
+Contributions as a Percentage of Covered Payroll 4.31% 6.18% 7.12% 7.61% 6.87% 7.53% 6.74% 5.85% 6.31%
+* This schedule is intended to show information for 10 years. Additional years' information will be displayed as it becomes available.
+(73)

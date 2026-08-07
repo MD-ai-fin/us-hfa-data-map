@@ -1,0 +1,6244 @@
+[
+  {
+    "state": "AK",
+    "agency": "Alaska Housing Finance Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "AK_AHFC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "AK",
+    "agency": "Alaska Housing Finance Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "AK_AHFC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 90000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 1243000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 1333000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "AL",
+    "agency": "Alabama Housing Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "AL_AHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": 973,
+        "business_type": 955,
+        "total": 18
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 973,
+        "business_type": 955,
+        "total": 18
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "AL",
+    "agency": "Alabama Housing Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "AL_AHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": 1065,
+        "business_type": 973,
+        "total": 92
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 1065,
+        "business_type": 973,
+        "total": 92
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "AR",
+    "agency": "Arkansas Development Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "AR_ADFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "AR",
+    "agency": "Arkansas Development Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "AR_ADFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "AZ",
+    "agency": "Arizona Department of Housing",
+    "fiscal_year": "FY2024",
+    "source_file": "AZ_ACFR FY 2024.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": 14696,
+        "total": 14696
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 14696,
+        "total": 14696
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "CA",
+    "agency": "California Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "CA_CalHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "CA",
+    "agency": "California Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "CA_CalHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "CO",
+    "agency": "Colorado Housing and Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "CO_CHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "CO",
+    "agency": "Colorado Housing and Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "CO_CHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "CT",
+    "agency": "Connecticut Housing Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "CT_CHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "CT",
+    "agency": "Connecticut Housing Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "CT_CHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "DC",
+    "agency": "District of Columbia Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "DC_DCHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "DE",
+    "agency": "Delaware State Housing Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "DE_DSHA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 126392,
+        "business_type": 268583,
+        "total": 394975
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 264038
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "DE",
+    "agency": "Delaware State Housing Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "DE_DSHA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": 83997,
+        "business_type": 178495,
+        "total": 262492
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 83997,
+        "business_type": 178495,
+        "total": 262492
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "FL",
+    "agency": "Florida Housing Finance Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "FL_FloridaHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "FL",
+    "agency": "Florida Housing Finance Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "FL_FloridaHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "GA",
+    "agency": "Georgia Housing Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "GA_GHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "GA",
+    "agency": "Georgia Housing Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "GA_GHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "HI",
+    "agency": "Hawaii Housing Finance and Development Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "HI_HHFDC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "HI",
+    "agency": "Hawaii Housing Finance and Development Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "HI_HHFDC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "IA",
+    "agency": "Iowa Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "IA_IFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "IA",
+    "agency": "Iowa Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "IA_IFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "ID",
+    "agency": "Idaho Housing and Finance Association",
+    "fiscal_year": "FY2024",
+    "source_file": "ID_IHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "ID",
+    "agency": "Idaho Housing and Finance Association",
+    "fiscal_year": "FY2025",
+    "source_file": "ID_IHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "IL",
+    "agency": "Illinois Housing Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "IL_IHDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": 1255000,
+        "total": 1255000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 1876000,
+        "total": 1876000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 3131000,
+        "total": 3131000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": 932000,
+        "total": 932000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 1599000,
+        "total": 1599000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 2531000,
+        "total": 2531000
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "IL",
+    "agency": "Illinois Housing Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "IL_IHDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": 1312000,
+        "total": 1312000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 564000,
+        "total": 564000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 1876000,
+        "total": 1876000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": 532000,
+        "total": 532000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 781000,
+        "total": 781000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 1313000,
+        "total": 1313000
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "IN",
+    "agency": "Indiana Housing and Community Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "IN_IHCDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 941964000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "IN",
+    "agency": "Indiana Housing and Community Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "IN_IHCDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 986062000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "KS",
+    "agency": "Kansas Housing Resources Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "KS_KHRC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 14283
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 14283
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 288143
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 288143
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "KS",
+    "agency": "Kansas Housing Resources Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "KS_KHRC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": 1592675,
+        "business_type": 121678,
+        "total": 286538
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 1592675,
+        "business_type": 121678,
+        "total": 286538
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": 0,
+        "business_type": 8334,
+        "total": 0
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": 0,
+        "business_type": 8334,
+        "total": 0
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "KY",
+    "agency": "Kentucky Housing Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "KY_KHC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "KY",
+    "agency": "Kentucky Housing Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "KY_KHC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "LA",
+    "agency": "Louisiana Housing Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "LA_LHC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "LA",
+    "agency": "Louisiana Housing Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "LA_LHC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MA",
+    "agency": "Massachusetts Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "MA_MassHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MA",
+    "agency": "Massachusetts Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "MA_MassHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MD",
+    "agency": "Maryland Community Development Administration",
+    "fiscal_year": "FY2024",
+    "source_file": "MD_CDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MD",
+    "agency": "Maryland Community Development Administration",
+    "fiscal_year": "FY2025",
+    "source_file": "MD_CDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "ME",
+    "agency": "Maine State Housing Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "ME_MaineHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "ME",
+    "agency": "Maine State Housing Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "ME_MaineHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MI",
+    "agency": "Michigan State Housing Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "MI_MSHDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MI",
+    "agency": "Michigan State Housing Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "MI_MSHDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MN",
+    "agency": "Minnesota Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "MN_MNHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": 1437,
+        "total": 1334
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 3490,
+        "total": 4926
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 4927,
+        "total": 6260
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": 2668,
+        "business_type": 177,
+        "total": 922
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 1499,
+        "total": 1890
+      },
+      "total": {
+        "governmental": 2668,
+        "business_type": 1676,
+        "total": 2812
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "MN",
+    "agency": "Minnesota Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "MN_MNHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "MO",
+    "agency": "Missouri Housing Development Commission",
+    "fiscal_year": "FY2024",
+    "source_file": "MO_MHDC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 498000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 7006000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 7504000
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Reported as combined lease and subscription/SBITA liability"
+    ]
+  },
+  {
+    "state": "MO",
+    "agency": "Missouri Housing Development Commission",
+    "fiscal_year": "FY2025",
+    "source_file": "MO_MHDC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 805000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 6161000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 6966000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 1556
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "MS",
+    "agency": "Mississippi Home Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "MS_MHC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "MT",
+    "agency": "Montana Housing",
+    "fiscal_year": "FY2024",
+    "source_file": "MT_MTHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 107120
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2211970
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2319090
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "MT",
+    "agency": "Montana Housing",
+    "fiscal_year": "FY2025",
+    "source_file": "MT_MTHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 117392
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2094576
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2211968
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 76260
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 287397
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 363657
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "NC",
+    "agency": "North Carolina Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "NC_NCHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 624000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 1489000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2113000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "NC",
+    "agency": "North Carolina Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "NC_NCHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": 644000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 794000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 1438000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "ND",
+    "agency": "North Dakota Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "ND_NDHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "ND",
+    "agency": "North Dakota Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "ND_NDHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "NE",
+    "agency": "Nebraska Investment Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "NE_NIFA_FY2024_ACFR.txt",
+    "source_type": "txt",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from TXT",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "NE",
+    "agency": "Nebraska Investment Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "NE_NIFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": 1775000,
+        "total": 1775000
+      },
+      "total": {
+        "governmental": null,
+        "business_type": 1775000,
+        "total": 1775000
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "NH",
+    "agency": "New Hampshire Housing Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "NH_NHHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "NJ",
+    "agency": "New Jersey Housing and Mortgage Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "NJ_NJHMFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "NM",
+    "agency": "New Mexico Mortgage Finance Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "NM_MFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 396218
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "NM",
+    "agency": "New Mexico Mortgage Finance Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "NM_MFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "NV",
+    "agency": "Nevada Housing Division",
+    "fiscal_year": "FY2024",
+    "source_file": "NV_NevadaHousingDivision_FY2024_StateACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 15001
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "OH",
+    "agency": "Ohio Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "OH_OHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "OH",
+    "agency": "Ohio Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "OH_OHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "OK",
+    "agency": "Oklahoma Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "OK_OHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "OK",
+    "agency": "Oklahoma Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "OK_OHFA_OK_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "OR",
+    "agency": "OR",
+    "fiscal_year": "FY2024",
+    "source_file": "OR_OHCS_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "PA",
+    "agency": "Pennsylvania Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "PA_PHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "PA",
+    "agency": "Pennsylvania Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "PA_PHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": true,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "RI",
+    "agency": "RI",
+    "fiscal_year": "FY2024",
+    "source_file": "RI_RIHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "SC",
+    "agency": "South Carolina State Housing Finance and Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "SC_SCHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "SC",
+    "agency": "South Carolina State Housing Finance and Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "SC_SCHFDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected"
+    ]
+  },
+  {
+    "state": "SD",
+    "agency": "South Dakota Housing Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "SD_SDHDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "SD",
+    "agency": "South Dakota Housing Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "SD_SDHDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "TN",
+    "agency": "Tennessee Housing Development Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "TN_THDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "TN",
+    "agency": "Tennessee Housing Development Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "TN_THDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "TX",
+    "agency": "Texas Department of Housing and Community Affairs",
+    "fiscal_year": "FY2024",
+    "source_file": "TX_TDHCA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "TX",
+    "agency": "Texas Department of Housing and Community Affairs",
+    "fiscal_year": "FY2025",
+    "source_file": "TX_TDHCA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": true,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "government-wide",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Government-wide Statement of Net Position detected",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "UT",
+    "agency": "Utah Housing Corporation",
+    "fiscal_year": "FY2024",
+    "source_file": "UT_UtahHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "UT",
+    "agency": "Utah Housing Corporation",
+    "fiscal_year": "FY2025",
+    "source_file": "UT_UtahHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": 306000,
+        "business_type": 186000,
+        "total": 120000
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": 306000
+      },
+      "total": {
+        "governmental": 306000,
+        "business_type": 186000,
+        "total": 426000
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands",
+      "Current and noncurrent portions identified separately"
+    ]
+  },
+  {
+    "state": "VA",
+    "agency": "Virginia Housing",
+    "fiscal_year": "FY2024",
+    "source_file": "VA_VirginiaHousing_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 4586579
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "VA",
+    "agency": "Virginia Housing",
+    "fiscal_year": "FY2025",
+    "source_file": "VA_VirginiaHousing_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 4145881
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "VT",
+    "agency": "Vermont Housing Finance Agency",
+    "fiscal_year": "FY2024",
+    "source_file": "VT_VHFA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "VT",
+    "agency": "Vermont Housing Finance Agency",
+    "fiscal_year": "FY2025",
+    "source_file": "VT_VHFA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "WA",
+    "agency": "Washington State Housing Finance Commission",
+    "fiscal_year": "FY2024",
+    "source_file": "WA_WSHFC_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2124738
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "WA",
+    "agency": "Washington State Housing Finance Commission",
+    "fiscal_year": "FY2025",
+    "source_file": "WA_WSHFC_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": 2988533
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "WI",
+    "agency": "Wisconsin Housing and Economic Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "WI_WHEDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "WI",
+    "agency": "Wisconsin Housing and Economic Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "WI_WHEDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "WV",
+    "agency": "West Virginia Housing Development Fund",
+    "fiscal_year": "FY2024",
+    "source_file": "WV_WVHDF_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "WV",
+    "agency": "West Virginia Housing Development Fund",
+    "fiscal_year": "FY2025",
+    "source_file": "WV_WVHDF_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position",
+      "Source amounts originally stated in thousands"
+    ]
+  },
+  {
+    "state": "WY",
+    "agency": "Wyoming Community Development Authority",
+    "fiscal_year": "FY2024",
+    "source_file": "WY_WCDA_FY2024_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  },
+  {
+    "state": "WY",
+    "agency": "Wyoming Community Development Authority",
+    "fiscal_year": "FY2025",
+    "source_file": "WY_WCDA_FY2025_ACFR.pdf",
+    "source_type": "pdf",
+    "has_gov_wide_snp": false,
+    "has_gov_fund_balance_sheet": false,
+    "lease_on_gov_fund_bs": false,
+    "sbita_on_gov_fund_bs": false,
+    "lease": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "combined_lease_sbita": {
+      "current": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "noncurrent": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      },
+      "total": {
+        "governmental": null,
+        "business_type": null,
+        "total": null
+      }
+    },
+    "reporting_format": "enterprise/single-column",
+    "extraction_notes": [
+      "Extracted from PDF",
+      "Enterprise / single-column Statement of Net Position"
+    ]
+  }
+]

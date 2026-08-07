@@ -1,0 +1,5002 @@
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+FINANCIAL REPORT
+June 30, 2025
+and
+June 30, 2024
+This page is intentionally left blank
+CONTENTS
+Independent Auditor’s Report on the Financial Statements 1
+Required Supplementary Information
+Management’s discussion and analysis (Unaudited) 4
+Financial Statements
+Statements of net position 11
+Statements of revenues, expenses and changes in net position 14
+Statements of cash flows 15
+Notes to basic financial statements 17
+Required Supplementary Information
+Schedule of changes in net pension liability and related ratios (Unaudited) 55
+Schedule of pension contributions (Unaudited) 57
+Schedule of Authority’s proportionate share of the net OPEB liability (Unaudited) 59
+Schedule of Authority’s OPEB contributions (Unaudited) 59
+Supplementary Information
+Detailed statement of net position as of June 30, 2025 63
+Detailed statement of net position as of June 30, 2024 65
+Detailed statement of revenues, expenses and changes in net position for the
+year ended June 30, 2025 67
+Detailed statement of revenues, expenses and changes in net position for the
+year ended June 30, 2024 69
+i
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Directors
+Wyoming Community Development Authority
+Casper, Wyoming
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the Wyoming Community Development Authority, a component
+unit of the State of Wyoming, as of and for the years ended June 30, 2025 and 2024, and the related notes to the
+financial statements, which collectively comprise the Wyoming Community Development Authority’s basic
+financial statements as listed in the table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all material respects,
+the respective financial position of the Wyoming Community Development Authority, as of June 30, 2025 and
+2024, and the respective changes in financial position and cash flows thereof for the years then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audits in accordance with auditing standards generally accepted in the United States of
+America (GAAS). Our responsibilities under those standards are further described in the Auditor’s
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of the Wyoming Community Development Authority and to meet our other ethical responsibilities,
+in accordance with the relevant ethical requirements relating to our audits. We believe that the audit evidence
+we have obtained is sufficient and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in accordance
+with accounting principles generally accepted in the United States of America, and for the design,
+implementation, and maintenance of internal control relevant to the preparation and fair presentation of
+financial statements that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are conditions or
+events, considered in the aggregate, that raise substantial doubt about the Wyoming Community Development
+Authority’s ability to continue as a going concern for twelve months beyond the financial statement date,
+including any currently known information that may raise substantial doubt shortly thereafter.
+1
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a
+guarantee that an audit conducted in accordance with GAAS will always detect a material misstatement when it
+exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control. Misstatements are considered material if there is a substantial likelihood that, individually or in
+the aggregate, they would influence the judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due to fraud
+or error, and design and perform audit procedures responsive to those risks. Such procedures include
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Wyoming Community Development Authority’s internal control. Accordingly, no
+such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of significant
+accounting estimates made by management, as well as evaluate the overall presentation of the financial
+statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that
+raise substantial doubt about the Wyoming Community Development Authority’s ability to continue as a
+going concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters
+that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis and the schedules of selected pension and other postemployment benefit information,
+as listed in the table of contents, be presented to supplement the basic financial statements. Such information, is
+the responsibility of management and, although not a part of the basic financial statements, is required by the
+Governmental Accounting Standards Board who considers it to be an essential part of financial reporting for
+placing the basic financial statements in an appropriate operational, economic, or historical context. We have
+applied certain limited procedures to the required supplementary information in accordance with GAAS, which
+consisted of inquiries of management about the methods of preparing the information and comparing the
+information for consistency with management’s responses to our inquiries, the basic financial statements, and
+other knowledge we obtained during our audit of the basic financial statements. We do not express an opinion
+or provide any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+2
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that collectively
+comprise the Wyoming Community Development Authority’s basic financial statements. The supplementary
+information as identified in the table of contents is presented for purposes of additional analysis and is not a
+required part of the basic financial statements. Such information is the responsibility of management and was
+derived from and relates directly to the underlying accounting and other records used to prepare the basic
+financial statements. The information has been subjected to the auditing procedures applied in the audit of the
+basic financial statements and certain additional procedures, including comparing and reconciling such
+information directly to the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional procedures in accordance with
+GAAS. In our opinion, the supplementary information as identified in the table of contests is fairly stated, in all
+material respects, in relation to the basic financial statements as a whole.
+Porter, Muirhead, Cornia & Howard
+Certified Public Accountants
+December 18, 2025
+Casper, Wyoming
+3
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+This section of the Wyoming Community Development Authority’s (the “Authority”) annual financial report
+presents our discussion and analysis of the financial activities for the fiscal years ended June 30, 2025 and 2024.
+The selected data presented was derived from the Authority’s financial statements, which were audited by Porter,
+Muirhead, Cornia & Howard, Certified Public Accountants. The Authority is a self-supporting entity and follows
+enterprise fund reporting in accordance with accounting principles generally accepted in the United States of
+America; accordingly, the financial statements are presented using the economic resources measurement focus
+and the accrual basis of accounting as prescribed by the Governmental Accounting Standards Board (GASB).
+Enterprise fund statements offer short-term and long-term financial information about the Authority’s activities.
+The Independent Auditor’s Report, audited financial statements and accompanying notes, and supplementary
+information should be read in conjunction with the following discussion.
+Overview of the Financial Statements
+The basic financial statements consist of the Statements of Net Position, the Statements of Revenues, Expenses
+and Changes in Net Position, the Statements of Cash Flows and the notes thereto. The financial statements offer
+information about the Authority’s activities and operations.
+The Statements of Net Position include the Authority’s assets and liabilities, presented in order of liquidity, along
+with deferred outflows and deferred inflows, which represent deferrals of resources related to future periods. The
+resulting net position present in these statements is displayed as net investment in capital assets, restricted or
+unrestricted. Net position is restricted when its use is subject to external limits such as bond indentures, legal
+agreements or statutes.
+The Authority’s current year revenues and expenses are recorded in the Statements of Revenues, Expenses and
+Changes in Net Position. This statement measures the activities of the Authority’s operations over the past year
+and presents the resulting change in net position.
+The final required financial statements are the Statements of Cash Flows. The primary purpose of these statements
+is to provide information about the Authority’s cash receipts and cash payments during the reporting period. These
+statements report cash receipts, cash payments and net changes in cash resulting from operating, noncapital
+financing, capital and related financing and investing activities. These statements also provide information
+regarding the sources and uses of cash and the change in the cash balance during the reporting period.
+The notes to the financial statements provide additional information that is essential for a full understanding of
+the information provided in the financial statements.
+Required and other supplementary information is presented following the notes to the financial statements to
+provide selected supplemental information, such as combining schedules and statements for the Authority’s
+programs.
+4
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+Financial Position Analysis
+The following table is a summary of the Authority’s net position at June 30, 2025, 2024 and 2023.
+2025 Change 2024 Change 2023
+Cash and cash
+equivalents $ 297,382,638 $ 72,371,236 32.16% $ 225,011,402 $ (2,375,942) -1.04% $ 227,387,344
+Investments 1 05,930,905 (6,548,026) -5.82% 1 12,478,931 (51,235,139) -31.30% 1 63,714,070
+Other current assets 3,625,950 1 ,532,007 73.16% 2 ,093,943 (15,299) -0.73% 2 ,109,242
+Mortgage loans
+receivable 1,092,906,705 72,014,263 7.05% 1,020,892,442 87,392,670 9.36% 9 33,499,772
+Other noncurrent assets 40,652,361 (4,176,080) -9.32% 44,828,441 (8,782,352) -16.38% 53,610,793
+Total assets 1,540,498,559 1 35,193,400 9.62% 1,405,305,159 24,983,938 1.81% 1,380,321,221
+Deferred outflow
+of resources 2,185,180 1 ,167,922 114.81% 1 ,017,258 (1,668,872) -62.13% 2 ,686,130
+Other current
+liabilities 6 ,235,700 1 ,738,125 38.65% 4 ,497,575 532,775 13.44% 3 ,964,800
+Bonds payable 1,057,072,908 119,024,514 12.69% 9 38,048,394 9 ,650,885 1.04% 9 28,397,509
+Other long-term
+liabilities 7 ,523,633 1 ,396,453 22.79% 6 ,127,180 ( 357,880) -5.52% 6 ,485,060
+Total liabilities 1,070,832,241 1 22,159,092 12.88% 9 48,673,149 9 ,825,780 1.05% 9 38,847,369
+Deferred inflow
+of resources 15,570,078 ( 813,541) -4.97% 16,383,619 1 ,907,561 13.18% 14,476,058
+Net investment in
+capital assets 1 ,492,684 (109,838) -6.85% 1 ,602,522 ( 175,362) -9.86% 1 ,777,884
+Restricted 2 36,288,948 (25,850,521) -9.86% 2 62,139,469 2,323,669 0.89% 2 59,815,800
+Unrestricted 218,499,788 40,976,130 23.08% 1 77,523,658 9,433,418 5.61% 1 68,090,240
+Total net position $ 456,281,420 $ 15,015,771 3.40% $ 4 41,265,649 $ 11,581,725 2.70% $ 4 29,683,924
+The net investment in capital assets, which is the net book value of capital assets (e.g. land, buildings, and
+equipment) is $1,492,684, $1,602,522, and $1,777,884 for the years ended June 30, 2025, 2024, and 2023,
+respectively. The Authority uses these capital assets to provide services to borrowers; consequently, these assets
+are not available for future spending. The Authority currently has no debt associated with its capital assets;
+however, other sources would need to be identified to finance future capital asset purchases. An additional portion
+of the Authority’s net position, $236,288,948, $262,139,469, and $259,815,800 for the years ended June 30, 2025,
+2024, and 2023, respectively, represents resources that are subject to external restriction on how they may be used.
+These restrictions include bond covenants associated with the 1994 Indenture, as well as federal grant agreements
+associated with the activity of the Housing & Neighborhood Development Department.
+The net position of the Authority increased $15.0 million from June 30, 2024 to June 30, 2025 and increased $11.6
+million from June 30, 2023 to June 30, 2024. Increasing operating income and decreasing non-operating losses
+as compared to the prior year led to the increase in the current year.
+5
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+Financial Position Analysis (Continued)
+Cash and cash equivalents increased $72.4 million and investments decreased $6.6 million for a combined increase
+in funds of $65.8 million during the year ended June 30, 2025. Cash and cash equivalents decreased $2.4 million
+and investments decreased $51.2 million for a combined decrease in funds of $53.6 million during the year ended
+June 30, 2024. The changes were due to the following:
+6
+NN
+NNN
+F
+N
+e t
+e t
+e t
+e t
+e t
+u n
+e t
+( in
+( in
+in c
+in c
+in c
+d s p
+in c
+c r e a s e ) d e c
+c r e a s e ) d e c
+r e a s e ( d e c r
+r e a s e ( d e c r
+r e a s e ( d e c r
+r o v id e d b y
+r e a s e ( d e c r
+r e a s e in o
+r e a s e in m
+e a s e ) in o
+e a s e ) in o
+e a s e ) in b
+( u s e d in )
+e a s e ) in c
+t h e r a s s e t s
+o r t g a g e lo a n s r e c e iv
+t h e r c u r r e n t lia b ilit ie
+t h e r lia b ilit ie s
+o n d s p a y a b le
+o p e r a t io n s
+a s h a n d c a s h e q u iv a le
+a
+s
+n
+b le
+t s , a n d in v e s t m e n t s
+2
+$ 1
+( 7 2
+1
+1
+1 1 9
+1 4
+$ 6 5
+0,1,0
+,7,3,0
+,5
+,8
+271
+392
+0
+2
+514
+864
+7
+3
+,3,2
+,1,4,5
+,0
+,2
+06
+251
+8
+1
+13
+534
+0
+0
+)
+2 0
+$ 1 0 ,8
+( 8 7 ,3
+5
+( 3
+9 ,6
+1 3 ,1
+$ ( 5 3 ,6
+219
+355
+4
+1
+422
+270
+3
+1
+,4,6
+,7,8,8
+,3
+,0
+87
+788
+2
+8
+10
+505
+8
+1
+)
+)
+)
+Mortgage loans receivable increased $72.0 million during the year ended June 30, 2025 and $87.4 million during
+the year ended June 30, 2024 due to the following:
+P re p a y m e n ts
+C u rta ilm e n ts a n d sc h e d u le d p a y m e n ts
+(In c re a se ) d e c re a se in lo a n lo ss re se rv e s
+M o rtg a g e lo a n p u rc h a se s
+G a in (lo ss) p o ste d o n fo re c lo se d lo a n s
+R e c la ssifie d (to )/fro m re a l e sta te h e ld fo r sa le
+N e t in c re a se (d e c re a se ) in m o rtg a g e lo a n s re c e iv a b le
+2 0 2 5
+$ (7 8 ,0 8
+(3 5 ,4 6
+(1 2 ,7 9
+1 9 9 ,3 5
+(2 8
+(7 1
+$ 7 2 ,0 1
+055352
+4
+,3,4,3,1,2,4
+,2
+089655
+6
+952083
+3
+)))
+))
+2 0 2 4
+$ (8 5 ,2 4
+(3 4 ,1 3
+(1 ,2 7
+2 0 7 ,6 4
+(6
+4 6
+$ 8 7 ,3 9
+393846
+2
+,8,4,9,1,4,1
+,6
+047878
+7
+252010
+0
+)))
+)
+Total assets increased $135.2 million during the year ended June 30, 2025, and $25.0 million during the year
+ended June 30, 2024 due to the following:
+2025 2024
+Increase (decrease) in cash, cash equivalents and investments (discussed previously) $ 65,823,210 $ (53,611,081)
+Increase (decrease) in mortgage and investment interest receivable 33,132 565,599
+Increase (decrease) in accounts receivable and other assets (1,171,301) (10,812,481)
+Increase (decrease) in mortgage loans receivable (discussed previously) 72,014,263 87,392,670
+Increase (decrease) in real estate held for sale 555,500 (242,500)
+Increase (decrease) in deferred hedging cost of fixed-rate swaps (1,354,469) 2,838,114
+Increase (decrease) in deferred servicing costs (597,097) (971,021)
+Increase (decrease) in property and equipment (109,838) (175,362)
+Increase (decrease) in total assets $ 135,193,400 $ 24,983,938
+Deferred outflows of resources increased $1.2 million for the year ended June 30, 2025 and decreased $1.7 million
+during the year ended June 30, 2024 due to the following:
+2025 2024
+Increase (decrease) in pension contributions and change in earnings $ 68,906 $ (1,551,996)
+Increase (decrease) in deferred outflows from other postemployment benefits 1,099,016 (116,876)
+Increase (decrease) in total deferred outflows of resources $ 1,167,922 $ (1,668,872)
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+Financial Position Analysis (Continued)
+Other current liabilities increased $1.7 million for the year ended June 30, 2025, and $0.5 million for the year
+ended June 30, 2024 due to the following:
+7
+I
+I
+I
+n
+n
+n
+c
+c
+c
+r
+r
+r
+e
+e
+e
+a
+a
+a
+s
+s
+s
+e
+e
+e
+(
+(
+(
+d
+d
+d
+e
+e
+e
+c
+c
+c
+r
+r
+r
+e
+e
+e
+a
+a
+a
+s
+s
+s
+e
+e
+e
+)
+)
+)
+in
+in
+in
+a
+a
+o
+c
+c
+t
+c
+c
+h
+r u e d in t e r e s t p a y a b le
+o u n t s p a y a b le a n d o t
+e r c u r r e n t lia b ilit ie s
+h e r lia b ilit ie s
+2 0
+$ 5
+1 ,2
+$ 1 ,7
+2
+1
+2
+3
+5
+6
+1
+8
+,2
+,9
+,1
+2
+0
+2
+4
+1
+5
+2 0 2
+$ 2
+5 0
+$ 5 3
+4
+4
+7
+2
+,8
+,9
+,7
+5
+2
+7
+0
+5
+5
+Bonds payable increased $119.0 million during the year ended June 30, 2025 and $9.7 million during the year
+ended June 30, 2024 due to the following:
+R
+A
+B
+P
+I
+e d e m p t io n s , r e f u n d in g s a n d m
+m o r t iz a t io n o f b o n d p r e m iu m
+o n d is s u a n c e s
+r e m iu m s o n b o n d is s u a n c e s
+n c r e a s e ( d e c r e a s e ) in b o n d s p a
+a t u
+s
+y a b
+r it
+le
+ie s
+2
+$ ( 9 1
+( 2
+2 1 0
+2
+$ 1 1 9
+0
+,8
+,1
+,2
+,6
+,0
+2
+0
+5
+8
+9
+2
+5
+0
+3
+5
+2
+4
+,0
+,2
+,0
+,7
+,5
+0
+2
+0
+4
+1
+0
+9
+0
+3
+4
+)
+)
+2 0 2 4
+$ ( 6 8 ,2 2 5 ,0 0 0 )
+( 2 ,1 2 4 ,1 1 5 )
+8 0 ,0 0 0 ,0 0 0
+-
+$ 9 ,6 5 0 ,8 8 5
+See Note 8 for additional information on bonds payable.
+Total liabilities increased $122.2 million during the year ended June 30, 2025 and $9.8 million during the year
+ended June 30, 2024 due to the following:
+I
+I
+I
+I
+n
+n
+n
+n
+c
+c
+c
+c
+r
+r
+r
+r
+e
+e
+e
+e
+a
+a
+a
+a
+s
+s
+s
+s
+e
+e
+e
+e
+(
+(
+(
+(
+d
+d
+d
+d
+e
+e
+e
+e
+c
+c
+c
+c
+r
+r
+r
+r
+e
+e
+e
+e
+a
+a
+a
+a
+s
+s
+s
+s
+e
+e
+e
+e
+)
+)
+)
+)
+in
+in
+in
+in
+b
+o
+o
+t
+o
+t
+t
+o
+n d s p a y a b le ( d
+h e r c u r r e n t lia
+h e r n o n c u r r e n
+t a l lia b ilit ie s
+is c u
+b ilit
+t lia
+s s e d p r e
+ie s ( d is c
+b ilit ie s
+v
+u
+io
+s s
+u s ly
+e d p
+)
+r e v io u s ly )
+2
+$ 1 1 9
+1
+1
+$ 1 2 2
+0,0
+,7
+,3
+,1
+22
+3
+9
+5
+54
+8
+6
+9
+,5
+,1
+,4
+,0
+1
+2
+5
+9
+4
+5
+3
+2
+2 0
+$ 9 ,6
+5
+( 3
+$ 9 ,8
+25
+3
+5
+2
+40
+2
+7
+5
+,8
+,7
+,8
+,7
+8
+7
+8
+8
+5
+5
+0
+0
+)
+Deferred inflows of resources decreased $0.8 million during the year ended June 30, 2025 and increased $1.9
+million during the year ended June 30, 2024 due to the following:
+2025 2024
+Increase (decrease) in differences between expected and actual pension experience $ 317,832 $ (1,121,799)
+Increase (decrease) in deferred inflows from other postemployment benefits 220,563 216,035
+Increase (decrease) in accumulated change in fair value of hedging derivatives (1,351,936) 2,813,325
+Increase (decrease) in deferred inflows of resources $ (813,541) $ 1,907,561
+See Note 15 for additional information on the change in pension experience and Note 16 for additional information
+on the change in other postemployment benefits.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+Results of Operations Analysis
+The following table is a condensed summary of changes in net position for the years ended June 30, 2025, 2024
+and 2023:
+2025 Change 2024 Change 2023
+Operating revenue
+Mortgage interest $ 41,682,137 $ 6 ,304,779 17.82% $ 35,377,358 $ 5 ,304,381 17.64% $ 30,072,977
+Investment income 16,512,258 519,383 3.25% 15,992,875 2,982,774 22.93% 13,010,101
+Change in fair value 2 ,356,664 2 ,827,028 -601.03% (470,364) 7,443,507 -94.06% (7,913,871)
+Other income 4 ,244,042 110,714 2.68% 4,133,328 449,769 12.21% 3,683,559
+Total operating
+revenues 64,795,101 9,761,904 17.74% 55,033,197 16,180,431 41.65% 38,852,766
+Operating expenses
+Interest expense 31,120,290 6 ,250,630 25.13% 24,869,660 2,734,095 12.35% 22,135,565
+Other operating
+expenses 16,100,849 2,108,280 15.07% 13,992,569 143,462 1.04% 13,849,107
+Total operating
+expenses 47,221,139 8,358,910 21.51% 38,862,229 2,877,557 8.00% 35,984,672
+Operating income 17,573,962 1,402,994 8.68% 16,170,968 13,302,874 463.82% 2 ,868,094
+Nonoperating income (loss) (2,558,191) 2 ,031,052 -44.26% (4,589,243) (10,700,644) -175.09% 6 ,111,401
+Net income 15,015,771 3 ,434,046 29.65% 11,581,725 2 ,602,230 28.98% 8,979,495
+Beginning net position 4 41,265,649 11,581,725 2.70% 4 29,683,924 8 ,979,495 2.13% 420,704,429
+Ending net position $ 4 56,281,420 $ 15,015,771 3.40% $ 4 41,265,649 $ 11,581,725 2.70% $ 4 29,683,924
+The operating income increased by $1.4 million when compared to fiscal year 2024. This increase is attributed
+primarily to the improvement in the change in fair value of investments due to fluctuations in the market value of
+investments during the year and mortgage interest income earned.
+Nonoperating income (loss) represents the activities associated with the Housing & Neighborhood Development
+Department. During the year ended June 30, 2025, increased levels of federal monies received had greater impact
+in offsetting the amount of federal expenditures, the largest portion of that being an adjustment for loan loss
+reserves, which resulted in the overall reduction to nonoperating loss of $2.0 million as compared to June 30,
+2024.
+Capital Asset and Debt Administration
+The Authority’s capital assets include land, buildings, furniture and equipment. Capital assets are presented in
+the financial statements as follows:
+8
+P ro p e rty a n d e q u ip m e n t, n e t $
+2 0
+1 ,4
+29 52
+,6 8 4 $
+C h
+(1
+a n g e
+0 9 ,8 3 8 ) $
+2 0
+1 ,6
+20 42
+,5 2 2 $
+C h
+(1
+a n g e
+7 5 ,3 6 2 ) $
+2 0
+1 ,7
+27 37
+,8 8 4
+Typically, the change in capital assets in any given year is immaterial to the overall operation of the Authority.
+In the 1994 Indenture, the Authority issued $210.3 million in bonds during the year ended June 30, 2025, and
+$80.0 million in bonds during the year ended June 30, 2024. Maturities, redemptions and refundings reduced
+bonds outstanding by $91.8 million during the year ended June 30, 2025 and $68.2 million during the year ended
+June 30, 2024. See Note 8 for additional information.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+(Unaudited)
+June 30, 2025 and 2024
+Economic Factors
+The primary business activities of the Authority are funding the purchase and servicing of single-family
+mortgages, and the administration of the federal affordable housing programs. The Authority’s mortgage
+financing activities are sensitive to the current interest rates, the spread between the rate at which the Authority is
+able to purchase loans, the rate available in the conventional mortgage markets, and also the availability of
+affordable housing in Wyoming. The availability of Federal National Mortgage Association (FNMA) and
+Government National Mortgage Association (GNMA) to purchase loans or guarantee loan securities; the
+availability of the Federal Housing Administration (FHA), the Veterans Administration (VA), and the Department
+of Agriculture’s Office of Rural Development (RD) to guarantee loans; the continuation of servicing relationships
+with banks in Wyoming; and the availability of long-term, tax-exempt financing on favorable terms are key
+elements of providing the resources necessary for the Authority to continue its mortgage financing and servicing
+activities. In addition, the funding of the Authority’s federal affordable housing program activities is dependent
+on budget appropriations from the U.S. Department of Housing and Urban Development (HUD), as contained in
+the federal budget.
+Requests for Information
+This financial report is designed to provide a general overview of the activities of the Authority. If you have
+questions about the report or need additional financial information, please contact the Director of Finance &
+Administration, Wyoming Community Development Authority, P.O. Box 634, Casper, Wyoming 82602, or go to
+our website at www.wyomingcda.com.
+9
+This page is intentionally left blank
+10
+See notes to the basic financial statements
+11
+A
+C
+N
+D
+W Y O M I N G C O M M U N I T Y D
+S T A T E M E N T S O
+J u n e 3 0 , 2 0
+S S E T S A N D D E F E R R E D O U T F L O W S
+O F R E S O U R C E S
+u r r e n t A s s e t s
+C a s h a n d c a s h e q u iv a le n t s
+I n v e s t m e n t s
+I n t e r e s t r e c e iv a b le
+M o r t g a g e lo a n s
+I n v e s t m e n t s
+A c c o u n t s r e c e iv a b le a n d o t h e r a s s e t s
+T o t a l c u r r e n t s a s s e t s
+o n c u r r e n t A s s e t s
+R e s t r ic t e d c a s h a n d c a s h e q u iv a le n t s
+R e s t r ic t e d in v e s t m e n t s
+R e s t r ic t e d m o r t g a g e lo a n s r e c e iv a b le , n e t
+R e s t r ic t e d r e a l e s t a t e h e ld f o r s a le
+R e s t r ic t e d in t e r e s t r e c e iv a b le
+M o r t g a g e lo a n s
+I n v e s t m e n t s
+R e s t r ic t e d a c c o u n t s r e c e iv a b le a n d o t h e r a s s e t s
+M o r t g a g e lo a n s r e c e iv a b le , n e t
+R e a l e s t a t e h e ld f o r s a le
+D e f e r r e d h e d g in g c o s t s o f f ix e d - r a t e s w a p s
+D e f e r r e d s e r v ic in g c o s t s , n e t
+P r o p e r t y a n d e q u ip m e n t , n e t
+T o t a l n o n c u r r e n t a s s e t s
+T o t a l a s s e t s
+e f e r r e d O u t f lo w s o f R e s o u r c e s
+D e f e r r e d o u t f lo w s f r o m p e n s io n p la n it e m s
+D e f e r r e d o u t f lo w s f r o m o t h e r p o s t e m p lo y m e n t b e n e
+T o t a l d e f e r r e d o u t f lo w s o f r e s o u r c e s
+T o t a l a s s e t s a n d d e f e r r e d o u t f lo w s o f r e s o u r c e s
+E
+F
+2
+f
+V E
+N E
+5 a n
+it s
+L
+T
+d
+O P
+P O
+2 0 2
+M
+S
+4
+E
+I T
+N
+I
+T A U T H
+O N
+2 0 2 5
+$ 1 1 0 ,2 0
+8 9 ,0 9
+4
+6 5
+2 ,9 2
+2 0 2 ,9 2
+1 8 7 ,1 7
+1 6 ,8 3
+1 ,0 7 8 ,4 6
+1 ,2 2
+3 ,6 5
+9 0
+1 1 ,6 1
+1 4 ,4 3
+5 0
+1 2 ,8 1
+8 ,4 4
+1 ,4 9
+1 ,3 3 7 ,5 7
+1 ,5 4 0 ,4 9
+4 7
+1 ,7 1
+2 ,1 8
+$ 1 ,5 4 2 ,6 8
+O
+4
+5
+4
+7
+3
+6
+8
+4
+9
+0
+6
+8
+0
+6
+2
+3
+8
+2
+2
+8
+3
+1
+5
+3
+R
+,5
+,9
+,5
+,5
+,9
+,4
+,0
+,9
+,9
+,5
+,1
+,9
+,1
+,7
+,0
+,7
+,2
+,6
+,0
+,5
+,5
+,5
+,1
+,7
+I T
+6 3
+4 7
+3 9
+0 3
+0 8
+6 0
+7 5
+5 8
+1 3
+0 0
+6 8
+3 9
+1 6
+9 2
+0 0
+2 2
+3 2
+8 4
+9 9
+5 9
+8 9
+9 1
+8 0
+3 9
+Y
+2 0 2
+$ 7 6 ,5
+7 0 ,9
+1
+8
+1 ,0
+1 4 9 ,5
+1 4 8 ,4
+4 1 ,5
+9 9 5 ,0
+9
+3 ,1
+1 ,0
+1 4 ,6
+2 5 ,8
+2
+1 4 ,1
+9 ,0
+1 ,6
+1 ,2 5 5 ,7
+1 ,4 0 5 ,3
+4
+6
+1 ,0
+$ 1 ,4 0 6 ,3
+4
+1
+5
+7
+4
+7
+5
+9
+2
+1
+4
+8
+2
+3
+7
+2
+6
+4
+0
+4
+0
+0
+1
+1
+2
+1
+3
+1
+8
+4
+9
+9
+5
+6
+0
+4
+9
+1
+5
+7
+8
+5
+2
+6
+5
+4
+2
+7
+2
+,8
+,2
+,1
+,4
+,2
+,1
+,5
+,6
+,6
+,0
+,7
+,5
+,0
+,7
+,0
+,1
+,3
+,5
+,0
+,1
+,6
+,5
+,2
+,4
+8
+7
+9
+8
+6
+0
+2
+5
+7
+0
+7
+6
+6
+6
+0
+9
+2
+2
+5
+5
+8
+7
+5
+1
+0
+7
+2
+6
+5
+0
+2
+4
+8
+0
+4
+5
+0
+4
+0
+1
+9
+2
+9
+9
+3
+5
+8
+7
+12
+L
+C
+N
+D
+N
+I A B I L I T I E S , D E F E R R E D I N F L O W S O
+R E S O U R C E S A N D N E T P O S I T I O N
+u r r e n t L ia b ilit ie s
+B o n d s p a y a b le
+A c c r u e d in t e r e s t p a y a b le
+A c c o u n t s p a y a b le a n d o t h e r lia b ilit ie s
+T o t a l c u r r e n t s lia b ilit ie s
+o n c u r r e n t L ia b ilit ie s
+B o n d s p a y a b le
+O t h e r d e f e r r e d c r e d it s
+P e n s io n lia b ilit ie s
+O t h e r p o s t e m p lo y m e n t b e n e f it lia b ilit ie s
+T o t a l n o n c u r r e n t lia b ilit ie s
+T o t a l lia b ilit ie s
+e f e r r e d I n f lo w s o f R e s o u r c e s
+D e f e r r e d in f lo w s f r o m p e n s io n p la n it e m s
+D e f e r r e d in f lo w s f r o m o t h e r p o s t e m p lo y m
+A c c u m u la t e d in c r e a s e in f a ir v a lu e o f h e d
+T o t a l d e f e r r e d in f lo w s o f r e s o u r c e s
+e t P o s it io n
+N e t in v e s t m e n t in c a p it a l a s s e t s
+R e s t r ic t e d
+U n r e s t r ic t e d
+T o t a l n e t p o s it io n
+T o t a l lia b ilit ie s , d e f e r r e d in f lo w s o f
+r e s o u r c e s a n d n e t p o s it io n
+F
+e
+g
+n
+in
+t b e n e f
+g d e r iv
+it s
+a t iv e s
+$
+$
+2
+3
+3
+1 ,0 2
+1 ,0 3
+1 ,0 7
+1
+1
+2 3
+2 1
+4 5
+1 ,5 4
+0 2
+3 ,0
+2 ,8
+3 ,4
+9 ,2
+4 ,0
+2 ,2
+3 ,4
+1 ,8
+1 ,5
+0 ,8
+5
+2 ,1
+2 ,8
+5 ,5
+1 ,4
+6 ,2
+8 ,4
+6 ,2
+2 ,6
+5
+4
+0
+3
+7
+3
+7
+4
+0
+5
+3
+0
+9
+6
+7
+9
+8
+9
+8
+8
+0
+0
+5
+5
+2
+4
+1
+7
+6
+2
+8
+6
+4
+0
+2
+8
+9
+1
+3
+,0
+,5
+,1
+,7
+,9
+,2
+,7
+,5
+,5
+,2
+,6
+,9
+,4
+,0
+,6
+,9
+,7
+,4
+,7
+0
+9
+0
+0
+0
+6
+9
+7
+4
+4
+6
+6
+5
+7
+8
+4
+8
+2
+3
+0
+6
+4
+0
+8
+9
+4
+0
+1
+1
+1
+1
+6
+8
+4
+8
+8
+0
+9
+$
+$
+2
+3
+3
+9 0
+9 1
+9 4
+1
+1
+2 6
+1 7
+4 4
+1 ,4 0
+0 2
+2 ,6
+2 ,2
+2 ,2
+7 ,1
+5 ,4
+1 ,3
+3 ,8
+9
+1 ,5
+8 ,6
+1
+1 ,9
+4 ,2
+6 ,3
+1 ,6
+2 ,1
+7 ,5
+1 ,2
+6 ,3
+4
+2
+8
+1
+1
+2
+7
+3
+0
+5
+7
+9
+7
+1
+8
+0
+3
+2
+6
+2
+0
+4
+3
+7
+8
+9
+8
+8
+5
+3
+0
+6
+6
+3
+2
+9
+3
+5
+2
+,0
+,3
+,2
+,5
+,3
+,3
+,9
+,8
+,5
+,1
+,8
+,3
+,3
+,6
+,5
+,4
+,6
+,6
+,4
+0
+7
+0
+7
+9
+9
+5
+3
+7
+4
+2
+9
+9
+1
+2
+6
+5
+4
+1
+0
+2
+3
+5
+4
+6
+4
+0
+4
+9
+9
+8
+2
+9
+2
+9
+8
+9
+7
+This page is intentionally left blank
+13
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+STATEMENTS OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+Years Ended June 30, 2025 and 2024
+2025 2024
+Operating Revenues
+Mortgage interest $ 41,682,137 $ 35,377,358
+Investment interest income 16,512,258 15,992,875
+Net increase (decrease) in the fair value of investments 2 ,356,664 (470,364)
+Fees and other income 4,244,042 4 ,133,328
+Total operating revenues 64,795,101 55,033,197
+Operating Expenses
+Interest expense 31,120,290 24,869,660
+Servicer fees 14,354 17,668
+Amortization of deferred servicing costs 2,949,385 3 ,557,010
+Cost of issuance and other financing costs 2 ,918,039 1 ,825,391
+Provision for loan losses and real estate owned 703,937 480,163
+General and administrative 9,515,134 8 ,112,337
+Total operating expenses 47,221,139 38,862,229
+Operating income 17,573,962 16,170,968
+Nonoperating Revenues (Expenses)
+Federal program income 13,817,027 6 ,825,800
+Federal program expenses ( 16,375,218) ( 11,415,043)
+Nonoperating loss (2,558,191) (4,589,243)
+Net income 15,015,771 11,581,725
+Net position, beginning of year 441,265,649 429,683,924
+Net position, end of year $ 456,281,420 $ 441,265,649
+See notes to the basic financial statements
+14
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+STATEMENTS OF CASH FLOWS
+Years Ended June 30, 2025 and 2024
+2025 2024
+Cash Flows from Operating Activities
+Cash receipts for services $ 4,244,042 $ 4,133,328
+Interest income on mortgage loans 41,317,334 34,821,027
+Principal received on mortgage loans 108,998,232 117,146,425
+Cash payments to purchase mortgage loans (183,480,653) (199,484,843)
+Cash payments to servicers (14,354) ( 17,668)
+Cash payments to suppliers (8,496,962) (4,900,195)
+Cash payments to employees (3,912,443) (3,664,656)
+Net cash used in operating activities ( 41,344,804) ( 51,966,582)
+Cash Flows from Noncapital Financing Activities
+Federal revenues 13,490,730 6 ,385,136
+Federal expenses (3,501,657) (1,992,706)
+Federal program notes issued ( 12,519,098) (5,889,123)
+Federal program note payments received 4,547,563 2 ,236,822
+Proceeds from bonds payable 212,977,743 80,000,000
+Principal paid on bonds payable ( 91,800,000) ( 68,225,000)
+Interest paid on bonds payable (32,757,295) ( 26,968,925)
+Proceeds from notes payable - 8 ,070,000
+Payments on note payable - (8,070,000)
+Net cash provided by (used in) noncapital financing activities 90,437,986 ( 14,453,796)
+Cash Flows from Capital and Related Financing Activities
+Purchase of fixed assets (66,769) ( 16,166)
+Purchase of mortgage servicing rights (2,386,267) (2,601,988)
+Net cash used in capital and related financing activities (2,453,036) (2,618,154)
+Cash Flows from Investing Activities
+Interest received from investments 16,782,107 15,791,050
+Purchase of investments - (3,478,125)
+Proceeds from sales and maturities of investments 8 ,948,983 54,349,665
+Net cash provided by investing activities 25,731,090 66,662,590
+Increase (decrease) in cash and cash equivalents 72,371,236 (2,375,942)
+Cash and cash equivalents, beginning of year 225,011,402 227,387,344
+Cash and cash equivalents, end of year $ 297,382,638 $ 225,011,402
+See notes to the basic financial statements
+15
+16
+R
+R
+S
+e
+C
+N
+e
+u
+O
+A
+u
+N
+c o n c ilia t io n o f e n d in g c a s h a n d c a s h e q u iv a le n t s
+u r r e n t c a s h a n d c a s h e q u iv a le n t s
+o n c u r r e n t r e s t r ic t e d c a s h a n d c a s h e q u iv a le n t s
+C a s h a n d c a s h e q u iv a le n t s , e n d o f y e a r
+c o n c ilia t io n o f o p e r a t in g in c o m e t o n e t c a s h
+s e d in o p e r a t in g a c t iv it ie s
+p e r a t in g in c o m e
+d ju s t m e n t s t o r e c o n c ile o p e r a t in g in c o m e t o n e t
+u s e d in o p e r a t in g a c t iv it ie s
+I n t e r e s t o n b o n d s
+N e t in c r e a s e ( d e c r e a s e ) in f a ir v a lu e o f in v e s t m
+I n t e r e s t f r o m in v e s t m e n t s
+M o r t g a g e lo a n p r in c ip a l r e p a y m e n t s
+S c h e d u le d
+P r e p a id
+P u r c h a s e o f m o r t g a g e lo a n s
+A m o r t iz a t io n o f d e f e r r e d s e r v ic in g c o s t s
+P r o v is io n f o r lo a n lo s s e s a n d r e a l e s t a t e o w n e d
+N e t c h a n g e in o t h e r a s s e t s a n d lia b ilit ie s
+N e t c a s h u s e d in o p e r a t in g a c t iv it ie s
+p p le m e n t a l C a s h F lo w I n f o r m a t io n
+o n c a s h n o n c a p it a l f in a n c in g a c t iv it y
+F e d e r a l p r o g r a m n o t e s r o lle d in t o m o r t g a g e s
+c
+e
+a
+n
+s h
+t s
+$
+$
+$
+$
+$
+2
+1 1
+1 8
+2 9
+1
+3
+(
+( 1
+3
+7
+( 1 8
+( 4
+1
+0 2
+0 ,2
+7 ,1
+7 ,3
+7 ,5
+1 ,1
+2 ,3
+6 ,5
+3 ,3
+5 ,6
+3 ,4
+2 ,9
+7
+( 3
+1 ,3
+5 ,8
+5
+0
+78
+7
+2
+5
+1
+6
+3
+8
+8
+0
+7
+4
+7
+4
+82
+3
+0
+6
+2
+6
+1
+0
+3
+3
+5
+4
+2
+,5
+,0,6
+,9
+,2
+,6
+,2
+,8
+,3
+,6
+,3
+,9
+,0
+,8
+,5
+6
+73
+6
+9
+6
+5
+7
+5
+5
+6
+3
+1
+0
+0
+3
+58
+2
+0
+4
+8
+5
+7
+3
+4
+7
+4
+4
+7
+)
+)
+)
+)
+)
+$
+$
+$
+$
+$
+2
+7
+1 4
+2 2
+1
+2
+( 1
+3
+8
+( 1 9
+( 5
+1
+0 2
+6 ,5
+8 ,4
+5 ,0
+6 ,1
+4 ,8
+4
+5 ,9
+2 ,1
+4 ,9
+9 ,4
+3 ,5
+4
+8
+1 ,9
+4 ,1
+4
+1
+91
+7
+6
+7
+9
+9
+5
+8
+7
+8
+0
+6
+2
+1
+91
+0
+9
+0
+2
+1
+4
+4
+3
+0
+0
+6
+2
+,8
+,5,4
+,9
+,6
+,3
+,8
+,9
+,5
+,8
+,0
+,1
+,5
+,5
+,0
+8
+20
+6
+6
+6
+7
+1
+1
+4
+0
+6
+4
+8
+0
+0
+22
+8
+0
+4
+5
+4
+1
+3
+9
+3
+7
+2
+0
+)
+)
+)
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 1. Authority Legislation
+The Wyoming Community Development Authority (the “Authority”) was created in 1975 by the Wyoming Community
+Development Authority Act to provide financing for housing needs within the State of Wyoming (the “State”). The
+Authority is a component unit of the State and is reported as an enterprise fund.
+In March 2002, the Authority was authorized by the Legislature of the State of Wyoming to issue additional bonds. In
+addition to the bonds presently outstanding, any bonds authorized for care facility projects, bonds that may be issued to
+refund bonds, and bonds the Authority may issue from time to time as private activity bonds exempt from federal income
+taxation under Section 146 of the Internal Revenue Code of 1986, as amended, the Authority may issue and have
+outstanding additional bonds in the aggregate amount of up to $400,000,000. In addition, the Authority may issue and
+have outstanding additional bonds for care facility projects in an aggregate amount of up to $250,000,000. Amounts so
+issued shall not be deemed to constitute a debt of the State or any political subdivision thereof.
+Note 2. Significant Accounting Policies
+Fund Accounting and Generally Accepted Accounting Principles
+Basis of Presentation – The Authority’s financial statements have been prepared on the basis of the proprietary-fund
+concept which pertains to financial activities that operate in a manner similar to private business enterprises and are
+financed through fees and charges assessed primarily to the users of the services.
+The financial activities of the Authority are recorded in funds established under various bond indentures (program funds)
+and in funds established for the administration of the Authority’s programs. The Authority uses the accrual method of
+accounting. The Authority’s program funds and other funds have been presented on a combined basis, as the Authority
+is considered a single enterprise fund for financial reporting purposes. All interfund balances and transactions have been
+eliminated in the financial statements.
+Further description of the Funds established by the Authority is as follows:
+Single Family Program Funds
+These funds, established under the Housing Revenue Bonds 1994 Indenture are to account for the proceeds from the sale
+of Single Family Mortgage Bonds and the debt service requirements of the bond indebtedness. Activities of these funds
+are, in general, limited to the purchase of mortgage loans collateralized by eligible mortgages on single family residential
+housing. The majority of the assets in these funds are classified as restricted because their use is limited by applicable
+bond covenants. Various insurance, guaranty and reserve provisions are set forth in the trust indenture.
+The Authority also has funds that had been established under past indentures and the bonds related to those indentures
+have been completely redeemed. Assets in the Single Family Mortgage Warehousing Fund and the Multi-Family Fund
+are reported as unrestricted since no bonds are outstanding in those funds.
+17
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 2. Significant Accounting Policies (Continued)
+Housing Trust Fund
+This fund was established to provide direct funding of approved housing or housing projects within the State of
+Wyoming.
+Housing & Neighborhood Development Fund
+This fund was established for the purpose of receiving and disbursing funds relating to projects funded by the U.S.
+Department of Housing and Urban Development’s HOME Investment Partnership, Neighborhood Stabilization Program,
+National Housing Trust Fund, Tax Credit Assistance Program, Community Development Block Grant program and other
+federal programs, including the Department of Treasury’s Tax Credit Exchange Program. These funds are restricted by
+federal law to specific purposes.
+Mortgage Guaranty Fund
+This fund is used to provide guarantees on mortgage loans, leases, or other credit agreements purchased by the Authority.
+Claims made against the Mortgage Guaranty Fund are not a debt or liability of the State nor a general obligation of the
+Authority. The Authority has committed $313,891 and $313,891 to guarantee mortgage and project loans with principal
+balances outstanding of $213,403 and $260,577 as of June 30, 2025 and 2024, respectively. The Authority has also
+committed $250,000 and $250,000 to guarantee second mortgages with principal balances outstanding of $35,646,095
+and $31,614,255, as of June 30, 2025 and 2024, respectively. Initial recovery of second mortgage losses will come from
+other available sources.
+General Fund
+This fund is utilized to account for the operating activities of the Authority, including mortgage servicing activities and
+all other activities not required to be accounted for in other specific funds.
+Interfund Activity
+As a general rule, the effect of interfund activity has been eliminated from the Authority’s basic financial statements.
+Cash and Cash Equivalents
+For purposes of reporting the statements of cash flows, the Authority considers all cash, money market investments, and
+obligations of the U.S. Treasury or agencies and instrumentalities of the U.S. Government with initial maturities of three
+months or less to be cash equivalents.
+Restricted Assets
+Certain proceeds of the Authority’s bonds, as well as certain resources set aside for their repayment are classified as
+restricted assets because they are maintained in separate accounts and their use is limited by bond covenants. When both
+restricted and unrestricted resources are available for use, it is the Authority’s policy to use restricted resources first,
+then unrestricted resources as needed.
+18
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 2. Significant Accounting Policies (Continued)
+Investments
+The trust indenture, State statutes and the Authority’s investment policy authorize the types of investment in which the
+Authority invests. Among these authorized investments are certificates of deposit, obligations of the U.S. Treasury,
+agencies and instrumentalities of the U.S. Government, mortgage-backed securities, mutual funds and repurchase
+agreements with banks with the underlying securities being obligations of the U.S. Treasury or agencies and
+instrumentalities of the U.S. Government. All investments are reported at fair value as determined by financial services
+providers.
+Mortgage Loans Receivable
+Mortgage loans receivable are reported net of the loan loss reserve. The loan loss reserve for mortgages is increased by
+provisions charged and decreased by recoveries credited to operations based on a periodic evaluation of the loan portfolio
+and actual losses that occur. Mortgage loans receivable are carried at the lower of historical cost and fair value. The
+cost is approximately equal to fair value. Deferred loans are recorded net of loan loss reserve and written off when the
+deferral period or conditions are satisfied. Deferred commitment fees on mortgages are amortized to earnings over the
+estimated life of the mortgages by a method which approximates the interest method. Interest income on delinquent
+loans is accrued up to one year, after which time the loan is classified as a non-accrual loan.
+Accounts Receivable and Other Assets
+Accounts receivable and other assets include prepaid expenses, general accounts receivable, accounts receivable related
+to servicing activities and short-term notes receivable related to the acquisition and rehabilitation of properties through
+federal programs.
+Real Estate Held for Sale
+Real estate held for sale arises from foreclosures or other mortgage default-related actions on properties pledged as
+collateral on mortgage loans. The Authority considers property to be real estate held for sale when all redemption periods
+by the borrower and any lienholders have expired. Real estate held for sale is recorded at the fair market value of the
+property as of the date all redemption periods have expired. Any losses are recorded against the loan loss reserve
+established by the Authority, see Note 5. As of June 30, 2025 and 2024, the Authority had 8 and 7 properties,
+respectively, in real estate held for sale totaling $1,722,500 and $1,167,000, respectively.
+Deferred Servicing Costs
+Deferred servicing costs are the costs of acquiring mortgage loan servicing rights. These costs are amortized over the
+period of estimated net servicing revenue. The balance is adjusted to reflect actual prepayment speeds when necessary.
+Property and Equipment
+Property and equipment is stated at cost less accumulated depreciation. Depreciation is computed using the straight-line
+method over the following estimated useful lives:
+Furniture and equipment 3 – 15 years
+Buildings and improvements 15 – 40 years
+19
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 2. Significant Accounting Policies (Continued)
+Postemployment Benefits Other Than Pensions (OPEB)
+For purposes of measuring the net OPEB liability, deferred outflows of resources and deferred inflows of resources
+related to OPEB, and OPEB expense, information about the fiduciary net position of the State of Wyoming Employee
+Group Insurance (EGI) plans and additions to/deductions from EGI’s fiduciary net position have been determined on the
+same basis as they are reported by EGI. For this purpose, EGI recognizes benefit payments when due and payable in
+accordance with the benefit terms and their investments are reported at fair value.
+Pensions
+For purposes of measuring the net pension liability, deferred outflows of resources and deferred inflows of resources
+related to pensions, and pension expense, information about the fiduciary net position of the Wyoming Retirement
+System (WRS) plans and additions to/deductions from WRS’s fiduciary net position have been determined on the same
+basis as they are reported by WRS. For this purpose, benefit payments (including refunds of employee contributions)
+are recognized when due and payable in accordance with the benefit terms and their investments are reported at fair
+value.
+Deferred Outflows and Deferred Inflows of Resources
+In addition to assets, the statements of net position may report a separate section for deferred outflows of resources. This
+separate financial statement element, deferred outflows of resources, represents a consumption of net assets that applies
+to a future period(s) and so will not be recognized as an outflow of resources (expense/expenditure) until then. In
+addition to liabilities, the statements of net position will sometimes report a separate section for deferred inflows of
+resources. This separate financial statement element, deferred inflows of resources, represents an acquisition of net
+assets that applies to a future period(s) and so will not be recognized as an inflow of resources (revenue) until that time.
+The Authority reports deferred outflows and inflows as follows:
+Fair Value of Hedging Derivatives – In the statements of net position, a deferred outflow or deferred inflow of resources
+is reported for changes in the fair value of derivatives used for hedging activities. A deferred outflow is reported for
+accumulated decreases in fair value, while a deferred inflow is reported for accumulated increases in fair value.
+Derivative Instruments – Derivative instruments, as defined in GASB No. 53, Accounting and Financial Reporting for
+Derivative Instruments, are measured on the statements of net position at fair value.
+Derivative Instruments – Interest Rate Swap Agreements – The Authority enters into interest rate swap agreements
+(swap) with rated swap counterparties in order to (1) provide lower cost fixed rate financing for its loan production needs
+through synthetic fixed rate structures and (2) utilize synthetic fixed rate structures with refunding bonds in order to
+generate cash flow savings. The interest differentials to be paid or received under such swaps are recognized as an
+increase or decrease in interest expense of the related bond liability. The Authority enters into fixed payor swaps, where
+it pays a fixed interest rate in exchange for receiving a variable interest rate from the counterparty. The variable interest
+rate may be based on either a taxable or tax-exempt index. By entering into a swap agreement, the Authority hedges its
+interest rate exposure on the associated variable rate bonds. The Authority’s interest rate swaps are generally considered
+to be hedging derivative instruments under GASB No. 53.
+20
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 2. Significant Accounting Policies (Continued)
+Deferred Outflows and Deferred Inflows of Resources (Continued)
+Pension Plan and OPEB Items – In the statements of net position, a deferred outflow or deferred inflow of resources is
+reported for the unrecognized items not yet charged to pension or OPEB expense related to the net pension and net OPEB
+liabilities. This includes the unamortized portion of the net difference between projected and actual earnings on pension
+plan or OPEB investments and other differences between expected and actual experience. Deferred outflows for the net
+difference between projected and actual investment earnings are recognized over a period of five years, while the
+deferred outflows or deferred inflows for the differences between expected and actual experience for
+economic/demographic assumptions are recognized over the remaining service life for all active and inactive members.
+Arbitrage Rebate Payable, Deferred Arbitrage Rebate and Other Deferred Credits
+As a result of applicable federal income tax rules, the Authority is limited in the investment yield which it may retain for
+its own use on the non-mortgage investments of most of its bond issues. For bond issues after 1988, excess arbitrage
+yields must be rebated to the federal government not less than every five years pursuant to applicable federal tax
+regulations. The Authority has $1,823,785 and $908,850 in deferrals at June 30, 2025 and 2024, respectively, for
+arbitrage rebates. There is no arbitrage due at June 30, 2025 and 2024.
+The Authority could also incur arbitrage rebates related to excess yields collected on mortgage receivables funded with
+bond proceeds; management monitors whether excess yields are accumulating in a given series. The Authority would
+defer recognizing interest income from excess yields. The Authority has recorded no deferred interest income at June
+30, 2025 and 2024.
+Additionally, the Authority has deferred $450,484 and $470,546 as of June 30, 2025 and 2024, respectively, in
+unamortized commitment fees received. These fees are being amortized over the estimated life of the related mortgages
+by a method which approximates the interest method.
+Indentures and Reporting Requirements
+The Authority is subject to a number of limitations and restrictions contained in various indentures. Such limitations
+and covenants include: continued collection of pledged revenues, segregation of pledged revenues, maintaining specified
+levels of bond and mortgage reserve funds, permissible investment of bond proceeds and pledged revenues, and ongoing
+disclosure to the secondary bond market in accordance with the Securities and Exchange Commission’s Rule 15c2-12.
+The Authority is in compliance with all significant covenants.
+Components of Net Position
+The Authority’s net position is reported in three components: net investment in capital assets, restricted and unrestricted.
+Restricted net position includes amounts restricted under terms of an award, contract or law. Unrestricted net position
+includes all other equity components not meeting the criteria above.
+21
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 2. Significant Accounting Policies (Continued)
+Revenue and Expense Recognition
+The Authority records all revenues derived from mortgages, investments, servicing and financing as operating revenues
+since these revenues are generated from the Authority’s daily operations needed to carry out its statutory purpose. The
+Authority considers revenues and expenses related to federal programs to be non-operating revenues and expenses.
+Use of Estimates
+The preparation of financial statements in conformity with accounting principles generally accepted in the United States
+of America requires management to make estimates and assumptions that affect certain reported amounts and
+disclosures. Significant estimates and assumptions in these financial statements that require the exercise of management
+judgment include, though are not limited to, real estate held for sale, the allowance for loan losses, the fair value of
+investments, the fair value of swaps, the fair value of forward commitments, amortization of deferred servicing costs,
+pension liability, and OPEB liability. Due to the inherent uncertainty involved in making estimates, actual results in
+future periods could differ from those estimates. The estimates of real estate held for sale, fair value of investments,
+allowance for loan losses, the fair value of swaps, the fair value of forward commitments, amortization of deferred
+servicing costs, pension liabilities, and OPEB liabilities are specifically significant to the Authority. It is reasonably
+possible that these estimates will change within one year of the date of the financial statement due to one or more future
+events. The effect of the change could be material to the financial statements and could result in a loss.
+Note 3. Cash and Cash Equivalents and Investments
+Deposits are placed with various financial institutions and are carried at cost. At June 30, 2025 and 2024, the carrying
+amount of the Authority’s bank deposits was $17,238,274 and $14,907,317, respectively, and the bank balance was
+$19,031,324 and $19,724,701, respectively. The difference between the carrying amount and the bank balance is a result
+of transactions in transit. All bank deposits at June 30, 2025 and 2024 were covered by insurance or collateral held in
+joint custody with the financial institution. In addition, the Authority had $278,828,551 and $208,247,028 in cash and
+cash equivalents held in trust investment accounts as of June 30, 2025 and 2024, respectively. As of June 30, 2025 and
+2024, the Authority has transactions in transit for the trust investment accounts of $1,315,615 and $1,854,856,
+respectively.
+The components of the Authority’s investment portfolio are as follows:
+2025 2024
+U.S. government and agency securities $ 1 05,141,836 $ 1 11,694,700
+Housing revenue bonds 789,069 784,231
+Total $ 105,930,905 $ 112,478,931
+Investments are reported in the following classifications:
+2025 2024
+Current $ 89,095,947 $ 70,953,277
+Noncurrent - restricted by bond indenture or contracts 16,834,958 41,525,654
+Total $ 105,930,905 $ 112,478,931
+22
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 3. Cash and Cash Equivalents and Investments (Continued)
+The net decrease in fair value of investments considers all changes in fair value that occurred during the year. Fair value
+for individual investments fluctuates based on changes in the market interest rates available to investors. At June 30,
+2025 and 2024, the Authority had unrealized investment gains/(losses) of ($27,449,960) and ($29,806,624), respectively,
+in its investment portfolio. The change in unrealized gains/(losses) of $2,356,664 and ($470,364) for the years ended
+June 30, 2025 and 2024, respectively, as well as the effects of any realized gains and losses, which may have been
+partially or fully recognized in prior years, are included in the net decrease in fair value of investments as reported.
+The Authority had the following investments and maturities:
+June 30, 2025
+23
+In v e stm e n t T y p e
+U .S . g o v e rn m e n t a n d
+a g e n c y se c u ritie s
+H o u sin g re v e n u e b o n d
+T o ta l
+s
+M
+In
+o
+N
+A
+v e stm e n t
+R a tin g
+o d y 's/S & P
+o t R a te d
+a 1 /A A +
+1 .3
+In te re st
+R a te s
+5 % - 7 .5
+2 .7 5 %
+0 %
+F a ir
+V a lu e
+$ 1 0 5 ,1 4 1
+7 8 9
+$ 1 0 5 ,9 3 0
+,8
+,0
+,9
+3
+6
+0
+6
+9
+5
+P rio r to
+Ju n e 3 0 , 2 0 2 6
+$ 7 ,9 4 5 ,7 9 6
+-
+$ 7 ,9 4 5 ,7 9 6
+In v e stm e
+F ro m Ju ly 1 , 2 0 2 6
+to Ju n e 3 0 , 2 0 3 1
+$ 7 ,3 8 9 ,7 3 1
+-
+$ 7 ,3 8 9 ,7 3 1
+n t M a tu ritie s
+F ro m Ju ly 1 , 2 0 3 1
+to Ju n e 3 0 , 2 0 3 6
+$ 2 4 ,1 8 1 ,0 8 6
+-
+$ 2 4 ,1 8 1 ,0 8 6
+Ju ly 1 , 2 0 3 6
+a n d th e re a fte r
+$ 6 5 ,6 2 5 ,2 2 3
+7 8 9 ,0 6 9
+$ 6 6 ,4 1 4 ,2 9 2
+June 30, 2024
+In v e stm e n t T y p e
+U .S . g o v e rn m e n t a n d
+a g e n c y se c u ritie s
+H o u sin g re v e n u e b o n d
+T o ta l
+s
+M
+In
+o
+N
+A
+v e stm e n t
+R a tin g
+o d y 's/S & P
+o t R a te d
+a 1 /A A +
+0 .0
+In te re st
+R a te s
+0 % - 7 .5
+2 .7 5 %
+0 %
+F a ir
+V a lu e
+$ 1 1 1 ,6 9 4
+7 8 4
+$ 1 1 2 ,4 7 8
+,7
+,2
+,9
+0
+3
+3
+0
+1
+1
+P rio r to
+Ju n e 3 0 , 2 0 2 5
+$ 4 ,6 5 2 ,4 1 4
+-
+$ 4 ,6 5 2 ,4 1 4
+In v e stm e
+F ro m Ju ly 1 , 2 0 2 5
+to Ju n e 3 0 , 2 0 3 0
+$ 1 5 ,2 9 0 ,8 4 7
+-
+$ 1 5 ,2 9 0 ,8 4 7
+n t M a tu ritie s
+F ro m Ju ly 1 , 2 0 3 0
+to Ju n e 3 0 , 2 0 3 5
+$ 1 2 ,4 7 7 ,4 4 4
+-
+$ 1 2 ,4 7 7 ,4 4 4
+Ju ly 1 , 2 0 3 5
+a n d th e re a fte r
+$ 7 9 ,2 7 3 ,9 9 5
+7 8 4 ,2 3 1
+$ 8 0 ,0 5 8 ,2 2 6
+Interest Rate Risk
+As a means of limiting its exposure to fair value losses arising from rising interest rates, the Authority’s investment
+policy attempts to match its investment maturities to the expected call date of its bonds or needs for purchasing
+mortgages. With this investment focus, investments would be expected to reach maturity with limited realized gains or
+losses.
+Credit Risk
+Credit risk is the risk the issuer will not fulfill its obligation to the holder of the investment. As mentioned in Note 2,
+State statutes limit the types of investments available to the Authority. The Authority follows the mandates for allowable
+investments as prescribed by Wyoming Statute 9-4-831 as their credit policy.
+Concentration of Credit Risk
+As noted in the tables above, the Authority has 100% and 100%, respectively, of its investments in obligations of the
+United States, its agencies, and state housing revenue bonds as of June 30, 2025 and 2024. The Authority believes this
+concentration does not increase its investment risk.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 3. Cash and Cash Equivalents and Investments (Continued)
+Custodial Credit Risk
+For an investment, custodial credit risk is the risk that, in the event of the failure of the counterparty, the Authority would
+not be able to recover the value of its investments or collateral securities that are in possession of an outside party.
+Substantially all of the Authority’s investments are held in the name of the Authority by a trustee.
+Reserve Requirements
+The 1994 Indenture requires the Authority to place a portion of bond proceeds in bond, mortgage and special reserve
+accounts. As of June 30, 2025 and 2024, the Authority had investments in these reserve accounts which exceed the
+reserve requirements contained in the trust indenture. The amounts required to be reserved in these accounts as of June
+30, 2025 and 2024 are as follows:
+24
+B
+M
+R
+o n d re se rv e re q u ire m e n t
+o rtg a g e re se rv e re q u ire m e
+e stric te d sp e c ia l re se rv e re
+T o ta l re q u ire d re se rv e s
+n
+q
+t
+u ire m e n t
+2 0 2
+$ 3 1
+2 0
+6
+$ 5 8
+5
+,1
+,4
+,6
+,2
+8
+0
+7
+7
+9
+4
+9
+3
+,8
+,9
+,0
+,7
+0
+0
+9
+9
+0
+5
+3
+8
+2 0 2
+$ 2 7
+1 8
+6
+$ 5 2
+4
+,6
+,6
+,6
+,9
+3
+3
+7
+4
+5
+3
+9
+7
+,2
+,1
+,0
+,4
+5
+4
+9
+8
+0
+6
+3
+9
+Note 4. Fair Value Measurements
+The Authority categorizes its fair value measurements within the fair value hierarchy established by generally accepted
+accounting principles. The hierarchy is based on valuation inputs used to measure the fair value of the asset. Level 1
+inputs are quoted prices in active markets for identical assets; Level 2 inputs are significant other observable inputs;
+Level 3 inputs are significant unobservable inputs.
+Following is a description of the valuation methodologies used for investments measured at fair value. There have been
+no changes in the methodologies used at June 30, 2025 and 2024:
+U.S. Treasury securities: Valued at the closing price reported in the active market in which the individual
+securities are traded.
+U.S. government obligations, U.S. government agency mortgage-backed securities, and housing revenue bonds:
+Valued using quoted priced for identical or similar assets in active markets.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 4. Fair Value Measurements (Continued)
+The following tables set forth by level, within the fair value hierarchy, the Authority’s investments at fair value:
+25
+U
+U
+U
+H
+T
+.
+.
+.
+m
+o
+o
+S . T r e a
+S . g o v e
+S . g o v e
+o r t g a g
+u s in g r
+t a l in v e
+s
+r
+r
+e
+e
+s
+u r
+n m
+n m
+- b
+v e
+t m
+y s e c u r it ie s
+e n t o b lig a t io n s
+e n t a g e n c y
+a c k e d s e c u r it ie s
+n u e b o n d s
+e n t s a t f a ir v a lu e
+$
+$
+L
+1
+1
+e v
+4 ,8
+4 ,8
+e
+0
+0
+I n v e
+l 1
+6 ,9 5 7
+-
+-
+-
+6 ,9 5 7
+s t m e n t s a t F a ir V
+L e v e l 2
+$ -
+8 0 ,9 3 9 ,1 7 4
+9 ,3 9 5 ,7 0 5
+7 8 9 ,0 6 9
+$ 9 1 ,1 2 3 ,9 4 8
+a lu e
+$
+$
+a s o f J u n e 3
+L e v e l 3
+-
+-
+-
+-
+-
+0 , 2 0 2 5
+$ 1
+8
+$ 1 0
+T o
+4 ,8
+0 ,9
+9 ,3
+7
+5 ,9
+t
+0
+3
+9
+8
+3
+a
+6
+9
+5
+9
+0
+l
+,9
+,1
+,7
+,0
+,9
+5
+7
+0
+6
+0
+7
+4
+5
+9
+5
+Investments at Fair Value as of June 30, 2024
+Level 1 Level 2 Level 3 Total
+U.S. Treasury securities $ 19,312,403 $ - $ - $ 19,312,403
+U.S. government obligations - 82,337,340 - 82,337,340
+U.S. government agency
+mortgage-backed securities - 10,044,957 - 10,044,957
+Housing revenue bonds - 784,231 - 784,231
+Total investments at fair value $ 19,312,403 $ 93,166,528 $ - $ 112,478,931
+As of June 30, 2025 and 2024, the Authority’s investment portfolio includes the following investments that have fair
+values highly sensitive to interest rate changes:
+Mortgage-backed securities – when interest rates fall, mortgages are refinanced and paid off early. The reduced
+stream of future interest payments diminishes the value of the investment.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 5. Mortgage Loans Receivable, Net
+2025 2024
+Housing Revenue Bonds 1994 Indenture fund, bearing interest at
+0% to 8%, 2 to 30 year term, FHA or private mortgage company
+insured, or guaranteed by RD, VA or mortgage guaranty fund $ 1,020,328,666 $ 932,308,640
+Less: Reserve for losses on loans ( 13,664,753) (10,345,718)
+1 ,006,663,913 921,962,922
+Single Family Mortgage Warehousing Bond fund, bearing interest
+at 1% to 6.75%, 30 year term, FHA insured, or guaranteed by
+RD or VA 1 ,230,271 15,095,210
+Less: Reserve for losses on loans ( 42,432) -
+1 ,187,839 15,095,210
+Housing & Neighborhood Development Fund with various terms, including
+deferred payments and bearing interest at 0% to 4.60%, 12 to 50 year term 75,944,202 77,274,265
+Less: Reserve for losses on loans (4,138,202) (4,220,509)
+71,806,000 73,053,756
+Housing Trust Fund, bearing interest at 0% to 6.875%, 8 to 35 year
+term, FHA or private mortgage company insured, or guaranteed
+by VA or mortgage guaranty fund 14,243,426 14,913,802
+Less: Reserve for losses on loans (994,473) (4,133,248)
+13,248,953 10,780,554
+Total mortgage loans receivable, net $ 1,092,906,705 $ 1,020,892,442
+2025 2024
+Reported in the following classifications
+Restricted mortgage loans receivable, net $ 1,078,469,913 $ 995,016,678
+Mortgage loans receivable, net 14,436,792 25,875,764
+$ 1,092,906,705 $ 1,020,892,442
+The above loans are substantially insured by FHA or private mortgage insurance companies, or guaranteed, in part, by
+the VA or USDA Rural Development. The Authority estimates loan loss reserves using a risk-based approach applied
+to specific identified risks in its portfolio. Total loan loss reserves for mortgage loans receivable established by the
+Authority as of June 30, 2025 and 2024 were $18,839,860 and $18,699,475, respectively.
+26
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 5. Mortgage Loans Receivable, Net (Continued)
+Some loans receivable contain provisions for the loans to become grants if certain criteria are met. The conversion of
+loans receivable to grants is calculated on an annual basis, though the debtor is not entitled to receive full credit until
+maturity of the loan agreement or upon meeting certain criteria. As loans receivable converted to grants are estimated,
+loans receivable is credited and a charge to operations is made through the loan loss reserves. Loans receivable are
+$21,088,671 and $8,433,664, with related reserve for loan losses of $21,088,671 and $8,433,664, for a net loan
+receivable of $0 and $0 as of June 30, 2025 and 2024, respectively. Upon maturity of the loan agreement or achievement
+of specified criteria, the applicable portion of the loan receivable balance is awarded to the debtors.
+As of June 30, 2025 and 2024, the Authority had 115 and 128 loans, respectively, delinquent for 90 days or more from
+the population of 10,869 and 10,510 loans, respectively. The outstanding balance of mortgages delinquent for 90 days
+or more was $13,992,480 and $16,105,415 as of June 30, 2025 and 2024, respectively.
+Note 6. Housing & Neighborhood Development Fund
+The Authority’s Housing & Neighborhood Development Fund receives funds to provide housing assistance to low-
+income families in Wyoming through various federal programs. These programs provide grants to individuals or
+organizations for the purchase, construction, and rehabilitation of multi-family residential properties. Revenue is
+recognized as expenses are incurred under these programs.
+The Housing & Neighborhood Development Fund also receives funds for the purpose of making low-interest rate loans
+to qualified borrowers. As these loans are collected, the funds must be re-loaned under the same program restrictions.
+These funds, net of any allowance for losses on loans, are included in net income when received and remain in net
+position, subject to the program use restrictions, as long as the program is available under federal regulations.
+Note 7. Noncurrent Liabilities
+The changes in noncurrent liabilities for the year ended June 30, 2025 were as follows:
+Balance at Balance at Amount Due
+June 30, 2024 Additions Reductions June 30, 2025 Within 1 Year
+Bonds payable,
+principal $ 9 21,175,000 $ 2 10,285,000 $ 91,800,000 $ 1 ,039,660,000 $ 33,040,000
+Adjustments for premiums,
+discounts and appreciation 16,873,394 2 ,692,743 2,153,229 17,412,908 -
+Bonds payable 938,048,394 212,977,743 93,953,229 1 ,057,072,908 33,040,000
+Other deferred credits 1,379,396 1,028,901 1 34,028 2,274,269 -
+Pension liabilities 3,838,954 - 3 97,160 3,441,794 -
+Other postemployment
+benefit liabilities 908,830 8 98,740 - 1,807,570 -
+$ 9 44,175,574 $ 2 14,905,384 $ 9 4,484,417 $ 1 ,064,596,541 $ 33,040,000
+27
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 8. Bonds Payable
+Bonds are generally payable in scheduled annual and semiannual installments and are subject to mandatory sinking fund
+requirements in scheduled amounts. Redemption is optional after various dates at par.
+The bonds of the 1994 Indenture are special obligations of the Authority, payable solely from the income and receipts
+of these indentures. These bonds are secured by mortgage loans and other assets of the indenture. Interest on outstanding
+bonds is generally payable either monthly or semi-annually. Certain of the variable rate debt reprices weekly or monthly
+based on market interest rates.
+Balance at Balance at Amount Due
+June 30, 2024 Issued Retired June 30, 2025 Within 1 Year
+Housing Revenue Bonds 1994 Indenture Fund
+2015 Series 1, 2 & 3, 2028 to
+2034, interest at 3.25% to 3.50%,
+original amount issued $77,130,000 $ 18,100,000 $ - $ 475,000 $ 17,625,000 $ -
+2015 Series 4, 6, 7 & 8, 2033 to
+2034, interest at 3.9%, original
+amount issued $138,375,000 9,680,000 - 4,940,000 4,740,000 -
+2016 Series 1, 2, & 3, 2025 to
+2041, interest at 2.35% to 3.50%,
+original amount issued $99,485,000
+at premium of $1,472,304 38,250,000 - 4,385,000 33,865,000 2,970,000
+2017 Series 1, 2, 3 & 4, 2025 to
+2032, interest at 2.55% to 3.45%,
+original amount issued $87,270,000 27,785,000 - 2,850,000 24,935,000 920,000
+2017 Series 5, 2025 to
+2046, interest at 2.30% to 4.00%,
+original amount issued $60,385,000
+at premium of $1,697,088 29,455,000 - 3,535,000 25,920,000 1,625,000
+2018 Series 1 & 2, 2027,
+interest at 3.05% to 3.125%,
+original amount issued $77,325,000
+at premium of $671,895 4,785,000 - 2,800,000 1,985,000 -
+2018 Series 3 & 4, 2025 to
+2043, interest at 2.65% to 4.00%,
+original amount issued $74,640,000
+at premium of $1,362,101 22,035,000 - 4,245,000 17,790,000 1,775,000
+2019 Series 1 & 2, 2025 to
+2048, interest at 2.35% to 4.00%,
+original amount issued $88,160,000
+at premium of $1,836,435 51,065,000 - 23,020,000 28,045,000 1,970,000
+(Continued)
+28
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 8. Bonds Payable (Continued)
+Balance at Balance at Amount Due
+June 30, 2024 Issued Retired June 30, 2025 Within 1 Year
+2019 Series 3 & 4, 2025 to
+2049, interest at 1.60% to 3.75%,
+original amount issued $88,715,000
+at premium of $1,281,476 $ 69,595,000 $ - $ 4,620,000 $ 64,975,000 $ 2,080,000
+2020 Series 1, 2025 to
+2050, interest at 1.65% to 4.00%,
+original amount issued $95,385,000
+at premium of $2,577,263 74,150,000 - 6,170,000 67,980,000 2,435,000
+2020 Series 2 & 3, 2025 to
+2049, interest at 0.70% to 3.00%,
+original amount issued $125,380,000
+at premium of $4,115,849 101,710,000 - 8,625,000 93,085,000 4,285,000
+2021 Series 1 & 2, 2025 to
+2050, interest at 0.70% to 3.00%,
+original amount issued $87,230,000
+at premium of $2,265,968 71,520,000 - 5,350,000 66,170,000 2,295,000
+2021 Series 3 & 4, 2025 to
+2050, interest at 0.55% to 3.00%,
+original amount issued $85,610,000
+at premium of $1,499,078 74,540,000 - 6,135,000 68,405,000 2,765,000
+2022 Series 1, 2 & 3, 2025 to
+2052, interest at 2.45% to 5.00%,
+original amount issued $106,960,000
+at premium of $4,435,616 97,240,000 - 6,630,000 90,610,000 3,010,000
+2023 Series 1 & 2, 2025 to
+2053, interest at 2.75% to 5.75%,
+original amount issued $153,505,000
+at premium of $3,365,002 151,470,000 - 5,755,000 145,715,000 2,495,000
+2023 Series 3, 2025 to
+2053, interest at 3.45% to 4.95%,
+original amount issued $80,000,000 79,795,000 - 950,000 78,845,000 1,010,000
+2024 Series 1 & 2, 2029 to
+2054, interest at 2.75% to 6.00%,
+original amount issued $95,305,000
+at premium of $2,692,743 - 95,305,000 500,000 94,805,000 -
+(Continued)
+29
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 8. Bonds Payable (Continued)
+Balance at Balance at Amount Due
+June 30, 2024 Issued Retired June 30, 2025 Within 1 Year
+2024 Series 3, 2025 to
+2034, interest at 4.71% to 5.19%,
+original amount issued $15,000,000 $ - $ 15,000,000 $ 815,000 $ 14,185,000 $ 1,430,000
+2025 Series 1, 2025 to
+2053, interest at 3.15% to 4.88%,
+original amount issued $84,980,000 - 84,980,000 - 84,980,000 85,000
+2025 Series 2, 2025 to
+2032, interest at 4.57% to 5.24%,
+original amount issued $15,000,000 - 15,000,000 - 15,000,000 1,890,000
+Principal amounts of bonds outstanding 921,175,000 210,285,000 91,800,000 1,039,660,000 33,040,000
+Adjustment for premiums,
+discounts and appreciation 16,873,394 2,692,743 2,153,229 17,412,908 -
+Total bonds payable $ 938,048,394 $ 212,977,743 $ 93,953,229 $ 1,057,072,908 $ 33,040,000
+Annual debt service requirements for the five fiscal years subsequent to June 30, 2025, and for each five-year segment
+thereafter, including the bonds to be remarketed or expected to be refunded, are as follows:
+Total
+Principal Interest Debt Service
+2026 $ 3 3,040,000 $ 3 6,735,651 $ 69,775,651
+2027 3 6,550,000 3 4,565,751 71,115,751
+2028 4 0,080,000 3 3,580,612 73,660,612
+2029 4 2,825,000 3 2,476,264 75,301,264
+2030 4 3,265,000 3 1,237,152 74,502,152
+5 years ending 2035 205,345,000 1 36,605,148 341,950,148
+5 years ending 2040 188,170,000 1 07,440,454 295,610,454
+5 years ending 2045 187,460,000 7 4,784,975 262,244,975
+5 years ending 2050 159,700,000 4 3,693,785 203,393,785
+5 years ending 2055 103,225,000 1 2,251,281 115,476,281
+$1 ,039,660,000 $ 5 43,371,073 $ 1,583,031,073
+The balances above do not include net premiums or discounts in the amount of $17,412,908 and $16,873,394 that are
+reported as components of bonds payable as of June 30, 2025 and 2024, respectively.
+30
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 8. Bonds Payable (Continued)
+Hedging Derivative Instrument Payments and Hedged Debt
+Using rates as of June 30, 2025 and giving effect to scheduled reductions in the notional amount of the hedging derivative
+instruments, debt service requirements of the Authority’s outstanding variable rate debt in 2019 Series 4, 2021 Series 2,
+2022 Series 2, 2023 Series 2 and 2024 Series 2 and net swap payments are as follows.
+Variable Rate Bonds Interest Rate
+Principal Interest Swaps (net) Total
+2026 $ - $ 3,425,250 $ (821,997) $ 2,603,253
+2027 - 3,448,250 (812,446) 2,635,804
+2028 - 3,451,501 (821,883) 2,629,618
+2029 - 3,444,999 (811,461) 2,633,538
+2030 - 3,448,250 (816,678) 2,631,572
+5 years ending 2035 - 17,241,250 (3,971,385) 13,269,865
+5 years ending 2040 21,998,414 16,452,798 (3,448,962) 35,002,251
+5 years ending 2045 55,237,944 11,420,849 (2,239,780) 64,419,013
+5 years ending 2050 46,444,892 3,419,450 (936,999) 48,927,343
+5 years ending 2055 2,818,750 39,462 (4,410) 2,853,802
+$ 126,500,000 $ 65,792,060 $ (14,686,001) $ 177,606,059
+As rates vary, variable-rate bond interest payments and net receipts or payments on the hedging derivative instruments
+vary.
+Note 9. Line of Credit
+The Authority has a line of credit agreement with a financial institution, secured by specific collateral. This agreement
+allows the Authority to borrow approximately 83% and 83% of the fair market value of the collateral at June 30, 2025
+and 2024, respectively. As of June 30, 2025 and 2024, the Authority had investments held as collateral with a fair value
+of $21,013,793 and $21,141,947, respectively, on deposit with this financial institution and no advances were
+outstanding. This agreement expires on December 31, 2025.
+Note 10. Conduit Debt Obligations
+In previous years, the Authority had issued Multi-Family Housing Revenue Bonds to provide financial assistance to
+private-sector entities for the acquisition and construction of low-income multi-family housing deemed to be in the public
+interest. Each bond is secured by the revenues from the specific property financed. Neither the Authority, nor the State,
+nor any political subdivision thereof is obligated in any manner for repayment of the bonds. Accordingly, the bonds are
+not reported as liabilities in the accompanying financial statements. As of June 30, 2025 and 2024, respectively, there
+were three and three such series of Multi-Family Housing Revenue bonds outstanding, with an aggregate outstanding
+principal amount payable of $38,105,366 and $11,775,222, respectively.
+31
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 11. Interest Rate Swaps
+Swap Objectives
+The Authority has entered into interest rate swap agreements in connection with specific series of variable-rate bonds as
+a technique to lower the cost of long-term debt. The objective of the swaps is to effectively change the variable interest
+rate on the bonds to a synthetic fixed rate.
+Swap Terms and Values
+32
+B o n d S e rie s
+2 0 19 S e rie s 4
+2 0 2 2 S e rie s 2
+2 0 2 4 S e rie s 2
+2 0 2 2 S e rie s 2
+2 0 2 3 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 2 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 3 S e rie s 2
+S w a p C o n tra c
+D a te s
+12 /1/2 0 2 0
+12 /1/2 0 2 0
+12 /1/2 0 2 0
+1/15 /2 0 16
+1/15 /2 0 16
+1/15 /2 0 16
+6 /1/2 0 17
+6 /5 /2 0 18
+9 /13 /2 0 18
+2 /9 /2 0 2 3
+tu a l
+N o tio n a l A
+$ 10 ,0
+4 ,0
+1 8 ,0
+6 ,0
+3 ,0
+3 ,0
+2 2 ,0
+1 6 ,5
+14 ,0
+3 0 ,0
+$ 12 6 ,5
+m o u n t
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+F ixe d R a te
+P a id
+1.3 0 6 0 %
+1.3 0 6 0 %
+1.3 0 6 0 %
+2 .0 13 0 %
+2 .0 13 0 %
+2 .0 13 0 %
+2 .2 6 5 0 %
+2 .5 2 3 0 %
+2 .5 8 5 0 %
+3 .17 10 %
+J u n e 3 0 , 2 0 2 5
+V a ria b le R a te R e c e iv e d
+S IF M A
+S IF M A
+S IF M A
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+8 0 % o f U S D -S O F R
+444444 888888
+T e rm in a tio n D
+6 /1/2 0 4 8
+6 /1/2 0 4 8
+6 /1/2 0 4 8
+12 /1/2 0 4 5
+12 /1/2 0 4 5
+12 /1/2 0 4 5
+12 /1/2 0 4 7
+6 /1/2 0 3 8
+12 /1/2 0 3 8
+12 /1/2 0 5 0
+a te F a ir V a lu e
+$ 2 ,3 2 2 ,3 9 3
+9 2 8 ,9 5 7
+4 ,18 0 ,3 0 9
+4 9 1,5 3 9
+2 4 5 ,7 7 0
+2 4 5 ,7 7 0
+1 ,9 4 8 ,3 2 7
+7 0 0 ,18 5
+5 6 1,7 16
+1,2 3 3 ,0 5 7
+$ 12 ,8 5 8 ,0 2 3
+CC o u n te rp a rty
+re d it R a tin g
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A +/A 1
+A +/A a 2
+A +/A a 2
+A +/A a 2
+B o n d S e rie s
+2 0 19 S e rie s 4
+2 0 2 2 S e rie s 2
+2 0 19 S e rie s 2
+2 0 2 2 S e rie s 2
+2 0 2 3 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 2 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 1 S e rie s 2
+2 0 2 3 S e rie s 2
+S w a p C o n tra c
+D a te s
+12 /1/2 0 2 0
+12 /1/2 0 2 0
+12 /1/2 0 2 0
+1/15 /2 0 16
+1/15 /2 0 16
+1/15 /2 0 16
+6 /1/2 0 17
+6 /5 /2 0 18
+9 /13 /2 0 18
+2 /9 /2 0 2 3
+tu a l
+N o tio n a l A
+$ 1 0 ,0
+4 ,0
+1 8 ,0
+6 ,0
+3 ,0
+3 ,0
+2 2 ,0
+16 ,5
+14 ,0
+3 0 ,0
+$ 1 2 6 ,5
+m o u n t
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+0 0 ,0 0 0
+F ixe d R a te
+P a id
+1.3 0 6 0 %
+1.3 0 6 0 %
+1.3 0 6 0 %
+2 .0 13 0 %
+2 .0 13 0 %
+2 .0 13 0 %
+2 .2 6 5 0 %
+2 .5 2 3 0 %
+2 .5 8 5 0 %
+3 .17 10 %
+J u n e 3 0 , 2 0 2 4
+V a ria b le R a te R e c e iv e d
+S IF M A
+S IF M A
+S IF M A
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+7 0 % o f U S D -S O F R p lu s 0 .114
+8 0 % o f U S D -S O F R
+444444 888888
+T e rm in a tio n D
+6 /1/2 0 4 8
+6 /1/2 0 4 8
+6 /1/2 0 4 8
+12 /1/2 0 4 5
+12 /1/2 0 4 5
+12 /1/2 0 4 5
+12 /1/2 0 4 7
+6 /1/2 0 3 8
+12 /1/2 0 3 8
+12 /1/2 0 5 0
+a te F a ir V a lu e
+$ 2 ,2 8 8 ,9 7
+9 15 ,5 9
+4 ,12 0 ,15
+6 0 9 ,16
+3 0 4 ,5 8
+3 0 4 ,5 8
+2 ,2 2 7 ,0 8
+1 ,0 5 7 ,15
+8 7 3 ,19
+1 ,6 0 4 ,9 3
+$ 14 ,3 0 5 ,4 2
+50484493287
+CC o u n te rp a rty
+re d it R a tin g
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A A -/A a 1
+A +/A 1
+A +/A a 1
+A +/A a 1
+A +/A a 1
+Fair Value – As of June 30, 2025 and 2024, the Authority’s swap agreements had a net fair value of $12,858,023 and
+$14,305,427, respectively. If negative, the fair value of the swaps may be offset by reductions in total interest payments
+required under the related variable-rate bond, creating lower synthetic rates. The net fair value reported above as of June
+30, 2025 and 2024 is inclusive of accrued interest receivable of $44,301 and $137,236, respectively. Accrued interest is
+separately reported on the Authority’s statements of net position. The change in gross fair value was ($1,354,469) and
+$2,838,114 for the years ended June 30, 2025 and 2024, respectively. Accumulated increases in fair value are reported
+as deferred inflows on the statements of net position, while accumulated decreases in fair value are reported as deferred
+outflows on the statements of net position. Because the coupons on the related variable-rate bonds adjust to the changing
+interest rates, the bonds do not have a corresponding fair value increase. The fair values of the interest rate swaps were
+estimated using the zero-coupon method. This method calculates the future net settlement payments required by the
+swap, assuming that the current forward rates implied by the yield curve correctly anticipate future spot interest rates.
+These payments are then discounted using the spot rates implied by the current yield curve for hypothetical zero- coupon
+bonds due on the date of each future net settlement on the swap.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 11. Interest Rate Swaps (Continued)
+Swap Risks
+Credit Risk – As of June 30, 2025 and 2024, the Authority was exposed to credit risk on swaps which could have a
+positive fair value. The positive fair value of any one swap would represent the Authority’s exposure to the potential
+failure of a single counterparty. Should the counterparty to this transaction fail to perform according to the swap contract,
+the Authority would face a maximum possible loss equivalent to the swap’s fair value. As of June 30, 2025 and 2024,
+the swap counterparties were rated AA- and A+ by S&P Global Ratings and Aa1, A1 and Aa2 by Moody’s Investors
+Service. The Authority’s policy to manage credit risk would require the Authority to seek credit enhancements should
+the counterparty’s ratings be below A or A3.
+Basis Risk – The Authority incurs the potential risk that the variable interest payments on its bonds will not equal the
+variable interest receipts from its swaps. The basis risk exists because the Authority’s variable rate bond interest
+payments should correspond to the SIFMA Index (formerly the BMA Index), while the payments the Authority receives
+pursuant to the swap are either 70% of USD-SOFR plus 0.11448 or 80% of USD-SOFR. The Authority is exposed to
+basis risk should SOFR and SIFMA Index rates converge. If a change occurs that results in the rates moving to
+convergence (that is, the SIFMA Index exceeding either 70% of USD-SOFR plus 0.11448 or 80% of USD-SOFR), the
+value to the Authority of the hedge from the applicable swap is diminished. Basis risk will vary over time due to inter-
+market conditions. As of June 30, 2025 and 2024, the SIFMA Index rate was 1.92% and 3.88%, respectively, 80% of
+USD-SOFR was 3.56% and 4.26%, respectively, and 70% of USD-SOFR plus 0.11448 was 3.23% and 3.85%,
+respectively. To reduce the cumulative effects of basis risk, the variable rate determination structure for cash flows within
+the swap is based upon a regression analysis of the long-term relationship between variable tax-exempt rates and the
+applicable swap index.
+Termination Risk – The swap contracts may be terminated by either the Authority or the counterparty if the other party
+fails to perform under the terms of the swap contracts. Upon termination, a payment is due to one party, irrespective of
+causality, based upon the fair value of the swap. The potential termination risks to the Authority are the liability for a
+termination payment to the counterparty or the inability to replace the swap under favorable financial terms. The swaps
+may be terminated by the Authority at its discretion with a maximum of ten days notice. If a swap was terminated, the
+variable-rate bonds would no longer carry a synthetic fixed rate. Also, if at the time of termination, the swap has a
+negative fair value, the Authority would be liable to the counterparty for a payment equal to the swap’s fair value.
+Amortization Risk – The Authority may incur amortization risk because prepayments from the mortgage loan portfolio
+may cause the outstanding amount of variable rate bonds to decline faster than the amortization of the swap. To
+ameliorate amortization risk, call options were structured within the swaps to enable the Authority to manage the
+outstanding balances of variable rate bonds and notional swap amounts. Additionally, the Authority may terminate the
+swaps with proper notice per the agreement.
+Tax Risk – The structure of the variable interest rate payments the Authority receives from its swap contracts are based
+upon the historical long-term relationship between taxable and tax-exempt short-term interest rates. Tax risk represents
+a risk that may arise due to a change in the tax code that may fundamentally alter this relationship. The Authority has
+chosen to assume this risk because it was not economically feasible to transfer the swap counterparty.
+33
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 11. Interest Rate Swaps (Continued)
+Swap Risks (Continued)
+Concentration Risk – The total outstanding bonds associated with the swaps will be limited to twenty percent (20%)
+of the total of all outstanding bonds under the related indenture at the time bonds associated with swaps are issued. The
+total outstanding bonds associated with swap with a single counterparty will not exceed 50%.
+Interest Rate Risk – The Authority is exposed to interest rate risk on its interest rate swap. On its pay-fixed, receive-
+variable interest rate swap, as the SOFR or the SIFMA swap index decreases, the Authority’s net payment of the swap
+increases.
+Rollover Risk – The Authority is exposed to rollover risk on swaps that mature or may be terminated prior to the maturity
+of the associated bonds. When these hedging derivative instruments terminate or are terminated by either party, the
+Authority will not realize the synthetic fixed rate offered by the swaps on the underlying bond issues. The following
+bond series are exposed to rollover risk:
+34
+A s s o c ia2222222222 te d B
+0 2 3 S
+0 2 1 S
+0 2 4 S
+0 2 2 S
+0 1 9 S
+0 2 2 S
+0 2 2 S
+0 2 1 S
+0 2 1 S
+0 2 3 S
+o ne
+r
+e r
+e r
+e r
+e r
+e r
+e r
+e r
+e r
+e r
+d I s s
+ie s 2
+ie s 2
+ie s 2
+ie s 2
+ie s 4
+ie s 2
+ie s 2
+ie s 2
+ie s 2
+ie s 2
+u a n c e BD
+D
+D
+o
+J u n e 3 0 , 2 0 2 5
+n d M a tu r ity D
+e c e m b e r 1 , 2 0
+J u n e 1 , 2 0 4 5
+J u n e 1 , 2 0 4 8
+J u n e 1 , 2 0 4 8
+e c e m b e r 1 , 2 0
+J u n e 1 , 2 0 4 8
+J u n e 1 , 2 0 4 8
+J u n e 1 , 2 0 4 5
+J u n e 1 , 2 0 4 5
+e c e m b e r 1 , 2 0
+a5
+4
+5
+te0
+8
+0
+S w aDD
+DD
+DD
+pee
+ee
+ee
+T
+c e
+c e
+J u
+J u
+J u
+c e
+c e
+J u
+c e
+c e
+emmnnnmmnmm r mb
+e
+b e
+e 1
+e 1
+e 1
+b e
+b e
+e 1
+b e
+b e
+in a
+r 1
+r 1
+, 2
+, 2
+, 2
+r 1
+r 1
+, 2
+r 1
+r 1
+tio
+, 2
+, 2
+0 4
+0 4
+0 4
+, 2
+, 2
+0 3
+, 2
+, 2
+n0088800800 D44
+44
+35
+55
+57
+80
+a te
+June 30, 2024
+Associated Bond Issuance Bond Maturity Date Swap Termination Date
+2023 Series 2 December 1, 2050 December 1, 2045
+2021 Series 2 June 1, 2045 December 1, 2045
+2019 Series 4 December 1, 2048 June 1, 2048
+2022 Series 2 June 1, 2048 June 1, 2048
+2019 Series 2 June 1, 2049 June 1, 2048
+2022 Series 2 June 1, 2048 December 1, 2045
+2022 Series 2 June 1, 2048 December 1, 2047
+2021 Series 2 June 1, 2045 June 1, 2038
+2021 Series 2 June 1, 2045 December 1, 2038
+2023 Series 2 December 1, 2050 December 1, 2050
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 12. Net Position
+Below is a summary of net position as of June 30, 2025 and 2024:
+2025 2024
+Net investment in capital assets $ 1,492,684 $ 1,602,522
+Restricted
+Restricted by bond indenture 131,927,563 155,219,893
+Restricted by grants 104,361,385 106,919,576
+236,288,948 262,139,469
+Unrestricted
+Designated for the Housing Revenue Bond 1994 Indenture Fund 91,959,581 59,591,676
+Designated for the Single Family Mortgage Warehousing Fund 9 ,664,593 10,054,511
+Designated for the Multi-Family Fund 1 ,614,919 1 ,500,749
+Designated for the Housing Trust Fund 81,423,230 75,140,580
+Designated for the Mortgage Guaranty Fund 21,902,954 20,951,508
+Designated for noncurrent assets and operations 11,934,511 10,284,634
+218,499,788 177,523,658
+Total net position $ 456,281,420 $ 441,265,649
+The terms of the bond indenture for the single-family program generally restrict the assets of the trust indenture by
+requiring their retention in the trust to satisfy debt service obligations of the trust indenture. Monies can be withdrawn
+from a trust indenture with a cash flow certificate which demonstrates the Authority’s ability to pay program expenses
+and debt service when due, in each bond year. In addition, some series in the 1994 Indenture may be subject to over-
+parity tests.
+Should the Authority fail to comply with terms of the general obligation bonds and the line of credit, the holders of such
+general obligations would have recourse to the Authority’s unrestricted net position.
+35
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 13. Mortgage Loan Servicing
+The Authority’s mortgage servicing department services loans for its own portfolio and for others. The details of the
+loans serviced and servicing purchased during the year are shown below.
+36
+T
+W
+W
+G
+G
+F
+T
+W
+W
+G
+G
+F
+y
+N
+N
+N
+T
+y
+N
+N
+N
+T
+p e o
+C D A
+C D A
+M A
+M A
+M A
+o ta l
+p e o
+C D A
+C D A
+M A
+M A
+M A
+o ta l
+f L
+S
+S
+A
+P
+S
+f L
+S
+S
+A
+P
+S
+o a n s b y I
+in g le F a m
+in g le F a m
+d v a n ta g e
+o o le d
+in g le F a m
+o a n s b y I
+in g le F a m
+in g le F a m
+d v a n ta g e
+o o le d
+in g le F a m
+n v e s
+ily L
+ily L
+ily L
+n v e s
+ily L
+ily L
+ily L
+to r
+o a n s
+o a n s
+o a n s
+to r
+o a n s
+o a n s
+o a n s
+-
+-
+-
+-
+f
+s
+f
+s
+ir
+e
+ir
+e
+s
+c
+s
+c
+t m
+o n
+t m
+o n
+d
+d
+o r
+m
+o r
+m
+tg
+o
+tg
+o
+a
+r
+a
+r
+g e s
+tg a g
+g e s
+tg a g
+e
+e
+s
+s
+S e r v ic in g R ig h ts
+C a p ita liz e d
+$ 2 ,0 2 1 ,1 3 6
+-
+1 2 5 ,4 1 8
+-
+2 3 9 ,7 1 3
+$ 2 ,3 8 6 ,2 6 7
+S e r v ic in g R ig h ts
+C a p ita liz e d
+$ 2 ,0 1 7 ,3 8 4
+-
+3 3 0 ,3 0 1
+-
+2 5 4 ,3 0 3
+$ 2 ,6 0 1 ,9 8 8
+2 0 2 5
+L o a n s
+S e r v ic e d
+6 ,6 6
+4 ,2 8
+7 6
+3 ,2 1
+1 4 ,9 2
+2 0 2 4
+L o a n s
+S e r v ic e d
+6 ,4 7
+4 ,0 5
+2
+7 9
+3 ,3 9
+1 4 ,7 5
+7
+4
+4
+1
+3
+9
+3
+5
+7
+7
+8
+0
+P r in c ip a l B
+$ 1 ,1 1 0
+3 5
+1
+1 5 8
+5 1 3
+$ 1 ,8 1 9
+P r in c ip a l B
+$ 1 ,0 2 9
+3 1
+1
+1 6 6
+5 5 3
+$ 1 ,7 8 2
+a
+,9
+,6
+,2
+,3
+,0
+,2
+a
+,4
+,6
+,8
+,0
+,0
+,0
+la
+0
+4
+3
+9
+9
+6
+la
+8
+1
+0
+8
+8
+7
+n
+2
+6
+0
+4
+1
+5
+n
+5
+4
+7
+0
+6
+4
+c
+,6
+,0
+,2
+,9
+,8
+,7
+c
+,2
+,2
+,7
+,1
+,9
+,3
+e
+3
+9
+7
+3
+2
+6
+e
+3
+5
+0
+4
+7
+1
+6
+5
+1
+7
+5
+4
+5
+5
+7
+1
+2
+0
+Escrow and related servicing balances for these loans were $14,014,951 and $11,021,902 at June 30, 2025 and 2024,
+respectively. These balances are not included in the accompanying financial statements.
+Note 14. Deferred Compensation Plan
+The Authority offers its employees a deferred compensation plan created in accordance with Internal Revenue Code
+Section 457. The deferred compensation plan, accounted for by the State of Wyoming and available to all full-time
+employees, permits employees to defer a portion of their salary until future years. Compensation deferred under this
+plan is not available until termination, retirement, death or unforeseeable emergency. All deferred compensation and
+earnings are held in trust or custodial accounts for the exclusive benefit of individual program participants and their
+beneficiaries. Investments are managed and controlled by the deferred compensation plan’s trustee, not the Authority,
+under various investment options as directed by the employee. These investments and the related liability to the
+employees are not included in the Authority’s financial statements.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 14. Deferred Compensation Plan (Continued)
+As a part of the employee benefit package, the Authority matched up to $50 per month for employees with less than
+three years of service and up to $100 per month for employees with over three years of service for all eligible employees
+who elect to contribute to the deferred compensation plan. Effective February 1, 2025, these amounts were changed to
+up to $100 per month for employees with less than three years of service and up to $200 per month for employees with
+over three years of service. Employees hired by the Authority prior to June 30, 2015, were grandfathered into the prior
+contribution plan which allowed for no match for employees with less than one year of service, with annual increases
+for each year of service of 20% up to a 100% match for employees with over five years of service.
+Note 15. Pension Plan
+Pension Plan Fiduciary Net Position
+The Wyoming Retirement System issues a publicly available financial report which includes audited financial statements
+and required supplementary information for each plan. Detailed information about the pension plans’ fiduciary net
+position is available in the separately issued Wyoming Retirement System financial report. The report may be obtained
+from the Wyoming Retirement System website at http://retirement.state.wy.us.
+Public Employees’ Pension Plan
+The Authority participates in the Public Employees’ Pension Plan (“PEPP”), a cost-sharing multiple-employer defined
+benefit, contributory retirement plan covering substantially all employees of the State and of the Public School Systems
+of Wyoming. PEPP also covers employees of those political subdivisions and other statutorily allowed entities, which
+have elected to participate in the plan. Substantially all full-time employees of the Authority are eligible to participate.
+For the years ended June 30, 2025 and 2024, respectively, PEPP members are required to contribute 9.25% and 9.25%
+of their annual covered salary and the employer is statutorily required to contribute 9.37% and 9.37% of the annual
+covered payroll for a total of 18.62% and 18.62%. Legislation enacted in 1979 allows the employer to subsidize all or
+part of the employee contribution. The Authority currently subsidizes 6.50% on behalf of eligible employees. Although
+paid by the Authority, for purposes of recording the net pension liability, these additional contributions are considered
+to be employee contributions. The Authority currently pays 15.87% of covered payroll and the employees contribute
+the remaining 2.75% of covered payroll. The Authority’s contributions to the PEPP for the years ended June 30, 2025
+and 2024 were $570,072 and $538,134, respectively, while the employee portion was $98,784 and $96,521, respectively.
+For the years ended June 30, 2025 and 2024, the Authority’s statutorily required contributions to the PEPP were $336,584
+and $319,372, respectively. As of July 1, 2025, the statutorily required contribution rates will not increase for the
+employer or the employee.
+37
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 15. Pension Plan (Continued)
+Public Employees’ Pension Plan (Continued)
+The contributions designated as employee contributions represent the portion of total contributions that a participant
+retains ownership of and can elect to receive as a refund upon termination of employment. Employers can elect to cover
+all or a portion of the employees’ contribution at their discretion. Through legislation passed during the 2012 legislative
+session, two tiers of benefits were established for participants of this plan.
+• For Tier I (first contribution before 9/1/2012), the plan allows for normal retirement after four years of service
+and attainment of age 60. Early retirement is allowed provided the employee has completed four years of service
+and attained the age of 50 or 25 years of service but will result in a reduction of benefits based on the length of
+time remaining to age 60.
+• For Tier II (first contribution after 9/1/2012), the plan allows for normal retirement after four years of service
+and attainment of age 65. Early retirement is allowed provided the employee has completed four years of service
+and attained the age of 55, or 25 years of service but will result in a reduction of benefits based on the length of
+time remaining to age 65.
+All employees may also retire with normal retirement on the basis that the sum of the member’s age and years of service
+is at least 85.
+Benefits and contribution rates are established by Title 9, Chapter 3 of the Wyoming Statutes. The PEPP provides
+retirement, disability and death benefits according to predetermined formulas and allows retirees to select one of seven
+optional methods for receiving benefits, including two joint and survivor forms of benefits: a 100% joint and survivor
+annuity, and a 50% joint and survivor annuity. The benefit amounts under these options are determined on an actuarially
+equivalent basis. The State Legislature must grant any cost-of-living adjustment (COLA) provided to retirees. In
+addition, a COLA will not be approved by the legislature unless the plan is 100% funded after the COLA is awarded.
+Employees terminating prior to normal retirement can elect to withdraw all employee contributions and accumulated
+interest through date of termination or, if they are vested, they may elect to remain in the Plan and be eligible for
+unreduced retirement benefits at age 60 (Tier I employee) or 65 (Tier II employee).
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions
+At June 30, 2025 and 2024, the Authority reported a total liability of $3,441,794 and $3,838,954, respectively, for its
+proportionate share of the net pension liability. The net pension liability was determined by an actuarial valuation as of
+January 1, 2024, applied to all prior periods included in the measurement. Actuarial valuation involves estimates of the
+reported amounts and assumptions about the probability of occurrence of events far into the future. Amounts determined
+regarding the net pension liability are subject to continual revision as actual results are compared with past expectations
+and new estimates are made about the future. An experience study was conducted covering the five-year period ending
+December 31, 2020. The net pension liability as of December 31, 2024 is based on the results of an actuarial valuation
+as of January 1, 2024, rolled forward to a measurement date of December 31, 2024.
+38
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 15. Pension Plan (Continued)
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions (Continued)
+The schedule below shows the Authority’s proportionate share of the net pension liability at June 30, 2025, the
+proportionate portion at the measurement date of December 31, 2024, and the change in the proportion from the previous
+measurement date.
+Pension liability at June 30, 2025 $3,441,794
+Proportion at December 31, 2024 0.1650287%
+Increase (decrease) from December 31, 2023 (0.0040747)%
+For the years ended June 30, 2025 and 2024, the Authority recognized pension expense of $192,829 and $174,390,
+respectively.
+The Authority reported deferred outflows of resources and deferred inflows of resources related to pensions for the years
+ended June 30, 2025 and 2024 from the following sources:
+2025 2024
+Deferred Deferred Deferred Deferred
+Outflows of Inflows of Outflows of Inflows of
+Resources Resources Resources Resources
+Net difference between projected
+and actual earnings on
+pension plan investments $ - $ 435,764 $ - $ 166,461
+Difference between actual and
+expected experience rate 223,170 4 ,144 74,148 16,019
+Change in assumptions - - 37,779 -
+Change in employer's proportion 82,124 68,753 133,078 8 ,349
+Amortizing deferred outflows and
+deferred inflows 305,294 508,661 245,005 190,829
+Authority contributions subsequent
+to the measurement date 168,295 - 159,678 -
+Total $ 473,589 $ 508,661 $ 404,683 $ 190,829
+39
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 15. Pension Plan (Continued)
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows of Resources
+Related to Pensions (Continued)
+The Authority reported $168,295 and $159,678 as deferred outflows of resources related to contributions subsequent to
+the measurement date, which will be recognized as a reduction of the net pension liability in the years ended June 30,
+2026 and 2025, respectively. Other amounts reported as deferred outflows and inflows related to pensions will be
+recognized in pension expense as follows:
+40
+Y e a r e n d
+2
+2
+2
+2
+e
+0
+0
+0
+0
+d
+2
+2
+2
+2
+J
+6
+7
+8
+9
+u n e 3 0 ,
+O
+D e f e r r e
+u tf lo w s /( I n
+o f R e s o u r
+$ ( 4
+2 1
+( 2 6
+( 1 1
+$ ( 2 0
+d
+f
+c
+2
+7
+8
+0
+3
+lo
+e
+,0
+,4
+,6
+,1
+,3
+w
+s
+3
+4
+4
+2
+6
+s
+6
+2
+8
+5
+7
+)
+)
+)
+)
+)
+Actuarial Assumptions
+The total pension liability at the December 31, 2024 and December 31, 2023 measurement dates were determined using
+the following actuarial assumptions, applied to all periods included in the measurement:
+Actuarial Assumptions and Methods
+Valuation date January 1, 2024 January 1, 2023
+Actuarial cost method Entry Age Normal Entry Age Normal
+Amortization method Level percentage of payroll, closed Level percentage of payroll, closed
+Remaining amortization period 23 years 24 years
+Asset valuation method 5 year smoothed market 5 year smoothed market
+Inflation 2.25% 2.25%
+Salary increases (includes inflation) 2.50% to 6.50% 2.50% to 6.50%
+Payroll growth rate 2.50% 2.50%
+Cost of living increase 0.00% 0.00%
+Investment net rate of return 6.80% 6.80%
+Retirement Age Experience-based table of rates that are Experience-based table of rates that are
+specific to the type of eligibility condition. specific to the type of eligibility condition.
+Last updated for the 2022 valution pursuant Last updated for the 2022 valution pursuant
+to an experience study of the period 2016- to an experience study of the period 2016-
+2020. 2020.
+Post-Retirement mortality Pub-2010 General Healthy Annuitant Pub-2010 General Healthy Annuitant
+Mortality Table, amount weighted, fully Mortality Table, amount weighted, fully
+generational, projected with Scale MP-2020 generational, projected with Scale MP-2020
+Ultimate Scale Ultimate Scale
+Males: No set back with multiplier of 100% Males: No set back with multiplier of 100%
+Females: No set back with multiplier of 103% Females: No set back with multiplier of 103%
+(continued)
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 15. Pension Plan (Continued)
+Actuarial Assumptions (Continued)
+Actuarial Assumptions and Methods (Continued)
+Pre-Retirement mortality Pub-2010 General Employee Mortality Table, Pub-2010 General Employee Mortality Table,
+amount weighted, fully generational, amount weighted, fully generational,
+projected with Scale MP-2020 Ultimate Scale projected with Scale MP-2020 Ultimate Scale
+Males: No set back with multiplier of 100% Males: No set back with multiplier of 100%
+Females: No set back with multiplier of 100% Females: No set back with multiplier of 100%
+The plan’s trustees adopted the assumed rate of investment return after considering input from the plan’s investment
+consultant(s) and actuary(s). Additional information about the assumed rate of investment return is included in the WRS
+actuarial valuation report as of January 1, 2024. In addition, a five-year experience study was completed as of December
+31, 2020, and this study provides a detailed analysis regarding recommendations on the long-term rates for inflation and
+the real rate of return. The assumed rate of investment return of 6.80% (real return net of inflation of 4.55%) falls within
+a reasonable range of the long-term expected rate of return.
+The long-term expected rate of return on pension plan investments was determined using a building-block method in
+which the expected future real rates of return (expected arithmetic returns, net of pension plan investment expense and
+inflation) are developed for each major asset class. These real rates of return are combined to produce the long-term
+expected rate of return by weighting the expected future real rates of return by the target asset allocation percentage and
+by adding expected inflation. Each major asset class is included in the pension plan’s target asset allocation for the fiscal
+years 2024 and 2023.
+These best estimates are summarized in the following table:
+2024 2023
+Long-Term Long-Term Long-Term Long-Term
+Expected Expected Expected Expected
+Target Geometric Real Arithmetic Real Target Geometric Real Arithmetic Real
+Asset Class Allocation Rate of Return Rate of Return Allocation Rate of Return Rate of Return
+Cash 0.50% 0.41% 0.40% 0.50% -0.30% -0.30%
+Gold 1.50% 2.33% 0.90% 1.50% 2.13% 0.70%
+Fixed Income 20.00% 3.79% 4.22% 20.00% 3.38% 3.80%
+Equity 51.50% 6.51% 8.19% 51.50% 6.52% 8.20%
+Marketable Alternatives 16.00% 4.54% 5.38% 16.00% 4.39% 5.23%
+Private Real Assets 10.50% 6.23% 7.74% 10.50% 5.97% 7.48%
+Total 100.00% 5.53% 6.75% 100.00% 5.39% 6.61%
+41
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 15. Pension Plan (Continued)
+Sensitivity of the Authority’s Proportionate Share of the Net Pension Liability to Changes in the Discount Rate
+The following table represents the Authority’s proportionate share of the net unfunded pension liability calculated using
+the discount rate discussed below, as well as what the Authority’s proportionate share of the net pension liability would
+be if it were calculated using a discount rate that is 1-percentage-point lower or 1-percentage-point higher than this rate.
+Authority’s proportionate share of the net pension liability
+42
+1
+C
+1
+%
+u
+%
+D
+r r e
+I n
+e
+n
+c
+c r
+t D
+r e
+e
+a
+a
+is
+s
+s
+c
+e
+e (
+o u
+( 7
+5 .8 %
+n t R
+.8 %
+a
+)
+)
+te
+2 0
+(
+2
+6
+5
+.8 % )
+$ 5
+3
+1
+,7
+,4
+,5
+3
+4
+4
+3
+1
+4
+,3
+,7
+,1
+0
+9
+3
+3
+4
+8
+1
+C
+1
+%
+u
+%
+D
+r r e
+I n
+e
+n
+c
+c r
+t D
+r e
+e
+a
+a
+is
+s
+s
+c
+e
+e (
+o u
+( 7
+5 .8 %
+n t R
+.8 %
+a
+)
+)
+te
+2 0
+(
+2
+6
+4
+.8 % )
+$ 6
+3
+1
+,0
+,8
+,9
+9
+3
+6
+6
+8
+8
+,3
+,9
+,2
+8
+5
+2
+4
+4
+6
+Payables to the pension plan
+At June 30, 2025 and 2024, respectively, the Authority had no amounts payable to the pension plan.
+Discount Rate
+The discount rate used to measure the PEPP total pension liability was 6.80% and 6.80%, respectively, for the years
+ended December 31, 2024 and 2023. Projected benefit payments are required to be discounted to their actuarial present
+values using a single discount rate that reflects a long-term expected rate of return on pension plan investments (to the
+extent that the plan’s fiduciary net position is projected to be sufficient to pay benefits using a 100 year analysis) and a
+tax-exempt municipal bond rate based on an index of 20 year general obligation bonds with an average AA credit rating
+(which is published by the Federal Reserve) as of the measurement date (to the extent that the contributions for use with
+the long-term expected rate of return are not met).
+For purposes of this valuation, the expected rate of return on pension plan investments is 6.80%, the municipal bond rate
+is 4.08% (based on the daily rate closest to but not later than the measurement date of the Bond Buyer “20-GO Bond
+Index”); and the resulting single discount rates listed above.
+Note 16. Postemployment Benefits Other Than Pensions (OPEB)
+On July 1, 2017, the Authority implemented GASB Statement No. 85, Omnibus 2017, and GASB Statement No. 75,
+Accounting and Financial Reporting for Postemployment Benefits Other Than Pensions, which replaces the
+requirements of GASB Statement No. 45, Accounting and Financial Reporting by Employers for Postemployment
+Benefits Other Than Pensions, as amended, and GASB Statement No. 57, OPEB Measurement by Agent Employers and
+Agent Multiple-Employer Plans. Specifically, Statements No. 85 and No. 75 recognize the long-term obligation for
+health and life insurance benefits offered to retirees and clarifies the timing of the measurement of pension and OPEB
+liabilities. Data needed to fully implement these standards for all periods presented are not available for the periods prior
+to July 1, 2017, and have, therefore, been estimated.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+State of Wyoming Employee Group Insurance Retiree Health Plan
+The Authority participates in a multi-employer defined benefit postemployment healthcare plan, the State of Wyoming
+Group Insurance Retiree Health Insurance Plan (Plan), authorized by Wyoming Statute 9-3-202. The State of Wyoming
+Legislature has the authority to establish and amend the benefit terms of the Plan. This plan does not issue a separate
+report; however, additional Plan information can be obtained from the State of Wyoming’s Employee Group Insurance
+(EGI) at (307)777-6835.
+Any employee of a participating agency is eligible for retiree coverage under the group insurance plan at premium rates
+established by EGI, provided that:
+1. The employee had coverage in effect under the Plan for at least one year just prior to retirement; and
+2. The employee is eligible to receive a retirement benefit under the Wyoming Retirement System; and either:
+a. Has attained age 50 with at least four years of service credit as an employee of one of the employing
+entities participating in the Plan.
+b. Has at least 20 years of service credit as an employee of one of the employing entities participating in
+the Plan.
+Benefits Provided
+The Plan provides medical and prescription drug benefits for retirees and their dependents through payment of insurance
+premiums for life. Surviving spouses are allowed to continue coverage after the retiree’s death provided they were
+covered at the time of death.
+Required Monthly Contributions
+Contributions are required for both retiree and dependent coverage. EGI provides a monthly subsidy based on
+employees’ years of service up to a maximum of 30 years of service. The current year and prior year amounts are as
+follows:
+Non-Medicare Medicare Eligible
+$11.50 per month per year of credited service $5.75 per month per year of credited service
+There were 13,670 fully eligible active participants; and 3,479 retirees and beneficiaries. The retiree’s benefit description
+provides eligible retirees receive health care through one of five medical plans. All plans are available to those under
+age 65, while the Health Savings Plan is not available to those 65 and older. The actuarial valuation identified a dental
+benefit which is available, but does not believe there is an OPEB liability associated with this benefit since the benefit
+is full-contributory and there is no implicit subsidy.
+Funding Policy
+EGI finances the program on a “pay-as-you-go” basis and there are no assets held in trust for prefunding the obligations
+of the Plan. The State of Wyoming Legislature has the authority for establishing and amending the funding policy. For
+fiscal year 2025, the Authority’s post-retirement plan is considered an unfunded plan. While the Legislature has
+established a fund to account for retiree health insurance contributions, to pay explicit subsidies, for purposes of this
+latest actuarial evaluation the plan is considered unfunded and these dollars are not treated as an asset for this analysis.
+43
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+Total OPEB Liability
+At June 30, 2025 and 2024, the Authority reported a liability of $1,807,570 and $908,830, respectively, for its
+proportionate share of the collective total OPEB liability. The collective total OPEB liability was measured as of July
+1, 2024 and 2023, respectively, and was determined by actuarial valuations as of that date. The Authority’s proportion
+of the collective total OPEB liability was based on a projection of the Authority’s expected payments/contributions to
+the OPEB plan relative to the projected contributions of all participating employers, actuarially determined. The
+projection of the sharing of benefit-related costs is based on an established pattern of practice. At June 30, 2025 and
+2024, the Authority’s proportion was 0.2478% and 0.1374%, respectively.
+Actuarial Assumptions and Other Inputs
+The total OPEB liability in the June 30, 2024 and 2023 actuarial valuation was determined using the following actuarial
+assumptions and other inputs, applied to all periods included in the measurement, unless otherwise specified:
+June 30, 2024 June 30, 2023
+Inflation 2.25% 2.25%
+Salary increases 2.50% to 8.50%, vary by service, 2.50% to 8.50%, vary by service,
+including inflation including inflation
+Discount rate 3.93%, based on the rate for 20- 3.65%, based on the rate for 20-
+year, tax-esempt general obligation year, tax exempt general obligation
+municpal bonds with an average municipal bonds with an average
+rating of AAA/Aa or higher. rating of AAA/Aa or higher.
+Healthcare cost trend rates
+Non-Medicare Medical & Prescription 7.75% graded down 0.25% to 7.50%, then graded down 0.25% to
+ultimate 4.50% over 13 years ultimate 4.50% over 12 years
+Medicare Medical & Prescription 17.25% for fiscal year ended June 17.25%, then 7.25%, then graded
+30, 2024, 7.50% for fiscal year down 0.25% to ultimate 4.50% over
+ended June 30, 2025, then graded 11 years
+down 0.25% to ultimate 4.50% over
+12 years
+Administrative costs 3.00% 3.00%
+(continued)
+44
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+Actuarial Assumptions and Other Inputs (Continued)
+June 30, 2024 June 30, 2023
+Mortality rates
+Pre-Retirement General: Headcount-Weighted Pub- General: Headcount-Weighted Pub-
+2010 General Employee, projected 2010 General Employee, projected
+generationally with two-dimensional generationally with two-dimensional
+scale MP-2020. scale MP-2020.
+Safety: Headcount-Weighted Pub- Safety: Headcount-Weighted Pub-
+2010 Safety Employee, projected 2010 Safety Employee, projected
+generationally with two-dimensial generationally with two-dimensial
+scale MP-2020. scale MP-2020.
+Post-Retirement General: Headcount-Weighted Pub- General: Headcount-Weighted Pub-
+2010 Non-Safety Healthy Retiree 2010 Non-Safety Healthy Retiree,
+with 103% multiplier for females, projected generationally with two-
+projected generationally with two- dimensional scale MP-2020.
+dimensional scale MP-2020.
+Safety: Headcount-Weighted Pub- Safety: Headcount-Weighted Pub-
+2010 Safety Healthy Retiree, 2010 Safety Healthy Retiree,
+projected generationally with two- projected generationally with two-
+dimensial scale MP-2020. dimensial scale MP-2020.
+Disabled General: Headcount-Weighted Pub- General: Headcount-Weighted Pub-
+2010 General Disabled, projected 2010 General Disabled, projected
+generationally with two-dimensional generationally with two-dimensional
+scale MP-2020. scale MP-2020.
+Safety: Headcount-Weighted Pub- Safety: Headcount-Weighted Pub-
+2010 Safety Disabled, projected 2010 Safety Disabled, projected
+generationally with two-dimensial generationally with two-dimensial
+scale MP-2020. scale MP-2020.
+Retiree Contribution Increase 3.00% 3.00%
+Demographic Assumptions The demographic assumptions The demographic assumptions
+which are not unique to the OPEB which are not unique to the OPEB
+valuation were based on the valuation were based on the
+Actuarial Experience Study as of Actuarial Experience Study as of
+December 31, 2020 for the December 31, 2020 for the
+Wyoming Retirement System dated Wyoming Retirement System date
+April 29, 2022. April 29, 2022.
+(continued)
+45
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+Actuarial Assumptions and Other Inputs (Continued)
+46
+P
+S
+C
+B
+a rtic ip a tio n R a te
+p o u se a g e d iffe re n
+o st m e th o d
+e n e fits e x c lu d e d
+tia l
+J u n e 3 0 , 2 0 2 4
+5 5 % o f e m p lo y e e s e lig ib le to re tire
+w ill e le c t m e d ic a l c o v e ra g e . O f th o se
+re tire e s w h o e le c t to c o n tin u e
+c o v e ra g e , 3 0 % w e re a ssu m e d to h a v e
+a n e lig ib le sp o u se w h o a lso o p ts fo r
+h e a lth c o v e ra g e a t th a t tim e .
+M a le s a re a ssu m e d to b e tw o y e a rs
+o ld e r th a n fe m a le s.
+E n try a g e n o rm a l. U n d e r th is
+m e th o d , th e a c tu a ria l a c c ru e d lia b ility
+is b a se d o n a p ro ra te d p o rtio n o f th e
+p re se n t v a lu e o f a ll b e n e fits e a rn e d to
+d a te o v e r th e e x p e c te d fu tu re w o rk in g
+life tim e , a s d e fin e d b y th e
+G o v e rn m e n ta l A c c o u n tin g S ta n d a rd s
+B o a rd . T h e p ro ra tio n is d e te rm in e d
+so th a t th e c o st, w ith re sp e c t to th e
+se rv ic e a c c ru e d fro m th e d a te o f h ire ,
+is re c o g n iz e d a s a le v e l p e rc e n ta g e o f
+p a y o v e r th e y e a r. T h e n o rm a l c o st
+is e q u a l to th e p ro ra te d c o st fo r th e
+y e a r o f th e v a lu a tio n .
+B e n e fits re la te d to re tire e d e n ta l a n d
+life in su ra n c e h a v e b e e n e x c lu d e d
+fro m th is v a lu a tio n .
+J u n e 3 0 , 2 0 2 3
+5 5 % o f e m p lo y e e s e lig ib le to re tire
+w ill e le c t m e d ic a l c o v e ra g e . O f th o se
+re tire e s w h o e le c t to c o n tin u e
+c o v e ra g e , 3 0 % w e re a ssu m e d to h a v e
+a n e lig ib le sp o u se w h o a lso o p ts fo r
+h e a lth c o v e ra g e a t th a t tim e .
+M a le s a re a ssu m e d to b e tw o y e a rs
+o ld e r th a n fe m a le s.
+E n try a g e n o rm a l. U n d e r th is
+m e th o d , th e a c tu a ria l a c c ru e d lia b ility
+is b a se d o n a p ro ra te d p o rtio n o f th e
+p re se n t v a lu e o f a ll b e n e fits e a rn e d to
+d a te o v e r th e e x p e c te d fu tu re w o rk in g
+life tim e , a s d e fin e d b y th e
+G o v e rn m e n ta l A c c o u n tin g S ta n d a rd s
+B o a rd . T h e p ro ra tio n is d e te rm in e d
+so th a t th e c o st, w ith re sp e c t to th e
+se rv ic e a c c ru e d fro m th e d a te o f h ire ,
+is re c o g n iz e d a s a le v e l p e rc e n ta g e o f
+p a y o v e r th e y e a r. T h e n o rm a l c o st
+is e q u a l to th e p ro ra te d c o st fo r th e
+y e a r o f th e v a lu a tio n .
+B e n e fits re la te d to re tire e d e n ta l a n d
+life in su ra n c e h a v e b e e n e x c lu d e d
+fro m th is v a lu a tio n .
+The healthcare cost trend rate assumptions were developed using the actuary’s internal guidelines, which are established
+each year using data sources such as the Segal Health Trend Survey, internal client results, trends from other published
+surveys prepared by the Standard & Poor’s Dow Jones Indices, consulting firms and brokers, and Consumer Price Index
+statistics published by the Bureau of Labor Statistics.
+Significant assumptions are based on an experience study that covered the five-year period ended December 31, 2020.
+Significant assumptions varied within the various retirement plans in the WRS.
+Discount Rate
+The discount rate used to measure the total OPEB liability was 3.93% at June 30, 2025, which represents an increase
+from the discount rate of 3.65% utilized for the June 30, 2024 measurement date. As the Plan is unfunded, the Plan has
+no fiduciary net position from which to make future benefit payments. Therefore, the discount rate is based on the Bond
+Buyer General Obligation 20-Bond Municipal Bond Index.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+Sensitivity of the Total OPEB Liability to Changes in the Discount Rate
+The following table represents the Authority’s proportionate share of the total OPEB liability calculated using the
+discount rate applicable, as well as what the Authority’s proportionate share of the total OPEB liability would be if it
+were calculated using a discount rate that is 1-percentage-point lower or 1-percentage-point higher than the current
+discount rate:
+As of June 30, 2025
+1% Decrease Current Discount Rate 1% Increase
+2.93% 3.93% 4.93%
+Net OPEB Liability $ 2,164,957 $ 1,807,570 $ 1,527,262
+As of June 30, 2024
+1% Decrease Current Discount Rate 1% Increase
+2.65% 3.65% 4.65%
+Net OPEB Liability $ 1,095,900 $ 908,830 $ 762,929
+Sensitivity of the Total OPEB Liability to Changes in the Healthcare Cost Trend Rates
+The following table represents the Authority’s proportionate share of the total OPEB liability calculated using the
+healthcare cost trend rates applicable, as well as what the Authority’s proportionate share of the total OPEB liability
+would be if it were calculated using healthcare cost trend rates that are 1-percentage-point lower or 1-percentage-point
+higher than the current healthcare cost trend rates:
+47
+P
+M
+N
+re -M e d ic a
+e d ic a re
+e t O P E B L
+re
+ia b ility $
+1 % D e c
+1
+re a s e
+6 .7
+1 6 .2
+,5 4 3 ,9
+5
+5
+1
+%
+%
+6
+A s o f J u n e
+C u rre n t H e
+C o s t T re n
+$ 1
+3 0 , 2 0 2 5
+a lth c a re
+d R a te s
+7 .7 5 %
+1 7 .2 5 %
+,8 0 7 ,5 7 0 $
+1 % In c re
+2 ,1
+a
+1
+5
+s8
+8
+3
+e.7
+.2
+,1
+5
+5
+3
+%
+%
+4
+As of June 30, 2024
+Current Healthcare
+1% Decrease Cost Trend Rates 1% Increase
+Pre-Medicare 6.50% 7.50% 8.50%
+Medicare 16.25% 17.25% 18.25%
+Net OPEB Liability $ 776,206 $ 908,830 $ 1,084,028
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 16. Postemployment Benefits Other Than Pensions (OPEB) (Continued)
+OPEB Expense and Deferred Outflows of Resources and Deferred Inflows of Resources Related to OPEB
+For the years ended June 30, 2025 and 2024, respectively, the Authority recognized OPEB expense of $45,550 and
+recaptured prior year OPEB expense of $174,553.
+At June 30, 2025 and 2024, the Authority reported deferred outflows of resources and deferred inflows of resources
+related to OPEB from the following sources:
+2025 2024
+Deferred Deferred Deferred Deferred
+Outflows of Inflows of Outflows of Inflows of
+Resources Resources Resources Resources
+Difference between actual and expected experience rate $ 152,101 $ 290,960 $ 187,158 $ 265,650
+Changes in assumptions 374,299 1,266,668 384,311 914,330
+Change inproportionate share of expected payments 1,163,638 639,333 41,106 796,418
+Amortizing deferred outflows and deferred inflows 1,690,038 2,196,961 612,575 1,976,398
+Contributions subsequent to the measurement date 21,553 - - -
+Total $ 1,711,591 $ 2,196,961 $ 612,575 $ 1,976,398
+The Authority reported $21,553 as deferred outflows of resources related to contributions subsequent to the measurement
+date, which will be recognized as a reduction of the net pension liability in the year ended June 30, 2026.
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to OPEB will be recognized
+in OPEB expense as follows:
+48
+Y e a r e
+T
+n
+h
+d
+2
+2
+2
+2
+2
+e
+e d J u n
+0 2 6
+0 2 7
+0 2 8
+0 2 9
+0 3 0
+re a fte r
+e 3 0 ,
+D e fe rre d O u tflo w s
+$ (1 8
+(1 5
+(1 9
+(1 4
+(2
+1 9
+$ (5 0
+(In flo
+1 ,7 9 6 )
+5 ,5 6 9 )
+5 ,8 8 0 )
+1 ,3 6 1 )
+6 ,5 3 2 )
+4 ,2 1 5
+6 ,9 2 3 )
+w s ) o f R e s o u rc e s
+Note 17. Commitments, Concentrations and Contingencies
+At June 30, 2025 and 2024, respectively, the Authority was committed to purchase single-family mortgages aggregating
+approximately $30.0 million and $35.8 million under the Warehouse Indenture, $2.0 million and $0.2 million under the
+1994 Indenture, $1.7 million and $3.0 million under various Housing & Neighborhood Development Department
+Programs, $0.3 million and $0.2 million under the Housing Trust Fund, $0 and $0 million under the FNMA HFA
+Program and $6.6 million and $4.8 million under the GNMA Advantage Program.
+As of June 30, 2025 and 2024, respectively, the Authority has variable rate bonds outstanding in the 1994 Indenture of
+$135.0 million and $135.0 million.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 17. Commitments, Concentrations and Contingencies (Continued)
+As of June 30, 2025 and 2024, respectively, the Authority had $135.0 million and $135.0 million of variable rate debt in
+the 1994 Indenture. These bonds are subject to tender at par for repurchase by the Authority at the option of the
+bondholders; however, the Authority may remarket these bonds if they are tendered by the bondholders. These bonds
+were subject to a repurchase commitment, assumed by the Federal Home Loan Bank. Under these agreements, the
+provider will purchase any bonds tendered by bondholders and not successfully remarketed by the settlement date, and
+will adjust the interest rate associated with any unremarketed bonds to a bank rate. As of June 30, 2025 and 2024,
+respectively, no variable rate bonds were held as unremarketed bank bonds under the terms of a standby bond purchase
+agreement.
+In addition, WCDA had no floating rate notes outstanding at June 30, 2025 and 2024.
+The Authority uses a number of insurers for its mortgage loans receivable as noted in Note 5. The Authority requires
+private mortgage insurance (PMI) on some mortgages with coverage ranging from 30% to 50% of the outstanding
+balances. Approximately 1.0% and 1.3% of the Authority’s outstanding mortgage receivable balances were covered by
+PMI from Radian and approximately 1.3% and 1.6% from Genworth, as of June 30, 2025 and 2024, respectively.
+Note 18. Forward Commitments
+The Authority sells forward commitments to deliver Government National Mortgage Association (GNMA) guaranteed
+mortgage-backed securities. Commitments are sold as mortgage loan reservations are taken to hedge against market
+fluctuations prior to loan origination and securitization. The Authority is subject to market value fluctuations prior to
+loan origination and securitization, in the event that mortgage loans are not originated as expected and the committed
+securities cannot be delivered.
+A net increase in fair value of $14,200 and a net decrease in fair value of $23,364 on the outstanding forward
+commitments, classified as investment derivative instruments, has been recorded in investment income in the Single
+Family Mortgage Warehousing Fund for the years ended June 30, 2025 and 2024, respectively. In addition, $38,445
+and $24,245 of forward commitments is recorded on the statements of net position as other current assets at June 30,
+2025 and 2024, respectively.
+49
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 18. Forward Commitments (Continued)
+The Authority is subject to credit risk with respect to counterparties to the forward commitment contracts, summarized
+by counterparty at June 30, 2025 and 2024 as follows:
+50
+B
+D
+R
+A
+A
+B
+D
+P
+A
+A
+C o u n te r p a r ty
+a n k o f O k la h o m a
+a iw a C a p ita l M a r k e ts
+a y m o n d J a m e s
+d ju s tm e n t to f a ir v a lu e
+f o r r e la te d f e e s a n d f u n
+d ju s te d f a ir v a lu e
+a n k o f O k la h o m a
+a iw a C a p ita l M a r k e ts
+ip e r S a n d le r
+d ju s tm e n t to f a ir v a lu e
+f o r r e la te d f e e s a n d f u n
+d ju s te d f a ir v a lu e
+d
+d
+in
+in
+g
+g
+r
+r
+is
+is
+k
+k
+C o u n t
+4
+3
+1
+2
+2
+1
+J
+C o m m itm e n ts
+a t P a r
+$ 2 ,2 0 0 ,0 0 0
+2 ,5 0 0 ,0 0 0
+6 0 0 ,0 0 0
+$ 5 ,3 0 0 ,0 0 0
+J
+$ 1 ,7 0 0 ,0 0 0
+1 ,4 0 0 ,0 0 0
+1 ,0 0 0 ,0 0 0
+$ 4 ,1 0 0 ,0 0 0
+u
+u
+n
+n
+e 3 0 , 2 0 2 5
+F a ir
+V a lu e
+$ 2 ,2 4 1 ,3
+2 ,5 4 9 ,0
+6 1 4 ,1
+5 ,4 0 4 ,5
+( 3 3 ,0
+$ 5 ,3 7 1 ,5
+e 3 0 , 2 0 2 4
+$ 1 ,7 2 3 ,4
+1 ,4 1 7 ,3
+1 ,0 1 3 ,3
+4 ,1 5 4 ,0
+( 4 ,1
+$ 4 ,1 4 9 ,8
+7
+5
+6
+8
+6
+1
+5
+0
+0
+5
+8
+6
+0
+0
+0
+0
+4
+6
+0
+0
+0
+0
+3
+7
+)
+)
+C
+E
+o u
+x p o s u r e
+b y
+n te r p a r ty
+4 2 %
+4 7 %
+1 1 %
+1 0 0 %
+4 1 %
+3 4 %
+2 5 %
+1 0 0 %
+P u r c h a s e d
+$ 2 ,5 2 7 ,3 6 6
+-
+-
+$ 2 ,5 2 7 ,3 6 6
+$ -
+1 ,4 3 7 ,7 5 2
+-
+$ 1 ,4 3 7 ,7 5 2
+(
+C
+S
+o
+&
+B
+N
+B
+N
+N
+u n te r p a r ty
+R a tin g
+P /M o o d y 's
+B B + /B a a 1
+o t R a te d
+A - /A 3
+B B + /B a a 1
+o t R a te d
+o t R a te d
+)
+The Authority has also recorded a deferred inflow of resources for the accumulated increase in fair value of hedged
+derivatives of $50,734 and $48,201 as of June 30, 2025 and 2024, respectively, for its aggregate liability should it fail to
+fulfill these forward commitments. This expense has been netted in investment income.
+Note 19. Risk Management
+The Authority carries commercial insurance for risks of loss related to wrongful acts, general liability protection, and
+theft of, damage to, or destruction of real and personal property. Settled claims resulting from these risks have not
+exceeded the commercial insurance coverage.
+The Authority manages its risks in respect to the mortgages it acquires by obtaining insurance or guarantees from various
+sources. None of the insurance or guarantees cover 100% of potential losses on the mortgage portfolio. The Authority
+has established loan loss reserves for additional coverage of potential losses that exist in its mortgage portfolio.
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 19. Risk Management (Continued)
+The Authority participates in the State of Wyoming self-insured employee medical, life and dental insurance program.
+This group medical insurance program is co-administered with a third-party health provider/claim service company. The
+State self-insures medical costs and assumes all the risk for claims incurred by plan participants. The employee life
+insurance and dental insurance plans are administered solely by insurance providers. The State does not retain any risk
+of loss for the life or dental insurance plans as the insurance providers assume all the risk for claims incurred by the
+participants. The Authority contributes the insurance premiums for each covered employee and a portion of each covered
+employee’s dependents for these plans.
+The State’s group insurance fund, which includes medical, life and dental, was solvent at June 30, 2025 and 2024 and
+the Authority expects to incur no liability in connection with the group insurance program. Group insurance premiums
+paid by the Authority during the years ended June 30, 2025 and 2024 were $915,030 and $905,357, respectively.
+Note 20. Standards Issued and Implemented
+As of July 1, 2024, the Authority adopted GASB Statement No. 101, Compensated Absences. The provisions align
+recognition and measurement guidance for all types of compensated absences, including vacation, sick leave, and other
+paid time off under a unified model, which resulted in governments recognizing a liability that more appropriately
+reflects when an obligation for compensated absences occurred. The implementation required the Authority to recognize
+a liability for certain leave benefits that were previously not recorded or measured differently under prior guidance. The
+model is intended to provide greater consistency in application and improved comparability across governments. The
+impact on net position was not significant to the Authority. As such, no restatement of balances was deemed necessary.
+GASB Statement No. 102, Certain Risk Disclosures, requires governments to disclose essential information about risks
+related to vulnerabilities due to certain concentrations or constraints. A concentration, as defined by Statement 102, is a
+lack of diversity related to an aspect of a significant inflow or outflow of resources, for example, a small number of
+companies that represent a majority of employment in a government’s jurisdiction, or a government that relies on one
+revenue source for most of its revenue. A constraint is a limitation imposed on a government by an external party or by
+formal action of the government’s highest level of decision -making authority, such as a voter-approved property tax cap
+or a state-imposed debt limit. The requirements of the Statement are effective for reporting periods beginning after June
+15, 2024. Management implemented this standard during the year ended June 30, 2025. There was no significant impact
+on the financial statements or disclosures.
+Note 21. Standards Issued But Not Implemented
+GASB Statement No. 103, Financial Reporting Model Improvements, improves key components of the financial
+reporting model to enhance its effectiveness in providing information that is essential for decision making and assessing
+a government’s accountability. This Statement also addresses certain application issues. Key provisions of this Statement
+include (1) recognition and measurement of revenues and expenditures; (2) presentation enhancements; and (3) note
+disclosures. The requirements of this Statement are effective for fiscal years beginning after June 15, 2025.
+51
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+NOTES TO BASIC FINANCIAL STATEMENTS
+June 30, 2025 and 2024
+Note 21. Standards Issued But Not Implemented (Continued)
+GASB Statement No. 104, Disclosure of Certain Capital Assets, requires governments to separately disclose certain
+types of capital assets, including lease assets, intangible right-to-use assets, and subscription assets, to enhance
+transparency in financial statements. It also provides guidelines for capital assets held for sale, requiring disclosure of
+their cost and accumulated depreciation. These requirements are effective for fiscal years beginning after June 15, 2025,
+with early adoption encouraged.
+Management has not yet completed its assessment of the effects of implementing these standards.
+Note 22. Subsequent Events
+On September 10, 2025, the Authority closed on the issuance of its 2025 Series 3 & 4 mortgage revenue bonds in the
+amount of $97,560,000 under the 1994 Indenture. No portion was used to call bonds.
+52
+This page is intentionally left blank
+53
+REQUIRED SUPPLEMENTARY INFORMATION
+54
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+SCHEDULE OF CHANGES IN NET PENSION LIABILITY AND RELATED RATIOS
+Last 10 Fiscal Years *
+(Unaudited)
+2025 2024 2023 2022
+Authority's proportion of the net
+pension liability 0.1650287% 0.1691034% 0.1615234% 0.1621179%
+Authority's proportionate share of the net
+pension liability $ 3,441,794 $ 3,838,954 $ 4,414,133 $ 2,471,847
+Authority's covered-employee payroll $ 3,343,943 $ 3,176,299 $ 2,916,357 $ 2,950,430
+Authority's proportionate share of the net
+pension liability as a percentage of its
+covered payroll 102.93% 120.86% 151.36% 83.78%
+Plan fiduciary net position as a percentage
+of the total pension liability 82.46% 80.19% 75.47% 86.03%
+* The amounts presented for each fiscal year were determined as of December 31.
+55
+56
+$$
+2 0 2 1
+0 .1 6 2 8 7 3
+3 ,5 3 9 ,8
+2 ,8 9 9 ,9
+1 2 2 .0
+7 9 .2
+4
+30
+7
+4
+%
+28
+%
+%
+$$
+2 0 2 0
+0 .1 6 0 6 9 0
+3 ,7 7 6 ,0
+2 ,7 9 3 ,1
+1 3 5 .1
+7 6 .8
+0
+93
+9
+3
+%
+54
+%
+%
+$$
+2 0 1 9
+0 .1 6 0 4 6 9
+4 ,8 8 6 ,7
+2 ,7 9 4 ,3
+1 7 4 .8
+6 9 .1
+6
+64
+8
+7
+%
+55
+%
+%
+$$
+2 0 1 8
+0 .1 5 3 0 3 2
+3 ,4 8 8 ,1
+2 ,7 1 8 ,4
+1 2 8 .3
+7 6 .3
+8
+34
+1
+5
+%
+80
+%
+%
+$$
+2 0 1 7
+0 .1 3 8 4 7 1
+3 ,3 4 7 ,5
+2 ,4 6 8 ,8
+1 3 5 .5
+7 3 .4
+2
+41
+9
+2
+%
+10
+%
+%
+$$
+2 0 1 6
+0 .1 4 1 4 0 5
+3 ,2 9 3 ,8
+2 ,4 6 6 ,2
+1 3 3 .5
+7 3 .4
+6
+21
+6
+0
+%
+88
+%
+%
+57
+W Y O M IN G C O M M U N IT Y D E V E L O P M E N T A U T H O R IT Y
+S C H E D U L E O F P E N S IO N C O N T R IB U T IO N S
+L a s t 1 0 F is c a l Y e a rs
+(U n a u d ite d )
+2 0 2 5 2 0 2 4 2 0 2 3
+S ta tu to rily re q u ire d c o n trib u tio n $ 3 3 6 ,5 8 4 $ 3 1 9 ,3 7 2 $ 2 9 2 ,8 5 5
+C o n trib u tio n s in re la tio n s to th e
+s ta tu to rily re q u ire d c o n trib u tio n (3 3 6 ,5 8 4 ) (3 1 9 ,3 7 2 ) (2 9 2 ,8 5 5 )
+C o n trib u tio n d e fic ie n c y (e x c e s s ) $ - $ - $ -
+A u th o rity 's c o v e re d p a y ro ll $ 3 ,5 9 2 ,1 4 5 $ 3 ,4 0 8 ,4 5 3 $ 3 ,1 2 5 ,4 5 4
+C o n trib u tio n s a s a p e rc e n ta g e o f
+c o v e re d p a y ro ll 9 .3 7 % 9 .3 7 % 9 .3 7 %
+C h a n g e s in b e n e fit te rm s : T h e re w e re n o c h a n g e s in b e n e fit te rm s b e tw e e n th e in itia l m e a s u re m e n t d a te
+a n d th e D e c e m b e r 3 1 , 2 0 2 4 m e a s u re m e n t d a te .
+C h a n g e s in a s s u m p tio n s : T h e a s s u m p tio n s u s e d in th e a c tu a ria l v a lu a tio n w e re a d o p te d a t th e N o v e m
+th e F e b ru a ry 1 7 , 2 0 2 2 m e e tin g s a n d w e re firs t u tiliz e d w ith th e a c tu a ria l v a lu a tio n re p o rt fo r th e y e a r b e
+1 , 2 0 2 1 . In g e n e ra l, th e n e w a s s u m p tio n s re fle c t a n u p d a te to th e m o rta lity ta b le s , a d ju s tm e n ts to th e d
+s a la ry s c a le , a s w e ll a s a lo w e r lo n g -te rm in v e s tm e n t re tu rn . T h e e x p e c te d ra te o f re tu rn o n a s s e ts w a s
+7 .0 0 % to 6 .8 0 % . T h e re h a v e b e e n n o a c tu a ria l a s s u m p tio n c h a n g e s o r m e th o d s s in c e th e p rio r v a lu a tio
+b e lo w .
+M e a s u re m e n t D a te (P la n Y e a r E n d ) 2 0 2 4 2 0 2 3 2 0 2 2
+D is c o u n t ra te 6 .8 0 % 6 .8 0 % 6 .8 0 %
+In v e s tm e n t ra te o f re tu rn 6 .8 0 % 6 .8 0 % 6 .8 0 %
+R e a l re tu rn n e t o f in fla tio n 4 .5 5 % 4 .5 5 % 4 .5 5 %
+In fla tio n 2 .2 5 % 2 .2 5 % 2 .2 5 %
+S a la ry in c re a s e s 2 .5 0 % - 6 .5 0 % 2 .5 0 % - 6 .5 0 % 2 .5 0 % - 6 .5 0 %
+P a y ro ll g ro w th ra te 2 .5 0 % 2 .5 0 % 2 .5 0 %
+2 0 2 2
+$ 2 8 2 ,2 1 5
+(2 8 2 ,2 1 5 )
+$ -
+$ 3 ,0 1 1 ,9 0 0
+9 .3 7 %
+re fle c te d b e lo w
+b e r 1 7 , 2 0 2 1 a n d
+g in n in g J a n u a ry
+e m o g ra p h ic a n d
+d e c re a s e d fro m
+n . S e e th e ta b le
+2 0 2 1
+6 .8 0 %
+6 .8 0 %
+4 .5 5 %
+2 .2 5 %
+2 .5 0 % - 6 .5 0 %
+2 .5 0 %
+2021 2020 2019 2018 2017 2016
+$ 271,746 $ 262,127 $ 249,206 $ 232,492 $ 224,507 $ 206,888
+(271,746) (262,127) (249,206) (232,492) (224,507) (206,888)
+$ - $ - $ - $ - $ - $ -
+$ 2,979,671 $ 2,955,209 $ 2,891,021 $ 2,777,682 $ 2,759,184 $ 2,471,835
+9.12% 8.87% 8.62% 8.37% 8.37% 8.37%
+2020 2019 2018 2017 2016
+7.00% 7.00% 7.00% 7.00% 7.75%
+7.00% 7.00% 7.00% 7.75% 7.75%
+4.75% 4.75% 3.52% 4.75% 4.50%
+2.25% 2.25% 2.25% 3.25% 3.25%
+2.50% - 6.50% 2.50% - 6.50% 4.75% - 8.75% 4.25% - 6.00% 4.25% - 6.00%
+2.50% 2.50% 2.50% 4.25% 4.25%
+58
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+SCHEDULE OF AUTHORITY'S PROPORTIONATE SHARE OF THE NET OPEB LIABILITY
+Last 10 Fiscal Years ***
+(Unaudited)
+2025 2024 2023 2022
+Authority's proportion of the
+net OPEB liability 0.24780% 0.13740% 0.13494% 0.19687%
+Authority's proportionate share of the
+net OPEB liability $ 1 ,807,570 $ 9 08,830 $ 1 ,416,295 $ 2,596,182
+Authority's covered payroll $ 2 ,185,375 $ 1,161,779 $ 1 ,161,543 **
+Authority's proportionate share of the
+net OPEB liability as a percentage
+of its covered payroll 82.71% 78.23% 121.93% **
+Plan fiduciary net position as a percentage
+of the total OPEB liability 0.00% 0.00% 0.00% **
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+SCHEDULE OF AUTHORITY'S OPEB CONTRIBUTIONS
+Last 10 Fiscal Years
+(Unaudited)
+2025 2024 2023 2022
+Contractually required OPEB contributions $ 21,553 $ 2 1,059 $ 12,402 $ -
+OPEB contributions in relation to contractually
+required contributions (21,553) (21,059) (12,402) -
+Contribution deficiency (excess) $ - $ - $ - $ -
+Authority's covered payroll (OPEB) $ 3 ,592,167 $ 3,509,833 $ 2 ,067,000 **
+OPEB contributions as a percentage of
+covered payroll 0.6% 0.6% 0.6% 0.00%
+* Information for years prior to 2018 is not available; the schedule will be completed as information becomes available.
+** The Authority had no required contributions related to the OPEB plan.
+*** The amounts presented for each fiscal year were determined as of July 1 of the previous year.
+There have been no changes of benefit terms.
+The following assumptions were changed since the prior valuation:
+1) Trend rates on per-capital costs and retiree contribution rates were updated. This change increased the total OPEB
+liability (TOL).
+2) The discount rate increased from 3.65% to 3.93%, based on the rate for 20-year, tax exempt general obligation
+municipal bonds with an average rating of AAA/Aa or higher. This change decreased the TOL.
+3) Several changes were made as a result of a recent plan audit. Certain demographic assumptions were adjusted to
+match those used in the most recent Wyoming Retirement System (WRS) retirement plan actuarial valuations and
+surviving spouse benefits were updated based on a clarification of benefits. These changes decreased the TOL.
+59
+2021 2020 2019 2018 2017 2016
+0.21864% 0.21591% 0.24323% 0.24483% * *
+$ 2,856,836 $ 2,042,522 $ 2,479,597 $ 1,936,584 * *
+** ** ** ** * *
+** ** ** ** * *
+** ** ** ** * *
+2021 2020 2019 2018 2017 2016
+$ - $ - $ - $ - * *
+- - - - * *
+$ - $ - $ - $ - * *
+** ** ** ** * *
+0.00% 0.00% 0.00% 0.00% * *
+60
+This page is intentionally left blank
+61
+SUPPLEMENTARY INFORMATION
+62
+63
+AC
+N
+D
+LC
+N
+D
+N
+W Y O M I N G C O M M U N I T Y D E V E
+D E T A I L E D S T A T E M E N T O
+J u n e 3 0 , 2 0
+( S e e I n d e p e n d e n t A u d
+S S E T S A N D D E F E R R E D O U T F L O W S O F R E S O U R C E S
+u rre n t A s s e ts
+C a s h a n d c a s h e q u iv a le n ts
+In v e s tm e n ts
+In te re s t re c e iv a b le : M o rtg a g e lo a n s
+In v e s tm e n ts
+A c c o u n ts re c e iv a b le a n d o th e r a s s e ts
+T o ta l c u rre n t a s s e ts
+o n c u rre n t A s s e ts
+R e s tric te d c a s h a n d c a s h e q u iv a le n ts
+R e s tric te d in v e s tm e n ts
+R e s tric te d m o rtg a g e lo a n s re c e iv a b le , n e t
+R e s tric te d re a l e s ta te h e ld fo r s a le
+R e s tric te d in te re s t re c e iv a b le : M o rtg a g e lo a n s
+In v e s tm e n ts
+R e s tric te d a c c o u n ts re c e iv a b le a n d o th e r a s s e ts
+M o rtg a g e lo a n s re c e iv a b le , n e t
+R e a l e s ta te h e ld fo r s a le
+D e fe rre d h e d g in g c o s ts o f fix e d -ra te s w a p s
+D e fe rre d s e rv ic in g c o s ts , n e t
+P ro p e rty a n d e q u ip m e n t, n e t
+T o ta l n o n c u rre n t a s s e ts
+T o ta l a s s e ts
+e fe rre d O u tflo w s o f R e s o u rc e s
+D e fe rre d o u tflo w s fro m p e n s io n p la n ite m s
+D e fe rre d o u tflo w s fro m o th e r p o s te m p lo y m e n t b e n e fits
+T o ta l d e fe rre d o u tflo w s o f re s o u rc e s
+T o ta l a s s e ts a n d d e fe rre d o u tflo w s o f re s o u rc e s
+IA B IL IT IE S , D E F E R R E D IN F L O W S O F R E S O U R C E S A N D N E T P O S IT
+u rre n t L ia b ilitie s
+B o n d s p a y a b le
+A c c ru e d in te re s t p a y a b le
+A c c o u n ts p a y a b le a n d o th e r lia b ilitie s
+T o ta l c u rre n t lia b ilitie s
+o n c u rre n t lia b ilitie s
+B o n d s p a y a b le
+O th e r d e fe rre d c re d its
+P e n s io n lia b ilitie s
+O th e r p o s te m p lo y m e n t b e n e fit lia b ilitie s
+T o ta l n o n c u rre n t lia b ilitie s
+T o ta l lia b ilitie s
+e fe rre d In flo w s o f R e s o u rc e s
+D e fe rre d in flo w s fro m p e n s io n p la n ite m s
+D e fe rre d in flo w s fro m o th e r p o s te m p lo y m e n t b e n e fits
+A c c u m u la te d in c re a s e in fa ir v a lu e o f h e d g in g d e riv a tiv e s
+T o ta l d e fe rre d in flo w s o f re s o u rc e s
+e t P o s itio n
+N e t in v e s tm e n t in c a p ita l a s s e ts
+R e s tric te d
+U n re s tric te d
+T o ta l n e t p o s itio n
+T o ta l lia b ilitie s , d e fe rre d in flo w s o f re s o u rc e s a n d n e t p o s itio n
+L O P M E N T A U
+F N E T P O S I T I
+2 5
+it o r 's R e p o r t )
+H o u s in g R e v e n u e
+B o n d s
+1 9 9 4 In d e n tu re
+F u n d
+$ 4 5 ,0 5 0 ,4 7 6
+4 6 ,6 5 2 ,6 1 1
+-
+2 5 6 ,4 9 4
+-
+9 1 ,9 5 9 ,5 8 1
+1 6 5 ,3 9 5 ,9 3 4
+1 6 ,8 3 4 ,9 5 8
+1 ,0 0 6 ,6 6 3 ,9 1 3
+1 ,2 2 0 ,5 0 0
+3 ,6 5 6 ,1 6 8
+8 3 4 ,6 3 6
+2 7 ,8 7 7
+-
+-
+1 2 ,8 1 3 ,7 2 2
+-
+-
+1 ,2 0 7 ,4 4 7 ,7 0 8
+1 ,2 9 9 ,4 0 7 ,2 8 9
+-
+-
+-
+$ 1 ,2 9 9 ,4 0 7 ,2 8 9
+IO N
+$ 3 3 ,0 4 0 ,0 0 0
+2 ,8 0 0 ,5 9 6
+5 5 8 ,6 5 0
+3 6 ,3 9 9 ,2 4 6
+1 ,0 2 4 ,0 3 2 ,9 0 8
+2 ,2 7 4 ,2 6 9
+-
+-
+1 ,0 2 6 ,3 0 7 ,1 7 7
+1 ,0 6 2 ,7 0 6 ,4 2 3
+-
+-
+1 2 ,8 1 3 ,7 2 2
+1 2 ,8 1 3 ,7 2 2
+-
+1 3 1 ,9 2 7 ,5 6 3
+9 1 ,9 5 9 ,5 8 1
+2 2 3 ,8 8 7 ,1 4 4
+$ 1 ,2 9 9 ,4 0 7 ,2 8 9
+O
+T H O R I T Y
+N
+S in g le F a m ily
+M o rtg a g e
+W a re h o u s in g
+F u n d
+$ 8 ,3 0 5 ,1 1 2
+-
+5 ,8 5 7
+7 ,4 8 7
+2 1 9 ,2 6 4
+8 ,5 3 7 ,7 2 0
+-
+-
+-
+-
+-
+-
+-
+1 ,1 8 7 ,8 3 9
+-
+-
+-
+-
+1 ,1 8 7 ,8 3 9
+9 ,7 2 5 ,5 5 9
+-
+-
+-
+$ 9 ,7 2 5 ,5 5 9
+$ -
+-
+1 0 ,2 3 2
+1 0 ,2 3 2
+-
+-
+-
+-
+-
+1 0 ,2 3 2
+-
+-
+5 0 ,7 3 4
+5 0 ,7 3 4
+-
+-
+9 ,6 6 4 ,5 9 3
+9 ,6 6 4 ,5 9 3
+$ 9 ,7 2 5 ,5 5 9
+M u lti-F a m ily
+F u n d
+$ 3 9 6 ,0 8 0
+1 ,2 1 5 ,1 5 5
+-
+3 ,6 8 4
+-
+1 ,6 1 4 ,9 1 9
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1 ,6 1 4 ,9 1 9
+-
+-
+-
+$ 1 ,6 1 4 ,9 1 9
+$ -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+1 ,6 1 4 ,9 1 9
+1 ,6 1 4 ,9 1 9
+$ 1 ,6 1 4 ,9 1 9
+Housing &
+Neighborhood Housing Mortgage
+Development Trust Guaranty General
+Fund Fund Fund Fund Eliminations Total
+$ - $ 4 2,079,027 $ 5,620,357 $ 8 ,753,511 $ - $ 110,204,563
+- 25,048,966 1 6,179,215 - - 89,095,947
+- 3 8,682 - - - 44,539
+- 286,456 1 03,382 - - 657,503
+- 227,253 - 2,477,391 - 2,923,908
+- 67,680,384 2 1,902,954 11,230,902 - 202,926,460
+2 1,782,141 - - - - 187,178,075
+- - - - - 16,834,958
+7 1,806,000 - - - - 1,078,469,913
+- - - - - 1,220,500
+- - - - - 3,656,168
+7 4,303 - - - - 908,939
+1 1,582,239 - - - - 11,610,116
+- 13,248,953 - - - 14,436,792
+- 502,000 - - - 502,000
+- - - - - 12,813,722
+- - - 8,448,232 - 8,448,232
+- - - 1,492,684 - 1,492,684
+1 05,244,683 1 3,750,953 - 9,940,916 - 1,337,572,099
+1 05,244,683 8 1,431,337 2 1,902,954 21,171,818 - 1,540,498,559
+- - - 473,589 - 473,589
+- - - 1,711,591 - 1,711,591
+- - - 2,185,180 - 2,185,180
+$ 1 05,244,683 $ 8 1,431,337 $ 2 1,902,954 $ 2 3,356,998 $ - $ 1,542,683,739
+$ - $ - $ - $ - $ - $ 33,040,000
+- - - - - 2,800,596
+8 83,298 8 ,107 - 1,974,817 - 3,435,104
+8 83,298 8 ,107 - 1,974,817 - 39,275,700
+- - - - - 1,024,032,908
+- - - - - 2,274,269
+- - - 3,441,794 - 3,441,794
+- - - 1,807,570 - 1,807,570
+- - - 5,249,364 - 1,031,556,541
+8 83,298 8 ,107 - 7,224,181 - 1,070,832,241
+- - - 508,661 - 508,661
+- - - 2,196,961 - 2,196,961
+- - - - - 12,864,456
+- - - 2,705,622 - 15,570,078
+- - - 1,492,684 - 1,492,684
+1 04,361,385 - - - - 236,288,948
+- 81,423,230 2 1,902,954 11,934,511 - 218,499,788
+1 04,361,385 8 1,423,230 2 1,902,954 13,427,195 - 456,281,420
+$ 1 05,244,683 $ 8 1,431,337 $ 2 1,902,954 $ 2 3,356,998 $ - $ 1,542,683,739
+64
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+DETAILED STATEMENT OF NET POSITION
+June 30, 2024
+(See Independent Auditor's Report)
+Housing Revenue Single Family
+Bonds Mortgage
+1994 Indenture Warehousing Multi-Family
+Fund Fund Fund
+ASSETS AND DEFERRED OUTFLOWS OF RESOURCES
+Current Assets
+Cash and cash equivalents $ 33,197,410 $ 8,366,678 $ 333,337
+Investments 25,971,619 - 1,153,283
+Interest receivable: Mortgage loans - 68,716 -
+Investments 422,647 18,988 14,129
+Due from other funds - - -
+Accounts receivable and other assets - 205,064 -
+Total current assets 59,591,676 8,659,446 1,500,749
+Noncurrent Assets
+Restricted cash and cash equivalents 128,744,247 - -
+Restricted investments 41,525,654 - -
+Restricted mortgage loans receivable, net 921,962,922 - -
+Restricted real estate held for sale 940,000 - -
+Restricted interest receivable: Mortgage loans 3,184,774 - -
+Investments 946,054 - -
+Restricted accounts receivable and other assets 21,589 - -
+Mortgage loans receivable, net - 15,095,210 -
+Real estate held for sale - - -
+Deferred hedging costs of fixed-rate swaps 14,168,191 - -
+Deferred servicing costs, net - - -
+Property and equipment, net - - -
+Total noncurrent assets 1,111,493,431 15,095,210 -
+Total assets 1,171,085,107 23,754,656 1,500,749
+Deferred Outflows of Resources
+Deferred outflows from pension plan items - - -
+Deferred outflows from other postemployment benefits - - -
+Total deferred outflows of resources - - -
+Total assets and deferred outflows of resources $ 1,171,085,107 $ 23,754,656 $ 1,500,749
+LIABILITIES, DEFERRED INFLOWS OF RESOURCES AND NET POSITION
+Current Liabilities
+Bonds payable $ 32,620,000 $ - $ -
+Accrued interest payable 2,284,372 - -
+Due to other funds 96,767 13,641,980 -
+Accounts payable and other liabilities 296,418 9,964 -
+Total current liabilities 35,297,557 13,651,944 -
+Noncurrent liabilities
+Bonds payable 905,428,394 - -
+Other deferred credits 1,379,396 - -
+Pension liabilities - - -
+Other postemployment benefit liabilities - - -
+Total noncurrent liabilities 906,807,790 - -
+Total liabilities 942,105,347 13,651,944 -
+Deferred Inflows of Resources
+Deferred inflows from pension plan items - - -
+Deferred inflows from other postemployment benefits - - -
+Accumulated increase in fair value of hedging derivatives 14,168,191 48,201 -
+Total deferred inflows of resources 14,168,191 48,201 -
+Net Position
+Net investment in capital assets - - -
+Restricted 155,219,893 - -
+Unrestricted 59,591,676 10,054,511 1,500,749
+Total net position 214,811,569 10,054,511 1,500,749
+Total liabilities, deferred inflows of resources and net position $ 1,171,085,107 $ 23,754,656 $ 1,500,749
+65
+Housing &
+Neighborhood Housing Mortgage
+Development Trust Guaranty General
+Fund Fund Fund Fund Eliminations Total
+$ - $ 22,131,672 $ 4,876,051 $ 7,606,732 $ - $ 76,511,880
+- 27,858,418 15,969,957 - - 70,953,277
+- 102,476 - - - 171,192
+- 287,222 105,500 - - 848,486
+- 13,738,747 - - (13,738,747) -
+- 25,725 - 843,476 - 1,074,265
+- 64,144,260 20,951,508 8,450,208 (13,738,747) 149,559,100
+19,755,275 - - - - 148,499,522
+- - - - - 41,525,654
+73,053,756 - - - - 995,016,678
+- - - - - 940,000
+- - - - - 3,184,774
+83,511 - - - - 1,029,565
+14,609,471 - - - - 14,631,060
+- 10,780,554 - - - 25,875,764
+- 227,000 - - - 227,000
+- - - - - 14,168,191
+- - - 9,045,329 - 9,045,329
+- - - 1,602,522 - 1,602,522
+107,502,013 11,007,554 - 10,647,851 - 1,255,746,059
+107,502,013 75,151,814 20,951,508 19,098,059 (13,738,747) 1,405,305,159
+- - - 404,683 - 404,683
+- - - 612,575 - 612,575
+- - - 1,017,258 - 1,017,258
+$ 107,502,013 $ 75,151,814 $ 20,951,508 $ 20,115,317 $ (13,738,747) $ 1,406,322,417
+$ - $ - $ - $ - $ - $ 32,620,000
+- - - - - 2,284,372
+- - - - (13,738,747) -
+582,437 11,234 - 1,313,150 - 2,213,203
+582,437 11,234 - 1,313,150 (13,738,747) 37,117,575
+- - - - - 905,428,394
+- - - - - 1,379,396
+- - - 3,838,954 - 3,838,954
+- - - 908,830 - 908,830
+- - - 4,747,784 - 911,555,574
+582,437 11,234 - 6,060,934 (13,738,747) 948,673,149
+- - - 190,829 - 190,829
+- - - 1,976,398 - 1,976,398
+- - - - - 14,216,392
+- - - 2,167,227 - 16,383,619
+- - - 1,602,522 - 1,602,522
+106,919,576 - - - - 262,139,469
+- 75,140,580 20,951,508 10,284,634 - 177,523,658
+106,919,576 75,140,580 20,951,508 11,887,156 - 441,265,649
+$ 107,502,013 $ 75,151,814 $ 20,951,508 $ 20,115,317 $ (13,738,747) $ 1,406,322,417
+66
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+DETAILED STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+Year Ended June 30, 2025
+(See Independent Auditor's Report)
+Housing Revenue Single Family
+Bonds Mortgage
+1994 Indenture Warehousing Multi-Family
+Fund Fund Fund
+Operating Revenues
+Mortgage interest $ 40,947,156 $ 138,816 $ -
+Investment interest income 12,928,582 283,525 5 2,297
+Net increase in fair value of investments 1,542,374 - 61,873
+Fees and other income - 349,026 -
+Total operating revenues 55,418,112 771,367 114,170
+Operating Expenses
+Interest expense 30,836,809 281,441 -
+Servicer fees 3,579,258 8,206 -
+Amortization of deferred servicing costs - - -
+Cost of issuance and other financing costs 2,918,039 - -
+Provision for (recapture of) loan losses and real estate held 3,513,903 42,432 -
+General and administrative 1,500,582 45,235 -
+Total operating expenses 42,348,591 377,314 -
+Operating income (loss) 13,069,521 394,053 114,170
+Nonoperating Revenues (Expenses)
+Federal program income - - -
+Federal program expenses - - -
+Nonoperating loss - - -
+Net income (loss) before transfers 13,069,521 394,053 114,170
+Transfers in (out) (3,993,946) (783,971) -
+Net income (loss) 9,075,575 (389,918) 114,170
+Net position, beginning of year 214,811,569 10,054,511 1,500,749
+Net position, end of year $ 223,887,144 $ 9,664,593 $ 1 ,614,919
+67
+Housing &
+Neighborhood Housing Mortgage
+Development Trust Guaranty General
+Fund Fund Fund Fund Eliminations Total
+$ - $ 5 96,165 $ - $ - $ - $ 41,682,137
+- 2,490,681 7 57,173 - - 16,512,258
+- 5 57,113 1 95,304 - - 2,356,664
+- 20,525 - 7,501,687 (3,627,196) 4,244,042
+- 3,664,484 9 52,477 7,501,687 (3,627,196) 64,795,101
+- 1 ,009 1 ,031 - - 31,120,290
+- 5 4,086 - - (3,627,196) 14,354
+- - - 2,949,385 - 2,949,385
+- - - - - 2,918,039
+- (2,852,398) - - - 703,937
+- 9 ,581 - 7,959,736 - 9,515,134
+- (2,787,722) 1 ,031 10,909,121 (3,627,196) 47,221,139
+- 6,452,206 9 51,446 (3,407,434) - 17,573,962
+1 3,817,027 - - - - 13,817,027
+(16,375,218) - - - - (16,375,218)
+(2,558,191) - - - - (2,558,191)
+(2,558,191) 6,452,206 9 51,446 (3,407,434) - 15,015,771
+- (169,556) - 4,947,473 - -
+(2,558,191) 6,282,650 9 51,446 1,540,039 - 15,015,771
+1 06,919,576 75,140,580 20,951,508 1 1,887,156 - 441,265,649
+$ 1 04,361,385 $ 8 1,423,230 $ 21,902,954 $ 1 3,427,195 $ - $ 456,281,420
+68
+WYOMING COMMUNITY DEVELOPMENT AUTHORITY
+DETAILED STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+Year Ended June 30, 2024
+(See Independent Auditor's Report)
+Housing Revenue Single Family
+Bonds Mortgage
+1994 Indenture Warehousing Multi-Family
+Fund Fund Fund
+Operating Revenues
+Mortgage interest $ 34,713,936 $ 183,650 $ -
+Investment interest income 12,294,273 282,411 5 2,027
+Net decrease in fair value of investments (135,909) - (2,235)
+Fees and other income - 673,771 -
+Total operating revenues 46,872,300 1,139,832 4 9,792
+Operating Expenses
+Interest expense 24,852,341 15,508 -
+Servicer fees 3,259,174 6,880 -
+Amortization of deferred servicing costs - - -
+Cost of issuance and other financing costs 1,825,391 - -
+Provision for (recapture of) loan losses and real estate held (99,171) - -
+General and administrative 1,093,445 115,053 -
+Total operating expenses 30,931,180 137,441 -
+Operating income (loss) 15,941,120 1,002,391 4 9,792
+Nonoperating Revenues (Expenses)
+Federal program income - - -
+Federal program expenses - - -
+Nonoperating loss - - -
+Net income (loss) before transfers 15,941,120 1,002,391 4 9,792
+Transfers in (out) (3,973,620) (848,734) -
+Net income (loss) 11,967,500 153,657 4 9,792
+Net position, beginning of year 202,844,069 9,900,854 1 ,450,957
+Net position, end of year $ 214,811,569 $ 10,054,511 $ 1 ,500,749
+69
+Housing &
+Neighborhood Housing Mortgage
+Development Trust Guaranty General
+Fund Fund Fund Fund Eliminations Total
+$ - $ 4 79,772 $ - $ - $ - $ 35,377,358
+- 2,605,770 7 58,394 - - 15,992,875
+- (178,335) (153,885) - - (470,364)
+- 53,227 - 6,709,613 (3,303,283) 4,133,328
+- 2,960,434 6 04,509 6,709,613 (3,303,283) 55,033,197
+- 8 94 9 17 - - 24,869,660
+- 5 4,897 - - (3,303,283) 17,668
+- - - 3,557,010 - 3,557,010
+- - - - - 1,825,391
+- 5 79,334 - - - 480,163
+- (3,749) - 6,907,588 - 8,112,337
+- 6 31,376 9 17 10,464,598 (3,303,283) 38,862,229
+- 2,329,058 6 03,592 (3,754,985) - 16,170,968
+6,825,800 - - - - 6,825,800
+(11,415,043) - - - - (11,415,043)
+(4,589,243) - - - - (4,589,243)
+(4,589,243) 2,329,058 6 03,592 (3,754,985) - 11,581,725
+(453) (201,223) - 5,024,030 - -
+(4,589,696) 2,127,835 6 03,592 1,269,045 - 11,581,725
+1 11,509,272 73,012,745 20,347,916 1 0,618,111 - 429,683,924
+$ 1 06,919,576 $ 7 5,140,580 $ 20,951,508 $ 1 1,887,156 $ - $ 441,265,649
+70

@@ -1,0 +1,355 @@
+{
+  "AL": {
+    "candidates": [
+      "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2025-ahfa-financial-statements.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\AL_AHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "AK": {
+    "candidates": [
+      "https://www.ahfc.us/download_file/view/9550/583"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\AK_AHFC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "AZ": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "AR": {
+    "candidates": [
+      "https://adfa.arkansas.gov/wp-content/uploads/2025/12/ADFA-FS-Final-3.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\AR_ADFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "CA": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "CO": {
+    "candidates": [
+      "https://www.chfainfo.com/getattachment/7d8e4899-6f00-428a-80e4-f45e3ea826bd/chfa-2025-financials.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\CO_CHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "CT": {
+    "candidates": [
+      "https://www.chfa.org/assets/1/6/2025_Audited_Financial_Statement.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\CT_CHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "DE": {
+    "candidates": [
+      "https://auditor.delaware.gov/wp-content/uploads/sites/209/2026/04/Delaware-State-Housing-Authority-FY25-Financial-Statement-Audit-Report.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\DE_DSHA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "DC": {
+    "candidates": [
+      "https://dchfa.org/wp-content/uploads/2026/02/final_District-of-Columbia-HFA_FS_20252026020207.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\DC_DCHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "FL": {
+    "candidates": [
+      "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/finance/audited-financial-reports/2025-audited-financial-statements.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\FL_FloridaHousing_FY2025_ACFR.pdf",
+    "errors": [],
+    "source_url": "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/finance/audited-financial-reports/2025-audited-financial-statements.pdf"
+  },
+  "GA": {
+    "candidates": [
+      "https://open.ga.gov/openga/report/downloadFile?rid=33638"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\GA_GHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "HI": {
+    "candidates": [
+      "https://files.hawaii.gov/auditor/Reports/2025_Audit/HHFDC2025.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\HI_HHFDC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "ID": {
+    "candidates": [
+      "https://www.idahohousing.com/documents/2025-ihfa-financial-report.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\ID_IHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "IL": {
+    "candidates": [
+      "https://www.ihda.org/wp-content/uploads/2025/12/FY2025-IHDA-ACFR.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\IL_IHDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "IN": {
+    "candidates": [
+      "https://www.in.gov/ihcda/files/IHCDA-2025-FY-Audited-FS.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\IN_IHCDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "IA": {
+    "candidates": [
+      "https://opportunityiowa.gov/media/7575/download?inline="
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\IA_IFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "KS": {
+    "candidates": [
+      "https://admin.ks.gov/browse/files/d2d39a0deef8464faaba21b8f4e69a24/download"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\KS_KHRC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "KY": {
+    "candidates": [
+      "https://www.kyhousing.org/sites/default/files/2026-05/KHC%202025%20FS%20Report%20-%20Short-Form%20-%20FINAL.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\KY_KHC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "LA": {
+    "candidates": [
+      "https://webapps3.lhc.la.gov/documents/BoardCommitteeMaterials/2026/January/ACM/LHC%20Financial%20Statement%20Audit%20Report%20for%20the%20FYE%20June%202025.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\LA_LHC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "ME": {
+    "candidates": [
+      "https://www.mainehousing.org/docs/default-source/financial-statements/12-31-2025-audited-financials.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\ME_MaineHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "MD": {
+    "candidates": [
+      "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2025_06_30fs.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\MD_CDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "MA": {
+    "candidates": [
+      "https://www.masshousing.com/-/media/Files/Financials/Annual-Disclosure-Report.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\MA_MassHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "MI": {
+    "candidates": [
+      "https://audgen.michigan.gov/wp-content/uploads/2025/10/MSHDA-ACFR-0625-AUD-Final.pdf"
+    ],
+    "downloaded": null,
+    "errors": [
+      "failed: https://audgen.michigan.gov/wp-content/uploads/2025/10/MSHDA-ACFR-0625-AUD-Final.pdf"
+    ]
+  },
+  "MN": {
+    "candidates": [
+      "https://www.lrl.mn.gov/docs/2025/other/251924.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\MN_MNHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "MS": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "MO": {
+    "candidates": [
+      "https://archive.org/download/2025MHDCFinancialStatements/2025MHDCFinancialStatements.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\MO_MHDC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "MT": {
+    "candidates": [
+      "https://archive.legmt.gov/content/Committees/Administration/audit/2025-26/Meetings/April-2026/25-07.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\MT_MTHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "NE": {
+    "candidates": [
+      "https://nebraskalegislature.gov/FloorDocs/109/PDF/Agencies/Nebraska_Investment_Finance_Authority/101_20251109-143146.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\NE_NIFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "NV": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "NH": {
+    "candidates": [
+      "https://www.nhhfa.org/wp-content/uploads/2025/10/NH-Housing-Finance-Authority-Audited-Financial-Statements-FY-2025.pdf"
+    ],
+    "downloaded": null,
+    "errors": [
+      "failed: https://www.nhhfa.org/wp-content/uploads/2025/10/NH-Housing-Finance-Authority-Audited-Financial-Statements-FY-2025.pdf"
+    ]
+  },
+  "NJ": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "NM": {
+    "candidates": [
+      "https://housingnm.org/uploads/documents/1a_FY_2025_New_Mexico_Mortgage_Finance_Authority_Audited_Finacial_Statements.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\NM_MFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "NY": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "NC": {
+    "candidates": [
+      "https://nchfa.com/sites/default/files/page_attachments/afs06-30-25.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\NC_NCHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "ND": {
+    "candidates": [
+      "https://www.ndhousing.nd.gov/sites/www/files/documents/Investors/AuditedFinancialStatements2025and2024.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\ND_NDHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "OH": {
+    "candidates": [
+      "https://ohiohome.org/financials/documents/FincStatementsFY25.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\OH_OHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "OK": {
+    "candidates": [
+      "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-Single-Audit-Report-FINAL.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\OK_OHFA_OK_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "OR": {
+    "candidates": [
+      "https://sos.oregon.gov/audits/Documents/2025-26.pdf"
+    ],
+    "downloaded": null,
+    "errors": [
+      "failed: https://sos.oregon.gov/audits/Documents/2025-26.pdf"
+    ]
+  },
+  "PA": {
+    "candidates": [
+      "https://www.pa.gov/content/dam/copapwp-pagov/en/budget/documents/publications-and-reports/annualfinancialreport/june-30-2025%20acfr.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\PA_PHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "RI": {
+    "candidates": [],
+    "downloaded": null,
+    "errors": []
+  },
+  "SC": {
+    "candidates": [
+      "https://osa.sc.gov/wp-content/uploads/2025/10/Updated-SC-Housing-Financial-Statements-FY25.pdf"
+    ],
+    "downloaded": null,
+    "errors": [
+      "failed: https://osa.sc.gov/wp-content/uploads/2025/10/Updated-SC-Housing-Financial-Statements-FY25.pdf"
+    ]
+  },
+  "SD": {
+    "candidates": [
+      "https://legislativeaudit.sd.gov/reports/State/Housing%20Development%20Authority%202025.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\SD_SDHDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "TN": {
+    "candidates": [
+      "https://dogvxws799i6n.cloudfront.net/wp-content/uploads/THDA-Audited-Financial-Statement-6-30-2025-FINAL.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\TN_THDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "TX": {
+    "candidates": [
+      "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/25-BasicFinancials.pdf",
+      "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/25-Rev-Bond.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\TX_TDHCA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "UT": {
+    "candidates": [
+      "https://www.utah.gov/pmn/files/1338619.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\UT_UtahHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "VT": {
+    "candidates": [
+      "https://vhfa.org/finance/statements/fy2025-vhfa-audited-financial-packagepdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\VT_VHFA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "VA": {
+    "candidates": [
+      "https://www.virginiahousing.com/-/media/docs/partners/investors/financial-statements/annual-statements/2025vhdafinancialstatements_final_public.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\VA_VirginiaHousing_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "WA": {
+    "candidates": [
+      "https://www.wshfc.org/finance/investor/AuditedFinancials2025.06.30and2024.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\WA_WSHFC_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "WV": {
+    "candidates": [
+      "https://www.wvhdf.com/wp-content/uploads/2026/02/FY2025-WVHDF-Annual-Comprehensive-Financial-Report.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\WV_WVHDF_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "WI": {
+    "candidates": [
+      "https://www.wheda.com/globalassets/documents/annual-reports-and-financials/2025/wheda-audit-fy-2025.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\WI_WHEDA_FY2025_ACFR.pdf",
+    "errors": []
+  },
+  "WY": {
+    "candidates": [
+      "https://www.wyomingcda.com/wp-content/uploads/2025/12/Financial-Report-2025.pdf"
+    ],
+    "downloaded": "C:\\Users\\may_d\\ACFR\\FY2025\\pdf\\WY_WCDA_FY2025_ACFR.pdf",
+    "errors": []
+  }
+}

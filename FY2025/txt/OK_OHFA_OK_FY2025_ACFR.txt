@@ -1,0 +1,262 @@
+SINGLE AUDIT SUPPLEMENT
+AND
+INDEPENDENT AUDITOR'S REPORTS
+ON COMPLIANCE AND INTERNAL CONTROL
+SEPTEMBER 30, 2025
+CONTENTS
+Schedule of Expenditures of Federal Awards ............................................................................................... 1
+Notes to Schedule of Expenditures of Federal Awards ................................................................................ 2
+Report on Internal Control over Financial Reporting and on Compliance
+and Other Matters Based on an Audit of Financial Statements Performed
+in Accordance with Government Auditing Standards ............................................................................... 3
+Report on Compliance for each Major Federal Program; Report on Internal
+Control Over Compliance; and Report on Schedule of Expenditures of
+Federal Awards Required by the Uniform Guidance ................................................................................ 5
+Schedule of Findings and Questioned Costs ................................................................................................. 8
+Summary Schedule of Prior Audit Findings ............................................................................................... 10
+OKLAHOMA HOUSING FINANCE AGENCY
+SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+Year ended September 30, 2025
+Federal Passed
+ALN Through to Total Federal
+Federal Grantor/Pass-Through Grantor/Program or Cluster Title Number Subrecipients Expenditures
+U.S. Department of Housing and Urban Development:
+Lower Income Housing Assistance Program - Section 8
+Moderate Rehabilitation (Section 8 Project-Based Cluster) 14.856 $ - $ 132,508
+Housing Voucher Cluster:
+Section 8 Housing Choice Vouchers Program 14.871 - 92,250,989
+Section 8 Housing Choice Vouchers Program - Emergency
+Housing Voucher 14.871 - 2,322,199
+Total Section 8 Housing Choice Vouchers Program and
+Total Housing Voucher Cluster - 94,573,188
+PIH Family Self-Sufficiency Program 14.896 - 260,668
+Total Section 8 Related - 94,966,364
+Performance Based Contract Administrator Program 14.327 - 96,957,510
+Housing Opportunities for Persons with AIDS 14.241 548,304 570,453
+Housing Trust Fund 14.275 3,689,786 4,122,322
+HOME Investment Partnerships Program 14.239 9,766,892 11,053,476
+Total U.S. Department of Housing and Urban Development 14,004,982 207,670,125
+U.S. Department of Treasury:
+Homeowner Assistance Fund 21.026 - 9,059,174
+Total Expenditures of Federal Awards $ 14,004,982 $ 216,729,299
+See accompanying notes to schedule of expenditures of federal awards. 1
+OKLAHOMA HOUSING FINANCE AGENCY
+NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+September 30, 2025
+Note 1 – Basis of Presentation
+The accompanying schedule of expenditures of federal awards (the Schedule) includes the federal award
+activity of the Oklahoma Housing Finance Agency (the Agency) under programs of the federal government
+for the year ended September 30, 2025. The information in this Schedule is presented in accordance with
+the requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative
+Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Because
+the Schedule presents only a selected portion of the operations of the Agency, it is not intended to and does
+not present the financial position, changes in net position, or cash flows of the Agency.
+Note 2 – Summary of Significant Accounting Policies
+Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such expenditures
+are recognized following the cost principles contained in the Uniform Guidance, wherein certain types of
+expenditures are not allowable or are limited as to reimbursement.
+Note 3 – Indirect Cost Rate
+The Agency has elected not to use the 10% de minimis indirect cost rate as allowed under the Uniform
+Guidance.
+2
+REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT
+OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH
+GOVERNMENT AUDITING STANDARDS
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Trustees
+Oklahoma Housing Finance Agency
+We have audited, in accordance with the auditing standards generally accepted in the United States of
+America and the standards applicable to financial audits contained in Government Auditing Standards,
+issued by the Comptroller General of the United States (Government Auditing Standards), the financial
+statements of Oklahoma Housing Finance Agency (the Agency), a component unit of the State of
+Oklahoma, as of and for the year ended September 30, 2025, and the related notes to the financial
+statements, and have issued our report thereon dated January 20, 2026.
+Report on Internal Control over Financial Reporting
+I n planning and performing our audit of the financial statements, we considered the Agency's internal
+control over financial reporting (internal control) as a basis for designing audit procedures that are
+appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but
+not for the purpose of expressing an opinion on the effectiveness of the Agency's internal control.
+Accordingly, we do not express an opinion on the effectiveness of the Agency's internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow management
+o r employees, in the normal course of performing their assigned functions, to prevent, or detect and correct,
+m isstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in
+internal control, such that there is a reasonable possibility that a material misstatement of the entity's
+financial statements will not be prevented or detected and corrected on a timely basis. A significant
+deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a
+material weakness, yet important enough to merit attention by those charged with governance.
+O ur consideration of internal control was for the limited purpose described in the first paragraph of this
+s ection and was not designed to identify all deficiencies in internal control that might be material
+w eaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses
+or significant deficiencies may exist that have not been identified.
+Report on Compliance and Other Matters
+A s part of obtaining reasonable assurance about whether the Agency's financial statements are free from
+m aterial misstatement, we performed tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the
+financial statements. However, providing an opinion on compliance with those provisions was not an
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed
+no instances of noncompliance or other matters that are required to be reported under Government Auditing
+Standards.
+www.ho gantaylor. com
+3
+Purpose of This Report
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity's internal
+control or on compliance. This report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the entity's internal control and compliance. Accordingly,
+this communication is not suitable for any other purpose.
+Oklahoma City, Oklahoma
+January 20, 2026
+4
+REPORT ON COMPLIANCE FOR EACH MAJOR FEDERAL PROGRAM; REPORT ON
+INTERNAL CONTROL OVER COMPLIANCE; AND REPORT ON SCHEDULE OF
+EXPENDITURES OF FEDERAL AWARDS REQUIRED BY THE UNIFORM GUIDANCE
+INDEPENDENT AUDITOR'S REPORT
+To the Board of Trustees
+Oklahoma Housing Finance Agency
+R eport on Compliance for Each Major Federal Program
+O pinion on Each Major Federal Program
+We have audited Oklahoma Housing Finance Agency's (the Agency), a component unit of the State of
+Oklahoma, compliance with the types of compliance requirements identified as subject to audit in the OMB
+Compliance Supplement that could have a direct and material effecton each of the Agency's major federal
+programs for the year ended September 30, 2025. The Agency's major federal programs are identified in
+t he summary of auditor's results section of the accompanying schedule of findings and questioned costs.
+I n our opinion, the Agency complied, in all material respects, with the types of compliance requirements
+referred to above that could have a direct and material effect on each of its major federal programs for the
+year ended September 30, 2025.
+Basis for Opinion on Each Major Federal Program
+W e conducted our audit of compliance in accordance with auditing standards generally accepted in the
+U nited States of America (GAAS); the standards applicable to financial audits contained in Government
+A uditing Standard issued by the Comptroller General of the United States (Government Auditing
+Standards); and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform
+Guidance). Our responsibilities under those standards and the Uniform Guidance are further described in
+the Auditor's Responsibilities for the Audit of Compliance section of our report.
+W e are required to be independent of the Agency and to meet our other ethical responsibilities, in
+a ccordance with relevant ethical requirements relating to our audit. We believe that the audit evidence we
+h ave obtained is sufficient and appropriate to provide a basis for our opinion on compliance for each major
+federal program. Our audit does not provide a legal determination of the Agency's compliance with the
+compliance requirements referred to above.
+Responsibilities of Management for Compliance
+M anagement is responsible for compliance with the requirements referred to above and for the design,
+i mplementation, and maintenance of effective internal control over compliance with the requirements of
+laws, statutes, regulations, rules and provisions of contracts or grant agreements applicable to the Agency's
+federal programs.
+www.hogantaylor.com
+5
+Auditor's Responsibilities for the Audit of Compliance
+Our objectives are to obtain reasonable assurance about whether material noncompliance with the
+compliance requirements referred to above occurred, whether due to fraud or error, and express an opinion
+on the Agency's compliance based on our audit. Reasonable assurance is a high level of assurance but is
+not absolute assurance and therefore is not a guarantee that an audit conducted in accordance with
+GAAS, Government Auditing Standards, and the Uniform Guidance will always detect material
+noncompliance when it exists. The risk of not detecting material noncompliance resulting from fraud is
+higher than for that resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control. Noncompliance with the compliance requirements
+referred to above is considered material, if there is a substantial likelihood that, individually or in the
+aggregate, it would influence the judgment made by a reasonable user of the report on compliance about
+the Agency's compliance with the requirements of each major federal program as a whole.
+In performing an audit in accordance with GAAS, Government Auditing Standards, and the Uniform
+Guidance, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material noncompliance, whether due to fraud or error, and design
+and perform audit procedures responsive to those risks. Such procedures include examining, on a
+test basis, evidence regarding the Agency's compliance with the compliance requirements referred
+to above and performing such other procedures as we considered necessary in the circumstances.
+• Obtain an understanding of the Agency's internal control over compliance relevant to the audit in
+order to design audit procedures that are appropriate in the circumstances and to test and report on
+internal control over compliance in accordance with the Uniform Guidance, but not for the purpose
+of expressing an opinion on the effectiveness of the Agency's internal control over compliance.
+Accordingly, no such opinion is expressed.
+We are required to communicate with those charged with governance regarding, among other matters, the
+planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal
+control over compliance that we identified during the audit.
+Report on Internal Control Over Compliance
+A deficiency in internal control over compliance exists when the design or operation of a control over
+compliance does not allow management or employees, in the normal course of performing their assigned
+functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a
+federal program on a timely basis. A material weakness in internal control over compliance is a deficiency,
+or a combination of deficiencies, in internal control over compliance, such that there is a reasonable
+possibility that material noncompliance with a type of compliance requirement of a federal program will
+not be prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control
+over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with
+a type of compliance requirement of a federal program that is less severe than a material weakness in
+internal control over compliance, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control over compliance was for the limited purpose described in the Auditor's
+Responsibilities for the Audit of Compliance section above and was not designed to identify all deficiencies
+in internal control over compliance that might be material weaknesses or significant deficiencies in internal
+control over compliance. Given these limitations, during our audit we did not identify any deficiencies in
+internal control over compliance that we consider to be material weaknesses, as defined above. However,
+material weaknesses or significant deficiencies in internal control over compliance may exist that were not
+identified.
+6
+Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control
+over compliance. Accordingly, no such opinion is expressed.
+The purpose of this report on internal control over compliance is solely to describe the scope of our testing
+of internal control over compliance and the results of that testing based on the requirements of the Uniform
+Guidance. Accordingly, this report is not suitable for any other purpose.
+Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance
+We have audited the financial statements of the Agency as of and for the year ended September 30, 2025,
+and have issued our report thereon dated January 20, 2026, which contained an unmodified opinion on
+those financial statements. Our audit was performed for the purpose of forming an opinion on the financial
+statements as a whole. The accompanying schedule of expenditures of federal awards is presented for
+purposes of additional analysis as required by the Uniform Guidance and is not a required part of the
+financial statements. Such information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the financial statements. The
+information has been subjected to the auditing procedures applied in the audit of the financial statements
+and certain additional procedures, including comparing and reconciling such information directly to the
+underlying accounting and other records used to prepare the financial statements or to the financial
+statements themselves, and other additional procedures in accordance with auditing standards generally
+accepted in the United States of America. In our opinion, the schedule of expenditures of federal awards is
+fairly stated in all material respects in relation to the financial statements as a whole.
+Oklahoma City, Oklahoma
+January 20, 2026
+7
+OKLAHOMA HOUSING FINANCE AGENCY
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS
+Year ended September 30, 2025
+Section I – Summary of Auditor's Results
+Financial Statements
+Type of Auditor's report issued: Unmodified
+Yes No None Reported
+Internal control over financial reporting:
+Material weakness(es) identified? X
+Significant deficiency(ies) identified? X
+Noncompliance material to financial
+statements noted? X
+Federal Awards
+Yes No None Reported
+Internal control over major programs:
+Material weakness(es) identified? X
+Significant deficiency(ies) identified? X
+Type of Auditor's report issued on compliance
+for major federal programs: Unmodified
+Any audit findings disclosed that are required to
+be reported in accordance with section 2 CFR
+200.516(a)? X
+Identification of major programs:
+ALN (CFDA) Number(s) Name of Federal Program or Cluster
+14.871 Housing Voucher Cluster
+14.239 HOME Investment Partnerships Program
+Dollar threshold used to distinguish between
+type A and type B programs: $3,000,000
+8
+OKLAHOMA HOUSING FINANCE AGENCY
+SCHEDULE OF FINDINGS AND QUESTIONED COSTS (continued)
+Year ended September 30, 2025
+Yes No
+Auditee qualified as low-risk auditee? X
+Section II – Financial Statement Findings
+None
+Section III – Federal Award Findings and Questioned Costs
+None
+9
+OKLAHOMA HOUSING FINANCE AGENCY
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS
+Year ended September 30, 2025
+Section II – Financial Statement Findings
+None
+Section III – Federal Award Findings and Questioned Costs
+None
+10

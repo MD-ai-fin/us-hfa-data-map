@@ -1,0 +1,2416 @@
+FINANCIAL STATEMENTS
+June 30, 2024
+AUDITED
+Independent Auditor's Report
+The Honorable Bill Lee, Governor
+Members of the General Assembly
+Members of the Board of Directors
+Mr. Ralph Perrey, Executive Director
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the accompanying financial statements of the Tennessee Housing Development
+Agency (THDA), a component unit of the State of Tennessee, as of and for the year ended June 30,
+2024, and the related notes to the financial statements, which collectively comprise the agency's basic
+financial statements as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of the Tennessee Housing Development Agency as of June 30, 2024, and the
+changes in financial position and cash flows thereof for the years then ended in accordance with
+accounting principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS) and the standards applicable to financial audits contained in Government Auditing
+Standards, issued by the Comptroller General of the United States. Our responsibilities under those
+standards are further described in the Auditor's Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the Tennessee Housing
+Development Agency and to meet our other ethical responsibilities, in accordance with the relevant
+ethical requirements relating to our audit. We believe that the audit evidence we have obtained is
+sufficient and appropriate to provide a basis for our audit opinion. Tennessee statutes, in addition to
+audit responsibilities, entrust certain other responsibilities to the Comptroller of the Treasury. Those
+responsibilities include serving as a member of the board of directors of the Tennessee Housing
+Development Agency. We do not believe that the Comptroller's service in this capacity affected our
+ability to conduct an independent audit of the Tennessee Housing Development Agency.
+1
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America; this includes
+the design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the agency's ability to
+continue as a going concern for 12 months beyond the financial statement date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+Auditor's Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor's report
+that includes our opinion.
+Reasonable assurance is a high level of assurance but is not absolute assurance and, therefore, is not a
+guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will
+always detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would
+influence the judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we
+� exercise professional judgment and maintain professional skepticism throughout the audit;
+� identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks;
+such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements;
+� obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the agency's internal control; accordingly, no such
+opinion is expressed;
+� evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements; and
+2
+� conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the agency's ability to continue as a going
+concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-
+related matters that we identified during the audit.
+Other Matters
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management's discussion and analysis, the schedule of THDA's proportionate share of the net pension
+liability for the Closed State and Higher Education Employee Pension Plan within TCRS, the
+schedule of THDA's proportionate share of the net pension asset for the State and Higher Education
+Employee Retirement Plan within TCRS, the schedule of THDA's contributions to the Closed State
+and Higher Education Employee Pension Plan within TCRS, the schedule of THDA's contributions
+to the State and Higher Education Employee Retirement Plan within TCRS, the schedule of THDA's
+proportionate share of the collective total/net OPEB liability for the Closed State Employee Group
+OPEB Plan, the schedule of THDA's proportionate share of the collective total OPEB liability for the
+Closed Tennessee OPEB Plan, and the schedule of contributions to the State of Tennessee
+Postemployment Benefits Trust for the Closed State Employee Group OPEB Plan be presented to
+supplement the basic financial statements. Such information, although not a part of the basic financial
+statements, is required by the Governmental Accounting Standards Board, which considers it to be an
+essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the
+required supplementary information in accordance with auditing standards generally accepted in the
+United States of America, which consisted of inquiries of management about the methods of preparing
+the information and comparing the information for consistency with management's responses to our
+inquiries, the basic financial statements, and other knowledge we obtained during our audit of the
+basic financial statements. We do not express an opinion or provide any assurance on the information
+because the limited procedures do not provide us with sufficient evidence to express an opinion or
+provide any assurance.
+Supplementary Information
+Our audits were conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the agency's basic financial statements. The accompanying financial information
+is presented for purposes of additional analysis and is not a required part of the basic financial
+statements. Such information is the responsibility of management and was derived from, and relates
+directly to, the underlying accounting and other records used to prepare the basic financial statements.
+The information has been subjected to the auditing procedures applied in the audits of the basic
+financial statements and certain additional procedures, including comparing and reconciling such
+3
+information directly to the underlying accounting and other records used to prepare the basic financial
+statements or to the basic financial statements themselves, and other additional procedures in
+accordance with auditing standards generally accepted in the United States of America. In our
+opinion, the information is fairly stated, in all material respects, in relation to the basic financial
+statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated December 5,
+2024, on our consideration of the agency's internal control over financial reporting and on our tests
+of its compliance with certain provisions of laws, regulations, and contracts, and grant agreements and
+other matters. The purpose of that report is to describe the scope of our testing of internal control over
+financial reporting and compliance and the results of that testing, and not to provide an opinion on
+internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the agency's internal
+control over financial reporting and compliance.
+Katherine J. Stickel, CPA, CGFM, Director
+Division of State Audit
+December 4, 2024
+4
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Management's Discussion and Analysis
+June 30, 2024
+This section of the Tennessee Housing Development Agency's (THDA) annual financial
+statements presents management's discussion and analysis of THDA's financial performance for
+the year ended June 30, 2024, with comparative information presented for the fiscal year ended
+June 30, 2023. This information is being presented to provide additional information regarding
+the activities of THDA and to meet the financial reporting and disclosure requirements of
+Governmental Accounting Standards Board Statement Number 34, Basic Financial Statements--
+and Management's Discussion and Analysis--for State and Local Governments. This section
+should be read in conjunction with the Independent Auditor's Report and the audited financial
+statements and accompanying notes. These financial statements and the accompanying note
+disclosures are the responsibility of management.
+Introduction - The Tennessee Housing Development Agency
+The mission statement of THDA is "Leading Tennessee Home by creating safe, sound, affordable
+housing opportunities." THDA's goal is to provide housing assistance to those in need by offering
+a variety of housing-related programs. One of the primary ways THDA assists Tennesseans is by
+offering mortgages for first-time homebuyers at below conventional market interest rates. At the
+close of fiscal year 2024, THDA has originated over 139,000 single-family mortgage loans in its
+51-year history and serves as the master servicer for all active mortgages it funds. In addition to
+helping homebuyers, THDA administers Section 8 rental assistance programs, including the
+tenant-based Housing Choice Voucher program in approximately 70 of Tennessee's 95 counties,
+as well as the project-based Contract Administration program for approximately 374 contracts
+throughout all of Tennessee. THDA also administers grant programs, awarded on a competitive
+annual cycle, for rehabilitation and new construction of owner-occupied units and small rental
+projects. THDA is also involved in the development and rehabilitation of multifamily rental
+housing for low-income families by administering the federal Low-Income Housing Tax Credit,
+which is a competitive process, and by setting aside a portion of bond authority to be allocated to
+local issuing authorities for specific multifamily developments.
+As established by statute, "The agency shall have a board of directors which shall be responsible
+for carrying out the powers given to the agency" (Section 13-23-105, Tennessee Code Annotated).
+This board meets regularly on a bimonthly basis; however, some committees may meet more often
+as situations dictate.
+Overview of the Financial Statements
+The basic financial statements include the statement of net position; the statement of revenues,
+expenses, and changes in net position; and the statement of cash flows, as well as the notes to the
+financial statements. The statement of net position provides financial information on the overall
+financial position of THDA at each year-end. The statement of revenues, expenses, and changes
+in net position summarizes the results of operations over the course of each fiscal year. The
+statement of cash flows provides relevant information about THDA's cash receipts and cash
+payments during each fiscal year.
+The notes to the financial statements provide essential information regarding THDA's significant
+accounting policies, significant account balances and activities, certain material risks, obligations,
+commitments, contingencies, and subsequent events.
+THDA's financial statements are presented using the accrual basis of accounting and the flow of
+economic resources measurement focus. In addition to the basic financial statements, required and
+other supplementary information is included.
+THDA is also considered to be a discretely presented "component unit" for the State of Tennessee,
+and therefore, its financial information is reported in the State of Tennessee's government-wide
+Annual Comprehensive Financial Report. This report may be viewed at
+https://www.tn.gov/finance/rd-doa/fa-accfin-ar.html.
+Financial Highlights
+Year Ended June 30, 2024
+ Total assets increased by $1,009 million, or 27.64%.
+ Total liabilities increased by $946 million, or 30.65%.
+ Net position was $635 million. This is an increase of $63 million, or 11.10%, from
+fiscal year 2023 net position (as adjusted).
+ Cash and cash equivalents increased by $237 million, or 58.37%.
+ Total investments increased by $329 million, or 123.37%.
+ Bonds payable increased by $905 million, or 32.11 %.
+ THDA originated $735 million in new loans, which is an increase of $310 million, or
+72.92%, from the prior year.
+Financial Analysis of the Agency
+Net Position - The following table focuses on the changes in net position between fiscal years
+(expressed in thousands):
+2024 2023
+Current assets $1,081,858 $664,393
+Capital assets 4,595 5,375
+Other noncurrent assets 3,572,977 2,980,638
+Total assets 4,659,430 3,650,406
+Deferred outflows of resources 7,182 7,520
+Current liabilities 269,563 171,330
+Noncurrent liabilities 3,760,633 2,913,282
+Total liabilities 4,030,196 3,084,612
+Deferred inflows of resources 1,531 1,884
+Investment in capital assets 4,595 5,375
+Restricted net position 581,508 487,492
+Unrestricted net position 48,782 78,563
+Total net position $634,885 $571,430
+2024 to 2023
+First and second mortgage loans receivable (net of allowance for forgivable second mortgages and
+allowance for non-performing first mortgage loans) increased by $440.6 million. During fiscal
+year 2024, single-family mortgage loan originations increased by $309.9 million, whereas
+mortgage loan payoffs decreased by $46.0 million and mortgage loan repayments increased $5.7
+million. THDA recognized an allowance for future uncollectable forgivable second mortgages of
+$4.9 million for fiscal year 2024. In addition THDA recognized an allowance for non-performing
+first mortgage loans of $243 thousand.
+Total liabilities increased $946 million. The increase is primarily due to a $905.4 million increase
+of bonds payable at June 30, 2024, as compared to June 30, 2023.
+Changes in Net Position - The following table summarizes the changes in revenues, expenses,
+and changes in net position between fiscal years (expressed in thousands):
+2024 to 2023
+Total operating revenues increased $76.2 million, primarily due to an increase in mortgage interest
+income of $24.4 million and a revised calculation of the allowance for uncollectable second
+mortgages of $37.0 million. Mortgage interest income increase is primarily due to an increase in
+mortgage loans.
+Total operating expenses increased $26.2 million. This is primarily due to an increase in salaries
+and benefits. Salaries and benefits increased primarily due to increases in personnel activity
+related to additional funding and the overall labor market.
+2024 2023
+Operating revenues
+Mortgage interest income $137,679 $113,186
+Investment income 37,517 11,590
+Other 78,596 52,830
+Total operating revenues 253,792 177,606
+Operating expenses
+Interest expense 108,752 74,316
+Other 73,531 81,809
+Total operating expenses 182,283 156,125
+Operating income 71,508 21,481
+Nonoperating revenues (expenses)
+Grant revenues 501,127 571,408
+Payments from primary govt 897 1,021
+Grant expenses (510,078) (581,423)
+Total nonoperating revenues
+(expenses)
+(8,054) (8,994)
+Change in net position $63,454 $12,487
+Nonoperating grant revenues decreased $70.4 million and nonoperating grant expenses decreased
+$71.3 million, primarily due to a decrease in spending of federal grant programs. The decrease in
+spending of federal grant programs is due to a slowdown in the funding effects from the federal
+government that are related to COVID-19 pandemic relief.
+Debt Activity
+Bonds outstanding as of June 30, 2024, were $3,725,143 (expressed in thousands) which is a
+$905.4 million increase from bonds outstanding of $2,819,743 (expressed in thousands) as of June
+30, 2023. The increase in bonds payable is primarily due to an increase in mortgage production,
+which therefore lead to more bonds issued during fiscal year 2024. During the fiscal year, THDA
+issued debt totaling $1,120 million, with activity arising from four bond issues.
+Bond Ratings
+For bonds issued under the Housing Finance Program Bonds, Moody's has assigned THDA's
+bonds a rating of Aa2. These bonds are not rated by S&P.
+For bonds issued under the Residential Finance Program Bonds, Moody's has assigned THDA's
+bonds a rating of Aa1 and S&P has assigned THDA's bonds a rating of AA+.
+Debt Limits
+In accordance with Section 13-23-121, Tennessee Code Annotated, THDA operates under a "debt
+ceiling" of $4,000,000,000.
+Grant Programs
+During fiscal year 2007 through fiscal year 2009, the General Assembly appropriated revenue to
+THDA for grant programs. Likewise, THDA's board of directors allocated additional THDA funds
+for grants. These funds established a grant program that was titled by THDA the "Tennessee
+Housing Trust Fund."
+The four-level model for funding this grant program includes state appropriations, THDA funds,
+private sector investment, and matching funds from local grantees. The purpose of this grant
+program is to serve the needs of low and/or very low income, elderly, and special needs
+Tennesseans. Funding and uses for the Housing Trust Fund are as follows:
+2024 2023 2022 and Prior Total
+Funding Sources:
+THDA $7,500,000 $7,500,000 $116,100,000 $131,100,000
+State Appropriation - - 4,350,000 4,350,000
+Totals $7,500,000 $7,500,000 $120,450,000 $135,450,000
+Approved Uses:
+Rural Repair Program (USDA) $ - $ - $6,300,000 $6,300,000
+Ramp Programs & Housing
+Modification
+- - 2,750,000 2,750,000
+Emergency Repairs 2,700,000 2,700,000 34,700,000 40,100,000
+Competitive Grants 3,800,000 3,800,000 58,400,000 66,000,000
+Rebuild & Recover 600,000 500,000 5,800,000 6,900,000
+Challenge Grant Program - 500,000 1,500,000 2,000,000
+Creating Homes Initiative - 2
+Program
+- - 2,500,000 2,500,000
+COVID-19 Supplemental - - 500,000 500,000
+Other Grants 400,000 - 8,000,000 8,400,000
+Totals $7,500,000 $7,500,000 $120,450,000 $135,450,000
+Current Mortgage Products and Environment
+THDA offers a variety of mortgage loan products to address the needs of Tennesseans across the
+State. The Great Choice loan program offers THDA the opportunity to offer a more competitive
+interest rate on its 30-year fixed-rate mortgage product while still offering down payment
+assistance with the addition of one of two Great Choice Plus loan programs. Both options are
+second mortgages, with a 30 year term. The first is a deferred option at a 0% interest rate and a flat
+loan amount of $6,000. The second is an amortizing option at the same interest rate as the first
+mortgage and a loan amount of 6% of the sales price.
+During fiscal year 2023, the Great Choice Plus loan products were modified. The deferred option
+at 0% interest rate was modified to "up to $6,000". The loan is due on sale or refinance, and
+forgiven at the end of the 30 year term. The amortizing option was modified to "up to 5%" of the
+sales price.
+A special interest rate reduction on the Great Choice loan program has been designated to ensure
+that qualified service men and women have access to affordable homeownership opportunities. In
+March 2023, the Homeownership for the Brave program was re-branded and new Homeownership
+loans are referred to as "Homeownership for Heroes". This special offer provides a 0.5% rate
+reduction on the current interest rate for Great Choice loans. The program also was expanded to
+include firefighters, EMT, local and state law enforcement and paramedics. In addition to the rate
+reduction, Homeownership for Heroes applicants are eligible for optional down payment and
+closing cost assistance through the Great Choice Plus second mortgage loan described above.
+All first mortgage loans made or purchased by THDA are fixed-rate mortgages with a maximum
+loan term of 360 months (30 years) and must conform to insurer / guarantor underwriting
+guidelines. THDA does not make or purchase adjustable-rate mortgages, interest-only mortgages,
+"buy-down" loans, mortgages with a future lump-sum payment due (balloon-type mortgages), or
+with other similar mortgage terms. THDA does not make or purchase "sub-prime" mortgage loans.
+Single-family mortgage loans purchased by THDA with loan-to-value (LTV) ratios between 78%
+and 97% must have an acceptable insurer/guarantor, which includes:
+ FHA (United States Department of Housing and Urban Development),
+ VA (Veterans Administration Guaranty Program),
+ USDA/RD (the United States Department of Agriculture - Rural Development,
+formerly Farmers Home Administration), and
+ private mortgage insurance
+THDA will accept private mortgage insurance provided from private mortgage insurers who are
+licensed by the Tennessee Commissioner of Commerce and Insurance to do business in Tennessee
+and are rated at least AA by S&P. THDA will allow privately insured loans underwritten using
+nationally accepted underwriting guidelines established by Freddie Mac. These loans must be
+approved through an automated underwriting system such as Loan Product Advisor with no
+expanded approvals. The program name must be HFA Advantage. Such privately insured
+mortgage loans may have LTV ratios up to and including 97% of the lesser of the purchase price
+or the appraised value. Loans with a 78% LTV or lower do not require mortgage insurance. A
+detailed list of these mortgage loan products and primary mortgage loan terms may be obtained
+from THDA's website at https://thda.org/homebuyers.
+For the past several years, THDA has closely monitored its loan portfolio for delinquency and
+foreclosures. This monitoring has included analysis based on loan type (Great Choice, Great
+Choice Plus, Homeownership for the Brave, Homeownership for Heroes and HFA Advantage);
+insurer/guarantor (FHA, VA, RECD, private mortgage insurer); mortgage loan servicer; down-
+payment assistance; and other factors as deemed necessary. THDA established a Mortgage
+Compliance division, under the Single Family umbrella during fiscal year 2023 to assist with the
+monitoring of early payment or first payment default.
+As of June 30, 2024, the delinquency and foreclosure rates for its single-family loan portfolio are
+as follows:
+Loan Status
+Total Number
+of Loans
+Serviced
+Number of
+Loans in
+Status
+Principal
+Amount
+Outstanding Percentage1
+60 - 89 Days Past Due 26,304 585 $69,081,586 2.22%
+90+ Days Past Due 26,304 842 101,683,881 3.20%
+In Foreclosure 26,304 50 5,632,536 0.19%
+1 Percentage is calculated by dividing the "Number of Loans in Status" by the "Total Number of Loans Serviced."
+Economic Factors
+In accordance with THDA's investment policy, THDA typically invests in short-term and long-
+term fixed-rate debt securities from federal agencies. As a benchmark, THDA uses the one-, three-
+and five-year Constant Maturity Treasury rates as established by the United States Treasury.
+The continuation of relatively low interest rates from a historic perspective increases the likelihood
+of negative arbitrage, in which the interest rates on THDA's bond issues exceeds the current
+investment interest rates. THDA monitors prepayments and bond investment yields, and seeks to
+reduce negative arbitrage by calling bonds with the funds from prepayments.
+Single-Family Mortgage Secondary Market Program
+During fiscal year 2020, THDA implemented a secondary market mortgage program. In addition
+to the Mortgage Revenue Bond single-family mortgage products currently offered, THDA will
+purchase certain single-family mortgage loans from lenders with the intention of selling such
+mortgages on the secondary market. THDA intends to retain the servicing rights for these
+mortgages as a "seller/servicer." To provide capital for this program, THDA has entered into a
+revolving line of credit facility, whereby funds are drawn from the line of credit provider to
+purchase such mortgages. THDA repays these funds when THDA sells these loans on the
+secondary market.
+Contacting THDA's Financial Management
+This financial report is designed to provide THDA's stakeholders with a general overview of
+THDA's finances and to show accountability for the funds that it receives, invests, and expends.
+If you have questions about this report or need additional financial information, contact Michell
+Bosch, Chief Financial Officer, at (615) 815-2011 or via e-mail at MBosch@thda.org.
+ASSETS
+Current assets:
+Cash and cash equivalents (Note 2) $ 605,082
+Investments (Note 2) 296,662
+Receivables:
+Accounts 17,795
+Interest 16,799
+Loans held for resale 6,902
+First and second mortgage loans 82,550
+Due from federal government 55,300
+Due from other state funds 768
+Total current assets 1,081,858
+Restricted assets:
+Cash and cash equivalents (Note 2) 37,874
+Investments (Note 2) 123,359
+Investment interest receivable 437
+Investments (Note 2) 174,887
+First mortgage loans receivable 3,085,918
+Allowance for non-performing 1st mortgage loans (243)
+Second mortgage loans receivable 123,574
+Allowance for uncollectable second mortgages (4,925)
+Unamortized Service Release Premium of In House Mortgages 27,201
+Unearned service release premium 1,704
+Advance to local government 3,146
+Net pension asset (Note 5) 45
+Capital assets:
+Furniture and equipment 15,672
+Less accumulated depreciation (11,077)
+Total noncurrent assets 3,577,572
+Total assets 4,659,430
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred amount on refundings 24
+Deferred outflows related to pensions (Note 5) 5,963
+Deferred outflows related to OPEB (Note 8) 310
+Deferred outflows related to defeased bonds (Note 3) 885
+Total deferred outflows of resources 7,182
+LIABILITIES
+Current liabilities:
+Accounts payable 54,681
+Accrued payroll and related liabilities 1,146
+Compensated absences (Note 3) 1,470
+Due to primary government 94
+Interest payable 63,630
+Escrow deposits (Note 3) 18,601
+Prepayments on mortgage loans 2,109
+Line of Credit Payable 6,817
+Bonds payable (Note 3) 121,015
+Total current liabilities 269,563
+Noncurrent liabilities:
+Bonds payable (Note 3) 3,604,128
+Compensated absences (Note 3) 1,609
+Net pension liablility (Note 5) 4,618
+Total OPEB liability (Note 8) 662
+Escrow deposits (Note 3) 16,423
+Arbitrage rebate payable 597
+Unearned revenue (Note 3) 132,596
+Total noncurrent liabilities 3,760,633
+Total liabilities 4,030,196
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflows related to pensions (Note 5) 146
+Deferred inflows related to OPEB (Note 8) 1,385
+Total deferred inflows of resources 1,531
+NET POSITION
+Investment in capital assets 4,595
+Restricted for single family bond programs (Note 4)) 559,095
+Restricted for grant programs (Note 4) 19,215
+Restricted for Homebuyers Revolving Loan Program (Note 4) 3,153
+Restricted for net pension asset (Note 5) 45
+Unrestricted (Note 4) 48,782
+Total net position $ 634,885
+The Notes to the Financial Statements are an integral part of this statement.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+STATEMENT OF NET POSITION
+JUNE 30, 2024
+(Expressed in Thousands)
+OPERATING REVENUES
+Mortgage interest income $ 137,679
+Investment income:
+Interest 20,198
+Net increase in the fair value
+of investments 17,319
+Federal grant administration fees 22,582
+Fees and other income 18,971
+Changes due to uncollectible debt allowances (Note 11) 37,043
+Total operating revenues 253,792
+OPERATING EXPENSES
+Salaries and benefits 33,491
+Contractual services 16,658
+Materials and supplies 2,325
+Rentals and insurance 40
+Other administrative expenses 830
+Other program expenses 10,404
+Interest expense 108,752
+Issuance costs 7,820
+Amortization: service release premium 61
+Depreciation 1,902
+Total operating expenses 182,283
+Operating income 71,509
+NONOPERATING REVENUES (EXPENSES)
+Federal grants revenue 501,127
+Payment from primary government (Note 9) 897
+Federal grants expenses (501,033)
+Local grants expenses (9,045)
+Total nonoperating revenues (expenses) (8,054)
+Change in net position 63,455
+Total net position, July 1 571,430
+Total net position, June 30 $ 634,885
+The Notes to the Financial Statements are an integral part of this statement.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+STATEMENT OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2024
+(Expressed in Thousands)
+Cash flows from operating activities:
+Receipts from customers $ 434,461
+Receipts from federal government 22,430
+Other miscellaneous receipts 57,893
+Acquisition of mortgage loans (734,868)
+Payments to suppliers (22,383)
+Payments to or for employees (33,809)
+Net cash used by operating activities (276,276)
+Cash flows from non-capital financing activities:
+Operating grants received 503,890
+Receipts from primary government 897
+Proceeds from sale of bonds 1,138,941
+Operating grants paid (507,024)
+Cost of issuance paid (7,820)
+Principal payments (223,835)
+Interest paid (98,829)
+Net cash provided by non-capital financing activities 806,220
+Cash flows from capital and related financing activities:
+Purchases of capital assets (1,122)
+Net cash used for capital and related financing activities (1,122)
+Cash flows from investing activities:
+Proceeds from sales and maturities of investments 259,854
+Purchases of investments (579,008)
+Investment interest received 19,403
+Increase in fair value of investments subject to fair value
+reporting and classified as cash equivalents 7,910
+Net cash used for investing activities (291,841)
+Net increase in cash and cash equivalents 236,981
+Cash and cash equivalents, July 1 405,975
+Cash and cash equivalents, June 30 $ 642,956
+(continued)
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2024
+(Expressed in Thousands)
+The Notes to the Financial Statements are an integral part of this statement.
+Reconciliation of operating income to
+net cash used by operating activities:
+Operating income $ 71,509
+Adjustments to reconcile operating income to
+net cash used by operating activities:
+Depreciation 1,902
+Changes in assets, liabilities, and deferrals:
+Accounts receivable 4,044
+Mortgage interest receivable (3,737)
+Other receivables (2,667)
+Unearned service release premium (985)
+Pension asset 122
+Deferred pension outflows 342
+Deferred OPEB outflows (61)
+Loans held for resale (2,242)
+Mortgage loans receivable (440,616)
+Due from federal government (152)
+Accounts payable 19,899
+Accrued payroll / compensated absences 1,111
+Due to primary government (7)
+Unearned revenue (9,901)
+Line of credit payable 6,817
+Arbitrage rebate liability 523
+Pension liability (423)
+OPEB liability (457)
+Deferred pension inflows (395)
+Deferred OPEB inflows 42
+Investment income included as operating revenue (37,516)
+Interest expense included as operating expense 108,752
+Issuance cost included as operating expense 7,820
+Total adjustments (347,785)
+Net cash used by operating activities $ (276,276)
+Noncash investing, capital, and financing activities:
+Decrease in fair value of investments $ 3,681
+Total noncash investing, capital, and financing activities $ 3,681
+(Expressed in Thousands)
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+STATEMENT OF CASH FLOWS (cont.)
+FOR THE YEAR ENDED JUNE 30, 2024
+The Notes to the Financial Statements are an integral part of this statement.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Notes to the Financial Statements
+June 30, 2024
+Note 1. Summary of Significant Accounting Policies
+Reporting Entity
+The Tennessee Housing Development Agency (THDA) was created by an act of the legislature
+(Chapter 241, Public Acts, 1973). The act was approved by the Governor on May 14, 1973. The
+enabling legislation can be found in Section 13-23-101 et seq. Tennessee Code Annotated. The
+purpose of the agency is to improve housing and living conditions for lower- and moderate-income
+persons and families in Tennessee by making loans and mortgages to qualified sponsors, builders,
+developers, and purchasers of low- and moderate-income family dwellings.
+The agency is governed by a board of directors. The Comptroller of the Treasury, the Secretary
+of State, the State Treasurer, the Commissioner of the Department of Finance and Administration,
+and a Staff Assistant to the Governor serve as ex officio board members of the agency. The
+remaining members are appointed by the Governor, the Speaker of the State Senate, and the
+Speaker of the State House of Representatives. Board members are to be representatives of the
+housing, real estate, or home building industries; the mortgage profession; local governments; or
+one of the three grand divisions of the state and must be knowledgeable about the problems of
+inadequate housing conditions in Tennessee. One member of the board is a resident board member
+as required by Section 505 of the Quality Housing and Work Responsibility Act of 1998 and Title
+24, Code of Federal Regulations, Part 964, Subpart E. Section 13-23-101 et seq., Tennessee Code
+Annotated, was amended to revise the composition of the board of directors, effective July 1, 2013.
+In order to accomplish its objectives, the agency is authorized to raise funds through the issuance
+of bonds and notes. Bonds and notes issued by the agency are not general obligations of the State
+of Tennessee or any of its political subdivisions, and neither the faith and credit nor the taxing
+power of the state or any political subdivision is pledged for payment of the principal or interest
+on such bonds or notes.
+THDA is a component unit of the State of Tennessee. Although the agency is a separate legal
+entity, the state appoints a majority of its governing body and approves its operating budget. The
+agency is discretely presented in the Tennessee Annual Comprehensive Financial Report.
+Basis of Presentation
+The accompanying financial statements have been prepared in accordance with accounting
+principles generally accepted in the United States of America as prescribed by the Governmental
+Accounting Standards Board (GASB).
+Certain accounting policies and procedures are stipulated in the agency's Mortgage Finance
+Program, Single Family Program, Housing Finance Program, and General Residential Finance
+Program bond resolutions and the Single Family Mortgage Notes trust indenture. The agency
+Notes to the Financial Statements (Continued)
+follows these procedures in establishing and maintaining the various funds and accounts for its
+programs. Revenues and expenses applicable to each fund and account are recorded therein.
+Basis of Accounting and Measurement Focus
+The accompanying financial statements have been prepared using the accrual basis of accounting
+and the flow of economic resources measurement focus. Under this basis, revenues are recorded
+when earned and expenses are recorded when liabilities are incurred, regardless of the timing of
+related cash flows. When both restricted and unrestricted resources are available for use, it is the
+agency's policy to use the restricted resources first. All significant interfund transactions have been
+eliminated.
+Capital Assets
+Capital assets, which include furniture and office equipment, are defined by the agency as assets
+with an initial, cost of $5,000 or more.
+Capital assets are depreciated on a straight-line basis over the following estimated useful lives of
+the assets.
+Description Estimated Life
+Furniture 10 years
+Computer equipment 3 years
+Restricted Assets
+Restricted assets are comprised of the Debt Service Reserve Funds; Bond Reserve Funds; the Tax
+and Insurance Holding/Escrow account; Funds on deposit for, or on behalf of, borrower's related
+to Loan Servicing; and Net Pension Assets (see note 4).
+The bond resolutions require the agency to establish a Debt Service Reserve Fund or a Bond
+Reserve Fund for each bond issue. The bond resolutions require that if the Debt Service and
+Expense Funds or the Revenue Funds of a bond issue are not sufficient to provide for interest or
+principal and sinking fund requirements of that issue that funds be transferred from the Debt
+Service Reserve Fund or the Bond Reserve Fund to cover any deficiency.
+The Tax and Insurance Holding/Escrow account is used to service mortgage accounts. These funds
+are tax and insurance escrows held on behalf of various mortgagors from payments collected on
+mortgages. The agency is obligated to expend these monies on escrowed items. The Payment
+Clearing and Disbursement accounts are also used to service mortgages.
+Deferred Amount on Refundings and Bond Premiums and Discounts
+Deferred Amounts on Refundings: The agency amortizes the deferred amount on refundings using
+the straight-line method.
+Notes to the Financial Statements (Continued)
+Bond Premiums and Discounts: Bond premiums and discounts are deferred and amortized over
+the life of the bonds using the interest method. Bonds payable are reported net of the applicable
+unamortized bond premium or discount.
+Cash and Cash Equivalents
+In addition to demand deposits and deposits in the pooled investment fund administered by the
+State Treasurer, this classification includes short-term investments with original maturities of three
+months or less from the date of acquisition.
+Other Receivables
+Amounts reported as Other Receivables are for amounts related to acquiring servicing rights from
+THDA's partners. Beginning in fiscal year 2018, THDA began direct servicing of first and second
+mortgage loans in which THDA purchased from an approved THDA Originating Agent. In
+association with the purchase of these loans, and in association with typical industry practices,
+THDA paid 1% of the loan purchase amount to the Originating Agent that was intended to function
+as a "service release premium." In fiscal year 2019, THDA reacquired servicing rights from
+approved THDA mortgage loan servicers, which in certain situations resulted in the payment of a
+Servicing Reclamation Price to the existing servicer. Such amounts are reported as Other
+Receivables, and are amortized based on the interest method over the life of the respective loans.
+Investments
+The agency has established guidelines for its funds to meet the requirements of the bond
+resolutions and to comply with the statutes of the State of Tennessee. Permitted investments
+include the following: direct obligations of the U.S. Treasury and U.S. Agencies, obligations
+guaranteed by the U.S federal government, public housing bonds secured by contracts with the
+U.S federal government, direct and general obligations of the State of Tennessee or obligations
+guaranteed by the State of Tennessee, obligations of other states or instrumentalities thereof which
+are rated in either of the two highest rating categories by Moody's Investor Service or Standard &
+Poor's Global Ratings, interest bearing time or demand deposits, collateralized certificates of
+deposit in authorized state depositories, and repurchase agreements collateralized by authorized
+securities.
+Investments are stated at fair value, except for repurchase agreements, which are reported at cost.
+Accrual of Interest Income
+Interest on first mortgage loans receivable and investment securities is credited to income as earned
+and classified as interest receivable.
+Mortgages
+Mortgages are carried at their original amount less collected principal.
+Notes to the Financial Statements (Continued)
+Secondary Market Mortgage Program
+During fiscal year 2020, THDA implemented a secondary market mortgage program. In addition
+to the Mortgage Revenue Bond single-family mortgage products currently offered, THDA will
+purchase certain single-family mortgage loans from lenders with the intention of selling such
+mortgages on the secondary market. THDA intends to retain the servicing rights for these
+mortgages as a "seller/servicer." To provide capital for this program, THDA has entered into a
+revolving Line of Credit facility, whereby funds are drawn from the Line of Credit provider to
+purchase such mortgage. THDA repays these funds when THDA sells the purchased loans on the
+secondary market.
+Loans Held for Resale
+Amounts reported as Loans Held for Resale represent mortgage loans that the Agency has the
+ability and intent to sell within the foreseeable future. These mortgages are carried at their original
+amount less collected principal.
+Operating Revenues and Expenses
+The agency was created with the authority to issue bonds to the investing public in order to create
+a flow of private capital through the agency into mortgage loans to certain qualified individuals
+and qualified housing sponsors. The agency's primary operation is to borrow funds in the bond
+market and issue those funds to make single-family and multi-family loans. The primary operating
+revenue is the interest income on outstanding mortgages and the investment income from proceeds
+of bonds. The primary operating expense of the agency is the interest expense on bonds
+outstanding. The primary non-operating revenue is federal grants revenue. The primary non-
+operating expense is federal grants expense.
+Allowance for Forgivable Second Mortgages
+THDA has offered the Down Payment Assistance product for several years. Beginning in October
+2014, THDA introduced an interest-free forgivable second mortgage loan, of which 100% of the
+original principal amount is repayable to THDA if the loan is repaid within 10 years of the
+origination date. Beginning on the 11th anniversary of the origination date, 20% of the original
+principal amount will be forgiven. The amount of forgiveness increases an additional 20% on the
+loan anniversary thereafter. On the 15th anniversary of the origination date, 100% of the original
+principal amount becomes forgiven. Beginning in April 2017 this product changed to 100%
+forgivable second mortgage loan for the 30-year term of the first mortgage. It is 100% repayable
+in the event the home is sold, refinanced or owners move out of the home.
+Because of the likelihood that some amount of the original amount will be forgiven in the course
+of time, or not recovered due to foreclosure, an allowance account has been established for those
+loans that may enter the forgivable period or for loss due to foreclosure. During the fiscal year
+2020, the agency determined that an amount of second mortgage down payment assistance loans
+are not expected to be recovered due to forgiveness or foreclosure. This amount was recorded as
+an allowance.
+Notes to the Financial Statements (Continued)
+Pensions
+For purposes of measuring the net pension liability (asset), deferred outflows of resources and
+deferred inflows of resources related to pensions, and pension expense, information about the
+fiduciary net position of the Closed State and Higher Education Employee Pension Plan and the
+State and Higher Education Employee Retirement Plan in the Tennessee Consolidated Retirement
+System (TCRS) and additions to/deductions from the plan's fiduciary net position have been
+determined on the same basis as they are reported by the TCRS. For this purpose, benefits
+(including refunds of employee contributions) are recognized when due and payable in accordance
+with the benefit terms of the Closed State and Higher Education Employee Pension Plan and the
+State and Higher Education Employee Retirement Plan. Investments are reported at fair value.
+Postemployment Benefits Other Than Pensions (OPEB)
+For purposes of measuring the net OPEB liability, deferred outflows of resources and deferred
+inflows of resources related to OPEB, and OPEB expense, information about the fiduciary net
+position of the State of Tennessee Postemployment Benefit Trust (OPEB Trust), that services the
+Employee Group OPEB Plan (EGOP), and additions to/deductions from the OPEB Trust fiduciary
+net position have been determined on the same basis as they are reported by the OPEB Trust. For
+this purpose, the OPEB Trust recognizes benefit payments when due and payable in accordance
+with the benefit terms. Investments are reported at fair value. This trust meets the criteria in
+paragraph 4 of Statement No. 75.
+Note 2. Deposits and Investments
+Deposits
+Custodial Credit Risk - Custodial credit risk for deposits is the risk that in the event of a bank
+failure, the agency's deposits may not be returned.
+The laws of the State of Tennessee require that collateral be pledged to secure all uninsured
+deposits. The agency's bond resolutions require deposits to be fully secured.
+The agency's deposits are in financial institutions which participate in the bank collateral pool
+administered by the State Treasurer, except as noted below. The securities pledged to protect these
+accounts are pledged in the aggregate rather than against each individual account. The members
+of the pool may be required by agreement to pay an assessment to cover any deficiency. Under
+this additional assessment agreement, public fund accounts covered by the pool are considered to
+be insured for purposes of credit risk disclosure.
+On June 30, 2024, the bank balance was $43,711,869.55. This amount includes $29,470,242.48;
+which is held in a taxes and insurance escrow account to pay taxes, insurance and mortgage
+insurance premiums on the mortgagor's behalf related to THDA serviced loans; $1,034,234.81
+which is held in various accounts to pay taxes, insurance and mortgage insurance premiums on the
+Notes to the Financial Statements (Continued)
+mortgagor's behalf related to Freddie Mac serviced loans and $603,025.68 held in various accounts
+to pay taxes, insurance and mortgage insurance premiums on the mortgagor's behalf related to
+Ginnie Mae Mortgage Backed Securities serviced loans. All bank balances at June 30, 2024, were
+insured.
+Investments
+As stated in the agency's investment policy, the "prudent person rule" shall be the standard of
+prudence used by all officials responsible for the investment of assets. Investments are made as a
+prudent person would be expected to act in the management of his or her own affairs, with
+consideration of the safety of capital and the probability of income, and avoidance of speculative
+investments.
+The agency's investment policy states that the agency's portfolios will be diversified in order to
+reduce the risk of loss resulting from concentration of assets in a specific maturity, a specific issuer,
+or a specific class of securities. The agency may invest 100% of its portfolio in U.S. government
+securities. A minimum of 5% of the daily fair market value of THDA total investments must
+mature within 5 years. No more than 50% of the daily fair market value of the combined portfolios
+can be invested in maturities greater than 15 years without approval of the Bond Finance
+Committee.
+Portfolio maturities shall be staggered in a way that avoids undue concentrations of assets in a
+specific maturity sector. Maturities shall be selected which provide for stability of income and
+reasonable liquidity. It is the intent of this policy that sufficient investments be scheduled to
+mature to provide for the required liquidity for debt service and other expenditures per resolution
+requirements.
+Interest Rate Risk - Interest Rate Risk is the risk that changes in interest rates of debt investments
+will adversely affect the fair value of an investment.
+Duration is a measure of a debt investment's exposure to fair value changes arising from changing
+interest rates. It uses the present value of cash flows, weighted for those cash flows as a percentage
+of the investment's full price.
+Notes to the Financial Statements (Continued)
+June 30, 2024
+Investment Type
+Fair Value
+(in thousands)
+Effective Duration
+Unless Otherwise Noted
+(Years)
+U.S. Agency Coupon $150,326 0.903
+U.S. Treasury Coupon 0 0.000
+U.S. Agency Discount 698,726 0.131
+Government Mortgage-Backed Securities* 172,598 6.046
+Total $1,021,650
+* = Modified Duration was used in the place of Effective Duration on Pass Through investments where average life
+was used instead of PSA speed
+Fair Value Measurements - THDA implemented GASB Statement No. 72, Fair Value
+Measurement and Application. GASB No. 72 was issued to address accounting and financial
+reporting issues related to fair value measurements. THDA categorizes its fair value
+measurements within the fair value hierarchy established by accounting principles generally
+accepted in the United States of America. THDA has the following recurring fair value
+measurements as of June 30, 2024, (expressed in thousands):
+June 30, 2024
+Assets by Fair Value
+Level
+Total Assets at
+Fair Value
+Quoted Prices in
+Active Markets
+for Identical
+Assets
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable
+Inputs
+(Level 3)
+Debt securities
+U.S. Agency Coupon $150,326 $150,326 $ -
+U.S. Treasury Coupon 0.00 - -
+U.S. Agency Discount 698,726 698,726 -
+Government Mortgage -
+Backed Securities 172,598 172,598 172,598 -
+Total debt securities $1,021,650 1,021,650 1,021,650 $ -
+Assets classified in Level 1 of the fair value hierarchy are valued using prices quoted in active
+markets for identical assets as those securities. Assets classified in Level 2 of the fair value
+hierarchy are valued using prices quoted in active markets for similar assets as those securities.
+Level 3 valuations are derived from valuation techniques in which significant inputs are
+unobservable.
+Credit Risk - Credit Risk is the risk that an issuer or other counterparty to an investment will not
+fulfill its obligations. Refer to the Investments section of Note 1 for further explanation of the
+agency's permitted investments. Credit quality ratings for the agency's investments as of June 30,
+2024, are included in the schedules below. Securities are rated using Nationally Recognized
+Statistical Rating Organizations (NRSRO) and are presented below (expressed in thousands).
+Notes to the Financial Statements (Continued)
+June 30, 2024
+Investment Type Fair Value U.S. Treasury AAA AA+ Not Rated
+U.S. Agency Coupon $150,326 $ - $ - $ 150,326
+U.S. Agency Discount 698,726 - 698,726 -
+Government Mortgage-
+Backed Securities 172,598 - - 172,598
+Total $1,021,650 $698,726 $ 322,924
+In addition to these investments, the agency has $35,258,142.42 invested in a money market
+fund. This fund is measured at amortized cost and has a Standard and Poor's rating of AAA.
+Concentration of Credit Risk - Concentration of credit risk is the risk of loss attributed to the
+magnitude of the agency's investment in a single issuer.
+(Fair Value
+Issuer in thousands) Portfolio
+Federal Home Loan Bank $ 679,802 66.54
+Federal Home Loan Mortgage Corp 91,364 8.94
+Federal National Mortgage Association 145,500 14.24
+Government National-
+Mortgage Association 104,984 10.28
+Total $1,021,650 100%
+GASB 79 Disclosures - During fiscal year 2016, THDA implemented GASB Statement No. 79,
+Certain External Investment Pools and Pool Participants. The State of Tennessee, by law,
+requires that THDA participate in the State Pooled Investment Fund (SPIF). SPIF values financial
+instruments at amortized cost.
+Notes to the Financial Statements (Continued)
+Note 3. Liabilities
+Bonds Issued and Outstanding
+Housing Finance Program Bonds
+Series Maturity Range
+Issued Amount
+(Thousands)
+Interest Rate
+(Percent)
+Ending Balance
+6/30/2024
+(Thousands)
+2015-A 1/1/2016 - 7/1/2045 150,000 0.30 to 3.85 33,560
+Total Housing Finance Program Bonds $150,000 $33,560
+Plus: Unamortized Bond Premiums 436
+Net Housing Finance Program Bonds $33,996
+Residential Finance Program
+Series Maturity Range
+Issued Amount
+(Thousands)
+Interest Rate
+(Percent)
+Ending Balance
+6/30/2024
+(Thousands)
+2013-1 1/1/2014 - 7/1/2043 $ 215,905 0.40 to 4.00 $ 23,025
+2013-2 7/1/2014 - 7/1/2043 121,300 0.45 to 4.65 20,355
+2014-1 1/1/2015 - 7/1/2039 150,000 0.32 to 4.00 27,335
+2014-2 7/1/2015 - 7/1/2045 150,000 0.25 to 4.00 37,500
+2015-1 1/1/2016 - 7/1/2045 150,000 0.50 to 4.05 40,650
+2015-2 7/1/2016 - 1/1/2046 175,000 0.40 to 4.00 48,585
+2016-1 1/1/2017 - 1/1/2047 125,000 0.625 to 3.50 44,045
+2016-2 7/1/2017 - 1/1/2047 125,000 0.72 to 3.50 45,910
+2016-3 7/1/2017 - 7/1/2031 62,000 1.00 to 3.50 9,130
+2017-1 1/1/2018 - 7/1/2042 100,000 0.95 to 4.00 23,890
+2017-2
+2017-3
+2017-4
+2018-1
+2018-2
+1/1/2018 - 1/1/2042
+7/1/2018 - 1/1/2048
+7/1/2018 - 7/1/2048
+1/1/2019 - 1/1/2043
+1/1/2019 - 1/1/2049
+175,000
+99,900
+99,900
+99,900
+160,000
+0.90 to 4.00
+0.80 to 3.65
+0.95 to 4.00
+1.40 to 4.00
+1.75 to 4.00
+61,785
+44,495
+48,935
+44,030
+75,435
+2018-3 7/1/2019 - 7/1/2049 149,900 1.50 to 4.25 79,330
+2018-4 7/1/2019 - 7/1/2049 225,000 1.875 to 4.50 112,790
+2019-1 1/1/2020 - 1/1/2050 175,000 1.60 to 4.25 98,575
+2019-2 1/1/2020 - 1/1/2048 200,000 1.40 to 4.00 117,930
+2019-3 7/1/2020 - 1/1/2050 150,000 1.10 to 3.75 94,460
+2019-4 7/1/2020 - 1/1/2050 200,000 1.20 to 3.50 126,470
+2020-1 1/1/2021 - 7/1/2050 200,000 0.80 to 3.75 128,945
+2020-2 1/1/2021 - 7/1/2040 108,500 1.08 to 4.00 39,470
+2020-3
+2020-4
+2021-1
+1/1/2021 - 7/1/2050
+7/1/2021 - 1/1/2051
+1/1/2022 - 7/1/2051
+145,000
+145,000
+149,990
+0.80 to 3.50
+1.50 to 3.00
+0.20 to 3.00
+107,695
+112,430
+126,545
+2021-2 7/1/2022 - 1/1/2052 99,990 0.13 to 3.00 90,950
+2021-3 7/1/2022 - 1/1/2052 170,000 0.20 to 3.00 72,930
+2022-1 1/1/2023 - 7/1/2052 175,000 1.25 to 5.00 161,130
+2022-2 1/1/2023 - 1/1/2053 149,990 1.75 to 5.00 145,280
+2022-3 7/1/2023 - 1/1/2053 160,000 3.00 to 5.50 156,240
+Notes to the Financial Statements (Continued)
+2023-1 1/1/2024 - 7/1/2054 140,000 .80 to 5.756 138,025
+2023-2 7/1/2024 - 1/1/2054 235,000 3.20 to 6.00 233,910
+2023-3 7/1/2024 - 1/1/2054 360,000 3.90 to 6.534 359,435
+2024-1 1/1/2025 - 1/1/2055 270,000 3.05 to 6.25 270,000
+2024-2 1/1/2025 - 1/1/2055 255,000 3.30 to 6.25 255,000
+Total Residential Finance Program Bonds $5,872,275 $3,622,645
+Plus: Unamortized Bond Premiums 68,782
+Subtract: Unamortized Bond Discount (280)
+Net Residential Finance Program Bonds $3,691,147
+Net Total All Bonds $3,725,143
+Debt Service Requirements
+Debt service requirements to maturity at June 30, 2024, are as follows (expressed in thousands):
+For the Year(s)
+Ending June 30 Principal Interest
+Total
+Requirements
+2025 72,055 137,202 209,257
+2026 122,415 144,838 267,253
+2027 125,505 141,271 266,776
+2028 125,720 137,492 263,212
+2029 128,940 133,500 262,440
+2030 - 2034 609,035 602,576 1,211,611
+2035 - 2039 581,095 496,074 1,077,169
+2040 - 2044 646,230 373,276 1,019,506
+2045 - 2049 688,445 231,290 919,735
+2050 - 2054 521,680 81,169 602,849
+2055 35,085 1,586 36,671
+Total $3,656,205 $2,480,274 $6,136,479
+The agency's bond resolutions govern the outstanding bonds payable for all bond programs in the
+amount of $3,656,205 (expressed in thousands). The bond resolutions contain a provision that in
+an event of default, the trustee can declare all bonds due and payable and can sell program loans
+and investment securities for payments to bondholders.
+The outstanding bonds payable of $3,656,205 (expressed in thousands) are secured by a pledge of
+all assets in each of the respective bond resolutions.
+The Agency has a line of credit in the amount of $75,000,000. The unused portion as of June 30,
+2024 is $68,073,331.
+Redemption of Bonds and Notes
+During the year ended June 30, 2024, bonds were retired at par before maturity in the Housing
+Finance Program in the amount of $4,770,000 and in the Residential Finance Program in the
+amount of $162,235,000. The respective carrying values of the bonds were $4,933,652 and
+Notes to the Financial Statements (Continued)
+$168,543,566. This resulted in revenue to the Housing Finance Program of $163,652 and to the
+Residential Finance Program of $6,308,566.
+On July 25, 2023 the agency sold $235,000,000 in Residential Finance Program Bonds, Issue
+2023-2.
+On November 8, 2023 the agency issued $360,000,000 in Residential Finance Program Bonds,
+Issue 2023-3.
+On March 21, 2024 the agency issued $270,000,000 in Residential Finance Program Bonds, Issue
+2024-1.
+On June 25, 2024 the agency issued $255,000,000 in Residential Finance Program Bonds, Issue
+2024-2.
+Long-term Liability Activity
+The following table is a summary of the long-term liability activity for the year ended June 30,
+2024 (expressed in thousands).
+Long Term Liability
+Beginning
+Balance
+July 1,
+2023 Additions Reductions
+Ending
+Balance
+June 30,
+2024
+Amounts
+Due
+Within
+One Year*
+Bonds Payable $2,760,040 $1,120,000 ($223,835) 3,656,205 $121,015
+Plus: Unamortized Bond Premiums 60,017 18,914 (9,713) 69,218 -
+Less: Unamortized Bond Discounts (314) - 34 (280) -
+Compensated Absences 2,168 1,576 (665) 3,079 1,470
+Escrow Deposits 32,255 108,756 (105,987) 35,024 18,601
+Unearned Revenue 142,498 11,473 (21,375) 132,596 -
+Arbitrage Rebate Payable 74 523 (-) 597 -
+Total $2,996,738 $1,261,242 ($361,541) $3,896,439 $141,086
+*Amounts due within one year include management authorized bond refundings at June 30.
+Note 4. Restricted Net Position
+The amount shown on the statement of net position as Restricted for Single Family Bond Programs
+is contractually pledged, under the bond resolutions of the agency, to the owners of the bonds
+issued under such bond resolutions. As pledged assets, the contractual provisions of the bond
+resolutions restrict the use of such assets. However, the assets may be removed from the lien of
+the bond resolutions if certain parity tests, as established by the respective bond resolutions, are
+Notes to the Financial Statements (Continued)
+satisfied. Assets removed from the lien of the respective bond resolutions may be used for other
+purposes.
+The amount shown as Restricted for Grant Programs represents unexpended grant money that has
+been awarded to grantees through various grant programs administered by the agency.
+The amount shown as Restricted for Homebuyers Revolving Loan Program represents the amount
+of net position restricted for a pilot program that funds zero interest loans for down payment and
+closing costs. The use of this net position is restricted under legislation enacted in fiscal year 1986.
+Note 5. Pension Plans
+Closed State and Higher Education Employee Pension Plan
+General Information about the Pension Plan
+Plan description - State employees and higher education employees with membership in the
+Tennessee Consolidated Retirement System (TCRS) before July 1, 2014, are provided with
+pensions through the Closed State and Higher Education Employee Pension Plan. This plan is a
+component of the Public Employee Retirement Plan, an agent, multiple-employer defined benefit
+pension plan. The Closed State and Higher Education Employee Pension Plan stopped accepting
+new membership on June 30, 2014, but will continue providing benefits to existing members and
+retirees. Beginning July 1, 2014, a new agent defined benefit retirement plan, the State and Higher
+Education Employee Retirement Plan, became effective for state employees and higher education
+employees hired on or after July 1, 2014.
+The TCRS was created by state statute under Title 8, Chapters 34-37, Tennessee Code Annotated.
+The TCRS Board of Trustees is responsible for the proper operation and administration of all
+employer pension plans in the TCRS. The Tennessee Treasury Department, an agency in the
+legislative branch of state government, administers the plans of the TCRS. The TCRS issues a
+publicly available financial report that can be obtained at
+https://treasury.tn.gov/Retirement/Boards-and-Governance/Reporting-and-Investment-Policies.
+Benefits provided - Title 8, Chapters 34-37, Tennessee Code Annotated, establishes the benefit
+terms and can be amended only by the Tennessee General Assembly. Members of the Closed State
+and Higher Education Employee Pension Plan are eligible to retire with an unreduced benefit at
+age 60 with 5 years of service credit or after 30 years of service credit regardless of age. Benefits
+are determined using the following formula:
+Average of Member's Highest
+Compensation for 5 Consecutive Years (up
+to Social Security Integration Level)
+x 1.50% x
+Years of Service
+Credit
+x 105%
+Plus:
+Notes to the Financial Statements (Continued)
+Average of Member's Highest
+Compensation for 5 Consecutive Years
+(over Social Security Integration Level)
+x 1.75% x
+Years of Service
+Credit
+x 105%
+A reduced early retirement benefit is available at age 55 and vested. Members are vested with 5
+years of service credit. Service related disability benefits are provided regardless of length of
+service. Five years of service is required for non-service related disability eligibility. The service
+related and non-service related disability benefits are determined in the same manner as a service
+retirement benefit but are reduced 10% and include projected service credits. A variety of death
+benefits are available under various eligibility criteria. Member and beneficiary annuitants are
+entitled to automatic cost of living adjustments (COLAs) after retirement. A COLA is granted
+each July for annuitants retired prior to the 2nd of July of the previous year. The COLA is based
+on the change in the consumer price index (CPI) during the prior calendar year, capped at 3%, and
+applied to the current benefit. No COLA is granted if the change in the CPI is less than 0.5%. A
+1% COLA is granted if the CPI change is between 0.5% and 1%. Members who leave employment
+may withdraw their employee contributions, plus any accumulated interest.
+Contributions - Contributions for state employees and higher education employees are established
+in the statutes governing the TCRS and may only be changed by the Tennessee General Assembly.
+THDA employees are non-contributory, as are most members in the Closed State and Higher
+Education Employee Pension Plan. State and higher education agencies make employer
+contributions at the rate set by the Board of Trustees as determined by an actuarial valuation. In
+fiscal year 2024, the state made a one-time direct contribution of $300 million to the plan. By law,
+employer contributions for the Closed State and Higher Education Employee Pension Plan are
+required to be paid. Employer contributions by THDA for the year ended June 30, 2024, to the
+Closed State and Higher Education Employee Pension Plan, including $1,232,823.08, its share of
+the one-time direct contribution mentioned, were $3,191,549.85 which was 35.77% of covered
+payroll. The employer rate is expected to finance the costs of benefits earned by members during
+the year, the cost of administration, as well as an amortized portion of any unfunded liability.
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred
+Inflows of Resources Related to Pensions
+Pension liability - At June 30, 2024, THDA reported a liability of $4,618,185.44 for its
+proportionate share of the net pension liability. The net pension liability was measured as of June
+30, 2023, and the total pension liability used to calculate the net pension liability was determined
+by an actuarial valuation as of that date. THDA's proportion of the net pension liability was based
+on the proportion of THDA's contributions during the year ended June 30, 2023, to the pension
+plan relative to the contributions of all participating state and higher education agencies. At the
+June 30, 2023, measurement date, THDA's proportion was 0.418332%. The proportion measured
+as of June 30, 2022, was 0.423141%.
+Pension expense - For the year ended June 30, 2024, THDA recognized a pension expense of
+$3,010,994. Allocated pension expense was $3,092,008.12 before being decreased by $81,014.21
+due to a change in proportionate share.
+Notes to the Financial Statements (Continued)
+Deferred outflows of resources and deferred inflows of resources - For the year ended June 30,
+2024, THDA reported deferred outflows of resources and deferred inflows of resources related to
+pensions from the following sources (expressed in thousands):
+Deferred Outflows of Resources Deferred Inflows of Resources
+Differences between expected and actual
+experience $1,503 $ -
+Net difference between projected and actual
+earnings on pension plan investments 542 -
+Change in proportionate share of net asset or
+liability 12 17
+Changes in assumptions - -
+Contributions subsequent to the measurement
+date of June 30, 2023 3,192 -
+Total $5,249 $17
+Deferred outflows of resources, resulting from contributions of $3,192 thousand subsequent to the
+measurement date will be recognized as reduction to net pension liability in the following
+measurement period. Other amounts reported as deferred outflows of resources and deferred
+inflows of resources related to pensions will be recognized in pension expense as follows:
+(expressed in thousands):
+Year Ended June 30:
+2025 1,074
+2026 (717)
+2027 1,679
+2028 4
+Thereafter -
+In the table above, positive amounts will increase pension expense, while negative amounts will
+decrease pension expense.
+Actuarial assumptions - The total pension liability as of the June 30, 2023, actuarial valuation was
+determined using the following actuarial assumptions, applied to all periods included in the
+measurement:
+Inflation 2.25%
+Salary increases Graded salary ranges from 3.44% to 8.72% based on age, including inflation,
+averaging 4.00%
+Investment rate of return 6.75%, net of pension plan investment expenses, including inflation
+Notes to the Financial Statements (Continued)
+Cost of living adjustment 2.125%
+Mortality rates were based on customized tables based on actual experience, including a projection
+of mortality improvement using Scale MP-2021, with generational projection.
+The actuarial assumptions used in the June 30, 2023, actuarial valuation were based on the results
+of an actuarial experience study performed for the period July 1, 2016, through June 30, 2020. As
+a result of the 2020 actuarial experience study, investment and demographic assumptions were
+adjusted to more closely reflect actual and expected future experience.
+The long-term expected rate of return on pension plan investments was established by the TCRS
+Board of Trustees in conjunction with the June 30, 2020, actuarial experience study. A blend of
+future capital market projections and historical market returns was used in a building-block method
+in which a best-estimate of expected future real rates of return (expected returns, net of pension
+plan investment expense and inflation) is developed for each major asset class. These best-
+estimates are combined to produce the long-term expected rate of return by weighting the expected
+future real rates of return by the target asset allocation percentage and by adding the expected
+inflation of 2.25%. The best-estimates of geometric real rates of return and the TCRS investment
+policy target asset allocation for each major asset class are summarized in the following table:
+Asset Class
+Long-Term Expected
+Real Rate of Return Target Allocation
+U.S. equity 4.88% 31%
+Developed market international equity 5.37% 14%
+Emerging market international equity 6.09% 4%
+Private equity and strategic lending 6.57% 20%
+U.S. fixed income 1.20% 20%
+Real estate 4.38% 10%
+Short-term securities 0.00% 1%
+100%
+The long-term expected rate of return on pension plan investments was established by the TCRS
+Board of Trustees as 6.75% based on a blend of historical market returns and future capital market
+projections.
+Discount rate - The discount rate used to measure the total pension liability was 6.75%. The
+projection of cash flows used to determine the discount rate assumed that employee contributions
+will be made at the current rate and that contributions from all participating employers will be
+made at the actuarially determined contribution rate pursuant to an actuarial valuation in
+accordance with the funding policy of the TCRS Board of Trustees and as required to be paid by
+state statute. Based on those assumptions, the pension plan's fiduciary net position was projected
+to be available to make projected future benefit payments of current active and inactive members
+and to cover administrative expenses. Therefore, the long-term expected rate of return on pension
+plan investments was applied to all periods of projected benefit payments to determine the total
+pension liability.
+Notes to the Financial Statements (Continued)
+Sensitivity of the proportionate share of net pension liability (asset) to changes in the discount rate
+- The following presents THDA's proportionate share of the net pension liability calculated using
+the discount rate of 6.75%, as well as what THDA's proportionate share of the net pension liability
+(asset) would be if it were calculated using a discount rate that is 1 percentage point lower (5.75%)
+or 1 percentage point higher (7.75%) than the current rate:
+1%
+Decrease
+(5.75%)
+Current
+Discount Rate
+(6.75%)
+1% Increase
+(7.75%)
+Tennessee Housing Development Agency's proportionate
+share of the net pension liability (asset) $14,594,516 $4,618,185 $(3,739,756)
+Pension plan fiduciary net position - Detailed information about the pension plan's fiduciary net
+position is available in a separately issued TCRS financial report at
+https://treasury.tn.gov/Retirement/Boards-and-Governance/Reporting-and-Investment-Policies.
+Payable to the Pension Plan
+At June 30, 2024, THDA reported a payable of $77,233 for the outstanding amount of legally
+required contributions to the pension plan required for the year ended June 30, 2024.
+State and Higher Education Employee Retirement Plan
+General Information about the Pension Plan
+Plan description - State and higher education employees with membership in the Tennessee
+Consolidated Retirement System (TCRS) before July 1, 2014, are provided with pensions through
+the Closed State and Higher Education Employee Pension Plan, an agent plan within the Public
+Employee Retirement Plan administered by the TCRS. TCRS is a multiple-employer pension
+plan. The Closed State and Higher Education Employee Pension Plan was closed effective June
+30, 2014, and covers employees hired before July 1, 2014. Employees hired after June 30, 2014,
+are provided with pensions through a legally separate plan referred to as the State and Higher
+Education Employee Retirement Plan, an agent plan within the Public Employee Retirement Plan
+administered by the TCRS. The TCRS was created by state statute under Title 8, Chapters 34-37,
+Tennessee Code Annotated.
+The TCRS Board of Trustees is responsible for the proper operation and administration of all
+employer pension plans in the TCRS. The Tennessee Treasury Department, an agency in the
+legislative branch of state government, administers the plans of the TCRS. The TCRS issues a
+publicly available financial report that can be obtained at
+https://treasury.tn.gov/Retirement/Boards-and-Governance/Reporting-and-Investment-Policies.
+Benefits provided - Title 8, Chapters 34-37, Tennessee Code Annotated, establishes the benefit
+terms and can be amended only by the Tennessee General Assembly. Members of the State and
+Higher Education Employee Retirement Plan are eligible to retire at age 65 with 5 years of service
+Notes to the Financial Statements (Continued)
+credit or pursuant to the rule of 90 in which the member's age and years of service credit total 90.
+Members are entitled to receive unreduced service retirement benefits, which are determined by a
+formula using the member's highest five consecutive year average compensation by 1% multiplied
+by member's years of service credit. A reduced early retirement benefit is available at age 60 with
+5 years of service credit or pursuant to the rule of 80 in which the member's age and years of
+service credit total 80. Service related disability benefits are provided regardless of length of
+service. Five years of service is required for non-service related disability eligibility. The service
+related and non-service related disability benefits are determined in the same manner as a service
+retirement benefit but are reduced 10% and include projected service credits. A variety of death
+benefits are available under various eligibility criteria.
+Member and beneficiary annuitants are entitled to automatic cost of living adjustments (COLAs)
+after retirement. A COLA is granted each July for annuitants retired prior to the 2nd of July of the
+previous year. The COLA is based on the change in the consumer price index (CPI) during the
+prior calendar year, capped at 3%, and applied to the current benefit. No COLA is granted if the
+change in the CPI is less than 0.5%. A 1% COLA is granted if the CPI change is between 0.5%
+and 1%. Members who leave employment may withdraw their employee contributions, plus any
+accumulated interest. Under the State and Higher Education Employee Retirement Plan, benefit
+terms and conditions, including COLAs, can be adjusted on a prospective basis. Moreover, there
+are defined cost controls and unfunded liability controls that provide for the adjustment of benefit
+terms and conditions on an automatic basis.
+Contributions - Contributions for state and higher education employees are established in the
+statutes governing the TCRS and may only be changed by the Tennessee General Assembly.
+Employees contribute 5% of their salary. The THDA makes employer contributions at the rate set
+by the Board of Trustees as determined by an actuarial valuation. By law, employer contributions
+for the State and Higher Education Employee Retirement Plan are required to be paid. Employer
+contributions by THDA for the year ended June 30, 2024, to the State and Higher Education
+Employee Retirement Plan were $382,645, which is 2.57% of covered payroll. The employer rate,
+when combined with member contributions, is expected to finance the costs of benefits earned by
+members during the year, and the cost of administration, as well as an amortized portion of any
+unfunded liability.
+Pension Assets, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows
+of Resources Related to Pensions
+Pension asset - At June 30, 2024, THDA reported an asset of $45,172 for its proportionate share
+of the net pension asset. The net pension asset was measured as of June 30, 2023 and the total
+pension liability used to calculate the net pension asset was determined by an actuarial valuation
+as of that date. THDA's proportion of the net pension asset was based on a projection of THDA's
+contributions during the year ended June 30, 2023, to the pension plan relative to the contributions
+of all participating state and higher education agencies. At the June 30, 2023, measurement date,
+THDA's proportion was 0.627143%. The proportion measured as of June 30, 2022, was
+0.671072%.
+Notes to the Financial Statements (Continued)
+Pension expense - For the year ended June 30, 2024, THDA recognized a pension expense of
+$270,138. Allocated pension expense was $286,321 before being decreased by $16,183 due to a
+change in proportionate share.
+Deferred outflows of resources and deferred inflows of resources - For the year ended June 30,
+2024, THDA reported deferred outflows of resources and deferred inflows of resources related to
+pensions from the following sources (expressed in thousands):
+Deferred Outflows of Resources Deferred Inflows of Resources
+Differences between expected and actual
+experience $144 $43
+Net difference between projected and actual
+earnings on pension plan investments 53 -
+Changes in proportion of share of net asset or
+liability 25 86
+Changes in assumptions
+Tennessee Housing Development Agency
+contributions subsequent to the
+measurement date of June 30, 2023
+108
+383
+-
+-
+Total $713 $129
+Deferred outflows of resources, resulting from THDA's employer contributions of $382,645
+subsequent to the measurement date will be recognized as a decrease in net pension liability or a
+increase in net pension asset in the following measurement period. Other amounts reported as
+deferred outflows of resources and deferred inflows of resources related to pensions will be
+recognized in pension expense as follows (expressed in thousands):
+Year Ended June 30:
+2025 15
+2026 7
+2027 88
+2028 16
+2029 35
+Thereafter 42
+In the table above, positive amounts will increase pension expense, while negative amounts will
+decrease pension expense.
+Notes to the Financial Statements (Continued)
+Actuarial assumptions - The total pension liability as of the June 30, 2023, actuarial valuation was
+determined using the following actuarial assumptions, applied to all periods included in the
+measurement:
+Inflation 2.25%
+Salary increases Graded salary ranges from 3.44% to 8.72% based on age, including inflation,
+averaging 4.00%
+Investment rate of return 6.75%, net of pension plan investment expenses, including inflation
+Cost of living adjustment 2.125%
+Mortality rates were based on customized tables based on actual experience, including a projection
+of mortality improvement using Scale MP-2021, with generational projection.
+The actuarial assumptions used in the June 30, 2023, actuarial valuation were based on the results
+of an actuarial experience study performed for the period July 1, 2016, through June 30, 2020. As
+a result of the 2020 actuarial experience study, investment and demographic assumptions were
+adjusted to more closely reflect actual and expected future experience.
+The long-term expected rate of return on pension plan investments was established by the TCRS
+Board of Trustees in conjunction with the June 30, 2020, actuarial experience study. A blend of
+future capital market projections and historical market returns was used in a building-block method
+in which a best-estimate of expected future real rates of return (expected returns, net of pension
+plan investment expense and inflation) is developed for each major asset class. These best-
+estimates are combined to produce the long-term expected rate of return by weighting the expected
+future real rates of return by the target asset allocation percentage and by adding the expected
+inflation of 2.25%. The best-estimates of geometric real rates of return and the TCRS investment
+policy target asset allocation for each major class are summarized in the following table:
+Asset Class
+Long-Term Expected
+Real Rate of Return Target Allocation
+U.S. equity 4.88% 31%
+Developed market international equity 5.37% 14%
+Emerging market international equity 6.09% 4%
+Private equity and strategic lending 6.57% 20%
+U.S. fixed income 1.20% 20%
+Real estate 4.38% 10%
+Short-term securities 0.00% 1%
+100%
+The long-term expected rate of return on pension plan investments was established by the TCRS
+Board of Trustees as 6.75% based on a comparison of historical market returns and future capital
+market projections.
+Notes to the Financial Statements (Continued)
+Discount rate - The discount rate used to measure the total pension liability was 6.75%. The
+projection of cash flows used to determine the discount rate assumed that employee contributions
+will be made at the current rate and that contributions from all participating employers will be
+made at the actuarially determined contribution rate pursuant to an actuarial valuation in
+accordance with the funding policy of the TCRS Board of Trustees and as required to be paid by
+state statute. Based on those assumptions, the pension plan's fiduciary net position was projected
+to be available to make projected future benefit payments of current active and inactive members
+and to cover administrative expenses. Therefore, the long-term expected rate of return on pension
+plan investments was applied to all periods of projected benefit payments to determine the total
+pension liability.
+Sensitivity of the proportionate share of net pension liability (asset) to changes in the discount rate
+- The following presents THDA's proportionate share of the net pension liability (asset) calculated
+using the discount rate of 6.75%, as well as what THDA's proportionate share of the net pension
+liability (asset) would be if it were calculated using a discount rate that is 1 percentage point lower
+(5.75%) or 1 percentage point higher (7.75%) than the current rate:
+1% Decrease
+(5.75%)
+Current
+Discount Rate
+(6.75%)
+1% Increase
+(7.75%)
+Tennessee Housing Development Agency's
+proportionate share of the net pension
+liability (asset) $1,024,111 $(45,172) $(849,475)
+Pension plan fiduciary net position - Detailed information about the plan's fiduciary net position
+is available separately issued TCRS financial report at https://treasury.tn.gov/Retirement/Boards-
+and-Governance/Reporting-and-Investment-Policies.
+Payable to the Pension Plan
+At June 30, 2024, THDA reported a payable of $16,717 for the outstanding amount of legally
+required contributions to the pension plan required for the year ended June 30, 2024.
+Total Defined Benefit Pension Expense
+The total pension expense for the year ended June 30, 2024, for both defined benefit pension plans
+was $3,281,132.
+Note 6. Deferred Compensation Plans
+The Tennessee Housing Development Agency, through the State of Tennessee, offers employees
+two deferred compensation plans, one established pursuant to Internal Revenue Code (IRC),
+Section 457, and the other pursuant to IRC, Section 401(k). The plans are outsourced to third-
+party vendors, and the administrative costs assessed by the vendors of these plans are the
+Notes to the Financial Statements (Continued)
+responsibility of plan participants. Section 401(k) and Section 457 plan assets remain the property
+of the contributing employees; therefore, they are not presented in the accompanying financial
+statements. IRC Sections 401(k) and 457 establish participation, contribution, and withdrawal
+provisions for the plans. Participation in the 457 plan is voluntary for employees. The Tennessee
+Housing Development Agency provides up to a $100 monthly employer match for employees who
+participate in the state's 401(k) plan. Employees hired before July 1, 2014, voluntarily participate
+in the state's 401(k) plan. Pursuant to Public Chapter No. 259 of Public Acts of 2013, employees
+hired after June 30, 2014, are automatically enrolled in the state's 401(k) plan and contribute 2%
+of their salary with the employer contributing an additional non-matching 5%. Employees may
+opt out of the 2% auto enrollment. Such contribution rates may only be amended by the Tennessee
+General Assembly. There are certain automatic cost controls and unfunded liability controls in the
+defined benefit plan where the employees participate that may impact the non-matching 5%
+employer contribution to the 401(k) plan.
+Employees are immediately vested in both the employee and employer contributions in both plans.
+The IRC establishes maximum limits that an employee can contribute to these plans. The employee
+may increase, decrease, or stop contributions at any time for either plan.
+The Tennessee Housing Development Agency recognized a pension expense of $1,020,190 for
+employer contributions.
+The Tennessee Housing Development Agency recognized a pension payable of $45,405 for
+employer contributions.
+Note 7. Insurance-Related Activities
+Commercial Insurance
+The agency carries commercial insurance for risks of loss related to employee dishonesty; general
+liability protection; cyber liability losses; and theft of, damage to, or destruction of real and
+personal property. Settled claims resulting from these risks have not exceeded commercial
+insurance coverage in any of the past three fiscal years.
+Risk Management Fund
+It is the policy of the state not to purchase commercial insurance for the risks associated with
+casualty losses for general liability, automobile liability, medical malpractice liability, and
+workers' compensation. By statute, the maximum liability for general liability, automobile
+liability, and medical malpractice liability is $300,000 per person and $1 million per occurrence.
+The state's management believes it is more economical to manage these risks internally and set
+aside assets for claim settlement in its internal service fund, the Risk Management Fund (RMF).
+The state self-insures against property and cyber liability losses through the RMF and the State of
+Tennessee Captive Insurance Company (TCIC). The state purchases commercial insurance for real
+property crime and fidelity coverage on the state's officials and employees above the limits of the
+RMF and TCIC. For property coverage, the deductible for an individual state agency is the first
+Notes to the Financial Statements (Continued)
+$25,000 to $75,000 of losses based on a tiered deductible system that accounts for averaged losses
+over a three year period and the type of loss. The RMF is responsible for property losses of $2.5
+million per occurrence for all perils. The TCIC is responsible for property losses in excess of
+the RMF limits up to an annual aggregate of $25 million. Purchased insurance coverage is
+responsible for losses exceeding these limits to the maximum insurance coverage of $600
+million per year for perils other than earthquake and flood. The maximum flood insurance
+coverage is $50 million per year. The maximum earthquake insurance coverage is $50
+million per year. For cyber coverage, the RMF is responsible for $1.5 million per occurrence.
+The TCIC is responsible for losses in excess of the RMF limits up to an aggregate of $10
+million. Settled claims resulting from these risks have not exceeded maximum insurance
+coverage in any of the past three fiscal years.
+The agency participates in the Risk Management Fund, except for RMF's cyber liability coverage.
+The fund allocates the cost of providing claims servicing and claims payment by charging a
+premium to the agency based on a percentage of the agency's expected loss costs, which include
+both experience and exposures. This charge considers recent trends in actual claims experience of
+the state as a whole. An actuarial valuation is performed as of fiscal year-end to determine the
+fund liability and premium allocation. Information regarding the determination of the claims
+liabilities and the changes in the balances of the claims liabilities for the year ended June 30, 2024,
+is presented in the Annual Comprehensive Financial Report (ACFR). The ACFR is available on
+the state's website at https://www.tn.gov/finance/rd-doa/fa-accfin-ar.html. Since the agency
+participates in the Risk Management Fund, it is subject to the liability limitations under the
+provisions of the Tennessee Claims Commission Act, Section 9-8-101 et seq, Tennessee Code
+Annotated. Liability for negligence of the agency for bodily injury and property damage is limited
+to $300,000 per person and $1,000,000 per occurrence. The limits of liability under workers'
+compensation are set forth in, Section 50-6-101 et seq, Tennessee Code Annotated. Claims are paid
+through the state's Risk Management Fund. At June 30, 2024, the Risk Management Fund held
+$241 million in cash designated for payment of claims.
+Employee Group Insurance Fund
+The state has also set aside assets in the Employee Group Insurance Fund, an internal service fund,
+to provide a program of health insurance coverage for the employees of the state with the risk
+retained by the state. The agency participates in the Employee Group Insurance Fund. The fund
+allocates the cost of providing claims servicing and claims payment by charging a premium to the
+agency based on estimates of the ultimate cost of claims, including the cost of claims that have
+been reported but not settled and of claims that have been incurred but not reported. Employees
+and providers have 13 months to file medical claims.
+Notes to the Financial Statements (Continued)
+Note 8. Other-Postemployment Benefits OPEB
+Closed State Employee Group OPEB Plan
+General information about the OPEB plan
+Plan description - Employees of the Tennessee Housing Development Agency, who were hired
+prior to July 1, 2015 and choose coverage, are provided with pre-65 retiree health insurance
+benefits through the closed State Employee Group OPEB Plan (EGOP) administered by the
+Tennessee Department of Finance and Administration. This plan is considered to be a single-
+employer defined benefit plan that is used to provide postemployment benefits other than pensions
+(OPEB). This plan is closed to the employees of all participating employers that were hired on or
+after July 1, 2015. The employers participating in this plan includes the primary government, the
+Tennessee Student Assistance Corporation, the Tennessee Housing Development Agency, the
+University of Tennessee and the institutions that make up the State University and Community
+College System. The State of Tennessee Postemployment Benefits Trust (OPEB Trust) was
+established to accumulate resources to pay for the retiree benefits of EGOP participants. The OPEB
+Trust prepares a stand-alone financial report that can be found at https://www.tn.gov/finance/rd-
+doa/opeb22121.html.
+Benefits provided - The EGOP is offered to provide health insurance coverage to eligible retired
+and disabled participants and is the only postemployment benefit provided to eligible pre-65
+participants. Benefits are established and amended by an insurance committee created by Title 8,
+Chapter 27, Part 201, Tennessee Code Annotated (TCA). All retirees and disabled employees of
+the primary government and certain component units, who are eligible and choose coverage, and
+who have not yet reached the age of 65 are enrolled in this plan. All members have the option of
+choosing between the premier preferred provider organization (PPO) plan, standard preferred
+provider organization (PPO) plan or the wellness health savings consumer-driven health plan
+(CDHP) for healthcare benefits. Retired plan members receive the same plan benefits, as active
+employees, at a blended premium rate that considers the cost of active and retired employees. This
+creates an implicit subsidy for the retirees. The retirees cost is then directly subsidized, by the
+employers, based on years of service. Therefore, retirees with 30 years of service are subsidized
+80%; 20 but less than 30 years, 70%; and less than 20 years, 60%.
+Contributions - Annually, an insurance committee, created in accordance with Title 8, Chapter 27,
+Part 201, Tennessee Code Annotated establishes the required contributions to the plan by member
+employees through the premiums established to approximate claims cost for the year. Pre-age 65
+retired members of the EGOP pay a premium based on a blended rate that considers the cost of
+active and retired employees as well as their individual years of service. Therefore, retirees pay
+either 20%, 30%, 40%, or 100% of the appropriate premium rate. These payments are deposited
+into the OPEB Trust. Employers contribute to the OPEB Trust based on an actuarially determined
+contribution (ADC) rate calculated in a manner to meet the funding goals of the state. The total
+ADC rate for plan employers for the fiscal year ended June 30, 2024 was $109.5 million. The
+Tennessee Housing Development Agency share of the ADC was $241 thousand. During the fiscal
+year the Tennessee Housing Development Agency contributed $118 thousand to the OPEB Trust.
+Notes to the Financial Statements (Continued)
+The state general assembly has the authority to change the contribution requirements for the
+employers participating in the EGOP. The primary government made payments on behalf of
+Tennessee Housing Development Agency in the amount of $883 thousand.
+Net OPEB Liability
+Proportionate share - The Tennessee Housing Development Agency's proportion and
+proportionate share of the collective net OPEB liability, related to the EGOP, is 0.165910% and
+$662.0 thousand, respectively. The proportion existing at the prior measurement date was
+0.158027%. This represents a change in proportion of 0.007883% between the current and prior
+measurements dates. Tennessee Housing Development Agency's proportion of the collective net
+OPEB liability was based on a projection of its long-term share of contributions to the OPEB plan
+relative to the projected share of contributions of all participating employers, actuarially
+determined. The collective total OPEB liability was determined by an actuarial valuation with a
+valuation date of June 30, 2023, and measurement date of June 30, 2023.
+Actuarial assumptions - The collective total OPEB liability in the June 30, 2023, actuarial
+valuation was determined using the following actuarial assumptions, applied to all periods
+included in the measurement, unless otherwise specified:
+Inflation 2.25%
+Salary increases Graded salary ranges from 3.44% to 8.72% based
+on age, including inflation, averaging 4%
+Healthcare cost trend rates 10.31% for 2024, decreasing annually to an
+ultimate rate of 4.5% for 2035 and later years
+Retiree's share of benefit-related
+costs
+Members are required to make monthly
+contributions in order to maintain their coverage.
+For the purpose of this valuation a weighted
+average has been used with weights derived from
+the current distribution of members among plans
+offered.
+Unless noted otherwise, the actuarial demographic assumptions used in the June 30, 2023,
+valuations were the same as those employed in the July 1, 2022, Pension Actuarial Valuation of
+the Tennessee Consolidated Retirement System (TCRS) for Group I employees. These
+assumptions were developed by TCRS based on the results of an actuarial experience study for the
+period July 1, 2016, through June 30, 2020. The demographic assumptions were adjusted to more
+closely reflect actual and expected future experience. Mortality tables are used to measure the
+Notes to the Financial Statements (Continued)
+probabilities of participants dying before and after retirement. The mortality rates employed in
+this valuation are taken from the PUB-2010 Headcount-Weighted Employee mortality table for
+General Employees for non-disabled pre-retirement mortality, with mortality improvement
+projected generationally with MP-2021 from the central year. Post-retirement tables are
+Headcount-Weighted Below Median Healthy Annuitant and adjusted with a 6% load for males
+and a 14% load for females, projected generationally from 2010 with MP-2021. Mortality rates
+for impaired lives are the same as those used by TCRS and are taken from a gender distinct table
+published in the IRS Ruling 96-7 for disabled lives with a 10% load, projected generationally from
+2018 with MP-2021.
+Long-term Expected Rate of Return- The long-term expected rate of return of 6% on OPEB plan
+investments was determined using a building block method in which best-estimate ranges of
+expected future real rates of return (expected returns, net of OPEB plan investment expense and
+inflation) are developed for each major class. These ranges are combined to produce the long-
+term expected rate of return by weighting the expected future real rates of return by the target asset
+allocation percentage and by adding expected inflation. Title 8, Chapter 27, Part 802, Tennessee
+Code Annotated, establishes the responsibility of the trustees to adopt written investment policies
+authorizing how assets in the OPEB Trust may be invested and reinvested by the State Treasurer.
+The treasurer may invest trust assets in any security or investment in which the Tennessee
+Consolidated Retirement System (TCRS) is permitted to invest, provided that investments by the
+OPEB Trust shall be governed by the investment policies and guidelines adopted by the trustees.
+Any changes to the investment policy will be the responsibility of the established trustees. The
+OPEB Trust investment policy target asset allocation and allocation range for each major asset
+class is summarized in the following table:
+Allocation Range
+Asset Class Minimum Maximum Target Allocation
+Equities 25% 80% 53%
+Fixed income and short-term securities 20% 50% 25%
+Real estate 0% 20% 10%
+Private equity and strategic lending 0% 20% 7%
+Cash and cash equivalents 0% 25% 5%
+100%
+The best estimates of geometric real rates of return for each major asset class included in the OPEB
+Trust target asset allocation are summarized in the following table:
+Notes to the Financial Statements (Continued)
+Asset Class
+Long-term
+Expected Real
+Rate of Return
+U.S. equity 4.65%
+Developed market international equity 4.55%
+Emerging market international equity 4.94%
+Cash (government) 1.32%
+Private equity and strategic lending 5.43%
+U.S. fixed income 2.59%
+Real estate 4.16%
+Discount rate - The discount rate used to measure the total OPEB liability was 6.00%. This was
+the same rate used at the prior measurement date. The projection of cash flows used to determine
+the discount rate assumed plan member contributions will be made at the current contribution rate
+and that employer contributions will be made at rates equal to the actuarially determined
+contribution rates. For this purpose, only member contributions that are intended to fund benefits
+of current plan members and their beneficiaries are included. Projected employer contributions
+that are intended to fund the service costs of future plan members and their beneficiaries, as well
+as projected contributions from future plan members, are not included. Based on these
+assumptions, the OPEB Trust fiduciary net position was projected to be available to make all
+projected future benefit payments for current plan members. Therefore, the long-term expected
+rate of return on OPEB Trust investments was applied to all periods of projected benefit payments
+to determine the total OPEB liability.
+Changes in assumptions - The mortality scale was updated from MP2020 to MP2021. This change
+increased the liability by .05%. The medical and drug trend rate assumptions were updated to
+reflect more recent experience and a change in expected per capita health claims to reflect more
+recent information as of the measurement date. These changes decreased the liability by 8.2%.
+Sensitivity of the proportionate share of the collective net OPEB liability to changes in the
+discount rate - The following presents Tennessee Housing Development Agency's proportionate
+share of the collective net OPEB liability of the EGOP, as well as what the proportionate share of
+the collective net OPEB liability would be if it were calculated using a discount rate that is 1-
+percentage-point lower (5%) or 1-percentage-point higher (7%) than the current discount rate
+(expressed in thousands).
+1% Decrease
+(5.00%)
+Discount Rate
+(6.00%)
+1% Increase
+(7.00%)
+Tennessee Housing Development Agency's
+Proportionate share of the collective net
+OPEB liability $ 742 $ 662 $ 428
+Notes to the Financial Statements (Continued)
+Sensitivity of the proportionate share of the collective net OPEB liability to changes in the
+healthcare cost trend rate - The following presents Tennessee Housing Development Agency's
+proportionate share of the collective net OPEB liability of the EGOP, as well as what the
+proportionate share of the collective net OPEB liability would be if it were calculated using a
+healthcare cost trend rate that is 1-percentage-point lower (9.31% decreasing to 3.5%) or 1-
+percentage-point higher (11.31% decreasing to 5.50%) than the current healthcare cost trend rate
+(expressed in thousands).
+1% Decrease
+(9.31% decreasing
+to 3.50%)
+Healthcare Cost
+Trend Rates
+(10.31%
+decreasing to
+4.50%)
+1% Increase
+(11.31%
+decreasing to
+5.50%)
+Tennessee Housing Development Agency's Proportionate
+share of the collective net OPEB liability $ 368 $ 662 $ 823
+OPEB Expense - For the fiscal year ended June 30, 2024, the Tennessee Housing Development
+Agency recognized negative OPEB expense of $357 thousand.
+Deferred outflows of resources and deferred inflows of resources - For the fiscal year ended June,
+30, 2024, Tennessee Housing Development Agency reported deferred outflows of resources and
+deferred inflows of resources related to OPEB paid by the EGOP from the following sources
+(expressed in thousands):
+Deferred
+Outflows
+of
+Resources
+Deferred
+Inflows of
+Resources
+Differences between actual and expected experience $ - $ 85
+Changes of assumptions 170 176
+Net difference between actual and
+projected investment earnings 21 -
+Changes in proportion and differences between
+benefits paid and proportionate share of benefits paid. - 1,124
+Contributions subsequent to the measurement
+date 119
+Total $ 310 $ 1,385
+The amounts shown above for "contributions subsequent to the measurement date" will be
+recognized as a reduction to the collective net OPEB liability in the following measurement period.
+Notes to the Financial Statements (Continued)
+Amounts reported as deferred outflows of resources and deferred inflows of resources related to
+OPEB paid by the EGOP will be recognized in OPEB expense as follows (expressed in thousands):
+For the year ended June 30:
+2025 (466)
+2026 (452)
+2027 ( 140)
+2028 (108)
+2029 (28)
+Thereafter -
+In the tables above, positive amounts will increase OPEB expense while negative amounts will
+decrease OPEB expense.
+Closed Tennessee OPEB Plan
+General information about the OPEB plan
+Plan description - Employees of the Tennessee Housing Development Agency, who were hired
+prior to July 1, 2015 and choose coverage, are provided with post-65 retiree health insurance
+benefits through the Closed Tennessee OPEB Plan (TNP) administered by the Tennessee
+Department of Finance and Administration. This plan is considered to be a multiple-employer
+defined benefit plan that is used to provide postemployment benefits other than pensions (OPEB).
+However, for accounting purposes, this plan will be treated as a single-employer plan. This plan
+is closed to the employees of all participating employers that were hired on or after July 1, 2015.
+The State of Tennessee (primary government) as well as the Tennessee Student Assistance
+Corporation, the Tennessee Housing Development Agency, the University of Tennessee, and the
+other institutions that make up the State University and Community College System also
+participates in this plan. This plan also serves eligible post-65 retirees of employers who
+participate in the state administered Teacher Group Insurance and Local Government Group
+Insurance Plans.
+Benefits provided - The TNP is offered to help fill most of the coverage gaps created by Medicare
+and is the only postemployment benefit provided to eligible post-65 retired and disabled employees
+of participating employers. This plan does not include pharmacy. In accordance with Title 8,
+Chapter 27, Part 209, Tennessee Code Annotated, benefits are established and amended by
+cooperation of insurance committees created by Title 8, Chapter 27, Parts 201, 301, and 701,
+Notes to the Financial Statements (Continued)
+Tennessee Code Annotated. Retirees and disabled employees of the state, component units, local
+education agencies, and certain local governments who have reached the age of 65, are Medicare
+eligible and also receive a benefit from the Tennessee Consolidated Retirement System may
+participate in this plan. All plan members receive the same plan benefits at the same premium
+rates. Many retirees receive direct subsidies toward their premium cost, however, participating
+employers determine their own policy in this regard. The primary government contributes to the
+premiums of component unit retirees based on years of service. Therefore, retirees with 30 years
+of service receive $50 per month; 20 but less than 30 years, $37.50; and 15 but less than 20 years,
+$25. Tennessee Housing Development Agency does not provide any subsidies for retirees in the
+TNP. The primary government paid $13,900 for OPEB as the benefits came due during the
+reporting period. This plan is funded on a pay-as-you-go basis and there are no assets accumulating
+in a trust that meets the criteria of paragraph 4 of GASB Statement No. 75.
+In accordance with Title 8, Chapter 27, Part 209, Tennessee Code Annotated, the state insurance
+committees established by Title 8, Chapter 27, Parts 201, 301, and 70, Tennessee Code Annotated,
+determine the required payments to the plan by member employers and employees. Claims
+liabilities of the plan are periodically computed using actuarial and statistical techniques to
+establish premium rates. Administrative costs are allocated to plan participants. Employers
+contribute towards employee costs based on their own developed policies.
+Total OPEB Liability and OPEB Expense
+Proportionate share - The primary government is entirely responsible for the Closed TN OPEB
+Plan liability associated with the Tennessee Housing Development Agency's employees. The
+primary government's proportion and proportionate share of the total OPEB liability associated
+with the Tennessee Housing Development Agency was $309 thousand. At the June 30, 2023,
+measurement date, the proportion of the collective total OPEB liability associated with the
+Tennessee Housing Development Agency was 0.1979%. This represents a change of 0.0125%
+from the prior proportion of 0.1854%. The Tennessee Housing Development Agency's proportion
+of the collective total OPEB liability was based on a projection of the long-term share of
+contributions to the OPEB plan relative to the projected share of contributions of all participating
+employers, actuarially determined. The collective total OPEB liability was determined by an
+actuarial valuation with a valuation date of June 30, 2023, and a measurement date of June 30,
+2023.
+Actuarial assumptions - The total OPEB liability in the June 30, 2023, actuarial valuation was
+determined using the following actuarial assumptions and other inputs, applied to all periods
+included in the measurement, unless otherwise specified:
+Inflation 2.25%
+Salary increases Graded salary ranges from 3.44% to 8.72% based
+on age, including inflation, averaging 4%
+Notes to the Financial Statements (Continued)
+Healthcare cost trend rates The premium subsidies provided to retirees in the
+Closed Tennessee OPEB Plan are assumed to
+remain unchanged for the entire projection;
+therefore trend rates are not applicable.
+Unless noted otherwise, the actuarial demographic assumptions used in the June 30, 2023,
+valuations were the same as those employed in the July 1, 2022, pension actuarial valuation of the
+Tennessee Consolidated Retirement System (TCRS) for Group I employees. These assumptions
+were developed by TCRS based on the results of an actuarial experience study for the period July
+1, 2016, through June 30, 2020. The demographic assumptions were adjusted to more closely
+reflect actual and expected future experience. Mortality tables are used to measure the
+probabilities of participants dying before and after retirement. The mortality rates employed in
+this valuation are taken from the PUB-2010 Headcount-Weighted Employee mortality table for
+General Employees for non-disabled pre-retirement mortality, with mortality improvement
+projected generationally with MP-2021 from 2010. Post-retirement tables are Headcount-
+Weighted Below Median Healthy Annuitant and adjusted with a 6% load for males and a 14%
+load for females, projected generationally from 2010 with MP-2021. Mortality rates for impaired
+lives are the same as those used by TCRS and are taken from a gender distinct table published in
+the IRS Ruling 96-7 for disabled lives with a 10% load, projected generationally from 2018 with
+MP-2021.
+Discount rate - The discount rate used to measure the total OPEB liability was 3.65%. This rate
+reflects the interest rate derived from yields on 20-year, tax-exempt general obligation municipal
+bonds, prevailing on the measurement date, with an average rating of AA/Aa as shown on the
+Bond Buyer 20-Year Municipal GO AA index. This is a change of .11% from the prior year
+discount rate of 3.54%.
+Changes in assumptions - The discount rate was changed from 3.54% as of the beginning of the
+measurement period to 3.65% as of June 30, 2023. This change in assumption decreased the total
+OPEB liability by 1.21%. The mortality scale was updated from MP2020 to MP2021. This
+increased the total OPEB liability by .35%. The medical and drug trend rate assumptions are
+updated to reflect more recent experience as of the measurement date. This has zero impact on the
+liability for state and component unit employees due to the flat rate subsidy offered to retirees.
+Sensitivity of proportionate share of the collective total OPEB liability to changes in the discount
+rate - The following presents the primary government's proportionate share of the Tennessee
+Housing Development Agency's related collective total OPEB liability, as well as what the
+proportionate share of the collective total OPEB liability would be if it were calculated using a
+discount rate that is 1-percentage-point lower (2.65%) or 1-percentage-point higher (4.65%) than
+the current discount rate. The Tennessee Housing Development Agency does not report a
+proportionate share of the OPEB liability for the employees in the TNP (expressed in thousands).
+1% Decrease
+(2.65%)
+Discount Rate
+(3.65%)
+1% Increase
+(4.65%)
+Notes to the Financial Statements (Continued)
+Tennessee Housing Development Agency's
+Proportionate share of the collective net
+OPEB liability $ 351 $ 309 $ 273
+OPEB expense - For the fiscal year ended June 30, 2024, the primary government recognized
+OPEB expense of $5 thousand for employees of the Tennessee Housing Development Agency
+participating in the TNP.
+Total OPEB Expense - The total negative OPEB expense for the year ended June 30, 2024 was
+negative $352 thousand, which consisted of negative OPEB expense of $357 thousand for the
+EGOP and $5 thousand paid by the primary government for the TNP.
+Note 9. On-Behalf Payments
+During the year ended June 30, 2024, the State of Tennessee made payments of $13,900 on behalf
+of THDA for retirees participating in the Closed Tennessee OPEB Plan and payments of $883,138
+on behalf of THDA for retirees participating in the Closed State Employee Group OPEB Plan. The
+Closed Tennessee OPEB Plan is a postemployment benefit healthcare plan and is discussed further
+in Note 8. The plan is reported in the Tennessee Annual Comprehensive Financial Report.
+Note 10. Payments to Primary Government
+From time to time, the State of Tennessee has called upon the agency and its resources, together
+with resources of other departments, agencies, and organizations in state government, to provide
+funds to the State General Fund to balance the state budget. The following is a description of these
+occurrences in relationship to the agency. On June 30, 1995, $15,000,000 from the agency's
+Housing Program Reserve Fund was transferred to the State General Fund. On June 30, 1998,
+$43,000,000 was transferred from the agency to the State General Fund. The $43,000,000
+transferred from the agency came from the following resources of the agency: (i) $15,459,157
+from tax revenues previously directed to the Housing Program Fund; (ii) $5,028,761 from the
+Housing Program Reserve Fund; and (iii) $22,512,082 from the Assets Fund. On June 30, 2002,
+a transfer from the agency to the primary government in the amount of $35,367,449 was made
+from the Assets Fund for the sole purpose of meeting the requirements of funding the operations
+of the primary government for the year ended June 30, 2002.
+Note 11. Change in Estimate
+In fiscal year 2024, a change in the estimated amount of uncollectible second mortgages occurred
+due to new information obtained via historical analysis performed during the fiscal year.
+The analysis determined, that 2.69% of the amortizable outstanding second mortgage balance and
+5.21% of the forgivable outstanding second mortgage balance were a more appropriate estimate
+of the uncollectible balance.
+Notes to the Financial Statements (Continued)
+The outstanding loan balances at June 30, 2024 were $63.935 million for amortizable second
+mortgages and $61.523 million for forgivable second mortgages. After application of the
+respective percentages, a new allowance balance of $4.925 million was calculated.
+This change in allowance is reflected in the Changes due to uncollectible debt allowances revenue
+line on the Statement of Revenues, Expenses, and Changes in Net Position.
+.
+Note 12. Subsequent Events
+Residential Finance Program Bonds, Issue 2024-3, were authorized by the Board of Directors on
+July 23, 2024 not to exceed $350,000,000. The sale of the bonds will occur no later than December
+31,2024.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share of the Net Pension Liability
+Closed State and Higher Education Employee Retirement Plan Within TCRS
+THDA's
+Proportion of
+the Net
+Pension
+Liability
+(Asset)
+THDA's
+Proportionate
+Share of the
+Net Pension
+Liability
+(Asset)
+THDA's
+Covered
+Payroll
+Proportionate
+Share of the Net
+Pension
+Liability(Asset) as
+a Percentage of
+Covered Payroll
+Plan Fiduciary
+Net Position as a
+Percentage of the
+Total Pension
+Liability
+2024 0.418332% $4,618 $8,687 53.16% 94.48%
+2023 0.423141% 5,041 8,826 57.12% 93.80%
+2022
+2021
+2020
+0.419379%
+0.434725%
+0.445278%
+(2,566)
+7,122
+6,288
+8,852
+9,623
+10,040
+28.99%
+74.01%
+62.63%
+103.30%
+90.58%
+91.67%
+2019 0.433148% 6,997 10,024 69.80% 90.26%
+2018 0.427994% 7,659 10,268 74.60% 88.88%
+2017 0.419391% 7,652 10,240 74.73% 87.96%
+2016 0.421046% 5,429 10,994 49.38% 91.26%
+2015 0.429581% 2,964 11,601 25.55% 95.11%
+*To correspond with the measurement date, the amounts presented were determined as of June 30 of the
+prior fiscal year.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share of the Net Pension Asset
+State and Higher Education Employee Retirement Plan Within TCRS
+(Expressed in Thousands)
+THDA's
+Proportion of
+the Net
+Pension
+Asset
+THDA's
+Proportionate
+Share of the
+Net Pension
+Asset
+THDA's
+Covered
+Payroll
+Proportionate
+Share of the Net
+Pension Asset as a
+Percentage of
+Covered Payroll
+Plan Fiduciary
+Net Position as a
+Percentage of the
+Total Pension
+Liability
+2024 0.627143% $45 $11,479 0.39% 101.03%
+2023 0.671072% 167 9,790 1.71% 104.81%
+2022
+2021
+2020
+0.671032%
+0.653018%
+0.628303%
+569
+230
+261
+8,496
+7,475
+5,893
+6.70%
+3.08%
+4.43%
+121.71%
+112.90%
+122.36%
+2019 0.198493% 77 4,410 1.75% 132.39%
+2018 0.170803% 35 3,068 1.14% 131.51%
+2017 0.391715% 33 1,661 1.99% 130.56%
+2016 0.451710% 13 498 2.61% 142.55%
+*To correspond with the measurement date, the amounts presented were determined as of June 30
+of the prior fiscal year.
+This is a 10-year schedule. However, the information in this schedule is not required to be
+presented retroactively. Years will be added to this schedule in future fiscal years until 10 years
+of information is available.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share of the Net Pension Liability
+Closed State and Higher Education Employee Retirement Plan Within TCRS
+THDA's
+Contractually
+Determined
+Contributions
+THDA's
+Contributions
+in Relation to
+Contractually
+Determined
+Contribution
+Contribution
+Deficiency
+(Excess)
+THDA's
+Covered
+Payroll
+Contributions
+as a Percentage
+of THDA's
+Covered
+Payroll
+2024 $1,959 $3,192 ($1,233) $8,922 35.77%
+2023 1,898 3,351 (1,453) 8,687 38.57%
+2022
+2021
+1,809
+1,791
+2,867
+1,791
+(1,058)
+-
+8,826
+8,852
+32.49%
+20.23%
+2020 1,892 1,892 - 9,623 19.66%
+2019 1,931 1,931 - 10,040 19.23%
+2018 1,891 1,891 - 10,024 18.87%
+2017 1,542 1,542 - 10,268 15.02%
+2016 1,539 1,539 - 10,240 15.03%
+2015 1,652 1,652 - 10,994 15.03%
+Notes to Schedule:
+Changes of assumptions: In 2021, the following assumptions were changed: decreased inflation
+rate from 2.50% to 2.25%; decreased the investment rate of return from 7.25% to 6.75%; decreased
+the cost-of-living adjustment from 2.25% to 2.125%; and modified mortality assumptions. In
+2017, the following assumptions were changed: decreased inflation rate from 3.00 percent to 2.50
+percent; decreased the investment rate of return from 7.50 percent to 7.25 percent; decreased the
+cost-of-living adjustment from 2.50 percent to 2.25 percent; and decreased salary growth graded
+ranges from an average of 4.25 percent to an average of 4.00 percent; and modified mortality
+assumptions.
+Additional contributions were made to the plan by the State of Tennessee on behalf of the
+Tennessee Housing Development Agency for the years ended June 30, 2022, 2023, and 2024.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share of the Net Pension Asset
+State and Higher Education Employee Pension Plan Within TCRS
+(Expressed in Thousands)
+THDA's
+Contractually
+Determined
+Contributions
+THDA's
+Contributions in
+Relation to
+Contractually
+Determined
+Contribution
+Contribution
+Deficiency
+(Excess)
+THDA's
+Covered
+Payroll
+Contributions
+as a Percentage
+of THDA's
+Covered
+Payroll
+2024 $383 $383 - $14,899 2.57%
+2023 283 283 - 11,479 2.47%
+2022
+2021
+2020
+182
+153
+129
+182
+153
+129
+-
+-
+-
+9,790
+8,496
+7,475
+1.86%
+1.80%
+1.73%
+2019 98 98 - 5,893 1.66%
+2018 57 57 - 4,410 1.29%
+2017 35 35 - 3,068 1.14%
+2016 47 47 - 1,661 2.83%
+2015 19 19 - 498 3.82%
+Notes to Schedule:
+Changes of assumptions: In 2021, the following assumptions were changed: decreased inflation
+rate from 2.50% to 2.25%; decreased the investment rate of return from 7.25% to 6.75%; decreased
+the cost-of-living adjustment from 2.25% to 2.125%; and modified mortality assumptions. In 2017,
+the following assumptions were changed: decreased inflation rate from 3.00 percent to 2.50
+percent; decreased the investment rate of return from 7.50 percent to 7.25 percent; decreased the
+cost-of-living adjustment from 2.50% to 2.25%; and decreased salary growth graded ranges from
+an average of 4.25% to an average of 4.00%; and modified mortality assumptions.
+To correspond with the reporting date, the amounts presented were determined as of June 30 of
+the stated fiscal year.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share
+of the Collective Total/Net OPEB Liability
+Closed State Employee Group OPEB Plan
+(Expressed in Thousands)
+Employer
+proportion of
+the collective
+total/net
+OPEB
+liability
+Employer
+proportionate
+share of the
+collective
+total/net
+OPEB
+liability
+Covered-
+employee
+payroll
+Employer
+proportionate
+share of the
+collective total/net
+OPEB liability as a
+percentage of
+covered-employee
+payroll
+OPEB plan
+fiduciary net
+position as a
+percentage of the
+total OPEB
+liability
+2024 0.0165901% $662 $8,603 7.69% 68.40%
+2023 0.158027% 1,119 8,782 12.74% 39.00%
+2022
+2021
+0.166138%
+0.165926%
+1,185
+1,389
+9,229
+9,903
+12.84%
+14.03%
+39.00%
+25.20%
+2020 0.173646% 1,653 8,999 18.37% 18.00%
+2019 0.241928% 3,351 9,720 34.47% -
+2018 0.266480% 3,578 10,046 35.62% -
+Notes to the Schedule
+During fiscal year 2019, the EGOP transitioned from a pay-as-you-go OPEB plan to a prefunding arrangement
+where assets are accumulated in a qualifying trust and benefits are paid from that trust. The transition resulted in a
+significant increase to the discount rate from 3.6 percent to 6.0 percent. This change would be reflected in the June
+30, 2020 reporting period due to the one year lookback on OPEB measurement.
+The amounts reported for each fiscal year were determined as of the prior fiscal year-end.
+This schedule is intended to display ten years of information. Additional years will be displayed as they become
+available.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of THDA's Proportionate Share
+of Collective Total OPEB Liability
+Closed Tennessee OPEB Plan
+(Expressed in Thousands)
+Employer
+proportion of
+the collective
+total OPEB
+liability
+Primary government
+proportionate share
+of the collective total
+OPEB liability
+related to THDA
+Collective total
+OPEB liability
+Covered-employee
+payroll
+2024 0.00% $309 $309 9,440
+2023 0.00% 279 279 9,625
+2022
+2021
+0.00%
+0.00%
+352
+436
+352
+436
+10,020
+10,457
+2020 0.00% 345 345 9,529
+2019 0.00% 311 311 10,005
+2018 0.00% 339 339 10,046
+Notes to the Schedule
+There are no assets accumulating in a trust that meets the criteria in paragraph 4 of GASB Statement No. 75, related
+to this OPEB plan.
+The amounts reported for each fiscal year were determined as of the prior fiscal year-end.
+This schedule is intended to display ten years of information. Additional years will be displayed as they become
+available.
+Change of assumptions: in 2023, the discount rate changed from 2.16% to 3.54%.
+In 2024, the discount rate changed to 3.65%.
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+Required Supplementary Information
+Schedule of Contributions to the
+Closed State Employee Group OPEB Plan
+(Expressed in Thousands)
+Actuarially
+determined
+contribution
+Contributions in
+relation to the
+actuarially
+determined
+contribution
+Contribution
+Deficiency
+(Excess)
+Covered-
+employee
+payroll
+Contributions
+as a percentage
+of covered-
+employee
+payroll
+2024 $241 $118 $123 $8,210 1.37%
+2023 250 127 123 8,690 1.46%
+2022
+2021
+290
+362
+130
+139
+160
+223
+8,782
+9,229
+1.48%
+1.51%
+2020 415 142 273 9,903 1.43%
+2019 373 209 164 8,999 2.32%
+Notes to the Schedule
+Valuation Date: Actuarially determined contribution rates are determined based on valuations as of June 30 two
+years prior to the fiscal year in which the contributions are reported.
+This schedule is intended to display 10 years of information. Additional years will be displayed as they become
+available.
+Exhibit A
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+SUPPLEMENTARY INFORMATION
+(Expressed in Thousands)
+Housing Residential
+Mortgage Finance Finance
+Operating Finance Program Program
+Group Program Bonds Bonds Totals
+ASSETS
+Current assets:
+Cash and cash equivalents $ 147,920 $ 19,612 $ 1,719 $ 435,831 $ 605,082
+Investments - 5,847 650 290,165 296,662
+Receivables:
+Accounts 8,020 956 28 8,791 17,795
+Interest 37 - 218 16,544 16,799
+Loans held for resale 6,902 - - - 6,902
+First and second mortgage loans - 2,628 1,732 78,190 82,550
+Due from federal government 55,300 - - 55,300
+Due from other state funds 768 - - - 768
+Due from other funds - - - 31,716 31,716
+Total current assets 218,947 29,043 4,347 861,237 1,113,574
+Noncurrent assets:
+Restricted assets:
+Cash and cash equivalents 31,868 - 430 5,576 37,874
+Investments - - 5,646 117,713 123,359
+Investment Interest receivable - - 17 420 437
+Investments - 213 - 174,674 174,887
+First mortgage loans receivable 8 51,896 40,016 2,993,998 3,085,918
+Allowance for non-performing 1st mortgage loans - (17) - (226) (243)
+Second mortgage loans receivable - - - 123,574 123,574
+Allowance for uncollectable second mortgages - - - (4,925) (4,925)
+Unamortized service release premium of
+in house mortgages 4,285 - - 22,916 27,201
+Unearned service release premium 1,704 - - - 1,704
+Advance to local government 3,146 - - - 3,146
+Net pension asset 45 - - - 45
+Capital assets:
+Furniture and equipment 15,672 - - - 15,672
+Less accumulated depreciation (11,077) - - - (11,077)
+Total noncurrent assets 45,651 52,092 46,109 3,433,720 3,577,572
+Total assets 264,598 81,135 50,456 4,294,957 4,691,146
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred amount on refundings - - - 24 24
+Deferred outflows related to pensions 5,963 - - - 5,963
+Deferred outflows related to OPEB 310 - - - 310
+Deferred outflows related to defeased bonds - - - 885 885
+Total deferred outflows of resources 6,273 - - 909 7,182
+LIABILITIES
+Current liabilities:
+Accounts payable 54,524 11 1 145 54,681
+Accrued payroll and related liabilities 1,146 - - - 1,146
+Compensated absences 1,470 - - - 1,470
+Due to primary government 94 - - - 94
+Interest payable 22 - 576 63,032 63,630
+Escrow deposits 18,601 - - - 18,601
+Prepayments on mortgage loans 6 - 28 2,075 2,109
+Line of credit payable 6,817 - - - 6,817
+Due to other funds 31,716 - - - 31,716
+Bonds payable - - 2,175 118,840 121,015
+Total current liabilities 114,396 11 2,780 184,092 301,279
+Noncurrent liabilities:
+Bonds payable - - 31,821 3,572,307 3,604,128
+Compensated absences 1,609 - - - 1,609
+Net pension liability 4,618 - - - 4,618
+Total OPEB liability 662 - - - 662
+Escrow deposits 16,370 48 - 5 16,423
+Arbitrage rebate payable - - - 597 597
+Unearned revenue 118,807 1,450 - 12,339 132,596
+Total noncurrent liabilities 142,066 1,498 31,821 3,585,248 3,760,633
+Total liabilities 256,462 1,509 34,601 3,769,340 4,061,912
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflows related to pensions 146 - - - 146
+Deferred inflows related to OPEB 1,385 - - - 1,385
+Total deferred inflows of resources 1,531 - - - 1,531
+NET POSITION
+Investment in capital assets 4,595 - - - 4,595
+Restricted for single family bond programs - 16,714 15,855 526,526 559,095
+Restricted for grant programs 19,215 - - 19,215
+Restricted for Homebuyers Revolving Loan Program 3,153 - - - 3,153
+Restricted for net pension asset 45 - - - 45
+Unrestricted 5,085 43,697 - - 48,782
+Total net position $ 12,878 $ 79,626 $ 15,855 $ 526,526 $ 634,885
+SUPPLEMENTARY SCHEDULE OF NET POSITION
+JUNE 30, 2024
+Exhibit B
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+SUPPLEMENTARY INFORMATION
+SUPPLEMENTARY SCHEDULE OF REVENUES, EXPENSES, AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2024
+(Expressed in Thousands)
+Housing Residential
+Mortgage Finance Finance
+Operating Finance Program Program
+Group Program Bonds Bonds Totals
+OPERATING REVENUES
+Mortgage interest income $ 493 $ 179 $ 2,043 $ 134,964 $ 137,679
+Investment income:
+Interest 1,703 690 113 17,692 20,198
+Net increase (decrease) in the fair value
+of investments - 302 350 16,667 17,319
+Federal grant administration fees 22,582 - - - 22,582
+Fees and other income 18,504 458 3 6 18,971
+Changes due to uncollectible debt allowances - - - 37,043 37,043
+Total operating revenues 43,282 1,629 - 2,509 206,372 253,792
+OPERATING EXPENSES
+Salaries and benefits 33,491 - - - 33,491
+Contractual services 16,657 - - 1 16,658
+Materials and supplies 2,325 - - - 2,325
+Rentals and insurance 40 - - - 40
+Other administrative expenses 830 - - - 830
+Other program expenses 10,404 - - - 10,404
+Interest expense 294 - 1,049 107,409 108,752
+Issuance costs - - - 7,820 7,820
+Amortization: service release premium 61 - - - 61
+Depreciation 1,902 - - - 1,902
+Total operating expenses 66,004 - 1,049 115,230 182,283
+Operating income (loss) (22,722) 1,629 1,460 91,142 71,509
+NONOPERATING REVENUES (EXPENSES)
+Federal grants revenue 501,127 - - - 501,127
+Payment from primary government 897 - - - 897
+Federal grants expenses (501,033) - - - (501,033)
+Local grants expenses (9,045) - - - (9,045)
+Total nonoperating revenues (expenses) (8,054) - - - (8,054)
+Income (loss) before transfers (30,776) 1,629 1,460 91,142 63,455
+Transfers (to) other funds - (4,291) (723) (1,555) (6,569)
+Transfers from other funds 6,569 - - - 6,569
+Change in net position (24,207) (2,662) 737 89,587 63,455
+Total net position, July 1 37,085 82,288 15,118 436,939 571,430
+Total net position, June 30 $ 12,878 $ 79,626 $ 15,855 $ 526,526 $ 634,885
+Exhibit C
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+SUPPLEMENTARY INFORMATION
+SUPPLEMENTARY SCHEDULE OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2024
+(Expressed in Thousands)
+Housing Residential
+Mortgage Finance Finance
+Operating Finance Program Program
+Group Program Bonds Bonds Totals
+Cash flows from operating activities:
+Receipts from customers $ - $ 5,707 $ 7,349 $ 421,405 $ 434,461
+Receipts from federal government 22,430 - - - 22,430
+Receipts from other funds - - - 3,719 3,719
+Other miscellaneous receipts 20,383 458 3 37,049 57,893
+Acquisition of mortgage loans - (8,822) - (726,046) (734,868)
+Payments to suppliers (18,996) (2) - (3,385) (22,383)
+Payments to other funds (3,719) - - - (3,719)
+Payments to or for employees (33,809) - - - (33,809)
+Net cash provided (used) by operating activities (13,711) (2,659) 7,352 (267,258) (276,276)
+Cash flows from non-capital financing activities:
+Operating grants received 503,890 - - - 503,890
+Receipts from primary government 897 - - - 897
+Transfers in (out) 6,569 (4,291) (723) (1,555) -
+Proceeds from sale of bonds - - - 1,138,941 1,138,941
+Operating grants paid (507,024) - - - (507,024)
+Cost of issuance paid - - - (7,820) (7,820)
+Principal payments - - (6,035) (217,800) (223,835)
+Interest paid (272) - (1,334) (97,223) (98,829)
+Net cash provided (used) by non-capital financing activities 4,060 (4,291) (8,092) 814,543 806,220
+Cash flows from capital and related financing activities:
+Purchases of capital assets (1,122) - - - (1,122)
+Net cash used for capital and related financing activities (1,122) - - - (1,122)
+Cash flows from investing activities:
+Proceeds from sales and maturities of investments - 3,100 5,280 256,454 264,834
+Purchases of investments - (6,858) (3,435) (573,695) (583,988)
+Investment interest received 1,702 692 110 16,899 19,403
+Increase in fair value of investments subject to fair value -
+reporting and classified as cash equivalents - 197 35 7,678 7,910
+Net cash provided (used) by investing activities 1,702 (2,869) 1,990 (292,664) (291,841)
+Net decrease in cash and cash equivalents (9,071) (9,819) 1,250 254,621 236,981
+Cash and cash equivalents, July 1 188,859 29,431 899 186,786 405,975
+Cash and cash equivalents, June 30 $ 179,788 $ 19,612 $ 2,149 $ 441,407 $ 642,956
+(continued)
+Exhibit C
+TENNESSEE HOUSING DEVELOPMENT AGENCY
+SUPPLEMENTARY INFORMATION
+FOR THE YEAR ENDED JUNE 30, 2024
+(Expressed in Thousands)
+Housing Residential
+Mortgage Finance Finance
+Operating Finance Program Program
+Group Program Bonds Bonds Totals
+Reconciliation of operating income (loss) to
+net cash provided (used) by operating activities:
+Operating income (loss) $ (22,722) $ 1,629 $ 1,460 $ 91,142 $ 71,509
+Adjustments to reconcile operating income (loss) to
+net cash provided (used) by operating activities:
+Depreciation 1,902 - - - 1,902
+Changes in assets, liabilities, and deferrals:
+Accounts receivable 3,750 (827) 55 1,066 4,044
+Mortgage interest receivable (37) - 37 (3,737) (3,737)
+Other receivables 1,878 - - (4,545) (2,667)
+Unearned service release premium (985) - - - (985)
+Pension asset 122 - - - 122
+Deferred pension outflows 342 - - - 342
+Deferred OPEB outflows (61) - - - (61)
+Loans held for resale (6,902) 4,660 - - (2,242)
+Mortgage loans receivable (3) (5,495) 5,212 (440,330) (440,616)
+Due from federal government (152) - - - (152)
+Interfund receivables - - - 3,719 3,719
+Interfund payables (3,719) - - - (3,719)
+Accounts payable 19,262 (2) 2 637 19,899
+Accrued payroll / compensated absences 1,111 - - - 1,111
+Due to primary government (7) - - - (7)
+Unearned revenue (11,666) (1,632) - 3,397 (9,901)
+Line of credit payable 6,817 - - - 6,817
+Arbitrage rebate liability - - - 523 523
+Pension liability (423) - - - (423)
+OPEB liability (457) - - - (457)
+Deferred pension inflows (395) - - - (395)
+Deferred OPEB inflows 42 - - - 42
+Investment income included as operating revenue (1,702) (992) (463) (34,359) (37,516)
+Interest expense included as operating expense 294 - 1,049 107,409 108,752
+Issuance cost included as operating expense - - - 7,820 7,820
+Total adjustments 9,011 (4,288) 5,892 (358,400) (347,785)
+Net cash provided (used) by operating activities $ (13,711) $ (2,659) $ 7,352 $ (267,258) $ (276,276)
+Noncash investing, capital, and financing activities:
+Decrease in fair value of investments $ - $ 55 $ 116 $ 3,510 $ 3,681
+Total noncash investing, capital, and financing activities $ - $ 55 $ 116 $ 3,510 $ 3,681
+SUPPLEMENTARY SCHEDULE OF CASH FLOWS (cont.)
+

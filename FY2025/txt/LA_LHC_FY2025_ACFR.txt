@@ -1,0 +1,3140 @@
+REPORT
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+JUNE 30, 2025
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+INDEX TO REPORT
+JUNE 30, 2025
+PAGE
+INDEPENDENT AUDITOR'S REPORT ....................................................................................... 1 - 4
+MANAGEMENT’S DISCUSSION AND ANALYSIS ................................................................. 5 - 9
+FINANCIAL STATEMENTS:
+Statement of Net Position ............................................................................................................. 10 - 11
+Statement of Revenues, Expenses, and Changes in Net Position ............................................... 12 - 13
+Statement of Cash Flows .............................................................................................................. 14 - 15
+Notes to Financial Statements ...................................................................................................... 16 - 54
+REQUIRED SUPPLEMENTARY INFORMATION:
+Schedule of the Corporation’s Proportionate Share of the Collective Total OPEB Liability ... 55
+Schedule of the Corporation’s Proportionate Share of the Net Pension Liability ...................... 56
+Schedule of the Corporation’s Pension Contributions ................................................................ 57
+Notes to Required Supplementary Information ........................................................................... 58 - 63
+OTHER SUPPLEMENTARY INFORMATION:
+Schedule of Per Diem Paid to Board Members ........................................................................... 64
+Combining Statement of Net Position .......................................................................................... 65 - 66
+Combining Statement Revenue, Expenses and Changes in Net Position .................................. 67 - 68
+Combining Statement of Cash Flows .......................................................................................... 69 - 71
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+INDEX TO REPORT
+JUNE 30, 2025
+PAGE
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL OVER
+FINANCIAL REPORTING AND ON COMPLIANCE AND OTHER MATTERS
+BASED ON AN AUDIT OF FINANCIAL STATEMENTS PERFORMED IN
+ACCORDANCE WITH GOVERNMENT AUDITING STANDARDS ...................................... 72 - 73
+SCHEDULE OF FINDINGS ........................................................................................................... 74 - 75
+SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS .......................................................... 76
+ANNUAL FISCAL REPORT .......................................................................................................... Appendix A
+INDEPENDENT AUDITOR'S REPORT
+October 21, 2025
+To the Board of Directors
+Louisiana Housing Corporation
+Baton Rouge, Louisiana
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the accompanying financial statements of the Louisiana
+Housing Corporation, a component unit of the State of Louisiana, as of and for
+the year ended June 30, 2025, and the related notes to the financial statements,
+which collectively comprise the Corporation’s financial statements as listed in the
+index to the report.
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the respective financial position of the Louisiana Housing
+Corporation as of June 30, 2025, and the respective changes in financial position
+and cash flows for the year then ended in accordance with accounting principles
+generally accepted in the United States of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally
+accepted in the United States of America and the standards applicable to financial
+audits contained in Government Auditing Standards, issued by the Comptroller
+General of the United States. Our responsibilities under those standards are further
+described in the Auditor’s Responsibilities for the Audit of the Financial
+Statements section of our report. We are required to be independent of the
+Louisiana Housing Corporation and to meet our other ethical responsibilities, in
+accordance with the relevant ethical requirements relating to our audit. We believe
+that the audit evidence we have obtained is sufficient and appropriate to provide
+a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements
+in accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about the Louisiana
+Housing Corporation’s ability to continue as a going concern for twelve months beyond the financial
+statement date, including any currently known information that may raise substantial doubt shortly
+thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute assurance
+and therefore is not a guarantee that an audit conducted in accordance with generally accepted auditing
+standards and Government Auditing Standards will always detect a material misstatement when it exists.
+The risk of not detecting a material misstatement resulting from fraud is higher than for one resulting
+from error, as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the
+override of internal control. Misstatements are considered material if there is a substantial likelihood
+that, individually or in the aggregate, they would influence the judgment made by a reasonable user
+based on the financial statements.
+In performing an audit in accordance with generally accepted auditing standards and Government
+Auditing Standards, we:
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether due
+to fraud or error, and design and perform audit procedures responsive to those risks. Such
+procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Louisiana Housing Corporation’s internal control.
+Accordingly, no such opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Louisiana Housing Corporation’s ability to
+continue as a going concern for a reasonable period of time.
+2
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal control-
+related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management’s discussion and analysis and other required supplementary information, as listed in the
+index to the report, be presented to supplement the financial statements. Such information is the
+responsibility of management and, although not a part of the financial statements, is required by the
+Governmental Accounting Standards Board who considers it to be an essential part of financial reporting
+for placing the financial statements in an appropriate operational, economic, or historical context. We
+have applied certain limited procedures to the required supplementary information in accordance with
+auditing standards generally accepted in the United States of America, which consisted of inquiries of
+management about the methods of preparing the information and comparing the information for
+consistency with management’s responses to our inquiries, the financial statements, and other knowledge
+we obtained during our audit of the financial statements. We do not express an opinion or provide any
+assurance on the information because the limited procedures do not provide us with sufficient evidence
+to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Louisiana Housing Corporation’s financial statements. The other
+supplementary information as listed in the index to the report is presented for purposes of additional
+analysis and is not a required part of the financial statements. The accompanying Annual Fiscal Report
+is presented for purposes of additional analysis and is not a required part of the financial statements, but
+is information required by Louisiana’s Office of Statewide Reporting and Accounting Policy. Such
+information is the responsibility of management and were derived from and relate directly to the
+underlying accounting and other records used to prepare the financial statements. The other
+supplementary information and the Annual Financial Report have been subjected to the auditing
+procedures applied in the audit of the financial statements and certain additional procedures, including
+comparing and reconciling such information directly to the underlying accounting and other records used
+to prepare the financial statements or to the financial statements themselves, and other additional
+procedures in accordance with auditing standards generally accepted in the United States of America.
+In our opinion, the other supplementary information and the Annual Financial Report are fairly stated,
+in all material respects, in relation to the financial statements as a whole.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+October 21, 2025, on our consideration of the Louisiana Housing Corporation’s internal control over
+financial reporting and on our tests of its compliance with certain provisions of laws, regulations,
+contracts, and grant agreements and other matters. The purpose of that report is solely to describe the
+scope of our testing of internal control over financial reporting and compliance and the results of that
+testing, and not to provide an opinion on the effectiveness of the Louisiana Housing Corporation’s
+3
+internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the Louisiana Housing
+Corporation’s internal control over financial reporting and compliance.
+Metairie, Louisiana
+4
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2025
+Management’s Discussion and Analysis of the Louisiana Housing Corporation’s (the Corporation)
+financial performance presents a narrative overview and analysis of the Corporation’s financial activities
+for the year ended June 30, 2025. This document focuses on the Corporation’s current year activities,
+resulting changes, and currently known facts in comparison with the prior year’s information. Please read
+this document in conjunction with the Corporation’s financial statements.
+FINANCIAL HIGHLIGHTS
+ Assets and deferred outflows of resources exceeded liabilities and deferred inflows of resources at
+the close of fiscal year 2025 by $821,730,212, which represents an 32% increase from last fiscal
+year.
+ Total revenues increased by $177,486,662, or 47%, primarily due to an increase in federal grants
+drawn.
+ Total expenses increased by $33,394,817, or 10%, primarily due to an increase in the provision for
+loan losses.
+OVERVIEW OF THE FINANCIAL STATEMENTS
+The Corporation’s financial statements present information for the Corporation as a whole, in a format
+designed to make the statements easier for the reader to understand. The Corporation’s financial
+statements comprise three components 1) Management’s Discussion and Analysis, 2) Financial
+Statements (including the notes to the financial statements), and 3) Required Supplementary Information.
+This report also contains other supplementary information in addition to the financial statements
+themselves.
+Financial Statements
+The Corporation’s financial statements include the Statement of Net Position, the Statement of Revenues,
+Expenses, and Changes in Net Position and the Statement of Cash Flows.
+The Statement of Net Position presents information on all the Corporation’s assets and deferred outflows
+of resources and liabilities and deferred inflows of resources with the difference between them presented
+as net position. Over time, increases or decreases in net position may provide a useful indicator of whether
+the financial position of the Corporation is improving or deteriorating.
+The Statement of Revenues, Expenses, and Changes in Net Position presents information showing how
+the Corporation’s net position changed as a result of current year operations. Regardless of when cash is
+affected, all changes in net position are reported as either revenues or expenses when the underlying
+transactions occur. As a result, there are transactions included that will not affect cash until future fiscal
+periods.
+5
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2025
+OVERVIEW OF THE FINANCIAL STATEMENTS (Continued)
+Basic Financial Statements (Continued)
+The Statement of Cash Flows presents information showing how the Corporation’s cash changed as a
+result of current year operations. The cash flow statement is prepared using the direct method and includes
+the reconciliation of operating income (loss) to net cash provided (used) by operating activities (indirect
+method) as required by GASB Statement No. 34.
+The Notes to the Financial Statements provide additional information that is essential to a full
+understanding of the data provided in the basic financial statements.
+FINANCIAL ANALYSIS OF THE ENTITY
+Condensed Statements of Net Position:
+(in thousands)
+2025 2024
+Current and other assets $ 41,787 $ 36,093
+Restricted assets 1,449,777 1,133,029
+Capital assets 53,474 56,327
+Total assets 1,545,038 1,225,448
+Deferred outflows of resources 5,790 6,225
+Total assets and deferred outflows
+of resources $ 1,550,828 $ 1,231,673
+Current liabilities $ 23,057 $ 19,148
+Long-term liabilities 697,044 582,096
+Total liabilities 720,101 601,244
+Deferred inflows of resources 8,997 7,213
+Net position:
+Net investment in capital assets 53,474 56,327
+Restricted 774,625 580,155
+Unrestricted (6,369) (13,267)
+Total net position 821,730 623,216
+Total liabilities, deferred inflows of
+resources and net position $ 1,550,828 $ 1,231,673
+6
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2025
+FINANCIAL ANALYSIS OF THE ENTITY (Continued)
+Amounts invested in capital assets represent the carrying amount of property and equipment less
+depreciation. Restricted net positions represent those assets that are not available for spending as a result
+of legal constraints, donor agreements, and grant requirements. Unrestricted net positions represent
+unrestricted assets, net of obligations, to support the general operations and investments of the
+Corporation.
+Net position increased by $198,514,194 or 32%, from June 30, 2024 to June 30, 2025. This increase in
+net position can be primarily attributed to an increase in federal grants drawn.
+Condensed Statements of Revenues, Expenses, and Changes in Net Position:
+(in thousands)
+2025 2024
+Operating revenues $ 64,855 $ 45,820
+Operating expenses 54,314 49,791
+Operating income (loss) 10,541 (3,971)
+Non-operating revenues 187,973 58,393
+Income before transfers 198,514 54,422
+Transfers from MRB Program - (296)
+Increase in net position $ 198,514 $ 54,126
+Total revenues before transfers decreased by $2,699,996, or 1%, primarily as a result of a decrease in
+federal grants drawn. Total expenses decreased by $2,530,306, or 1%, primarily as a result of a decrease
+in the grant disbursements.
+CAPITAL ASSET AND DEBT ADMINISTRATION
+Capital Assets
+At the end of fiscal 2025, the Louisiana Housing Corporation had $62 million invested in a broad range
+of capital assets, including two facilities located in Baton Rouge, two apartment complexes in New
+Orleans, and an apartment complex in Baton Rouge. (See Table below). This amount represents a net
+decrease (including additions and deductions) of $3,316,045, or a 5% decrease compared to the prior
+year.
+7
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2025
+CAPITAL ASSET AND DEBT ADMINISTRATION (Continued)
+Capital Assets (Continued)
+Capital Assets at Year-end
+(in thousands)
+2025 2024
+Land $ 1,022 $ 1,022
+Land improvements (net of accumulated depreciation) 28 31
+Building (net of accumulated depreciation) 59,952 63,033
+Equipment (net of accumulated depreciation) 561 794
+Total $ 61,563 $ 64,880
+Changes in capital assets for the years ended June 30, 2025 and 2024 include:
+2025 2024
+Acquisitions and replacements $ 132 $ 395
+Depreciation (net of disposals) ( 3,310) (3,286)
+Disposals ( 139) ( 3)
+Debt Administration
+The Corporation had $671 million in bonds outstanding at year-end, compared to $550 million at the end
+of last fiscal year, an increase of $121 million, or a 22% increase, as shown in the table below. This
+increase was primarily due to the issuance of new mortgage revenue bonds in the current year.
+2025 2024
+Mortgage Revenue Bonds 671,238 549,539
+The Corporation’s Single Family Mortgage Revenue Bonds carry an AA+.
+The Corporation has accounts payable and accrued liabilities of $9,016,689 outstanding at June 30, 2025
+compared with $5,999,021 at June 30, 2024. Other obligations include accrued vacation pay and sick
+leave, deferred revenue, and other postemployment benefits payable.
+8
+LOUISIANA HOUSING CORPORATION
+FINANCIAL STATEMENTS
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+AS OF AND FOR THE YEAR ENDED JUNE 30, 2025
+ECONOMIC FACTORS AND NEXT YEAR’S BUDGET
+The Corporation’s appointed officials considered the following factors and indicators when setting next
+year’s budget, rates, and fees. These factors and indicators include:
+• Several programs have closed which resulted in an expected reduction in administrative fees
+The Corporation expects that next year’s results will be more conservative based on the reductions in
+programs and administrative fees.
+CONTACTING THE LOUISIANA HOUSING CORPORATION’S MANAGEMENT
+This financial report is designed to provide Louisiana’s citizens and taxpayers, as well as the
+Corporation’s customers, investors, and creditors with a general overview of the Louisiana Housing
+Corporation’s finances and to show the Corporation’s accountability for the funds it receives. If there are
+questions about this report, or if additional financial information is desired, contact the Finance
+Department, 2415 Quail Drive, Baton Rouge, LA 70808.
+9
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF NET POSITION
+JUNE 30, 2025
+ASSETS:
+Unrestricted Assets:
+Cash and cash equivalents $ 7,397,823
+Cash and cash equivalents - Work Force Initiative 3,179,999
+Investments 203,028
+Investments - Work Force Initiative 988,670
+Mortgage loans receivable 369,762
+Accrued investment interest receivable 51,662
+Other receivables 23,524,691
+Due from other governments 5,610,949
+Capital assets (net of accumulated depreciation
+of $42,192,642) 53,473,945
+Other assets 460,624
+Total Unrestricted Assets 95,261,153
+Restricted Assets:
+Cash and cash equivalents 85,675,170
+Investments 5,322,949
+Mortgage loans and mortgage-backed securities
+Single Family (net of allowance for loan losses
+of $1,611,529) 674,160,523
+Multifamily (net of allowance for loan losses
+of $161,035,104) 586,411,486
+Accrued loan interest receivable 90,117,178
+Capital assets (net of accumulated depreciation
+of $6,237,446) 8,089,819
+Total Restricted Assets 1,449,777,125
+Total Assets 1,545,038,278
+DEFERRED OUTFLOWS OF RESOURCES:
+Deferred outflows of resources related to pensions 3,712,695
+Deferred outflows of resources related to OPEB 2,077,482
+Total Deferred Outflows of Resources 5,790,177
+TOTAL ASSETS AND DEFERRED OUTFLOWS
+OF RESOURCES $ 1,550,828,455
+(Continued)
+10
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF NET POSITION
+JUNE 30, 2025
+LIABILITIES:
+Current Liabilities:
+Accounts payable and accrued liabilities $ 6,543,220
+Accrued interest payable 2,473,469
+Bonds payable due within one year 12,738,562
+Due to other governments 1,000,000
+Compensated absences due within one year 69,168
+Other postemployment benefits payable due within one year 232,704
+Total Current Liabilities 23,057,123
+Non-Current Liabilities:
+Compensated absences 2,372,577
+Net pension liability 23,789,275
+Other postemployment benefits payable 11,408,186
+Amounts held in escrow 973,922
+Bonds payable 658,499,765
+Total Non-Current Liabilities 697,043,725
+Total Liabilities 720,100,848
+DEFERRED INFLOWS OF RESOURCES:
+Deferred inflows of resources related to debt refinancing 232,853
+Deferred inflows of resources related to unearned income 3,717,332
+Deferred inflows of resources related to pensions 2,966,961
+Deferred inflows of resources related to OPEB 2,080,249
+Total Deferred Inflows of Resources 8,997,395
+NET POSITION:
+Net investment in capital assets 53,473,945
+Restricted 774,624,836
+Unrestricted (6,368,569)
+Total Net Position 821,730,212
+TOTAL LIABILITIES, DEFERRED INFLOWS
+OF RESOURCES, AND NET POSITION $ 1,550,828,455
+See accompanying notes.
+11
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+OPERATING REVENUES:
+MRB program issuer fees $ 2,169,222
+Low income housing tax credit program fees 3,035,280
+Federal program administrative fees 9,026,522
+Federal project delivery fees 7,257,081
+State project delivery fees 122,316
+Mortgage loan interest income 18,432
+Investment interest and dividend income 34,771,571
+Gain (loss) on investments/mortgage-backed securities 7,917,492
+Single family turnkey program fees 147,839
+Other income 389,277
+Total Operating Revenue 64,855,032
+OPERATING EXPENSES:
+Personnel services 14,657,729
+Supplies 888,460
+Travel 253,010
+Operating services 1,749,929
+Professional services 6,152,911
+Interest expense 26,331,816
+General and administrative 3,855,619
+Depreciation 424,046
+Total Operating Expenses 54,313,520
+Operating income 10,541,512
+NON-OPERATING REVENUES (EXPENSES):
+Grant funds drawn 481,033,665
+Grant funds disbursed ( 256,210,452)
+Net loss from rental property (1,346,112)
+Net loss from rental property - restricted ( 573,232)
+Provision for loan losses (41,730,264)
+Restricted mortgage loan interest income 6,146,073
+Restricted investment income 21,741
+Restricted unrealized gain 419,646
+Legislative acts pension contribution income 131,768
+Investment income - Work Force Initiative 61,499
+Unrealized gain (loss) - Work Force Initiative 18,350
+Total Non-Operating Revenues (Expenses) 187,972,682
+Change in Net Position 198,514,194
+(Continued)
+12
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+NET POSITION - Beginning of year, as previously reported 571,543,455
+Restatement due to change in accounting principle (715,336)
+Restatement due to error correction 15,397,688
+Restatement due to change in reporting entity 36,990,211
+NET POSITION - Beginning of year, as restated 623,216,018
+NET POSITION - End of year $ 821,730,212
+See accompanying notes.
+13
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Cash received from:
+Fee revenue collected $ 21,747,217
+Investment and mortgage loan income 3 3,980,569
+Mortgage collections and mortgage-backed securities redeemed 2 5,532,497
+Other 7 7,597
+Cash paid to:
+Suppliers of service (12,953,587)
+Mortgage loans issued and mortgage-backed securities purchased (188,595,764)
+Interest paid on bonds (27,322,798)
+Employees and benefit providers (16,077,523)
+Other (14,414)
+Net cash used in operating activities (163,626,206)
+CASH FLOWS FROM NONCAPITAL
+FINANCING ACTIVITIES:
+Net transfers from (to) MRB programs (6,594,927)
+Receipt of grants 480,972,545
+Disbursement of grants (254,357,320)
+Mortgage collections 8 88,435
+Mortgage purchases (228,611,106)
+Other non-operating income 1 ,493,253
+Issuance of bonds 151,857,613
+Repayment of bonds (28,625,710)
+Net change in escrow accounts (29,611)
+Net cash provided by noncapital financing activities 116,993,172
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Investments purchased (20,442,753)
+Investments redeemed 27,110,908
+Interest payments received 83,241
+Net change in activity of investment in rental properties 989,001
+Net cash provided by investing activities 7,740,397
+CASH FLOWS USED IN CAPITAL FINANCING ACTIVITIES:
+Purchase of property and equipment (131,888)
+Loss on sale of property and equipment 138,544
+Net cash provided by capital financing activities 6,656
+(Continued)
+14
+LOUISIANA HOUSING CORPORATION
+STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+NET DECREASE IN CASH AND
+CASH EQUIVALENTS $ ( 38,885,981)
+CASH AND CASH EQUIVALENTS, beginning of year 135,138,975
+CASH AND CASH EQUIVALENTS, end of year $ 96,252,994
+Presented on Statement of Net Position as
+Unrestricted $ 10,577,822
+Restricted 85,675,170
+$ 96,252,992
+RECONCILIATION OF OPERATING LOSS TO NET CASH
+PROVIDED BY (USED IN) OPERATING ACTIVITIES:
+Operating Income $ 10,541,512
+Adjustments to reconcile operating loss to net
+cash provided by (used in) operating activities:
+Depreciation 424,046
+Amortization of bond discount (premium) (1,533,055)
+Amortization of debt refunding 11,364
+(Gain) loss on investments/mortgage-backed securities 7,670,280
+Change in mortgage loans receivable 721,246
+Change in other receivables 12,853
+Change in due from governments (349,990)
+Change in other assets 288,772
+Change in mortgage loans and mortgage-backed securities (179,372,286)
+Change in accrued interest receivable ( 809,436)
+Change in accounts payable and accrued liabilities (366,179)
+Change in accrued interest payable 530,708
+Change in compensated absences payable (236,899)
+Change in net pension liability (5,207,157)
+Change in pension deferred inflows/outflows 3,988,404
+Change in OPEB payable 1,778,792
+Change in OPEB deferred inflows/outflows (1,719,181)
+Net cash used in operating activities $ (163,626,206)
+See accompanying notes.
+15
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+ORGANIZATION OF THE CORPORATION:
+Louisiana Housing Corporation (the Corporation or LHC) is an instrumentality of the State of
+Louisiana established July 1, 2011 pursuant to Chapter 3-G of Title 40 of the Louisiana Revised Statutes
+of 1950, as amended. The enabling legislation grants the Corporation the authority to promulgate rules,
+regulations, or other procedures for the coordination of all state-administered housing programs.
+Programs implemented by the Corporation consist of Mortgage Revenue Bond Programs, the
+Low-Income Housing Tax Credit Program, the Louisiana Housing Trust Fund Program, the
+Neighborhood Stabilization Program, and various federal award programs including the Low-Income
+Housing Energy Assistance Program, the Weatherization Assistance Program, HOME Investment
+Partnerships, Housing Choice Vouchers Program, Emergency Solutions Grant Program, Continuum of
+Care Program, Section 811 Program, Comprehensive Housing Counseling Program, and Section 8
+Contract Administration.
+For the furtherance of public purposes, the Corporation is authorized to issue mortgage revenue
+bonds in order to provide funds to promote the development of adequate and affordable residential
+housing and other economic development for the benefit of the State. The powers of the Corporation
+are vested in a Board of Directors which is empowered to contract with outside parties to conduct the
+operations of programs it initiates. The Corporation issues bonds under the single family program and
+multi family program. For the Mortgage Revenue Bond Programs it initiates, the Corporation utilizes
+mortgage lenders to originate and service mortgage and construction loans acquired under its Mortgage
+Revenue Bond Programs. The Corporation also utilizes various financial institutions to serve as trustees
+for each of its programs. The trustees administer the assets of the Mortgage Revenue Bond Programs
+held under trusts pursuant to the trust indentures. The single family program mortgage revenue bonds
+are limited obligations of the Corporation and do not constitute a debt, liability, or moral obligation of
+the state or any political subdivision thereof. The multi family program mortgage revenue bonds are
+issued as conduit debt or asset backed financing and are payable solely from income, revenues, and
+receipts derived from the mortgage loans and other investments held under and pursuant to the trust
+indentures and therefore pledged. The Corporation receives service and issuer fees in connection with
+its Mortgage Revenue Bond Programs.
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+Basis of Presentation:
+The financial statements have been prepared in conformity with accounting principles
+generally accepted in the United States of America (GAAP) as applied to governmental units. The
+Governmental Accounting Standards Board (GASB) is the accepted standard-setting body for
+establishing governmental accounting and financial reporting principles.
+Reporting Entity:
+The Corporation’s financial statements include the activity of the General Fund and the
+Single Family Mortgage Revenue Bond Program.
+16
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (Continued)
+Reporting Entity: Continued)
+As required by GASB Codification Section 2100, Defining the Financial Reporting
+Entity, a legally separate entity is considered a component unit of the State of Louisiana (the State)
+if at least one of the following criteria is met:
+ The State appoints a voting majority of the organization’s governing body and is
+either able to impose its will on the organization or there is a potential financial
+benefit/ burden to the State.
+ The entity is fiscally dependent on the State and there is a potential financial benefit/
+burden to the State.
+ The nature and significance of the relationship between the State and the entity is
+such that exclusion would cause the financial statements of the State to be misleading.
+Due to the nature and significance of the relationship between the Corporation’s General
+Fund and the State of Louisiana, the financial statements of the State would be misleading if the
+accompanying financial statements were excluded. Accordingly, the State of Louisiana has
+determined that the Corporation is a component unit.
+Annually, the State of Louisiana issues basic financial statements which include the
+activity contained in the accompanying financial statements. The basic financial statements are
+issued by the Louisiana Division of Administration - Office of Statewide Reporting and
+Accounting Policy and are audited by the Louisiana Legislative Auditor.
+Basis of Accounting:
+The Corporation’s accounts are organized as funds, which include accounts of the assets,
+deferred outflows, liabilities, deferred inflows, net position, revenues, and expenses of the
+General Fund and the Single Family Mortgage Revenue Bonds Program (Single Family
+Program). The Single Family Program accounts for proceeds from bonds issued, the debt service
+requirements of the bonds and the related program investments, as required by the various bond
+resolutions established under the various trust indentures of the program.
+The Corporation uses the accrual method of accounting. The Corporation’s Funds have
+been presented on a combined basis, as the Corporation is considered a single enterprise fund for
+financial reporting purposes. Current assets include cash and amounts convertible into cash during
+the next normal operating cycle or one year. Current liabilities include those obligations to be
+liquidated with current assets. All inter-fund balances and transactions have been eliminated in
+the accompanying financial statements.
+17
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (Continued)
+Investments:
+As required by GASB 72, Fair Value and Measurement Application, investments are
+reported at fair value. Fair value is described as an exit price. GASB 72 requires the Corporation
+to use valuation techniques that are appropriate under the circumstances and for which sufficient
+data are available to measure fair value. Valuation techniques maximize the use of relevant
+observable inputs and minimize the use of unobservable inputs. GASB 72 also establishes a
+hierarchy of inputs to valuation techniques used to measure fair value which has three levels.
+Level 1 inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities.
+Level 2 inputs are inputs, other than quoted prices, included within Level 1 that are observable
+for the asset or liability, whether directly or indirectly. Level 3 inputs are unobservable inputs,
+such as management’s assumptions of the default rate among underlying mortgages of a
+mortgage-backed security. This statement requires disclosures to be made about fair value
+measurements, the level of fair value hierarchy, and valuation techniques.
+Program Mortgage Loans and Mortgage-Backed Securities:
+Certain loans of the Mortgage Revenue Bond Program Fund programs have been pooled
+and packaged into mortgage-backed securities which were then purchased by the funds. The
+mortgage-backed securities consist of Government National Mortgage Association (GNMA)
+certificates, Federal National Mortgage Association (FNMA) certificates, Federal Home Loan
+Bank (FHLB) certificates, and Federal Home Loan Mortgage Corporation (FHLMC) certificates.
+The certificates are carried at fair market value.
+Allowance for Loan Losses:
+The allowance is maintained at a level adequate to absorb probable losses. Management
+determines the adequacy of the allowance based upon reviews of groups of credits, loss
+experience of similar type loans, current and future estimated economic conditions, the risk
+characteristics of the various categories of loans, and other pertinent factors. Loans deemed
+uncollectible are charged to the allowance. Past due status is based on contractual terms.
+Provisions for loan losses and recoveries on loans previously charged off are added to the
+allowance.
+Capital Assets:
+Capital assets are stated at cost less accumulated depreciation. All property and equipment
+with initial, individual costs of greater than $5,000 is capitalized. Depreciation is computed on
+the straight-line method over the following estimated useful lives:
+Buildings 40 years
+Equipment 3–7 years
+18
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (Continued)
+Deferred Outflows and Inflows of Resources:
+In addition to assets, the Statement of Net Position reports a separate section for deferred
+outflows of resources that represents a consumption of net position that applies to future period(s)
+and will not be recognized as an outflow of resources (expense) until then. The Corporation has
+two items that qualify for reporting in this category, which are deferred amounts related to
+pensions and deferred amounts related to other postemployment benefits.
+In addition to liabilities, the Statement of Net Position reports a separate section for
+deferred inflows of resources that represents an acquisition of net position that applies to future
+period(s) and will not be recognized as an inflow of resources (revenue) until that time. The
+Corporation has three items that meet the criterion for this category: deferred amounts related to
+unearned income, deferred amounts related to pensions, and deferred amounts related to other
+postemployment benefits.
+Pensions:
+For the purposes of measuring net pension liability, deferred outflows of resources and
+deferred inflows of resources related to pensions, pension expense, information about the
+fiduciary net position of the Louisiana State Employees’ Retirement System (LASERS) and
+changes in LASERS’s fiduciary net position have been determined on the same basis as they are
+reported by LASERS. For this purpose, benefits payments (including refunds of employee
+contributions) are recognized when due and payable in accordance with the benefit terms.
+Investments are reported at fair value.
+Bond Issuance Costs:
+Bond issuance costs, including underwriters’ discounts on bonds sold, are expensed in the
+period incurred.
+Debt Refundings:
+Debt refundings are accounted for in accordance with GASB Statement No. 65, Items
+Previously Reported as Assets and Liabilities. This statement requires accounting for gains and
+losses that result from debt refundings to be deferred and amortized over the life of the new debt
+or the retired debt, whichever is the shorter period. The deferred refunding amounts are classified
+as either a deferred inflow or outflow of resources in the financial statements.
+Interfund Activity:
+During the course of operations, numerous transactions occur between the General Fund
+and the Mortgage Revenue Bond Program Funds. Receivables and payables are classified as
+“due from MRB programs” or “due to other funds.” Interfund transfers are classified as
+“transfers from MRB programs” or “transfers to General Fund.” Interfund receivables and
+19
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (Continued)
+Interfund Activity: Continued)
+payables and interfund transfers between the General Fund and the Mortgage Revenue Bond
+Program Funds are eliminated in the Statement of Net Position.
+Revenues and Expenses:
+Operating revenues consist of program administration fees, project delivery fees, bond
+issuer fees, and unrestricted investment income as these revenues are generated from operations
+and used in carrying out the Corporation’s statutory purpose. All expenses incurred for that
+purpose are classified as operating expenses. Federal grant pass-through revenues and expenses,
+provision for loan losses on program loans, restricted investment income and income from rental
+properties are ancillary to the Corporation’s statutory purpose and are classified as non-operating.
+When an item of income earned or expense incurred for purposes for which there are both
+restricted and unrestricted net positions available, it is the Corporation’s policy to apply those
+items to both restricted and unrestricted net positions, in accordance with the appropriate
+proportion as delineated by the activity creating the item.
+Compensated Absences:
+Employees earn and accumulate annual, sick, compensatory and retirement leave at
+various rates depending on their years of service. The amount of annual and sick leave that may
+be accumulated and used through time off by each employee is unlimited; however, payment of
+annual leave at termination or retirement is limited to 780 hours.
+Upon termination, employees or their heirs are compensated for up to 300 hours of unused
+annual leave at the employee’s hourly rate of pay at the time of termination. Upon retirement,
+unused annual leave in excess of 300 hours plus unused sick leave is used to compute retirement
+benefits.
+Statement of Cash Flows:
+For purposes of the Statement of Cash Flows, cash and cash equivalents include cash on
+hand, financial institution deposits, and all highly-liquid investments with an original maturity of
+three months or less.
+Net Position:
+In the Statement of Net Position, the difference between the Corporation’s assets, deferred
+outflows and liabilities and deferred inflows is recorded as net position. The three components of net
+position are as follows:
+20
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES: (Continued)
+Net Position: (Continued)
+Net investment in capital assets – The category records capital assets net of accumulated
+depreciation and reduced by any outstanding balances of mortgages, notes, or other
+borrowings attributable to the acquisition, construction or improvement of capital assets.
+Restricted net position – Net positions that are restricted by external sources such as creditors,
+grantors, contributors, or by law are reported separately as restricted net position.
+Unrestricted net position – Consists of net positions that do not meet the definition of
+“restricted” or “net investment in capital assets.”
+New Accounting Standard:
+Effective July 1, 2024, the District implemented GASB Statement No. 100, Accounting
+Changes and Error Corrections. This standard establishes accounting and reporting requirements
+for changes in accounting principles, changes in accounting estimates, changes to or within the
+financial reporting entity, and corrections of errors. A detailed description of the changes
+affecting the District’s financial statements is provided in Note 13, "Beginning Net Position
+(Deficit) Restatement.
+In June 2022, the Governmental Accounting Standards Board (GASB) issued Statement
+No. 101 Compensated Absences, effective for years beginning after December 15, 2023. The
+objective of this Statement is to better meet the information needs of financial statement users by
+updating the recognition and measurement guidance for compensated absences. The statement
+requires that liabilities for compensated absences be recognized for (1) leave that has not been
+used and (2) leave that has been used but not yet paid in cash or settled through noncash means.
+Additionally, the statement requires that a liability for certain types of compensated absences not
+be recognized until the leave commences or is used. The statement also establishes guidance for
+measuring a liability for leave that has not been used, generally using an employee’s pay rate as
+of the date of the financial statements and for certain salary-related payments that are directly
+and incrementally associated with payments for leave which should be included in the
+measurement of the liabilities.
+In December 2023, the GASB issued Statement No. 102 Certain Risk Disclosures,
+effective for years beginning after June 15, 2024. The Statement aims to provide users of the
+government financial statements with essential information regarding risks associated with
+concentrations (lack of diversity in significant inflows or outflows of resources) and constraints
+(limitations imposed by external parties or by the government’s decision-making authority) that
+may affect a government’s financial condition. Governments must disclose concentrations or
+constraints if (1) facts are known prior to the issuance of the financial statements; (2) it makes
+the reporting unit vulnerable to a substantial impact; and (3) a triggering event has occurred,
+begun to occur, or is more likely than not to begin within twelve months of the financial statement
+issuance date.
+that there are no material leasing arrangements which qualify for
+21
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+2. ESTIMATES:
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates and
+assumptions that affect the reported amounts of assets and deferred outflows of resources and
+liabilities and deferred inflows of resources and disclosure of contingent assets and liabilities at
+the date of the financial statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+3. CASH, CASH EQUIVALENTS, AND INVESTMENTS:
+Cash and cash equivalents are stated at cost, which approximates market value. Under
+state law, the Corporation may deposit funds within a fiscal agent bank authorized to conduct
+business in the State of Louisiana. The Corporation may purchase time certificates of deposit of
+any bank domiciled or having a branch office in the State of Louisiana. The Corporation may also
+invest in savings accounts or shares of savings and loan associations and savings banks and in
+share accounts and share certificate accounts of federally or state-chartered credit unions.
+Under Louisiana Revised Statutes, the Corporation may invest in obligations of the U.S.
+Treasury, obligations of U.S. Agencies which are guaranteed by the U.S. government or U.S.
+government agencies, repurchase agreements, certificates of deposit as mentioned above,
+investment grade commercial paper, investment grade corporate notes and bonds, and other
+investments as required by the terms of bond trust indentures.
+Cash and Cash Equivalents:
+Cash and cash equivalents (book balances) as of June 30, 2025 are as follows:
+Unrestricted: Rating
+Demand deposits $ 2,773,149 N/A
+Money market funds 7,804,673 AAA
+Total unrestricted $ 10,577,822
+Restricted:
+Demand deposits $ 17,014,287 N/A
+Money market funds 68,660,883 AAA
+Total restricted $ 85,675,170
+The deposit and money market accounts are subject to custodial credit risk; that is, in the
+event of a bank failure, the funds may not be returned. To mitigate this risk, state law requires
+deposits to be secured by federal deposit insurance or the pledge of securities owned by the fiscal
+agent bank. The fair value of the pledged securities plus the federal deposit insurance must at all
+times equal the amount on deposit with the fiscal agent. At June 30, 2025, the Corporation had
+$34,140,766 in demand deposits (bank balances), all of which were collateralized by FDIC
+insurance or pledged collateral held by the Federal Reserve Bank. At June 30, 2025, the
+Corporation had $63,099,518 in money market funds in the Single Family Program which were
+held in trust in accordance with the Bond Trust Indenture.
+22
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+3. CASH, CASH EQUIVALENTS, AND INVESTMENTS: (Continued)
+Cash and Cash Equivalents: (Continued)
+The money market accounts are invested in short-term money market instruments issued
+by the United States Treasury which are backed by the full faith and credit of the United States
+government.
+Investments:
+The Corporation categorizes the fair value measurements of its investments based on the
+hierarchy established by generally accepted accounting principles. The Corporation had recurring
+fair value measurements of its investments at June 30, 2025, as follows:
+Total Level 1 Level 2 Level 3
+Mortgage backed securities $ 1,142,351 $ - $ 1,142,351 $ -
+U.S. Government obligations 5,372,296 5 ,372,296 - -
+Total $ 6,514,647 $ 5 ,372,296 $ 1,142,351 $ -
+U.S. government obligations, classified in Level 1 of the fair value hierarchy, are valued
+using prices quoted in active markets for those securities.
+Debt securities are classified in Level 2 of the fair value hierarchy. Mortgage-backed
+securities are valued using quoted prices for identical securities in markets that are not active.
+Interest Rate Risk: Interest rate risk is defined as the risk that changes in interest rates, in
+the general market, will adversely affect the fair value of an investment. The Corporation does
+not have an interest rate risk policy. As of the fiscal years ended June 30, 2025, the Corporation
+had the following investments and maturities (in years):
+Investment Maturities (in years)
+Investment Type Total Less than 1 1 to 5 6 to 10 >10
+Mortgage backed securities $ 1 ,142,351 $ - $ 644,146 $ 39,490 $ 4 58,715
+U.S. Government obligations 5,372,296 1,553,721 3,818,575 - -
+Total $ 6,514,647 $ 1,553,721 $ 4,462,721 $ 39,490 $ 4 58,715
+Credit Risk: Credit Risk is defined as the risk that an issuer or other counterparty to an
+investment will not fulfill its obligations. It is the Corporation’s policy to limit its investments to
+those issued a top rating by Nationally Recognized Statistical Ratings Organizations. As of June
+30, 2025, all of the investments were rated AA, AA- or AA+ by Standard & Poor’s.
+Custodial Credit Risk: Custodial credit risk is the risk that, in the event of the failure of
+the counterparty, the value of investments or collateral securities that are in the possession of an
+outside party will not be able to be recovered. The Corporation does not have a custodial credit
+risk policy. The investments are held by the custodial bank as an agent for the Corporation, in the
+Corporation’s name and are thereby not exposed to custodial credit risk.
+23
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+3. CASH, CASH EQUIVALENTS, AND INVESTMENTS: (Continued)
+Investments: (Continued)
+Concentration of Credit Risk: Concentration of credit risk is defined as the risk of loss
+attributed to the magnitude of the Corporation’s investments in a single issuer. The Corporation
+does not have a concentration of credit risk policy. As of June 30, 2025, investments of the
+following issuers represented more than 5% of total investments:
+Federal National Mortgage Association 10%
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES:
+Mortgage-backed securities and mortgage loans consist of the following as of June 30,
+2025.
+Single Multi-
+Family Family Total
+General Fund:
+Unrestricted loans $ - $ 3 69,762 $ 369,762
+Restricted program loans 23,274,622 747,446,590 770,721,212
+23,274,622 747,816,352 771,090,974
+Less: reserve for loan losses (1,611,529) (161,035,104) (162,646,633)
+Total General Fund 21,663,093 586,781,248 608,444,341
+Single Family Mortgage Revenue Bonds:
+Mortgage loans and mortgage-
+backed securities 652,497,430 - 652,497,430
+Total Mortgage-backed Securities
+and Mortgage Loans Receivable $ 674,160,523 $ 586,781,248 $ 1,260,941,771
+General Fund – Restricted Program Mortgage Loans:
+As part of the Community Development Block Grant Piggyback Program, funds are
+loaned to qualified borrowers to provide needed residential rental property assistance for qualified
+projects to remedy the loss of such residential rental property due to the damage caused by
+Hurricane Katrina, Hurricane Rita and the Great Floods of 2016. These loans are financed at
+interest rates between 0% and 3.5% and are either payable upon demand or from surplus cash
+generated by the projects.
+As part of the Community Development Block Grant Disaster Recovery Program, funds
+are loaned to qualified borrowers for the development, rehabilitation, replacement, restoration,
+construction, and/or operation of multifamily residential projects affected by Hurricane Laura,
+Hurricane Delta, and Hurricane Ida. These loans are financed at an interest rate of 0% and 2.16%
+and are repayable in annual installments from surplus cash generated by the projects.
+24
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+General Fund – Restricted Program Mortgage Loans: (Continued)
+As part of the HOME program, loans have been made to qualified low-income single
+family homebuyers and to developers of low-income, multi-family projects. The HOME loans
+are issued as a supplement to primary financing and are collateralized by a second mortgage on
+the property financed. Payments on these loans are deferred until the earlier of: a) the date the
+primary loan is paid out, or b) a specified future date, with cash flows as a factor in determining
+amounts due for the majority of the multi-family HOME loans. The multi-family loans are
+financed at interest rates ranging from 0% - 7.75%. The single family loans are financed at 0%
+interest.
+During the year ended June 30, 2010, a Tax Credit Assistance Program (TCAP) Grant
+under Title XII of the American Recovery and Reinvestment Act of 2009 was received to loan
+funds to Low Income Housing Tax Credit (LIHTC) projects. These loans are financed at interest
+rates ranging from 0% to 5% and are collectible from surplus cash generated by the projects.
+The National Housing Trust Fund (NHTF) is a federal affordable housing production
+program designed to complement existing Federal, state, and local efforts to increase and preserve
+the supply of decent, safe, and sanitary affordable housing for extremely low- and very low-income
+households, including homeless families and individuals. The NHTF regulations are modeled on
+the HOME Program, but there are several key differences. NHTF has deeper income targeting,
+lower rent requirements, and a longer minimum affordability period. LHC was designated as the
+State Designated Entity (SDE) for purposes of administering the State's National Housing Trust
+Fund Program. These loans are financed at interest rates between 0% and 4.15%.
+During the year ended June 30, 2010, an award of funds (1602 Funds) was received from
+the United States Treasury Department under the provisions of Section 1602 of Subtitle C of Title
+I of Division B of the American Recovery and Reinvestment Act of 2009. The Corporation began
+loaning these funds to qualified multifamily low-income housing projects. These loans are
+financed at a 0% interest rate and will mature at the end of a 15-year period. The debt will be
+forgiven at the end of this period, if certain conditions have been met.
+The single family soft second mortgage program loans up to $50,000 on a forgivable
+second mortgage to provide funds that fill the affordability gap for homebuyers at or below the
+80% AMI level to purchase one unit owner occupied properties. The mortgage is funded through
+HOME dollars. An additional $5,000 of HOME funds can be provided for closing costs.
+The Louisiana Housing Trust Funds are utilized to provide financing for sustainable
+affordable rental and homeownership housing developments. The Housing Trust funds provide
+soft-second mortgages to qualified low-income, single family homebuyers and developers of low-
+income, multifamily rental projects. These loans are financed at a 0% interest rate and will mature
+at the end of the 15-year affordability period. The debt will be forgiven at the end of the
+affordability period, if certain conditions have been met.
+25
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+General Fund – Restricted Program Mortgage Loans: (Continued)
+The CDBG 2016 Flood Landlord Loans are funded through the Louisiana Neighborhood
+Landlord Rental Program (LNLRP initiative). The LNLRP initiative provides assistance to
+landlords experienced in rental residential properties to tenants, or developing residential rental
+housing to be located in areas adversely affected by the 2016 severe storms and flooding events.
+Program applicants constructed new residential rental housing units or renovated residential rental
+housing units in one of the parishes declared to be a disaster area as a result of the severe storms
+and flooding.
+The CDBG Laura/Delta/Ida Middle Market Loan Program is for loans for recovery
+activities related to flooding events resulting from Hurricanes Laura and Delta in 2020 and
+Hurricane Ida in 2021. The program is designed to provide funding for the development of
+multifamily affordable housing in the most impacted areas. Total loan and grant funding available
+through the program is $56.1 million. The loans have an interest rate ranging from 0.00% to
+2.16% and are fully forgivable if compliance with the affordability period is met.
+The CDBG 2016 Flood Multi Family Loans program is for loans and grants for developers
+with multifamily structures of 20 or more units under the Multifamily Restoration Loan Fund
+(MRLF). Widespread flooding in 2016 resulted in the loss of affordable rental units across more
+than 51 parishes. Funds were made available to properties with existing affordability commitments
+for repair and restoration of flood-impacted units. Total loan and grant funding available for the
+MRLF is $19.25 million, allocated across four pools to ensure participation across various areas
+of concern.
+The Emergency Rental Assistance Program 2 (ERAP 2) is a federally funded initiative
+designed to help households impacted by the COVID-19 pandemic. It provides financial
+assistance for rent, utilities, and other housing-related costs to eligible renters facing housing
+instability. This second round of funding introduced flexibility to address ongoing rental needs.
+A portion of the allocation received were used to assist in the development of LIHTC rental units
+experiencing cost increases. These loans were made as a cash flow loan payable through the
+projects surplus cash and are tied to a 30 year affordability required by the tax credit program.
+The CDBG Soft Second Program gives the opportunity to obtain safe, affordable, energy-
+efficient housing, and it is designed to cover the affordability gap between the maximum amount
+that a homebuyer can afford and the purchase price of the home. This program is specifically
+designed for individuals with an annual household income at or below 80% of the Area Median
+Income. A first-time homebuyer is an individual who meets specific criteria set by program
+developers to meet the required goals set for those who participate in the program.
+As part of the Neighborhood Stabilization Program (NSP), funds are loaned to qualified
+borrowers for the purpose of redeveloping abandoned and foreclosed homes, land banking and
+homebuyer education. These loans are financed at interest rates between 0% and 2% and are either
+payable upon demand or from surplus cash generated by the projects. Certain loans under this
+program are forgivable.
+26
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+General Fund – Restricted Program Mortgage Loans: (Continued)
+Lafourche CDBG-NDR Resilience Piggyback program is designed to provide “gap”
+funding for the development of a single, resilient multifamily affordable housing development in
+Lafourche Parish. The awarded project is expected to utilize the CDBG-NDR funds with 4% low-
+income housing tax credits and mortgage financing proceeds. The loans accrue interest at a rate
+not exceeding the long-term applicable federal rate. Principal and interest are repayable from
+surplus cash.
+The CDBG Katrina/Rita Piggyback program is designed to provide funding for the new
+construction or acquisition/rehabilitation development of multifamily affordable housing
+developments for eligible projects within the Katrina-Rita Parishes. The loans bear no interest
+and are payable from surplus cash.
+EBR 2016 Flood Developer Loans purpose is to eliminate blight and stabilize
+neighborhoods impacted by the Great Floods of 2016, repair damaged rental housing stock that
+will be made available at affordable rental rates for low-income households, and increase the
+available rental stock in flood-damaged East Baton Rouge. The program is designed to provide
+forgivable loans for construction of new rental units and repair or reconstruction of flood-damaged
+rental units affected by the Great Floods of 2016 for occupancy by low to moderate-income
+tenants. Eligible property owners must secure all funds necessary that are required in excess of the
+assistance provided by the program. The program will provide benefit in the form of affordable
+rents to tenant households meeting the low and moderate-income (LMI) National Objective
+requirements in accordance with HUD LMI standards.
+EBR 2016 Flood Landlord Loans are part of the Baton Rouge ReBuild Rental Program.
+The program is designed to provide forgivable loans for repair or reconstruction of rental units
+damaged in the Great Floods of 2016 for occupancy by low-to-moderate income tenants. Under
+the program, eligible property owners apply for assistance to repair or reconstruct residential rental
+housing units in a project that will not exceed seven (7) residential housing units. Properties may
+be scattered site, within a single building, or combination of these. Preference is given to eligible
+property owners whose annual household income is below 120% of the Area Median Income based
+on household size.
+Conditional HOME loans include compliance requirements associated with the loan
+agreement. As long as the property owner is in compliance with the agreement the debt will be
+reduced by a predetermined rate at the end of each affordability period. The entire principal
+balance will be forgiven on the maturity date. In the event the owner is found to be out of
+compliance, the total principal balance will be due upon demand.
+The Single Family Soft Second Mortgage Loans (Investar) include agreements whereby
+the Corporation agrees to finance the program note of HOME Funds Loan for the agreed upon
+amount for the contribution to purchase price of the home and closing coat with and additional
+allocation for closing
+27
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+General Fund – Restricted Program Mortgage Loans: (Continued)
+allocation for closing cost not to exceed $5,000. Based on the total HOME funds contributed to
+the purchase price determines the length of affordability anywhere from 5 to 15 years. The
+borrower’s part in the agreement is that, in consideration of the Corporation's agreement to
+finance the program note, the borrower agrees that he or she will continue to occupy the housing
+as his or her principal residence until the end of the period of affordability. There is no interest
+rate associated with the program.
+The Habitat for Humanity Program is the Nonprofit Open Cycle Affordable Housing
+Program between the Corporation and Habitat for Humanity. The program consists of HOME
+funds used for affordable gap financing plus any other construction or interim loan funds
+advanced to finance the construction of the affordable housing units. The period beginning is on
+the date on the HOME note, and ending on the completion deadline. The period of coverage is
+thirty (30) years from the final sale date, but no later than the maturity date. The program is open
+to eligible first-time low-income homebuyers who have received housing counseling and who
+have entered into an agreement with Habitat for Humanity to purchase a housing unit. The annual
+rate for these agreements is zero percent (0.0%).
+As part of the multifamily program, loans have been made under the Section 202 Program.
+The Program is designed to make loans to eligible projects pursuant to Section 202 of the Housing
+Act of 1959, as amended, and the Risk Sharing Program administered by HUD. The multifamily
+Section 202 loans consist of a Risk Sharing Mortgage Note and a Subordinate Mortgage Note.
+The loans are collateralized by a security interest in the property with principal and interest
+payments due monthly through 2022. These loans are financed at interest rates ranging from
+3.25% - 3.60% interest. The Risk Sharing Mortgage Notes are 50% guaranteed by HUD under
+the Risk Sharing loan insurance program. The properties have also obtained HOME loans as
+described in a previous paragraph.
+The Single Family Delta 100 Program provides up to 100% financing (maximum loan
+amount of $242,000) and up to 3% for closing cost and prepayment assistance to eligible
+homebuyers in certain Delta Parishes. The loans bear interest at 3.85%
+28
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+General Fund – Restricted Program Mortgage Loans: (Continued)
+The loan portfolio at June 30, 2025 was as follows:
+CDBG - Piggyback $ 207,833,095
+CDBG Laura/Delta/Ida Prime PD 182,027,671
+HOME Multifamily Mortgage Loans 160,988,629
+TCAP Multifamily Mortgage Loans 40,565,348
+National Housing Trust Fund Loans 26,608,533
+1602 Sub Award Multifamily Loans 24,672,208
+HOME Single Family Mortgage Loans 22,182,477
+Louisiana Housing Trust Fund Loans 15,521,363
+CDBG 2016 Flood Landlord Loans 15,486,105
+CDBG Laura/Delta/Ida MMLP 15,403,385
+CDBG 2016 Flood Multi-Family Loans 12,006,040
+Emergency Renal Assistance Program 8 ,716,020
+CDBG Soft Second Loans 7,973,992
+Neighborhood Stabilization Program Loans 7,175,712
+CDBG Lafourche Resiliency 7,033,000
+CDBG Katrina/Rita Piggyback 6,871,035
+EBR 2016 Flood Developer Loans 6,262,762
+EBR 2016 Flood Landlord Loans 1,279,293
+Multifamily Conditional HOME Loans 8 14,900
+Single Family Soft Second Loans 5 69,413
+Habitat for Humanity 3 66,879
+202 Elderly Project Mortgage Loans 2 07,500
+Single Family Delta 100 Program 1 55,852
+770,721,212
+Reserve for loan losses (162,646,633)
+$ 608,074,579
+The collections from the HOME, 1602 Exchange, TCAP, NSP and Louisiana Housing
+Trust Fund loans are restricted to funding future lending programs. The principal balance and
+accruals of interest receivable on these loans are reported as restricted assets.
+The reserve for loan losses increased $19,704,952 for the year ended June 30, 2025.
+29
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+4. MORTGAGE LOANS AND MORTGAGE-BACKED SECURITIES: (Continued)
+Mortgage Revenue Bond Program – Mortgage-Backed Securities:
+With certain exceptions, loans acquired under the Mortgage Revenue Bond Program for
+single families are pooled and packaged into GNMA, GNMA I, GNMA II, FNMA, FNMA Pass-
+Thru I, FHLB, or FHLMC securities. The GNMA and GNMA II securities are guaranteed by the
+full faith and credit of the U.S. Government while the FNMA, FNMA Pass-Thru 1, FHLB, and
+FHLMC securities are limited obligations of the U.S. Government. These securities have interest
+rates of 1.60% - 7.60%. The underlying loans backing the securities must be conventional
+mortgage loans or FHA insured, VA guaranteed or RD guaranteed.
+The fair value of the mortgage-backed securities by contractual maturity as of June 30,
+2025, is shown below. Expected maturities as listed in the following table will differ from
+contractual maturities because borrowers may have the right to call or prepay obligations.
+Less
+Fair than 1 1 to 5 6 to 10 > 10
+Value Year Years Years Years
+GNMA 420,627,400 1,835 663,473 6,352,474 413,609,618
+GNMA II 114,471,901 - - - 114,471,901
+FNMA 59,925,224 - 66,683 371,099 59,487,442
+FNMA Pass-Thru I 10,859,802 - - - 10,859,802
+FHLMC 46,613,103 - - - 46,613,103
+$ 652,497,430 $ 1,835 $ 730,156 $ 6,723,573 $ 645,041,866
+5. CAPITAL ASSETS:
+A summary of changes in capital assets for the year ended June 30, 2025 is as follows:
+Balance Balance
+June 30, 2024 Additions Deletions June 30, 2025
+Capital assets not being depreciated:
+Land $ 1,022,338 $ - $ - $ 1,022,338
+Total capital assets not
+being depreciated 1,022,338 - - 1,022,338
+Capital assets being depreciated:
+Buildings 107,023,487 - - 107,023,487
+Equipment 2,015,092 131,888 (370,363) 1 ,776,617
+Land improvements 171,410 - - 171,410
+Total capital assets
+being depreciated 109,209,989 131,888 (370,363) 108,971,514
+30
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+5. CAPITAL ASSETS: (Continued)
+Balance Balance
+June 30, 2024 Additions Deletions June 30, 2025
+Accumulated depreciation:
+General (5,312,017) ( 424,046) 231,819 (5,504,244)
+HUD disposition ( 34,288,012) (2,400,386) - (36,688,398)
+Mid-City Gardens (5,752,489) ( 484,957) - (6,237,446)
+Total accumulated depreciation ( 45,352,518) (3,309,389) 231,819 (48,430,088)
+Total capital assets being
+depreciated, net 63,857,471 (3,177,501) (138,544) 60,541,426
+Total capital assets, net $ 64,879,809 $ (3,177,501) $ (138,544) $ 61,563,764
+Included in capital assets at June 30, 2025 is $84,564,096 of costs related to the two HUD
+disposition properties owned by the Corporation. These buildings were heavily damaged by
+Hurricane Katrina (see Note 6). Reconstruction of the first property (Willowbrook) was
+completed during the year ended June 30, 2008, and its operations commenced in May 2008.
+Reconstruction of the second property (Village de Jardin) was completed during the year ended
+June 30, 2012, and its operations commenced in April 2012. The depreciation expense related to
+these properties is recorded within the net loss from rental property on the statement of revenues,
+expenses, and changes in net position.
+Included in restricted capital assets for the year ended June 30, 2025, is $14,327,265
+related to the Mid-City Gardens (formerly Capital City South) project. This project is restricted
+because it is funded by the Neighborhood Stabilization Program (NSP) and any net income is
+currently expected to be recognized as program income to be used within the program. The
+property was acquired by the Corporation in 2010 through the foreclosure of a loan funded with
+HOME program funds. The Corporation used the NSP funds and HOME program funds to
+renovate and rehabilitate the property. The property commenced operations in December 2012.
+The depreciation expense related to these properties is recorded within the net loss from rental
+property on the statement of revenues, expenses, and changes in net position.
+6. HUD DISPOSITION PROPERTIES:
+The Corporation is the owner of two low-income, multi-family rental properties that were
+originally purchased from the U. S. Department of Housing and Urban Development (HUD) at a
+cost of $1 each. The Corporation funded renovations to the properties totaling approximately $3.3
+million through June 30, 2005. On August 29, 2005, the properties were heavily damaged by
+Hurricane Katrina. The properties were insured by the State of Louisiana Office of Risk
+Management. The State of Louisiana assumed responsibility for the reconstruction of the
+properties. Both properties are fully renovated and occupied. The completed properties are
+recorded within capital assets on the Corporation’s Statement of Net Position.
+31
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+6. HUD DISPOSITION PROPERTIES: (Continued)
+The properties were purchased in 1995. If the properties are sold, the sales proceeds less
+certain costs and expenses shall be assigned to HUD in the following amounts:
+a) 75%, if sold between 15 and 20 years from the purchase date;
+b) 50%, if sold between 20 and 30 years from the purchase date; or
+c) 25%, if sold over 30 years from the purchase date
+The net income (loss) from the properties is recorded as non-operating revenue (expense).
+7. LONG-TERM LIABILITIES:
+The Corporation at June 30, 2025 has the following long-term liabilities:
+Amounts
+Beginning Ending Due Within
+Balance Additions (Reductions) Balance One Year
+Bonds payable $ 549,539,479 $ 151,857,613 $ (30,158,765) $ 671,238,327 $ 12,738,562
+Compensated absences 2 ,678,644 - (236,899) 2 ,441,745 69,168
+Net pension liability 28,996,432 2,720,290 (7,927,447) 23,789,275 -
+Other postemployment
+benefit plan payable 9 ,862,098 2 ,251,339 (472,547) 11,640,890 232,704
+Amounts held in escrow 1 ,003,533 - ( 29,611) 973,922 -
+$ 592,080,186 $ 156,829,242 $ (38,825,269) $ 710,084,159 $ 13,040,434
+Repayment of limited obligation bonds’ principal and interest are funded by receipts from
+mortgage loans receivable. Compensated absences, pension liabilities, other postemployment
+benefit plan payable are paid from the Corporation’s operating revenues. Amounts held in escrow
+are refunded from the escrow funds received.
+Bonds Payable:
+As authorized by the initial enabling legislation, the LHC Single Family Program issues
+revenue bonds to assist in the financing of housing needs in the State of Louisiana. The bonds are
+limited obligations of the LHC, payable only from the income, revenues, and receipts derived
+from the mortgage loans and other investments held under and pursuant to the trust indentures
+and therefore pledged. The issuance of debt for the financing of projects by the LHC Single
+Family Program is subject to the approval of the Louisiana State Bond Commission. Bonds are
+issued under various bond resolutions adopted by the LHC Single Family Program to provide
+financing for qualified single family projects. The bonds are secured by several forms of credit
+enhancement, including FNMA and FHLMC credit enhancement agreements, FHA-insured
+mortgage loans, GNMA-guaranteed certificates, and letters of credit from financial institutions
+including collateralized, insured, and uncollateralized and uninsured arrangements.
+32
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+7. LONG-TERM LIABILITIES: (Continued)
+Bonds Payable: (Continued)
+The assets generated with the proceeds of each series of bonds issued are pledged as
+collateral for the payment of principal and interest on bond and note indebtedness of only that
+program. The ability of the programs to meet the debt service requirements on the bonds is
+dependent upon the ability of the mortgagors in such programs to generate sufficient funds to
+meet their respective mortgage repayments.
+The following table is a list of outstanding bonds payable at June 30, 2025:
+Issue Balance
+Description Date Due Dates Interest Rates Outstanding
+1998 Indenture of Trust
+Series 2015 A Refunding 08/27/15 2038 3.05% $ 7,418,154
+Series 2016 A Refunding 08/01/16 2038 2.10% 1,824,053
+Series 2017 A Refunding 06/01/17 2038 2.87% 3,987,674
+Series 2018 A-1 Term 10/01/18 2033-2049 3.60%-4.50% 5 ,324,938
+Series 2018 A-1 Serial 10/01/18 2026-2029 2.55%-3.30% 375,000
+Series 2018 A-2 Refunding 10/01/18 2040 3.70% 5,548,895
+1 1,248,833
+Series 2019 A-1 Term 03/01/19 2039-2049 3.65%- 4.50% 25,193,163
+Series 2019 A-1 Serial 03/01/19 2026 2.25%-2.35% 520,000
+Series 2019 A-1 Refunding Term 03/01/19 2034 3.35% 2,080,000
+Series 2019 A-1 Refunding Serial 03/01/19 2026-2030 2.35%-3.00% 2,435,000
+3 0,228,163
+Series 2020 B Term 07/01/20 2035-2050 2.10%-3.50% 9,090,412
+Series 2020 B Serial 07/01/20 2026-2032 1.10%-2.05% 1,200,000
+Series 2020 A Refunding Term 07/01/20 2041 2.05% 10,581,101
+2 0,871,513
+Series 2021 B Term 03/01/21 2036-2051 2.05%-3.00% 22,883,188
+Series 2021 B Serial 03/01/21 2026-2033 0.60%-2.00% 9,620,000
+Series 2021 A Refunding Term 03/01/21 2041 1.55% 3,793,425
+3 6,296,613
+Series 2021 C Refunding 11/30/21 2041 2.125% 6,880,578
+Series 2021 D Term Bonds 12/14/21 2036-2052 2.10%-3.25% 44,351,587
+Series 2021 D Serial 12/14/21 2026-2033 0.85%-2.05% 7 ,285,000
+5 8,517,165
+Series 2022 A Term 07/05/22 2037-2052 3.85%-5.00% 49,905,330
+Series 2022 A Serial 07/05/22 2026-2034 2.55%-3.75% 8 ,025,000
+5 7,930,330
+33
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+7. LONG-TERM LIABILITIES: (Continued)
+Bonds Payable: (Continued)
+Issue Balance
+Description Date Due Dates Interest Rates Outstanding
+1998 Indenture of Trust (Continued)
+Series 2022 BC Term 12/22/22 2037-2053 4.25%-6.00% 30,829,749
+Series 2022 BC Serial 12/22/22 2026-2034 3.55%-5.05% 7 ,650,000
+3 8,479,749
+Series 2023 AB Term 06/14/23 2038-2054 4.40%-5.75% 50,099,688
+Series 2023 AB Serial 06/14/23 2026-2035 3.80%-5.21% 9,000,000
+5 9,099,688
+Series 2023 CD Term 09/13/23 2038-2053 4.45%-6.25% 71,380,782
+Series 2023 CD Serial 09/13/23 2026-2035 3.45%-5.77% 8,030,000
+7 9,410,782
+Series 2024 AB Term 04/18/24 2039-2055 4.00%-5.90% 99,065,885
+Series 2024 AB Serial 04/18/24 2026-2036 3.75%-5.30% 15,210,000
+114,275,885
+Series 2024 CDE Term 07/16/24 2034-2055 4.15%-6.00% 61,083,086
+Series 2024 CDE Serial 07/16/24 2026-2036 3.85%-5.39% 11,615,000
+7 2,698,086
+2025 Indenture of Trust
+Series 2025 A Term 03/06/25 2040-2055 4.15%-6.00% 64,066,639
+Series 2025 AB Serial 03/06/25 2026-2037 3.15%-4.63% 14,885,000
+7 8,951,639
+$ 671,238,327
+Debt Service:
+The minimum debt service payments over the life of the Single Family Mortgage Revenue
+Bond Programs are scheduled to occur as follows. Future interest payments for variable interest
+rate bonds were calculated using the rate of interest in effect at the end of the fiscal year.
+June 30 Principal Interest Total
+2026 $ 12,738,562 $ 29,353,373 $ 42,091,935
+2027 13,783,562 2 8,901,164 42,684,726
+2028 14,303,562 28,415,553 42,719,115
+2029 14,748,562 2 7,901,656 42,650,218
+2030 15,303,562 27,369,231 42,672,793
+2031-2035 8 6,252,810 1 27,744,739 213,997,549
+34
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+7. LONG-TERM LIABILITIES: (Continued)
+Debt Service: (Continued)
+Year Ending
+June 30 Principal Interest Total
+2036-2040 1 12,891,939 109,107,190 221,999,129
+2041-2045 1 19,574,230 8 4,686,179 204,260,409
+2046-2050 1 49,587,890 5 3,965,042 203,552,932
+2051-2055 1 29,558,648 1 6,520,702 146,079,350
+2056-2060 2 ,495,000 7 4,780 2,569,780
+$ 6 71,238,327 $ 534,039,609 $ 1,205,277,936
+Debt Refunding:
+On August 27, 2015, the entity issued $39 million of Single Family Mortgage Revenue
+Refunding Bonds, Series2015A for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2002A, 2004A,2004B, 2004C and 2005A, and advance
+refunding the Series 2006A, 2006B and 2006C bonds. The interest rate on the Series 2015A bond
+is 3.05%, whereas the interest rates on the Series 2002A, 2004A, 2004B, 2004C, 2005A, 2006A,
+2006B and 2006C bonds ranged from 3.75% to 5.875%. This decrease in interest rates resulted
+in an economic gain on the refunding of $10.9 million (the difference between the present value
+of the Series 2002A, 2004A,2004B, 2004C, 2005A, 2006A, 2006B and 2006C cash flows and
+the Series 2015A cash flows). The refunding resulted in a decrease of debt service payments in
+the amount of $11.9 million through the maturity of the bonds on December 1, 2038.
+On August 31, 2016, LHC issued $24.8 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2016A for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2006D and advance refunding the Series 2007A bonds. The
+interest rate on the Series 2016A bond is 2.10%, whereas the interest rates on the Series 2006D
+and 2007A bonds ranged from 3.50% to 6.15%. The decrease in interest rate resulted in a decrease
+of debt service payments in the amount of $6 thousand through the maturity of the bonds on
+December 1, 2038. The refunding resulted in an economic gain of $1.1 million (the difference
+between the present value of the Series 2006D and 2007A cash flows and the Series 2016A cash
+flows).
+On April 27, 2017, LHC issued $27.1 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2017A for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2007B and 2007C bonds. The interest rate on the Series 2017A
+bond is 2.875%, whereas the interest rates on the Series 2007B and 2007C bonds ranged from
+3.60% to 6.00%. The decrease in interest rate resulted in a decrease of debt service payments in
+the amount of $9.6 million through the maturity of the bonds on November 1, 2038. The refunding
+resulted in an economic gain of $8.1 million (the difference between the present value of the
+Series 2007B and 2007C cash flows and the Series 2017A cash flows).
+35
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+7. LONG-TERM LIABILITIES: (Continued)
+Debt Refunding: (Continued)
+On October 15, 2018, LHC issued $11.2 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2018A-2 for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2008A and 2008B. The interest rate on the Series 2018A-2
+bond is 3.7%, whereas the interest rates on the Series 2008A and 2008B bonds ranged from 4.25%
+to 6.30%. The decrease in interest rate resulted in a decrease of debt service payments in the
+amount of approximately $4.7 million through the maturity of the bonds on June 1, 2040. The
+refunding resulted in an economic gain of approximately $4.2 million (the difference between the
+present value of the Series 2008A and 2008B cash flows and the Series 2018A-2 cash flows).
+On June 1, 2019, LHC issued $6.6 million of Single Family Mortgage Revenue Refunding
+Bonds, Series 2019A-2 for the purpose of currently refunding the Single Family Mortgage
+Revenue Bonds, Series 2009A-2. The interest rate on the Series 2019A-2 bond ranged from
+2.35% to 3.35%, whereas the interest rates on the Series 2009A bonds ranged from 3.9% to
+5.125%. The decrease in interest rate resulted in a decrease of debt service payments in the amount
+of approximately $2.5 million through the maturity of the bonds on June 1, 2034. The refunding
+resulted in an economic gain of approximately $2 million (the difference between the present
+value of the Series 2009A-2 cash flows and the Series 2019A-2 cash flows).
+On July 30, 2020, LHC issued $17.9 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2020A for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2010A. The interest rate on the Series 2020A bond is 2.05%,
+whereas the interest rates on the Series 2010A bonds ranged from 3.01% to 4.75%. The decrease
+in interest rate resulted in a decrease of debt service payments in the amount of approximately
+$1.8 million through the maturity of the bonds on March 1, 2041. The refunding resulted in an
+economic gain of approximately $1.5 million (the difference between the present value of the
+Series 2010A cash flows and the Series 2020A cash flows).
+On March 30, 2021, LHC issued $7.5 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2021A for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2011A and 2013A. The interest rate on the Series 2021A bond
+is 1.55%, whereas the interest rates on the Series 2011A and 2013A bonds ranged from 2.35% to
+2.77%. The decrease in interest rate resulted in a decrease of debt service payments in the amount
+of approximately $1.8 million through the maturity of the bonds on September 1, 2041. The
+refunding resulted in an economic gain of approximately $1.1 million (the difference between the
+present value of the Series 2011A and 2013A cash flows and the Series 2021A cash flows).
+On November 30, 2021, LHC issued $7.7 million of Single Family Mortgage Revenue
+Refunding Bonds, Series 2021C for the purpose of currently refunding the Single Family
+Mortgage Revenue Bonds, Series 2012A. The interest rate on the Series 2021C bond is 2.125%,
+whereas the interest rate on the Series 2012A bond was 2.75%. The decrease in interest rate
+resulted in a decrease of debt service payments in the amount of approximately $563 thousand
+through the maturity of the bonds on December 1, 2041. The refunding resulted in an economic
+gain
+36
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+7. LONG-TERM LIABILITIES: (Continued)
+Debt Refunding: (Continued)
+gain of approximately $590 thousand (the difference between the present value of the Series
+2012A cash flows and the Series 2021C cash flows).
+Changes in Bonds Payable:
+Bonds payable activity for the year ended June 30, 2025 is as follows:
+1998 Indenture 2025 Indenture Total Bonds
+of Trust of Trust Payable
+Beginning Balance $ 549,539,479 $ - $ 549,539,479
+Additions 72,872,387 78,985,226 151,857,613
+Reductions (30,125,178) (33,587) (30,158,765)
+Ending Balance $ 592,286,688 $ 78,951,639 $ 671,238,327
+Compensated Absences:
+Employees earn and accumulate annual and sick leave at various rates depending on their
+years of service.
+The cost of leave privileges, computed in accordance with GASB Codification C60,
+Accounting for Compensated Absences, is recognized as a current year expense when the leave is
+earned. The Corporation had paid compensated absences of $236,899 throughout the year ended
+June 30, 2025, for a remaining balance of $2,441,745.
+Amounts Held in Escrow:
+Properties with outstanding loans or other obligations through the Corporation have
+surplus amounts set aside, from principal and interest payments, held in escrow to be used for
+insurance, taxes, and expenses. Amounts held in escrow offset corresponding cash account
+balances. As of June 30, 2025, the outstanding balance of the amounts held in escrow are
+$973,922.
+8. CONDUIT DEBT:
+As authorized by the initial enabling legislation, the Corporation issues multi-family
+mortgage revenue bonds to assist in the financing of housing needs in the State of Louisiana. The
+bonds are payable only from the income, revenues, and receipts derived from the mortgage loans
+and other investments held under and pursuant to the trust indentures and therefore pledged. The
+aaaaa
+37
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+8. CONDUIT DEBT: (Continued)
+bonds are considered to be conduit debt of the Corporation and do not constitute an obligation,
+either general or special, of the State of Louisiana, any municipality or any other political
+subdivision of the state. Bonds issued by the Corporation for which the Corporation and the state
+have no responsibility for repayment are not recorded in the accompanying financial statements.
+At June 30, 2025, there were approximately $885 million of such bonds outstanding in 86 bond
+programs.
+9. RETIREMENT BENEFITS:
+Plan Description:
+Substantially all of the employees of the Corporation are members of the Louisiana State
+Employees’ Retirement System (LASERS), a cost-sharing, multiple-employer, defined benefit
+pension plan. LASERS is a statewide public employee retirement system (PERS) for the benefit
+of state employees which is administered and controlled by a separate board of trustees.
+LASERS provides retirement, deferred retirement option (DROP), disability, and
+survivor's benefits. The following is a brief description of the Plan and its benefits. Participants
+should refer to the appropriate statutes for more complete information.
+In 1999, an Optional Retirement Plan (ORP) was established as a defined contribution
+component of LASERS for certain unclassified employees who otherwise would have been
+eligible to become members of the defined benefit plan. The ORP provides portability of assets
+and full and immediate vesting of all contributions submitted on behalf of members. The ORP is
+administered by a third-party provider with oversight from LASERS Board of Trustees.
+Monthly employer and employee contributions are invested as directed by the member to
+provide the member with future retirement benefits. The amount of these benefits is entirely
+dependent upon the total contributions and investment returns accumulated during the member’s
+working lifetime. ORP balances are held by the provider in each participant’s name. These
+balances are included in LASERS total investments on the Statement of Fiduciary Net Position.
+The ORP was closed to new members on December 7, 2007. However, members in the ORP as
+of December 31, 2007 were granted the option by Act 718 of the 2012 Louisiana Regular
+Legislative Session to regain membership in the defined benefit plan.
+Benefits Provided:
+The age and years of creditable service required in order for a member to retire with full
+benefits are established by statute, and vary depending on the member’s hire date, employer, and
+job classification. Rank-and-file members hired prior to July 1, 2006, may either retire with full
+benefits at any age upon completing 30 years of creditable service, at age 55 upon completing 25
+years of creditable service, and at age 60 upon completing 10 years of creditable service
+depending on their plan. Those members hired between July 1, 2006 and June 30, 2015, may
+aaaaa
+38
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Benefits Provided: (Continued)
+retire at age 60 upon completing five years of creditable service and those hired on or after July
+1, 2015 may retire at age 62 upon completing five years of creditable service. The basic annual
+retirement benefit for members is equal to 2.5% to 3.5% of average compensation multiplied by
+the number of years of creditable service. Additionally, members may choose to retire with 20
+years of service at any age, with an actuarially reduced benefit.
+Average compensation is defined as the member’s average annual earned compensation
+for the highest 36 consecutive months of employment for members employed prior to July 1,
+2006. For members hired July 1, 2006 or later, average compensation is based on the member’s
+average annual earned compensation for the highest 60 consecutive months of employment.
+The maximum annual retirement benefit cannot exceed the lesser of 100% of average
+compensation or a certain specified dollar amount of actuarially determined monetary limits, which
+vary depending upon the member’s age at retirement. Judges, court officers, and certain elected
+officials receive an additional annual retirement benefit equal to 1.0% of average compensation
+multiplied by the number of years of creditable service in their respective capacity. As an alternative
+to the basic retirement benefits, a member may elect to receive their retirement throughout their life,
+with certain benefits being paid to their designated beneficiary after their death.
+Act 992 of the 2010 Louisiana Regular Legislative Session, changed the benefit structure
+for LASERS members hired on or after January 1, 2011. This resulted in three new plans: regular,
+hazardous duty, and judges. The new regular plan includes regular members and those members
+who were formerly eligible to participate in specialty plans, excluding hazardous duty and judges.
+Regular members and judges are eligible to retire at age 60 after five years of creditable service
+and, may also retire at any age, with a reduced benefit, after 20 years of creditable service.
+Hazardous duty members are eligible to retire with 12 years of creditable service at age 55,
+25 years of creditable service at any age or with a reduced benefit after 20 years of creditable service.
+Average compensation will be based on the member’s average annual earned compensation for the
+highest 60 consecutive months of employment for all three new plans. Members in the regular plan
+will receive a 2.5% accrual rate, hazardous duty plan a 3.33% accrual rate, and judges a 3.5%
+accrual rate. The extra 1.0% accrual rate for each year of service for court officers, the governor,
+lieutenant governor, legislators, House clerk, sergeants-at-arms, or Senate secretary, employed after
+January 1, 2011, was eliminated by Act 992. Specialty plan and regular members, hired prior to
+January 1, 2011, who are hazardous duty employees have the option to transition to the new
+hazardous duty plan.
+Act 226 of the 2014 Louisiana Regular Legislative Session established new retirement
+eligibility for members of LASERS hired on or after July 1, 2015, excluding hazardous duty plan
+members. Regular members and judges under the new plan are eligible to retire at age 62 after 5
+years of creditable service and, may also retire at any age, with a reduced benefit, after 20 years of
+aaa
+39
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Benefits Provided: (Continued)
+creditable service. Average compensation will be based on the member’s average annual earned
+compensation for the highest 60 consecutive months of employment. Members in the regular plan
+will receive a 2.5% accrual rate and judges a 3.5% accrual rate, with the extra 1.0% accrual rate
+based on all years of service as a judge.
+A member leaving employment before attaining minimum retirement age, but after
+completing certain minimum service requirements, becomes eligible for a benefit provided the
+member lives to the minimum service retirement age and does not withdraw their accumulated
+contributions. The minimum service requirement for benefits varies depending upon the member’s
+employer and service classification.
+Deferred Retirement Benefits:
+The State Legislature authorized LASERS to establish a Deferred Retirement Option Plan
+(DROP). When a member enters DROP, their status changes from active member to retiree even
+though they continue to work and draw their salary for a period of up to three years. The election is
+irrevocable once participation begins. During DROP participation, accumulated retirement benefits
+that would have been paid to each retiree are separately tracked.
+For members who entered DROP prior to January 1, 2004, interest at a rate of one-half
+percent less than LASERS’ realized return on its portfolio (not to be less than zero) will be credited
+to the retiree after participation ends. At that time, the member must choose among available
+alternatives for the distribution of benefits that have accumulated in the DROP account. Members
+who enter DROP on or after January 1, 2004, are required to participate in LASERS Self-Directed
+Plan (SDP) which is administered by a third-party provider.
+The SDP allows DROP participants to choose from a menu of investment options for the
+allocation of their DROP balances. Participants may diversify their investments by choosing from
+an approved list of mutual funds with different holdings, management styles, and risk factors.
+Members eligible to retire and who do not choose to participate in DROP may elect to
+receive at the time of retirement an initial benefit option (IBO) in an amount up to 36 months of
+benefits, with an actuarial reduction of their future benefits. For members who selected the IBO
+option prior to January 1, 2004, such amount may be withdrawn or remain in the IBO account
+earning interest at a rate of one-half percent less than the LASERS’ realized return on its portfolio
+(not to be less than zero). Those members who select the IBO on or after January 1, 2004, are
+required to enter the SDP as described above.
+40
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Benefits Provided: (Continued)
+Disability Benefits:
+Generally, active members with ten or more years of credited service who become disabled
+may receive a maximum disability retirement benefit equivalent to the regular retirement formula
+without reduction by reason of age. Upon reaching retirement age, the disability retiree may receive
+a regular retirement benefit by making application to the Board of Trustees. For injuries sustained
+in the line of duty, hazardous duty personnel in the Hazardous Duty Services Plan will receive a
+disability benefit equal to 75% of final average compensation or 100% of final average
+compensation if the injury was the result of an intentional act of violence.
+Survivor’s Benefits:
+Certain eligible surviving dependents receive benefits based on the deceased memberʹs
+compensation and their relationship to the deceased. The deceased regular member hired before
+January 1, 2011, who was in state service at the time of death, must have a minimum of five years
+of service credit, at least two of which were earned immediately prior to death, or who had a
+minimum of twenty years of service credit, regardless of when earned, in order for a benefit to be
+paid to a minor or handicapped child. Benefits are payable to an unmarried child until age 18, or
+age 23 if the child remains a full‐time student. The aforementioned minimum service credit
+requirement is ten years for a surviving spouse with no minor children and benefits are to be paid
+for life to the spouse or qualified handicapped child.
+The deceased regular member hired on or after January 1, 2011, must have a minimum of
+five years of service credit regardless of when earned in order for a benefit to be paid to a minor
+child. The aforementioned minimum service credit requirements for a surviving spouse are 10
+years, 2 years being earned immediately prior to death, and active state service at the time of death,
+or a minimum of 20 years of service credit regardless of when earned. A deceased member’s spouse
+must have been married for at least one year before death.
+A Hazardous Duty Services Plan member’s surviving spouse and minor or handicapped or
+mentally incapacitated child or children are entitled to survivor benefits of 80% of the member’s
+final average compensation if the member was killed in the line of duty. If the member dies in the
+line of duty as a result of an intentional act of violence, survivor benefits may be increased to 100%
+of the members’ final average compensation.
+Cost-of-Living Adjustments:
+As fully described in Title 11 of the Louisiana Revised Statutes, LASERS allows for the
+payment of cost-of-living adjustments (COLAs), which are funded through investment earnings
+when recommended by the Board of Trustees and approved by the State Legislature.
+41
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Contributions:
+Employer Contributions
+The employer contribution rate is established annually under La. R.S. 11:101-11:104 by the
+Public Retirement Systems’ Actuarial Committee (PRSAC), taking into consideration the
+recommendation of the LASER’s Actuary. Each plan pays a separate actuarially-determined
+employer contribution rate. However, all assets of LASERS are used for the payment of benefits
+for all class members, regardless of their plan membership. The employer contribution rate for the
+fiscal year ended June 30, 2025 was 34.7% of annual covered payroll. The Corporation’s
+contribution to LASERS for the year ended June 30, 2025 was $3,408,219.
+Legislative Acts Income
+Legislative Acts Contributions include appropriations by the State Legislature to cover
+unfunded accrued pension liabilities.
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows
+of Resources Related to Pensions:
+At June 30, 2025, the Corporation reported a liability in the amount of $23,789,275 for its
+proportionate share of the net pension liability. The net pension liabilities were measured as of
+June 30, 2024, and the total pension liabilities used to calculate the net pension liabilities were
+determined by actuarial valuations as of those dates. The Corporation’s proportion of the net
+pension liability was based on a projection of the Corporation’s long-term share of contributions
+to the pension plan relative to the projected contributions of all participating employers. At June
+30, 2025, the Corporation’s proportion was 0.437%. This reflects an increase of 0.004% from its
+proportion measured as of the June 30, 2024.
+For the year ended June 30, 2025, the Corporation recognized pension expense of
+$2,321,234.
+At June 30, 2025, the Corporation reported deferred outflows of resources and deferred
+inflows of resources related to pensions from the following sources:
+42
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Pension Liabilities, Pension Expense, and Deferred Outflows of Resources and Deferred Inflows
+of Resources Related to Pensions: (Continued)
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Difference between expected and actual experience $ - $ 105,213
+Changes of assumptions 166,294 -
+Net difference between projected and actual
+earnings on pension plan investments - 2,836,375
+Changes in proportion and differences
+between employer contributions and proportionate
+share of contributions 138,182 25,373
+Employer contributions subsequent to the
+measurement date 3,408,219 -
+Total $ 3,712,695 $ 2,966,961
+Deferred outflows of resources resulting from employer contributions subsequent to the
+measurement date in the amount of $3,408,219 will be recognized as a reduction of the net
+pension liability during the year ending June 30, 2026. Amounts reported as deferred outflows of
+resources and deferred inflows of resources related to pensions to be recognized in pension
+expense are as follows:
+Year Ended
+June 30 Amount
+2026 $ (1,592,843)
+2027 732,846
+2028 (1,093,175)
+2029 (709,313)
+Total $ (2,662,485)
+Actuarial Assumptions:
+The total pension liabilities in the June 30, 2024 actuarial valuations were determined
+using the following actuarial assumptions, applied to all periods included in the measurement:
+Actuarial valuation dates June 30, 2024
+Actuarial cost method Entry Age Normal
+43
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Actuarial Assumptions: (Continued)
+Expected remaining service lives 2 years
+Investment rate of return 7.25% per annum
+Inflation rate 2.40% per annum
+Period of experience study 2019 – 2023
+Mortality Rates Non-disabled members: The PubG-2010 Healthy
+Retiree on a fully generational basis by Mortality
+Improvement Scale MP-2021
+Disabled members: Mortality rates based on the RP-
+2000 Disabled Retiree Mortality Table, with no
+projection for mortality improvement.
+Termination, Disability, and Termination, disability, and retirement
+Retirements assumptions were projected based on a five-year
+(2019-2023) experience study of LASERS’
+members.
+Salary increases Salary increases were projected based on a 2019-
+2023 experience study of LASERS’s members. The
+salary increase ranges for specific types of members
+are:
+Lower Upper
+Member Type Range Range
+Regular 3.3% 14.0%
+Judges 2.4% 4.8%
+Corrections 4.4% 15.3%
+Hazardous Duty 4.4% 15.3%
+Wildlife 4.4% 15.3%
+Cost-of-living adjustments The present value of future retirement benefits is
+based on benefits currently being paid by LASERS
+and includes previously granted cost of living
+increases. The projected benefit payments do not
+include provisions for potential future increases not
+yet authorized by the Board of Trustees as they were
+deemed not to be substantively automatic.
+44
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Actuarial Assumptions: (Continued)
+The long‐term expected rate of return on pension plan investments was determined using
+a building-block method in which best‐estimates ranges of expected future real rates of return
+(expected returns, net of pension plan investment expense and inflation) are developed for each
+major asset class. These ranges are combined to produce the long‐term expected rate of return
+by weighting the expected future real rates of return by the target asset allocation percentage and
+by adding expected inflation of 2.40%, and an adjustment for the effect of rebalancing/
+diversification. The resulting expected long-term nominal rate of return is 8.15% for 2024. Best
+estimates of geometric real rates of return for each major asset class included in LASERS target
+asset allocation as of June 30, 2024 are summarized in the following table:
+Long-Term Expected
+Target Real Rate of Return
+Asset Class Allocation (Geometric)
+Cash 0% 0.76%
+Domestic Equity 34% 4.29%
+International Equity 17% 5.22%
+Domestic Fixed Income 3% 2.04%
+International Fixed Income 19% 5.24%
+Alternative Investments 27% 8.19%
+Total 100%
+The discount rate used to measure the total pension liability was 7.25%. The projection
+of cash flows used to determine the discount rate assumed that contributions from plan members
+will be made at the current contribution rates and that contributions from participating employers
+will be made at the actuarially determined contribution rates approved by PRSAC, taking into
+consideration the recommendation of LASERS’ actuary. Based on those assumptions, LASERS’
+fiduciary net position was projected to be available to make all projected future benefit payments
+of current plan members. Therefore, the long-term expected rate of return on pension plan
+investments was applied to all periods of the projected benefit payments to determine the total
+pension liability.
+Sensitivity of the Employer’s Proportionate Share of the Net Pension Liability to Changes in the
+Discount Rate:
+The following presents the Corporation’s proportionate share of the net pension liability
+using the current discount rate, as well as what the employer’s proportionate share of the net
+pension liability would be if it were calculated using a discount rate that is one percentage-point
+lower or one percentage-point higher than the current rate:
+45
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+9. RETIREMENT BENEFITS: (Continued)
+Sensitivity of the Employer’s Proportionate Share of the Net Pension Liability to Changes in the
+Discount Rate: (Continued)
+1.0% Decrease Current Discount 1.0% Increase
+(6.25%) Rate (7.25%) (8.25%)
+$ 32,852,355 $ 23,789,275 $ 16,087,732
+Pension Plan Fiduciary Net Position:
+Detailed information about the pension plan’s fiduciary net position is available in the
+separately issued 2024 and 2023 Annual Comprehensive Financial Reports for LASERS at
+www.lasersonline.org or on the Louisiana Legislative Auditor’s website at www.lla.la.gov.
+Payables to the Pension Plan:
+As of June 30, 2025, the Corporation reported a payable of $278,330 for outstanding
+contributions due to LASERS.
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS:
+Substantially all employees become eligible for postemployment health care and life
+insurance benefits if they reach normal retirement age while working for the Corporation. These
+benefits for retirees and similar benefits for active employees are provided through an insurance
+company whose premiums are paid jointly by the employee and the Corporation. For each of the
+years ended June 30, 2025, 25 retirees were receiving postemployment benefits.
+Plan Description:
+Employees may participate in the State of Louisiana’s Other Postemployment Benefit
+Plan (OPEB Plan), an agent multiple-employer defined benefit OPEB Plan that provides medical
+and life insurance to eligible active employees, retirees and their beneficiaries. The state
+administers the plan through the Office of Group Benefits (OGB). LRS 42:801-883 assigns the
+authority to establish and amend benefit provisions of the plan. No assets are accumulated in a
+trust that meets the criteria of Governmental Accounting Standards Board (GASB) Statement No.
+75 to pay related benefits.
+Benefits Provided:
+The OPEB Plan provides benefits such as: death benefits, life insurance, disability, and
+long-term care that are paid in the period after employment and that are provided separately from
+a pension plan, as well as healthcare benefits paid in the period after employment. The OPEB
+plan does not provide termination benefits or termination payments for sick leave.
+46
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS: (Continued)
+Contributions:
+The contribution requirements of plan members and the Corporation are established and
+may be amended by LRS 42:801-883. The OPEB Plan is currently funded on a pay-as-you-go
+basis through a combination of retiree and Corporation contributions. Employees do not
+contribute to their postemployment benefits cost until they become retirees and begin receiving
+post-employment benefits. The retirees contribute to the cost of their postemployment benefits
+based on a service schedule. Contribution amounts vary depending on what healthcare provider
+is selected from the plan and if the member has Medicare coverage. Employer contributions to
+the OPEB Plan from the Corporation were $232,704 for the year ended June 30, 2025.
+Employer contributions are based on plan premiums and the employer contribution
+percentage. This percentage is based on the date of participation in an OGB plan (before or after
+January 1, 2002) and employee years of service at retirement. Employees who began participation
+or rejoined the plan before January 1, 2002, pay approximately 25% of the cost of coverage
+(except single retirees under age 65 who pay approximately 25% of the active employee cost).
+For those beginning participation or rejoining on or after January 1, 2002, the percentage of
+premiums contributed by the employer is based on the following schedule:
+OGB Participation Retiree Share State Share
+Under 10 years 81% 19%
+10-14 years 62% 38%
+15-19 years 44% 56%
+20+ years 25% 75%
+In addition to healthcare benefits, retirees may elect to receive life insurance benefits.
+Basic and supplemental life insurance is available for the individual retiree and spouses of
+retirees, subject to maximum values. The employer pays 50% of the individual retiree’s premium.
+The retiree is responsible for 100% of the premium for dependents. Effective January 1, 2018,
+the total monthly premium for retirees varies according to age group.
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources and Deferred Inflows of
+Resources Related to OPEB:
+At June 30, 2025, the Corporation reported a liability of $11,640,890 for its proportionate
+share of the collective total OPEB liability. The collective total OPEB liability was measured as
+of July 1, 2024 and the total OPEB liability used to calculate the OPEB liability was determined
+by an actuarial valuation as of that date. The Corporation's proportion of the total OPEB liability
+was based on a projection of the Corporation's total OPEB liability relative to the projected total
+OPEB liability of all participating employers, actuarially determined. As of July 1, 2024, the
+Corporation's proportion was 0.1490%.
+47
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS: (Continued)
+OPEB Liabilities, OPEB Expense, and Deferred Outflows of Resources and Deferred Inflows of
+Resources Related to OPEB: (Continued)
+For the year ended June 30, 2025, the Corporation recognized OPEB expense of $292,315.
+As of June 30, 2025, the Corporation reported deferred outflows of resources and deferred inflows
+of resources related to OPEB from the following sources:
+Deferred Deferred
+Outflows of Inflows of
+Resources Resources
+Changes of assumptions $ 865,885 $ 1,336,703
+Differences between expected and actual
+experience 199,504 -
+Changes in employer's proportionate share 7 79,389 2 53,488
+Differences between employer contributions
+and proportionate share of contributions - 4 90,058
+Employer contributions subsequent to the
+measurement date 2 32,704 -
+Total $ 2,077,482 $ 2,080,249
+Deferred outflows of resources related to OPEB resulting from employer contributions
+subsequent to the measurement date of $232,704 will be recognized as a reduction of the
+collective total OPEB liability in the year ended June 30, 2026. Other amounts reported as
+deferred outflows of resources and deferred inflows of resources related to OPEB will be
+recognized in OPEB expense (benefit) as follows:
+Year Ended
+June 30 Amount
+2026 $ (519,414)
+2027 (188,943)
+2028 3 16,519
+2029 1 56,367
+Total $ (235,471)
+48
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS: (Continued)
+Actuarial Assumptions:
+The total OPEB liability in the July 1, 2024 actuarial valuations were determined using
+the following actuarial assumptions:
+Inflation 2 .40%
+Salary Increases 3.75%
+Investment Rate of Return 3.93%, based on the June 30, 2024 Bond Buyer 20
+Index Rate
+Healthcare Cost Trend 4 .50% - 8.50%
+Mortality Rates For general active lives: the PubG-2010 Employee
+Table, adjusted by 1.055 for males and 1.034 for
+females, projected from 2020 on a fully generational
+basis by Mortality Improvement Scale MP-2021.
+For general healthy retiree lives: the PubG-2010 Retiree
+Table, adjusted by 1.215 for males and 1.277 for
+females, projected from 2020 on a fully generational
+basis by Mortality Improvement Scale MP-2021.
+For general disabled retiree lives: the RP2000 Disabled
+Retiree Mortality Table, adjusted by 0.936 for males and
+1.065 for females, not projected with mortality
+improvement.
+For public safety active lives: the PubS-2010 Below
+Median Employee Table, adjusted by 1.050 for males
+and 0.974 for females, projected from 2020 on a fully
+generational basis by Mortality Improvement Scale MP-
+2021.
+For public safety healthy retiree lives: the PubS-2010
+Below Median Retiree Table, adjusted by 1.049 for
+males and 1.020 for females, projected from 2020 on a
+fully generational basis by Mortality Improvement
+Scale MP-2021.
+For public safety disabled retirees lives: The RP-2000
+Disabled Retiree Mortality Table, adjusted by 0.978 for
+males and 1.002 for females, not projected with
+mortality improvement.
+49
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS: (Continued)
+Actuarial Assumptions: (Continued)
+Mortality Rates (Continued) For survivors: the PubG-2010 Contingent Survivor
+Table, adjusted by 1.264 for males and 1.326 for
+females, projected from 2020 on a fully generational
+basis by Mortality Improvement Scale MP-2021.
+Discount Rate:
+The discount rate used to measure the total OPEB liability was 3.93% for 2024. The
+projection of cash flows used to determine the discount rate assumed that contributions from
+employers will be made at contractually required rates. Based on this assumption and as the OPEB
+Plan is unfunded, the OPEB plan's fiduciary net position was not projected to be available to make
+all projected OPEB payments for current active and inactive employees. Therefore, the long-term
+expected rate of return on OPEB plan investments was determined using a discount rate that
+reflects the 20-year tax-exempt municipal bond yield or index rate.
+The discount rate used to measure the total OPEB liability was decreased to 3.93% in July
+1, 2024 valuation from 4.13% as of July 1, 2023
+Sensitivity of the Corporation's Proportionate Share of the Collective Total OPEB Liability to
+Changes in the Discount Rate:
+The following presents the Corporation's proportionate share of the collective total OPEB
+liability using the current discount rate, as well as what the Corporation's proportionate share of
+the collective total OPEB liability would be if it were calculated using a discount rate that is 1%
+lower or 1% higher than the current discount rate:
+Current
+1.0% Decrease Discount Rate 1.0% Increase
+(2.93%) (3.93%) (4.93%)
+Corporation's proportionate share of
+the collective total OPEB liability $ 13,707,229 $ 1 1,640,890 $ 9,992,038
+The following presents the Corporation's proportionate share of the collective total OPEB
+liability using the healthcare cost trend rates, as well as what the Corporation's proportionate share
+of the collective total OPEB liability would be if it were calculated using healthcare cost trend
+rates that are 1% lower or 1% higher than the current healthcare cost trend rates:
+Healthcare
+1.0% Decrease Cost Trend 1.0% Increase
+Corporation's proportionate share of
+the collective total OPEB liability $ 9,850,337 $ 1 1,640,890 $ 13,937,559
+50
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+10. POSTEMPLOYMENT HEALTH CARE AND LIFE INSURANCE BENEFITS: (Continued)
+Payables to the OPEB Plan:
+As of June 30, 2025, the Corporation did not report any outstanding amount of
+contributions payable to the OPEB Plan.
+11. RESTRICTED NET POSITION:
+For the Statement of Net Position, net position is reported as restricted when constraints
+placed on net position use are either:
+• Externally imposed by creditors (such as debt covenants), grantors, contributors, or
+laws or regulations of other governments; or
+• Imposed by law through constitutional provisions or enabling legislation.
+At June 30, 2025, the statement of net position reports the following restricted net position:
+Restricted to fund future lending programs:
+Cash and cash equivalents $ 63,099,518
+Mortgage loans and
+mortgage backed securities 1,423,218,642
+Accrued interest receivable 90,117,178
+Less: provision for loan losses (162,646,633)
+Less: accrued interest payable (2,473,469)
+Less: bonds payable (671,238,327)
+Less: due to other governments (233,718)
+Less: deferred inflows of resources
+related to debt financing (232,853)
+739,610,338
+Restricted for use in federal grant programs:
+Cash 17,014,286
+Cash equivalents 5,561,366
+Investments 5,322,949
+Mid-City Gardens 8,089,819
+Less: amounts held in escrow (973,922)
+35,014,498
+Restricted Net Position $ 774,624,836
+51
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+12. UNRESTRICTED NET POSITION – DEFICIT BALANCE:
+The Corporation has a deficit of $6,368,569 in unrestricted net position as of June 30,
+2025. This is primarily due to the recording of a net pension liability of $23,789,275 and an OPEB
+liability of $11,640,890 as of June 30, 2025 offset by beginning of year restatements totaling
+$51,672,563. Additionally, the Corporation reported operating income of approximately $10.5
+million for the year ended June 30, 2025, which further increased unrestricted net position.
+Although the Corporation has a deficit in unrestricted net position, the Corporation’s
+overall net position is a surplus of approximately $822 million as of June 30, 2025. Management
+is currently evaluating the deficit in unrestricted net position in order to develop a plan to increase
+the Corporation’s profits.
+13. FEDERAL FINANCIAL ASSISTANCE:
+Federal grant programs represent an important source of funding to finance housing
+programs which are beneficial to the State of Louisiana. These grants are recorded as non-
+operating income and expense, and any assets held in relation to the programs are restricted.
+Receivables are established when eligible expenditures are incurred. The grants specify the
+purpose for which funds may be used and are subject to audit in accordance with Title 2 U.S.
+Code of Federal Regulations (CFR) Part 200, Uniform Administrative Requirements, Cost
+Principles, and Audit Requirements for Federal Awards.
+In the normal course of operations, grant funds are received from various federal and state
+agencies. The grant programs are subject to audit by agents of the granting authority, the purpose
+of which is to ensure compliance with conditions precedent to the granting of funds. These audits
+can result in restitution to the federal agency as a result of noncompliance.
+14. CONCENTRATIONS AND CONSTRAINTS:
+In accordance with Governmental Accounting Standards Board Statement No. 102,
+Certain Risk Disclosures, the Corporation has evaluated known concentrations and constraints that
+could significantly affect the Corporation’s ability to ensure Louisiana residents have access to
+safe, affordable and energy-efficient housing and to meet financial obligations.
+Known Concentrations
+As of June 30, 2025, the Corporation is exposed to the following concentration risks:
+ Inflows of Resources: The Corporation receives funding from the federal
+government in the form of grants. Without federal funding, the Corporation would
+be unable to provide assistance to the residents of Louisiana.
+52
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+14. CONCENTRATIONS AND CONSTRAINTS: (Continued)
+Known Concentrations (Continued)
+ Industry: The Corporation’s objective to provide safe, affordable and energy-
+efficient housing to the residents of Louisiana is dependent on the demand for
+housing. Economic changes to the housing industry could negatively affect the
+Corporation’s ability to provide services.
+ Common Ownership: HOME and CDBG program loans are issued to single family
+borrowers and multifamily low-income housing projects throughout Louisiana. A
+substantial portion of the multifamily low-income housing project loans have been
+issued among entities with a common ownership.
+Known Constraints
+As of June 30, 2025, the Corporation is exposed to the following operational constraints:
+ Mandated spending: A significant portion of the Corporation’s expenditures are
+subject to federal laws and regulations. Non-compliance with federal laws and
+regulations could result in decreased federal funding.
+Management regularly monitors these risks and believes the strategies of current
+governance mitigates any impact.
+15. RISK MANAGEMENT:
+The Corporation is exposed to various risks of loss related to torts; theft of, damage to and
+destruction of assets; errors and omissions; and injuries to employees. To provide coverage for
+these risks, the Corporation participates with the State of Louisiana’s Office of Risk Management
+(ORM), a public corporation risk pool currently operating as a common risk management and
+insurance program for branches of state government. An annual premium is paid to ORM for this
+coverage.
+16. COMMITMENTS AND CONTINGENCIES:
+The Corporation receives significant financial assistance from the Federal Government
+Department of Housing and Urban Development (HUD) in the form of grants and entitlements,
+which are conditioned upon compliance with terms and conditions of the grant agreements and
+applicable federal regulations. During fiscal year ended June 30, 2017, HUD performed a review
+of the HOME program and issued a complaint letter concerning the Corporation’s administration
+of the HOME Investment Partnership Programs. As a result of the review and subsequent
+discussions, HUD is demanding reimbursement of funds totaling $1,350,000. The Corporation
+has accrued a contingent liability of $1,000,000 in the due to other governments in the statement
+of net position awaiting final resolution of ongoing negotiations with HUD.
+53
+LOUISIANA HOUSING CORPORATION
+NOTES TO FINANCIAL STATEMENTS
+JUNE 30, 2025
+16. COMMITMENTS AND CONTINGENCIES: (Continued)
+The Corporation is a defendant in lawsuits filed by various parties. It is the opinion of the
+Corporation's counsel that estimated potential losses for general damages could range from
+$75,000 to $500,000. However, additional potential losses for any other special damages are not
+determinable. The Corporation intends to vigorously defend these claims. An unfavorable
+outcome for the Corporation of these claims is not probable. Litigation in which losses to the
+Corporation is reasonably possible has not been accrued.
+17. CHANGE IN ACCOUNTING PRINCIPLE:
+July 1, 2024, the Corporation implemented Governmental Accounting Standards Board
+(GASB) Statement No. 101 Compensated Absences. As a result of the new accounting standard,
+the Corporation’s beginning net position decreased and net compensated absences liabilities
+increased $715,336.
+18. CHANGE IN REPORTING ENTITY:
+During the year ended June 30, 2025, the Corporation determined the Single Family
+Mortgage Revenue Bonds Home Ownership Program was a limited obligation of the Corporation
+and not conduit debt as previously reported. As a result, the beginning net position increased by
+$36,990,211 to include the net position of the Single Family Mortgage Revenue Bond Program.
+19. ERROR CORRECTION:
+During the year ended June 30, 2025, the Corporation determined that certain inter-fund
+transactions with the Single Family Mortgage Revenue Bonds Home Ownership Program had
+been recorded as a reduction in a mortgage loan receivable instead of a transfer of funds for the
+fiscal years June 30, 2019 through June 30, 2024. To correct this error, the beginning net position
+of the General Fund has been increased by $15,397,688.
+54
+LOUISIANA HOUSING CORPORATION
+REQUIRED SUPPLEMENTARY INFORMATION
+SCHEDULE OF THE CORPORATION'S PROPORTIONATE
+SHARE OF COLLECTIVE TOTAL OPEB LIABILITY
+FOR THE EIGHT YEARS ENDED JUNE 30, 2025
+Corporation's
+Proportionate
+Corporation's Corporation's Share of the
+Proportion Proportionate Collective Total OPEB
+of the Collective Share of the Corporation's Liability as a %
+Fiscal Total OPEB Collective Total Covered of its Covered
+Year* Liability OPEB Liability Payroll Payroll
+2025 0.1490% $ 11,640,890 $ 9,537,190 122%
+2024 0.1380% $ 9,862,098 $ 8,815,867 112%
+2023 0.1397% $ 9,426,890 $ 7,843,693 120%
+2022 0.1457% $ 13,339,342 $ 7,591,678 176%
+2021 0.1366% $ 11,319,298 $ 7,786,924 145%
+2020 0.1424% $ 10,994,350 $ 7,199,154 153%
+2019 0.1291% $ 11,020,220 $ 6,294,504 175%
+2018 0.1291% $ 11,222,480 $ 5,781,619 194%
+*The amounts presented for each fiscal year were determined as of the prior fiscal year
+ended.
+This schedule is intended to show information for 10 years. Additional years will be
+presented as they become available.
+55
+LOUISIANA HOUSING CORPORATION
+REQUIRED SUPPLEMENTARY INFORMATION
+SCHEDULE OF THE CORPORATION'S PROPORTIONATE
+SHARE OF THE NET PENSION LIABILITY
+FOR THE TEN YEARS ENDED JUNE 30, 2025
+Corporation's
+Proportionate
+Corporation's Corporation's Share of the Plan Fiduciary
+Proportion Proportionate Net Pension Net Position
+of the Share of the Corporation's Liability as a % as a % of the
+Fiscal Net Pension Net Pension Covered of its Covered Total Pension
+Year* Liability Liability Payroll Payroll Liability
+2025 0.43745 % $ 23,789,275 $ 10,144,891 235% 74.6%
+2024 0.43320 % $ 28,996,432 $ 9,558,269 303% 68.4%
+2023 0.43871 % $ 33,165,041 $ 8,965,658 370% 63.7%
+2022 0.40315 % $ 22,189,223 $ 8,706,181 255% 72.8%
+2021 0.41890 % $ 34,645,497 $ 8,281,601 418% 58.0%
+2020 0.39129 % $ 28,348,404 $ 7,833,901 362% 62.9%
+2019 0.39202 % $ 26,735,410 $ 7,339,373 364% 64.3%
+2018 0.34293 % $ 24,138,414 $ 5,966,126 405% 62.5%
+2017 0.32222 % $ 25,302,649 $ 6,496,374 389% 57.7%
+2016 0.37644 % $ 25,603,670 $ 7,562,192 339% 62.7%
+*The amounts presented for each fiscal year were determined as of the prior fiscal year ended.
+56
+LOUISIANA HOUSING CORPORATION
+REQUIRED SUPPLEMENTARY INFORMATION
+SCHEDULE OF THE CORPORATION'S PENSION CONTRIBUTIONS
+FOR THE TEN YEARS ENDED JUNE 30,2025
+Contributions in
+Relation to Contributions as
+Contractually Contractually Contribution Corporation's a Percentage of
+Fiscal Required Required Deficiency Covered Covered
+Year* Contribution Contribution (Excess) Payroll Payroll
+2025 $ 3,408,347 $ 3,408,219 $ 128 $ 9,811,015 34.7%
+2024 $ 4,189,840 $ 4,176,186 $ 13,654 $ 10,144,891 41.2%
+2023 $ 3,861,541 $ 3,860,446 $ 1,095 $ 9,558,269 40.4%
+2022 $ 3,541,435 $ 3,620,666 $ (79,231) $ 8,965,658 40.4%
+2021 $ 3,491,179 $ 3,490,835 $ 344 $ 8,706,181 40.1%
+2020 $ 3,370,612 $ 3,369,297 $ 1,315 $ 8,281,601 40.7%
+2019 $ 2,969,048 $ 2,970,805 $ (1,757) $ 7,833,901 37.9%
+2018 $ 2,781,622 $ 2,782,983 $ (1,361) $ 7,339,373 37.9%
+2017 $ 2,135,873 $ 2,135,701 $ 172 $ 5,966,126 35.8%
+2016 $ 2,416,651 $ 2,416,651 $ - $ 6,496,374 37.2%
+*The amounts presented were determined as of the end of the fiscal year.
+57
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+1. Schedule of the Corporation’s Proportionate Share of the Collective Total Other Post-employment
+Benefit Liability in the State of Louisiana Post-employment Benefits Plan:
+This schedule reflects the participation of the Corporation’s employees in the State of
+Louisiana Post-employment Benefits Plan and its proportionate share of the collective total other
+post-employment liability, and the proportionate share of the collective total other post-employment
+benefits liability as a percentage of its covered payroll. The employers’ collective total other post-
+employment benefit liability is the liability of the Corporation’s employees for benefits provided
+through the State of Louisiana Post-employment Benefits Plan. Covered payroll is the payroll of all
+employees that are provided with benefits through the plan. The amounts in the schedule for each
+fiscal year were determined as the prior fiscal year ended.
+No assets are accumulated in a trust that meets the criteria in paragraph 4 of the
+Governmental Accounting Standards Board Statement No. 75 to pay related benefits.
+2. Schedule of the Corporation’s Proportionate Share of the Net Pension Liability in the Louisiana State
+Employees' Retirement System:
+This schedule reflects the participation of the Corporation’s employees in Louisiana State
+Employees' Retirement System and its proportionate share of the net pension liability, the
+proportionate share of the net pension liability as a percentage of its covered payroll, and the plan
+fiduciary net position as a percentage of the total pension liability. The employers’ net pension
+liability is the liability of the Corporation’s employees for benefits provided through Louisiana State
+Employees' Retirement System. Covered payroll is the payroll on which contributions to the
+Louisiana State Employees’ Retirement System are based. The amounts in the schedule for each
+fiscal year were determined as the prior fiscal year ended.
+3. Schedule of the Corporation’s Pension Contributions:
+The difference between actuarially determined employer contributions and employer
+contributions received, and the percentage of employer contributions received to covered payroll, is
+presented in this schedule. The amounts presented in the schedule were determined as of the end of
+each fiscal year.
+4. Changes in Benefit Terms:
+Pension Plan
+Act 656 of 2022 provided a one-time supplemental payment equal to the lesser of the retiree’s
+or beneficiary’s monthly benefit, or $2,000. Eligibility was based on the current statutory COLA
+eligibility requirements.
+58
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+4. Changes in Benefit Terms: (Continued)
+Pension Plan: (Continued)
+During the reporting period 2017, a Cost-of-Living Adjustment (COLA) was granted by
+LASERS of 1.5%.
+Act 37 of 2021 provided a monthly benefit increase to LASERS retirees that on June 30,
+2021 have attained age 60, have 30 or more years of service, have been retired 15 or more years,
+receive a monthly benefit less than $1,450, and have not participated in DROP or IBO.
+OPEB Plan
+There were no changes in benefit terms for the State of Louisiana OPEB Plan for any of the
+years presented.
+5. Changes in Assumptions:
+Pension Plan
+Louisiana State Employees' Retirement System (LASERS)
+Investment Expected Termination, disability,
+Inflation Mortality Rate - Active &
+Valuation Date Rate of Remaining Salary Increases and retirement
+Rate Retired Members
+Return Service Lives assumptions
+Mortality rates based on the RP-
+Projected on a 5 year
+2021 mortality tables for non-
+June 30, 2024 7.25% 2.40% 2 Years 2.4% - 15.3% (2019-2023)
+disabled members and RP-
+experience study
+2000 for disabled members
+Mortality rates based on the RP-
+Projected on a 5 year
+2014 mortality tables for non-
+June 30, 2023 7.25% 2.30% 2 Years 2.6% - 13.8% (2014-2018)
+disabled members and RP-
+experience study
+2000 for disabled members
+Mortality rates based on the RP-
+Projected on a 5 year
+2014 mortality tables for non-
+June 30, 2022 7.25% 2.30% 2 Years 2.6% - 13.8% (2014-2018)
+disabled members and RP-
+experience study
+2000 for disabled members
+Mortality rates based on the RP-
+Projected on a 5 year
+2014 mortality tables for non-
+June 30, 2021 7.40% 2.30% 2 Years 2.6% - 13.8% (2014-2018)
+disabled members and RP-
+experience study
+2000 for disabled members
+Mortality rates based on the RP-
+Projected on a 5 year
+2014 mortality tables for non-
+June 30, 2020 7.55% 2.30% 2 Years 2.6% - 13.8% (2014-2018)
+disabled members and RP-
+experience study
+2000 for disabled members
+Mortality rates based on the RP-
+Projected on a 5 year
+2014 mortality tables for non-
+June 30, 2019 7.60% 2.50% 2 Years 2.8% - 14.0% (2014-2018)
+disabled members and RP-
+experience study
+2000 for disabled members
+59
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+5. Changes in Assumptions: (Continued)
+Pension Plan: (Continued)
+Louisiana State Employees' Retirement System (LASERS)
+Investment Expected Termination, disability,
+Inflation Mortality Rate - Active &
+Valuation Date Rate of Remaining Salary Increases and retirement
+Rate Retired Members
+Return Service Lives assumptions
+Mortality rates based on the RP-
+Projected on a 5 year
+2000 mortality tables for non-
+June 30, 2018 7.65% 2.75% 3 Years 2.8% - 14.3% (2009-2013)
+disabled members and disabled
+experience study
+members
+Mortality rates based on the RP-
+Projected on a 5 year
+2000 mortality tables for non-
+June 30, 2017 7.70% 2.75% 3 Years 2.8% - 14.3% (2009-2013)
+disabled members and disabled
+experience study
+members
+Mortality rates based on the RP-
+Projected on a 5 year
+2000 mortality tables for non-
+June 30, 2016 7.75% 3.00% 3 Years 3.0% - 14.5% (2009-2013)
+disabled members and disabled
+experience study
+members
+Mortality rates based on the RP-
+Projected on a 5 year
+2000 mortality tables for non-
+June 30, 2015 7.75% 3.00% 3 Years 3.0% - 14.5% (2009-2013)
+disabled members and disabled
+experience study
+members
+OPEB Plan
+The discount rate changed from 2.71% as of July 1, 2016 to 3.13% as of July 1, 2017, for
+the State of Louisiana OPEB Plan.
+The discount rate changed from 3.13% as of July 1, 2017 to 2.98% as of July 1, 2018, for
+the State of Louisiana OPEB Plan.
+Other changes in assumptions as of July 1, 2018 were as follows:
+1. Baseline per capita costs were updated to reflect 2018 claims and enrollment and retiree
+contributions were updated based on 2019 premiums. The impact of the High Cost
+Excise Tax was revisited, reflecting updated plan premiums.
+2. The mortality assumption for the Louisiana State Employees’ Retirement System was
+updated from the RP-2014 Healthy Annuitant and Employee tables for males and
+females with generational projections using projection scale MP-2017 to the RP-2014
+Healthy Annuitant and Employee tables for males and females using projection scale
+MP-2018.
+The discount rate changed from 2.98% as of July 1, 2018 to 2.79% as of July 1, 2019, for
+the State of Louisiana OPEB Plan.
+60
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+5. Changes in Assumptions: (Continued)
+OPEB Plan: (Continued)
+Other changes in assumptions as of July 1, 2019 were as follows:
+1. Baseline per capita costs (PCCs) were updated to reflect 2019 claims and enrollment
+and retiree contributions were updated based on 2020 premiums. Plan claims and
+premiums increased less than had been expected, which decreased the Plan’s liability.
+In addition, the estimate of future EGWP savings was increased, based on an analysis
+of recent EGWP experience. This further reduced the Plan’s liability.
+2. Life insurance contributions were updated based on updated schedules for 2020 monthly
+premium rates, which reduced the Plan’s liability.
+3. The impact of the High Cost Excise Tax was removed. The High Cost Excise Tax was
+repealed in December 2019. This reduced the Plan’s liability.
+4. Demographic assumptions were revised for the Louisiana State Employees’ Retirement
+System to reflect the recent experience study.
+The discount rate changed from 2.79% as of July 1, 2019 to 2.66% as of July 1, 2020, for
+the State of Louisiana OPEB Plan.
+Other changes in assumptions as of July 1, 2020 were as follows:
+1. Baseline per capita costs (PCCs) were updated to reflect 2020 claims and enrollment for
+the prescription drug costs and retiree contributions were updated based on 2021
+premiums. Plan claims and premiums increased less than had been expected, which
+decreased the Plan’s liability. In addition, the estimate of future EGWP savings was
+increased, based on an analysis of recent EGWP experience. This further reduced the
+Plan’s liability.
+2. Economic assumptions were updated to reflect the updated salary scale assumptions
+adopted by LASERS and TRSL. This slightly increased the Plan’s liability.
+3. Several demographic assumptions were updated based on a review of OPEB experience
+from July 1, 2017 through June 30, 2020.
+a. Medical participation rates were decreased, decreasing the Plan’s liability.
+b. The life participation rate was decreased from 52% to 36%, decreasing the Plan’s
+liability.
+61
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+5. Changes in Assumptions: (Continued)
+OPEB Plan: (Continued)
+c. The age difference between future retirees and their spouses was updated,
+increasing the Plan’s liability.
+d. The assumed percent of participants assumed to be Medicare-eligible upon
+reaching age 65 was updated, increasing the Plan’s liability.
+e. Medical plan election percentages were updated which contributed to a decrease in
+the Plan’s liability associated with updating baseline per capita costs (PCCs) and
+premiums.
+The discount rate changed from 2.66% as of July 1, 2020 to 2.18% as of July 1, 2021, for
+the State of Louisiana OPEB Plan.
+Other changes in assumptions as of July 1, 2021 were as follows:
+1. Baseline per capita costs (PCCs) were updated to reflect 2021 claims and enrollment.
+2. Medical plan election percentages were updated based on the coverage election of recent
+retirees.
+3. The healthcare cost trend rate assumption was revised based on updated National Health
+Care Trend Survey information.
+4. Inflation rate changed from 2.80% as of July 1, 2020 to 2.40% as of July 1, 2021.
+The discount rate changed from 2.18% as of July 1, 2021 to 4.09% as of July 1, 2022, for
+the State of Louisiana OPEB Plan.
+Other changes in assumptions as of July 1, 2022 were as follows:
+1. Baseline per capita costs (PCCs) were updated to reflect 2022 claims and enrollment.
+2. Medical plan election percentages were updated based on the coverage election of recent
+retirees.
+3. The withdrawal assumption for LASERS Wildlife participants and the morality rate
+assumptions for LASERS Public Safety participants have been updated.
+62
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+NOTES TO REQUIRED SUPPLEMENTARY INFORMATION
+JUNE 30, 2025
+5. Changes in Assumptions: (Continued)
+OPEB Plan: (Continued)
+The discount rate changed from 4.09% as of July 1, 2022 to 4.13% as of July 1, 2023, for
+the State of Louisiana OPEB Plan.
+Other changes in assumptions as of July 1, 2023 were as follows:
+1. Baseline per capita costs (PCCs) were updated to reflect 2023 claims and enrollment.
+2. Medical plan election percentages were updated based on the coverage election of recent
+retirees.
+3. The mortality, retirement, termination, disability, and salary increase rates for the TRSL,
+LSERS, and LSPRS groups were updated. Additionally, all TRSL assumptions that
+were based on the Regular plan assumptions only have been updated to vary by sub-
+plan as applicable (Regular, Higher Ed, and Lunch).
+4. The healthcare cost trend was updated.
+The discount rate changed from 4.13% as of July 1, 2023 to 3.93% as of July 1, 2024, for
+the State of Louisiana OPEB Plan.
+1. Baseline per capita costs (PCCs) were updated to reflect 2024 claims and enrollment.
+2. Medical plan election percentages were updated based on the coverage elections of
+recent retirees.
+3. The morality, retirement, termination, disability, and salary increase rates for the
+LASERS group were updated.
+4. The healthcare cost trend was updated.
+63
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+OTHER SUPPLEMENTARY INFORMATION
+SCHEDULE OF PER DIEM PAID TO BOARD MEMBERS
+JUNE 30, 2025
+Sarah Collier $ 1,250
+Stephen Dwyer 750
+Wendy Gentry 950
+Christian Gil 700
+Alfred Harrell, III 500
+Steven Hattier 900
+Tonya Mabry 550
+Shawn Miller 200
+Lance Ned 250
+Kristen O'Keefe 550
+Willie Rack 650
+Jennifer Vidrine 800
+Brandon Williams 1,000
+Richard Winder 1,050
+$ 10,100
+Note: The State Treasurer is absent from the above schedule, as he has elected to not receive meeting fees.
+64
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF NET POSITION
+JUNE 30, 2025
+Single Family Mortgage Revenue Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Eliminations Combined
+ASSETS:
+Unrestricted Assets:
+Cash and cash equivalents $ 7,397,823 $ - $ - $ - $ - $ 7 ,397,823
+Cash and cash equivalents - Work Force Initiative 3,179,999 - - - - 3,179,999
+Investments 203,028 - - - - 203,028
+Investments - Work Force Initiative 988,670 - - - - 988,670
+Mortgage loans receivable 369,762 - - - - 369,762
+Accrued investment interest receivable 51,662 - - - - 51,662
+Other receivables 23,524,691 - - - - 2 3,524,691
+Due from other governments 5,610,949 - - - - 5,610,949
+Due from MRB programs 233,718 - - - (233,718) -
+Capital assets (net of accumulated depreciation of $42,192,642) 53,473,945 - - - - 5 3,473,945
+Other assets 460,624 - - - - 460,624
+Total Unrestricted Assets 9 5,494,871 - - - (233,718) 95,261,153
+Restricted Assets:
+Cash and cash equivalents 22,575,652 37,259,269 2 5,840,249 63,099,518 - 8 5,675,170
+Investments 5,322,949 - - - - 5,322,949
+Mortgage loans and mortgage-backed securities
+Single Family (net of allowance for loan losses of $1,611,529) 21,663,093 593,286,917 5 9,210,513 652,497,430 - 674,160,523
+Multifamily (net of allowance for loan losses of $161,035,104) 586,411,486 - - - - 586,411,486
+Accrued loan interest receivable 87,312,476 2,520,665 284,037 2,804,702 - 9 0,117,178
+Capital assets (net of accumulated depreciation of $6,237,446) 8,089,819 - - - - 8,089,819
+Total Restricted Assets 731,375,475 633,066,851 8 5,334,799 718,401,650 - 1,449,777,125
+Total Assets 826,870,346 633,066,851 8 5,334,799 718,401,650 (233,718) 1,545,038,278
+DEFERRED OUTFLOWS OF RESOURCES:
+Deferred outflows of resources related to pensions 3,712,695 - - - - 3,712,695
+Deferred outflows of resources related to OPEB 2,077,482 - - - - 2,077,482
+Total Deferred Outflows of Resources 5,790,177 - - - - 5,790,177
+TOTAL ASSETS AND DEFERRED OUTFLOWS
+OF RESOURCES $ 832,660,523 $ 633,066,851 $ 85,334,799 $ 718,401,650 $ (233,718) $ 1,550,828,455
+(Continued)
+65
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF NET POSITION
+JUNE 30, 2025
+Single Family Mortgage Revenue Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Eliminations Combined
+LIABILITIES:
+Current Liabilities:
+Accounts payable and accrued liabilities $ 6,543,220 $ - $ - $ - $ - $ 6,543,220
+Accrued interest payable - 2,165,807 307,662 2,473,469 - 2,473,469
+Bonds payable - 11,841,388 897,174 12,738,562 - 12,738,562
+Due to other governments 1,000,000 - - - - 1,000,000
+Due to other funds - 209,578 24,140 233,718 (233,718) -
+Compensated absences due within one year 69,168 - - - - 6 9,168
+Other postemployment benefits payable due within one year 232,704 - - - - 232,704
+Total Current Liabilities 7,845,092 14,216,773 1,228,976 15,445,749 (233,718) 23,057,123
+Non-Current Liabilities:
+Compensated absences 2,372,577 - - - - 2,372,577
+Net pension liability 23,789,275 - - - - 23,789,275
+Other postemployment benefits payable 11,408,186 - - - - 11,408,186
+Amounts held in escrow 973,922 - - - - 973,922
+Bonds payable - 5 80,445,300 7 8,054,465 658,499,765 - 6 58,499,765
+Total Non-Current Liabilities 38,543,960 5 80,445,300 7 8,054,465 658,499,765 - 6 97,043,725
+Total Liabilities 46,389,052 5 94,662,073 7 9,283,441 6 73,945,514 (233,718) 720,100,848
+DEFERRED INFLOWS OF RESOURCES:
+Deferred inflows of resources related to debt refinancing - 232,853 - 232,853 - 232,853
+Deferred inflows of resources related to unearned income 3,717,332 - - - - 3,717,332
+Deferred inflows of resources related to pensions 2,966,961 - - - - 2,966,961
+Deferred inflows of resources related to OPEB 2,080,249 - - - - 2,080,249
+Total Deferred Inflows of Resources 8,764,542 232,853 - 232,853 - 8,997,395
+NET POSITION:
+Net investment in capital assets 53,473,945 - - - - 53,473,945
+Restricted 730,401,553 38,171,925 6,051,358 44,223,283 - 7 74,624,836
+Unrestricted (6,368,569) - - - - ( 6,368,569)
+Total Net Position 777,506,929 38,171,925 6,051,358 44,223,283 - 8 21,730,212
+TOTAL LIABILITIES, DEFERRED INFLOWS
+OF RESOURCES, AND NET POSITION $ 832,660,523 $ 633,066,851 $ 85,334,799 $ 718,401,650 $ ( 233,718) $ 1,550,828,455
+See accompanying notes.
+66
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Mortgage Revenue Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Eliminations Combined
+OPERATING REVENUES:
+MRB program issuer fees $ 2,169,222 $ - $ - $ - $ - $ 2,169,222
+Low income housing tax credit program fees 3,035,280 - - - - 3,035,280
+Federal program administrative fees 9,026,522 - - - - 9,026,522
+Federal project delivery fees 7,257,081 - - - - 7,257,081
+State project delivery fees 122,316 - - - - 122,316
+Mortgage loan interest income 18,432 - - - - 1 8,432
+Investment interest and dividend income 951,940 32,697,861 1,121,770 3 3,819,631 - 34,771,571
+Gain (loss) on investments/mortgage-backed securities 123,606 7,091,065 702,821 7,793,886 - 7,917,492
+Single family turnkey program fees 147,839 - - - - 147,839
+Other income 393,353 (4,076) - (4,076) - 389,277
+Total Operating Revenue 23,245,591 39,784,850 1,824,591 4 1,609,441 - 64,855,032
+OPERATING EXPENSES:
+Personnel services 14,657,729 - - - - 14,657,729
+Supplies 888,460 - - - - 888,460
+Travel 253,010 - - - - 253,010
+Operating services 1,749,929 - - - - 1,749,929
+Professional services 6,152,911 - - - - 6,152,911
+Interest expense - 25,186,033 1,145,783 2 6,331,816 - 26,331,816
+General and administrative - 2,695,829 1,159,790 3,855,619 - 3,855,619
+Depreciation 424,046 - - - - 424,046
+Total Operating Expenses 24,126,085 27,881,862 2,305,573 3 0,187,435 - 54,313,520
+Operating income (loss) (880,494) 11,902,988 ( 480,982) 11,422,006 - 10,541,512
+(Continued)
+67
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Eliminations Combined
+NON-OPERATING REVENUES (EXPENSES):
+Grant funds drawn 481,033,665 - - - - 481,033,665
+Grant funds disbursed (256,210,452) - - - - (256,210,452)
+Net loss from rental property (1,346,112) - - - - (1,346,112)
+Net loss from rental property - restricted (573,232) - - - - (573,232)
+Provision for loan losses (41,730,264) - - - - (41,730,264)
+Restricted mortgage loan interest income 6,146,073 - - - - 6,146,073
+Restricted investment income 21,741 - - - - 2 1,741
+Restricted unrealized gain 419,646 - - - - 419,646
+Legislative acts pension contribution income 131,768 - - - - 131,768
+Investment income - Work Force Initiative 61,499 - - - - 6 1,499
+Unrealized gain (loss) - Work Force Initiative 18,350 - - - - 1 8,350
+Total Non-Operating Revenues (Expenses) 187,972,682 - - - - 187,972,682
+Income (loss) before transfers and net contributions $ 187,092,188 $ 11,902,988 $ (480,982) $ 11,422,006 $ - $ 198,514,194
+Transfers from (to) MRB Programs 4,188,934 - 6,532,340 6,532,340 ( 10,721,274) -
+Transfers to (from) General Fund - (10,721,274) - (10,721,274) 10,721,274 -
+Change in Net Position 1 91,281,122 1,181,714 6,051,358 7,233,072 - 198,514,194
+NET POSITION - Beginning of year, as previously reported 571,543,455 - - - - 571,543,455
+Restatement due to change in accounting principle (715,336) - - - - (715,336)
+Restatement due to error correction 15,397,688 - - - - 15,397,688
+Restatement due to change in reporting entity - 36,990,211 - 36,990,211 - 36,990,211
+NET POSITION - Beginning of year, as restated 586,225,807 3 6,990,211 - 36,990,211 - 623,216,018
+NET POSITION - End of year $ 777,506,929 $ 38,171,925 $ 6 ,051,358 $ 44,223,283 - $ 821,730,212
+See accompanying notes.
+68
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Mortgage Revenue Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Combined
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Cash received from:
+Fee revenue collected $ 21,747,217 $ - $ - $ - $ 21,747,217
+Investment and mortgage loan income 970,373 3 2,172,462 837,734 3 3,010,196 33,980,569
+Mortgage collections and mortgage-backed securities redeemed 721,246 2 4,811,251 - 2 4,811,251 25,532,497
+Other - 53,457 24,140 77,597 77,597
+Cash paid to:
+Suppliers of service (9,097,965) (2,695,832) (1,159,790) (3,855,622) (12,953,587)
+Mortgage loans issued and mortgage-backed securities purchased - (130,088,072) (58,507,692) (188,595,764) (188,595,764)
+Interest paid on bonds - (26,451,089) (871,709) (27,322,798) (27,322,798)
+Employees and benefit providers (16,077,523) - - - (16,077,523)
+Other - (14,414) - (14,414) (14,414)
+Net cash used in operating activities (1,736,652) (102,212,237) (59,677,317) (161,889,554) (163,626,206)
+CASH FLOWS FROM NONCAPITAL
+FINANCING ACTIVITIES:
+Net transfers from (to) MRB programs (2,405,993) (10,721,275) 6,532,341 (4,188,934) (6,594,927)
+Receipt of grants 480,972,545 - - - 480,972,545
+Disbursement of grants (254,357,320) - - - (254,357,320)
+Mortgage collections 888,435 - - - 888,435
+Mortgage purchases (228,611,106) - - - (228,611,106)
+Other non-operating income 1,493,253 - - - 1,493,253
+Issuance of bonds - 7 2,872,387 78,985,226 151,857,613 151,857,613
+Repayment of bonds - (28,625,710) - (28,625,710) (28,625,710)
+Net change in escrow accounts (29,611) - - - (29,611)
+Net cash provided by (used in) noncapital financing activities (2,049,797) 3 3,525,402 85,517,567 119,042,969 116,993,172
+(Continued)
+69
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Combined
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Investments purchased (20,442,753) - - - (20,442,753)
+Investments redeemed 27,110,908 - - - 2 7,110,908
+Interest payments received 83,241 - - - 83,241
+Net change in activity of investment in rental properties 989,001 - - - 989,001
+Net cash provided by (used in) investing activities 7,740,397 - - - 7,740,397
+CASH FLOWS USED IN CAPITAL FINANCING ACTIVITIES:
+Purchase of property and equipment (131,888) - - - ( 131,888)
+Loss on sale of property and equipment 138,544 - - - 138,544
+Net cash provided by capital financing activities 6,656 - - - 6 ,656
+NET INCREASE (DECREASE) IN CASH AND
+CASH EQUIVALENTS $ 3 ,960,604 $ (68,686,835) $ 25,840,250 $ (42,846,585) $ (38,885,981)
+CASH AND CASH EQUIVALENTS, beginning of year 2 9,192,870 105,946,105 - 105,946,105 135,138,975
+CASH AND CASH EQUIVALENTS, end of year $ 33,153,474 $ 37,259,270 $ 25,840,250 $ 63,099,520 $ 96,252,994
+Presented on Statement of Net Position as
+Unrestricted $ 10,577,822 $ - $ - $ - $ 10,577,822
+Restricted 22,575,652 37,259,269 25,840,249 6 3,099,518 85,675,170
+$ 33,153,474 $ 37,259,269 $ 25,840,249 $ 63,099,518 $ 96,252,992
+(Continued)
+70
+LOUISIANA HOUSING CORPORATION
+SUPPLEMENTARY INFORMATION
+COMBINING STATEMENT OF CASH FLOWS
+FOR THE YEAR ENDED JUNE 30, 2025
+Single Family Bonds
+Total Single
+General Fund 1998 Indenture 2025 Indenture Family Bonds Combined
+RECONCILIATION OF OPERATING INCOME (LOSS) TO NET CASH
+PROVIDED BY (USED IN) OPERATING ACTIVITIES:
+Operating income (loss) $ (880,494) $ 11,902,988 $ (480,982) $ 11,422,006 $ 10,541,512
+Adjustments to reconcile operating loss to net
+cash provided by (used in) operating activities:
+Depreciation 424,046 - - - 424,046
+Amortization of bond discount (premium) - (1,499,467) (33,588) (1,533,055) (1,533,055)
+Amortization of debt refunding - 11,364 - 11,364 11,364
+(Gain) loss on investments/mortgage-backed securities (123,606) 7,091,064 702,822 7,793,886 7,670,280
+Change in mortgage loans receivable 721,246 - 721,246
+Change in other receivables 12,853 - 12,853
+Change in due from governments (349,990) - ( 349,990)
+Change in other assets 288,772 - 288,772
+Change in due from other funds (67,259) 43,119 24,140 67,259 -
+Change in mortgage loans and mortgage-backed securities - (119,458,193) (59,914,093) (179,372,286) (179,372,286)
+Change in accrued interest receivable - ( 525,399) ( 284,037) ( 809,436) ( 809,436)
+Change in accounts payable and accrued liabilities (366,179) - - - ( 366,179)
+Change in accrued interest payable - 223,046 307,662 530,708 530,708
+Change in compensated absences payable (236,899) - - - ( 236,899)
+Change in net pension liability (5,207,157) - - - (5,207,157)
+Change in pension deferred inflows/outflows 3,988,404 - - - 3,988,404
+Change in OPEB payable 1,778,792 - - - 1,778,792
+Change in OPEB deferred inflows/outflows (1,719,181) - - - (1,719,181)
+Net cash provided by (used in) operating activities $ (1,736,652) $( 102,211,478) $ (59,678,076) $( 161,889,554) $( 163,626,206)
+See accompanying notes.
+71
+INDEPENDENT AUDITOR’S REPORT ON INTERNAL CONTROL
+OVER FINANCIAL REPORTING AND ON COMPLIANCE AND
+OTHER MATTERS BASED ON AN AUDIT OF FINANCIAL
+STATEMENTS PERFORMED IN ACCORDANCE WITH
+GOVERNMENT AUDITING STANDARDS
+October 21, 2025
+The Board of Directors
+Louisiana Housing Corporation
+State of Louisiana
+Baton Rouge, Louisiana
+We have audited, in accordance with the auditing standards generally
+accepted in the United States of America and the standards applicable to financial
+audits contained in Government Auditing Standards issued by the Comptroller
+General of the United States, the financial statements of the Louisiana Housing
+Corporation, as of and for the year ended June 30, 2025, and the related notes to
+the financial statements, which collectively comprise the Louisiana Housing
+Corporation’s financial statements, and have issued our report thereon dated
+October 21, 2025.
+Report on Internal Control over Financial Reporting
+In planning and performing our audit of the financial statements, we
+considered the Louisiana Housing Corporation’s internal control over financial
+reporting (internal control) as a basis for designing audit procedures that are
+appropriate in the circumstances for the purpose of expressing our opinions on the
+financial statements, but not for the purpose of expressing an opinion on the
+effectiveness of the Louisiana Housing Corporation’s internal control.
+Accordingly, we do not express an opinion on the effectiveness of the Louisiana
+Housing Corporation’s internal control.
+A deficiency in internal control exists when the design or operation of a control does not allow
+management or employees, in the normal course of performing their assigned functions, to prevent, or
+detect and correct, misstatements on a timely basis. A material weakness is a deficiency, or combination of
+deficiencies, in internal control such that there is a reasonable possibility that a material misstatement of
+the entity’s financial statements will not be prevented, or detected and corrected on a timely basis. A
+significant deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe
+than a material weakness, yet important enough to merit attention by those charged with governance.
+Our consideration of internal control was for the limited purpose described in the first paragraph of
+this section and was not designed to identify all deficiencies in internal control that might be material
+weaknesses or significant deficiencies and therefore, material weaknesses or significant deficiencies may
+exist that were not identified. We identified certain deficiencies in internal control, described in the
+accompanying schedule of findings and questioned costs as items 25-01 and 25-02 that we consider to be
+material weaknesses.
+Report on Compliance and Other Matters
+As part of obtaining reasonable assurance about whether the Louisiana Housing Corporation's
+financial statements are free of material misstatement, we performed tests of its compliance with certain
+provisions of laws, regulations, contracts, and grant agreements, noncompliance with which could have a
+direct and material effect on the financial statements. However, providing an opinion on compliance with
+those provisions was not an objective of our audit and, accordingly, we do not express such an opinion. The
+results of our tests disclosed no instances of noncompliance or other matters that are required to be reported
+under Government Auditing Standards.
+Louisiana Housing Corporation’s Response to Findings
+Government Auditing Standards requires the auditor to perform limited procedures on the Louisiana
+Housing Corporation's response to the findings identified in our audit and described in the accompanying
+schedule of findings. Louisiana Housing Corporation's response was not subjected to the other auditing
+procedures applied in the audit of the financial statements and, accordingly, we express no opinion on the
+response.
+Purpose of this Report
+The purpose of this report is solely to describe the scope of our testing of internal control and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the entity’s
+internal control or on compliance. This report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the entity’s internal control and compliance. Accordingly,
+this communication is not suitable for any other purpose. Under Louisiana Revised Statute 24:513, this
+report is distributed by the Legislative Auditor as a public document.
+Metairie, Louisiana
+73
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+SCHEDULE OF FINDINGS
+FOR THE YEAR ENDED JUNE 30, 2025
+SUMMARY OF AUDITOR’S RESULTS:
+1. The opinion issued on the financial statements of the Louisiana Housing Corporation, for the year
+ended June 30, 2025 was unmodified.
+2. Internal Control over financial reporting:
+Material weaknesses: Yes.
+Significant deficiencies: None reported.
+3. Compliance and Other Matters
+Noncompliance material to financial statements: No.
+FINDINGS REQUIRED TO BE REPORTED UNDER GENERALLY ACCEPTED
+GOVERNMENTAL AUDITING STANDARDS:
+Internal Controls – Significant deficiency with material weakness:
+25-01 General Ledger
+During the audit, we noted the Corporation incorrectly accounted for transfers from the
+Single Family Bond Program to the General Fund for down payment assistance. The
+incorrect posting resulted in a current year understatement of loan receivables in the
+amount of $6,594,927 in the General Fund; and an overstatement of administrative fees
+in the amount of $6,594,927 in the Single Family Bond Program. Additionally, the
+incorrect accounting required a beginning net position adjustment for the General Fund
+in the amount of $15,397,688.
+The funds received by the General Fund were for single family down payment assistance
+by the General Fund paid in advance of receiving bond proceeds. The General fund
+recorded the funds received as a decrease in loans receivable for single family down
+payment assistance instead of a transfer of funds. The funds paid by the Single Family
+Bond Program were recorded as an administrative expense instead of a transfer of funds
+to the General Fund. Payment of advances and repayments of advances should be
+reported as transfers for both the General Fund and the Single Family Bond Fund.
+We recommend the Corporation review its procedures to ensure the transfer of funds are
+properly recorded between the General Fund and the Single Family Bond Program.
+Management’s Response:
+This issue has been resolved. The net position between loan receivables and administrative
+fees has been adjusted. Moving forward, the Corporation’s Chief Financial Officer will
+ensure these transactions are properly recorded between the General Fund and the Single
+Family Bond Program.
+74
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+SCHEDULE OF FINDINGS
+FOR THE YEAR ENDED JUNE 30, 2025
+FINDINGS REQUIRED TO BE REPORTED UNDER GENERALLY ACCEPTED
+GOVERNMENTAL AUDITING STANDARDS: (Continued)
+Internal Controls – Significant deficiency with material weakness: (Continued)
+25-02 During the audit we noted the Corporation lacked adequate internal controls and had
+insufficient staffing over the financial and accounting processes. This resulted in errors,
+mispostings, untimely reconciliations, and a lack of understanding of the nature and
+accounting treatment of certain transactions. Effective internal controls over financial
+reporting require the Corporation to maintain staff with the skill and experience to ensure
+transactions are recorded accurately, and financial accounts are reconciled timely and
+accurately. Without proper internal controls there is an increased risk that errors and
+omissions could occur and remain undetected. This condition could lead to inaccurate
+financial reporting and potential noncompliance with applicable laws and regulations.
+We recommend that the Corporation strengthen its internal control environment by
+evaluating staffing levels, providing training to existing staff, and developing and
+implementing policies and procedures to ensure timely reconciliations, accurate
+transaction recording, and ongoing management review.
+Management’s Response:
+The Corporation hired a new Chief Financial Officer on September 29, 2025, and a review
+of staffing, procedures, and training has started. The accounting division is currently
+operating at two-thirds of its full staffing due to retirements and other personnel actions. The
+Chief Financial Officer is presently assessing its staffing needs and working to fill priority
+open positions. Due to evolving operational demands and budgetary considerations, a
+definitive timeframe to hire staff has not been established; however, we hope to be fully
+staffed within the next fiscal year.
+Internal Controls – Significant deficiency: No
+75
+LOUISIANA HOUSING CORPORATION
+STATE OF LOUISIANA
+SUMMARY SCHEDULE OF PRIOR YEAR AUDIT FINDINGS
+FOR THE YEAR ENDED JUNE 30, 2025
+SUMMARY SCHEDULE OF PRIOR YEAR FINDINGS:
+FINDINGS REQUIRED TO BE REPORTED UNDER GENERALLY ACCEPTED
+GOVERNMENTAL AUDITING STANDARDS:
+Internal Controls – Significant deficiency with material weakness: none reported
+Internal Controls – Significant deficiency: No
+76
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+STATEMENT OF NET POSITION
+ASSETS
+CURRENT ASSETS:
+CASH AND CASH EQUIVALENTS 10,577,822.00
+RESTRICTED CASH AND CASH EQUIVALENTS 0.00
+INVESTMENTS 1,191,698.00
+RESTRICTED INVESTMENTS 0.00
+DERIVATIVE INSTRUMENTS 0.00
+OTHER DERIVATIVE INSTRUMENTS 0.00
+RECEIVABLES (NET) 23,576,353.00
+PLEDGES RECEIVABLE (NET) 0.00
+LEASES RECEIVABLE (NET) 0.00
+P3 RECEIVABLE (NET) (Only relates to Transferor) 0.00
+AMOUNTS DUE FROM PRIMARY GOVERNMENT 0.00
+DUE FROM FEDERAL GOVERNMENT 5,610,949.00
+INVENTORIES 0.00
+PREPAYMENTS 0.00
+NOTES RECEIVABLE 369,762.00
+OTHER CURRENT ASSETS 460,624.00
+TOTAL CURRENT ASSETS $41,787,208.00
+NONCURRENT ASSETS:
+RESTRICTED ASSETS:
+CASH 85,675,170.00
+INVESTMENTS 5,322,949.00
+RECEIVABLES (NET) 90,117,178.00
+NOTES RECEIVABLE 1,260,572,009.00
+OTHER 8,089,819.00
+INVESTMENTS 0.00
+RECEIVABLES (NET) 0.00
+NOTES RECEIVABLE 0.00
+PLEDGES RECEIVABLE (NET) 0.00
+LEASES RECEIVABLE (NET) 0.00
+P3 RECEIVABLE (NET) (Only relates to Transferor) 0.00
+CAPITAL ASSETS (NET OF DEPRECIATION & AMORTIZATION)
+LAND 1,022,338.00
+BUILDINGS AND IMPROVEMENTS 51,898,091.00
+MACHINERY AND EQUIPMENT 553,516.00
+INFRASTRUCTURE 0.00
+OTHER INTANGIBLE ASSETS 0.00
+CONSTRUCTION IN PROGRESS 0.00
+INTANGIBLE RIGHT-TO-USE ASSETS:
+LEASED LAND 0.00
+LEASED BUILDING & OFFICE SPACE 0.00
+LEASED MACHINERY & EQUIPMENT 0.00
+SUBSCRIPTION-BASED INFORMATION TECHNOLOGY ARRANGEMENTS (SBITA) 0.00
+PUBLIC-PRIVATE AND PUBLIC-PUBLIC PARTNERSHIP ARRANGEMENTS (P3) (Only relates to
+0.00
+Operator)
+OTHER NONCURRENT ASSETS 0.00
+TOTAL NONCURRENT ASSETS $1,503,251,070.00
+TOTAL ASSETS $1,545,038,278.00
+DEFERRED OUTFLOWS OF RESOURCES
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+ACCUMULATED DECREASE IN FAIR VALUE OF HEDGING DERIVATIVE INSTRUMENTS 0.00
+DEFERRED AMOUNTS ON DEBT REFUNDING 0.00
+LEASE RELATED 0.00
+P3-RELATED (Only relates to Operator) 0.00
+GRANTS PAID PRIOR TO MEETING TIME REQUIREMENTS 0.00
+INTRA-ENTITY TRANSFER OF FUTURE REVENUES (TRANSFEREE) 0.00
+LOSSES FROM SALE-LEASEBACK TRANSACTIONS 0.00
+DIRECT LOAN ORIGINATION COSTS FOR MORTGAGE LOANS HELD FOR SALE 0.00
+ASSET RETIREMENT OBLIGATIONS 0.00
+OPEB-RELATED 2,077,482.00
+PENSION-RELATED 3,712,695.00
+TOTAL DEFERRED OUTFLOWS OF RESOURCES $5,790,177.00
+TOTAL ASSETS AND DEFERRED OUTFLOWS OF RESOURCES $1,550,828,455.00
+LIABILITIES
+CURRENT LIABILITIES:
+ACCOUNTS PAYABLE AND ACCRUALS 6,543,220.00
+ACCRUED INTEREST 2,473,469.00
+DERIVATIVE INSTRUMENTS 0.00
+OTHER DERIVATIVE INSTRUMENTS 0.00
+AMOUNTS DUE TO PRIMARY GOVERNMENT 0.00
+DUE TO FEDERAL GOVERNMENT 1,000,000.00
+AMOUNTS HELD IN CUSTODY FOR OTHERS 0.00
+UNEARNED REVENUES 0.00
+OTHER CURRENT LIABILITIES 0.00
+CURRENT PORTION OF LONG-TERM LIABILITIES:
+CONTRACTS PAYABLE 0.00
+COMPENSATED ABSENCES PAYABLE 69,168.00
+LEASE LIABILITY 0.00
+SBITA LIABILITY 0.00
+P3 LIABILITY (Only relates to Operator) 0.00
+ESTIMATED LIABILITY FOR CLAIMS 0.00
+NOTES PAYABLE 0.00
+BONDS PAYABLE 12,738,562.00
+OPEB LIABILITY 232,704.00
+POLLUTION REMEDIATION OBLIGATIONS 0.00
+OTHER LONG-TERM LIABILITIES 0.00
+TOTAL CURRENT LIABILITIES $23,057,123.00
+NONCURRENT PORTION OF LONG-TERM LIABILITIES:
+CONTRACTS PAYABLE 0.00
+COMPENSATED ABSENCES PAYABLE 2,372,577.00
+LEASE LIABILITY 0.00
+SBITA LIABILITY 0.00
+P3 LIABILITY (Only relates to Operator) 0.00
+ESTIMATED LIABILITY FOR CLAIMS 0.00
+NOTES PAYABLE 0.00
+BONDS PAYABLE 658,499,765.00
+OPEB LIABILITY 11,408,186.00
+NET PENSION LIABILITY 23,789,275.00
+POLLUTION REMEDIATION OBLIGATIONS 0.00
+OTHER LONG-TERM LIABILITIES 973,922.00
+UNEARNED REVENUE 0.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+TOTAL NONCURRENT LIABILITIES $697,043,725.00
+TOTAL LIABILITIES $720,100,848.00
+DEFERRED INFLOWS OF RESOURCES
+ACCUMULATED INCREASE IN FAIR VALUE OF HEDGING DERIVATIVE INSTRUMENTS 0.00
+DEFERRED AMOUNTS ON DEBT REFUNDING 232,853.00
+LEASE RELATED 0.00
+P3-RELATED (Only relates to Transferor) 0.00
+GRANTS RECEIVED PRIOR TO MEETING TIME REQUIREMENTS 3,717,332.00
+SALES/INTRA-ENTITY TRANSFER OF FUTURE REVENUES (TRANSFEROR) 0.00
+GAINS FROM SALE-LEASEBACK TRANSACTIONS 0.00
+SPLIT INTEREST AGREEMENTS 0.00
+POINTS RECEIVED ON LOAN ORIGINATION 0.00
+LOAN ORIGINATION FEES RECEIVED FOR MORTGAGE LOANS HELD FOR SALE 0.00
+OPEB-RELATED 2,080,249.00
+PENSION-RELATED 2,966,961.00
+TOTAL DEFERRED INFLOWS OF RESOURCES $8,997,395.00
+NET POSITION:
+NET INVESTMENT IN CAPITAL ASSETS 53,473,945.00
+RESTRICTED FOR:
+CAPITAL PROJECTS 0.00
+DEBT SERVICE 0.00
+NONEXPENDABLE 0.00
+EXPENDABLE 0.00
+OTHER PURPOSES 774,624,836.00
+UNRESTRICTED $(6,368,569.00)
+TOTAL NET POSITION $821,730,212.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+STATEMENT OF ACTIVITIES
+PROGRAM REVENUES
+OPERATING GRANTS CAPITAL GRANTS
+EXPENSES CHARGES FOR SERVICES AND CONTRIBUTIONS AND CONTRIBUTIONS NET (EXPENSE) REVENUE
+354,173,580.00 21,758,260.00 481,033,665.00 0.00 $148,618,345.00
+GENERAL REVENUES
+PAYMENTS FROM PRIMARY GOVERNMENT 0.00
+OTHER 49,895,849.00
+ADDITIONS TO PERMANENT ENDOWMENTS 0.00
+CHANGE IN NET POSITION $198,514,194.00
+NET POSITION - BEGINNING $571,543,455.00
+NET POSITION - RESTATEMENT - ERROR CORRECTION 15,397,688.00
+NET POSITION - RESTATEMENT - CHANGE IN ACCOUNTING PRINCIPLE (715,336.00)
+NET POSITION - RESTATEMENT - CHANGE IN REPORTING ENTITY 36,990,211.00
+NET POSITION - ENDING $821,730,212.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+DUES AND TRANSFERS
+Account Type
+Amounts due from Primary
+Government Intercompany (Fund) Amount
+Total $0.00
+Account Type
+Amounts due to Primary
+Government Intercompany (Fund) Amount
+Total $0.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+SCHEDULE OF BONDS PAYABLE
+Original Principal Principal Interest
+Series Issue Date of Issue Issue Amount Outstanding PFY Issue (Redeemed) Outstanding CFY Outstanding CFY
+2015A 08/27/2015 38,985,000.00 8,449,055.00 (1,030,901.00) $ 7,418,154.00 3,054,425.00
+2016A 08/31/2016 24,755,000.00 2,544,724.00 (720,671.00) $ 1,824,053.00 517,119.00
+2017A 04/27/2017 27,100,000.00 5,252,863.00 (1,265,189.00) $ 3,987,674.00 705,485.00
+2018A 10/23/2018 27,190,000.00 12,691,367.00 (1,442,534.00) $ 11,248,833.00 5,084,920.00
+2019A 03/28/2019 56,580,000.00 32,781,861.00 (2,553,698.00) $ 30,228,163.00 17,116,999.00
+2020AB 08/13/2020 32,850,670.00 22,913,577.00 (2,042,064.00) $ 20,871,513.00 6,069,931.00
+2021AB 04/20/2021 47,539,906.00 39,502,615.00 (3,206,002.00) $ 36,296,613.00 11,529,964.00
+2021CD 12/14/2021 67,738,755.00 63,566,609.00 (5,049,444.00) $ 58,517,165.00 25,017,041.00
+2022A 07/05/2022 65,000,000.00 62,242,997.00 (4,312,667.00) $ 57,930,330.00 41,537,722.00
+2022BC 12/22/2022 40,000,000.00 40,654,194.00 (2,174,445.00) $ 38,479,749.00 33,988,783.00
+2023AB 06/14/2023 60,000,000.00 61,477,264.00 (2,377,576.00) $ 59,099,688.00 56,363,262.00
+2023CD 09/13/2023 80,000,000.00 81,845,918.00 (2,435,136.00) $ 79,410,782.00 77,517,399.00
+2024AB 04/18/2024 111,000,000.00 115,616,435.00 (1,340,550.00) $ 114,275,885.00 105,082,185.00
+2024CDE 07/16/2024 70,780,000.00 0.00 72,698,086.00 $ 72,698,086.00 75,596,025.00
+2025AB 03/06/2025 76,970,000.00 0.00 78,951,639.00 $ 78,951,639.00 74,830,219.00
+Totals $549,539,479.00 $121,698,848.00 $671,238,327.00 $534,011,479.00
+Series - Unamortized Premiums:
+Principal Principal
+Series Issue Date of Issue Outstanding PFY Issue (Redeemed) Outstanding CFY
+0.00 0.00 $ 0.00
+Totals $0.00 $0.00 $0.00
+Series - Unamortized Discounts:
+Principal Principal
+Series Issue Date of Issue Outstanding PFY Issue (Redeemed) Outstanding CFY
+0.00 0.00 $ 0.00
+Totals $0.00 $0.00 $0.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+SCHEDULE OF BONDS PAYABLE AMORTIZATION
+Fiscal Year Ending: Principal Interest
+2026 12,738,562.00 29,352,058.00
+2027 13,783,562.00 28,899,849.00
+2028 14,303,562.00 28,414,238.00
+2029 14,748,562.00 27,900,341.00
+2030 15,303,562.00 27,367,916.00
+2031 15,893,562.00 26,802,219.00
+2032 16,563,562.00 26,208,561.00
+2033 17,233,562.00 25,583,433.00
+2034 17,853,562.00 24,906,076.00
+2035 18,708,562.00 24,237,875.00
+2036 19,241,236.00 23,508,305.00
+2037 19,898,562.00 22,747,660.00
+2038 30,020,769.00 21,944,640.00
+2039 21,563,449.00 20,961,773.00
+2040 22,167,923.00 19,938,236.00
+2041 22,314,024.00 19,000,675.00
+2042 23,076,437.00 18,018,348.00
+2043 23,477,923.00 16,988,021.00
+2044 24,672,923.00 15,907,679.00
+2045 26,032,923.00 14,765,051.00
+2046 27,242,923.00 13,547,284.00
+2047 28,762,923.00 12,245,532.00
+2048 30,227,923.00 10,866,124.00
+2049 31,811,574.00 9,410,717.00
+2050 31,542,547.00 7,893,386.00
+2051 32,575,693.00 6,357,975.00
+2052 32,384,139.00 4,751,356.00
+2053 28,593,218.00 3,125,699.00
+2054 24,160,379.00 1,687,677.00
+2055 11,845,219.00 597,995.00
+2056 2,495,000.00 74,780.00
+2057 0.00 0.00
+2058 0.00 0.00
+2059 0.00 0.00
+2060 0.00 0.00
+Premiums and Discounts $0.00
+Total $671,238,327.00 $534,011,479.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+Other Postemployment Benefits (OPEB)
+If your agency has active or retired employees who are members of the Office of Group Benefits (OGB) Health Plan, please
+provide the following information: (Note: OGB has a 6/30/2024 measurement date for their OPEB valuation)
+Benefit payments made subsequent to the measurement date of the OGB Actuarial Valuation Report until the
+employer's fiscal year end. (Benefit payments are defined as the employer payments for retirees' health and life
+232,704.00
+insurance premiums). For agencies with a 6/30 year end this covers the current fiscal year being reported. For
+calendar year end agencies, it covers the period 7/1 to 12/31 for the current year being reported.
+Covered Employee Payroll for the PRIOR fiscal year (not including related benefits) 0.00
+For calendar year-end agencies only: Benefit payments or employer payments for retirees' health and life
+insurance premiums made for the next year's valuation reporting period (7/1/2024 - 6/30/2025). This information 0.00
+will be provided to the actuary for the valuation report early next year.
+For agencies that have employees that participate in the LSU Health Plan, provide the following information: (Note: The LSU
+Health Plan has a measurement date of 6/30/2025 for their OPEB valuation report.)
+Covered Employee Payroll for the CURRENT fiscal year (not including related benefits) 0.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+CERTAIN RISK DISCLOSURES (GASB 102)
+A concentration or constraint must meet the following criteria before disclosure is required:
+a. The concentration or constraint is known prior to the issuance of the financial statements.
+b.The concentration or constraint makes the reporting unit vulnerable to the risk of a substantial impact.
+c. An event associated with the concentration or constraint that could cause a substantial impact has occurred, has begun
+to occur, or is more likely than not to begin to occur within 12 months of the date the financial statements are issued.
+Note: The State's financial statements are issued December 31 for the fiscal year ended June 30.
+If the concentration or constraint meets all the criteria above, disclose the following for each concentration or constraint.
+Note: If the agency has taken mitigation action that causes any of the disclosure criteria not to be met, no disclosure is
+required.
+Do you have any concentrations or constraints to disclose that meet the criteria described above? Yes
+List each event associated with the
+concentration or constraint that could cause a
+substantial impact if the event has occurred,
+has begun to occur, or is more likely than not Disclose the actions taken by the entity to
+List the concentration or constraint: to begin to occur prior to December 31, 2026. mitigate the risk.
+The Corporation receives funding from the federal
+Management regularly monitors these risks and
+government in the form of grants. Without federal
+Inflow of Resources believes the strategies of current governance
+funding, the Corporation would be unable to
+mitigates any impact.
+provide assistance to the residents of Louisiana.
+The Corporation's objective to provide safe,
+affordable and energy-efficient housing to the
+Management regularly monitors these risks and
+residents of Louisiana is dependent on the demand
+Industry believes the strategies of current governance
+for housing. Economic changes to the housing
+mitigates any impact.
+industry could negatively affect the Corporation's
+ability to provide services.
+HOME and CDBG program loans are issued to
+single family borrowers and multifamily
+Management regularly monitors these risks and
+low-income housing projects throughout
+Common Ownership believes the strategies of current governance
+Louisiana. A substantial portion of the multifamily
+mitigates any impact.
+low-income housing project loans have been issued
+among entities with a common ownership.
+A significant portion of the Corporation's
+expenditures are subject to federal laws and Management regularly monitors these risks and
+Mandated Spending regulations. Non-compliance with federal laws and believes the strategies of current governance
+regulations could result in decreased federal mitigates any impact.
+funding.
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+FUND BALANCE/NET POSITION RESTATEMENT
+ERROR CORRECTIONS
+For each beginning net position restatement resulting from a correction of an error, select the SNP account and the SOA account affected by the
+error. Only material errors should be restated. Immaterial errors should be corrected through current period revenue or expenses, as applicable. In the
+description field, explain the nature of the error, and its correction, including periods affected by the error.
+Beginning Net
+Position
+Restatement
+Account Name/Description Amount
+SNP
+CURRENT ASSETS - RECEIVABLES (NET)
+SOA 15,397,688.00
+OTHER
+Description:
+To adjust for prior year SF-MRB Assistance Advances
+Total Restatement - Error Corrections $15,397,688.00
+CHANGES IN ACCOUNTING PRINCIPLE
+For each beginning net position restatement resulting from the application of a new accounting principle, select the SNP account and the SOA
+account that are affected by the change in accounting principle. In the description field explain the nature of the change in accounting principle and
+the reason for the change. If the change is due to the implementation of a new GASB pronouncement, identify the pronouncement that was
+implemented.
+Beginning Net
+Position
+Restatement
+Account Name/Description Amount
+SNP
+NONCURRENT LIABILITIES - COMPENSATED ABSENCES PAYABLE
+SOA (715,336.00)
+EXPENSES
+Description:
+To restate beginning balance for compensated absences under GASB 101
+Total Restatement - Changes in Accounting Principle $(715,336.00)
+CHANGES IN REPORTING ENTITY
+Describe the nature and reason for the change to or within the finanical reporting entity and list the effect (amount) on beginning net position.
+Effect on
+Beginning Net
+Description Position
+Restatement due to reporting as combined amounts for the Single Family bond programs. 36,990,211.00
+Total Restatement - Changes in Reporting Entity $36,990,211.00
+ANNUAL FISCAL REPORT (AFR)
+FOR 2025
+AGENCY: 20-18 - Louisiana Housing Corporation
+PREPARED BY: --
+PHONE NUMBER: --
+EMAIL ADDRESS: --
+SUBMITTAL DATE: --
+SUBMISSION
+Before submitting, ensure that all data (statements, notes, schedules) have been entered for the agency.
+Once submitted no changes can be made to any of the agency data for the specified year.
+By clicking 'Submit' below you certify that the financial statements herewith given present fairly the financial position and the results of operations for the year ended in
+accordance with policies and practices established by the Division of Administration or in accordance with Generally Accepted Accounting Principles as prescribed by the
+Governmental Accounting Standards Board.
+Reminder: You must send Louisiana Legislative Auditors an electronic copy of the AFR report in a pdf, tiff, or some other electronic format to the following e-mail address:
+LLAFileroom@lla.la.gov.

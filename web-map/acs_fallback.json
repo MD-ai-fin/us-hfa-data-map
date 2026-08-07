@@ -1,0 +1,410 @@
+{
+  "AL": {
+    "poverty_2023": 15.4,
+    "poverty_2024": 15.4,
+    "median_home_2023": 195000,
+    "median_home_2024": 195000,
+    "unemployment_2023": 2.5,
+    "unemployment_2024": 3.1
+  },
+  "AK": {
+    "poverty_2023": 10.4,
+    "poverty_2024": 10.4,
+    "median_home_2023": 355000,
+    "median_home_2024": 355000,
+    "unemployment_2023": 4.2,
+    "unemployment_2024": 4.6
+  },
+  "AZ": {
+    "poverty_2023": 12.5,
+    "poverty_2024": 12.5,
+    "median_home_2023": 385000,
+    "median_home_2024": 385000,
+    "unemployment_2023": 3.7,
+    "unemployment_2024": 3.6
+  },
+  "AR": {
+    "poverty_2023": 15.8,
+    "poverty_2024": 15.8,
+    "median_home_2023": 178000,
+    "median_home_2024": 178000,
+    "unemployment_2023": 3.1,
+    "unemployment_2024": 3.5
+  },
+  "CA": {
+    "poverty_2023": 11.0,
+    "poverty_2024": 11.0,
+    "median_home_2023": 725000,
+    "median_home_2024": 725000,
+    "unemployment_2023": 4.7,
+    "unemployment_2024": 5.3
+  },
+  "CO": {
+    "poverty_2023": 9.6,
+    "poverty_2024": 9.6,
+    "median_home_2023": 550000,
+    "median_home_2024": 550000,
+    "unemployment_2023": 3.3,
+    "unemployment_2024": 4.3
+  },
+  "CT": {
+    "poverty_2023": 9.6,
+    "poverty_2024": 9.6,
+    "median_home_2023": 375000,
+    "median_home_2024": 375000,
+    "unemployment_2023": 3.2,
+    "unemployment_2024": 3.2
+  },
+  "DE": {
+    "poverty_2023": 10.9,
+    "poverty_2024": 10.9,
+    "median_home_2023": 350000,
+    "median_home_2024": 350000,
+    "unemployment_2023": 3.8,
+    "unemployment_2024": 3.7
+  },
+  "DC": {
+    "poverty_2023": 14.8,
+    "poverty_2024": 14.8,
+    "median_home_2023": 680000,
+    "median_home_2024": 680000,
+    "unemployment_2023": 4.8,
+    "unemployment_2024": 5.2
+  },
+  "FL": {
+    "poverty_2023": 12.3,
+    "poverty_2024": 12.3,
+    "median_home_2023": 365000,
+    "median_home_2024": 365000,
+    "unemployment_2023": 3.0,
+    "unemployment_2024": 3.4
+  },
+  "GA": {
+    "poverty_2023": 13.7,
+    "poverty_2024": 13.7,
+    "median_home_2023": 295000,
+    "median_home_2024": 295000,
+    "unemployment_2023": 3.3,
+    "unemployment_2024": 3.5
+  },
+  "HI": {
+    "poverty_2023": 9.5,
+    "poverty_2024": 9.5,
+    "median_home_2023": 820000,
+    "median_home_2024": 820000,
+    "unemployment_2023": 2.9,
+    "unemployment_2024": 3.0
+  },
+  "ID": {
+    "poverty_2023": 11.2,
+    "poverty_2024": 11.2,
+    "median_home_2023": 425000,
+    "median_home_2024": 425000,
+    "unemployment_2023": 3.2,
+    "unemployment_2024": 3.7
+  },
+  "IL": {
+    "poverty_2023": 11.9,
+    "poverty_2024": 11.9,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 4.5,
+    "unemployment_2024": 5.0
+  },
+  "IN": {
+    "poverty_2023": 11.7,
+    "poverty_2024": 11.7,
+    "median_home_2023": 225000,
+    "median_home_2024": 225000,
+    "unemployment_2023": 3.4,
+    "unemployment_2024": 4.2
+  },
+  "IA": {
+    "poverty_2023": 10.5,
+    "poverty_2024": 10.5,
+    "median_home_2023": 205000,
+    "median_home_2024": 205000,
+    "unemployment_2023": 2.9,
+    "unemployment_2024": 3.0
+  },
+  "KS": {
+    "poverty_2023": 11.0,
+    "poverty_2024": 11.0,
+    "median_home_2023": 215000,
+    "median_home_2024": 215000,
+    "unemployment_2023": 2.9,
+    "unemployment_2024": 3.6
+  },
+  "KY": {
+    "poverty_2023": 15.4,
+    "poverty_2024": 15.4,
+    "median_home_2023": 195000,
+    "median_home_2024": 195000,
+    "unemployment_2023": 4.3,
+    "unemployment_2024": 5.1
+  },
+  "LA": {
+    "poverty_2023": 18.9,
+    "poverty_2024": 18.9,
+    "median_home_2023": 215000,
+    "median_home_2024": 215000,
+    "unemployment_2023": 3.7,
+    "unemployment_2024": 4.4
+  },
+  "ME": {
+    "poverty_2023": 10.4,
+    "poverty_2024": 10.4,
+    "median_home_2023": 325000,
+    "median_home_2024": 325000,
+    "unemployment_2023": 2.6,
+    "unemployment_2024": 3.1
+  },
+  "MD": {
+    "poverty_2023": 9.1,
+    "poverty_2024": 9.1,
+    "median_home_2023": 420000,
+    "median_home_2024": 420000,
+    "unemployment_2023": 2.2,
+    "unemployment_2024": 3.0
+  },
+  "MA": {
+    "poverty_2023": 9.9,
+    "poverty_2024": 9.9,
+    "median_home_2023": 590000,
+    "median_home_2024": 590000,
+    "unemployment_2023": 3.5,
+    "unemployment_2024": 4.0
+  },
+  "MI": {
+    "poverty_2023": 13.4,
+    "poverty_2024": 13.4,
+    "median_home_2023": 225000,
+    "median_home_2024": 225000,
+    "unemployment_2023": 3.9,
+    "unemployment_2024": 4.7
+  },
+  "MN": {
+    "poverty_2023": 9.1,
+    "poverty_2024": 9.1,
+    "median_home_2023": 315000,
+    "median_home_2024": 315000,
+    "unemployment_2023": 2.8,
+    "unemployment_2024": 3.0
+  },
+  "MS": {
+    "poverty_2023": 18.8,
+    "poverty_2024": 18.8,
+    "median_home_2023": 175000,
+    "median_home_2024": 175000,
+    "unemployment_2023": 3.1,
+    "unemployment_2024": 3.2
+  },
+  "MO": {
+    "poverty_2023": 12.2,
+    "poverty_2024": 12.2,
+    "median_home_2023": 225000,
+    "median_home_2024": 225000,
+    "unemployment_2023": 3.1,
+    "unemployment_2024": 3.7
+  },
+  "MT": {
+    "poverty_2023": 12.1,
+    "poverty_2024": 12.1,
+    "median_home_2023": 425000,
+    "median_home_2024": 425000,
+    "unemployment_2023": 2.7,
+    "unemployment_2024": 3.0
+  },
+  "NE": {
+    "poverty_2023": 9.9,
+    "poverty_2024": 9.9,
+    "median_home_2023": 235000,
+    "median_home_2024": 235000,
+    "unemployment_2023": 2.3,
+    "unemployment_2024": 2.8
+  },
+  "NV": {
+    "poverty_2023": 12.6,
+    "poverty_2024": 12.6,
+    "median_home_2023": 425000,
+    "median_home_2024": 425000,
+    "unemployment_2023": 5.2,
+    "unemployment_2024": 5.6
+  },
+  "NH": {
+    "poverty_2023": 7.2,
+    "poverty_2024": 7.2,
+    "median_home_2023": 425000,
+    "median_home_2024": 425000,
+    "unemployment_2023": 2.3,
+    "unemployment_2024": 2.6
+  },
+  "NJ": {
+    "poverty_2023": 9.5,
+    "poverty_2024": 9.5,
+    "median_home_2023": 480000,
+    "median_home_2024": 480000,
+    "unemployment_2023": 4.3,
+    "unemployment_2024": 4.5
+  },
+  "NM": {
+    "poverty_2023": 17.6,
+    "poverty_2024": 17.6,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 3.7,
+    "unemployment_2024": 4.1
+  },
+  "NY": {
+    "poverty_2023": 13.9,
+    "poverty_2024": 13.9,
+    "median_home_2023": 450000,
+    "median_home_2024": 450000,
+    "unemployment_2023": 4.1,
+    "unemployment_2024": 4.3
+  },
+  "NC": {
+    "poverty_2023": 12.9,
+    "poverty_2024": 12.9,
+    "median_home_2023": 295000,
+    "median_home_2024": 295000,
+    "unemployment_2023": 3.5,
+    "unemployment_2024": 3.6
+  },
+  "ND": {
+    "poverty_2023": 10.4,
+    "poverty_2024": 10.4,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 2.0,
+    "unemployment_2024": 2.4
+  },
+  "OH": {
+    "poverty_2023": 13.4,
+    "poverty_2024": 13.4,
+    "median_home_2023": 215000,
+    "median_home_2024": 215000,
+    "unemployment_2023": 3.7,
+    "unemployment_2024": 4.3
+  },
+  "OK": {
+    "poverty_2023": 14.2,
+    "poverty_2024": 14.2,
+    "median_home_2023": 195000,
+    "median_home_2024": 195000,
+    "unemployment_2023": 3.2,
+    "unemployment_2024": 3.3
+  },
+  "OR": {
+    "poverty_2023": 11.4,
+    "poverty_2024": 11.4,
+    "median_home_2023": 485000,
+    "median_home_2024": 485000,
+    "unemployment_2023": 3.8,
+    "unemployment_2024": 4.2
+  },
+  "PA": {
+    "poverty_2023": 11.8,
+    "poverty_2024": 11.8,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 3.7,
+    "unemployment_2024": 3.6
+  },
+  "RI": {
+    "poverty_2023": 10.8,
+    "poverty_2024": 10.8,
+    "median_home_2023": 425000,
+    "median_home_2024": 425000,
+    "unemployment_2023": 3.0,
+    "unemployment_2024": 4.3
+  },
+  "SC": {
+    "poverty_2023": 13.1,
+    "poverty_2024": 13.1,
+    "median_home_2023": 285000,
+    "median_home_2024": 285000,
+    "unemployment_2023": 3.0,
+    "unemployment_2024": 4.1
+  },
+  "SD": {
+    "poverty_2023": 11.1,
+    "poverty_2024": 11.1,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 1.8,
+    "unemployment_2024": 1.8
+  },
+  "TN": {
+    "poverty_2023": 13.6,
+    "poverty_2024": 13.6,
+    "median_home_2023": 295000,
+    "median_home_2024": 295000,
+    "unemployment_2023": 3.2,
+    "unemployment_2024": 3.4
+  },
+  "TX": {
+    "poverty_2023": 13.7,
+    "poverty_2024": 13.7,
+    "median_home_2023": 295000,
+    "median_home_2024": 295000,
+    "unemployment_2023": 4.0,
+    "unemployment_2024": 4.1
+  },
+  "UT": {
+    "poverty_2023": 8.5,
+    "poverty_2024": 8.5,
+    "median_home_2023": 525000,
+    "median_home_2024": 525000,
+    "unemployment_2023": 2.7,
+    "unemployment_2024": 3.2
+  },
+  "VT": {
+    "poverty_2023": 10.2,
+    "poverty_2024": 10.2,
+    "median_home_2023": 365000,
+    "median_home_2024": 365000,
+    "unemployment_2023": 1.9,
+    "unemployment_2024": 2.3
+  },
+  "VA": {
+    "poverty_2023": 9.6,
+    "poverty_2024": 9.6,
+    "median_home_2023": 385000,
+    "median_home_2024": 385000,
+    "unemployment_2023": 2.7,
+    "unemployment_2024": 2.9
+  },
+  "WA": {
+    "poverty_2023": 9.8,
+    "poverty_2024": 9.8,
+    "median_home_2023": 565000,
+    "median_home_2024": 565000,
+    "unemployment_2023": 4.2,
+    "unemployment_2024": 4.5
+  },
+  "WV": {
+    "poverty_2023": 16.5,
+    "poverty_2024": 16.5,
+    "median_home_2023": 155000,
+    "median_home_2024": 155000,
+    "unemployment_2023": 3.9,
+    "unemployment_2024": 4.1
+  },
+  "WI": {
+    "poverty_2023": 10.2,
+    "poverty_2024": 10.2,
+    "median_home_2023": 265000,
+    "median_home_2024": 265000,
+    "unemployment_2023": 2.8,
+    "unemployment_2024": 3.0
+  },
+  "WY": {
+    "poverty_2023": 10.5,
+    "poverty_2024": 10.5,
+    "median_home_2023": 335000,
+    "median_home_2024": 335000,
+    "unemployment_2023": 2.9,
+    "unemployment_2024": 3.2
+  }
+}

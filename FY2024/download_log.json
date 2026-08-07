@@ -1,0 +1,359 @@
+{
+  "AL": {
+    "state": "AL",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\AL_AHFA_FY2024_ACFR.pdf",
+    "url": "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2024-ahfa-financial-statements.pdf",
+    "tried": [
+      "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2024-ahfa-financial-statements.pdf"
+    ]
+  },
+  "AK": {
+    "state": "AK",
+    "downloaded": null,
+    "tried": [
+      "https://www.ahfc.us/download_file/view/9549/583"
+    ],
+    "error": "no FY2024 URL candidates"
+  },
+  "AR": {
+    "state": "AR",
+    "downloaded": null,
+    "tried": [
+      "https://adfa.arkansas.gov/wp-content/uploads/2024/12/ADFA-FS-Final-2.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "CO": {
+    "state": "CO",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\CO_CHFA_FY2024_ACFR.pdf",
+    "url": "https://www.chfainfo.com/getattachment/7d8e4899-6f00-428a-80e4-f45e3ea826bd/chfa-2024-financials.pdf",
+    "tried": [
+      "https://www.chfainfo.com/getattachment/7d8e4899-6f00-428a-80e4-f45e3ea826bd/chfa-2024-financials.pdf"
+    ]
+  },
+  "CT": {
+    "state": "CT",
+    "downloaded": null,
+    "tried": [
+      "https://www.chfa.org/assets/1/6/2024_Audited_Financial_Statement.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "DC": {
+    "state": "DC",
+    "downloaded": null,
+    "tried": [
+      "https://dchfa.org/wp-content/uploads/2025/02/final_District-of-Columbia-HFA_FS_20242025020207.pdf",
+      "https://dchfa.org/wp-content/uploads/2024/02/final_District-of-Columbia-HFA_FS_20242024020207.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "DE": {
+    "state": "DE",
+    "downloaded": null,
+    "tried": [
+      "https://auditor.delaware.gov/wp-content/uploads/sites/209/2025/04/Delaware-State-Housing-Authority-FY24-Financial-Statement-Audit-Report.pdf",
+      "https://auditor.delaware.gov/wp-content/uploads/sites/209/2024/04/Delaware-State-Housing-Authority-FY24-Financial-Statement-Audit-Report.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "FL": {
+    "state": "FL",
+    "downloaded": null,
+    "tried": [
+      "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/finance/audited-financial-reports/2024-audited-financial-statements.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "GA": {
+    "state": "GA",
+    "downloaded": null,
+    "tried": [
+      "https://open.ga.gov/openga/report/downloadFile?rid=31838"
+    ],
+    "error": "no FY2024 URL candidates"
+  },
+  "HI": {
+    "state": "HI",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\HI_HHFDC_FY2024_ACFR.pdf",
+    "url": "https://files.hawaii.gov/auditor/Reports/2024_Audit/HHFDC2024.pdf",
+    "tried": [
+      "https://files.hawaii.gov/auditor/Reports/2024_Audit/HHFDC2024.pdf"
+    ]
+  },
+  "ID": {
+    "state": "ID",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\ID_IHFA_FY2024_ACFR.pdf",
+    "url": "https://www.idahohousing.com/documents/2024-ihfa-financial-report.pdf",
+    "tried": [
+      "https://www.idahohousing.com/documents/2024-ihfa-financial-report.pdf"
+    ]
+  },
+  "IL": {
+    "state": "IL",
+    "downloaded": null,
+    "tried": [
+      "https://www.ihda.org/wp-content/uploads/2024/12/FY2024-IHDA-ACFR.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "IN": {
+    "state": "IN",
+    "downloaded": null,
+    "tried": [
+      "https://www.in.gov/ihcda/files/IHCDA-2024-FY-Audited-FS.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "IA": {
+    "state": "IA",
+    "downloaded": null,
+    "tried": [],
+    "error": "no FY2024 URL candidates"
+  },
+  "KS": {
+    "state": "KS",
+    "downloaded": null,
+    "tried": [
+      "https://admin.ks.gov/browse/files/8c8b8a0deef8464faaba21b8f4e69a24/download"
+    ],
+    "error": "no FY2024 URL candidates"
+  },
+  "KY": {
+    "state": "KY",
+    "downloaded": null,
+    "tried": [
+      "https://www.kyhousing.org/sites/default/files/2025-05/KHC%202024%20FS%20Report%20-%20Short-Form%20-%20FINAL.pdf",
+      "https://www.kyhousing.org/sites/default/files/2024-05/KHC%202024%20FS%20Report%20-%20Short-Form%20-%20FINAL.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "LA": {
+    "state": "LA",
+    "downloaded": null,
+    "tried": [
+      "https://webapps3.lhc.la.gov/documents/BoardCommitteeMaterials/2025/January/ACM/LHC%20Financial%20Statement%20Audit%20Report%20for%20the%20FYE%20June%202024.pdf",
+      "https://webapps3.lhc.la.gov/documents/BoardCommitteeMaterials/2024/January/ACM/LHC%20Financial%20Statement%20Audit%20Report%20for%20the%20FYE%20June%202024.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "MA": {
+    "state": "MA",
+    "downloaded": null,
+    "tried": [
+      "https://www.masshousing.com/-/media/Files/Financials/2024-Annual-Disclosure-Report.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "MD": {
+    "state": "MD",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\MD_CDA_FY2024_ACFR.pdf",
+    "url": "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2024_06_30fs.pdf",
+    "tried": [
+      "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2024_06_30fs.pdf"
+    ]
+  },
+  "ME": {
+    "state": "ME",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\ME_MaineHousing_FY2024_ACFR.pdf",
+    "url": "https://www.mainehousing.org/docs/default-source/financial-statements/12-31-2024-audited-financials.pdf",
+    "tried": [
+      "https://www.mainehousing.org/docs/default-source/financial-statements/12-31-2024-audited-financials.pdf"
+    ]
+  },
+  "MI": {
+    "state": "MI",
+    "downloaded": null,
+    "tried": [
+      "https://audgen.michigan.gov/wp-content/uploads/2024/10/MSHDA-ACFR-0624-AUD-Final.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "MN": {
+    "state": "MN",
+    "downloaded": null,
+    "tried": [
+      "https://www.lrl.mn.gov/docs/2024/other/241924.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "MO": {
+    "state": "MO",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\MO_MHDC_FY2024_ACFR.pdf",
+    "url": "https://archive.org/download/2024MHDCFinancialStatements/2024MHDCFinancialStatements.pdf",
+    "tried": [
+      "https://archive.org/download/2024MHDCFinancialStatements/2024MHDCFinancialStatements.pdf"
+    ]
+  },
+  "MT": {
+    "state": "MT",
+    "downloaded": null,
+    "tried": [
+      "https://archive.legmt.gov/content/Committees/Administration/audit/2024-25/Meetings/April-2025/24-07.pdf",
+      "https://archive.legmt.gov/content/Committees/Administration/audit/2024-25/Meetings/April-2024/24-07.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "NC": {
+    "state": "NC",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\NC_NCHFA_FY2024_ACFR.pdf",
+    "url": "https://nchfa.com/sites/default/files/page_attachments/afs06-30-24.pdf",
+    "tried": [
+      "https://nchfa.com/sites/default/files/page_attachments/afs06-30-24.pdf"
+    ]
+  },
+  "ND": {
+    "state": "ND",
+    "downloaded": null,
+    "tried": [
+      "https://www.ndhousing.nd.gov/sites/www/files/documents/Investors/AuditedFinancialStatements2024and2023.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "NE": {
+    "state": "NE",
+    "downloaded": null,
+    "tried": [
+      "https://nebraskalegislature.gov/FloorDocs/108/PDF/Agencies/Nebraska_Investment_Finance_Authority/101_20241109-143146.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "NM": {
+    "state": "NM",
+    "downloaded": null,
+    "tried": [
+      "https://housingnm.org/uploads/documents/1a_FY_2024_New_Mexico_Mortgage_Finance_Authority_Audited_Finacial_Statements.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "OH": {
+    "state": "OH",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\OH_OHFA_FY2024_ACFR.pdf",
+    "url": "https://ohiohome.org/financials/documents/FincStatementsFY24.pdf",
+    "tried": [
+      "https://ohiohome.org/financials/documents/FincStatementsFY24.pdf"
+    ]
+  },
+  "OK": {
+    "state": "OK",
+    "downloaded": null,
+    "tried": [
+      "https://www.ohfa.org/wp-content/uploads/2025/01/2024-OHFA-Single-Audit-Report-FINAL.pdf",
+      "https://www.ohfa.org/wp-content/uploads/2024/01/2024-OHFA-Single-Audit-Report-FINAL.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "OR": {
+    "state": "OR",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\OR_OHCS_FY2024_ACFR.pdf",
+    "url": "https://sos.oregon.gov/audits/Documents/2024-26.pdf",
+    "tried": [
+      "https://sos.oregon.gov/audits/Documents/2024-26.pdf"
+    ]
+  },
+  "PA": {
+    "state": "PA",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\PA_PHFA_FY2024_ACFR.pdf",
+    "url": "https://www.pa.gov/content/dam/copapwp-pagov/en/budget/documents/publications-and-reports/annualfinancialreport/june-30-2024%20acfr.pdf",
+    "tried": [
+      "https://www.pa.gov/content/dam/copapwp-pagov/en/budget/documents/publications-and-reports/annualfinancialreport/june-30-2024%20acfr.pdf"
+    ]
+  },
+  "SC": {
+    "state": "SC",
+    "downloaded": null,
+    "tried": [
+      "https://osa.sc.gov/wp-content/uploads/2024/10/Updated-SC-Housing-Financial-Statements-FY24.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "SD": {
+    "state": "SD",
+    "downloaded": null,
+    "tried": [
+      "https://legislativeaudit.sd.gov/reports/State/Housing%20Development%20Authority%202024.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "TN": {
+    "state": "TN",
+    "downloaded": null,
+    "tried": [
+      "https://dogvxws799i6n.cloudfront.net/wp-content/uploads/THDA-Audited-Financial-Statement-6-30-2024-FINAL.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "TX": {
+    "state": "TX",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\TX_TDHCA_FY2024_ACFR.pdf",
+    "url": "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/24-BasicFinancials.pdf",
+    "tried": [
+      "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/24-BasicFinancials.pdf"
+    ]
+  },
+  "UT": {
+    "state": "UT",
+    "downloaded": null,
+    "tried": [
+      "https://www.utah.gov/pmn/files/1278910.pdf"
+    ],
+    "error": "no FY2024 URL candidates"
+  },
+  "VA": {
+    "state": "VA",
+    "downloaded": null,
+    "tried": [
+      "https://www.virginiahousing.com/-/media/docs/partners/investors/financial-statements/annual-statements/2024vhdafinancialstatements_final_public.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "VT": {
+    "state": "VT",
+    "downloaded": null,
+    "tried": [
+      "https://vhfa.org/finance/statements/fy2024-vhfa-audited-financial-packagepdf"
+    ],
+    "error": "no working URL"
+  },
+  "WA": {
+    "state": "WA",
+    "downloaded": "c:\\Users\\may_d\\ACFR\\FY2024\\pdf\\WA_WSHFC_FY2024_ACFR.pdf",
+    "url": "https://www.wshfc.org/finance/investor/AuditedFinancials2024.06.30and2023.pdf",
+    "tried": [
+      "https://www.wshfc.org/finance/investor/AuditedFinancials2024.06.30and2023.pdf"
+    ]
+  },
+  "WI": {
+    "state": "WI",
+    "downloaded": null,
+    "tried": [
+      "https://www.wheda.com/globalassets/documents/annual-reports-and-financials/2024/wheda-audit-fy-2024.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "WV": {
+    "state": "WV",
+    "downloaded": null,
+    "tried": [
+      "https://www.wvhdf.com/wp-content/uploads/2025/02/FY2024-WVHDF-Annual-Comprehensive-Financial-Report.pdf",
+      "https://www.wvhdf.com/wp-content/uploads/2024/02/FY2024-WVHDF-Annual-Comprehensive-Financial-Report.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "WY": {
+    "state": "WY",
+    "downloaded": null,
+    "tried": [
+      "https://www.wyomingcda.com/wp-content/uploads/2024/12/Financial-Report-2024.pdf"
+    ],
+    "error": "no working URL"
+  },
+  "CA": {
+    "state": "CA",
+    "downloaded": null,
+    "tried": [
+      "https://www.calhfa.ca.gov/homeownership/documents/2024-ACFR.pdf"
+    ],
+    "error": "no working URL"
+  }
+}

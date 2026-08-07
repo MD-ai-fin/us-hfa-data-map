@@ -1,0 +1,2133 @@
+Financial Statements
+June 30, 2025 and 2024
+Washington State Housing Finance
+Commission (A Component Unit of the
+State of Washington)
+eidebailly.com
+Washington State Housing Finance Commission
+Table of Contents
+June 30, 2025 and 2024
+Independent Auditor’s Report ................................................................................................................................... 1
+Management's Discussion and Analysis .................................................................................................................... 4
+Financial Statements
+Statements of Net Position .................................................................................................................................. 12
+Statements of Revenues Expenses, and Changes in Net Position ....................................................................... 14
+Statements of Cash Flow...................................................................................................................................... 15
+Notes to Financial Statements ............................................................................................................................. 17
+Required Supplementary Information
+Schedule of Proportionate Share of Net Pension Liability (Asset) ....................................................................... 53
+Schedule of Contributions.................................................................................................................................... 54
+Schedule of Proportionate Share of OPEB Liability ............................................................................................. 55
+Notes to the Required Supplementary Information ............................................................................................ 56
+Supplementary Information
+Schedule of Program Net Position ....................................................................................................................... 57
+Schedule of Program Revenues, Expenses, and Changes in Program Net Position ............................................ 59
+Schedule of Program Cash Flows ......................................................................................................................... 60
+Schedule of Notes and Bonds Payable ................................................................................................................. 62
+Independent Auditor’s Report
+To the Board of Commissioners
+Washington State Housing Finance Commission
+Seattle, Washington
+Report on the Audit of the Financial Statements
+Opinion
+We have audited the financial statements of the business-type activities of the Washington State
+Housing Finance Commission (the Commission), a component unit of the State of Washington, as of and
+for the years ended June 30, 2025 and 2024, and the related notes to the financial statements, which
+collectively comprise the Commission’s basic financial statements as listed in the table of contents.
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+respective financial position of the Washington State Housing Finance Commission as of June 30, 2025
+and 2024, and the respective changes in financial position and, its cash flows for the years then ended in
+accordance with accounting principles generally accepted in the United States of America.
+Basis for Opinion
+We conducted our audit in accordance with auditing standards generally accepted in the United States
+of America (GAAS). Our responsibilities under those standards are further described in the Auditor’s
+Responsibilities for the Audit of the Financial Statements section of our report. We are required to be
+independent of the Commission, and to meet our other ethical responsibilities, in accordance with the
+relevant ethical requirements relating to our audit. We believe that the audit evidence we have
+obtained is sufficient and appropriate to provide a basis for our audit opinion.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+1
+eidebailly.com
+877 W. Main St., Ste. 800 • Boise, ID 83702-5858 • T 208.344.7150 • F 208.344.7435 • EOE
+In preparing the financial statements, management is required to evaluate whether there are conditions
+or events, considered in the aggregate, that raise substantial doubt about the Commission’s ability to
+continue as a going concern for twelve months beyond the financial statements date, including any
+currently known information that may raise substantial doubt shortly thereafter.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole
+are free from material misstatement, whether due to fraud or error, and to issue an auditor’s report
+that includes our opinion. Reasonable assurance is a high level of assurance but is not absolute
+assurance and therefore is not a guarantee that an audit conducted in accordance with GAAS will always
+detect a material misstatement when it exists. The risk of not detecting a material misstatement
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are
+considered material if there is a substantial likelihood that, individually or in the aggregate, they would
+influence the judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS, we
+ Exercise professional judgment and maintain professional skepticism throughout the audit.
+ Identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks.
+Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+ Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Commission’s internal control. Accordingly, no such
+opinion is expressed.
+ Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+ Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Commission’s ability to continue as a going
+concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other matters,
+the planned scope and timing of the audit, significant audit findings, and certain internal control-related
+matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the management’s
+discussion and analysis, the schedules of proportionate share of net pension liability (asset),
+contributions to the pension plan, and proportionate share of OPEB liability be presented to supplement
+the basic financial statements. Such information is the responsibility of management and, although not a
+part of the basic financial statements, is required by the Governmental Accounting Standards Board who
+considers it to be an essential part of financial reporting for placing the basic financial statements in an
+appropriate operational, economic, or historical context. We have applied certain limited procedures to
+the required supplementary information in accordance with GAAS, which consisted of inquiries of
+2
+management about the methods of preparing the information and comparing the information for
+consistency with management’s responses to our inquiries, the basic financial statements, and other
+knowledge we obtained during our audit of the basic financial statements. We do not express an opinion
+or provide any assurance on the information because the limited procedures do not provide us with
+sufficient evidence to express an opinion or provide any assurance.
+Supplementary Information
+Our audit was conducted for the purpose of forming an opinion on the financial statements that
+collectively comprise the Commission’s basic financial statements. The schedule of program net
+position, schedule of program revenues, expenses, and changes in program net position, schedule of
+program cash flows, and schedule of notes and bonds payable, are presented for purposes of additional
+analysis and are not a required part of the basic financial statements. Such information is the
+responsibility of management and was derived from and relates directly to the underlying accounting
+and other records used to prepare the basic financial statements. The information has been subjected to
+the auditing procedures applied in the audit of the basic financial statements and certain additional
+procedures, including comparing and reconciling such information directly to the underlying accounting
+and other records used to prepare the basic financial statements or to the basic financial statements
+themselves, and other additional procedures in accordance with GAAS. In our opinion, the schedule of
+program net position, schedule of program revenues, expenses, and changes in net position, schedule of
+program cash flows, and schedule of notes and bonds payable are fairly stated, in all material respects,
+in relation to the basic financial statements as a whole.
+Boise, Idaho
+October 30, 2025
+3
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+As management of the Washington State Housing Finance Commission (the Commission, we, or our), we offer
+readers of the Commission’s financial statements this narrative overview and analysis of our financial activities
+for the year ended June 30, 2025. This overview and analysis is required by accounting principles generally
+accepted in the United States of America for governmental entities.
+Financial Highlights
+During the fiscal year ended, or as of June 30, 2025 (FY 2025):
+Net position increased $128.5 million to $1,064 million primarily due to the $93.1 million increase in net position
+of Program-Related Investments (PRI) and $34.2 million increase in the Single-Family Bond Program. The
+increase in the PRI resulted from an excess of revenues over expenses totaling $49.2 million, mostly from the
+down payment assistance revenues from Homeownership’s Home Advantage daily-priced mortgage program
+(Home Advantage) coupled with the operating transfer from the General Operating Fund (GOF) of $44 million.
+The increase in the Single-Family Bond Program resulted primarily from increased interest earnings on mortgage
+loans and mortgage-backed securities (MBS), and other investments held in the bond fund.
+During the fiscal year, cash, cash equivalents, and investments increased by $27.2 million primarily due to an
+increase in cash equivalents in the Single-Family and Multifamily Housing Bond Programs awaiting investment in
+Mortgage-Backed Securities and deployment to Multifamily projects. This is offset by a decrease in PRI and GOF
+as funds were deployed to new program loans and the continued administration of the U.S. Department of
+Treasury’s Homeowner Assistance Fund (“HAF”). Mortgage-Backed Securities increased by $167.3 million as new
+single-family bonds issued for the purchase of such securities increased in the current fiscal year and
+prepayments of outstanding MBSs remained depressed due to elevated interest rates. Assets and deferred
+outflows of resources increased by $364.6 million, largely due to these factors.
+Total accounts payable and other liabilities increased by $57.3 million to $140.1 million, primarily due to a $40
+million PRI loan to the Single Family Bond Program, and an increase in partner funds invested in PRI programs.
+Total bonds payable of $1.0 billion were outstanding, net of premiums and discounts, $151.4 million above the
+prior year balance. This increase was a result of the net issuance of bonds ($230.1 million) and the net payment
+of principal ($75.2 million). Total notes payable of $214.0 million were outstanding, an increase of $66.7 million
+from the prior year. This increase was primarily due to additional draws on a line of credit in our Multifamily
+Housing Bond Program. Unearned revenue and other liabilities decreased by $42.6 million to $94.1 million at
+year end primarily as funds on hand for the aforementioned HAF grant were distributed to subrecipients.
+Liabilities and deferred inflows of resources increased by $236.1 million, largely due to these factors.
+PRI and GOF program fees and grant revenue increased by $59.3 million due primarily to the implementation of
+the Covenant Homeownership Program funded by State grant proceeds in the new year, coupled with an
+increase in revenue from the Home Advantage program. Bond program revenues (mortgage interest, unrealized
+loss on MBSs, investment earnings and other) increased by $32.0 million primarily due to net realized gains on
+MBSs, ($17.6 million), and an increase in interest revenue from a higher balance of MBSs held in the bond
+portfolio.
+4
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+OVERVIEW OF THE FINANCIAL STATEMENTS
+The financial statements consist of three parts: Management’s Discussion and Analysis, the financial statements,
+and the notes to the financial statements. The basic financial statements include the statements of net position,
+the statements of revenues, expenses, and changes in net position, and the statements of cash flows. The
+financial statements are presented in a manner similar to that of a private business using the economic
+resources measurement focus and the accrual basis of accounting.
+The financial statements report information for all Commission programs and operations. The statements of net
+position include all Commission assets, liabilities and deferred inflows and outflows of resources. All revenues
+and expenses of the Commission are accounted for in the statements of revenues, expenses, and changes in net
+position. Program financial statements are presented as supplemental schedules. These schedules separate the
+financial statements into General Operating Fund, Program-Related Investments, and Bond Fund.
+Economic Outlook
+During the fiscal year, the 10-year Treasury note yield, the benchmark often used to price mortgage rates, fell
+slightly to 4.24% on June 30, 2025 from its June 30, 2024 rate of 4.36%. Average 30-year mortgage rates
+followed the modest decrease in the 10-year Treasury note yield, ending the year at 6.77% from 6.86% at the
+prior year end. Home prices continued their upward trajectory across the US, albeit at a slower pace. According
+to the S&P CoreLogic Case-Shiller U.S. National Home Price Index, home prices increased by 1.8% nationally
+year-over-year, down from 4.7%, while Seattle had just a 0.3% increase during the year. A tight supply of single-
+family homes coupled with high housing prices and elevated mortgage rates continued to make purchases by
+the Commission’s low-to-moderate income target customers difficult.
+The Commission generated approximately $170.1 million in lendable proceeds for our House Key Opportunity
+program through the issuance of tax-exempt bonds in fiscal year 2025. The program targets first-time
+homebuyers in lower-income households, generally providing a lower interest rate and additional down
+payment options.
+The Commission securitized 4,483 Home Advantage loans using funds generated from selling into the To Be
+Announced (TBA) market in fiscal year 2025, a 66% increase from the prior year. The dollar value of the loans
+purchased was about $1.785 billion, up 71.6% from the year prior. The Commission continued to supplement its
+Home Advantage program by issuing taxable bonds during the year. During fiscal year 2025, the Commission
+generated approximately $60 million in lendable proceeds through the issuance of taxable bonds for the
+program.
+Demand for the 9% Low-Income Housing Tax Credit (LIHTC) for Multifamily housing continues to significantly
+outstrip supply. Therefore, many developers of affordable housing are using the 4% LIHTC program in
+conjunction with tax-exempt bonds. That program is constrained by the amount of private-activity bond volume
+cap available for such projects and has been substantially oversubscribed.
+5
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+Based upon indications and actions of the Federal Reserve Board (the Fed) since the fiscal year end, we believe
+interest rates will continue to fall in the coming fiscal year as inflation nears stated targets. Falling short-term
+interest rates would decrease the carrying cost of the Commission’s unhedged variable-rate debt in its Single-
+family program. However, there would also be an offsetting decrease in the return on the Commission’s short-
+term investments. We anticipate falling interest rates to make our programs more accessible to potential home
+buyers in the state and anticipate an increase in production, particularly within our Home Advantage program.
+FINANCIAL ANALYSIS OF THE COMMISSION
+Statements of Net Position
+The following table summarizes the changes in assets and deferred outflows of resources, liabilities, deferred
+inflows of resources, and net position between June 30, 2025 and 2024, (in millions):
+2025 2024 Change
+Assets
+Cash and cash equivalents $ 607.3 $ 611.4 $ ( 4.1) (0.7%)
+Investments 199.6 168.3 31.3 18.6%
+Accrued interest receivable 14.0 11.6 2.4 20.7%
+Fees receivable, net 15.3 13.3 2.0 15.0%
+Other receivables 0.2 4.2 (4.0) (95.2%)
+Mortgage-backed securities,
+fair value 948.3 781.0 167.3 21.4%
+Mortgage loans, net 732.1 566.9 165.2 29.1%
+Prepaid fees and other 8.9 5.7 3.2 56.1%
+Total assets 2,525.7 2,162.4 363.3 16.8%
+Deferred Outflows of Resources 2.2 0.9 1.3 144.4%
+Total assets and
+deferred outflows
+of resources $ 2,527.9 $ 2,163.3 $ 364.6 16.9%
+6
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+2025 2024 Change
+Liabilities
+Accounts payable and
+other liabilities $ 140.2 $ 82.9 $ 57.3 69.1%
+Accrued interest payable 9.0 7.6 1.4 18.4%
+Unearned revenue and other 9 4.1 1 36.7 (42.6) (31.2%)
+Derivative instrument -
+interest rate swap (1.1) (1.5) 0.4 (26.7%)
+Notes payable 214.0 1 47.3 6 6.7 45.3%
+Bonds payable, net 1,000.0 848.6 151.4 17.8%
+Total liabilities 1,456.2 1,221.6 234.6 19.2%
+Deferred Inflows of Resources 7.6 6.1 1.5 24.6%
+Net Position
+Restricted
+Bond operations 146.5 1 12.3 3 4.2 30.5%
+Net Pension Asset 1.3 1.9 (0.6) NA
+Grants and donations to PRI 0.8 0.8 - - -%
+Net investment in capital assets 4.3 1.2 3.1 2 58.3%
+Unrestricted
+General operations 2 3.5 24.9 (1.4) (5.6%)
+Housing Washington 0.2 0.1 0.1 1 00.0%
+Program-related investments 887.5 7 94.4 9 3.1 11.7%
+Total net position 1,064.1 935.6 128.5 13.7%
+Total liabilities, deferred inflows
+of resources, and net position $ 2,527.9 $ 2,163.3 $ 364.6 16.9%
+Cash equivalents, and investments decreased by $4.1 million and mortgage-backed securities and mortgage
+loans increased by $332.5 million, which were the primary components of an increase in assets of $364.6
+million. Net bonds payable increased by $151.4 million as new bonds were issued and notes payable increased
+$66.7 million.
+The net position of the Commission increased $128.5 million from the June 30, 2024, amount. This increase
+resulted from the net operating income, before contributions and distributions, across all funds.
+The net position of the Bond Fund is classified as restricted because trust indentures direct the use of the funds.
+The Commission has designated its remaining net position to a General Operating Fund and to Program-Related
+Investments.
+The General Operating Fund net position is a reserve to protect the Commission from future uncertainty. With
+the reserve in place, the Commission is positioned to meet its future, long-term project monitoring
+commitments and to independently meet unforeseen fiscal or legal challenges.
+7
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The Commission has also designated a net position for Program-Related Investments. Investments target
+strategic, higher-risk programs that support the financing and production of housing for low-income and special
+populations as well as facilities used to provide community services primarily to low-income persons. These
+investments complement, supplement, and enhance other Commission programs and have been a catalyst to
+generate $55.5 million in investments and donations by partners who wish to support the program purpose. The
+Commission manages and deploys those funds in addition to its own.
+Statements of Revenues, Expenses, and Changes in Net Position
+The following table summarizes the changes in revenues and expenses between 2025 and 2024, (in millions):
+2025 2024 Change
+Revenues
+Bond programs mortgage interest $ 41.3 $ 29.6 $ 11.7 39.5%
+Bond programs investments and
+other income 1 9.8 23.0 (3.2) (13.9%)
+Bond program gain (loss) on
+mortgage-backed securities 17.6 (4.0) 21.6 (540.0%)
+Other bond fees - (1.8) 1.8 (100.0%)
+Program fees and grants 126.4 128.2 (1.8) (1.4%)
+General operating fund interest income 1 7.6 16.9 0.7 4.1%
+Total revenues 222.7 191.9 30.8 1 6.1%
+Expenses
+Bond programs interest expense 42.3 36.4 5.9 1 6.2%
+Other bond programs expenses 2.8 3 .5 (0.7) (20.0%)
+Salaries and wages 12.8 11.5 1.3 1 1.3%
+Other general operating fund and
+program-related investments expenses 97.4 80.6 16.8 2 0.8%
+Total expenses 155.3 132.0 23.3 1 7.7%
+Change in Net Position $ 67.4 $ 59.9 7.5 1 2.5%
+The primary components of total revenues for the bond fund are mortgage-related interest earnings,
+investment and other income, and the unrealized gain(loss) on MBSs. Bond interest expense is the primary
+component of total expense for the bond fund. Commission revenues in the General Operating and PRI Funds
+are mostly generated from issuer fees, interest income, the premium generated from the sale of mortgage-
+backed securities, and shared servicing revenue on Home Advantage mortgages outstanding. During fiscal year
+2025, the Commission’s General Operating Fund revenue and expense included $60.4 million of housing
+counseling and foreclosure relief funds grants which were passed-through to qualifying counseling agencies and
+other HAF program participants.
+8
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+DEBT ADMINISTRATION
+The Commission has long-term debt obligations of $1.0 billion, net of bond premium and discounts, and short-
+term notes payable of $164.6 million, at June 30, 2025. A trustee or paying agent administers monetary
+activities and holds all monies in the Commission’s Bond Fund. They ensure that bond resolution requirements
+are met, including payments of debt service and funding of necessary reserves. At June 30, 2025, amounts held
+by the trustees and paying agents represent full funding of these requirements.
+Most of the debt of the Commission is tax-exempt, issued under the Internal Revenue Code and Treasury
+Regulations. The Federal Tax Reform Act of 1986 imposes an annual cap on the aggregate amount of federally
+tax-exempt private activity bonds. Our Single-family Homeownership program relies on private activity bonds
+subject to this volume cap. We may also issue taxable debt to supplement our tax-exempt authority and for
+lending where program requirements are inconsistent with federal restrictions.
+The Commission also issues bonds on behalf of multi-family housing developers and not-for-profit organizations.
+However, the bonds issued under these programs meet the definition of conduit debt obligations for which we
+have not extended any additional commitments for debt service payments beyond the collateral and payments
+received from the underlying mortgages. As of June 30, 2025 such bonds have an aggregate outstanding
+principal amount payable of $7.8 billion. Because these bonds are considered conduit bonds, in accordance with
+accounting standards generally accepted in the United States of America, the Commission does not include the
+assets, liabilities, and related activities for these obligations. For additional information see Notes 2 and 8.
+The Commissioners have adopted policies that govern the process followed to issue debt. We issue bonds in the
+Single-family Homeownership Program to purchase MBSs backed by Federal National Mortgage Association
+(Fannie Mae), Government National Mortgage Association (Ginnie Mae), or Federal Home Loan Mortgage
+Corporation (Freddie Mac). These securities carry a credit rating agency rating equal to that of the United States.
+The Commission evaluates and uses available debt management techniques to achieve our goals of reducing
+interest expense and preserving the maximum amount of bonding authority in the Single-family
+Homeownership Program. In implementing these practices, we often retire higher interest rate debt when
+opportunities for economic refunding occur.
+The Revised Code of Washington Section 43.180.160 limits the Commission’s outstanding debt to fourteen
+billion dollars. We have no general obligation bonds and do not currently have an issuer credit rating.
+Net bonds and notes payable as of June 2025, was $1.2 billion, an increase of about $208.2 million from 2024.
+Changes enumerated by program are summarized in the following table (in millions):
+2024 Issued Redeemed Changes 2025
+Single-family $ 840.8 $ 226.5 $ 73.6 $ 152.9 $ 993.7
+Home ownership (NIPB) 7 .9 - 1 .6 (1.6) 6 .3
+Short-term Notes Payable 107.9 287.4 230.7 56.7 164.6
+$ 956.6 $ 513.9 $ 305.9 $ 208.0 $ 1,164.6
+9
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The following table summarizes the changes in combined adjusted net position between June 30, 2024, and
+2023 (in millions):
+2024 2023 Change
+Assets
+Cash and cash equivalents $ 611.4 $ 733.6 $ (122.2) (16.7%)
+Investments 1 68.3 124.9 43.4 34.7
+Accrued interest receivable 11.6 8.6 3.0 34.9
+Fees receivable, net 13.3 12.6 0.7 5.6
+Other receivables 4.2 0.5 3.7 740.0
+Mortgage-backed securities, fair value 7 81.0 571.6 2 09.4 36.6
+Mortgage loans, net 5 66.9 496.4 70.5 14.2
+Prepaid fees and other 5.7 4.1 1.6 39.0
+Total assets 2,162.4 1,952.3 2 10.1 10.8
+Deferred outflows of resources 0.9 1.5 (0.6) (40.0)
+Total assets and deferred
+outflows of resources $ 2,163.3 $ 1,953.8 $ 209.5 10.7%
+2024 2023 Change
+Liabilities
+Accounts payable and other liabilities $ 8 2.9 $ 7 9.8 $ 3.1 3.9%
+Accrued interest payable 7.6 6.3 1.3 20.6
+Unearned revenue and other 1 36.7 1 49.6 (12.9) (8.6)
+Derivative instrument - interest rate swap (1.5) (1.0) (0.5) 50.0
+Project equity held for borrower 1 47.3 2 29.9 (82.6) (35.9)
+Bonds and notes payable, net 8 48.6 6 06.5 2 42.1 39.9
+Total liabilities 1,221.6 1,071.1 1 50.5 14.1
+Deferred inflows of resources 6 .1 6 .9 (0.8) -
+Net position
+Restricted
+Bond operations 1 12.3 1 04.3 8.0 7.7
+Net Pension Asset 1.9 1.7 0.2 -
+Grants and donations to PRI 0.8 0.8 - -
+Net investment in capital assets 1.2 1.8 (0.6) (33)
+Unrestricted
+General operations 24.9 23.5 1.4 6.0
+Housing Washington 0.1 0.4 (0.3) (75.0)
+Program-related investments 7 94.4 7 43.3 51.1 6.9
+Total net position 9 35.6 8 75.8 59.8 6.8
+Total liabilities, deferred inflows of resources,
+and net position $ 2,163.3 $ 1,953.7 $ 209.5 10.7%
+10
+Washington State Housing Finance Commission
+Management’s Discussion and Analysis
+June 30, 2025 and 2024
+The following summarizes the changes in revenues and expenses between fiscal years 2024 and 2023 (in
+millions):
+2024 2023 Change
+Revenues
+Bond programs mortgage interest $ 29.6 $ 19.6 $ 10.0 51.0%
+Bond programs investments and
+other income 23.0 15.6 7 .4 47.4
+Bond program gain (loss) on
+mortgage-backed securities (4.0) (25.2) 21.2 (84.1)
+Other bond fees (1.8) 0 .6 (2.4) (400.0)
+Program fees and grants 128.2 90.6 37.6 41.5
+General operating fund interest income 16.9 9 .9 7 .0 70.7
+Total revenues 191.9 111.1 80.8 72.7%
+Expenses
+Bond programs interest expense 36.4 26.6 9 .8 36.8%
+Other bond programs expenses 3 .5 1 .6 1 .9 --
+Salaries and wages 11.5 10.3 1 .2 11.7
+Other general operating fund and
+program-related investments expenses 80.6 45.1 35.5 78.7
+Total expenses 132.0 83.6 48.4 57.9%
+Return remaining contribution
+for closed programs - - -
+Change in net position $ 59.9 $ 27.5 $ 32.4 117.8%
+During the fiscal year ended June 30, 2024, the Commission’s total assets increased by $210.1 million largely
+attributable to an increase in investments, net MBSs, and net mortgage loans, offset by a decrease in cash and
+cash equivalents.
+The Commission’s $59.9 million increase in net position resulted from the net operating income, before
+contributions and distributions of PRI, GOF, and the bond fund.
+ADDITIONAL INFORMATION
+Please direct questions and inquiries to the Senior Director of Finance or the Senior Controller at Washington
+State Housing Finance Commission, 1000 2nd Avenue, Suite 2700, Seattle, Washington 98104, or by telephone
+at 206-464-7139.
+11
+Washington State Housing Finance Commission
+Statements of Net Position
+June 30, 2025 and 2024
+2025 2024
+Assets
+Cash and cash equivalents $ 607,270,504 $ 611,398,232
+Investments
+U.S. government and agencies securities 66,273,159 62,708,516
+Investment agreements 133,349,259 105,576,698
+199,622,418 168,285,214
+Accrued interest receivable 14,036,519 11,577,287
+Fees receivable, net 15,302,159 13,337,584
+Other receivables 167,173 4,160,835
+Mortgage-backed securities, cost 986,328,406 836,665,938
+cumulative unrealized gain (loss) on
+mortgage-backed securities (38,074,681) (55,690,470)
+Mortgage-backed securities, fair value 948,253,725 780,975,468
+Mortgage loans, net 732,144,564 566,902,533
+Prepaid fees and other 8,921,720 5,716,192
+Total assets 2,525,718,782 2 ,162,353,345
+Deferred Outflows of Resources 2,165,674 933,236
+Total assets and deferred outflows
+of resources $ 2,527,884,456 $ 2,163,286,581
+See Notes to Financial Statements 12
+Washington State Housing Finance Commission
+Statements of Net Position
+June 30, 2025 and 2024
+2025 2024
+Liabilities, Deferred Inflows of Resources, and Net Position
+Accounts payable and other liabilities $ 140,147,430 $ 82,890,588
+Accrued interest payable 8,999,595 7,611,444
+Unearned revenue 94,077,379 136,643,274
+Derivative instrument - interest rate swap (1,138,824) (1,480,955)
+Notes payable 214,028,579 147,309,982
+Bonds Payable
+Tax-Exempt Bonds
+Due within one year 27,125,000 25,635,000
+Due in more than one year 732,865,000 638,786,771
+Taxable Bonds
+Due within one year 1,185,000 -
+Due in more than one year 226,335,917 171,348,222
+Unamortized bond discount (65,242) ( 70,961)
+Unamortized bond premium 12,578,519 12,918,922
+Total bonds payable 1,000,024,194 848,617,954
+Total liabilities 1 ,456,138,353 1 ,221,592,287
+Deferred Inflows of Resources 7,632,503 6,114,005
+Net Position
+Restricted
+Bond operations 146,440,245 112,262,923
+Net pension asset 1,340,892 1,894,532
+Grants and donations to program-related
+investments 809,424 809,424
+Net investment in capital assets 4,333,009 1,169,803
+Unrestricted
+General operations 23,448,043 24,932,069
+Housing Washington 198,153 122,628
+Program-related investments 887,543,834 794,388,910
+Total net position 1,064,113,600 935,580,289
+Total liabilities, deferred inflows
+of resources, and net position $ 2,527,884,456 $ 2,163,286,581
+See Notes to Financial Statements 13
+Washington State Housing Finance Commission
+Statements of Revenues, Expenses, and Changes in Net Position
+Years Ended June 30, 2025 and 2024
+2025 2024
+Operating Revenues
+Interest earned on mortgage loans
+and mortgage-backed securities $ 41,315,470 $ 29,568,537
+Other interest and investment income 37,410,972 39,864,231
+Unrealized gain (loss) on mortgage-backed securities 17,615,789 (4,044,004)
+Other fee income 65,984,462 54,166,416
+Total operating revenues 162,326,693 119,555,180
+Operating Expenses
+Interest on debt 42,323,635 36,437,177
+Amortization of bond discount 5,719 2,072
+Amortization of bond premium (989,332) (985,139)
+Bond issuance costs 2,409,983 2,964,531
+Servicing and commission fees 1,076,206 1,083,781
+Salaries and wages 12,839,552 11,544,782
+Communication and office expense 3,110,713 2,812,086
+Professional fees 2 ,838,868 2,817,573
+Trustee and paying agent fees 144,559 125,211
+Other 31,114,129 3,053,810
+Total operating expenses 94,874,032 59,855,884
+Non-Operating Revenue and (Expense)
+State provided grant revenue 61,080,650 -
+Grant revenue 60,398,071 72,284,238
+Grant expense (60,398,071) (72,284,238)
+Total non-operating revenue and (expense) 61,080,650 -
+Change In Net Position 128,533,311 59,699,296
+Net Position, Beginning of Year 935,580,289 875,880,993
+Net Position, End of Year $ 1 ,064,113,600 $ 935,580,289
+See Notes to Financial Statements 14
+Washington State Housing Finance Commission
+Statements of Cash Flow
+Years Ended June 30, 2025 and 2024
+2025 2024
+Operating Activities
+Receipts for interest on mortgages $ 40,490,115 $ 28,285,034
+Receipts of program fees and federal grants 79,147,316 104,625,051
+Receipts of state grants 61,448,480 -
+Receipts for loans and mortgage prepayments 104,018,818 77,381,342
+Payments for acquisition of loans and mortgages (447,648,118) ( 363,468,917)
+Payments for bond program expenses 32,729,325 (273,602)
+Payments to employees and suppliers (50,301,142) (69,136,884)
+Net Cash used for Operating Activities (180,115,206) ( 222,587,976)
+Investing Activities
+Purchase of investments (2,042,973,779) (1,367,289,847)
+Sale of investments 2,011,636,576 1 ,323,933,439
+Interest received on investments 37,090,999 39,253,846
+Net Cash from (used for) Investing Activities 5,753,796 (4,102,562)
+Noncapital Financing Activities
+Proceeds from sale of bonds and notes 230,145,391 286,138,583
+Proceeds from short-term loan 287,356,185 203,134,359
+Repayments of collateralized loans (230,730,088) ( 307,202,286)
+Interest paid on debt (41,323,729) (35,311,305)
+Debt repayments (75,214,077) (42,275,452)
+Net Cash from Capital Financing Activities 170,233,682 104,483,899
+Decrease in Cash and Cash Equivalents (4,127,728) ( 122,206,639)
+Cash and Cash Equivalents, Beginning Of Year 611,398,232 733,604,871
+Cash and Cash Equivalents, End Of Year $ 607,270,504 $ 611,398,232
+See Notes to Financial Statements 15
+Washington State Housing Finance Commission
+Statements of Cash Flow
+Years Ended June 30, 2025 and 2024
+2025 2024
+Reconciliation of Excess of Revenues Over
+Expenses to Net Cash used for Operating Activities
+Excess of revenues over expenses $ 128,533,311 $ 59,699,296
+Adjustments to reconcile excess of revenues over
+expenses to net cash used for operating activities
+Amortization of mortgage discount (52,376) (50,639)
+Amortization of mortgage premium 17 81
+Amortization of bond premium (989,332) (985,139)
+Amortization of bond discount 5,719 2,072
+Acquisition of mortgage loans ( 447,648,118) ( 363,468,917)
+Repayments of mortgage loans 104,018,818 77,381,342
+Unrealized (gain) loss on securities (17,615,789) 4,044,004
+Cash from changes in operating assets and liabilities:
+Interest and other receivables 5,834,460 (28,065,595)
+Interest and other payables 47,798,084 28,855,519
+Net Cash used for Operating Activities $ (180,115,206) $ (222,587,976)
+Noncash Investing and Financing Activities
+Right of use asset obtained in exchange for lease liabilities $ 3,203,910 -
+See Notes to Financial Statements 16
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 1 - Principal Business Activity and Significant Accounting Policies
+Organization
+The Washington State Housing Finance Commission (the Commission, WSHFC, we, or our) was created in 1983
+by the legislature of the State of Washington (the State) to “act as a financial conduit which, without using public
+funds or lending the credit of the state or local government, can issue nonrecourse revenue bonds and
+participate in federal, state, and local housing programs thereby making additional funds available at affordable
+rates to help provide housing throughout the state.” The state legislature later authorized the Commission to
+issue bonds to finance or refinance nursing homes and capital facilities owned and operated by nonprofit
+corporations, beginning farmers/ranchers, sustainable energy and energy efficiency retrofit programs. Our debt
+limit is fourteen billion dollars.
+The Commission has eleven voting members. Two commissioners, the state treasurer and the director of the
+Department of Commerce, serve ex officio. The chair of the Commission is appointed by and serves at the
+pleasure of the governor. The governor appoints the remaining eight members to four-year terms, subject to
+confirmation by the Washington State Senate.
+The Commission is legally separate from the State and does not impose a financial burden on, nor accrue any
+financial benefit to, the State. Legal restrictions on the Washington State legislature’s ability to impose its will on
+the Commission and the inability of the governor to remove the majority of the voting members of the
+Commission prevent the State from being considered to be financially accountable for the Commission.
+However, in the State’s Annual Comprehensive Financial Report (ACFR), the Commission is presented as a
+discrete component unit of the State.
+Program Funds
+The Commission summarizes its financial activities in the General Operating Fund, Program-Related
+Investments, and Bond Fund.
+General Operating Fund – The General Operating Fund accounts for the fiscal activities related to the
+administration of our ongoing program responsibilities. Revenues are derived primarily from fees earned on
+bond issues, homeownership daily pricing program, housing tax credit allocations, and compliance monitoring,
+as well as interest income on General Operating Fund and Program-Related Investments. Except for certain
+pass-through grants and loans, all funds we receive are generated by our activities and are not direct
+appropriations from the State.
+The Commission adopted a General Operating Fund Reserve Policy (“Reserve Policy”) in 1989. General reserves
+provide income to fund current operations, help to ensure a sufficient, long-term revenue stream so we can
+remain independent of State funds and safeguard our ability to meet future legal and program obligations.
+Earnings above the reserve requirements are generally transferred to Program-Related Investments at the
+direction of the Commissioners, except for a portion of earnings on the homeownership daily pricing program
+which are transferred to the Single-Family Indenture.
+17
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Effective June 30, 2019, our Reserve Policy requires that we maintain general reserves of $30 million based upon
+capital adequacy analyses, net of the impact of any deferred pension liability as required by Governmental
+Accounting Standards Board (GASB) No. 68 and, effective July 1, 2017, any deferred other postemployment
+benefit (OPEB) liability as required by GASB No. 75. Therefore, the reserves reflect $29.3 million and $28.1
+million, respectively, for the years ending June 30, 2025 and 2024.
+Program-Related Investments – The Reserve Policy dedicates the use of reserves above those needed in the
+General Operating Fund for Program-Related Investments (the PRI). We strategically invest the PRI in programs
+that support our activities such as the financing and production of low-income and special needs housing and
+facilities that provide community services. Investments also include resources provided by other funders for use
+in established down payment assistance and other programs in which our missions align. Revenues include
+interest on these investments and down payment assistance fees associated with the homeownership daily
+pricing program.
+Bond Fund – A Trust, Funding Agreement, or Financing Agreement dictates the terms of each bond transaction.
+We record these activities in the Bond Fund and further separate them by program type as follows:
+Single-Family Homeownership Program – Transactions in this program are from the sale of Single-family
+Homeownership Program mortgage revenue bonds, the purchase of mortgage-backed securities (MBSs) of our
+pooled loans and the related debt service transactions on the bonds. There are three program indentures, each
+of which contains multiple series indentures: the General (Single-family) Indenture; the Homeownership Bond
+Program (NIBP) Indenture; and the Special Single Family Program Indenture. Each indenture is a special
+obligation of the Commission, payable solely from the bond funds established pursuant to the indenture. Debt
+service comes from payments received on the MBS pools and from any other money held in the trust estate by
+the bond trustee. Assets of the indentures are pledged as collateral for the debt and are $1,023.5 million and
+$844.4 million as of June 30, 2025 and 2024, respectively. We loan proceeds of this program to first-time
+homebuyers whose income does not exceed established limits. Mortgage rates for these programs range from
+2.00% to 9.25%.
+The supplemental schedules of program net position, results of program revenues, expenses, and changes in
+program net position, and program cash flows combines the results of the General (Single-family) and the
+Special Single-Family Program.
+Conduit Financing Programs – all other bonds that we issue, are conduit debt, i.e., limited-obligation bonds
+issued for the express purpose of providing financing for a specific third party that is not a part of the financial
+reporting entity. Bonds are issue for Multifamily Housing, Beginning Farmers/Ranchers, Energy Efficiency and
+Nonprofit Housing and Facilities. Financing proceeds for the Conduit Financing Programs are used to purchase
+qualified mortgages or MBSs from mortgage lenders. The issuer of the MBSs, the mortgagor, the letter of credit
+provider or the lender will pay the bond trustee principal and interest in amounts calculated to meet periodic
+debt service payments on the bonds.
+Conduit debt securities bear the name of the Commission. However, we have no obligation for payment of such
+debt beyond the resources provided by the loan with the third-party beneficiary.
+18
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Underwriters sell bonds in the capital market, or we privately place them with a sophisticated investor such as a
+financial institution. However, as of fiscal years ending June 30, 2025 and 2024, all bonds under these programs
+meet the accounting standard definition of conduit bonds and, as such, are not included in our financial
+statements. Additional information regarding the conduit bonds is included in Note 8.
+Note 2 - Summary of Significant Accounting Policies
+Our financial statements have been prepared in accordance with accounting principles generally accepted in the
+United States of America as applied to governmental units. The GASB is the accepted standard-setting body for
+establishing governmental accounting and financial reporting principles. We have applied all applicable GASB
+pronouncements. The remainder of this note describes our more significant accounting policies.
+Measurement Focus and Basis of Accounting
+We use the flow of economic resources measurement as the focus of our accounting of transactions. With this
+measurement focus, the statement of net position reflects all assets, deferred inflows and outflows of resources
+and all liabilities associated with our operations. The statement of revenues, expenses, and changes in net
+position for all funds present increases (e.g., revenues) and decreases (e.g., expenses) in our net total position.
+We use the accrual basis of accounting, recording revenue when earned and expenses when we incur the
+liability.
+Unclassified Statement of Net Position
+Our business cycle is greater than one year. As such, all assets and liabilities on the statements of net position
+are shown as unclassified.
+Cash and Cash Equivalents
+The Commission considers all highly liquid, interest-bearing instruments purchased with an original maturity of
+three months or less to be cash and cash equivalents. While the cash deposits in the Multifamily Recycling
+program are held exclusively in the Local Government Investment Pool, other cash deposits held in the Bond
+Fund are held in the corporate trust departments of commercial banks in the bond issue’s name. As of June 30,
+2025 and 2024, they held $205.2 million and $166.5 million, respectively, in uncollateralized or uninsured cash
+equivalents in the bond fund, primarily in government money market funds.
+Investments
+We categorize investments within the fair value hierarchy established by generally accepted accounting
+principles. The hierarchy uses valuation inputs to measure the fair value of the asset. Level 1 inputs are quoted
+prices in active markets for identical assets; Level 2 inputs are significant other observable inputs; Level 3 inputs
+are significant unobservable inputs. Investments are reported at fair value, unless they meet an exception as
+outlined under accounting standards generally accepted in the United States of America.
+19
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+An asset management company manages some of our investments in the General Operating and Program-
+Related Investment Funds. Our investments include marketable securities issued or guaranteed by the U.S.
+government. We determine and record fair value based on quoted market prices as of June 30, 2025 and 2024.
+Investments in the Bond Fund at June 30, 2025 and 2024, were short term repurchase agreements. For
+additional information regarding investments, see Note 3.
+Mortgage-Backed Securities
+Mortgage-backed securities are presented at their fair value based on quoted market prices as of June 30, 2025
+and 2024.
+Mortgage Loans
+Mortgage loans are stated at their unpaid principal balance.
+Provision for Loan Losses
+The provision for loan losses is estimated for each fund.
+General Operating Fund – Most fees in the General Operating Fund are billed and collected in advance, so no
+provision for loss is deemed to be necessary.
+Program-Related Investments – We estimate losses on our loans in Program-Related Investments based on its
+past loan loss experience, known and inherent risks in the portfolio and current economic conditions. The
+allowance for loan losses is increased by charges to expense and decreased by charge-offs (net of recoveries).
+The loan loss reserve was $17,003,644 and $16,006,861 as of June 30, 2025 and 2024, respectively. No provision
+for loss is made on loan balances funded by partner investments because the Commission does not guarantee
+return of those investments. Additionally, the in FY 2025, the Commission began issuing forgivable loans funded
+with grant proceeds and as such, has created an allowance for forgivable loans of $27,780,379.
+Bond Fund – We purchase MBSs with the proceeds of non-recourse revenue bonds payable solely from the
+assets specifically pledged under the trust indenture for the bonds. No assets of the Commission, other than
+those assets held under such trust indentures, are pledged to the payment of the bonds. We do not reserve for
+loan loss provisions because the assets held by all the outstanding Single-family Homeownership Program
+indentures are MBSs guaranteed by Fannie Mae, Ginnie Mae, or Freddie Mac.
+Other Assets
+Furniture, fixtures, equipment and leasehold improvements are accounted for in the General Operating Fund
+and are stated at cost, less accumulated depreciation and amortization. Our policy is to capitalize assets with a
+cost of $5,000 or more. Depreciation and amortization are charged to current operations on the straight-line
+method over the estimated useful lives of the assets, generally between three and ten years. See Note 6 for
+additional information concerning furniture, fixtures and equipment.
+20
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Commission recognizes Right of Use Assets, Lease Liabilities, Lease Receivables and Deferred Inflow of
+Resources for lease contracts with terms greater than 12 months. The Commission as a Lessee records the Right
+of Use Assets and Lease Liability, and as a Lessor, records Lease Receivable and Deferred Inflow of Resources,
+measured at the present value of future lease payments and receipts, respectively, discounted at the
+Commission’s incremental borrowing rate of prime less 85 basis points. Finance lease costs are recognized in
+two components, interest expense and amortization expense. As payments are received over the term of the
+lease, lease revenues are recognized in two components: interest revenue on lease receivable and revenue from
+amortization of deferred inflow of resources.
+Unearned Revenue
+Unearned revenue represents the unearned portion of the Commission’s bond fees, tax credit reservation fees,
+grant proceeds, and compliance monitoring fees that are received in advance. We record these fees when
+earned as other fee income on the statements of revenues, expenses, and changes in net position.
+Interfund Transfers and Balances for Single-family Program Liquidity Management
+Interfund transfers may be completed for short-term program purposes and are considered loans to and from
+the impacted funds. At fiscal year-end, we record any balance as an interfund loan in the corresponding fund.
+During the fiscal years ending June 30, 2025 and 2024, the Commission supported its Home Advantage
+program’s Master Servicer by purchasing and holding certain loans for a short time until pooled into MBSs.
+Resources used from the Single-Family Program fund and the PRI were in excess of those needed for program
+purposes. Balances remaining outstanding are as follows:
+Single-family Program-related
+At June 30, 2025 Bond Program Investments Total
+Interfund loans receivable (payable) $ (40,000,000) $ 40,000,000 $ -
+Single-family Program-related
+At June 30, 2024 Bond Program Investments Total
+Interfund loans receivable (payable) $ (40,000,000) $ 40,000,000 $ -
+Deferred outflow and inflow of resources – Deferred outflows of resources represent consumption of resources
+that are applicable to future reporting periods and deferred inflows of resources represent acquisition of
+resources that are applicable to future reporting periods. Deferred outflow of resources represents the year-end
+estimated fair value of the Commission’s derivative instruments as of June 30 and the value of pension and
+OPEB contributions made during the fiscal year, which is after the asset and liability measurement date. The
+difference between actuarial projected and actual earnings on pension plan assets are represented as deferred
+outflows (inflows) of resources. For additional information regarding the derivative, see Note 8 and regarding
+pension asset, liability, OPEB and the related deferred outflows and inflows of resources, see Note 10.
+21
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Pensions – For purposes of measuring the net pension asset and liability, deferred outflows of resources and
+deferred inflows of resources related to pensions, and pension expense, and information about the fiduciary net
+position of the Public Employees’ Retirement System (PERS) of the State of Washington and additions to or
+deductions from PERS’s fiduciary net position have been determined on the same basis as PERS reports them.
+Other postemployment benefits – For purposes of measuring the OPEB Liability, deferred outflows of resources
+and deferred inflows of resources, and expense related to OPEB, and information about any changes in the
+liability have been determined on the same basis as reported by the Office of Financial Management (OFM) of
+the State of Washington.
+Conduit Bonds
+Conduit bonds are defined as debt instruments where:
+1. The Commission, as the issuer, is joined by an unrelated third-party obligor, and a debt holder or
+trustee.
+2. The debt obligation is neither a parity bond of the Commission nor is it cross collateralized with other
+debt of the Commission.
+3. Debt proceeds are intended for and received by a party other than the Commission or the third-party
+obligor; and
+4. The Commission is not primarily obligated for the debt service payments.
+Prior to bond issuance the Commission determines if the bond meets this definition. Bonds issued that meet the
+definition of a conduit bond are reportable in note disclosure (see Note 8).
+The assets, liabilities and related activities of all other bonds are included in our financial statements.
+Bonds Payable
+Current interest serial and term bonds are stated at their principal amounts outstanding, net of unamortized
+bond premium and discount, if any. Certain bonds are variable rate bonds remarketed on a periodic basis and
+are subject to market rate fluctuation.
+Unamortized Bond Premium and Unamortized Bond Discount
+Unamortized bond premium and unamortized bond discounts are amortized using the bonds outstanding
+method.
+Bond Issuance Costs
+Bond issuance costs, including underwriter’s fees, are expensed at issuance.
+22
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Compensated Absences
+As of July 1, 2024, the Commission adopted GASB Statement No. 101, Compensated Absences. The provisions of
+this standard modernize the types of leave that are considered a compensated absence and provides guidance
+for a consistent recognition and measurement of the compensated absence liability. There was not a significant
+effect on the Commission’s financial statements as a result of the implementation of this standard, see Note 13.
+Employees classified as exempt work period employees may earn exchange time for actual time worked beyond
+their work schedule, up to a maximum of 174 hours. Upon separation or transfer to another agency, the
+employee may use accumulated, authorized compensatory time to postpone his/her cessation of employment.
+In consideration of these factors, the Commission accrues all costs associated with compensated absences and
+25% of sick leave, including an accrual for payroll taxes.
+Net Position
+We classify net position into three components:
+Restricted net position has constraints placed on use by external parties such as creditors, grants, laws or
+regulations.
+Net investment in capital assets consists of capital assets, net of accumulated depreciation and intangible lease
+assets, net of accumulated amortization. We do not hold any debt related to capital assets.
+Unrestricted net position consists of the remaining assets and liabilities.
+When both restricted and unrestricted resources are available in a fund, it is the Commission’s policy to spend
+restricted funds to the extent allowed and only spend unrestricted funds when needed.
+Revenue Recognition
+We recognize revenue on an accrual basis. The primary source of our revenue is fee income generated on our
+program activities. We earn fees on bond issues, compliance monitoring, and the sale of MBSs originated in the
+Home Advantage Program. We record these as fee income on the statement of revenues, expenses and changes
+in net position and allocate them to the Bond Fund, General Operating Fund, and Program-Related Investments.
+Fee income by category for the years ended June 30:
+23
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+2025 2024
+Commission fees $ 21,214,429 $ 18,960,775
+HomeOwnership Program fees 31,988,472 21,358,196
+Other program fees 8,204,562 7 ,444,694
+Other income 65,657,649 6 ,402,751
+$ 127,065,112 $ 54,166,416
+In addition, we earn interest on mortgage loans outstanding, MBSs and other investments. All revenues and
+expenses, with the exception of grant revenue and expense, are considered operating, as they relate directly to
+the purpose of the Commission.
+Income Taxes
+The Commission, as an instrumentality of the state of Washington, is exempt from federal and state income
+taxes. Accordingly, no provision for income taxes is necessary.
+Arbitrage Rebate
+We utilize an independent valuation specialist to calculate arbitrage earnings. We accrue any liability and make
+required payments to the United States Department of the Treasury.
+Use of Estimates
+The preparation of the statements in accordance with accounting principles generally accepted in the United
+States of America requires management to make estimates and assumptions that affect amounts reported in
+the financial statements. We use estimates in determining the allowance for doubtful accounts, valuation of
+certain investments, valuation of interest rate swap, arbitrage rebate liability, loan loss provisions, accrued sick
+leave and other contingencies. Actual results may differ from those estimates.
+Risks and Uncertainties
+We are authorized to invest in securities and loans that are exposed to interest rate, market, credit and/or other
+risks. It is possible that changes in the values of these assets will occur in the near term, and those changes could
+subsequently affect the amounts reported in the statements of net position.
+24
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 3 - Cash, Cash Equivalents, and Investments
+Cash and Cash Equivalents
+External entities hold our deposits, exposing them to custodial credit risk, meaning that if an institution fails, we
+might lose the funds. We minimize this risk by limiting deposits to those entirely covered by the Federal
+Depository Insurance Corporation (FDIC) or by collateral held in a multiple financial institution collateral pool
+administered by the Washington Public Deposit Protection Commission (PDPC). As of June 30, 2025 and 2024,
+cash deposits held by the General Operating Fund met these requirements.
+We hold most of our deposits in money market funds or in the Local Government Investment Pool operated by
+the State Treasurer pursuant to RCW 43.250 in which we are a voluntary participant. We report amortized cost
+on these funds. Restricted money market funds are held in the bond fund and are limited to the uses outlined in
+their respective indentures and agreements, primarily the acquisition of mortgages and repayment of principal
+and interest on bonds outstanding.
+Cash and cash equivalents by institution at June 30:
+2025 2024
+JP Morgan Chase $ 1,893,000 0.72% $ 1,502,118 0.43%
+Local Government Investment Pool 258,817,193 98.97% 3 44,580,715 98.09%
+All others 788,403 0.30% 5,196,551 1.48%
+$ 261,498,596 100% $ 351,279,384 100%
+Restricted Money Market Funds $ 345,771,908 $ 260,118,848
+Total Cash and Cash Equivalents $ 607,270,504 $ 611,398,232
+Investments
+While RCW 43.180.080(5) grants us the authority to invest our funds, it provides no investment guidelines or
+restrictions. The State law limits the type and character of investment of “public funds.” Considering our
+authorizing legislation, Washington State court decisions, and the sources of our dedicated funds, we find that
+the investment limitations on public funds do not apply to us. However, as a matter of policy, we currently
+invest our dedicated funds in a manner generally consistent with the investment limitations on public funds. To
+minimize our exposure to credit risk, we have adopted an investment policy that limits investments, summarized
+as follows.
+25
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Commission may invest in non-governmental investments, including certificates of deposit, banker’s
+acceptances, and repurchase agreements. In addition, the following governmental investments are eligible:
+1. Treasury bills, notes, and other obligations issued by the United States Department of the Treasury and
+backed by the full faith and credit of the U.S. government.
+2. Federal Home Loan Bank notes and bonds.
+3. Federal Land Bank bonds.
+4. Federal National Mortgage Association notes, debentures, and guaranteed certificates of participation.
+5. The obligations of certain government-sponsored entities whose obligations are eligible as collateral for
+advances to member banks as determined by the Board of Governors of the Federal Reserve System.
+6. Shares of mutual funds with portfolios consisting of only U.S. government bonds or U.S. government
+guaranteed bonds issued by federal agencies with average maturities of less than four years.
+Investments are managed to this policy through an agreement with Nuveen Asset Management.
+Custodial credit risk is the risk that we could not recover the value of our investments or collateral security if a
+depository institution or counterparty fails. We manage this risk by prequalifying institutions that we use to
+place investments. As of June 30, 2025 and 2024, investment securities were registered and held in our
+custodian agent’s name.
+Credit Risk
+Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill their obligations. We
+manage this risk by limiting investments to those permitted in our investment policies, diversifying the
+investment portfolio, and prequalifying the institutions where we place the investments.
+26
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Concentration of Credit Risk
+Concentration of credit risk is the risk of loss attributed to the magnitude of our investment in a single issuer.
+Our policy limits the investment in any single institution (except for United States Government Securities) to no
+more than 20% of the portfolio.
+Fair Value Measurements Using
+June 30, 2025 Quoted Prices in
+Active Markets Significant Other Significant
+Total for Identical Observable Unobservable
+Classification/Provider Investment Assets (Level 1) Inputs (Level 2) Inputs (Level 3)
+U.S. Government and
+Agency Obligations
+U.S. Treasury Notes $ 35,978,011 $ 35,978,011 $ - $ -
+U.S. Agencies 27,006,586 - 27,006,586 -
+Other Municipal Agencies 3,288,562 - 3 ,288,562 -
+Total General and PRI
+Fund Investments $ 66,273,159 $ 35,978,011 $ 30,295,148 $ -
+Fair Value Measurements Using
+June 30, 2024 Quoted Prices in
+Active Markets Significant Other Significant
+Total for Identical Observable Unobservable
+Classification/Provider Investment Assets (Level 1) Inputs (Level 2) Inputs (Level 3)
+U.S. Government and
+Agency Obligations
+U.S. Treasury Notes $ 33,450,580 $ 33,450,580 $ - $ -
+U.S. Agencies 25,947,312 - 25,947,312 -
+Other Municipal Agencies 3,310,624 - 3 ,310,624 -
+Total General and PRI
+Fund Investments $ 62,708,516 $ 33,450,580 $ 29,257,936 $ -
+27
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Interest rate risk is the risk that changes in interest rates over time will adversely affect the fair value of an
+investment. Examining the maturities of our investment securities, listed in the following table, can reveal
+information about interest rate risk.
+June 30, 2025
+Maturities (In Years)
+Type Total Less than 1 1-5 >5
+U.S. Treasury Notes $ 35,978,011 $ 1 00 $ 35,977,911 $ -
+U.S. Agencies 27,006,586 4,638,555 19,519,081 2 ,848,950
+Other government securities 3 ,288,562 - 3 ,288,562 -
+Total General and PRI
+Fund Investments $ 66,273,159 $ 4,638,655 $ 58,785,554 $ 2,848,950
+June 30, 2024
+Maturities (In Years)
+Type Total Less than 1 1-5 >5
+U.S. Treasury Notes $ 33,450,580 $ - $ 33,450,580 $ -
+U.S. Agencies 25,947,312 4,949,877 20,997,435 -
+Other government securities 3 ,310,624 105,756 3 ,204,868 -
+Total General and PRI
+Fund Investments $ 62,708,516 $ 5,055,633 $ 57,652,883 $ -
+Investment Securities – Bond Funds
+Single-Family Homeownership Program – The Single-family program indentures require that investments be
+made with proper regard for the preservation of principal and with maturities that provide sufficient liquidity to
+meet obligations. During the fiscal years ending June 30, 2025 and 2024, investments held in the Single-family
+program indentures included non-purpose MBSs and short-term repurchase agreements.
+U.S. agencies – During the year, the Commission invests available Single-Family bond fund reserves by
+purchasing MBSs originated through its Single-Family Homeownership programs in advance of issuing bonds.
+These investments are recorded at fair market value, however no Non-Purpose MBSs were held at June 30, 2025
+and 2024.
+28
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Short-term repurchase agreements – In December 2017, the Commission entered into a Mortgage Loan
+purchase and sale agreement (ML Liquidity Repurchase Agreement) with our Master Servicer, Idaho Housing &
+Finance Association (IHFA), to provide funds to the Master Servicer to purchase approved mortgage loans
+originated under our Home Advantage program. The purpose of this agreement is to promote the continued
+success of the program by assuring timely purchase of qualified mortgage loans. We intend to hold such loans
+less than 90 days.
+Single Family Bond Program Fair Value Measurements Using
+Investments as of June 30, 2025 Quoted Prices in Significant Significant
+Active Markets for other Observable Unobservable
+Total Identical Assets Inputs Inputs
+Classification/Provider Investment (Level 1) (Level 2) (Level 3)
+Repurchase Agreements
+Idaho Housing Finance Agency $ 1 33,349,259 $ - $ - $ 133,349,259
+Total Single Family Bond
+Program Investments $ 133,349,259 $ - $ - $ 133,349,259
+Single Family Bond Program Fair Value Measurements Using
+Investments as of June 30, 2024 Quoted Prices in Significant Significant
+Active Markets for Other Observable Unobservable
+Total Identical Assets Inputs Inputs
+Classification/Provider Investment (Level 1) (Level 2) (Level 3)
+Repurchase Agreements
+Idaho Housing Finance Agency $ 1 05,576,698 $ - $ - $ 105,576,698
+Total Single Family Bond
+Program Investments $ 105,576,698 $ - $ - $ 105,576,698
+Multifamily Housing Program
+Cash and Cash equivalents of $140.6 million and $93.6 million held at June 30, 2025 and 2024, respectively,
+consist of funds representing collateral for a line of credit supporting our Multifamily Recycling program. This
+collateral is directed by the line of credit agreement to be held in an account within the Local Government
+Investment Pool operated by the State Treasurer pursuant to RCW 43.250.
+29
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 4 - Mortgage-Backed Securities
+The Commission uses the proceeds of its Single-family Homeownership Program bonds to purchase mortgage-
+backed securities. Ginnie Mae, Fannie Mae or Freddie Mac, backed by the full faith and credit of the U.S.
+government, guarantee the payment of principal and interest on the MBSs.
+For the fiscal year ended June 30, 2025, the net increase in fair market value from that of the prior year-end
+based upon quoted market prices was $17,615,789 and for the fiscal year ended June 30, 2024, the net decrease
+in fair market value from that of the prior year-end based upon quoted market prices was $4,044,004. The
+following table shows the sources of the gains and (losses) on MBSs on the statements of revenue, expenses,
+and changes in net position for 2025 and 2024 by program.
+2025 2024
+Single Family Homeownership Single Family Homeownership
+Program Program Program Program
+Bonds Bonds Total Bonds Bonds Total
+MBS, at fair value $ 17,432,057 $ 183,732 $ 17,615,789 $ (3,920,853) $ (123,151) $ ( 4,044,004)
+Cumulative unrealized losses at June 30, 2025 and 2024, were $(38,074,681) and $(55,690,470), respectively,
+and are included in the balance of MBSs on the statement of net position.
+Note 5 - Mortgage Loans
+A summary of mortgage loans outstanding and due to the Commission is shown below:
+2025 2024
+Down Payment Assistance and Other
+Loans Supporting Homeownership $ 449,499,316 $ 439,702,117
+Multifamily Loans 205,469,057 148,118,273
+Other Mortgage Loans Receivable 161,960,215 35,089,004
+816,928,588 622,909,394
+Less:
+Allowance for Losses (17,003,645) (16,006,861)
+Allowance for Forgivable Loans (27,780,379) -
+Interfund Loan (40,000,000) (40,000,000)
+Net Mortgage Loans $ 732,144,564 $ 566,902,533
+30
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Other mortgage loans receivable includes amounts due to the Commission for boutique loan programs including
+programs to preserve farmland in the state, further energy efficiency development, and the preservation of
+manufactured housing communities. Additionally in FY 2025, the Commission began issuing forgivable
+downpayment assistance loans through the Covenant Homeownership Program (authorized by HB 1474 and
+amended by HB 1696) and forgivable energy loans through the Department of Commerce’s Home Electrification
+and Appliance Rebates (HEAR) program. The mortgage receivable for these loans is offset by an allowance for
+forgivable loans and will be removed from the balance sheet when the terms for forgiveness are achieved.
+Note 6 - Furniture, Fixtures and Equipment
+Furniture, fixtures and equipment as shown below at June 30, 2025 and 2024, are included in prepaid fees and
+other on the statements of net position.
+June 30, 2025 Useful Life July 1, 2024 Increase June 30, 2025
+Furniture, fixtures and equipment 3 to 10 years $ 2,808,958 $ 314,397 $ 3,123,355
+Leasehold improvements 4 to 5 years 176,058 - 176,058
+Total assets 2,985,016 314,397 3 ,299,413
+Less accumulated depreciation (2,577,923) (184,805) (2,762,728)
+Net book value $ 407,093 $ 129,592 $ 536,685
+June 30, 2024 Useful Life July 1, 2023 Increase June 30, 2024
+Furniture, fixtures and equipment 3 to 10 years $ 2,591,602 $ 217,356 $ 2,808,958
+Leasehold improvements 4 to 5 years 176,058 - 176,058
+Total assets 2,767,660 217,356 2 ,985,016
+Less accumulated depreciation (2,419,166) (158,757) (2,577,923)
+Net book value $ 348,494 $ 58,599 $ 407,093
+Note 7 - Leases
+The Commission entered into a new long-term office lease during the fiscal year. The lease expires on March 31,
+2032. As of June 30, 2025, the Commission recognized a total Lease Liability of $2,988,533, and a Right-of-Use
+Asset of $3,203,910 and a lease liability of $2,988,532. Accumulated amortization of the lease assets totaled
+$287,992 at fiscal year-end. During Fiscal Year 2025, the Commission recorded $287,992 in amortization
+expense, and $(129,810) in interest expense. The Commission, as a Lessee, records the Right-of-Use Asset and
+Lease Liability at present value of future lease payments, discounted by the Commission’s incremental
+borrowing rate of Prime, less 85 basis points at the time the lease contract was executed.
+31
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Lease activity for the years ended June 30, 2025 and 2024, is as follows:
+Balance Balance
+July 1, 2024 Additions Deletions June 30, 2025
+Right-to-use Leased Assets Being Amortized
+Right-to-use leased building $ 2,068,199 $ 3,203,910 $ (2,068,199) $ 3,203,910
+Right-to-use leased equipment 5 6,539 - ( 56,539) -
+Total right-to-use leased assets
+being amortized 2 ,124,738 3,203,910 ( 2,124,738) 3,203,910
+Less Accumulated Amortization for
+Right-to-use leased building (2,068,199) (287,992) 2,068,199 (287,992)
+Right-to-use leased equipment (56,539) - 56,539 -
+Total accumulated amortization (2,124,738) (287,992) 2,124,738 (287,992)
+Net right-to-use leased assets $ - $ 2,915,918 $ - $ 2,915,918
+Balance Balance
+July 1, 2023 Additions Deletions June 30, 2024
+Right-to-use Leased Assets Being Amortized
+Right-to-use leased building $ 2,239,934 $ (519) $ (171,216) $ 2,068,199
+Right-to-use leased equipment 5 6,020 519 - 56,539
+Total right-to-use leased assets
+being amortized 2 ,295,954 - (171,216) 2,124,738
+Less Accumulated Amortization for
+Right-to-use leased building (1,493,305) (746,110) 171,216 ( 2,068,199)
+Right-to-use leased equipment (39,238) (17,301) - ( 56,539)
+Total accumulated amortization (1,532,543) (763,411) 171,216 ( 2,124,738)
+Net right-to-use leased assets $ 763,411 $ (763,411) $ - $ -
+32
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Remaining obligations associated with these leases are as follows:
+June 30, Principal Interest
+2026 $ 339,303 $ 2 03,135
+2027 364,374 178,064
+2028 391,297 151,140
+2029 420,210 122,227
+2030 502,666 89,084
+Thereafter 970,682 64,880
+Total $ 2,988,532 $ 8 08,530
+Changes in long-term liabilities during the years ended June 30, 2025 and 2024 are as follows:
+Balance Balance Due Within
+July 1, 2024 Additions Deletions June 30, 2025 One Year
+Leases $ - $ 3,203,909 $ 2 15,377 $ 2,988,532 $ 339,303
+$ - $ 3,203,909 $ 2 15,377 $ 2,988,532 $ 339,303
+Balance Balance Due Within
+July 1, 2023 Additions Deletions June 30, 2024 One Year
+Leases $ 719,844 $ - $ 7 19,844 $ - $ -
+$ 719,844 $ - $ 7 19,844 $ - $ -
+33
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 8 - Bonds and Notes Payable
+Single-family mortgage revenue bonds issued by the Commission are limited obligations payable solely from and
+secured by a pledge of the MBSs (including any insurance payments made with respect thereto), restricted
+investments, undisbursed bond proceeds and the earnings thereon held under the indenture or financing
+agreement authorizing the bonds.
+Default on our single-family mortgage revenue bonds, including failure to provide punctual payment of the
+principal amount or any interest installment due, could result in the principal and accrued interest of the
+outstanding bonds becoming due in full, providing the Trustee receives written consent of at least 25% of the
+bond owners prior to so declaring.
+As of June 30, 2025, we had outstanding bonds of $987.5 million bearing interest varying in rates as listed
+below:
+FYE 2025
+Low High
+Single-family Program 0.55% 6.50%
+Homeownership Program 2.45% 3.15%
+In addition to the Single-family mortgage revenue bonds the Commission has issued bonds that meet the
+definition of conduit debt obligations. The proceeds are used by private sector borrowers for the acquisition,
+construction and rehabilitation of affordable multifamily housing and nonprofit facilities. We have not extended
+any additional commitments for the debt service payments of the bonds beyond the collateral and the
+payments on the underlying mortgage or promissory notes and maintenance of the tax-exempt status of the
+conduit debt obligations. As of June 30, 2025 and 2024, the conduit bonds have an aggregate outstanding
+principal amount payable of $8.6 billion and $7.8 billion, respectively, none of which was recognized as a liability
+by the Commission.
+Beginning in fiscal year 2021, the Commission began issuing Municipal Certificates (“the Certificates”) into Fixed
+Income Trusts to replace a single note-holding beneficiary of several of the Commission’s multifamily bond
+transactions (the Bond Transactions) with multiple investors (the Certificate holders). The Bond Transactions did
+not change, and borrowers remain obligated to make all payments under such notes. All assets in each of the
+Bond Transaction’s trust estate are pledged to and pass through to the Certificate holders as the full and
+complete payment of their investment. The Bond Transactions are included in the Commission’s conduit debt
+outstanding, however, to prevent duplication, the Certificates are not again included in the Commission’s
+conduit debt outstanding.
+Series Issue Date Issue Amount
+2021-1 Series A and Series X May 20, 2021 $ 571,961,262
+2023-1 Series A and Series X September 27, 2023 328,165,385
+2024-1 Series A September 30, 2024 316,403,066
+34
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Derivative Instruments – Interest Rate Swaps
+Single-Family Homeownership Program – The Commission has entered into interest rate swap agreements
+(“swaps”) in connection with issuing variable rate mortgage revenue bonds. The swaps are intended to create
+debt with synthetic interest rates lower than would have been attainable from long-term fixed rate bonds to
+achieve our goal of lending to low- and moderate-income first-time homebuyers at below market, fixed interest
+rates. The swaps are hedging derivative instruments. Additional information, including the fair market value of
+each swap, is listed below.
+Using rates as of June 30, 2025, debt service requirements of the outstanding variable rate debt and associated
+net swap payments, assuming current interest rates remain the same for their term, are as follows. As rates
+change, variable rate bond interest payments and net swap payments will vary.
+Interest Rate
+Fiscal Year Principal Interest Swap, Net Total
+2026 $ 22,500,000 $ 432,000 $ (83,284) $ 22,848,716
+2027 22,500,000 432,000 ( 83,284) 22,848,716
+2028 22,500,000 432,000 ( 83,284) 22,848,716
+2029 22,500,000 432,000 ( 83,284) 22,848,716
+2030 - 2048 22,500,000 8,388,000 (1,617,093) 29,270,907
+The terms and counterparty credit ratings of the outstanding swaps as of June 30, 2025 and 2024, are shown
+below. The notional amounts of the swaps match principal amounts of the associated debt as of June 30, 2025
+and 2024. The notional amounts are expected to approximately follow scheduled or anticipated reductions in
+the principal amounts of the associated debt.
+June 30, 2025
+Associated Current Current Fixed Swap Counterparty
+Bond Notional Principal Effective Rate Rate Fair Termination Credit
+Series Amount Amount Date Paid Received Value Date Rating
+2018 1N-MM $ 22,500,000 $ 22,500,000 November 28, 2018 2.730% 70.0% of SOFR $ 1,138,824 December 1, 2048 Aa1
+$ 22,500,000 $ 22,500,000 $ 1,138,824
+June 30, 2024
+Associated Current Current Fixed Swap Counterparty
+Bond Notional Principal Effective Rate Rate Fair Termination Credit
+Series Amount Amount Date Paid Received Value Date Rating
+2018 1N-MM $ 22,500,000 $ 22,500,000 November 28, 2018 2.730% 70.0% of SOFR $ 1,480,955 December 1, 2048 Aa1
+$ 22,500,000 $ 22,500,000 $ 1,480,955
+Our swap advisor estimated the fair values presented in the preceding table. They approximate the termination
+payments that would have been due had we terminated them as of June 30, 2025. A positive fair value
+represents the estimated amount receivable by the Commission had we terminated the swaps on June 30, 2025.
+The interest rate swaps do not have an observable market; therefore, the fair value classification is a Level 3
+input. As of June 30, 2025 and 2024, the fair value of the swap was $1,138,824 and $1,480,955.
+35
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+The Commission has determined that it’s interest rate swap is an effective hedge against changes in variable
+interest rates. As such, changes in the fair value for our hedge swap is reported as a deferred outflow of
+$342,131 as of June 30, 2025 and a deferred inflow of $455,212 as of June 30, 2024.
+The International Swap Dealers Association Master Agreement is the model for our swap agreements. They
+include standard termination events by either party if the other party fails to perform under the terms of the
+contract. Upon termination, a payment is due to one party irrespective of causality based upon the market value
+of the swap. We have termination risk if we become liable for termination payments to the counterparty or if
+we cannot find a replacement to the swaps under favorable financial terms. Our swap contracts reduce this risk
+by limiting the counterparty’s ability to terminate due to the following Commission actions or events: payment
+defaults, other defaults that remain uncured for 30 days after notice, bankruptcy, and insolvency.
+The terms of the swaps expose us to credit risk with the counterparties on a termination event. The swap
+agreements contain collateral requirements based upon counterparty credit ratings and the fair value of the
+swaps. These bi-lateral requirements are established to mitigate potential credit risk exposure. There are no
+collateral requirements as of June 30, 2025 and 2024.
+The Commission may incur amortization risk because we may receive prepayments from the mortgage loans
+portfolio that cannot be used to call other bonds of the same Series or to cross-call into other Series. The
+flexibility of our operating policy and other series of bonds, as well as the use of Planned Amortization Class
+(PAC) Bonds for restricted principal payments, minimizes this risk. Additionally, we may terminate the swaps at
+market value at any time.
+The Commission bears basis risk, the risk that the variable interest payments on our bonds will not equal the
+variable interest receipts from our swaps. Basis risk exists because we pay a variable rate on its bonds based on
+a weekly remarketing rate or indexed rate provided by the calculation agent, while we receive a variable rate
+based upon 70% of the monthly SOFR rate, as shown in the preceding table. Basis risk will vary over time due to
+inter-market conditions. As of June 30, 2025, the interest rate on our variable rate debt with swaps and 1.92%
+(2018 1N-MM) per annum while the variable interest rate on the corresponding swaps was 3.10% per annum
+(70.0% of SOFR at June 30, 2025). We considered the risk when structuring the related bonds and determined it
+was within acceptable tolerance levels.
+A change in the tax code could fundamentally alter the long-term historical relationship between taxable and
+tax-exempt short-term interest rates, changing the Commission’s receipts under its swap contracts. We
+determined that it was not economically feasible to transfer this tax risk to the swap counterparties.
+36
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Bond Refunding
+The Commission refunds bonds on a current basis. Current refundings result from redemption of the prior bonds
+within 90 days of the issuance of the new, refunding bonds. During the fiscal year ended June 30, 2025 we
+refunded two series of bonds increasing debt service by $17.4 million and resulting in an economic loss of $2.4
+million as shown in the following table:
+REFUNDING ISSUE
+Premium Reduction
+Fiscal Date of (discount) and Effective (increase) in Economic Gain
+Year Issue Bond Series Amount Other Rate Bond Series Amount Debt Service (Loss)
+Single Family
+Series 2024
+2025 11/19/2024 2N, 2A, & 2T $ 33,085,232 $ 2,353,232 4.304% Series 2015 1A-R/1N $ 894,546 $ (11,442,580) $ (1,601,195)
+Series 2016 1A-R 1N VR-1N 1,347,744
+Series 2016 2A-R 2N 2,783,546
+Series 2017 1A-R 1N 3,390,552
+Series 2017 2A-R/2N 1,914,733
+Series 2017 3N/3N-R/3A-R 736,552
+Series 2018 1N/1N-MM 3,665,000
+Series 2019 1N 4,255,000
+Series 2019 2A/2N 1,162,459
+Series 2020 1A/1N 1,921,995
+Series 2020 2N 1,299,569
+Series 2021 1N 1,692,762
+Series 2021 2A/2N 2,804,689
+Series 2022 1A/1N 1,441,907
+Series2023 1A /1N 210,707
+Series 2023 2A /2N 1,458,471
+Series 2014 2A-R 2N 2N-R 2,105,000
+Single Family
+Series 2025
+2025 5/28/2025 1N, 1A, & 1T $ 20,415,000 $ - 4.875% Series 2015 1A-R/1N $ 314,714 $ (5,957,082) $ (795,865)
+Series 2016 1A-R 1N VR-1N 425,484
+Series 2016 2A-R 2N 224,738
+Series 2017 1A-R 1N 1,444,802
+Series 2017 2A-R/2N 826,878
+Series 2017 3N/3N-R/3A-R 574,666
+Series 2018 1N/1N-MM 2,810,000
+Series 2019 1N 2,280,000
+Series 2019 2A/2N 1,121,624
+Series 2020 1A/1N 904,905
+Series 2020 2N 884,316
+Series 2021 1N 1,547,607
+Series 2021 2A/2N 3,555,032
+Series 2022 1A/1N 2,448,355
+Series2023 1A /1N 220,596
+Series 2024 1A /1N 305,707
+Series 2024 2A/2N 525,577
+37
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Future Principal and Interest Payments and Bonds Outstanding
+Bonds mature in varying amounts through 2055 based on their scheduled terms. However, some may be
+refinanced or redeemed early. As of June 30, 2025, future principal and interest requirements are as follows:
+Direct Placements All Other Bonds
+Total Total Total Total Total Total
+Fiscal Years Principal Interest Debt Interest Principal Interest
+June 30, Redemptions Payments Service Total Payments Redemptions Payments
+2026 $ 27,125,000 $ 41,579,469 $ 6 8,704,469 $ - $ 74,048 $ 27,125,000 $ 41,505,421
+2027 24,540,000 40,751,896 65,291,896 - 74,048 24,540,000 40,677,848
+2028 24,210,000 39,971,117 64,181,117 - 74,048 24,210,000 39,897,069
+2029 26,870,000 39,134,808 66,004,808 - 74,048 26,870,000 39,060,760
+2030 26,420,000 38,219,320 64,639,320 - 74,048 26,420,000 38,145,272
+2031-2035 143,750,000 175,436,421 3 19,186,421 - 370,240 143,750,000 175,066,181
+2036-2040 167,184,232 148,449,027 3 15,633,259 1,554,232 360,720 165,630,000 148,088,307
+2041-2045 177,296,685 113,595,015 2 90,891,700 1,641,685 83,928 175,655,000 113,511,087
+2045-2050 210,820,000 70,964,752 2 81,784,752 - - 210,820,000 70,964,752
+2051-2055 156,730,000 20,132,608 1 76,862,608 - - 156,730,000 20,132,608
+2056-2060 2 ,565,000 66,049 2,631,049 - - 2 ,565,000 66,049
+$ 987,510,917 $ 7 28,300,482 $ 1,715,811,399 $ 3,195,917 $ 1,185,128 $ 984,315,000 $ 727,115,354
+Changes in bonds outstanding during the fiscal year ended June 30, 2025, are summarized in the following table:
+July 1, 2024 Issued Redeemed June 30, 2025
+Direct placement $ 3,924,993 $ - $ 7 29,076 $ 3,195,917
+All other bonds and notes 831,845,000 2 26,955,000 74,485,000 984,315,000
+$ 835,769,993 $ 226,955,000 $ 75,214,076 $ 987,510,917
+July 1, 2023 Issued Redeemed June 30, 2024
+Direct placement $ 4,095,446 $ - $ 1 70,453 $ 3,924,993
+All other bonds and notes 588,990,000 284,960,000 42,105,000 831,845,000
+$ 593,085,446 $ 284,960,000 $ 42,275,453 $ 835,769,993
+38
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Warehouse Facility
+During the fiscal year ending June 30, 2019, the Commission entered into a repurchase agreement with Plains
+Capital Bank to purchase a 100% interest in eligible mortgage loans held by the Commission. This agreement
+allows us to access short-term funds of up to $40 million, to meet the liquidity needs in support of our
+temporary investments in Home Advantage mortgage loans, held in the Single-Family program bond fund. This
+credit agreement is collateralized by the underlying mortgage loans. Failure of the Commission to make required
+payments timely could result in immediate demand for payment, our loss of ownership of the underlying
+collateral and suspension of the agreement. Activity and balances for the fiscal years ending June 30, 2025 and
+2024, are summarized in the following table:
+2025 2024
+Beginning Balance $ 15,795,887 $ 8,141,218
+Draws 202,574,584 132,574,659
+Principal Repayments (192,868,236) (124,919,990)
+Ending Balance $ 25,502,235 $ 15,795,887
+During the fiscal year ending June 30, 2020, the Commission entered into a revolving loan and security
+agreement ("Line of Credit") with a private lender. Draws on the line are used to make qualified bond
+redemptions and are fully collateralized by bond prepayments received and deposited into a Local Government
+Investment Pool account established for this purpose. The line is repaid with proceeds from new bonds issued in
+conduit programs using recycled volume cap. An equal amount of monies on deposit are provided to the new
+bond borrower. Failure of the Commission to make required payments timely could result in immediate demand
+for payment, our loss of ownership of the collateral, loss of the recyclable volume cap preserved, and
+suspension of the agreement. Draws made during the year totaled $84,781,600 while repayments were
+$37,861,851, leaving a balance outstanding as of June 30, 2025 and 2024 of $139,096,344 and $203,899,193,
+respectively.
+During the fiscal years ending June 30, 2021, and June 30, 2024, the Commission entered into Lines of Credit
+with a private lender. Draws on the lines are used to make loans in PRI and are fully collateralized by the Deeds
+of Trust attached to the properties financed. The lines are repaid with proceeds from repayment on the loans.
+Failure of the Commission to make required payments timely could result in immediate demand for payment
+and suspension of the agreement.
+Draws made during the year totaled $10,092,500 while no repayments were made, leaving a balance
+outstanding as of June 30, 2025 of $49,430,000. Draws totaling $25,187,500 were made during the prior year
+while repayments were $3,675,000, leaving a balance outstanding as of June 30, 2024 of $17,825,000.
+39
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 9 - Commitments
+Mortgage Loans
+The Commission has committed to purchase mortgage loans to the extent qualified loans are available under
+our Single-Family programs currently in the acquisition phase. Our commitments as of June 30, 2025, totaled
+$80,810,387.
+Note 10 - Employee Benefit Plans
+Deferred Compensation Plan
+The State offers its employees a deferred compensation plan created in accordance with Internal Revenue Code
+Section 457. The plan permits our employees to defer a portion of their salaries until future years. The State
+pays the deferred compensation to employees upon termination, retirement, death, or unforeseeable
+emergency. We record the funds as salary expense when paid to the State; therefore, neither an asset nor
+liability is recorded on our financial statements.
+Retirement (Pension) Plan
+The Commission’s employees participate in the Public Employees’ Retirement System (PERS) of the State. PERS,
+established by the legislature in 1947, is a cost-sharing multiple-employer retirement system. Membership in
+the system includes elected officials; state employees; employees of the Supreme, Appeals and Superior Courts;
+employees of legislative committees; community colleges, college and university employees not in national
+higher education retirement programs such as TIAA/CREF; judges of district and municipal courts; noncertified
+employees of school districts, and employees of local government. Approximately 52.1% of PERS salaries are
+from State employment. Our employees are eligible to participate in Plans 2 and 3. Plan 2 is a defined benefit
+plan. Plan 3 includes defined benefit and defined contribution components. Each employee is responsible for
+their plan selection.
+Commission employees may retire at the age of 65 with five years of service or at age 55 with 20 years of
+service. The employee’s retirement benefit is the product of three factors, the PERS plan percentage (Plan 2, 2%,
+Plan 3, 1%), average final compensation (the greatest compensation during any consecutive 60-month period)
+and years of service. Retirement benefits taken before age 65 are actuarially reduced. A cost-of-living allowance
+on the benefit is added, based on the Seattle Consumer Price Index, capped at 3% annually. PERS Plans 2 and 3
+benefits include duty and non-duty disability payments and a one-time duty-related death benefit.
+40
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+A combination of investment earnings and employer and employee contributions finance PERS retirement.
+Employee contributions accrue interest at a rate specified by the Department of Retirement Services (DRS). The
+DRS-established rate of interest on employee contributions was 2.75%, compounded quarterly. Retirement
+benefit provisions are established in State statutes and may be amended only by the State legislature. An
+employee can withdraw their total contributions and interest earnings upon their termination. PERS defined
+benefits are vested after an employee completes five years of eligible service for Plan 2 participants. For PERS
+plan 3 participants, defined benefits are vested after ten years of eligible service or after five years if twelve
+months of that service are earned after age 44.
+Each biennium the legislature establishes employer and employee contribution rates. The Office of the State
+Actuary determines the contribution requirements to fully fund the plan in accordance with chapters RCW 41.40
+and 41.45. All employers are required to contribute at the level established by the legislature. PERS Plan 1
+accepts no new enrollments, and no Commission employees participate in the plan. However, the employer rate
+for participants in Plans 2 and 3 includes a component to address the PERS Plan 1 unfunded, actuarial accrued
+liability.
+The Commission and employee required contribution rates and amounts to the pension plan for the fiscal years
+June 30, 2025 and 2024, are:
+2025 2024
+Rate Amount Rate Amount
+Employer contributions
+Plan 1 component 2.56% $ 252,656 2.95% $ 263,175
+Plan 2 and 3 component 6.56% 633,380 6.56% 567,437
+9.12% $ 886,036 9.51% $ 830,612
+Employee Contributions
+Plan 2 6.62% $ 635,833 6.36% $ 570,182
+Detailed information about the pension plan’s fiduciary net position is available in the separately issued DRS
+financial statements, which are available from:
+Washington State Department of Retirement Systems
+PO Box 48380
+Olympia, WA 98504-8380
+www.drs.wa.gov
+The DRS retirement plans are accounted for in pension trust funds using the flow of economic-resources-
+measurement focus and the accrual basis of accounting. Employer contributions to each plan are recognized
+when due and the employer has made a formal commitment to provide the contributions. Benefits and refunds
+are recognized when due and payable in accordance with the terms of each plan. DRS reports investments held
+by the plans at fair value. As of the most recent period available, fiscal year ended June 30, 2024, DRS reports a
+total net pension liability for Plan 1 of $1.8 billion, and a total net pension asset for Plan 2 and 3 of $3.3 billion.
+41
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+At June 30, 2025 and 2024, the Commission recognized its proportionate share of the net pension liability of
+Plan 1 of $779,273, and $991,679, respectively, and included it in accounts payable and other liabilities within
+the General Operating Fund. The Commission recognized its proportionate share of the net pension asset of
+Plan 2 of $1,340,892 and $1,894,532, as of June 30, 2025 and 2024, respectively, and included it in the prepaid
+fees and other assets within the General Operating Fund. The net pension liability and asset were measured as
+of June 30, 2024 and June 30, 2023, and the total pension liability/asset used to calculate the net pension
+liability/asset was determined by an actuarial valuation as of June 30, 2023 and June 30, 2022, rolled forward to
+June 30, 2024 and June 30, 2023. Plan liabilities were rolled forward using each plan’s normal cost (using the
+entry-age cost method), assumed interest and actual benefit payments. The Commission’s proportion of net
+pension liability was based upon its contributions in relation to all other employer and non-employer
+contributions to the plan. The Commission’s proportions used for measurement of its obligations as of June 30,
+2025 and 2024, were:
+2025 2024 Change
+Plan 1 0.0439% 0.0440% -0.00010%
+Plans 2 and 3 0.0569% 0.0568% 0.00010%
+The change in Commission proportions was determined to be immaterial, therefore a deferral of the impact of
+the change was not recognized.
+For the years ended June 30, 2025 and 2024, the Commission recognized pension expense of $(233,526) and
+$(416,235) respectively. For those years, we recognized deferred outflows and inflows of resources related to
+pension obligations from the following sources:
+June 30, 2025 Deferred Deferred
+Outflows Inflows
+of Resources of Resources
+Net difference between projected and actual earnings
+on pension plan investments:
+Plan 1 $ - $ 18,931
+Plans 2 and 3 - 591,747
+Net difference due to change in assumptions
+Plans 2 and 3 917,207 -
+Net difference between expected and actual experience
+Plans 2 and 3 1,069,899 -
+Contributions subsequent to the measurement date
+Plans 2 and 3 893,110 -
+Total $ 2,880,216 $ 610,678
+42
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Deferred Deferred
+Outflows Inflows
+June 30, 2024 of Resources of Resources
+Net difference between projected and actual earnings
+on pension plan investments
+Plan 1 $ - $ 130,071
+Plans 2 and 3 - 982,041
+Net difference due to change in assumptions
+Plans 2 and 3 762,510 -
+Net difference between expected and actual experience
+Plans 2 and 3 460,224 -
+Contributions subsequent to the measurement date
+Plans 2 and 3 824,081 -
+Total $ 2,046,815 $ 1,112,112
+The $893,110 reported as deferred outflows of resources as of June 30, 2025, related to pensions resulting from
+the Commission’s contributions subsequent to the measurement date will be recognized as a reduction of the
+net pension liability in the year ended June 30, 2026.
+Other amounts reported as deferred inflows and outflows of resources related to pensions will be recognized in
+pension expense as follows for years ending June 30:
+Years Ended June 30:
+2026 $ 570,370
+2027 (895,524)
+2028 (368,512)
+2029 (363,036)
+2030 (173,102)
+Thereafter (146,624)
+$ (1,376,428)
+43
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+The total pension liability in the June 30, 2025 and 2024 actuarial valuations was determined using the following
+actuarial assumptions, applied to all periods included in the measurement:
+Actuarial Assumptions
+Inflation
+Economic 2.75%
+Salary 3.25%
+Investment rate of return 7.00%
+Discount rate 7.00%
+Mortality rates were based on the Society of Actuaries’ Publication H-2010 mortality rates, and vary by member
+status (active, retiree, or survivor). The Office of State Actuary applied age offsets for each system and
+recognized future improvements in mortality by applying the long-term MP-2017 generational improvement
+scale. Mortality rates are applied on a generational basis; meaning, each member is assumed to receive
+additional mortality improvements in each future year through his or her lifetime.
+The long-term expected rate of return on pension plan investments was determined using a building-block
+method. The Washington State Investment Board (WSIB) used a best estimate of expected future rates of return
+(expected returns, net of pension plan investment expense, including inflation) to develop each major asset
+class. Those expected returns make up one component of the WSIB’s Capital Market Assumptions (CMAs). WSIB
+uses the CMAs and their target asset allocations to simulate future investment returns at various future times.
+The long-term expected rate of return of 7.0% approximately equals the median of the simulated investment
+returns over a 50-year time horizon, adjusted to remove or dampen any short-term changes to WSIB’s CMAs
+that aren’t expected over the entire 50-year measurement period.
+The target allocation and best estimates of arithmetic real rates of return for each major asset class (as of PERS
+year-end June 30, 2024), including an inflation component of 2.20%, are summarized in the following table:
+% Long-Term
+Target Expected Rate
+Asset Class Allocation of Return
+Fixed Income 19% 2.10%
+Tangible Assets 8% 4.50%
+Real Estate 18% 4.80%
+Global Equity 30% 5.60%
+Private Equity 25% 8.60%
+100%
+The discount rate used to measure the total pension liability was 7.00%. The rate was determined by completing
+an asset sufficiency test on whether the pension plan’s fiduciary net position was sufficient to make all projected
+future benefit payments of current plan members.
+44
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Consistent with current law, the asset sufficiency test included an assumed 7.00% long-term discount rate to
+determine funding liabilities for calculation of future contribution rate requirements. Consistent with the long-
+term expected rate of return, a 7.00% future investment rate of return on investment assets was assumed for
+the test. Contributions from plan members and employers are assumed to continue at contractually required
+rates. Based upon those assumptions, the pension plan’s fiduciary net position was projected to be available to
+make all projected future benefit payments of current plan members. Therefore, the long-term expected rate of
+return of 7.00% was used to determine the total liability.
+The following presents the Commission’s proportionate share of the net pension liability as of June 30, 2025 and
+2024 calculated using the discount rate of 7.00% as well as what the proportionate share of the net pension
+liability would be if it were calculated using a discount rate that is one percentage point lower (6.00%) or
+one percentage point higher (8.00%) than the current rate:
+June 30, 2025
+Discount Rate Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+(6.0%) (7.0%) (8.0%)
+Plan 1 $ 1,147,407 $ 779,273 $ 457,835
+Plan 2 and 3 $ 3,381,397 $ (1,340,892) $ (6,193,336)
+June 30, 2024
+Discount Rate Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+(6.0%) (7.0%) (8.0%)
+Plan 1 $ 1,403,226 $ 991,679 $ 656,323
+Plan 2 and 3 $ 2,532,036 $ (1,894,532) $ (6,320,921)
+45
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Other Postemployment Benefit Plan
+Commission employees are eligible to participate in the single employer defined benefit other postemployment
+benefit (OPEB) plan administered by the State Health Care Authority (HCA). The plan, as authorized through
+RCW 41.05.065, is designed by the Public Employee Benefits Board (PEBB), created within HCA, and determines
+the terms and conditions of employee and retired employee participation and coverage, including eligibility
+criteria. The PEBB OPEB plan benefits are provided in accordance with a substantive plan rather than a
+formalized contract or plan document and, as such, rely on communication of the plan terms by HCA with
+employers and plan members as well as the historical practice of plan cost sharing by employers.
+The PEBB OPEB plan is funded by monthly contributions with amounts established by the Legislature as a part of
+the biennium budget process. There are no plan assets in a trust, rather the monthly contributions are used to
+pay for current benefits provided. The plan does not issue a publicly available financial report.
+The PEBB retiree OPEB plan is available to employees eligible for retirement electing to continue coverage and
+pay the administratively established health insurance premiums at the time they retire under the provisions of
+the retirement plan to which they belong.
+Per RCW 41.05.022, retirees who are not yet eligible for Medicare benefits may continue participation in the
+state’s non-Medicare community-rated health insurance risk pool on a self-pay basis. Retirees in this risk pool
+receive an implicit subsidy because the retired members pay a premium based on the claims experience for
+active employees and other non-Medicare retirees. The subsidy is valued using the difference between the age-
+based claims costs and the premium.
+Retirees who are enrolled in both Parts A and B of Medicare may participate in the state’s Medicare community-
+rated health insurance risk pool. Medicare retirees receive an explicit subsidy from the reduced premiums. The
+explicit subsidy is established through an annual recommendation by the HCA administrator which is included in
+the Governor’s budget with the final amount approved by the state Legislature. In calendar year 2025, the
+explicit subsidy was up to $183 per enrollee member per month and will remain at $183 in calendar year 2026.
+OPEB implicit and explicit subsidies as well as administrative costs are funded by the required contributions
+participating employers make. The Commission is required to make monthly contributions on behalf of all
+active, health care eligible employees (headcount), regardless of enrollment status. The allocation method used
+by the state to determine our proportionate share of the OPEB related liabilities, deferred inflows, deferred
+outflows, and expense is the percentage of our headcount as a percentage of the state’s total headcount.
+This same method is used to determine the transactions subsequent to the measurement date, specifically the
+retiree portion of premium payments made by agencies on behalf of active, health care eligible employees
+between the measurement date of June 30, 2024, and the reporting date of June 30, 2025. The portion of health
+care premiums attributed to retirees for both explicit and implicit subsidies is taken from the Fiscal Year 2024
+4th Quarter Update in the PEBB Financial Projection Model (PFPM) from the State Health Care Authority.
+46
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Additional information will be included in the Washington State 2025 Annual Comprehensive Financial Report
+on OFM’s website (www.ofm.wa.gov/accounting/financial-audit-reports/comprehensive-annual-financial-
+report). Additional information on health care trend rates and other actuarial date is available on the Office of
+the State Actuary’s website (leg.wa.gov/osa).
+For fiscal years ending June 30, 2025 and 2024, HCA reports total OPEB liability of $4.4 billion and $4.4 billion,
+respectively. At June 30, 2025 and 2024, the Commission recognized its proportionate share of the OPEB liability
+of $2,520,067 and $2,462,915, respectively, which is included in accounts payable and other liabilities within the
+General Operating Fund. The OPEB liability was measured as of June 30, 2024, and the total liability used to
+calculate the OPEB liability was determined by an actuarial valuation as of June 30, 2024. The Commission’s
+proportion was based upon our headcount in relation to the headcount of all state employees at the same date
+resulting in allocations of 0.0576% and 0.0563% used for the measurement of its obligations as of June 30, 2025
+and 2024, an increase between years of 0.0013%. The impact of this change is included in the related deferred
+inflows and outflows of resources and amortized over nine years, which is equal to the average expected
+remaining service lives of all active and inactive members.
+As of June 30, 2025 and 2024, components of the change in of our proportionate share of the total OPEB liability
+are as follows:
+2025 2024
+Beginning OPEB Liability $ 2,462,915 $ 2 ,385,306
+Change in proportionate Share 56,128 6,702
+Service cost 81,764 86,283
+Interest cost 93,781 86,672
+Differences between expected and actual experience 47,985 -
+Changes in assumptions (214,059) (41,678)
+Changes of benefit terms 55,030 -
+Benefit payments (63,477) (60,370)
+Ending OPEB Liability $ 2,520,067 $ 2,462,915
+47
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+For the years ended June 30, 2025 and 2024, the Commission recognized OPEB expense of $(66,654) and
+$(109,336), respectively. For those years recognized deferred outflows and inflows of resources related to the
+net OPEB liability from the following sources:
+Deferred Deferred
+Outflows Inflows
+As of June 30, 2025 of Resources of Resources
+Changes in assumptions $ 126,857 $ 1 ,392,535
+Changes in experience 68,154 63,531
+Changes in proportion 162,892 157,360
+Transactions subsequent to the measurement date 66,381 -
+Total $ 424,284 $ 1 ,613,426
+Deferred Deferred
+Outflows Inflows
+As of June 30, 2024 of Resources of Resources
+Changes in assumptions $ 160,041 $ 1 ,475,635
+Changes in experience 37,398 73,139
+Changes in proportion 107,875 197,933
+Transactions subsequent to the measurement date 62,063 -
+Total $ 367,377 $ 1 ,746,707
+The $66,381 reported as deferred outflows resulting from transactions subsequent to the measurement date
+will be recognized as a reduction in the OPEB liability in the year ended June 30, 2026.
+48
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Other amounts reported as deferred inflows and deferred outflows of resources will be recognized as OPEB
+expense in subsequent years as follows:
+Years Ended June 30,
+2026 $ ( 297,234)
+2027 (235,594)
+2028 (157,191)
+2029 (194,913)
+2030 (178,247)
+Thereafter (192,344)
+$ (1,255,523)
+The total OPEB liability in the June 30, 2025, was determined using the following actuarial assumptions.
+Inflation
+Economic 2.40%
+Salary 3.25%
+(Salaries are also expected to grow by
+promotions and longevity)
+Health care trend rates
+Initial rate(s) 4.5% - 9.5%
+Expected by 2080 3.80%
+The total OPEB liability in the June 30, 2024, was determined using the following actuarial assumptions.
+Inflation
+Economic 2.35%
+Salary 3.25%
+(Salaries are also expected to grow by
+promotions and longevity)
+Health care trend rates
+Initial rate(s) 2% - 11%
+Expected by 2080 3.80%
+Mortality rates were based on the Society of Actuaries’ Publication H-2010 mortality rates, and vary by member
+status (active, retiree, or survivor). The Office of State Actuary applied age offsets for each system and
+recognized future improvements in mortality by applying the long-term MP-2017 generational improvement
+scale. Mortality rates are applied on a generational basis; meaning, each member is assumed to receive
+additional mortality improvements in each future year through his or her lifetime.
+49
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Most demographic actuarial assumptions, including mortality and when members are expected to terminate
+and retire, were based upon the results of the 2023 Demographic Experience Study Report. The post-retirement
+participation percentages and percentage with spouse coverage were reviewed in 2017. Economic assumptions,
+including inflation and salary increases, were based on the results of the 2023 Report on Financial Condition and
+Economic Experience Study.
+Because the OPEB benefits are funded on a pay-as-you-go basis, the discount rate used to measure the OPEB
+liability was set equal to the Bond Buyer General Obligation 20-Bond Municipal Bond Index, which was 3.93% for
+the June 30, 2024, measurement date.
+The following represents the Commission’s proportionate share of the OPEB liability as of June 30, 2025
+calculated using the discount rate of 3.93% as well as what the proportionate share of the OPEB liability would
+be if it were calculated using a discount rate that is one percentage point lower (2.93%) or one percentage point
+higher (4.93%) than the current rate:
+Discount Rate Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+(2.93%) (3.93%) (4.93%)
+$ 2,964,842 $ 2,520,067 $ 2,164,935
+The following represents the Commission’s proportionate share of the OPEB liability as of June 30, 2024
+calculated using thediscount rate of 3.65% as well as what the proportionate share of the OPEB liability would
+be if it werecalculated using a discount rate that is one percentage point lower (2.65%) or one percentage point
+higher (4.65%) than the current rate:
+Discount Rate Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+(2.65%) (3.65%) (4.65%)
+$ 2,881,773 $ 2,462,915 $ 2,125,983
+50
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+The table below represents the Commission’s proportionate share of the OPEB liability as of June 30, 2025
+calculated using the health care trend rates range of (4.5)%-9.5%percent reaching an ultimate range of 3.8%, as
+well as what our proportionate share of the total OPEB liability would be if it were calculated using health care
+trend rates that were one percentage point lower ((3.5)%-8.5%)or one percentage point higher ((5.5)%-10.5%)
+than the current rate:
+Health Care Cost Trend Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+$ 2,125,878 $ 2,520,067 $ 3,028,394
+The table below represents the Commission’s proportionate share of the OPEB liability as of June 30, 2024
+calculated using the health care trend rates range of 2-11% percent reaching an ultimate range of 4.3%, as well
+as what our proportionate share of the total OPEB liability would be if it were calculated using health care trend
+rates that were one percentage point lower (1-10%) or one percentage point higher (3-12%) than the current
+rate:
+Health Care Cost Trend Sensitivity
+Current
+1% Decrease Discount Rate 1% Increase
+$ 2,069,594 $ 2,462,915 $ 2,969,147
+Note 11 - Risk Management
+The Commission is subject to various risks of loss related to torts; theft of, damage to, and destruction of assets;
+errors and omissions; natural disasters and acts of terrorism for which we carry commercial insurance. As of
+June 30, 2025, there were no known asserted or unasserted claims or judgments against the Commission.
+The Commission may be subject to various threatened or pending legal actions, contingencies, and
+commitments in the normal course of conducting its business. We provide for costs or income related to a
+settlement of these matters when a loss or gain is probable, and the amount can be reasonably estimated. The
+effect of the outcome of these matters on our future results of operations and liquidity is not predictable
+because any such effect depends on future results of operations and the amount and timing of the resolution of
+any such matters. However, we believe that the ultimate resolution of any such matters will not have a material
+adverse or beneficial effect on our financial position.
+51
+Washington State Housing Finance Commission
+Notes to Financial Statements
+June 30, 2025 and 2024
+Note 12 - Related Party Transactions
+The Commission provides staff and administrative services to the following state agencies for the years ended
+June 30, 2025 and 2024:
+Charges for Services 2025 2024
+Washington Higher Education Facilities Authority $ 206,457 $ 347,902
+Tobacco Settlement Authority 5,674 3 6,287
+Receivable From
+Washington Higher Education Facilities Authority $ 64,188 $ 93,964
+Tobacco Settlement Authority 82 -
+Note 13 - Compensated Absences
+Permanent employees of the Commission earn annual leave, sick leave and may earn compensatory leave or
+exchange time. Annual leave is earned based on length of service, and an employee may accumulate a
+maximum of 280 hours. An employee receives compensation for their unused annual leave upon termination.
+Employees earn eight hours of sick leave per month. Employees receive 25% of the value of accrued sick leave
+upon retirement or death. Non-exempt work period employees earn compensatory time at the rate of time-and-
+one-half for more than 40 hours worked in a week, with a maximum accrual of 240 hours. Compensated
+absences activity for the years ended June 30, 2025 and 2024, was as follows:
+Beginning Balance Ending Balance
+July 1, 2024 Additions Payments June 30, 2025
+Compensated absences $ 1,457,368 $ 155,904 $ - $ 1,613,272
+Beginning Balance Ending Balance
+July 1, 2023 Additions Payments June 30, 2024
+Compensated absences $ 1,230,363 $ 227,005 $ - $ 1,457,368
+52
+Required Supplementary Information
+June 30, 2025 and 2024
+Washington State Housing Finance
+Commission
+eidebailly.com
+Washington State Housing Finance Commission
+Schedule of Proportionate Share of Net Pension Liability (Asset)
+Year Ended June 30, 2025
+Schedule of Proportionate Share of Net Pension Liability (Asset)
+PLAN 1 2025 2024 2023 2022 2021
+WSHFC's portion of net pension liability 0.0439% 0.0440% 0.0441% 0.0466% 0.0471%
+WSHFC's proportionate share of the net pension liability $ 779,273 $ 991,679 $ 1,199,406 $ 867,838 $ 1 ,646,824
+WSHFC's covered employee payroll N/A N/A N/A N/A N/A
+WSHFC's proportionate share of the net pension liability as a
+percentage of its covered payroll N/A N/A N/A N/A N/A
+Plan fiduciary net position as a percentage of the total pension liability 84.05% 80.16% 76.56% 88.74% 68.64%
+PLAN 2 and 3
+WSHFC's portion of net pension liability 0.0569% 0.0568% 0.0576% 0.0599% 0.0613%
+WSHFC's proportionate share of the net pension liability (asset) $ (1,340,892) $ (1,894,532) $ (1,767,016) $ ( 5,925,840) $ 8 20,030
+WSHFC's covered employee payroll $ 8,921,947 $ 7,887,915 $ 7,208,684 $ 6,526,599 $ 6 ,526,599
+WSHFC's proportionate share of the net pension liability (asset) as a
+percentage of its covered payroll -15.03% -24.02% -24.51% -82.20% 11.43%
+Plan fiduciary net position as a percentage of the total pension liability 105.17% 107.02% 106.73% 120.29% 97.22%
+PLAN 1 2020 2019 2018 2017
+WSHFC's portion of net pension liability 0.0465% 0.0462% 0.0455% 0.0439%
+WSHFC's proportionate share of the net pension liability $ 1 ,790,818 $ 2,052,105 $ 2 ,168,328 $ 2 ,361,147
+WSHFC's covered employee payroll N/A N/A N/A N/A
+WSHFC's proportionate share of the net pension liability as a
+percentage of its covered employee payroll N/A N/A N/A N/A
+Plan fiduciary net position as a percentage of the total pension liability 67.12% 63.22% 61.24% 57.03%
+PLAN 2 and 3
+WSHFC's portion of net pension liability 0.0600% 0.0594% 0.0586% 0.0564%
+WSHFC's proportionate share of the net pension liability (asset) $ 604,966 $ 1 ,023,732 $ 2 ,030,714 $ 2 ,845,451
+WSHFC's covered employee payroll $ 6,157,091 $ 6 ,157,091 $ 5 ,762,602 $ 5 ,293,776
+WSHFC's proportionate share of the net pension liability (asset) as a
+percentage of its covered employee payroll 9.27% 16.63% 35.24% 53.75%
+Plan fiduciary net position as a percentage of the total pension liability 97.77% 95.77% 90.97% 85.82%
+See Notes to Required Supplementary Information 53
+Washington State Housing Finance Commission
+Schedule of Contributions
+Year Ended June 30, 2025
+Schedule of Contributions
+PLAN 1 2025 2024 2023 2022 2021
+Statutorily-required contributions $ 2 62,729 $ 3 00,124 $ 2 70,495 $ 347,322 $ 3 41,322
+Contributions related to the statutorily-required contributions 262,729 300,124 270,495 347,322 341,322
+Contribution (deficiency) excess $ - $ - $ - $ - $ -
+WSHFC's covered-employee payroll N/A N/A N/A N/A N/A
+Contribution as a percentage of covered-employee payroll N/A N/A N/A N/A N/A
+PLAN 2 and 3
+Statutorily-required contributions $ 5 60,074 $ 4 99,405 $ 4 62,454 $ 567,569 $ 5 65,120
+Contributions in related to the statutorily-required contributions 560,074 499,405 462,454 567,569 565,120
+Contribution (deficiency) excess $ - $ - $ - $ - $ -
+WSHFC's covered-employee payroll 9 ,888,126 8 ,921,947 7,887,915 7,208,684 6,526,599
+Contribution as a percentage of covered-employee payroll 5.66% 5.60% 5.86% 7.87% 8.66%
+PLAN 1 2020 2019 2018 2017
+Statutorily-required contributions $ 3 33,507 $ 3 09,065 $ 2 73,962 $ 2 49,236
+Contributions related to the statutorily-required contributions 333,507 309,065 273,962 249,236
+Contribution (deficiency) excess $ - $ - $ - $ -
+WSHFC's covered-employee payroll N/A N/A N/A N/A
+Contribution as a percentage of covered-employee payroll N/A N/A N/A N/A
+PLAN 2 and 3
+Statutorily-required contributions $ 4 90,407 $ 4 58,084 $ 3 57,892 $ 3 25,504
+Contributions in related to the statutorily-required contributions 490,407 458,084 357,892 325,504
+Contribution (deficiency) excess $ - $ - $ - $ -
+WSHFC's covered-employee payroll 6 ,526,599 6 ,157,091 6,157,091 6,157,091
+Contribution as a percentage of covered-employee payroll 7.51% 7.44% 6.21% 6.15%
+Plan 1 – No Commission employees are eligible for PERS 1. Commission contributions are required
+in order to address the PERS 1 unfunded actuarial accrued liability. Therefore, covered
+payroll and contributions as a percentage of covered payroll is not applicable to Plan 1.
+See Notes to Required Supplementary Information 54
+Washington State Housing Finance Commission
+Schedule of Proportionate Share of OPEB Liability
+Year Ended June 30, 2025
+Schedule of Proportionate Share of OPEB Liability
+2025 2024 2023 2022 2021
+WSHFC's portion of OPEB Liability 0.05760% 0.05630% 0.05615% 0.05534% 0.05680%
+WSHFC's proportionate share of the OPEB liability $ 2,520,067 $ 2,462,911 $ 2,385,306 $ 3,581,199 $ 3,439,369
+WSHFC covered employee payroll $ 8,921,947 $ 7,887,915 $ 7,208,684 $ 7,208,684 $ 6,526,599
+WSHFC's proportionate share of the net OPEB liability as a
+percentage of its covered employee payroll 28.25% 31.22% 33.09% 49.68% 52.70%
+2025 2024 2023 2022 2021
+Statutorily-required contributions $ 185,013 $ 171,105 $ 163,053 $ 158,112 $ 161,040
+Contributions related to the statutorily-required contributions 185,013 171,105 163,053 158,112 161,040
+Contribution (deficiency) excess $ - $ - $ - $ - $ -
+WSHFC's covered-employee payroll $ 8,921,947 $ 7,887,915 $ 7,208,684 $ 7,208,684 $ 6,526,599
+Contribution as a percentage of covered-employee payroll 2.07% 2.17% 2.26% 2.19% 2.47%
+Total number of monthly insurance payments 1,011 935 891 864 880
+Monthly contribution $ 183 $ 183 $ 1 83 $ 183 $ 183
+Total $ 185,013 $ 171,105 $ 163,053 $ 158,112 $ 161,040
+2020 2019 2018
+WSHFC's portion of OPEB Liability 0.05985% 0.05805% 0.05840%
+WSHFC's proportionate share of the OPEB liability $ 3,473,340 $ 2,948,312 $ 3,399,762
+WSHFC covered employee payroll $ 6,526,599 $ 6,157,091 $ 5,762,602
+WSHFC's proportionate share of the net OPEB liability as a
+percentage of its covered employee payroll 53.22% 47.88% 59.00%
+2020 2019 2018
+Statutorily-required contributions $ 148,176 $ 132,450 $ 130,800
+Contributions related to the statutorily-required contributions 148,176 132,450 130,800
+Contribution (deficiency) excess $ - $ - $ -
+WSHFC's covered-employee payroll $ 6,526,599 $ 6,157,091 $ 5,762,602
+Contribution as a percentage of covered-employee payroll 2.27% 2.15% 2.27%
+Total number of monthly insurance payments 8 82 8 83 872
+Monthly contribution $ 168 $ 150 $ 1 50
+Total $ 148,176 $ 132,450 $ 130,800
+Note: This schedule is intended to show information for 10 years. Additional years will be displayed as they become available.
+As of June 30, 2025 and 2024, the Commission has established a liability for other postemployment benefits (OPEB) in accordance with GASB Statement No. 75. The OPEB plan
+is administered on a pay-as-you-go basis, and no assets are held in a legally binding irrevocable trust that meets the criteria outlined in GASB 75. Therefore, the plan does not
+qualify for recognition of OPEB assets, and all related liabilities are reported in the government-wide financial statements. Contributions made during the year were used solely
+to pay current benefits and administrative costs.
+See Notes to Required Supplementary Information 55
+Washington State Housing Finance Commission
+Notes to the Required Supplementary Information
+Year Ended June 30, 2025
+Note 1 - Change in Assumptions
+Pension liability (assets) change in assumptions:
+For pension plans 1, 2, and 3, actuarial assumptions used for the 2024 valuation were based on the results of the
+2013-2018 Demographic Experience Study Report and the 2023 Economic Experience Study. Mortality rates
+were developed using the Society of Actuaries’ Pub.H-2010 mortality rates, with the long-term MP-2017
+generation improvement scale to project mortality rates for every year after the 2010 base table. There were no
+changes in assumptions for fiscal year 2024. The Commission’s proportionate share of changes in assumptions
+as of the measurement date totaled $917,207.
+OPEB liability change in assumptions:
+The state’s OPEB liability was determined by an actuarial valuation as of June 30, 2024. Most demographic
+actuarial assumptions, including mortality and when members are expected to terminate and retire, were based
+on the results of the 2023 PEBB OPEB Demographic Experience Study. Economic assumptions, including inflation
+and salary increases were based on the results of the 2023 Economic Experience Study. Economic assumptions
+for inflation increased from 2.35% in 2024 to 2.40% in 2025 and initial health care trend rates changed from 2-
+11% in 2024 to 4.5-9.5% in 2025. All other assumptions remain unchanged. The Commission’s proportionate
+share of changes in assumptions as of the measurement date totaled ($214,059).
+56
+Supplementary Information
+June 30, 2025 and 2024
+Washington State Housing Finance
+Commission
+eidebailly.com
+Washington State Housing Finance Commission
+Schedule of Program Net Position
+June 30, 2025 with comparative totals for 2024
+Restricted Bond Fund
+Homeownership Multifamily Program- General
+ASSETS AND DEFERRED Single-family Bond Program Housing Related Operating
+OUTFLOWS OF RESOURCES Bond Program (NIBP) Bond Program Investments Fund 2025 2024
+Cash and cash equivalents $ 201,925,493 $ 3,279,525 $ 140,566,890 $ 2 13,060,892 $ 48,437,704 $ 607,270,504 $ 611,398,232
+Investments
+U.S. government and agencies securities - - - 39,446,169 26,826,990 66,273,159 62,708,516
+Investment agreements and
+other investments 1 28,349,259 5,000,000 - - - 133,349,259 105,576,698
+1 28,349,259 5,000,000 - 39,446,169 26,826,990 199,622,418 168,285,214
+Accrued interest receivable 4,806,566 1,076,331 - 7,151,476 1,002,146 14,036,519 11,577,287
+Fees receivable, net - - 15,302,159 15,302,159 13,337,584
+Other receivables - - - 167,173 - 167,173 4 ,160,835
+Interfund Loans (40,000,000) - - 40,000,000 - - -
+Mortgage-backed securities, cost 9 74,479,519 1 1,848,887 - - - 986,328,406 836,665,938
+Cumulative unrealized gain (loss) on
+mortgage-backed securities (37,763,049) (311,632) - - - (38,074,681) (55,690,470)
+Mortgage-backed securities,
+fair value 9 36,716,470 1 1,537,255 - - - 948,253,725 780,975,468
+Mortgage loans, net - - - 732,144,564 - 732,144,564 566,902,533
+Prepaid fees and other - - - - 8,921,720 8 ,921,720 5 ,716,192
+Total assets 1,231,797,788 20,893,111 140,566,890 1 ,031,970,274 100,490,719 2,525,718,782 2,162,353,345
+Deferred Outflows of Resources (1,138,824) - - - 3,304,498 2 ,165,674 933,236
+Total assets and deferred
+outflows of resources $ 1,230,658,964 $ 20,893,111 $ 140,566,890 $ 1,031,970,274 $ 1 03,795,217 $ 2 ,527,884,456 $ 2 ,163,286,581
+57
+Washington State Housing Finance Commission
+Schedule of Program Net Position
+June 30, 2025 with comparative totals for 2024
+Restricted Bond Fund
+Homeownership Multifamily General
+LIABILITIES, DEFERRED INFLOWS Single-family Bond Program Housing Program-Related Operating
+OF RESOURCES, AND NET POSITION Bond Program (NIBP) Bond Program Investments Fund 2025 2024
+Accounts payable and other
+liabilities $ 71,715,306 $ - $ - $ 56,320,895 $ 12,111,229 $ 140,147,430 $ 8 2,890,588
+Accrued interest payable 3,585,142 15,378 1,470,546 3,928,529 - 8,999,595 7,611,444
+Unearned revenue and other - - - 33,937,592 60,139,787 94,077,379 1 36,643,274
+Derivative instrument - interest
+Rate swap (1,138,824) - - - - (1,138,824) (1,480,955)
+Notes payable 25,502,235 - 1 39,096,344 49,430,000 - 2 14,028,579 1 47,309,982
+Bonds payable
+Current interest bonds
+Due within one year 27,125,000 - - - - 27,125,000 25,635,000
+Due in more than one year 732,865,000 - - - - 7 32,865,000 6 38,786,771
+Taxable bonds
+Due within one year 1,185,000 - - - - 1,185,000 -
+Due in more than one year 220,046,685 6,289,232 - - - 2 26,335,917 1 71,348,222
+Unamortized bond discount (65,242) - - - - (65,242) (70,961)
+Unamortized bond premium 12,578,519 - - - - 12,578,519 12,918,922
+993,734,962 6,289,232 - - - 1,000,024,194 8 48,617,954
+Total liabilities 1,093,398,821 6,304,610 1 40,566,890 143,617,016 72,251,016 1,456,138,353 1,221,592,287
+Deferred Inflows of Resources 5,408,399 - - - 2,224,104 7,632,503 6,114,005
+Net Position
+Restricted
+Bond operations 131,851,744 14,588,501 - - - 1 46,440,245 1 12,262,923
+Net Pension Asset - - - - 1,340,892 1,340,892 1,894,532
+Grants and donations to program-
+related investments - - - 8 09,424 - 809,424 809,424
+Net investment in capital assets - - - - 4,333,009 4,333,009 1,169,803
+Unrestricted
+General operations - - - - 23,448,043 23,448,043 24,932,069
+Housing Washington - - - - 1 98,153 198,153 122,628
+Program-related investments - - - 887,543,834 - 8 87,543,834 7 94,388,910
+131,851,744 14,588,501 - 888,353,258 29,320,097 1,064,113,600 9 35,580,289
+Total Liabilities, Deferred Inflow of
+and Net Position $ 1 ,230,658,964 $ 20,893,111 $ 140,566,890 $ 1,031,970,274 $ 103,795,217 $ 2,527,884,456 $ 2,163,286,581
+58
+Washington State Housing Finance Commission
+Schedule of Program Revenues, Expenses, and Changes in Program Net Position
+Year Ended June 30, 2025 with comparative totals for 2024
+Restricted Bond Fund
+Homeownership Multifamily General
+Single-family Bond Program Housing Program-Related Operating
+Bond Program (NIBP) Bond Program Investments Fund 2025 2024
+Operating Revenues
+Interest earned on mortgage loans and
+mortgage-backed securities $ 40,766,161 $ 549,309 $ - $ - $ - $ 41,315,470 $ 29,568,537
+Other interest and investment income (loss) 14,137,214 463,676 5,200,803 - 17,609,279 37,410,972 39,864,231
+Gain (loss) on mortgage-backed securities 17,432,057 183,732 - - - 17,615,789 (4,044,004)
+Other fee income (65,481) 34,263 - 1 9,643,712 46,371,968 65,984,462 54,166,416
+Total operating revenues 72,269,951 1,230,980 5,200,803 19,643,712 63,981,247 162,326,693 119,555,180
+Operating Expenses
+Interest on debt 36,310,334 208,923 5,194,618 609,760 - 42,323,635 36,437,177
+Amortization of bond discount 5,719 - - - - 5,719 2,072
+Amortization of bond premium (989,332) - - - - (989,332) (985,139)
+Bond issuance costs 2,409,983 - - - - 2,409,983 2,964,531
+Servicing and commission fees 1,041,944 34,262 - - - 1,076,206 1,083,781
+Salaries and wages - - - - 12,839,552 12,839,552 11,544,782
+Communication and office expense - - - - 3 ,110,713 3,110,713 2,812,086
+Professional fees - - 6,185 - 2 ,832,683 2,838,868 2,817,573
+Trustee and paying agent fees 138,559 6,000 - - - 144,559 1 25,211
+Other 157,217 - - 3 0,956,912 - 31,114,129 3,053,810
+Total operating expenses 39,074,424 249,185 5,200,803 31,566,672 18,782,948 94,874,032 59,855,884
+Non-Operating Revenues and (Expense)
+State provided grant revenue - - - 6 1,080,650 - 61,080,650 -
+Grant revenue - - - - 60,398,071 60,398,071 72,284,238
+Grant expense - - - - (60,398,071) ( 60,398,071) (72,284,238)
+Total non-operating revenues and (expenses) - - - 6 1,080,650 - 61,080,650 -
+Excess (Deficit) of Revenues Over Expenses 33,195,527 981,795 - 4 9,157,690 45,198,299 128,533,311 59,699,296
+Change in Net Position 33,195,527 981,795 - 4 9,157,690 45,198,299 128,533,311 59,699,296
+Net Position, Beginning of Year 98,656,217 13,606,706 - 795,198,334 28,119,032 935,580,289 875,880,993
+Contribution (distribution) of equity - - 4 3,997,234 (43,997,234) - -
+Net Position, End of Year $ 131,851,744 $ 14,588,501 $ - $ 888,353,258 $ 29,320,097 $ 1,064,113,600 $ 935,580,289
+59
+Washington State Housing Finance Commission
+Schedule of Program Cash Flows
+Year Ended June 30, 2025
+Restricted Bond Fund
+Single-family Multifamily
+Housing Homeownership Housing General
+Bond Bond Program Bond Program-Related Operating Year Ended
+Program (NIBP) Program Investments Fund June 30, 2025
+Operating Activities
+Receipts for interest on mortgages $ 3 9,934,684 $ 5 55,431 $ - $ - $ - $ 40,490,115
+Receipts of program fees and grants 5 6,267 34,261 - 79,056,788 - 79,147,316
+Receipts of state grants - - - - 61,448,480 61,448,480
+Receipts for loans and mortgage prepayments 62,835,273 1 ,720,115 - 39,463,430 - 104,018,818
+Payments for acquisition of loans and mortgages (214,165,496) - - ( 233,482,622) - (447,648,118)
+Payments for bond program expenses 32,769,587 (40,262) - - - 32,729,325
+Payments to employees and suppliers - - (6,185) 27,761,628 (78,056,585) (50,301,142)
+Net Cash from (used for) Operating Activities (78,569,685) 2 ,269,545 (6,185) (87,200,776) (16,608,105) (180,115,206)
+Investing Activities
+Purchase of investments (2,026,180,012) - - (16,793,767) - (2,042,973,779)
+Sale of investments 1,998,407,451 - - - 13,229,125 2,011,636,576
+Interest received on investments 14,170,841 126,620 5,200,803 - 17,592,735 37,090,999
+Net Cash from (used for) Investing Activities (13,601,720) 126,620 5,200,803 (16,793,767) 30,821,860 5,753,796
+Noncapital Financing Activities
+Proceeds from sale of bonds and notes 2 30,145,391 - - - - 230,145,391
+Proceeds from collateralized loans 2 02,574,585 - 84,781,600 - - 287,356,185
+Repayments of collateralized loans (192,868,237) - (37,861,851) - - (230,730,088)
+Short term loan provided to other fund - - - - - -
+Interest paid on debt (35,943,093) ( 212,777) (5,167,859) - - (41,323,729)
+Debt repayments (73,655,087) (1,558,990) - - - (75,214,077)
+Transfer of bond proceeds - - - - - -
+Contributions - - - 43,997,234 (43,997,234) -
+Net Cash from (used for) Noncapital 1 30,253,559 (1,771,767) 41,751,890 43,997,234 (43,997,234) 170,233,682
+Financing Activities
+Net Increase (Decrease) In Cash
+and Cash Equivalents 38,082,154 624,398 46,946,508 (59,997,309) (29,783,479) (4,127,728)
+Cash and Cash Equivalents, Beginning of Year 1 63,843,339 2 ,655,127 93,620,382 273,058,201 78,221,183 611,398,232
+Cash and Cash Equivalents, End of Year $ 201,925,493 $ 3,279,525 $ 1 40,566,890 $ 2 13,060,892 $ 48,437,704 $ 607,270,504
+60
+Washington State Housing Finance Commission
+Schedule of Program Cash Flows
+Year Ended June 30, 2025
+Restricted Bond Fund
+Single-family Homeownership Multifamily General
+Housing Bond Program Housing Program-Related Operating Year Ended
+Bond Program (NIBP) Bond Program Investments Fund June 30, 2025
+Reconciliation of Excess (Deficit) of
+Revenues Over Expenses to Net Cash
+from Operating Activities
+Excess (deficit) of revenues over expenses $ 33,195,527 $ 981,795 $ - $ 49,157,690 $ 45,198,299 $ 128,533,311
+Adjustments to reconcile excess (deficiency) of
+revenues over expenses to net cash
+from operating activities
+Amortization of mortgage discount (52,376) - - - - (52,376)
+Amortization of mortgage premium 17 - - - - 1 7
+Amortization of bond premium (989,332) - - - - (989,332)
+Amortization of bond discount 5,719 - - - - 5,719
+Acquisition of mortgage loans (214,165,496) - - ( 233,482,622) - (447,648,118)
+Repayments of mortgage loans 62,835,273 1,720,115 - 39,463,430 - 104,018,818
+Unrealized (gain) loss on securities (17,432,057) (183,732) - - - (17,615,789)
+Cash from changes in operating assets and liabilities
+Interest and other receivables (14,794,583) (457,556) (5,200,803) 31,282,808 (4,995,406) 5,834,460
+Interest and other payables 7 2,827,623 208,923 5,194,618 26,377,918 (56,810,998) 47,798,084
+Net Cash from (used for) Operating Activities $ (78,569,685) $ 2,269,545 $ (6,185) $ ( 87,200,776) $ (16,608,105) $ ( 180,115,206)
+61
+Washington State Housing Finance Commission
+Schedule of Notes and Bonds Payable
+Year Ended June 30, 2025 with Comparative Totals for 2024
+Final
+Issue Original Maturity Balance Outstanding
+Series Date Amount Date 6/30/2025 6/30/2024
+Single-family (Open Indenture)
+Single-family Series 2013 1A-R/1N-R 3/27/2013 62,515,000 6/1/2043 $ 16,315,000 $ 17,665,000
+Single family Series 2014 2A-R 2N 2N- 12/18/2014 50,515,000 6/1/2044 - 2 ,395,000
+Single-family Series 2015 1A-R/1N 12/10/2015 63,845,000 6/1/2038 6,555,000 10,065,000
+Single family Series 2016 1A-R 1N VR-1 5/26/2016 65,500,000 12/1/2046 22,820,000 26,305,000
+Single family Series 2016 2A-R 2N 11/30/2016 67,045,000 12/1/2046 18,890,000 22,850,000
+Single family Series 2017 1A-R 1N 4/27/2017 67,370,000 12/1/2047 1,790,000 7 ,830,000
+Single family Series 2017 2A-R/2N 9/28/2017 35,230,000 6/1/2047 7,685,000 10,560,000
+Single family Series 2017 3N/3N-R/3A-R12/28/2017 70,475,000 12/1/2047 6,985,000 8 ,590,000
+Single family Series 2018 1N/1N-MM 10/18/2018 98,190,000 12/1/2048 37,495,000 43,970,000
+Single Family Series 2019 1N 3/20/2019 78,210,000 6/1/2049 9,545,000 16,080,000
+Single Family Series 2019 2A/2N 11/26/2019 38,535,000 12/1/2049 26,745,000 29,425,000
+Single Family Series 2020 1A/1N 5/28/2020 41,765,000 6/1/2050 29,555,000 33,530,000
+Single Family Series 2020 2N 11/30/2020 38,835,000 12/1/2050 29,245,000 33,460,000
+Single Family Series 2021 1N 5/27/2021 71,630,000 12/1/2049 55,090,000 62,110,000
+Single Family Series 2021 2A/2N 11/30/2021 79,525,000 6/1/2051 66,710,000 73,235,000
+Single Family Series 2022 1A/1N 9/20/2022 82,385,000 12/1/2052 75,020,000 79,040,000
+Single Family Series 2023 1A/1N/1T 5/18/2023 64,700,000 12/1/2050 61,685,000 63,855,000
+Single Family Series 2023 2A/2N/2T 9/28/2023 185,675,000 12/1/2053 182,700,000 185,610,000
+Single Family Series 2024 1A/1N/1T 5/30/2024 99,285,000 12/1/2054 98,380,000 99,285,000
+Single Family Series 2024 2A/2N/2T 11/19/2024 117,795,000 6/1/2054 117,210,000 -
+Single Family Series 2025 1A/1N/1T 5/28/2025 109,160,000 12/1/2055 109,160,000 -
+Special Single family 10/18/2012 2 6,171,376 10/1/2042 1,641,685 2 ,061,771
+981,221,685 827,921,771
+Unamortized Bond Premium 12,578,519 12,918,922
+Unamortized Bond Discount (65,242) (70,961)
+$ 993,734,962 $ 840,769,732
+Homeownership Program Bonds
+Homeownership Program Bonds 2013 1/30/2013 2 3,675,203 3/1/2040 $ 1,554,232 $ 1,863,222
+Homeownership Program Bonds2015 5/28/2015 6 9,370,000 5/1/1941 4,735,000 5 ,985,000
+6,289,232 7 ,848,222
+Unamortized Bond Premium - -
+$ 6,289,232 $ 7,848,222
+62

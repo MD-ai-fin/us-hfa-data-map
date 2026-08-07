@@ -1,0 +1,1932 @@
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+        COMBINED FINANCIAL STATEMENTS
+
+                YEAR ENDED JUNE 30, 2024
+              COMMUNITY DEVELOPMENT ADMINISTRATION
+                           REVENUE OBLIGATION FUNDS
+                              YEAR ENDED JUNE 30, 2024
+
+              TABLE OF CONTENTS
+
+INDEPENDENT AUDITORS' REPORT                               1
+
+COMBINED FINANCIAL STATEMENTS
+
+COMBINED STATEMENT OF NET POSITION                         4
+
+COMBINED STATEMENT OF REVENUE, EXPENSES, AND CHANGES IN
+
+NET POSITION                                               6
+
+COMBINED STATEMENT OF CASH FLOWS                           7
+
+NOTES TO COMBINED FINANCIAL STATEMENTS                     9
+
+SUPPLEMENTAL DISCLOSURE OF COMBINED CHANGES IN FAIR VALUE
+
+OF INVESTMENTS AND MORTGAGE-BACKED SECURITIES              30
+                                                                                                          CliftonLarsonAllen LLP
+                                                                                                          CLAconnect.com
+
+                                          INDEPENDENT AUDITORS' REPORT
+
+Office of the Secretary
+Department of Housing and Community Development
+Lanham, Maryland
+
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the financial statements of the Community Development Administration Revenue Obligation
+Funds (the Fund) of the Department of Housing and Community Development of the State of Maryland, as of and
+for the year ended June 30, 2024 and the related notes to the financial statements, which collectively comprise the
+Fund's basic financial statements as listed in the Table of Contents.
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the financial
+position of the Fund, as of June 30, 2024 and the changes in financial position, and its cash flows for the year then
+ended in accordance with accounting principles generally accepted in the United States of America.
+
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United States of America
+(GAAS) and the standards applicable to financial audits contained in Government Auditing Standards, issued by
+the Comptroller General of the United States. Our responsibilities under those standards are further described in
+the Auditors' Responsibilities for the Audit of the Financial Statements section of our report. We are required to
+be independent of the Department of Housing and Community Development and to meet our other ethical
+responsibilities, in accordance with the relevant ethical requirements relating to our audit. We believe that the
+audit evidence we have obtained is sufficient and appropriate to provide a basis for our audit opinions.
+
+Emphasis of a Matter
+Financial Statement Presentation
+As discussed in Note 1, the financial statements present only the financial position, the changes in financial
+position and cash flows of the Fund and do not purport to, and do not, present fairly the financial position of the
+Department of Housing and Community Development of the State of Maryland as of and for the year ended
+June 30, 2024 and the changes in its net position and its cash flows, in conformity with accounting principles
+generally accepted in the United States of America. Our opinion on the basic financial statements is not modified
+with respect to this matter.
+
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in accordance with
+accounting principles generally accepted in the United States of America, and for the design, implementation, and
+maintenance of internal control relevant to the preparation and fair presentation of financial statements that are
+free from material misstatement, whether due to fraud or error.
+
+CLA (CliftonLarsonAllen LLP) is an independent network member of CLA Global. See CLAglobal.com/disclaimer.
+
+                                                                                   (1)
+Office of the Secretary
+Department of Housing and Community Development
+
+Auditors' Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditors' report that includes our opinions.
+Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not a guarantee
+that an audit conducted in accordance with GAAS and Government Auditing Standards will always detect a
+material misstatement when it exists. The risk of not detecting a material misstatement resulting from fraud is
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control. Misstatements are considered material if there is a
+substantial likelihood that, individually or in the aggregate, they would influence the judgment made by a
+reasonable user based on the financial statements.
+
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+
+    � Exercise professional judgment and maintain professional skepticism throughout the audit.
+
+    � Identify and assess the risks of material misstatement of the financial statements, whether due to fraud or
+         error, and design and perform audit procedures responsive to those risks. Such procedures include
+         examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements.
+
+    � Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+         are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness
+         of the Fund's internal control. Accordingly, no such opinion is expressed.
+
+    � Evaluate the appropriateness of accounting policies used and the reasonableness of significant accounting
+         estimates made by management, as well as evaluate the overall presentation of the financial statements.
+
+We are required to communicate with those charged with governance regarding, among other matters, the planned
+scope and timing of the audit, significant audit findings, and certain internal control related matters that we
+identified during the audit.
+
+Other Matter
+Prior-Year Comparative Information
+We have previously audited the Fund's 2023 financial statements, and we expressed unmodified opinions on the
+respective financial statements in our report dated September 30, 2023. In our opinion, the summarized
+comparative information presented herein as of and for the year ended June 30, 2023, is consistent, in all material
+respects, with the audited financial statements from which it has been derived.
+
+Required Supplementary Information
+Management has elected to omit the management's discussion and analysis that accounting principles generally
+accepted in the United States of America require to be presented to supplement the basic financial statements.
+Such information is the responsibility of management and, although not a part of the basic financial statements, is
+required by the Governmental Accounting Standards Board who considers it to be an essential part of financial
+reporting for placing the basic financial statements in an appropriate operational, economic, or historical context.
+Our opinion on the basic financial statements is not affected by this missing information.
+
+                                                                                   (2)
+Office of the Secretary
+Department of Housing and Community Development
+
+Other Information
+Management is responsible for the other information included in the annual report. The other information
+comprises the Supplemental Disclosure of Combined Changes in Fair Value of Investments and Mortgage-
+Backed Securities but does not include the basic financial statements and our auditors' report thereon. Our
+opinions on the basic financial statements do not cover the other information, and we do not express an opinion or
+any form of assurance thereon.
+In connection with our audit of the basic financial statements, our responsibility is to read the other information
+and consider whether a material inconsistency exists between the other information and the basic financial
+statements, or the other information otherwise appears to be materially misstated. If, based on the work
+performed, we conclude that an uncorrected material misstatement of the other information exists, we are required
+to describe it in our report.
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated September 26, 2024,
+on our consideration of the Fund's internal control over financial reporting and on our tests of its compliance
+with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The purpose
+of that report is solely to describe the scope of our testing of internal control over financial reporting and
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of the Fund's
+internal control over financial reporting or on compliance. That report is an integral part of an audit
+performed in accordance with Government Auditing Standards in considering the Fund's internal control
+over financial reporting and compliance.
+
+CliftonLarsonAllen LLP
+
+Baltimore, Maryland
+September 26, 2024
+
+                                                                                   (3)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+    COMBINED STATEMENT OF NET POSITION
+                           (in thousands)
+                          JUNE 30, 2024
+
+(with comparative combined totals as of June 30, 2023)
+
+                                                          Housing                          Residential   General Bond        Combined
+                                                          Revenue                           Revenue         Reserve
+                                                           Bonds                             Bonds            Fund     2024            2023
+
+RESTRICTED ASSETS                                         $ 144,680 $ 614,638 $                          27,088 $      786,406 $       507,449
+   RESTRICTED CURRENT ASSETS                                                                             17,019        233,173         337,342
+      Cash and Cash Equivalents on Deposit                                              -  216,154                     132,053
+      Investments                                                                                               -                       98,138
+      Mortgage-Backed Securities                          428                              131,625
+      Mortgage Loans:
+         Single Family                                                                  -  17,087        -             17,087          19,583
+         Multi-Family Construction and Permanent
+            Financing                                     4,784                               556          120          5,460           5,531
+         Business Loans                                        -                                  -        196            196             186
+      Accrued Interest and Other Receivables                                                             2,008
+      Claims Receivable on Foreclosed and Other           2,243                            34,184                      38,435          32,770
+         Loans, Net of Allowance
+      Real Estate Owned                                           -                             2,700           -           2,700           4,460
+            Total Restricted Current Assets                       -                             1,330           -           1,330           1,920
+                                                          152,135                          1,018,274     46,431        1,216,840       1,007,379
+   RESTRICTED LONG-TERM ASSETS
+      Investments, Net of Current Portion                  5,723                                7,808    -             13,531          56,707
+      Mortgage-Backed Securities, Net of Current Portion  21,906                           2,217,744
+      Mortgage Loans, Net of Current Portion and                                                         -             2,239,650       1,589,666
+       Allowance:
+         Single Family                                                                  -  374,630       -             374,630         395,762
+         Multi-Family Construction and Permanent
+            Financing                                     445,891                               2,762     4,585          453,238         418,570
+         Business Loans                                           -                                   -   8,312             8,312           8,508
+            Total Restricted Long-Term Assets                                                            12,897
+                                                          473,520                          2,602,944                   3,089,361       2,469,213
+            Total Restricted Assets
+                                                          $ 625,655 $ 3,621,218 $                        59,328 $ 4,306,201 $ 3,476,592
+
+See accompanying Notes to Combined Financial Statements.
+                                                                                   (4)
+      COMMUNITY DEVELOPMENT ADMINISTRATION
+                   REVENUE OBLIGATION FUNDS
+
+COMBINED STATEMENT OF NET POSITION (CONTINUED)
+                                 (in thousands)
+                                 JUNE 30, 2024
+
+       (with comparative combined totals as of June 30, 2023)
+
+                                                                 Housing                   Residential     General Bond        Combined
+                                                                 Revenue                    Revenue           Reserve
+                                                                  Bonds                      Bonds              Fund     2024            2023
+
+LIABILITIES                                                   $  8,908 $ 41,384 $                          - $ 50,292 $ 34,221
+   CURRENT LIABILITIES
+      Accrued Interest Payable                                   122                       2,608           9,105         11,835          10,496
+      Accounts Payable
+      Rebate Liability                                                                  -               -  -                   -               365
+      Accrued Workers' Compensation
+      Accrued Compensated Absences                                                      -               -  15                  15              16
+      Due to State Treasurer
+      Bonds Payable                                                                     -               -  667                 667             641
+      Deposits by Borrowers
+            Total Current Liabilities                                                   -               -  2,427         2,427           1,476
+
+   LONG-TERM LIABILITIES                                         22,739                    295,768         -             318,507         349,921
+      Rebate Liability, Net of Current Portion
+      Accrued Workers' Compensation, Net of                      8,211                     840             38            9,089           8,288
+         Current Portion
+      Accrued Compensated Absences, Net of                       39,980                    340,600         12,252        392,832         405,424
+         Current Portion
+      Bonds Payable, Net of Current Portion                           310                       1,298             -           1,608                5
+      Deposits by Borrowers, Net of Current Portion
+            Total Long-Term Liabilities                                  -                            -         84                84              88
+
+            Total Liabilities                                            -                            -       790               790             722
+                                                                 483,374                   2,970,009              -      3,453,383       2,642,050
+DEFERRED INFLOWS OF RESOURCES
+   Deferred Inflow on Refunding of Bond Debt                      32,687                          715           87          33,489          28,152
+                                                                 516,371                   2,972,022          961        3,489,354       2,671,017
+NET POSITION
+   Restricted by Bond Indenture                                  556,351                   3,312,622       13,213        3,882,186       3,076,441
+
+            Total Liabilities, Deferred Inflows of Resources                            -  442             -                   442             477
+             and Net Position
+                                                                 69,304                    308,154         46,115        423,573         399,674
+
+                                                              $ 625,655 $ 3,621,218 $ 59,328 $ 4,306,201 $ 3,476,592
+
+See accompanying Notes to Combined Financial Statements.
+                                                                                   (5)
+                          COMMUNITY DEVELOPMENT ADMINISTRATION
+                                       REVENUE OBLIGATION FUNDS
+
+COMBINED STATEMENT OF REVENUE, EXPENSES, AND CHANGES IN NET POSITION
+                                                     (in thousands)
+
+                                          YEAR ENDED JUNE 30, 2024
+                  (with comparative combined totals for the year ended June 30, 2023)
+
+                                                         Housing                              Residential     General Bond        Combined
+                                                         Revenue                               Revenue           Reserve
+                                                          Bonds                                 Bonds              Fund     2024            2023
+
+OPERATING REVENUE                                        $ 18,526 $ 21,129 $                                  806 $ 40,461 $ 40,167
+   Interest on Mortgage Loans
+   Interest on Mortgage-Backed Securities                1,232                                99,908          -             101,140         55,985
+   Realized Gains on Sale of Mortgage-Backed Securities
+   Interest Income on Investments, Net of Rebate                                        -     8,562           -             8,562           7,122
+   (Decrease) Increase in Fair Value of Investments
+   Fee Income                                            5,359                                34,359          2,517         42,235          28,748
+   Gain on Early Retirement of Debt
+   Decrease in Provision for Loan Losses                                                (57)  2,234           (280)         1,897           (1,090)
+   Other Operating Revenue
+         Total Operating Revenue                         1,087                                             -  11,547        12,634          10,663
+
+OPERATING EXPENSES                                                                      -     6,067           -             6,067           2,672
+   Interest Expense on Bonds
+   Professional Fees and Other Operating Expenses                                       23    828             -                   851       1,599
+   Salaries, General and Administrative Costs
+   Other Loan Losses and Write-Offs                                                     2     5               110                 117             163
+   Losses and Expenses on Real Estate Owned, Net
+   Recoveries on Foreclosure Claims, Net                 26,172                               173,092         14,700        213,964         146,029
+   Bond Issuance Costs
+         Total Operating Expenses                        18,195                               110,360                 -     128,555          84,011
+                                                            646                                15,232             473        16,351          11,598
+OPERATING INCOME (LOSS)                                         -                                     -        24,617        24,617          21,908
+                                                                -                                     -                             -
+NONOPERATING EXPENSES                                           -                                  345                -          345              10
+   Decrease in Fair Value of Mortgage-Backed Securities         -                                 (305)               -         (305)            208
+                                                                -                                7,619                -        7,619            (147)
+Transfers of Funds, as Permitted by the Resolutions                                                                   -                        3,062
+                                                         18,841                               133,251          25,090       177,182         120,650
+CHANGES IN NET POSITION
+                                                          7,331                                39,841         (10,390)       36,782          25,379
+NET POSITION - RESTRICTED AT BEGINNING
+ OF YEAR                                                    (75)                              (13,072)              -       (13,147)        (51,324)
+                                                         (1,000)                               (8,000)         9,264            264             290
+NET POSITION - RESTRICTED AT END OF YEAR                  6,256                               18,769          (1,126)
+                                                                                                                            23,899          (25,655)
+
+                                                         63,048                               289,385         47,241        399,674         425,329
+
+                                                         $ 69,304 $ 308,154 $ 46,115 $ 423,573 $ 399,674
+
+See accompanying Notes to Combined Financial Statements.
+                                                                                   (6)
+       COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+             COMBINED STATEMENT OF CASH FLOWS
+                                   (in thousands)
+
+                        YEAR ENDED JUNE 30, 2024
+(with comparative combined totals for the year ended June 30, 2023)
+
+                                                           Housing                           Residential  General Bond        Combined
+                                                           Revenue                            Revenue        Reserve
+                                                            Bonds                              Bonds           Fund     2024            2023
+
+CASH FLOWS FROM OPERATING ACTIVITIES                       $ 44,960 $ 60,027 $                            1,150 $ 106,137 $ 101,554
+   Principal and Interest Received on Mortgage Loans
+   Principal and Interest Received on Mortgage-              8,175                           226,207      -             234,382         142,469
+    Backed Securities                                      16,969                                 814
+   Escrow Funds Received                                   (10,485)                                       79            17,862          13,930
+   Escrow Funds Paid                                                                           (1,187)
+   Mortgage Insurance Claims and                                                                          (52)          (11,724)        (9,909)
+      Other Loan Proceeds Received
+   Foreclosure Expenses Paid                                       -                             7,607           -          7,607           4,873
+   Loan Fees Received                                              -                            (1,261)          -         (1,261)         (1,443)
+   Purchase of Mortgage Loans                                1,087                                        10,668          11,755          10,617
+   Purchase of Mortgage-Backed Securities                  (62,287)                                   -          -       (78,653)        (75,766)
+   Funds Received from Sale of Mortgage-Backed                     -                          (16,366)           -      (999,845)       (608,257)
+      Securities                                                                             (999,845)
+   Professional Fees and Other Operating Expenses
+   Other Income Received                                         -                           174,120              -     174,120         121,484
+   Salaries, General and Administrative Expenses             (595)                            (15,257)       (402)       (16,254)        (11,853)
+   Other (Disbursements) Reimbursements                                                                       110
+         Net Cash Used by Operating Activities                   2                                    5   (23,577)            117             163
+                                                                 -                                    -     1,242        (23,577)        (22,049)
+CASH FLOWS FROM INVESTING ACTIVITIES                            (1)                             (2,003)   (10,782)
+   Proceeds from Maturities or Sales of Investments,       (2,175)                           (567,139)                       (762)            962
+      Net of Cash Equivalents                                                                                           (580,096)       (333,225)
+   Purchases of Investments, Net of Cash Equivalents
+   Interest Received on Investments                         3,535                            494,100        1,032       498,667         334,630
+         Net Cash Provided (Used) by Investing Activities  (3,499)                           (331,489)    (12,102)      (347,090)       (449,260)
+                                                            5,118
+CASH FLOWS FROM NONCAPITAL FINANCING                       5,154                               34,053       1,780         40,951          19,197
+ ACTIVITIES                                                                                  196,664       (9,290)      192,528          (95,433)
+   Proceeds from Sale of Bonds
+   Payments on Bond Principal                              85,170                            1,157,079         -        1,242,249       676,856
+   Bond Issuance Costs                                     (42,183)                           (411,358)        -         (453,541)      (211,243)
+   Interest on Bonds                                                                                           -
+   Transfers Among Funds                                           -                             (7,758)       -            (7,758)        (3,052)
+         Net Cash Provided by Noncapital                   (16,646)                            (98,595)   9,264          (115,241)       (75,398)
+          Financing Activities
+                                                            (1,000)                              (8,000)  9,264                264            290
+NET INCREASE (DECREASE) IN CASH AND
+ CASH EQUIVALENTS ON DEPOSIT                               25,341                              631,368                    665,973       387,453
+
+Adjustments to Report Cash Equivalents at Fair Value:      28,320                            260,893      (10,808)      278,405         (41,205)
+   Amortized (Unamortized) Discount on Cash Equivalents
+   (Decrease) Increase in Fair Value on Cash Equivalents                                26   63           467                 556       (214)
+
+         ADJUSTED NET INCREASE (DECREASE) IN                                            (1)  (1)          (2)                 (4)             4
+         CASH AND CASH EQUIVALENTS ON DEPOSIT
+                                                           28,345                            260,955      (10,343)      278,957         (41,415)
+CASH AND CASH EQUIVALENTS ON DEPOSIT -
+ BEGINNING OF YEAR                                         116,335                           353,683      37,431        507,449         548,864
+
+CASH AND CASH EQUIVALENTS ON DEPOSIT -                     $ 144,680 $ 614,638 $ 27,088 $ 786,406 $ 507,449
+ END OF YEAR
+
+See accompanying Notes to Combined Financial Statements.
+                                                                                   (7)
+       COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+  COMBINED STATEMENT OF CASH FLOWS (CONTINUED)
+                                   (in thousands)
+
+                        YEAR ENDED JUNE 30, 2024
+(with comparative combined totals for the year ended June 30, 2023)
+
+                                                           Housing                         Residential     General Bond        Combined
+                                                           Revenue                          Revenue           Reserve
+                                                            Bonds                            Bonds              Fund     2024            2023
+
+RECONCILIATION OF OPERATING INCOME (LOSS)               $  7,331 $ 39,841 $ (10,390) $ 36,782 $ 25,379
+TO NET CASH USED BY OPERATING
+ACTIVITIES                                                     (58)                         (2,168)          (661)         (2,887)        (3,394)
+                                                                  -                         (2,757)              -         (2,757)        (2,696)
+   Operating Income (Loss)                                                                                       -                        (1,599)
+   Adjustments to Reconcile Operating Income (Loss)            (23)                           (828)                          (851)         1,090
+                                                                57                          (2,234)           280          (1,897)        (2,672)
+    to Net Cash Used by Operating Activities:                                               (6,067)              -         (6,067)         3,052
+      Amortization of Investment Premiums/Discounts               -                          7,758               -          7,758        (19,197)
+      Amortization of Bond Original Issue Premiums                -                        (34,053)                      (40,951)        75,398
+      Decrease in Provision for Loan Losses                (5,118)                         98,595          (1,780)       115,241
+      Decrease (Increase) in Fair Value of Investments     16,646                                                -
+      Gain on Early Retirement of Debt
+      Bond Issuance Costs                                  (35,689)                          25,330        341            (10,018)          (9,738)
+      Interest Received on Investments                       6,909                         (703,955)           -         (697,046)       (405,146)
+      Interest on Bonds                                       (205)
+                                                                   -                          (4,508)      (952)            (5,665)         (8,083)
+   (Increase) Decrease in Assets:                                  -                           1,846           -             1,846          (1,752)
+                                                                                                               -
+      Mortgage Loans                                                                             590                           590            (695)
+      Mortgage-Backed Securities
+      Accrued Interest and Other Receivables               1,549                           14,522               -        16,071          11,309
+      Claims Receivable on Foreclosed and Other Loans           2                               24         1,313          1,339           1,518
+      Real Estate Owned                                                                                                   1,238             121
+   Increase (Decrease) in Liabilities:                       (60)                           1,298               -
+      Accrued Interest Payable
+      Accounts Payable                                                                  -               -  89                  89              (92)
+      Rebate Liability
+      Accrued Workers' Compensation and                                                 -               -  951                 951             (49)
+
+         Compensated Absences                              6,484                           (373)           27            6,138           4,021
+
+      Due to State Treasurer                            $  (2,175) $ (567,139) $ (10,782) $ (580,096) $ (333,225)
+      Deposits by Borrowers
+
+         Net Cash Used by Operating Activities
+
+See accompanying Notes to Combined Financial Statements.
+                                                                                   (8)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 1  AUTHORIZING LEGISLATION AND PROGRAM DESCRIPTION
+
+        The Community Development Administration (CDA) was created in 1970 by Sections 266 DD-1 to
+        266 DD-8 of Article 41 (now in Sections 4-101 through 4-255 of the Housing and Community
+        Development Article) of the Annotated Code of Maryland to meet the shortage of adequate, safe and
+        sanitary housing in the State of Maryland, particularly for persons or families of limited income. CDA
+        is in the Division of Development Finance in the Department of Housing and Community
+        Development (DHCD) of the State of Maryland.
+
+        The accompanying combined financial statements only include CDA's Revenue Obligation Funds
+        (the Funds). CDA's other programs are not included. However, CDA has also separately issued
+        financial statements for the Single-Family Housing Revenue Bonds, Multi-Family Mortgage Revenue
+        Bonds and Local Government Infrastructure Bonds indentures. The Revenue Obligation Funds,
+        Single-Family Housing Revenue Bonds, Multi-Family Mortgage Revenue Bonds and Local
+        Government Infrastructure Bonds are enterprise funds of the State of Maryland and are included in
+        the State of Maryland's Annual Comprehensive Financial Report.
+
+        Within each Fund in the Revenue Obligation Funds are separate accounts maintained for each
+        obligation in accordance with the respective indentures. The following summarizes each of the Funds.
+
+                         Fund                                                  Purpose
+        Housing Revenue Bonds      To provide funds to finance or refinance loans for various types of housing.
+                                   As of June 30, 2024, Housing Revenue Bonds have primarily financed
+                                   multi-family projects.
+
+        Residential Revenue Bonds  To originate or purchase single-family mortgage loans.
+
+        General Bond Reserve Fund  To provide funds for payment of principal and interest on bonds and notes
+                                   in the Revenue Obligation Funds to the extent revenues and assets
+                                   specifically pledged are not sufficient. This Fund also provides for the
+                                   payment of operating expenses of CDA.
+
+NOTE 2  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+        Basis of Presentation
+        The Revenue Obligation Funds are accounted for as enterprise funds. Accordingly, the accompanying
+        combined financial statements have been prepared using the accrual method of accounting and on the
+        basis of accounting principles generally accepted in the United States of America (GAAP).
+
+        Basis of Accounting and Measurement Focus
+        The basis of accounting for the Funds is determined by measurement focus. The flow of economic
+        resources measurement focus and the accrual basis of accounting are used to account for the Funds.
+        Under this method, revenues are recorded when earned and expenses are recorded at the time
+        liabilities are incurred. All assets and liabilities associated with the operation of the Funds are
+        included on the Combined Statements of Net Position. The Funds are required to follow all
+        statements of the Governmental Accounting Standards Board (GASB).
+
+                                                                        (9)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 2  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+        Generally Accepted Accounting Principles
+        CDA reports its financial activities by applying Standards of Governmental Accounting and Financial
+        Reporting as promulgated by GASB. Consequently, CDA applies all applicable GASB
+        pronouncements.
+
+        In accordance with accounting guidance issued by GASB, net position should be reported as
+        restricted when constraints placed on net position use is either: externally imposed by creditors (such
+        as through debt covenants), grantors, contributors, or laws or regulations of other governments; or is
+        imposed by law through constitutional provisions or enabling legislation. Accordingly, the net
+        position of the Funds is restricted as to its use as the net position is pledged to bondholders.
+
+        Since CDA is an enterprise fund included in the State of Maryland's Annual Comprehensive
+        Financial Report, a separate Management's Discussion and Analysis is not included in these
+        combined financial statements.
+
+        Cash and Cash Equivalents on Deposit
+        Cash equivalents may include money market funds, repurchase agreements, investment agreements
+        and any other investments, primarily obligations of the U.S. Treasury and U.S. government agencies,
+        which have maturities of 90 or less days at the time of purchase. As of June 30, 2024, the Funds' cash
+        equivalents are primarily invested in a money market mutual fund. Cash and cash equivalents are
+        fully described in Note 3.
+
+        Investments
+        Investments are principally governmental debt securities or investment agreements collateralized by
+        governmental debt securities. Debt securities are stated at fair value, based on quoted market prices.
+        Investments are classified as current or long-term based on the maturity date or call date, with the
+        exception of State Housing Finance Agency (HFA) Variable Rate Demand Obligations (VRDO)
+        which are short-term (7-day) instruments that can be tendered at 7 days' notice. Callable investments
+        are classified as current, if exercise of the call within the next fiscal year is probable. Investments are
+        more fully described in Note 3.
+
+        Mortgage-Backed Securities
+        These guaranteed securities are issued in connection with mortgage loans on multi-family projects
+        and single-family homes. They are stated at fair value, based on quoted market prices. Mortgage-
+        backed securities are more fully described in Note 3.
+
+        Mortgage Loans
+        Mortgage loans are carried at their unpaid principal balances, net of allowance for loan losses. Loan
+        fees are recognized as revenue in the period received. Any single family mortgage loan in foreclosure
+        with a pending insurance claim is recorded as claims receivables. See Notes 4 and 14 for additional
+        information on mortgage loans and mortgage insurance, respectively.
+
+        (10)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 2  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+        Accrued Interest and Other Receivables
+        Accrued interest and other receivables include interest on loans and investments. On insured multi-
+        family mortgage loans that are in default, CDA continues to accrue interest until receipt of a mortgage
+        insurance claim. On insured single-family loans, interest ceases to accrue after foreclosure. See
+        Note 5 for additional information.
+
+        Claims Receivable on Foreclosed and Other Loans
+        Claims receivable on foreclosed and other loans include insured single-family loans that are in
+        foreclosure or other single-family loans with pending insurance claims, recorded net of allowance.
+        These loans are primarily insured by U.S. Government Agencies or private mortgage insurers.
+        Foreclosed loans insured by private mortgage insurers are held in this account until the insurer has
+        made a final determination as to claim payment or transfer of the property to CDA.
+
+        Real Estate Owned
+        Real estate owned represents real estate acquired through foreclosure or deeds-in-lieu and is stated at
+        the lower of cost or fair value less estimated costs to sell. Expenses incurred related to real estate
+        owned are reported on the Combined Statement of Revenue, Expenses and Changes in Net Position.
+
+        Allowance for Loan Losses
+        Substantially all single-family mortgage loans of the Funds are insured or guaranteed by agencies of
+        the U.S. Government, the Maryland Housing Fund (MHF), or private mortgage insurers. Most
+        primary coverage levels range from 25% to 100% of the loan. CDA has established an allowance for
+        loan losses on the uninsured portions of multi-family loans and on single family loans. CDA has also
+        established an allowance for loan losses on single family loans that are in foreclosure. Management
+        believes the allowance established is adequate based on prior experience and evaluations from
+        DHCD's asset management group as well as a current assessment of probability and risk of loss due
+        to default or deteriorating economic conditions. See Note 4 for additional information on allowance
+        for loan losses.
+
+        Bond Issuance Costs
+        Bond issuance costs are recognized and expensed in the period incurred.
+
+        Bonds Payable
+        Bonds payable are carried at their unpaid principal balances, net of unamortized original issue
+        discounts or premiums. However, in an economic refunding, any costs incurred from the refunding of
+        bonds would be reported as deferred outflows or inflows of resources on the Combined Statement of
+        Net Position. See Notes 6, 7, 8, 9, and 11 for additional information on bonds.
+
+        (11)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 2  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+        Deposits by Borrowers
+        This account consists of escrows and reserves held by CDA on behalf of multi-family housing
+        developments. CDA invests these deposits and, for reserves, allows earnings to accrue to the benefit
+        of the mortgagor. Escrows represent amounts held by CDA for mortgage insurance and hazard
+        insurance premiums and real estate taxes, all of which are generally paid annually and which are
+        classified as a current liability. Based on the current year's reserve disbursements, CDA has estimated
+        the current reserve liability. The balance of the reserves is classified as long term. CDA has set up
+        other escrows for construction interest which are classified based on loan interest due as to whether it
+        is a current or long-term liability. See Note 11 for further information on changes in long-term
+        obligations.
+
+        Rebate Liability on Investments
+        Regulations governing the issuance of tax-exempt debt place limitations on permitted investment
+        yield on borrowed funds. Based on these regulations, CDA is required to periodically rebate excess
+        earnings from investments to the United States Treasury. In addition, the liability may also include an
+        estimate of the rebate obligation related to unrealized gains as a result of recording investments at fair
+        value. Rebate liability is more fully described in Note 10.
+
+        Mortgage Yield Limitations
+        All mortgage loans are subject to yield limitations under the Internal Revenue Code (IRC) in order for
+        the associated bonds to maintain their tax-exempt status. At the time of bond issuance and over the
+        term of the bonds, CDA determines and maintains compliance with the permitted mortgage yield on
+        the loans. In certain bond refunding transactions, CDA transfers loans from prior series of bonds to
+        the refunding series. CDA monitors the yield on these transferred loans to ensure that the composite
+        yield over the term of the bonds is within the yield limitations of the IRC. If at any time the composite
+        yields on the transferred loans are out of compliance with the IRC, CDA has certain remedies
+        available to bring the yield into compliance. As of June 30, 2024, all mortgage loan yields are in
+        compliance with the IRC.
+
+        Interest on Mortgage Loans and Mortgage-Backed Securities
+        Interest on mortgage loans and mortgage-backed securities is calculated using the effective interest
+        method.
+
+        Fee Income
+        CDA receives multi-family financing fees at loan origination. These fees are recognized as revenue in
+        the period received as fee income. Tax credit fees and administrative fees are recorded as earned.
+
+        (12)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 2  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)
+
+        Administrative Support
+
+        In addition to expenses incurred directly by the Funds, CDA receives certain support services from
+        other divisions of DHCD. Support services and the operating expenses of CDA have been allocated to
+        CDA's General Bond Reserve Fund. The General Bond Reserve Fund records these expenses as
+        invoiced by DHCD for the fiscal year. For the year ended June 30, 2024, the total costs for salaries
+        and related costs and for general and administrative costs charged to the General Bond Reserve Fund
+        was $24,617.
+
+        The employees of CDA are covered by the Maryland State Retirement and Pension System. See
+        Note 15 for additional information.
+
+        Revenue and Expenses
+
+        CDA distinguishes operating revenue and expenses from non-operating items in accordance with
+        accounting guidance issued by GASB. Operating revenue and expenses are identified as those
+        activities that are directly related to financing affordable housing in the State of Maryland. The
+        Funds' activities are considered to be operating except for increases and decreases in the fair value of
+        mortgage-backed securities that are held within the portfolio. Mortgage-backed securities that are part
+        of the To Be Announced (TBA) program are classified as operating which is more fully described in
+        Note 3.
+
+        Use of Estimates
+
+        The preparation of financial statements in conformity with accounting principles generally accepted
+        in the United States of America requires management to make estimates and assumptions. These
+        estimates and assumptions affect the reported amounts of assets and liabilities and disclosures of
+        contingent assets and liabilities at the date of the financial statements and the reported amounts of
+        revenue, expenses, gains, and losses during the reporting periods. Actual results could differ from
+        these estimates.
+
+        Combined Totals
+
+        The totals of similar accounts of the various Funds in the accompanying combined financial
+        statements are presented for information purposes only. The totals represent an aggregation of the
+        Funds and do not represent consolidated financial information, as interfund balances are not
+        eliminated.
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES
+
+        Bond proceeds and revenues from mortgages, mortgage-backed securities, and investments are
+        invested in authorized investments as defined in the respective indentures and in CDA's Investment
+        Policy until required for purchasing mortgage-backed securities or originating mortgage loans,
+        funding reserves, paying bond debt service or redeeming outstanding bonds and notes, and funding
+        program expenses. Authorized investments include State Housing Finance Agency (HFA) Variable
+        Rate Demand Obligations (VRDO), obligations of the U.S. Treasury, U.S. Government Agencies,
+        repurchase agreements, investment agreements, money market funds, and certificates of deposit.
+
+        (13)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES (CONTINUED)
+
+        The following assets, reported at fair value and held by CDA at June 30, 2024, are evaluated in
+        accordance with GASB accounting guidance for interest rate risk, credit risk, concentration of credit
+        risk and custodial credit risk.
+
+        Cash and Cash Equivalents:                                           Housing             Residential      General Bond                 Combined
+           BlackRock Liquidity FedFund Administration Shares                 Revenue               Revenue           Reserve
+           Demand Deposit Account                                             Bonds                 Bonds              Fund                  $ 778,668
+                                                                                                                                                       7,738
+                                                                          $ 144,680             $ 606,900         $ 27,088
+                                                                                          -               7,738                  -
+
+        Investments:                                                                         -          25,465                 5,000           30,465
+           State HFA VRDO(s)                                                            5,723          190,689                12,019          208,431
+           U.S. Treasury Securities
+           Obligations of the U.S. Government Agencies                                       -            5,400                      -           5,400
+           Repurchase Agreements and Investment
+            Agreements                                                                       -            2,408                      -           2,408
+
+        Mortgage-Backed Securities:                                                  22,334            1,330,430                       -      1,352,764
+           Government National Mortgage Association                                         -            705,637
+            (GNMA)                                                                          -            313,302                       -      705,637
+           Federal National Mortgage Association
+            (FNMA)                                                                                                                     -      313,302
+           Federal Home Loan Mortgage Corporation
+            (FHLMC)
+
+        Total Cash and Cash Equivalents, Investments                      $ 172,737 $ 3,187,969 $ 44,107 $ 3,404,813
+         and Mortgage-Backed Securities
+
+        Interest Rate Risk
+
+        Interest rate risk is the risk that changes in interest rates will adversely affect the fair value of an
+        investment. As a means of limiting its exposure to fair value losses from rising interest rates, CDA's
+        Investment Policy requires that the maturities of the investment portfolio are scheduled to meet the
+        cash requirements for bond debt service, projected loan originations and ongoing operations.
+
+        As of June 30, 2024, the amortized cost, fair value, and maturities for these assets were as follows:
+
+                                                                                                       Maturities (in Years)
+
+                          Asset         Amortized         Fair             Less         1 - 5            6 - 10               11 - 15          More
+        BlackRock Liquidity FedFund        Cost          Value            Than 1                                                              Than 15
+
+         Administration Shares       $  778,668 $        778,668 $        778,668 $             -$                -$                      -$                  -
+        Demand Deposit Account                              7,738            7,738              -                 -
+        State HFA VRDO(s)               7,738             30,465           30,465               -                 -                       -                   -
+        U.S. Treasury
+                                        30,465                                                                                            -                   -
+         Securities
+        Obligations of U.S.             208,804          208,431          202,708               5,723             -                       -                   -
+
+         Government Agencies            4,879            5,400                    -             3,124             2,276                   -                   -
+        Repurchase Agreements/
+                                        2,408            2,408                    -             -                 2,408                   -                   -
+         Investment Agreements
+        GNMA Mortgage-Backed            1,425,472        1,352,764                -             -                 -                       -   1,352,764
+
+         Securities                     750,112          705,637                  -             -                 -                       -   705,637
+        FNMA Mortgage-Backed
+                                                319,894    313,302                   -               -                 -                  -     313,302
+         Securities                  $ 3,528,440 $       3,404,813 $      1,019,579 $           8,847 $           4,684 $                 -$  2,371,703
+        FHLMC Mortgage-Backed
+
+         Securities
+                Total
+
+                                                                    (14)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES (CONTINUED)
+
+        Interest Rate Risk (Continued)
+
+        The BlackRock Liquidity FedFund Administration Shares invests primarily in cash, U.S. Treasury
+        bills, notes, and other obligations issued or guaranteed as to principal and interest by the U.S.
+        Government, its agencies or instrumentalities, and repurchase agreements secured by such obligations
+        or cash. It is operated in accordance with Rule 2a-7 of the Investment Company Act of 1940, as
+        amended. It can reasonably be expected to have a fair value that will be unaffected by interest rate
+        changes because the interest rates are variable and the principal can be recovered on demand. As
+        noted above, as of June 30, 2024, the cost of the money market mutual fund approximated fair value.
+
+        Credit Risk and Concentration of Credit Risk
+
+        Credit risk is the risk that an issuer or other counterparty to an investment will not fulfill its
+        obligations. Neither CDA's Investment Policy nor the trust indentures require investment agreements
+        or deposits to be collateralized. CDA's Investment Policy places no limit on the amount that CDA
+        may invest in any one issuer or counterparty. According to CDA's indentures and Investment Policy,
+        securities must be at a rating no lower than the rating on the bonds or, if an investment maintains only
+        a short-term rating, a rating not less than F1/P-1; and financial institutions who are a counterparty to
+        CDA in investment agreements must be rated at least comparable to the existing rating on CDA
+        bonds unless counterparty ratings lower than the bond ratings are permitted in a specific indenture
+        and do not affect the ratings on the bonds. In addition, certain investment and repurchase agreements
+        require counterparty ratings no less than the ratings on the bonds. As of June 30, 2024, all
+        counterparty ratings were at least equal to the ratings on the bonds. The ratings on Housing Revenue
+        Bonds and Residential Revenue Bonds as of June 30, 2024 were Aa2 and Aa1, respectively, by
+        Moody's Investors Service. The ratings on Housing Revenue Bonds and Residential Revenue Bonds
+        as of June 30, 2024 were AA+ by Fitch Ratings. The following table provides credit quality rating
+        information for the investment portfolio and individual issuers, if they represent 5% or more of total
+        investments, in accordance with accounting guidance issued by GASB.
+
+        The market value of the underlying collateralized securities in repurchase agreements and investment
+        agreements is maintained at a minimum of 102% of the principal of and accrued interest on the
+        invested funds by marking to market at least weekly and using an immediate under value cure
+        provision.
+
+        The State HFA VRDOs held in CDA's investment portfolio are short-term (7-day) instruments that
+        can be tendered at 7 days' notice at par. The rate is reset weekly by a remarketing agent; therefore the
+        market value of the bonds is approximately 100% of the principal amount of the bonds during any
+        period.
+
+        In order to facilitate a transaction with a liquidity provider, CDA has invested in a demand deposit
+        account that is classified as cash and cash equivalents. This investment is backed by an Irrevocable
+        Standby Letter of Credit dated July 26, 2021, that was established by the Federal Home Loan Bank of
+        Pittsburgh, and is automatically extended each year until July 27, 2026. This date corresponds with
+        the termination date of the standby purchase agreement.
+
+        (15)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES (CONTINUED)
+
+        Credit Risk and Concentration of Credit Risk (Continued)
+        As of June 30, 2024, credit ratings and allocation by type of investments for the following assets
+        were:
+
+                                   Asset           Fair      Percentage     Money      Securities    Rating
+        BlackRock Liquidity FedFund               Value        of Total      Market      Credit     Agency
+                                                                          Fund Rating   Rating
+         Administration Shares                               Investments                            Moody's
+
+                                                  $ 778,668  22.87% Aaa-mf
+
+        U.S. Treasury Securities                    208,431   6.12%                    Direct U.S.
+                                                  1,352,764  39.73%                    Obligations
+        Government National Mortgage Association
+         (GNMA) Mortgage-Backed Securities                                             Direct U.S.
+                                                                                       Obligations
+
+        Federal National Mortgage Association     705,637    20.72%                    Aaa          Moody's
+         (FNMA) Mortgage-Backed Securities
+
+        Federal Home Loan Mortgage Corporation    313,302    9.20%                     Aaa          Moody's
+           (FHLMC) Mortgage-Backed Securities
+
+        Mortgage-Backed Securities
+
+        All mortgage-backed securities held by CDA are guaranteed by the Government National Mortgage
+        Association (GNMA), the Federal National Mortgage Association (FNMA or Fannie Mae), or the
+        Federal Home Loan Corporation (Freddie Mac).
+
+        GNMA mortgage-backed securities are instrumentalities of the United States Government and are
+        "fully modified pass-through" mortgage-backed securities which require monthly payments by a
+        Federal Housing Administration (FHA), Veterans Administration (VA) or United States Department
+        of Agriculture Rural Development (USDA RD) lender, as the issuer of the guaranteed security to
+        CDA. GNMA guarantees timely payment of principal and interest on Guaranteed Securities.
+
+        Fannie Mae and Freddie Mac mortgage-backed securities are "guaranteed mortgage pass-through
+        securities" which supplement amounts received by a trust created under a trust agreement as required
+        permitting timely payments of principal and interest on the securities to CDA. The securities and
+        payments of principal and interest on the securities are not guaranteed by the United States and do not
+        constitute a debt or obligation of the United States or any of its agencies or instrumentalities other
+        than Fannie Mae or Freddie Mac.
+
+                                                  (16)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES (CONTINUED)
+
+        Mortgage-Backed Securities (Continued)
+
+        As an investor of GNMA I mortgage-backed securities (MBS), CDA receives separate principal and
+        interest payments on the 15th of each month; however, for GNMA II MBS, CDA receives the total
+        principal and interest from a central paying agent on the 20th of each month. CDA receives the total
+        principal and interest from the trustee on the 25th of each month for both Fannie Mae and Freddie
+        Mac securities and on the 15th of each month for some Freddie Mac securities. All mortgages backing
+        a GNMA I MBS have the same mortgage rate equal to 50 basis points greater than the coupon, with
+        44 basis points of servicing fee and 6 basis points of guaranty fee. Similarly, GNMA II MBS also
+        have 6 basis points of guaranty fee, but the mortgage rate for the loans backing the security can vary
+        between 25 to 75 basis points greater than the coupon which may result in a variety of servicing fees.
+        As of June 30, 2024, Fannie Mae and Freddie Mac securities have a guaranty fee of approximately 47
+        basis points and a servicing fee of 25 basis points. CDA also participates from time to time in the
+        Fannie Mae or Freddie Mac buy-up or buy-down of the guaranty fee created in the pooling process in
+        order to maximize pooling of securities for efficiency and effectiveness.
+
+        In January 2012, CDA expanded the sources of financing for its mortgage-backed securities program
+        through the ongoing sale of forward contracts of GNMA, Fannie Mae, or Freddie Mac mortgage-
+        backed securities. These securities are comprised of single-family mortgage loans originated by
+        CDA's network of approved lender partners. As part of this program, CDA periodically enters into
+        forward contracts to sell GNMA, Fannie Mae or Freddie Mac mortgage-backed securities to investors
+        before the securities are ready for delivery (referred to as to-be-announced or TBA Mortgage-Backed
+        Security Contract). These forward contracts are settled monthly, using funds held in Residential
+        Revenue Bonds' additional collateral account, prior to being sold into the secondary market. As of
+        June 30, 2024, CDA entered into TBA Mortgage-Backed Security Contracts with a notional amount
+        of $5,900 outstanding. The increase/decrease in the fair value of GNMA, Fannie Mae or Freddie Mac
+        mortgage-backed securities that are part of the TBA program is classified as operating revenue on the
+        Combined Statements of Revenue, Expenses, and Changes in Net Position.
+
+        Custodial Credit Risk
+
+        Custodial credit risk is the risk that in the event of a bank or counterparty failure, CDA will not be
+        able to recover its deposits or the value of its collateral securities that are in the possession of an
+        outside party. As of June 30, 2024, the Funds' investments were not subject to custodial credit risk
+        under accounting guidance issued by GASB. CDA's investments and collateralized securities are held
+        in trust by the trustee or the trustee's agent, kept separate from the assets of the bank and from other
+        trust accounts and are held in CDA's name.
+
+        (17)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 3  CASH, CASH EQUIVALENTS, INVESTMENTS, AND MORTGAGE-BACKED
+        SECURITIES (CONTINUED)
+
+        Fair Value Measurements
+        CDA categorizes its fair value measurements within the fair value hierarchy established by generally
+        accepted accounting principles. The hierarchy is based on the valuation inputs used to measure the
+        fair value of the asset. Level 1 inputs are quoted market prices in active markets for identical assets;
+        Level 2 inputs are significant other observable inputs; Level 3 inputs are significant unobservable
+        inputs.
+
+        The Funds have the following recurring fair value measurements as of June 30, 2024:
+
+            � U.S. Government Agencies of $5,400 valued using quoted market prices (Level 1).
+            � U.S. Treasury Securities of $208,431 are valued using quoted market prices (Level 1).
+            � State HFA VRDOs of $30,465 are valued using the matrix pricing technique (Level 2).
+            � GNMA, FNMA and FHLMC mortgage-backed securities of $2,371,703 are valued using the
+
+                 matrix pricing technique (Level 2).
+
+NOTE 4  MORTGAGE LOANS
+
+        Substantially all single-family mortgage loans are secured by first liens on the related property.
+        Approximately 94% of all single family outstanding loan amounts are credit enhanced through the
+        Federal Housing Administration (FHA) mortgage insurance programs, the VA and USDA RD
+        guarantee programs, Maryland Housing Fund (MHF), or by private mortgage insurance policies. As
+        of June 30, 2024, interest rates on first lien single family loans ranged from 0.00% to 9.50% with
+        remaining loan terms ranging approximately from less than 1 year to 40 years.
+
+        Approximately 99% of all multi-family construction and permanent mortgage loan amounts are
+        insured or credit enhanced by FHA, MHF, Federal National Mortgage Association (FNMA), GNMA,
+        or bank letters of credit. As of June 30, 2024, interest rates on the loans range from 2.62% to 7.56%
+        with remaining loan terms ranging from less than 1 year to 40 years. For the year ended June 30,
+        2024, an allowance for loan losses in the amount of $9 has been established for uninsured loans.
+
+        (18)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 4  MORTGAGE LOANS (CONTINUED)
+
+        For the year ended June 30, 2024, the mortgage loan and claims receivable balances, net of the
+        allowances for loan losses on the uninsured portions of multi-family loans and on single-family loans,
+        including loans in foreclosure and other loans with pending insurance claims, were as follows:
+
+                                                                 Housing        Residential       General Bond
+                                                                                  Revenue
+                                                                 Revenue           Bonds             Reserve
+
+                                                                 Bonds        $ 393,259              Fund          Combined
+                                                                                        (1,542)                  $ 393,259
+        Single Family Mortgage Loans                          $           -                       $           -
+           Allowance for Loan Losses                                                                                       (1,542)
+                                                                          -                                   -
+        Single Family Mortgage Loans, Net of Allowance                                                           $ 391,717
+                                                              $           -   $ 391,717 $                     -
+
+        Multi-Family Mortgage Loans                           $ 450,684 $         3,318 $            4,705 $        458,707
+           Allowance for Loan Losses                                         (9)       -                  -                (9)
+
+        Multi-Family Mortgage Loans, Net of Allowance         $ 450,675 $         3,318 $            4,705 $        458,698
+
+        Business Loans                                        $           -$                   -$    8,508 $        8,508
+           Allowance for Loan Losses
+                                                                          -                    -              -               -
+        Business Loans, Net of Allowance
+                                                              $           -$                   -$    8,508 $        8,508
+
+        Claims Receivable on Foreclosed and                   $           -$      3,022 $                     -$    3,022
+         Other Loans
+           Allowance for Loan Losses                                      -       (322)                       -     (322)
+
+        Claims Receivable on Foreclosed and                   $           -$      2,700 $                     -$    2,700
+         Other Loans, Net of Allowance
+
+NOTE 5 ACCRUED INTEREST AND OTHER RECEIVABLES
+
+        Accrued interest and other receivables as of June 30, 2024 were as follows:
+
+                                                                 Housing          Residential     General Bond
+
+                                                                 Revenue          Revenue            Reserve
+
+                                                                 Bonds            Bonds              Fund           Combined
+
+        Accrued Mortgage Loan Interest                        $  1,638        $   2,872           $        155   $  4,665
+        Accrued Mortgage-Backed Securities
+                                                                          87      9,902                       -      9,989
+         Interest                                                                                                    7,252
+        Accrued Investment Interest                                     514       6,558                    180
+        Negative Arbitrage Due from Mortgagors                                                                            4
+                                                                          4                    -              -
+        Reimbursement Due for State-Funded Loans                                                                    11,102
+                                                                          -       11,102                      -
+        Reimbursement Due For Pre-Foreclosure
+         Costs Incurred on Mortgage Loans                                 -       3,455                       -     3,455
+
+        Miscellaneous Billings                                            -              295         1,673          1,968
+              Total                                           $  2,243 $          34,184 $           2,008       $  38,435
+
+                                                        (19)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 6  SHORT-TERM DEBT
+
+        CDA issues short-term debt to preserve expiring volume cap and to facilitate the refunding of
+        prepayments and repayments from existing mortgages. Proceeds of the short-term debt are used to
+        refund and to pay at maturity prior series of bonds. At the time of the refunding, prepayments and
+        repayments of mortgage loans financed by these prior series of bonds are transferred to accounts in
+        the short-term series. CDA expects to make these funds available to purchase mortgage loans upon
+        the maturity or earlier redemption of the short-term debt. CDA issues long-term refunding bonds to
+        redeem the short-term debt and the prepayments and repayments are used to fund new mortgages.
+        During the fiscal year 2024, CDA issued $199,568 of 2023 Series G short-term debt, with a
+        remaining balance of $159,568 as of June 30, 2024.
+
+NOTE 7  BONDS PAYABLE
+
+        The bonds and notes issued by CDA are special obligations of CDA and are payable from the revenue
+        and special funds of the applicable indentures. These bonds and notes do not constitute debt of and
+        are not guaranteed by the State of Maryland or any other program of the State of Maryland or any
+        political subdivision.
+
+        The provisions of the various bond indentures require or allow for the special redemption of bonds at
+        par through the use of unexpended bond proceeds and excess funds accumulated primarily through
+        prepayment of mortgage loans. All outstanding bonds are subject to optional redemption, in whole or
+        in part at any time, after certain dates, as specified in the respective series indentures, at a redemption
+        price equal to the principal amount thereof to be redeemed. When bonds are redeemed, whether as a
+        special or optional redemption, CDA writes off a proportionate share of any unamortized original
+        issue premiums, net of any unamortized original issue discounts, as a gain on early retirement of debt
+        in the accompanying Combined Statement of Revenue, Expenses, and Changes in Net Position. If
+        unamortized original issue discounts exceed unamortized original issue premiums, CDA records a
+        loss.
+
+        The following lists those bonds which are at variable rates and the terms by which the variable rates
+        change. All other bonds have fixed interest rates.
+
+        Housing Revenue Bonds
+
+            Series 2013 E
+                The rate is set weekly by a remarketing agent so that the market value of the bonds is as
+                close as possible to 100% of the principal amount of the bonds. In no event will the bonds
+                bear interest at a rate in excess of 12%.
+
+        Residential Revenue Bonds
+
+            2006 Series G and J; 2012 Series B; and 2014 Series F.
+                The rate is set weekly by a remarketing agent so that the market value of the bonds is as
+                close as possible to 100% of the principal amount of the bonds. In no event will the bonds
+                bear interest at a rate in excess of 12%.
+
+        (20)
+                   COMMUNITY DEVELOPMENT ADMINISTRATION
+                                REVENUE OBLIGATION FUNDS
+
+                   NOTES TO COMBINED FINANCIAL STATEMENTS
+                                              (in thousands)
+                                             JUNE 30, 2024
+
+NOTE 7 BONDS PAYABLE (CONTINUED)
+
+The following bonds are taxable. All other bonds are tax-exempt.
+
+Housing Revenue Bonds
+    Series 2013 E
+
+Residential Revenue Bonds                     2019 Series D                     2023 Series D
+                                              2021 Series D                     2023 Series F
+    2012 Series B                             2022 Series B                     2024 Series B
+    2014 Series E and F                       2022 Series C
+    2015 Series B                             2023 Series B
+    2016 Series A
+    2017 Series A
+
+The following is a summary of the bond activity for Housing Revenue Bonds for the year ended
+June 30, 2024, and bonds payable as of June 30, 2024:
+
+                     Issue       Range of     Range of               Bonds      New Bonds  Bond Activity     Bonds       Bonds
+                    Dated     Interest Rates  Maturities            Payable        Issued    Scheduled     Redeemed     Payable
+                                                                   at June 30,                Maturity                 at June 30,
+                   02/28/13  2.75% - 4.00%                                                   Payments
+                   11/07/13   Variable Rate                           2023                                                2024
+                   12/12/13  3.45% - 5.00%
+Housing Revenue    02/27/14  3.35% - 5.00%    2024-2054         $     9,600 $          -$         (170) $          -$     9,430
+ Bonds             05/21/14  3.125% - 4.45%                         41,795             -               -   (15,995)     25,800
+    Series 2013 A  08/21/14  3.05% - 4.05%    7/1/2045                5,560            -
+    Series 2013 E  12/17/14  2.90% - 4.20%                            3,120            -          (155)            -      5,405
+    Series 2013 F  05/28/15  2.85% - 4.55%    2024-2048               1,165            -            (60)           -      3,060
+    Series 2014 A  10/07/15  2.70% - 4.50%                            2,025            -            (20)           -      1,145
+    Series 2014 B  12/14/16  2.85% - 4.40%    2024-2055               9,070            -            (60)           -      1,965
+    Series 2014 C  04/13/17                                           7,370            -                           -      8,925
+    Series 2014 D  05/10/17       3.95%       2024-2055             42,125             -          (145)            -      7,260
+    Series 2015 A  12/18/17       3.75%                               6,885            -          (110)            -    41,515
+    Series 2015 B  05/31/18  2.10% - 3.80%    2024-2046             14,165             -          (610)            -      6,785
+    Series 2016 A  01/17/19  2.60% - 4.25%                            5,986            -          (100)       (170)     13,995
+    Series 2017 A  04/18/19  2.30% - 4.20%    2024-2056             17,210             -                        (73)      5,913
+    Series 2017 B  06/27/19  2.05% - 3.90%                          25,425             -               -           -    16,960
+    Series 2017 C  08/08/19  1.70% - 3.65%    2024-2057             11,330             -               -      (915)     23,990
+    Series 2018 A  11/14/19  1.60% - 3.60%                            9,750            -          (250)            -    11,180
+    Series 2019 A  06/30/20  1.60% - 3.40%    2024-2057             14,380             -          (520)            -      9,620
+    Series 2019 B  07/09/20  0.90% - 3.10%                          29,875             -          (150)            -    14,170
+    Series 2019 C  10/22/20  1.00% - 3.10%    2024-2058               2,700            -          (130)            -    29,445
+    Series 2019 D  12/17/20  0.55% - 2.95%                          10,235             -          (210)            -      2,660
+    Series 2019 E  06/24/21  0.55% - 2.70%    11/1/2058               9,220            -          (430)            -    10,075
+    Series 2020 A  07/29/21  0.40% - 2.65%                            8,555            -            (40)           -      9,080
+    Series 2020 C  11/18/21  0.40% - 2.10%    3/1/2059              21,925             -          (160)            -      8,415
+    Series 2020 D  06/09/22  0.60% - 3.05%                          13,605             -          (140)            -    21,555
+    Series 2020 E  10/18/22  2.95% - 4.60%    2024-2059             11,395             -          (140)            -    13,515
+    Series 2021 A  12/01/22  3.30% - 5.25%                          44,585             -          (370)            -    11,240
+    Series 2021 B  03/15/23  3.40% - 5.15%    2024-2060             23,270             -            (90)    (5,200)     32,015
+    Series 2021 C  05/03/23  3.15% - 5.00%                            6,465            -          (155)            -    17,895
+    Series 2022 A  07/27/23  2.75% - 4.35%    2024-2061             11,555             -        (7,370)            -      3,595
+    Series 2022 B  09/28/23  3.30% - 4.80%                          17,205             -        (5,375)            -    11,555
+    Series 2022 C  12/14/23  3.50% - 5.00%    2024-2061             25,575             -        (2,870)            -    17,205
+    Series 2023 A  03/21/24  3.60% - 4.75%                                      25,880                 -           -    25,575
+    Series 2023 B            3.15% - 4.85%    2024-2061                    -    29,920                 -           -    25,880
+    Series 2023 C                                                          -    14,605                 -           -    29,920
+    Series 2023 D                             2024-2061                    -    14,765                 -           -    14,605
+    Series 2023 E                                                          -    85,170 $               -           -    14,765
+    Series 2024 A                             2024-2061            463,126 $                           -   (22,353) $  506,113
+        Total                                                                                          -
+                                              2024-2062                                        (19,830) $
+
+                                              2024-2062
+
+                                              2024-2062
+
+                                              2024-2062
+
+                                              2024-2063
+
+                                              2024-2041
+
+                                              2024-2064
+
+                                              2025-2042
+
+                                              2025-2064
+
+                                              2025-2042
+
+                                              2024-2065
+
+                                              2025-2043
+
+                                              2025-2065
+
+                                              2026-2066
+
+                                              2026-2043
+
+                                              2026-2066
+
+                                                          $
+
+                                                          (21)
+                               COMMUNITY DEVELOPMENT ADMINISTRATION
+                                            REVENUE OBLIGATION FUNDS
+
+                               NOTES TO COMBINED FINANCIAL STATEMENTS
+                                                          (in thousands)
+                                                         JUNE 30, 2024
+
+NOTE 7               BONDS PAYABLE (CONTINUED)
+
+                     The following is a summary of the bond activity for Residential Revenue Bonds for the year ended
+                     June 30, 2024, and the debt outstanding and bonds payable as of June 30, 2024:
+
+                     Issue       Range of       Range of                  Debt      New Bonds  Bond Activity      Bonds         Debt        Bond       Bonds
+                     Dated     Interest Rates   Maturities            Outstanding      Issued    Scheduled      Redeemed    Outstanding   Premium/    Payable
+                                                                      at June 30,                 Maturity                  at June 30,   Discount   at June 30,
+                                                                                                 Payments                                 Deferred
+                                                                          2023                                                  2024                    2024
+
+Residential Revenue  05/24/06    Variable Rate  2027-2040 $              12,310 $              -           - $   (2,180) $     10,130 $          -$     10,130
+ Bonds               07/13/06    Variable Rate  2029-2040                42,685                -           -     (3,375)       39,310            -      39,310
+     2006 Series G   08/23/12                                                                  -           -                                     -
+     2006 Series J   08/23/12          N/A          N/A                      245               -           -       (245)               -        2            -
+     2012 Series A   02/20/14    Variable Rate  2025-2033                44,580                -       (190)       (235)       44,345            -      44,347
+     2012 Series B   02/20/14                                                                  -           -                                   13
+     2014 Series A   09/25/14          N/A          N/A                      190               -     (1,670)            -              -       68               -
+    2014 Series B    09/25/14        3.25%      2032-2044                  2,100               -           -     (1,600)           500         65           513
+    2014 Series C    09/25/14   2.80% - 4.00%   2024-2044                14,280                -     (1,855)                   11,945            -      12,013
+    2014 Series D    09/25/14        4.00%      2031-2036                  1,940               -           -       (665)         1,095           -        1,160
+    2014 Series E    12/03/15  3.596% - 4.146%  2024-2029                13,750                -       (210)       (845)       10,770          48       10,770
+    2014 Series F    12/03/15    Variable Rate  2041-2044                23,770                -           -     (1,125)       23,770            -      23,770
+     2015 Series A   08/31/16  2.625% - 3.50%   2024-2045                  2,770               -     (8,410)                     1,850       311          1,898
+     2015 Series B   04/27/17        3.16%      2032-2041                  5,155               -     (6,865)            -        2,605           -        2,605
+     2016 Series A   11/08/18  2.613% - 3.797%  2024-2047               170,570                -     (1,105)       (710)      156,555      1,612       156,866
+     2017 Series A   11/08/18  3.153% - 4.103%  2024-2048               105,480                -           -     (2,550)       91,735        865        91,735
+     2018 Series A   03/13/19   2.90% - 4.50%   2024-2048                40,430                -     (2,490)     (5,605)       31,735        797        33,347
+     2018 Series B   06/13/19        4.50%      2036-2048                21,090                -     (3,245)     (6,880)       16,530      4,517        17,395
+     2019 Series A   10/16/19  2.125% - 4.25%   2024-2049                41,835                -     (5,360)     (7,590)       38,630      9,185        39,427
+     2019 Series B   10/16/19  1.950% - 5.00%   2024-2049               126,340                -       (665)     (4,560)      122,250            -     126,767
+     2019 Series C   02/25/20   1.70% - 5.00%   2024-2050               239,465                -     (2,775)       (715)      222,910      2,878       232,095
+     2019 Series D   02/25/20  2.094% - 2.931%  2024-2050                13,365                -       (115)       (845)       11,810            -      11,810
+     2020 Series A   08/27/20   1.15% - 3.75%   2024-2050               107,635                -     (4,315)    (11,195)       99,240      3,608       102,118
+     2020 Series B   02/25/21          N/A                                                     -     (5,410)       (890)                   5,284
+     2020 Series D   08/26/21  0.625% - 3.25%       N/A                      115               -     (4,320)     (5,620)               -   4,900                -
+     2021 Series A   12/14/21   0.35% - 3.00%   2024-2050               141,510                -           -                  129,210      5,543       132,818
+     2021 Series B   12/14/21   0.40% - 3.00%   2024-2051               183,760                -     (6,130)            -     170,750            -     176,034
+     2021 Series C   06/15/22   1.10% - 3.00%   2024-2051               162,030                -           -     (7,985)      150,195      2,846       155,095
+     2021 Series D   06/15/22   1.15% - 1.80%   2027-2051               221,540                -     (2,500)     (7,600)      212,420            -     217,963
+     2022 Series A   09/15/22   3.80% - 5.00%   2024-2027                                      -     (1,705)     (7,515)                         -
+     2022 Series B   12/14/22  3.141% - 4.638%  2030-2052                25,125                -     (1,215)     (9,120)       18,995      2,218        18,995
+     2022 Series C   12/14/22  3.732% - 5.091%  2024-2034               111,610                -  (211,103)                   107,495            -     110,341
+     2022 Series D   05/11/23   3.15% - 6.00%   2024-2053                36,155                -       (360)            -                  2,241
+     2022 Series E   05/11/23          N/A      2024-2053                98,720                -       (745)     (4,115)       33,655      1,500        33,655
+     2023 Series A   08/15/23   2.90% - 5.50%                           100,000       115,000          (450)                   94,820      2,730        94,820
+     2023 Series B   08/15/23  4.383% - 5.750%      N/A                 211,103       185,000              -            -      97,440      1,564        99,658
+     2023 Series C   11/14/23   3.25% - 5.75%   2024-2053                60,000        75,000              -     (2,195)                   1,792
+     2023 Series D   11/14/23  4.982% - 6.00%   2024-2053                90,000       325,000              -     (1,345)               -         -              -
+     2023 Series E   12/19/23   3.60% - 6.25%   2024-2054                             199,568      (40,000)                    59,080            -      61,321
+     2023 Series F   05/16/24  5.432% - 6.362%  2024-2053                        -     40,000              -         -         89,255      1,327        90,755
+     2023 Series G   05/16/24   4.40% - 4.68%   2024-2054                        -    210,000              -       (560)      114,265            -     116,995
+     2024 Series A              3.35% - 6.25%   2024-2053                        -  1,149,568 $   (313,208) $                 185,000     55,914 $     186,564
+     2024 Series B             5.007% - 6.091%  2024-2025                        -                                      -      75,000                   76,792
+         Total                                  2025-2055                        -                                 (285)      325,000                  325,000
+                                                2025-2054                        -                                            159,568                  159,568
+                                                                                 -                                      -      40,000                   41,327
+                                                                   $  2,471,653 $                                       -     210,000                  210,000
+                                                                                                                        -   3,209,863 $              3,265,777
+                                                                                                                        -
+                                                                                                                        -
+                                                                                                                        -
+                                                                                                                (98,150) $
+
+                                                                      (22)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 8  DEBT SERVICE REQUIREMENTS
+
+        As of June 30, 2024, the required principal payments for bonds (including mandatory sinking fund
+        payments, special and optional redemptions and mandatory payments and prepayments from the loans
+        in Housing Revenue Bonds Series 2017A and 2017B that occurred subsequent to June 30, 2024, and
+        excluding the effect of unamortized premiums as shown in Note 7) and interest payments for each of
+        the next five years and in five-year increments thereafter, are as follows:
+
+                                   Housing Revenue Bonds  Residential Revenue Bonds
+
+        Year Ending June 30,       Interest  Principal    Interest     Principal
+                2025
+                2026          $ 18,548 $ 22,739           $ 127,575 $ 295,768
+                2027
+                2028               17,935    47,930       121,073      84,250
+                2029
+                                   16,502    6,097        118,468      91,810
+            2030 - 2034
+            2035 - 2039            16,349    6,324        115,503      93,645
+            2040 - 2044
+            2045 - 2049            16,180    6,432        112,333      95,515
+            2050 - 2054
+            2055 - 2059            77,990    34,555       508,174      501,435
+            2060 - 2064
+            2065 - 2067            71,764    41,910       417,606      515,755
+
+                 Total             59,618    122,047      316,457      516,400
+
+                                   35,093    73,081       199,784      551,565
+
+                                   23,412    54,973       63,670       453,470
+
+                                   12,178    56,035       376          10,250
+
+                                   3,487     29,500                 -                -
+
+                                   283       4,490                  -                -
+
+                              $ 369,339 $ 506,113         $ 2,101,019 $ 3,209,863
+
+        The interest calculations on outstanding variable rate bonds in the amounts of $25,800, in Housing
+        Revenue Bonds and $117,555 in Residential Revenue Bonds are based on the variable rates in effect
+        on June 30, 2024 and are not indicative of the actual interest expense that will be incurred in future
+        years. As rates vary, variable rate bond interest payments will vary.
+
+NOTE 9  BOND REFUNDINGS
+
+        Certain refundings of debt are due to the prepayments of single-family mortgage loans. In these cases,
+        CDA transfers the proceeds of the refunding bonds to a redemption account to redeem previously
+        issued bonds and, simultaneously, transfers the prepayments of single-family mortgage loans financed
+        by these prior bonds to the refunding bonds' accounts for the purpose of originating new loans. This
+        recycling of prepayments enables CDA to originate new loans that are not subject to the limitations of
+        the IRS volume cap. CDA does not pay call premiums on these special redemptions, and the
+        refundings are not undertaken to reduce interest rates, revise payment schedules, or modify
+        restrictions related to the old debt. CDA writes off any unamortized original issue premiums, net of
+        any unamortized original issue discounts, as a gain on early retirement of debt in the accompanying
+        combined statement of revenue, expenses, and changes in net position. If unamortized original issue
+        discounts exceed unamortized original issue premiums, CDA records a loss.
+
+        For current refundings of debt in an optional redemption, CDA replaces previously issued bonds for
+        the purpose of lowering debt costs by reducing interest rates or for other purposes such as revising
+        payment schedules or modifying restrictions related to the old debt. This type of transaction is
+        commonly known as an economic refunding.
+
+        There were no economic refundings for the year ended June 30, 2024.
+
+                                                                        (23)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+NOTES TO COMBINED FINANCIAL STATEMENTS
+                           (in thousands)
+                          JUNE 30, 2024
+
+NOTE 10 REBATE LIABILITY
+
+              In accordance with the Internal Revenue Code (IRC), CDA may record a rebate liability for excess
+              investment earnings in tax-exempt bond issues. The excess investment earnings arise due to actual
+              investment yields earned by CDA being greater than yields permitted to be retained by CDA under
+              the IRC. The IRC requires 90% of such excess investment earnings to be remitted to the United States
+              Treasury every five years and in full at the final redemption of the bonds. Interest income on the
+              Combined Statement of Revenue, Expenses, and Changes in Net Position is reduced by the rebate
+              liability due to excess investment earnings. CDA has no rebate liability from interest income or from
+              unrealized gains on mortgage-backed securities. As of June 30, 2024, CDA had a rebate liability of
+              $1,608 to record for excess investment earnings in tax-exempt bond issues (see Note 11).
+
+NOTE 11 LONG-TERM OBLIGATIONS
+
+Changes in long-term obligations for the year ended June 30, 2024 were as follows:
+
+                                               Housing     Residential     General Bond     Combined
+                                               Revenue      Revenue           Reserve
+                                                Bonds        Bonds              Fund
+
+Rebate Liability                            $     370 $                 -$  -            $  370
+  Beginning Balance at June 30, 2023
+  Additions                                       305      1,348            -               1,653
+  Reductions
+  Ending Balance at June 30, 2024                 (365)    (50)             -               (415)
+
+  Less Due Within One Year                        310      1,298            -               1,608
+
+     Total Long-Term Rebate Liability                   -               -   -                         -
+
+Workers' Compensation:                            310      1,298            -               1,608
+  Beginning Balance at June 30, 2023
+  Additions                                             -               -   104             104
+  Reductions
+  Ending Balance at June 30, 2024                       -               -   -                         -
+
+  Less Due Within One Year                              -               -   (5)             (5)
+
+     Total Long-Term Workers' Compensation              -               -   99              99
+
+Compensated Absences:                                   -               -   (15)            (15)
+  Beginning Balance at June 30, 2023
+  Additions                                             -               -   84              84
+  Reductions
+  Ending Balance at June 30, 2024                       -               -   1,363           1,363
+
+  Less Due Within One Year                              -               -   94              94
+
+     Total Long-Term Compensated Absences               -               -   -                         -
+
+                                                        -               -   1,457           1,457
+
+                                                        -               -   (667)           (667)
+
+                                                        -               -   790             790
+
+                                            (24)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+NOTES TO COMBINED FINANCIAL STATEMENTS
+                           (in thousands)
+                          JUNE 30, 2024
+
+NOTE 11 LONG-TERM OBLIGATIONS (CONTINUED)
+
+                                            Housing            Residential     General Bond     Combined
+                                            Revenue             Revenue           Reserve
+                                             Bonds               Bonds              Fund      $ 2,991,971
+                                                                                                   1,234,738
+Bonds Payable:                              $ 463,126 $ 2,528,845 $                      -          (453,541)
+  Beginning Balance at June 30, 2023
+  Additions                                       85,170       1,149,568                 -             (1,278)
+  Reductions                                                                                       3,771,890
+  Change in Deferred Amounts for                  (42,183)     (411,358)                 -
+     Issuance Premiums                                                                              (318,507)
+  Ending Balance at June 30, 2024                    -         (1,278)                   -
+                                                                                                   3,453,383
+  Less Due Within One Year                  506,113            3,265,777                 -
+
+     Total Long-Term Bonds Payable                (22,739)     (295,768)                 -
+
+Deposits by Borrowers:                            483,374      2,970,009                 -
+  Beginning Balance at June 30, 2023
+  Additions                                       34,414        1,928              98            36,440
+  Reductions                                      16,969          814
+  Ending Balance at June 30, 2024                 (10,485)                         79            17,862
+                                                  40,898       (1,187)
+  Less Due Within One Year                                      1,555              (52)          (11,724)
+
+     Total Long-Term Deposits by Borrowers                                         125           42,578
+
+     Total Long-Term Liabilities                  (8,211)      (840)               (38)          (9,089)
+
+                                                  32,687       715                 87            33,489
+
+                                            $ 516,371 $ 2,972,022 $                961 $ 3,489,354
+
+NOTE 12 INTERFUND ACTIVITY
+
+In accordance with the various bond indentures, net position in each of the Funds are restricted and
+pledged to bondholders. However, restricted assets may be transferred to other Funds, subject to the
+provisions of the respective indentures. Generally, an officer of CDA must authorize such
+withdrawals and a cash flow analysis must demonstrate that sufficient monies remain in the indenture
+to meet the obligations of the Funds in current and future years. A cash flow analysis is not required
+for the General Bond Reserve Fund (GBRF) because there are no bonds outstanding in GBRF as of
+June 30, 2024.
+
+During the year ended June 30, 2024, CDA transferred the following amounts, as permitted, among
+Funds:
+
+                                                            Transfers Among Funds
+
+                                                  Housing      Residential General Bond
+
+                                                  Revenue      Revenue             Reserve
+
+                                                  Bonds        Bonds               Fund          Combined
+
+Excess Revenue Transferred to the           $ (1,000) $ (8,000) $ 9,000                       $            -
+  General Bond Reserve Fund
+                                                            -               -            264     264
+Administrative Fees on Mortgage
+ Loans Transferred from Multi-Family        $ (1,000) $ (8,000) $ 9,264 $                        264
+ Mortgage Revenue Bonds
+     Transfers of Funds, Net, as Permitted
+       by the Various Bond Indentures
+
+                                            (25)
+        COMMUNITY DEVELOPMENT ADMINISTRATION
+                     REVENUE OBLIGATION FUNDS
+
+        NOTES TO COMBINED FINANCIAL STATEMENTS
+                                   (in thousands)
+                                  JUNE 30, 2024
+
+NOTE 13 OTHER OUTSTANDING BONDS AND NOTES ISSUED BY CDA (CONDUIT BONDS AND
+              NOTES)
+
+CDA has issued the following bonds and notes that are not included in the Combined Financial
+Statements of the Funds. The Multi-Family Development Revenue Bonds and each Multi-Family
+Note (Freddie Mac Tax-Exempt Loan) are secured solely by the properties and related revenues of the
+projects and the applicable credit enhancements. Neither the faith and credit of CDA nor the assets of
+the Funds have been pledged as security for these bonds and notes. Accordingly, these obligations are
+excluded from CDA's Combined Financial Statements.
+
+Multi-Family Development Revenue Bonds                 Amount   Outstanding at
+                                                        Issued  June 30, 2024
+
+Series  2006A (BARCLAY GREENMOUNT APARTMENTS)       $  4,535    $  2,375
+Series  2007A (BRUNSWICK HOUSE APARTMENTS)
+Series  2007B (PARKVIEW AT CATONSVILLE)                3,000       1,765
+Series  2008B (SHAKESPEARE PARK APARTMENTS)
+Series  2008C (THE RESIDENCES AT ELLICOTT GARDENS)     5,200       4,650
+Series  2008D (CRUSADER ARMS APARTMENTS)
+Series  2008E (MONTE VERDE APARTMENTS)                 7,200       7,200
+Series  2008G (KIRKWOOD HOUSE APARTMENTS)
+Series  2012A (PARKVIEW AT BLADENSBURG)                9,105       6,175
+Series  2013G (GLEN MANOR APARTMENTS)
+Series  2014I (MARLBOROUGH APARTMENTS)                 3,885       2,660
+Series  2015D (CUMBERLAND ARMS APARTMENTS)
+Series  2017G (BOLTON NORTH)                           15,200      13,015
+Series  2021C-1 (PV AT ELLICOTT CITY II)
+Series  2021D-1 (PV AT FURNACE BRANCH)                 16,000      16,000
+Series  2021E-1 (PV AT SNOWDEN RIVER)
+Series  2021F (HOMES AT OXON HILL)                     3,500       2,555
+Series  2022B-1 (WEINBERG PLACE APARTMENTS)
+Series  2022B-2 (WEINBERG PLACE APARTMENTS)            13,640      10,830
+Series  2022D (SOUTH STREET SENIOR)
+Series  2022E-1 (ROSLYN RISE)                          27,590      20,695
+Series  2022E-2 (ROSLYN RISE)
+Series  2022F (THE CASCADES OF FREDERICK)              6,315       3,175
+Series  2022G (ADMIRAL'S LANDING 4)
+Series  2022H (WILLOW MANOR AT CABIN BRANCH)           25,200      22,315
+Series  2022I (ROSEMONT)
+Series  2023A (UPLANDS RENTAL PHASE IIA)               7,115       6,901
+Series  2023B (MORRIS H. BLUM SENIOR APARTMENTS)
+Series  2023C (PARK HEIGHTS SENIOR)                    9,505       9,219
+Series  2023D (WAKEFIELD TERRACE)
+Series  2024A (GREENMOUNT PARK APARTMENTS)             7,750       7,517
+
+                                                       24,660      24,660
+
+                                                       18,790      18,790
+
+                                                       12,570      12,570
+
+                                                       16,000      16,000
+
+                                                       14,975      14,975
+
+                                                       975         975
+
+                                                       18,970      18,970
+
+                                                       7,000       7,000
+
+                                                       17,545      17,545
+
+                                                       21,325      21,325
+
+                                                       13,445      13,445
+
+                                                       27,950      27,950
+
+                                                       24,880      24,880
+
+                                                       39,565      39,565
+
+                                                       26,500      26,500
+
+                                        (26)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+NOTES TO COMBINED FINANCIAL STATEMENTS
+                           (in thousands)
+                          JUNE 30, 2024
+
+NOTE 13 OTHER OUTSTANDING BONDS AND NOTES ISSUED BY CDA (CONDUIT BONDS AND
+              NOTES) (CONTINUED)
+
+Multi-Family Notes                          Amount      Outstanding at
+                                          of Note at    June 30, 2024
+VICTORY CROSSING - 2016                  June 30, 2024
+RIVIERA APARTMENTS - 2017
+MOMENTUM AT SHADY GROVE METRO - 2018     $  7,675       $  7,206
+VICTORY HAVEN - 2018
+J.VAN STORY BRANCH APARTMENTS - 2018        2,430          2,287
+SILVER SPRING ARTSPACE LOFTS - 2019
+GREENMOUNT AND CHASE - 2019                 12,900         12,700
+GLENARDEN HILLS 2 - 2019
+OX FIBRE APARTMENTS - 2020                  6,080          6,020
+WINDSOR AND MAIN - 2020
+HOLLANDER RIDGE - 2020                      18,604         18,125
+KNOWLES MANOR - 2020
+SUITLAND - 2020                             8,100          7,866
+SNOWDEN'S RIDGE APARTMENTS - 2020
+NEWTOWNE 20 - 2020                          1,790          1,747
+RYE STREET APARTMENTS - 2020
+HILLBROOKE TOWERS - 2021                    5,562          5,421
+525 AISQUITH APARTMENTS - 2021
+420 AISQUITH APARTMENTS - 2021              11,030         10,775
+HILLWOOD MANOR - 2021
+SANDY SPRING SR.VILLAGE - 2022              5,500          5,383
+WOODLAND GARDENS II - 2022
+ST.ANNE'S SENIOR APARTMENTS - 2022          6,850          6,709
+FREDERICK ROAD SENIOR APARTMENTS - 2022
+RESIDENCES AT SPRINGBROOK -2022             13,975         13,846
+PERKINS PHASE I - 2022
+HIGHLANDTOWN PLAZA CO-OP - 2022             19,100         18,865
+GUARDIAN HOUSE - 2022
+COLD SPRING LANE - 2022                     21,100         20,221
+4010 RANDOLPH ROAD - 2022
+AUTUMN WOODS - 2022                         9,350          9,264
+GLENARDEN HILLS PHASE 3 - 2022
+PERKINS PHASE II B - 2022                   73,500         73,500
+RESIDENCES AT FOREST GLEN 4 - 2023
+CHARLES LANDING - 2023                      6,772          6,718
+WILLOWS AT SALISBURY - 2023
+BON SECOURTS APARTMENTS - 2023              22,000         22,000
+HILL HOUSE AT BEECHFIELD - 2023
+NORTH FREDERICK APARTMENTS - 2023           15,000         14,812
+PARK MONTGOMERY APARTMENTS - 2023
+SLIGO APARTMENTS 4 - 2023                   18,705         18,705
+FLATS AT COLLEGE PARK - 2023
+NORTH ODENTON - 2023                        12,230         11,903
+PERKINS HOMES PHASE III - 2023
+OVERLOOK EAST - 2024                        1,085          1,085
+FOXWELL MEMORIAL - 2024
+RESIDENCES AT IRVINGTON WOODS - 2024        13,550         9,803
+
+                                            20,000         20,000
+
+                                            14,000         13,737
+
+                                            20,200         18,916
+
+                                            7,830          7,830
+
+                                            11,950         9,033
+
+                                            14,080         13,594
+
+                                            41,555         21,965
+
+                                            61,330         61,330
+
+                                            21,150         14,407
+
+                                            16,350         6,419
+
+                                            33,790         6,479
+
+                                            9,050          8,873
+
+                                            8,310          4,128
+
+                                            10,260         6,200
+
+                                            28,275         12,530
+
+                                            17,280         3,894
+
+                                            30,350         17,846
+
+                                            14,160         2,307
+
+                                            65,500         7,223
+
+                                            14,815         4,240
+
+                                            32,400         51
+
+                                            15,940         3,765
+
+                                            16,530         2,901
+
+                                            11,500         4,327
+
+(27)
+                                 COMMUNITY DEVELOPMENT ADMINISTRATION
+                                              REVENUE OBLIGATION FUNDS
+
+                                 NOTES TO COMBINED FINANCIAL STATEMENTS
+                                                            (in thousands)
+                                                           JUNE 30, 2024
+
+NOTE 13 OTHER OUTSTANDING BONDS AND NOTES ISSUED BY CDA (CONDUIT BONDS AND
+              NOTES) (CONTINUED)
+
+              The Multi-Family Development Revenue Bonds and each Multi-Family Note (Freddie Mac Tax-
+              Exempt Loan) are special obligations payable solely from the trust estate pledged under each trust
+              agreement. These bonds and notes do not constitute a debt of and are not guaranteed by the State of
+              Maryland, any political subdivision thereof, CDA, or the Department of Housing and Community
+              Development.
+
+NOTE 14 MORTGAGE INSURANCE
+
+              Substantially all the Funds' mortgage loans have mortgage insurance as described in Note 4.
+
+              Multi-family mortgagors pay premiums for mortgage insurance and insurance coverage is 100% of
+              the unpaid principal balance of the loan.
+
+              For the single-family loan portfolio, approximately 46% of the outstanding loan amounts are insured
+              by agencies of the U.S. Government in an amount substantially equal to the unpaid principal amount
+              of the loan. Approximately 48% of the outstanding loan amounts have primary mortgage insurance in
+              an amount that is at least 25% of the loan amount. Approximately 6% of the outstanding loan
+              amounts of the first lien loans either did not have primary mortgage insurance due to their original
+              loan-to-value ratios of less than 80% or have cancelled primary mortgage insurance due to their
+              outstanding balance falling below 80% of the original loan amount.
+
+              Approximately 48% of outstanding loan amounts are insured by private mortgage insurers and MHF.
+              Approximately 99% of the outstanding loan amounts insured by private mortgage insurers and MHF
+              are covered at 35% of the loan amount, while 1% of the outstanding loan amounts are covered at
+              25%. There are two private mortgage insurers who, due to financial constraints or receivership, are
+              currently paying to CDA approximately three quarters of the amount determined to be due. These two
+              private mortgage insurers represent approximately 2% of the outstanding loan amounts insured by
+              private mortgage insurers and MHF.
+
+              An allowance for loan losses has been established for all the loans insured by FHA, VA, USDA RD,
+              MHF and private mortgage insurers.
+
+              Mortgage insurance premiums are paid by single family mortgagors.
+
+NOTE 15 PENSION AND OTHER POST-RETIREMENT BENEFITS
+
+              Eligible employees of CDA and employees of the State of Maryland are covered under the retirement
+              plans of the State Retirement and Pension System of Maryland (the System) and are also entitled to
+              certain healthcare benefits upon retirement. CDA's only obligation for retirement and post-
+              employment benefits is its required annual contribution, which was paid in full by CDA to the State
+              of Maryland prior to year-end. The liability for the employees is recorded by the general fund of the
+              State of Maryland and is not allocated to CDA. The System prepares a separate audited
+              Comprehensive Annual Financial Report which can be obtained from the State Retirement and
+              Pension System of Maryland, 120 East Baltimore Street, Baltimore, Maryland 21202 or by visiting
+              the website at www.sra.maryland.gov.
+
+                                                                                  (28)
+COMMUNITY DEVELOPMENT ADMINISTRATION
+             REVENUE OBLIGATION FUNDS
+
+NOTES TO COMBINED FINANCIAL STATEMENTS
+                           (in thousands)
+                          JUNE 30, 2024
+
+NOTE 16 SUBSEQUENT EVENTS
+
+CDA has identified the following activity that occurred subsequent to June 30, 2024:
+
+� On July 10, 2024, CDA issued $40,890 of Series 2024 B and $1,565 of Series 2024 C
+    Housing Revenue Bonds.
+
+� On September 17, 2024, CDA issued $58,205 of Series 2024 D Housing Revenue Bonds.
+� On August 28, 2024, CDA issued Residential Revenue Bonds 2024 Series CD in the amount
+
+    of $147,375.
+
+� On August 29, 2024, CDA redeemed the following Residential Revenue Bonds:
+
+2006 Series G                      $850
+2006 Series J                      $845
+2012 Series B                      $120
+2014 Series B                      $500
+2014 Series C                      $190
+2014 Series D                      $250
+2014 Series E                      $375
+2015 Series A                      $245
+2015 Series B                    $1,085
+2016 Series A                    $1,500
+2017 Series A                    $2,000
+2018 Series A                    $1,410
+2018 Series B                      $850
+2019 Series B                      $935
+2019 Series C                    $6,590
+2019 Series D                      $345
+2020 Series A                    $2,085
+2020 Series D                    $3,970
+2021 Series A                    $5,750
+2021 Series B                    $4,550
+2021 Series C                    $4,930
+2022 Series A                    $3,060
+2022 Series C                    $5,100
+2022 Series D                    $1,555
+2023 Series A                      $720
+2023 Series B                    $4,560
+2023 Series C                      $100
+2023 Series D                    $4,295
+2023 Series E                      $650
+2023 Series F                    $1,860
+
+                           (29)
+                COMMUNITY DEVELOPMENT ADMINISTRATION
+                             REVENUE OBLIGATION FUNDS
+
+         SUPPLEMENTAL DISCLOSURE OF COMBINED CHANGES IN
+FAIR VALUE OF INVESTMENTS AND MORTGAGE-BACKED SECURITIES
+
+                                           (in thousands)
+                                           JUNE 30, 2024
+
+In accordance with accounting guidance issued by GASB, CDA reflects investments and mortgage-backed
+securities at fair value, and the increase or decrease in fair value is included in the Combined Statement of
+Revenue, Expenses, and Changes in Net Position.
+
+For investments held by the Funds as of June 30, 2024, the following schedule summarizes annual
+increases/decreases in fair value and the cumulative difference between fair value and amortized cost:
+
+                               Housing              Residential        General Bond
+
+                               Revenue              Revenue            Reserve
+
+Fiscal Year Ended June 30,     Bonds                Bonds              Fund              Combined
+  1996 and Prior Periods
+             1997           $           -     $                  -  $           620   $  620
+             1998
+             1999                     (352)                      -              175      (177)
+             2000
+             2001                       832                      -              90       922
+             2002
+             2003                     (407)                      -           (191)       (598)
+             2004
+             2005                       48                 (227)             (237)       (416)
+             2006
+             2007                       193                551                  244      988
+             2008
+             2009                       157                  97                 405      659
+             2010
+             2011                       889                544                  519      1,952
+             2012
+             2013                     (678)                (674)       (1,368)           (2,720)
+             2014
+             2015                       897                403               (403)       897
+             2016
+             2017                     (866)         (1,567)                  (526)       (2,959)
+             2018
+             2019                       48          1,062                       437      1,547
+             2020
+             2021                       444                785                  445      1,674
+             2022
+             2023                       202                  46              (150)                 98
+             2024
+      Cumulative Total                  472         2,747                       (53)     3,166
+
+                                      (280)         (2,244)            1,898             (626)
+
+                               1,283                1,374                       449      3,106
+
+                                      (730)                (855)             (539)       (2,124)
+
+                                        (27)               243               (287)       (71)
+
+                                        36                   43              (271)       (192)
+
+                                        409                445               (180)       674
+
+                                      (666)                (646)             (403)       (1,715)
+
+                                      (454)                (866)             (268)       (1,588)
+
+                                        276                768                  (14)     1,030
+
+                                        330                532                  (23)     839
+
+                                      (493)                (460)             (139)       (1,092)
+
+                                      (852)         (3,527)                  (174)       (4,553)
+
+                                      (378)                (660)                (52)     (1,090)
+
+                                        (57)        2,234                    (280)       1,897
+
+                            $           276   $            148      $        (276)    $  148
+
+                                              (30)
+                           COMMUNITY DEVELOPMENT ADMINISTRATION
+                                        REVENUE OBLIGATION FUNDS
+
+                   SUPPLEMENTAL DISCLOSURE OF COMBINED CHANGES IN
+FAIR VALUE OF INVESTMENTS AND MORTGAGE-BACKED SECURITIES (CONTINUED)
+
+                                                      (in thousands)
+                                                      JUNE 30, 2024
+
+For mortgage-backed securities held by the Funds as of June 30, 2024, the following schedule summarizes annual
+increases/decreases in fair value and the cumulative difference between fair value and cost:
+
+                               Housing                Residential
+
+                               Revenue                Revenue
+
+Fiscal Year Ended June 30,           Bonds            Bonds              Combined
+             2000
+             2001           $        (3,825)       $               -  $  (3,825)
+             2002
+             2003                    (3,291)                       -     (3,291)
+             2004
+             2005                    3,340                         -     3,340
+             2006
+             2007                    21,435                        -     21,435
+             2008
+             2009                    (11,126)                      -     (11,126)
+             2010
+             2011                    12,879                        -     12,879
+             2012
+             2013                    (27,704)                      -     (27,704)
+             2014
+             2015                    3,661                         -     3,661
+             2016
+             2017                    (5,987)                       -     (5,987)
+             2018
+             2019                    17,358                        -     17,358
+             2020
+             2021                    13,103                        -     13,103
+             2022
+             2023                    (7,348)                 (585)       (7,933)
+             2024
+                                     6,303            1,858              8,161
+      Cumulative Total
+                                     (8,491)          (5,593)            (14,084)
+
+                                     (5,694)          3,127              (2,567)
+
+                                     (1,650)                 503         (1,147)
+
+                                     2,232            4,216              6,448
+
+                                     (2,551)          (3,294)            (5,845)
+
+                                     (1,920)          (4,093)            (6,013)
+
+                                            (705)     23,239             22,534
+
+                                            (33)      50,845             50,812
+
+                                            634       (14,252)           (13,618)
+
+                                            (723)     (115,172)          (115,895)
+
+                                     (1,165)          (50,159)           (51,324)
+
+                                            (75)      (13,072)           (13,147)
+
+                            $        (1,343)       $ (122,432)        $ (123,775)
+
+                               (31)
+

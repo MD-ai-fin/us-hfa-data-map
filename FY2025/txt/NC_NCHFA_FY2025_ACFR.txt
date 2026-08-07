@@ -1,0 +1,1842 @@
+Audited Financial Statements
+June 30, 2025
+NORTH CAROLINA HOUSING FINANCE AGENCY
+FINANCIAL STATEMENTS AND SUPPLEMENTARY INFORMATION
+FOR THE YEAR ENDED JUNE 30, 2025
+TABLE OF CONTENTS
+Management's Discussion and Analysis (Unaudited)..................................................................3 - 10
+FINANCIAL STATEMENTS
+Independent Auditor’s Report ...................................................................................................11 - 13
+Statement of Net Position ................................................................................................................14
+Statement of Revenues, Expenses and Changes in Net Position .....................................................15
+Statement of Cash Flows.................................................................................................................16
+Notes to Financial Statements ..................................................................................................17 - 41
+SUPPLEMENTARY INFORMATION
+Independent Auditor’s Report on Supplementary Information.......................................................... 43
+Combining Statement of Net Position...............................................................................................44
+Combining Statement of Revenues, Expenses and Changes in Net Position................................... 45
+Combining Statement of Cash Flows ...............................................................................................46
+MANAGEMENT’S DISCUSSION AND ANALYSIS (Unaudited)
+June 30, 2025
+The management’s discussion and analysis of the North Carolina Housing Finance Agency’s financial
+performance provides an overview of its financial activities for the fiscal year ended June 30, 2025. The financial
+statements, accompanying notes, and supplementary information should be read in conjunction with the
+following discussion.
+Overview
+The North Carolina Housing Finance Agency (Agency) was created in 1973 to provide financing for
+residential housing, both ownership and rental, to North Carolina households with low and moderate incomes.
+The Agency issues bonds and sells mortgage-backed securities (MBS) on the secondary market to finance
+housing throughout the State of North Carolina (State). In addition, the Agency administers the funding for
+Section 8 Project-Based Contract Administration (Section 8 PBCA), the HOME Investment Partnerships
+Program (HOME), the Low-Income Housing Tax Credits (LIHTC), the North Carolina Housing Trust Fund (HTF),
+the Workforce Housing Loan Program (WHLP), the National Housing Trust Fund (NHTF) and other federal and
+state programs. The Agency uses these funds to provide different types of assistance such as down payment
+assistance, low-interest mortgage loans, foreclosure prevention counseling, rent subsidies, and various types
+of rehabilitation of both single and multifamily properties.
+Financial Highlights
+The following information is an analysis of the Agency’s performance for the year ended June 30, 2025,
+compared to the prior fiscal year’s results and activities:
+ Total Assets increased $1,120,905,000, or 30.3%
+ Deferred Outflows of Resources increased $1,454,000, or 14.5%
+ Total Liabilities increased $997,598,000, or 35.1%
+ Deferred Inflows of Resources increased $1,961,000, or 49.7%
+ Total Net Position increased $122,800,000, or 14.3%
+The Agency issued bonds in fiscal year 2025 to finance a portion of its NC Home Advantage Mortgage
+(HomeAd) loans, which were securitized into MBS. The Agency also issued variable rate debt during the fiscal
+year as a component of Series 55 and entered into a new interest rate swap on the associated debt. In
+conjunction with the issuances of Series 55 and 56, the Agency purchased two State and Local Government
+Series investments, one of which matured during the fiscal year. These transactions caused increases in Bonds
+payable, net, Investments, and the other related accounts shown below, with a decrease only in Nonfederal
+program expense due to a reduced volume of new loans with down payment assistance relative to fiscal year
+2024.
+ Bonds payable, net increased $967,712,000, or 35.4%
+ Accrued interest payable increased $20,960,000, or 44.7%
+ Interest on bonds increased $43,102,000, or 55.7%
+ Investments increased $968,092,000, or 43.6%
+ Interest on investments increased $54,974,000, or 41.5%
+ Accrued interest receivable on investments increased $4,530,000, or 39.4%
+ Net increase (decrease) in fair value of investments increased $71,414,000 or 787.5%
+ Hedging derivatives asset increased $3,362,000, or 100.0%
+ Accumulated increase in fair value of hedging derivative increased $3,362,000, or 100.0%
+3
+ Nonfederal program expense decreased $9,521,000, or 11.9%
+In 2013, the Agency shifted from offering mortgages under the FirstHome program, in which the Agency
+owns the mortgage loan, to utilizing the HomeAd program, in which mortgage loans are pooled into MBS. As a
+result, the portfolio of mortgage loans in the FirstHome program continues to decline from repayments, causing
+a decrease in Mortgage loans receivable, net, of $16,086,000, or 5.6%, and Accrued interest receivable on
+mortgage loans of $133,000, or 11.6%. The decrease in Mortgage loans receivable, net, was partially offset by
+an increase in new Carryover Loan Pool loans during the fiscal year.
+During the fiscal year, the Agency was appropriated approximately $59 million in remaining COVID-era
+ERA2 funds that were previously awarded to the North Carolina Pandemic Recovery Office (NCPRO). The
+federal funds were sent to the HTF, which is administered by the Agency. The receipt and disbursement of
+these funds, as well as the winddown of the NC Homeowner Assistance Fund, contributed to the increases and
+decreases in the accounts below:
+ Other assets decreased $2,919,000, or 39.2%
+ Unearned revenues increased $5,727,000, or 22.2%
+ Federal program awards received decreased $42,673,000, or 13.3%
+ Nonfederal program awards received increased $8,935,000, or 100.0%
+ Federal program expense decreased $60,481,000, or 17.9%
+ General and administrative expense decreased $4,412,000, or 12.0%
+While State appropriations received in fiscal year 2025 remained consistent with fiscal year 2024, State
+grants received increased by $12,844,000, or 29.8% due to an increase in the Agency’s contract amounts with
+the NC Department of Health and Human Service (DHHS). State program expense decreased by $68,305,000,
+or 38.7% due to the decrease in WHLP appropriations since fiscal year 2023, resulting in fewer loans disbursed
+in fiscal year 2025.
+The Agency is required to reflect its proportionate share of the State’s pension liability and
+postemployment benefits, which are based on actuarial assumptions. The effect of these transactions is listed
+below:
+ Deferred outflows for pensions decreased $1,459,000, or 23.6%
+ Deferred outflows for other postemployment benefits increased $2,757,000, or 79.6%
+ Pension liability decreased $832,000, or 8.6%
+ Other postemployment benefits increased $4,078,000, or 30.5%
+ Deferred inflows for pensions decreased $45,000, or 63.4%
+ Deferred inflows for other postemployment benefits decreased $1,356,000, or 35.0%
+The net effect of the transactions detailed above, along with regular operations of the Agency, resulted
+in an increase in Total Net Position of $122,800,000, or 14.3%. The primary driver of the change in net position
+is related to increases in investments and related accounts, combined with decreases in federal, nonfederal and
+state program disbursements as described above. The Agency continues to proactively manage its programs
+to further its mission of creating affordable housing for North Carolinians with low and moderate incomes.
+4
+Financial Analysis
+The following tables summarize the changes in net position between June 30, 2025 and June 30, 2024
+(in thousands):
+2025 2024 Change %
+Condensed Statements of Net Position
+Assets*
+Cash and cash equivalents $ 1,330,725 $ 1,157,436 $ 173,289 15.0
+Investments 3,185,956 2,217,864 968,092 43.6
+Accrued interest receivable on investments 16,041 11,511 4,530 39.4
+Mortgage loans receivable, net 271,479 287,565 (16,086) (5.6)
+Mortgage loans held for sale 548 9,656 (9,108) (94.3)
+Hedging derivatives asset 3,362 - 3,362 100.0
+Accrued interest receivable on mortgage loans 1,010 1,143 (133) (11.6)
+State receivables 821 159 662 416.4
+Capital assets, net 1,478 2,262 (784) (34.7)
+Other assets, net 4,530 7,449 (2,919) (39.2)
+Total Assets $ 4,815,950 $ 3,695,045 $ 1,120,905 30.3
+Deferred Outflows of Resources
+Deferred outflows for pensions $ 4,716 $ 6,175 $ (1,459) (23.6)
+Deferred outflows for other postemployment benefits 6,220 3,463 2,757 79.6
+Accumulated decrease in fair value of hedging derivative 547 391 156 39.9
+Total Deferred Outflows of Resources $ 11,483 $ 10,029 $ 1,454 14.5
+Liabilities*
+Bonds payable, net $ 3,703,161 $ 2,735,449 $ 967,712 35.4
+Accrued interest payable 67,890 46,930 20,960 44.7
+Accounts payable 3,286 3,747 (461) (12.3)
+Hedging derivatives liability 547 391 156 39.9
+Unearned revenues 31,470 25,743 5,727 22.2
+Pension liability 8,828 9,660 (832) (8.6)
+Other postemployment benefits 17,443 13,365 4,078 30.5
+Lease liabilities 1,438 2,113 (675) (31.9)
+Other liabilities 7,672 6,739 933 13.8
+Total Liabilities $ 3,841,735 $ 2,844,137 $ 997,598 35.1
+Deferred Inflows of Resources
+Deferred inflows for pensions $ 26 $ 71 $ (45) (63.4)
+Deferred inflows for other postemployment benefits 2,517 3,873 (1,356) (35.0)
+Accumulated increase in fair value of hedging derivative 3,362 - 3,362 100.0
+Total Deferred Inflows of Resources $ 5,905 $ 3,944 $ 1,961 49.7
+Net Position
+Net investment in capital assets $ 1,478 $ 2,262 $ (784) (34.7)
+Restricted net position 795,098 694,798 100,300 14.4
+Unrestricted net position 183,217 159,933 23,284 14.6
+Total Net Position $ 979,793 $ 856,993 $ 122,800 14.3
+*For information on current and noncurrent statement of net position items, please see the audited
+Statement of Net Position in the accompanying financial statements.
+5
+Condensed Statements of Revenues, Expenses
+and Changes in Net Position 2025 2024 Change %
+Operating Revenues
+Interest on investments $ 187,306 $ 132,332 $ 54,974 41.5
+Net increase (decrease) in fair value of investments 62,345 (9,069) 71,414 787.5
+Interest on mortgage loans 11,648 13,396 (1,748) (13.0)
+Federal program awards received 277,714 320,387 (42,673) (13.3)
+Nonfederal program awards received 8,935 - 8,935 100.0
+Program income/fees 73,922 73,740 182 0.2
+Other revenues 281 1 280 28,000.0
+Total Operating Revenues $ 622,151 $ 530,787 $ 91,364 17.2
+Operating Expenses
+Interest on bonds $ 120,541 $ 77,439 $ 43,102 55.7
+Lease interest expense 40 38 2 5.3
+Mortgage servicing expense 618 716 (98) (13.7)
+Federal program expense 277,279 337,760 (60,481) (17.9)
+Nonfederal program expense 70,380 79,901 (9,521) (11.9)
+General and administrative expense 32,419 36,831 (4,412) (12.0)
+Other expenses 1,366 441 925 209.8
+Total Operating Expenses $ 502,643 $ 533,126 $ (30,483) (5.7)
+Operating Income (Loss) $ 119,508 $ (2,339) $ 121,847 5,209.4
+Non-Operating Revenues (Expenses)
+State appropriations received $ 55,660 $ 55,660 $ - 0.0
+State grants received 55,999 43,155 12,844 29.8
+Noncapital contributions 6 18 (12) (66.7)
+State program expense (108,373) (176,678) 68,305 (38.7)
+Total Non-Operating Revenues (Expenses) $ 3,292 $ (77,845) $ 81,137 104.2
+Change in Net Position $ 122,800 $ (80,184) $ 202,984 253.1
+Total Net Position - Beginning $ 856,993 $ 937,177 $ (80,184) (8.6)
+Total Net Position - Ending $ 979,793 $ 856,993 $ 122,800 14.3
+New Business
+The state’s biennium budget for fiscal years 2024 and 2025 was approved on October 3, 2023 and
+included recurring appropriations for the Agency of $7.66 million for HTF and $3 million for HOME Match, along
+with non-recurring appropriations for both fiscal years of $35 million for WHLP, and an additional $10 million for
+HTF to provide housing for homeless veterans and victims of domestic violence, sexual assault, and human
+trafficking.
+The US Department of Treasury established the ERA2 program to provide financial support to deliver
+housing stability for eligible renters throughout the COVID-19 pandemic. ERA2 was funded through the
+American Rescue Plan Act of 2021 and offered financial assistance and housing stability services, and to cover
+costs for other affordable rental housing and eviction prevention activities. The NC Office of State Budget and
+Management designated NCPRO to accept and administer funds. During fiscal year 2025, approximately $59
+million of remaining ERA2 funds were appropriated to the HTF administered by the Agency, who began
+disbursing funds during the year.
+Debt Administration
+The Agency issued taxable and tax-exempt bonds in fiscal year 2025 to finance a portion of its HomeAd
+production. The Series 55 tax-exempt bond issuance closed in October 2024 for a total of $500,000,000 par
+plus a net premium of $11,832,000. The issuance included a $200,000,000 convertible option bond with a
+6
+mandatory tender in January 2026 and $80,000,000 of variable rate debt. The Series 56 tax-exempt bond
+issuance also closed in October 2024 for $60,000,000. This series was issued as a convertible option bond with
+a mandatory tender in July 2025. The bonds were called in April 2025. The Series 57 bond issuance closed in
+February 2025 for a total of $299,000,000 par plus a premium of $12,155,000. The issuance contained a tax-
+exempt amount of $92,500,000, and a taxable amount of $206,500,000. The Series 58 bond issuance closed
+in June 2025 for a total of $299,000,000 par plus a premium of $11,121,000. The issuance contained a tax-
+exempt amount of $92,445,000, and a taxable amount of $206,555,000. Proceeds have been used to finance
+production of both the Agency’s first mortgage purchases and the NC 1st Home Advantage Down Payment
+Assistance.
+In fiscal year 2025, the Agency had biannual debt service payments totaling $211,890,000. In
+conjunction with the October 2024 issuance of Series 55 bonds, the Agency entered into a new interest rate
+swap for $80,000,000 to hedge its variable rate debt issued at that time. Detailed information concerning the
+swap is discussed in Note E, “Derivative Instrument – Interest Rate Swap.”
+The Agency issued conduit multifamily mortgage revenue bonds of $15,200,000 in August 2024 for the
+acquisition and renovation of 14 affordable apartment properties in rural communities across North Carolina.
+These bonds are limited obligations of the Agency, secured solely by the revenues and other assets pledged for their
+payment.
+Programs and Activities
+The Agency’s mission is to provide safe, affordable housing opportunities to enhance the quality of life of
+North Carolinians. The Agency focuses its efforts on providing assistance to borrowers purchasing a home,
+financing affordable rental housing, and helping homeowners who are facing foreclosure or living in substandard
+housing.
+For the year ended June 30, 2025, the Agency recorded expenditures of $298,656,000 in federal funds
+for the following programs:
+ Carryover Loan Program (COLP)
+ Community Partners Loan Pool (CPLP)
+ Essential Single-Family Rehabilitation Loan Pool (ESFRLP)
+ Rental Production Program (RPP)
+ Rental Production Program – Disaster Recovery (RPP-DR)
+ Section 8 Project-Based Contract Administration (Section 8 PBCA)
+ Self-Help Loan Pool (SHLP)
+For the year ended June 30, 2025, the Agency recorded expenditures of $108,319,000 in State funds
+for the following programs:
+ Community Partners Loan Pool (CPLP)
+ Displacement Prevention Partnership (DPP)
+ Essential Single-Family Rehabilitation Loan Pool – Disaster Recovery (ESFRLP-DR)
+ Housing Services (HS)
+ Key Rental Assistance (Key)
+ Rental Production Program (RPP)
+ Supportive Housing Development Program (SHDP)
+ Transitions to Community Living Voucher (TCLV)
+ Urgent Repair Program (URP)
+ Workforce Housing Loan Program (WHLP)
+7
+For the year ended June 30, 2025, the Agency recorded expenditures of $1,306,545,000 from other
+funding sources for the following programs:
+ Carryover Loan Program (COLP)
+ Community Partners Loan Pool (CPLP)
+ Construction Training Partnership (CTP)
+ Essential Single-Family Rehabilitation Loan Pool (ESFRLP)
+ NC Home Advantage Mortgage (HomeAd)
+ NC 1st Home Advantage Down Payment Assistance (1st Home DPA)
+ Rental Production Program (RPP)
+ State Home Foreclosure Prevention Project (SHFPP)
+ Urgent Repair Program (URP)
+For the year ended June 30, 2025, the Agency made awards of $368,007,000 for the following programs:
+ Low-Income Housing Tax Credit (LIHTC)
+ NC Home Advantage Tax Credit (MCC)
+ NC Home Advantage Mortgage (HomeAd)
+All major programs for which the Agency recorded expenditures or made awards in the year ended June
+30, 2025 are described in the section below:
+Home Ownership Programs The Agency offers low-cost mortgages, down payment assistance and
+mortgage credit certificates (MCCs) for qualified buyers through the following programs:
+ Community Partners Loan Pool provides down payment assistance to qualifying homebuyers purchasing
+a home through local governments and nonprofits. Homebuyers are offered interest-free, deferred
+second mortgages up to 25% of the purchase price when combined with a HomeAd mortgage or up to
+10% when combined with a USDA Section 502 loan.
+ NC Home Advantage Mortgage provides affordable mortgage options and forgivable down payment
+assistance to first-time and move-up homebuyers. Borrowers are offered 30-year fixed rate mortgages
+and 15-year deferred, forgivable second mortgages of 3% of the first mortgage amount.
+ NC 1st Home Advantage Down Payment Assistance program provides another down payment assistance
+option for qualifying veterans and first-time homebuyers. This comes in the form of a $15,000 deferred
+forgivable 15-year second mortgage.
+ NC Home Advantage Tax Credit helps qualifying veterans and first-time homebuyers increase their
+mortgage affordability by providing MCCs. MCCs are federal tax credits that reduce tax liability annually
+by up to 30% of mortgage interest for existing homes or up to 50% for new construction, each with a
+maximum credit of $2,000 annually.
+ Self-Help Loan Pool provides affordable mortgage assistance to qualified homebuyers purchasing
+homes through nonprofit Self-Help Housing loan pool members. Homebuyers are offered interest-free
+amortizing loans in combination with SHLP nonprofit member financing.
+Housing Preservation Programs The Agency partners with local governments, nonprofits and regional
+councils to finance the rehabilitation of substandard owner-occupied homes to prevent displacement through
+the following programs:
+ Displacement Prevention Partnership offers interest-free, deferred, forgiven loans through the North
+Carolina Division of Vocational Rehabilitation and Independent Living Offices to repair or improve home
+accessibility for qualifying homeowners with mobility issues. Homeowners who are disabled earning up
+8
+to 50% of area median income are eligible for these loans.
+ Essential Single-Family Rehabilitation Loan Pool provides essential and critical home rehabilitation for
+qualifying homeowners. Funds are provided to partners in the form of interest-free, deferred, forgiven
+loans. The program benefits homeowners earning up to 80% of area median income with full-time
+household members who are elderly, disabled, qualified veterans and/or children under the age of six
+years old frequently present in a home with lead hazards.
+ Essential Single-Family Rehabilitation Loan Pool – Disaster Recovery program provides interest-free,
+deferred, forgiven loans to eligible homeowners to provide essential rehabilitations in response to
+damage from Hurricane Matthew and Tropical Storms Julia and Hermine. Homeowners earning up to
+100% of area median income whose homes were affected by these storms in the counties listed in the
+Disaster Recovery Act of 2016 are eligible for loans for rehabilitation.
+ Urgent Repair Program provides interest-free, deferred, forgiven loans to assist qualifying homeowners
+with emergency repairs and modifications that address imminent threats to health or safety.
+Homeowners who are elderly, special needs, veterans or disabled earning up to 50% of area median
+income are eligible.
+Foreclosure Prevention Programs The Agency provides foreclosure prevention services in partnership
+with housing counseling organizations approved by the US Department of Housing and Urban Development
+(HUD) through various programs, including the following:
+ State Home Foreclosure Prevention Project provides free housing counseling and legal assistance to
+homeowners facing foreclosure. These services are funded through foreclosure filing fees, which are
+paid by servicers of North Carolina home loans.
+Rental Development Programs The Agency finances affordable homes and apartments developed by
+local governments, nonprofits and private developers through various programs, including the following:
+ Carryover Loan Program provides financing for the acquisition of land for 9% new construction tax credit
+properties.
+ Low-Income Housing Tax Credit provides eligible rental developers with financing necessary to develop
+and substantially rehabilitate affordable rental housing in the State. The tax credit reduces the investors’
+federal tax liability by up to 9% of the eligible project cost each year for 10 years, and participation in
+the program ensures the creation and/or preservation of affordable rental housing for households
+earning up to 80% of the area median income.
+ Rental Production Program provides long-term financing for tax credit developments. Amortizing or
+deferred loans are available up to 20 years.
+ Rental Production Program – Disaster Recovery provides loans to fund construction of affordable rental
+developments in counties with a federally-declared disaster designation due to Hurricane Florence in
+2018 and Hurricane Matthew in 2016.
+ Workforce Housing Loan Program provides long-term financing for tax credit developments. Assistance
+is available in the form of 30-year balloon loans for a percentage of development costs based on income
+designations for each county.
+Rental Assistance Programs The Agency administers rent assistance contracts for privately owned
+apartments or intermediaries through the following programs:
+ Key Rental Assistance provides rental assistance for low-income persons with disabilities, including
+those experiencing homelessness. The Agency is responsible for executing agreements with property
+owners, reviewing income eligibility documentation at move-in and recertification periods, making rental
+assistance payments to owners and projecting costs of the program. The Agency partners with DHHS
+9
+in administering this program.
+ Section 8 Project-Based Contract Administration rental assistance projects are administered by the
+Agency for certain project-based Section 8 Housing Assistance Payment contracts on behalf of HUD.
+The Agency partners with NC Quadel Consulting Corporation to manage the contract administration
+duties.
+ Transition to Community Living Voucher was established to create an efficient and effective state
+housing administration system to allow people with certain disabilities to successfully live in the
+communities of their choice. The Agency supports Local Management Entities/Managed Care
+Organizations in administering vouchers through the development and maintenance of a secure
+electronic funds management and document collection system, reviewing payment requests for
+compliance and disbursing funds accordingly. The Agency partners with DHHS in administering this
+program.
+Supportive Housing Programs The Agency finances the development of supportive housing for North
+Carolinians through its partners across the State:
+ Supportive Housing Development Program provides amortizing or deferred loans to local governments,
+nonprofits and regional councils to finance the production of emergency and permanent supportive
+housing. This program benefits people earning up to 50% of the area median income who have
+supportive housing needs or are experiencing homelessness.
+Additional Information
+This discussion and analysis is intended to provide additional information regarding the activities of the
+North Carolina Housing Finance Agency. If you have questions about the report or need additional financial
+information, contact Brett Warner, Chief Financial Officer, North Carolina Housing Finance Agency, 3508 Bush
+Street, Raleigh, North Carolina 27609, (919) 981-2519, bawarner@nchfa.com, or visit the Agency’s website at
+www.nchfa.com.
+10
+Tel: 919-754-9370 421 Fayetteville Street
+Fax: 919-754-9369 Suite 300
+www.bdo.com Raleigh, NC 27601
+BDO USA, P.C., a Virginia professional corporation, is the U.S. member of BDO International Limited, a UK company limited by guarantee, and forms part of the
+Independent Auditor’s Report
+The Board of Directors
+North Carolina Housing Finance Agency
+Report on the Audit of the Financial Statements
+Opinions
+We have audited the financial statements of the business-type activities of the North Carolina
+Housing Finance Agency (the Agency), a public agency component unit of the State of North
+Carolina, as of and for the year ended June 30, 2025, and the related notes to the financial
+statements, which collectively comprise the Agency’s basic financial statements as listed in the
+table of contents.
+In our opinion, the accompanying financial statements referred to above present fairly, in all
+material respects, the respective financial position of the business-type activities of the Agency, as
+of June 30, 2025, and the respective changes in financial position and cash flows thereof for the
+year then ended in accordance with accounting principles generally accepted in the United States
+of America.
+Basis for Opinions
+We conducted our audit in accordance with auditing standards generally accepted in the United
+States of America (GAAS) and the standards applicable to financial audits contained in Government
+Auditing Standards issued by the Comptroller General of the United States. Our responsibilities
+under those standards are further described in the Auditor’s Responsibilities for the Audit of the
+Financial Statements section of our report. We are required to be independent of the Agency and
+to meet our other ethical responsibilities, in accordance with the relevant ethical requirements
+relating to our audit. We believe that the audit evidence we have obtained is sufficient and
+appropriate to provide a basis for our audit opinions.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation and fair presentation of the financial statements in
+accordance with accounting principles generally accepted in the United States of America, and for
+the design, implementation, and maintenance of internal control relevant to the preparation and
+fair presentation of financial statements that are free from material misstatement, whether due to
+fraud or error.
+In preparing the financial statements, management is required to evaluate whether there are
+conditions or events, considered in the aggregate, that raise substantial doubt about the Agency’s
+ability to continue as a going concern for twelve months beyond the financial statement date,
+including any currently known information that may raise substantial doubt shortly thereafter.
+international
+BDO network of independent member firms.
+BDO is the brand name for the BDO network and for each of the BDO Member Firms.
+11
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a
+whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinions. Reasonable assurance is a high level of assurance but is not
+absolute assurance and therefore is not a guarantee that an audit conducted in accordance with
+GAAS and Government Auditing Standards will always detect a material misstatement when it
+exists. The risk of not detecting a material misstatement resulting from fraud is higher than for one
+resulting from error, as fraud may involve collusion, forgery, intentional omissions,
+misrepresentations, or the override of internal control. Misstatements are considered material if
+there is a substantial likelihood that, individually or in the aggregate, they would influence the
+judgment made by a reasonable user based on the financial statements.
+In performing an audit in accordance with GAAS and Government Auditing Standards, we:
+• Exercise professional judgment and maintain professional skepticism throughout the audit.
+• Identify and assess the risks of material misstatement of the financial statements, whether
+due to fraud or error, and design and perform audit procedures responsive to those risks.
+Such procedures include examining, on a test basis, evidence regarding the amounts and
+disclosures in the financial statements.
+• Obtain an understanding of internal control relevant to the audit in order to design audit
+procedures that are appropriate in the circumstances, but not for the purpose of expressing
+an opinion on the effectiveness of the Agency’s internal control. Accordingly, no such
+opinion is expressed.
+• Evaluate the appropriateness of accounting policies used and the reasonableness of
+significant accounting estimates made by management, as well as evaluate the overall
+presentation of the financial statements.
+• Conclude whether, in our judgment, there are conditions or events, considered in the
+aggregate, that raise substantial doubt about the Agency’s ability to continue as a going
+concern for a reasonable period of time.
+We are required to communicate with those charged with governance regarding, among other
+matters, the planned scope and timing of the audit, significant audit findings, and certain internal
+control-related matters that we identified during the audit.
+Required Supplementary Information
+Accounting principles generally accepted in the United States of America require that the
+management discussion and analysis be presented to supplement the basic financial statements.
+Such information is the responsibility of management and, although not a part of the basic financial
+statements, is required by the Governmental Accounting Standards Board who considers it to be an
+essential part of financial reporting for placing the basic financial statements in an appropriate
+operational, economic, or historical context. We have applied certain limited procedures to the
+required supplementary information in accordance with GAAS, which consisted of inquiries of
+management about the methods of preparing the information and comparing the information for
+consistency with management’s responses to our inquiries, the basic financial statements, and other
+knowledge we obtained during our audit of the basic financial statements. We do not express an
+opinion or provide any assurance on the information because the limited procedures do not provide
+us with sufficient evidence to express an opinion or provide any assurance.
+12
+Other Reporting Required by Government Auditing Standards
+In accordance with Government Auditing Standards, we have also issued our report dated
+September 22, 2025 on our consideration of the Agency’s internal control over financial reporting
+and on our tests of its compliance with certain provisions of laws, regulations, contracts, and grant
+agreements and other matters. The purpose of that report is solely to describe the scope of our
+testing of internal control over financial reporting and compliance and the results of that testing,
+and not to provide an opinion on the effectiveness of the Agency’s internal control over financial
+reporting or on compliance. That report is an integral part of an audit performed in accordance with
+Government Auditing Standards in considering the Agency’s internal control over financial reporting
+and compliance.
+September 22, 2025
+13
+NORTH CAROLINA HOUSING FINANCE AGENCY
+STATEMENT OF NET POSITION
+AS OF JUNE 30, 2025
+(in thousands)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 1 93,024
+Restricted cash and cash equivalents 1 ,137,701
+Restricted investments 2 00,599
+Accrued interest receivable on investments 1 6,041
+Mortgage loans receivable, net 5 1,090
+Mortgage loans held for sale 5 48
+Accrued interest receivable on mortgage loans 1,010
+State receivables 821
+Other assets 4 ,513
+TOTAL CURRENT ASSETS $ 1,605,347
+Noncurrent assets:
+Restricted investments $ 2 ,985,357
+Mortgage loans receivable, net 2 20,389
+Hedging derivatives asset 3 ,362
+Capital assets, net 1 ,478
+Other assets, net 1 7
+TOTAL NONCURRENT ASSETS $ 3,210,603
+TOTAL ASSETS $ 4,815,950
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred outflows for pensions $ 4 ,716
+Deferred outflows for other postemployment benefits 6 ,220
+Accumulated decrease in fair value of hedging derivatives 5 47
+TOTAL DEFERRED OUTFLOWS OF RESOURCES $ 11,483
+LIABILITIES
+Current liabilities:
+Bonds payable $ 6 1,895
+Accrued interest payable 6 7,890
+Accounts payable 3 ,286
+Unearned revenues 4 ,877
+Lease liabilities 6 44
+Other liabilities 1 ,486
+TOTAL CURRENT LIABILITIES $ 140,078
+Noncurrent liabilities:
+Bonds payable, net $ 3,641,266
+Hedging derivatives liability 5 47
+Unearned revenues 2 6,593
+Pension liability 8 ,828
+Other postemployment benefits 1 7,443
+Lease liabilities 7 94
+Other liabilities 6 ,186
+TOTAL NONCURRENT LIABILITIES $ 3,701,657
+TOTAL LIABILITIES $ 3,841,735
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflows for pensions $ 2 6
+Deferred inflows for other postemployment benefits 2 ,517
+Accumulated increase in fair value of hedging derivatives 3 ,362
+TOTAL DEFERRED INFLOWS OF RESOURCES $ 5,905
+NET POSITION
+Net investment in capital assets $ 1 ,478
+Restricted net position 7 95,098
+Unrestricted net position 1 83,217
+TOTAL NET POSITION $ 979,793
+The accompanying notes are an integral part of these financial statements.
+14
+NORTH CAROLINA HOUSING FINANCE AGENCY
+STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+YEAR ENDED JUNE 30, 2025
+(in thousands)
+OPERATING REVENUES
+Interest on investments $ 1 87,306
+Net increase (decrease) in fair value of investments 6 2,345
+Interest on mortgage loans 1 1,648
+Federal program awards received 2 77,714
+Nonfederal program awards received 8 ,935
+Program income/fees 7 3,922
+Other revenues 2 81
+TOTAL OPERATING REVENUES $ 6 22,151
+OPERATING EXPENSES
+Interest on bonds $ 1 20,541
+Lease interest expense 4 0
+Mortgage servicing expense 6 18
+Federal program expense 2 77,279
+Nonfederal program expense 7 0,380
+General and administrative expense 3 2,419
+Other expenses 1 ,366
+TOTAL OPERATING EXPENSES $ 5 02,643
+OPERATING INCOME (LOSS) $ 1 19,508
+NON-OPERATING REVENUES (EXPENSES)
+State appropriations received $ 5 5,660
+State grants received 5 5,999
+Noncapital contributions 6
+State program expense ( 108,373)
+TOTAL NON-OPERATING REVENUES (EXPENSES) $ 3,292
+CHANGE IN NET POSITION $ 1 22,800
+TOTAL NET POSITION - BEGINNING $ 8 56,993
+TOTAL NET POSITION - ENDING $ 9 79,793
+The accompanying notes are an integral part of these financial statements.
+15
+NORTH CAROLINA HOUSING FINANCE AGENCY
+STATEMENT OF CASH FLOWS
+YEAR ENDED JUNE 30, 2025
+(in thousands)
+Cash flows from operating activities:
+Interest on mortgage loans $ 1 1,712
+Principal payments on mortgage loans 3 3,487
+Purchase of mortgage loans ( 18,757)
+Sale of mortgage loans held for sale 2 75,323
+Purchase of mortgage loans held for sale ( 266,215)
+Federal program awards received 2 80,525
+Nonfederal program awards received 8 ,935
+Federal program expense ( 276,122)
+Nonfederal program expense ( 70,380)
+Federal grant administration income 9 ,686
+Program income/fees 7 0,181
+Other expenses ( 35,925)
+Other revenues 2 ,387
+Net cash provided by (used in) operating activities $ 24,837
+Cash flows from non-capital financing activities:
+Issuance of bonds $ 1 ,158,000
+Principal repayments on bonds ( 211,890)
+Interest paid on bonds ( 71,158)
+Bond issuance costs paid ( 6,822)
+State appropriations received 5 5,660
+State grants received 5 5,999
+State program expense ( 108,373)
+Noncapital contributions 6
+Net cash provided by (used in) non-capital financing activities $ 871,422
+Cash flows from investing activities:
+Proceeds from sales or maturities of investments $ 3 25,644
+Purchase of investments ( 1,231,390)
+Earnings on investments 1 82,776
+Net cash provided by (used in) investing activities $ (722,970)
+Net increase (decrease) in cash and cash equivalents, unrestricted and restricted $ 1 73,289
+Cash and cash equivalents, unrestricted and restricted, at beginning of year 1 ,157,436
+Cash and cash equivalents, unrestricted and restricted, at end of year $ 1,330,725
+Reconciliation of operating income (loss) to net cash
+provided by (used in) operating activities:
+Operating income (loss) $ 1 19,508
+Adjustments to reconcile operating income (loss) to net cash
+provided by (used in) operating activities:
+Interest on investments ( 187,306)
+Decrease (increase) in fair value of investments ( 62,345)
+Interest on bonds 1 20,541
+Change in operating assets and liabilities:
+Decrease (increase) in mortgage loans receivable 1 6,086
+Decrease (increase) in mortgage loans held for sale 9 ,108
+Decrease (increase) in accrued interest receivable on mortgage loans 1 33
+Decrease (increase) in other assets 2 ,790
+Decrease (increase) in deferred outflows of resources ( 1,454)
+Increase (decrease) in accounts payable and other liabilities 8 8
+Increase (decrease) in deferred inflows of resources 1 ,961
+Increase (decrease) in unearned revenues 5 ,727
+Total adjustments $ (94,671)
+Net cash provided by (used in) operating activities $ 24,837
+The accompanying notes are an integral part of these financial statements.
+16
+NOTES TO FINANCIAL STATEMENTS
+Year Ended June 30, 2025
+A. AUTHORIZING LEGISLATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Authorizing Legislation The North Carolina Housing Finance Agency (Agency) is a public
+agency and component unit of the State of North Carolina (State). The accompanying financial
+statements represent the financial position of the Agency only. The Agency was created to provide
+financing for housing to residents of the State with low and moderate incomes. Pursuant to its enabling
+legislation, the Agency is authorized to issue bonds and other obligations to fulfill its corporate purpose
+up to a total outstanding amount of $12 billion. The debt obligations of the Agency do not constitute a
+debt, grant, or line of credit of the State, and the State is not liable for the repayment of such obligations.
+Basis of Presentation The accompanying financial statements of the Agency have been
+prepared in accordance with generally accepted accounting principles in the United States (GAAP) as
+applicable to governments. The Governmental Accounting Standards Board (GASB) establishes
+standards of financial accounting and reporting for state and local government entities.
+Measurement Focus and Basis of Accounting The accompanying financial statements are
+reported using the economic resources measurement focus and the accrual basis of accounting.
+Revenues are recorded when earned and expenses are recorded at the time liabilities are incurred,
+regardless of the timing of related cash flows.
+Programs The Agency’s accounts are organized on the basis of programs. Each program
+represents a separate accounting entity. Agency resources are allocated to these programs based on
+legal responsibility, fiscal accountability, and management designation. The Agency’s primary programs
+are summarized below:
+Agency Programs Direct administrative and operational activities, including operating expenses
+of various programs, are recorded in Agency Programs. Among the most active programs are the federal
+Low-Income Housing Tax Credit (LIHTC) program and the State Home Foreclosure Prevention Project
+(SHFPP). The Agency administers LIHTC for the State, evaluating applications for the tax credits and
+monitoring the rental properties for the compliance period to ensure that they meet federal program
+requirements, among other responsibilities. The Agency earns fees related to the applications and
+monitoring of LIHTC properties.
+In 2008, the State authorized the formation of SHFPP in response to the foreclosure crisis. State
+statute requires that all parties who wish to initiate a foreclosure against a home in North Carolina remit
+a $75 fee to the Agency. The fees collected are used to counsel and/or provide legal assistance to
+homeowners at risk of foreclosure. Any excess funds are allocated to the North Carolina Housing Trust
+Fund (HTF) annually.
+Housing Trust Fund Programs The North Carolina Housing Trust and Oil Overcharge Act
+created the HTF and the North Carolina Housing Partnership (Housing Partnership). The purpose of
+the HTF is to increase the supply of decent, affordable, and energy-efficient housing for residents of the
+State with low and moderate incomes. The Housing Partnership is responsible for developing policy for
+the operation of several programs within the HTF. The Agency staff provides services to the Housing
+Partnership and administers the HTF programs. State appropriations are reported in Non-Operating
+Revenues (Expenses) in the accompanying financial statements, and include a recurring appropriation
+that is used to make loans and grants under the HTF programs and a nonrecurring appropriation for the
+Workforce Housing Loan Program. The Agency also received nonrecurring appropriations in fiscal year
+17
+2025 to provide housing for homeless veterans and victims of domestic violence, sexual assault, and
+human trafficking.
+The Agency periodically receives funds from the North Carolina Department of Health and
+Human Services (DHHS) for the Community Living Housing Fund when unspent Transition to
+Community Living funds are available at DHHS at the end of the fiscal year. In October 2022, Session
+Law 2022-180 established a recurring appropriation for such funds, not to exceed $3.8 million. Any
+funds received in excess of $3.8 million are reported in Deferred state grants until appropriated by the
+North Carolina General Assembly (General Assembly), at which time they are moved to State grants
+received.
+In fiscal year 2025, approximately $59 million of remaining COVID-era Emergency Rental
+Assistance (ERA2) funds were appropriated by the General Assembly to the HTF. These are federal
+funds originally from the US Department of Treasury (Treasury) that were provided to assist eligible
+households with financial assistance, provide housing stability services, and cover costs for other
+affordable rental housing and eviction prevention activities. The Agency is using the funds for eligible
+affordable rental housing purposes, including the construction, rehabilitation, or preservation of
+affordable rental housing projects and related activities, serving very low-income families.
+Federal and State Programs The Agency administers several federal programs including
+Section 8 Project-Based Contract Administration (Section 8 PBCA), ERA2, the combined HOME
+Investment Partnerships Program (HOME) and the HOME Investment Partnerships American Rescue
+Plan Program (HOME-ARP), Community Development Block Grant Disaster Recovery (CDBG-DR), and
+National Housing Trust Fund (NHTF), which represent 78%, 11%, 9%, 1% and 1% of federal
+expenditures, respectively. The Agency receives a fee for administering these programs. The HOME
+program is matched with State funds of up to $3 million annually as appropriated by the General
+Assembly.
+The Agency receives funds from DHHS for the Transitions to Community Living Voucher
+program (TCLV), the Key Rental Assistance (Key) program and other housing programs. TCLV is a
+tenant-based, rental assistance program, which also provides assistance with security deposits, holding
+fees and risk mitigation claims. The Key program provides assistance and services to low-income
+individuals with disabilities and those who are homeless. These funds are reported in State grants
+received.
+Home Ownership Bond Programs The Home Ownership Bond Programs were created through
+single-family trust agreements and are restricted as to their use. The proceeds of individual bond issues
+are used to purchase qualifying mortgage loans for single-family residential units.
+The Agency’s former FirstHome program was funded with tax-exempt mortgage revenue bonds,
+and the mortgage loans are reported in Mortgage loans receivable, net in the 1998 Home Ownership
+Bond Program. Mortgage loan interest income related to the Home Ownership Bond Programs is
+reported in Interest on mortgage loans.
+The operations for the NC Home Advantage Mortgage (HomeAd) program are financed through
+the issuance of taxable and tax-exempt mortgage revenue bonds as well as the sale of mortgage-backed
+securities (MBS). The production related to the HomeAd program is reported in the 1998 Home
+Ownership Bond Program. In contrast to the FirstHome program, in which the Agency owns the
+mortgage loans, all HomeAd production is pooled into MBS, regardless of the method of financing. For
+HomeAd loans funded through the sale of MBS, the related program income is recorded in Program
+income/fees. The MBS funded with bond proceeds are reported in Restricted Investments, which also
+include US Agency securities held by the Agency, as described in Note B, “Cash, Cash Equivalents,
+Investments, Fair Value Measurements and Securities Lending Transactions.” The corresponding
+earnings from the bond-funded MBS are reported in Interest on investments. The down payment
+assistance loans and lender compensation incurred by the HomeAd program are reported in Nonfederal
+program expense, regardless of the method of financing.
+18
+Significant Accounting Policies Below is a summary of the Agency’s significant accounting
+policies:
+Cash and Cash Equivalents Cash and cash equivalents are comprised of cash on hand,
+amounts on deposit with financial institutions which are insured or collateralized under provisions of
+State laws and regulations, and amounts in pooled cash accounts managed by in the North Carolina
+State Treasurer (State Treasurer), and highly liquid investments with original maturities of three months
+or less. Funds deposited in an investment pool of the State Treasurer are invested in a variety of
+instruments as authorized by State law. The majority of Cash and cash equivalents classified as
+restricted on the accompanying Statement of Net Position are for the Agency’s debt service payments,
+bond calls, and for funding home ownership under the Agency’s different programs.
+Investments Restricted investments are reported at fair value in accordance with GASB
+Codification Section I50, Investments. The investments include US Treasury securities, US Agency
+securities and MBS insured by the Government National Mortgage Association (GNMA), which is a US
+government agency, and the Federal National Mortgage Association (FNMA) and the Federal Home
+Loan Mortgage Corporation (FHLMC), both government sponsored enterprises. The interest earnings
+are reported in Interest on investments and the net change in fair value is reported in Net increase
+(decrease) in fair value of investments.
+Mortgage Loans Receivable, Net Mortgage loans include first lien single-family mortgages from
+the Agency’s former FirstHome program, and second lien single-family and multifamily mortgages from
+various Agency programs. The Agency has the ability and intent to hold these loans for the foreseeable
+future; therefore, they are not considered investments under GASB Statement No. 72, Fair Value
+Measurement and Application (GASB 72), and are carried at their outstanding principal balances less a
+loan loss reserve. The Agency determines the loan loss reserve based on an evaluation of the loan
+portfolio, current economic conditions, historical loss experience and other factors relevant to the
+determination of the collectability of the loans.
+Mortgage Loans Held For Sale Periodically, the Agency purchases a portion of HomeAd
+mortgage loans from its originating lenders to hold from the time of loan purchase to the subsequent
+securitization of the loan, which is approximately one month. The loans are recorded at their outstanding
+principal balances. When these loans are purchased, they are included in Mortgage loans held for sale.
+The interest income and servicing fees associated with these loans are included in Interest on mortgage
+loans and Mortgage servicing expense, respectively.
+Other Assets Other assets for Federal and State Programs includes receivables related to the
+HOME, Section 8 PBCA, NHTF, Section 811 Project Rental Assistance for Persons with Disabilities, and
+HOME-ARP programs. Other assets reflected in the Home Ownership Bond Programs include mortgage
+payments collected by servicers that will be remitted to the Agency in the upcoming fiscal year.
+Capital Assets, Net Fixed assets, net of accumulated depreciation, are included in Capital
+assets, net in the accompanying financial statements. Fixed assets of $5,000 or greater, intangible
+assets of $100,000 or greater, and internally developed software with development costs of $1 million
+or greater are capitalized and depreciated over a five-year economic useful life using the straight-line
+method. Right to Use (RTU) buildings and RTU machinery and equipment, net of accumulated
+depreciation, are also included in Capital assets, net. RTU assets with a lease term of greater than 12
+months are capitalized and depreciated over the lesser of the lease term or the useful life of the asset,
+using the straight-line method. Such leases are only subject to capitalization by the Agency if total future
+lease payments total $100,000 or more.
+19
+Bond Premium and Discount Bond premium and discount represents the difference in the
+amount received upon the sale of bonds and the par value and is included as a component of Bonds
+payable, net in the accompanying financial statements. The bond premium and discount are amortized
+using the effective interest rate method over the life of the related bonds and are adjusted accordingly
+for any bond calls that occur during the year. The amortization of the bond premium and discount is
+included as a component of Interest on bonds in the accompanying financial statements.
+Derivative Instruments The Agency has entered into interest rate swap agreements (swap) in
+order to provide lower cost fixed rate financing for its loan production. The Agency pays a fixed interest
+rate in exchange for receiving a variable interest rate from the counterparty. By entering into a swap,
+the Agency hedges its interest rate risk associated with variable rate bonds. The Agency’s swaps are
+considered to be hedging derivative instruments under GASB Statement No. 53 and are recorded under
+Hedging derivates asset or Hedging derivates liability. The fair market value of each swap is recorded
+under Deferred Inflows of Resources or Deferred Outflows of Resources. The interest differentials paid
+or received under the swaps are recognized as an increase or decrease in Interest on bonds.
+Unearned Revenues Unearned revenues includes monitoring fees received upon the completion
+of LIHTC projects. Since the Agency’s monitoring of LIHTC projects occurs over time, these fees are
+amortized on a straight-line basis over the life of the tax credit or over the life of the loan. As these funds
+are disbursed, unearned revenue is reduced and revenue is recognized.
+Interprogram Receivable (Payable) During the normal course of operations, the Agency has
+numerous transactions among programs to provide services. If certain transactions among programs
+have not been settled as of June 30, 2025 these balances are recorded as Interprogram receivable
+(payable) and eliminated in the accompanying financial statements.
+Deferred Outflows/Inflows of Resources In addition to Assets, the Statement of Net Position
+includes a separate section for Deferred Outflows of Resources. This section of the financial statements
+represents a consumption of net position that applies to a future period and will not be recognized as an
+expense or expenditure until then. The Agency has three items that meet the criterion: contributions to
+the pension plan, contributions to other postemployment benefits (OPEB), and an accumulated decrease
+in fair value of hedging derivative instruments. In addition to Liabilities, the Statement of Net Position
+includes a separate section for Deferred Inflows of Resources. This section of the financial statements
+represents an acquisition of net position that applies to a future period and will not be recognized as
+revenue until then. The Agency has three items that meets the criterion: deferred inflows related to the
+pension plan, deferred inflows related to OPEB, and an accumulated increase in fair value of hedging
+derivative instruments.
+Net Position Net Position is reported as restricted when constraints placed on it are externally
+imposed by creditors, grantors, laws or regulations, or by law through constitutional provisions.
+The Agency’s Board of Directors approves an operating budget annually that is funded with
+revenues generated by administrative fees earned on programs, interest income earned on investments,
+repayment of program funds, and earnings and reserves from trust agreements. These revenue sources
+are used to cover operating expenses. The decision to use restricted or unrestricted receipts to fund a
+payment is considered at the transaction level depending on the nature of the payment.
+Net position of the Home Ownership Bond Programs is restricted pursuant to the Agency’s
+agreements with its bondholders as determined in its trust agreement. The Agency has restricted these
+funds in amounts sufficient to meet required debt service and operating expenses as defined by the trust
+agreement.
+20
+Net position of the HTF Programs is restricted in accordance with the policies of the Housing
+Partnership. The Agency and Federal and State Programs’ net positions are restricted in accordance
+with each program’s requirements.
+Operating Revenues and Expenses As one of its primary funding sources, the Agency has the
+authority to issue bonds to the investing public to create inflows of private capital. These funds are used
+to finance mortgage loans for qualified borrowers. Additional operating income is earned from the sale
+of the MBS associated with the HomeAd program that are funded through the TBA markets. In addition,
+a significant amount of operating revenues is derived from federal programs, other program income/fees,
+interest earned on mortgage loans and MBS that are financed with bonds, including (or offset by) GASB
+Statement No. 31 fair market value adjustments associated with the investments resulting from market
+fluctuations.
+Accordingly, the primary operating expenses of the Agency are those related to federal programs
+and the interest expense on bonds outstanding. Other significant operating expenses include down
+payment assistance and lender compensation, which are reported in Nonfederal program expense, and
+Agency operations, which are reported in General and administrative expense.
+Non-Operating Revenues and Expenses State appropriations received and State grants
+received are classified as Non-Operating Revenues (Expenses). The related expenses are classified
+as State program expense.
+General and Administrative Expense General and administrative expense is classified by the
+related program. To the extent allowed by federal and state programs and trust agreements, transfers
+are made from proceeds of federal and state programs or bond issuances to the Agency to reimburse
+allowable general and administrative expenses. Certain indirect costs are allocated to federal and state
+programs based on an independently prepared cost allocation plan.
+Use of Estimates The preparation of financial statements in conformity with GAAP requires
+management to make estimates and assumptions that affect the contingent and reported amounts of
+assets, liabilities, deferred inflows and outflows of resources at the date of the financial statements, and
+the reported amounts of revenues and expenses during the reporting period (e.g., loan loss reserve).
+Actual results could differ from estimates.
+B. CASH, CASH EQUIVALENTS, INVESTMENTS, FAIR VALUE MEASUREMENTS AND SECURITIES
+LENDING TRANSACTIONS
+Cash and Cash Equivalents As of June 30, 2025, the Agency had deposits with a carrying
+value of $42,242,000 and a bank balance of $42,312,000 in its primary operating account. Of this
+amount, $39,371,000 was classified as restricted funds, which included $2,192,000 of escrow and
+replacement reserves maintained on behalf of multifamily and single-family mortgagors; accordingly, a
+corresponding liability of the same amount is also included on the Statement of Net Position.
+The Agency had deposits with a carrying value of $1,288,483,000 and a bank balance
+$1,290,314,000 on deposit with the Agency’s fiduciary agents. Of this balance, $1,098,330,000 was
+classified as restricted funds. Such deposits are held in accordance with State Statute 159-31(b) by a
+third-party custodian.
+Deposits - Custodial Credit Risk Custodial credit risk is the risk that in the event of a bank failure,
+the Agency’s deposits may not be returned. At June 30, 2025, the Agency was not exposed to any
+material custodial credit risk.
+21
+Deposits - Foreign Currency Risk Foreign currency risk is the risk that changes in foreign
+exchange rates will adversely affect the fair value of a deposit. The Agency does not have exposure to
+foreign currency risk.
+Investments The Agency’s restricted investments include US Treasury securities, US Agency
+securities and MBS insured by GNMA, FNMA and FHLMC.
+The Agency funds a portion of its HomeAd production with both tax-exempt and taxable bonds.
+In the HomeAd program, mortgages are made by lenders, purchased by the Agency’s master servicer,
+and securitized into MBS. For MBS that are financed with bonds, the MBS are reflected in Restricted
+investments on the Statement of Net Position.
+At June 30, 2025, the Agency held the following investments with the listed maturities at annual
+rates ranging from 1.675% to 7.125%. Ratings are displayed with the Moody’s Investors Service
+(Moody’s) rating listed first and the Standard & Poor’s (S&P) rating listed second (in thousands):
+Investment Maturities (In Years)
+Carrying Less Than More Than
+Investments (Ratings) Amount 1 1 – 5 6 – 10 10
+GNMA MBS (Aa1/AA+) $1,451,965 $ - $ - $ - $1,451,965
+FNMA MBS (Aa1/AA+) 1,169,024 - - - 1,169,024
+FHLMC MBS
+(Aa1/AA+) 362,601 - - - 362,601
+US Treasury Securities
+(Aa1/AA+) 200,000 200,000 - - -
+US Agency Securities
+(Aa1/AA+) 2,366 599 1,767 - -
+Total Categorized $3,185,956 $ 200,599 $ 1,767 $ - $2,983,590
+Interest Rate Risk Interest rate risk is the risk that changes in market rates will adversely affect the
+fair market value of an investment. The Agency's investment strategy is designed to match the life of the
+asset with the date of its related liability. The Agency seeks to minimize interest rate risk by structuring the
+portfolio to meet ongoing program and operational cash requirements without having to sell securities prior
+to maturity.
+Credit Risk Credit risk is the risk that an issuer or other counterparty to an investment will not
+fulfill its obligation. State statutes authorize the Agency to invest in (i) direct obligations or obligations
+on which the principal and interest are unconditionally guaranteed by the US Government; (ii) obligations
+issued by an approved agency or corporation wholly-owned by the US Government; (iii) interest-bearing
+time deposits, certificates of deposit, or other approved forms of deposits in any bank or trust company
+in North Carolina which satisfies insurance and, if necessary, collateral requirements for holding Agency
+money; (iv) duly established investment programs of the State Treasurer; (v) repurchase agreements;
+and (vi) repurchase agreements with banks and financial institutions which are chartered outside of the
+State and meet specified rating and collateral requirements of the various trust agreements. The MBS
+are securitized by GNMA, FNMA and FHLMC. The GNMA MBS are direct obligations of the US
+Government. FNMA and FHLMC are government sponsored enterprises that have credit ratings and
+perceived credit risk comparable to direct US obligations. The US Treasury securities are direct
+obligations of the US Government; the US Agency securities are direct obligations of the Federal Farm
+Credit Bank and Federal Home Loan Bank.
+Concentration of Credit Risk Concentration of credit risk is the risk of loss related to the
+percentage of the Agency’s investment portfolio in any single issuer, except for investments explicitly
+22
+backed by the US government. The Agency’s investments in FNMA and FHLMC both exceed 5% of
+total investments as of June 30, 2025.
+Custodial Credit Risk Custodial credit risk occurs when investment securities are uninsured and
+are not registered in the name of the Agency, and there is a failure of the counterparty. At year end, the
+Agency was not exposed to custodial credit risk. The US Treasury securities and the US Agency
+securities, including the MBS, are on deposit with the Agency’s fiduciary agent, which holds these
+securities by book entry in its fiduciary Federal Reserve accounts. The Agency’s ownership of these
+securities is identified through the internal records of the fiduciary agent.
+Foreign Currency Risk Foreign currency risk is the risk that changes in exchange rates will
+adversely affect the fair value of an investment or a deposit. The Agency does not have exposure to
+foreign currency risk.
+Fair Value Measurements To the extent available, the Agency’s investments are recorded at
+fair value within the fair value hierarchy established by GAAP, in accordance with GASB 72. GASB 72
+defines fair value as the price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date. This statement establishes
+a hierarchy of valuation inputs based on the extent to which the inputs are observable in the marketplace.
+Inputs are used in applying the various valuation techniques and take into account the assumptions that
+market participants use to make valuation decisions. Inputs may include price information, credit data,
+interest and yield curve data, and other factors specific to the financial instrument. Observable inputs
+reflect market data obtained from independent sources. In contrast, unobservable inputs reflect the
+entity’s assumptions about how market participants would value the financial instrument. Valuation
+techniques should maximize the use of observable inputs to the extent available.
+A financial instrument’s level within the fair value hierarchy is based on the lowest level of any
+input that is significant to the fair value measurement. The following describes the hierarchy of inputs
+used to measure fair value and the primary valuation methodologies used for financial instruments
+measured at fair value on a recurring basis:
+Investments whose values are based on quoted prices (unadjusted) for identical assets
+Level 1
+(or liabilities) in active markets that a government can access at the measurement date.
+Investments with inputs – other than quoted prices included within Level 1 – that are
+Level 2
+observable for an asset (or liability), either directly or indirectly.
+Investments with unobservable inputs and may require a degree of professional
+Level 3
+judgment.
+The Agency had the following recurring fair value measurements as of June 30, 2025 (in
+thousands):
+Input
+Investment Type Fair Value
+Level
+Valuation of the underlying assets is based on
+US Treasury
+$200,000 Level 1 quoted prices for identical assets in active
+Securities
+markets.
+Valuation of the underlying assets is performed
+US Agency
+$2,366 Level 2 by the Agency’s custodian using observable
+Securities
+inputs such as yield curves and indices.
+Valuation of the underlying assets is performed
+MBS $2,983,590 Level 2 by the Agency’s custodian using observable
+inputs such as yield curves and indices.
+23
+Securities Lending Transactions GASB Codification Section I60, Investments—Security
+Lending establishes accounting and financial reporting standards for transactions where governmental
+entities transfer their securities to broker-dealers and other entities (borrowers) in exchange for collateral
+(which may be cash, securities, or letters of credit) and simultaneously agree to return the collateral in
+exchange for the original securities in the future. The Agency does not directly engage in securities
+lending transactions; however, the State Treasurer is authorized to engage in these types of transactions
+under State Statute 147-69.3(e). The types of securities include government securities and corporate
+bonds and notes which are held in the pooled investment accounts of the State Treasurer. A securities
+custodian manages the securities lending program for the State and receives cash as collateral from the
+borrowers. Collateral is invested in a collateral investment pool and must be maintained at 100% of the
+market value of the original securities. This investment in the collateral investment pool is considered
+to be a highly liquid investment. The State has a custodial credit risk related to the transactions.
+Throughout fiscal year 2025, the Agency had deposits from time to time in the pooled investment
+accounts of the State Treasurer; however, due to market conditions these deposits were immaterial at
+all times during the fiscal year and were $0 as of June 30, 2025. The risk associated with any future
+transactions will be recorded by the State in its fiduciary funds in a future period. No allocation will be
+made to the Agency.
+C. MORTGAGE LOANS RECEIVABLE
+The Agency’s mortgage loans are derived from various funding sources. Loans receivable as of
+June 30, 2025, are as follows (in thousands):
+Housing Home
+Trust Federal Ownership
+Agency Fund and State Bond
+Programs Programs Programs Programs Total
+Mortgage loans receivable $ 10,244 $ 20,262 $ 79,214 $ 161,929 $ 271,649
+Less: allowance for loan losses - (28) - (142) (170)
+$ 10,244 $ 20,234 $ 79,214 $ 161,787 $ 271,479
+Less: current portion (8,857) (11,710) (6,889) (23,634) (51,090)
+Mortgage loans receivable, net $ 1,387 $ 8,524 $ 72,325 $ 138,153 $ 220,389
+For the Home Ownership Bond Programs, the Agency has collateralized $153,116,000 in
+mortgage loans receivable and $3,911,263,000 in cash and investments pledged to repay the
+$3,611,425,000 single-family bonds payable outstanding as of June 30, 2025. Proceeds from the bonds
+issued were used to finance housing throughout the State. The outstanding bonds are payable through
+fiscal year 2057 and are repaid from principal and interest on mortgage loans and MBS, unexpended
+bond proceeds, proceeds from the sale of investments as well as interest income from investments. The
+Agency expects 100% of the mortgage loans and MBS, both principal and interest, to pay the principal
+and interest debt service requirements on the bonds. The total debt service requirement based on
+projected cash flows as of June 30, 2025 is $6,646,846,000 (see “Maturities” under Note D).
+For the current fiscal year, debt service payments, bond calls and related interest payments
+totaling $283,048,000 were made for the Home Ownership Bond Programs. Payments received on
+mortgage loans and MBS for the Home Ownership Bond Programs were $31,276,000 and $278,087,000,
+respectively.
+The existing and future mortgage loans which the Agency may purchase under the Home
+Ownership Bond Programs must comply with guidelines established by the Agency, including the
+requirement that all such mortgage loans be insured by the Federal Housing Administration, guaranteed
+24
+by the Veterans Administration, guaranteed by the US Department of Agriculture, Rural Development,
+insured under a private mortgage insurance program, or have a loan-to-value ratio equal to or less than
+80%. As of June 30, 2025, all outstanding FirstHome mortgage loans purchased with mortgage revenue
+bond proceeds satisfy these requirements and have stated interest rates ranging from 3% to 8.75%.
+D. BONDS PAYABLE
+Bonds payable activity for the year ended June 30, 2025 was as follows (in thousands):
+Beginning Ending
+Balance Additions Reductions Balance
+Bonds Payable
+Home Ownership $ 2,665,315 $ 1,158,000 $ (211,890) $ 3,611,425
+Unamortized Bond Premium/Discount 70,134 35,108 (13,506) 91,736
+Total Bonds Payable, Net $ 2,735,449 $ 1,193,108 $ (225,396) $ 3,703,161
+Bonds payable as of June 30, 2025 are as follows (in thousands):
+Stated Final Principal
+Issue Rates (%) Maturity Amount
+Home Ownership Revenue Bonds
+(1998 Housing Revenue Bonds Trust Agreement)
+Series 35 2.870 7/1/2032 $ 960
+Series 36 3.482 7/1/2025 480
+Series 37 2.300 – 3.500 7/1/2039 16,370
+Series 38 2.450 – 4.000 7/1/2047 77,020
+Series 39 2.800 – 4.000 7/1/2048 32,965
+Series 40 4.250 7/1/2047 10,505
+Series 41 2.150 – 4.000 1/1/2050 73,300
+Series 42 1.500 – 4.000 1/1/2050 83,465
+Series 43 1.600 – 4.000 7/1/2050 88,520
+Series 44 1.700 – 4.000 7/1/2050 83,065
+Series 45 0.700 – 3.000 7/1/2051 136,170
+Series 46 0.600 – 3.000 7/1/2051 120,660
+Series 47 0.500 – 3.000 7/1/2051 134,320
+Series 48 2.050 – 5.000 7/1/2052 178,250
+Series 49 3.300 – 6.000 7/1/2053 168,785
+Series 50 2.700 – 5.500 1/1/2054 171,940
+Series 51 3.250 – 5.750 1/1/2054 192,030
+Series 52 A/B 3.625 – 6.500 1/1/2055 305,670
+Series 52 C Variable 7/1/2049 40,000
+Series 53 3.100 – 6.250 1/1/2055 299,500
+Series 54 3.400 – 6.500 1/1/2055 299,450
+Series 55 A/C 3.000 – 6.250 7/1/2056 420,000
+Series 55 B Variable 1/1/2050 80,000
+Series 57 4.385 – 6.250 1/1/2056 299,000
+Series 58 4.442 – 6.500 1/1/2056 299,000
+Total Bonds Outstanding $ 3,611,425
+Plus Unamortized Bond Premium & Discount $ 91,736
+Total Bonds Payable, Net $ 3,703,161
+25
+Maturities Debt service requirements, including sinking fund requirements on term bonds,
+subsequent to June 30, 2025, are as follows (in thousands):
+Bonds Outstanding without Interest Rate Swaps
+Fiscal Year
+Ending June 30 Principal Interest
+2026 $ 61,895 $ 143,967
+2027 75,505 153,942
+2028 80,375 151,693
+2029 82,790 149,206
+2030 85,430 146,592
+2031-2035 464,500 686,091
+2036-2040 557,870 589,561
+2041-2045 633,180 464,035
+2046-2050 656,340 316,608
+2051-2055 738,955 125,938
+2056-2057 54,585 2,068
+Total Requirements $ 3,491,425 $ 2,929,701
+Bonds Outstanding with Interest Rate Swaps
+Fiscal Year
+Ending June 30 Principal Interest
+2026 $ - $ 3,906
+2027 - 4,740
+2028 - 4,740
+2029 - 4,740
+2030 - 4,740
+2031-2035 - 23,700
+2036-2040 - 23,700
+2041-2045 14,920 23,446
+2046-2050 105,080 12,008
+Total Requirements $ 120,000 $ 105,720
+Total Bonds Outstanding
+Fiscal Year
+Ending June 30 Principal Interest
+2026 $ 61,895 $ 147,873
+2027 75,505 158,682
+2028 80,375 156,433
+2029 82,790 153,946
+2030 85,430 151,332
+2031-2035 464,500 709,791
+2036-2040 557,870 613,261
+2041-2045 648,100 487,481
+2046-2050 761,420 328,616
+2051-2055 738,955 125,938
+2056-2057 54,585 2,068
+Total Requirements $ 3,611,425 $ 3,035,421
+26
+Bond Redemptions The trust agreements provide for various methods of redemption. Bonds
+are redeemed at par from prepayments of mortgage loans securing the issues, from unexpended bond
+proceeds of the issues, from excess revenues, or from funds released via the related decreases in the
+respective debt service reserve requirements.
+For the year ended June 30, 2025, bond redemptions were as follows (in thousands):
+Amount
+Issue Redeemed
+Housing Revenue Bonds (1998 Trust Agreement) $ 211,890
+Special Facilities (Conduits) The Agency issued Multifamily Housing Revenue Bonds which
+are not presented in the financial statements of the Agency. These bonds are limited obligations of the
+Agency, secured solely by the revenues and other assets pledged for their payment. These bonds do
+not constitute a debt of and are not guaranteed by the State or any political subdivision thereof.
+Accordingly, these obligations are excluded from the Agency's financial statements.
+Bonds payable as of June 30, 2025 for special facilities are as follows (in thousands):
+Bonds
+Issue Bond Type Outstanding
+Series 2022 (S. Emerson Hills Apt. Homes)* Multifamily Housing Revenue Bonds $ 36,361
+Series 2024 (Fitch Irick Portfolio) Multifamily Housing Revenue Bonds 43,251
+Series 2024 (Cabarrus Arms Apartments)** Multifamily Housing Revenue Bonds 12,203
+Series 2024 (Weaver-PPM Portfolio) Multifamily Housing Revenue Bonds 15,200
+Total $ 107,015
+* The bonds were issued as “draw down” bonds, in which the principal amount of the bonds will increase
+from time to time as the bond proceeds are advanced to pay for eligible construction expenses up to an
+amount not to exceed $37,515,000. As of June 30, 2025, $36,361,000 has been advanced.
+** The bonds were issued for a total of $12,325,000. As of June 30, 2025, a total of $122,000 scheduled
+principal payments have been made.
+Bonds related to special facilities that were fully redeemed in fiscal year 2025 are as follows:
+Issue Bond Type Redemption Date
+Series 2022 (Five Points Crossing, LP) Multifamily Housing Revenue Bonds 12/18/2024
+27
+E. DERIVATIVE INSTRUMENT - INTEREST RATE SWAP
+Summary Information During fiscal year 2025, the Agency entered into a new swap agreement
+with Royal Bank of Canada to hedge the Series 55-B variable-rate bonds issued during the period. The
+existing swap with Bank of America, N.A. remains in place to hedge Series 52-C variable-rate bonds.
+Both pay-fixed rate interest rate swaps are designated as hedging derivative instruments representing
+a cash flow hedge for the organization (in thousands):
+FMV at
+June 30, 2025
+Hedgeable Notional Asset Net Change
+Item Amount Classification (Liability) Classification in FMV
+Deferred
+Hedging
+Series 52-C $40,000 $(547) Outflows of $(156)
+Derivative
+Resources
+Hedging Deferred Inflows
+Series 55-B $80,000 $3,362 $3,362
+Derivative of Resources
+There were no derivative instruments reclassified from a hedging derivative to an investment
+derivative instrument during the period. There was no deferral amount within investment revenue due
+to any reclassifications during the period.
+Objective The Agency enters into interest rate swaps, in connection with its variable-rate
+revenue bonds, as a means to manage the future cash flow impact associated with these instruments.
+Terms and Credit Risk The terms and credit risk of the outstanding swap as of June 30, 2025
+is as follows (in thousands):
+Counterparty Date of Maturity
+Notional Credit Rating Swap Date Fixed Floating
+Amount Counterparty Moody’s/S&P Execution of Swap Rate Index
+70% SOFR-
+Bank of
+$40,000 Aa2/A+ 11/21/2023 7/1/2049 3.607% Compound*
+America, N.A.
++ 0.10%
+65% SOFR-
+Royal Bank of
+$80,000 Aa1/AA- 10/8/2024 1/1/2050 2.817% Compound*
+Canada
++ 0.15%
+* SOFR-Compound is the Secured Overnight Financing Rate, with compounding for each day of interest
+during the accrual period.
+Fair Value The fair values take into consideration the prevailing interest rate environment and
+the specific terms and conditions of each swap. The fair value was estimated using the zero-coupon
+method. This method calculates the future net settlement payments required by the swap, assuming
+the current forward rates implied by the yield curve correctly anticipate future spot interest rates. These
+payments are then discounted using the spot rates implied by the current yield curve for hypothetical
+zero-coupon bonds due on the date of each future net settlement on the swap. The Agency’s derivatives
+are classified as Level 2 in the fair value hierarchy.
+Interest Rate Risk Under the terms of the swap, the Agency pays the counterparty a fixed rate
+and receives a variable payment. The variable rate component for the Series 52-C swap is computed
+28
+as 70% of SOFR compound rate plus 10 basis points. The variable rate component for the Series 55-B
+swap is computed as 65% of SOFR compound rate plus 15 basis points. The SOFR rate was 4.45% as
+of June 30, 2025. The variable-rate payment to the bondholders for both Series 52-C and Series 55-B
+bonds is determined by the remarketing agent, TD Securities (USA) LLC. The interest rate as of June
+30, 2025 was 3.95%.
+Basis Risk and Termination Risk The swaps expose the Agency to basis risk to the extent
+that the interest payments on its variable-rate bonds do not match the variable-rate payments received
+on the associated swaps. The Agency’s swaps are subject to termination if the counterparty’s or the
+Agency’s rating fall below Baa2 as issued by Moody’s or BBB as issued by S&P.
+Credit Risk Credit risk is the risk that the counterparty will not fulfill its obligations. The
+measurement of this risk is the fair market value of the swaps. The Agency is exposed to credit risk for
+any positive fair market value to a counterparty. As of June 30, 2025, the Agency’s credit risk is minimal.
+To mitigate credit risk, the Agency maintains strict credit standards. The counterparty to both contracts
+is a major financial institution with investment-grade ratings.
+Foreign Currency Risk Foreign currency risk is the risk that changes in exchange rates will
+adversely affect the fair value of an investment or a deposit. The Agency’s swap is denominated in US
+dollars; therefore, it is not subject to foreign currency risk.
+Rollover Risk Rollover risk exists when the derivative does not last as long as the associated
+debt is outstanding. The maturity date of the Agency’s swap contract matches the maturity dates of the
+hedged debt; therefore, the Agency has no rollover risk.
+Market Access Risk Market access risk is the risk that the Agency will not be able to enter
+credit markets as planned or that credit will become more costly. The Agency’s current market access
+risk is limited due to Standby Bond Purchase Agreements with TD Bank, N.A. that were executed in
+conjunction with the issuance of the Series 52-C and Series 55-B variable-rate bonds.
+Quantitative Method of Evaluating Effectiveness To assess the effectiveness of the hedging
+derivative instrument, the Agency employed the Regression Analysis Method. Under the Regression
+Analysis Method, a hedging derivative instrument is effective if the following criteria is met: (1) the R-
+Squared of the regression analysis is at least 0.80; (2) the F-statistic is within a 95% confidence interval,
+with the Significance F less than 0.05; and (3) the regression coefficient for the slope is between (1.25)
+and (0.80). The results of the testing as of June 30, 2025 are as follows:
+Regression
+Hedgeable Slope Test
+Item R-Squared Significance F Coefficient Performance
+Series 52-C 0.99313 0.00000 (0.87767) PASS
+Series 55-B 0.99561 0.00000 (0.90495) PASS
+29
+Swap Payments and Associated Debt As rates vary, variable-rate bond interest payments
+and net swap payments will differ between the fixed rate paid to the counterparty and the variable rate
+paid to the Agency. Using rates as of June 30, 2025, debt service requirements of the variable-rate debt
+and net swap payments are as follows (in thousands):
+Fiscal Year Variable-Rate Bond Interest Rate Total
+Ending June 30 Principal Interest Swap, Net Interest
+2026 $ - $ 3,906 $ (65) $ 3,841
+2027 - 4,740 (116) 4,624
+2028 - 4,740 (116) 4,624
+2029 - 4,740 (127) 4,613
+2030 - 4,740 (116) 4,624
+2031-2035 - 23,700 (591) 23,109
+2036-2040 - 23,700 (591) 23,109
+2041-2045 14,920 23,446 (581) 22,865
+2045-2050 105,080 12,008 (186) 11,822
+Total $ 120,000 $ 105,720 $ (2,489) $103,231
+F. NONCURRENT LIABILITIES
+Noncurrent liabilities for the year ended June 30, 2025 are as follows (in thousands):
+Beginning Ending Due Within
+Balance Additions Deletions Balance One Year
+Bonds payable
+Bonds payable, net $ 2,665,315 $ 1,158,000 $ (211,890) $ 3,611,425 $ 61,895
+Unamortized bond premium 70,134 35,108 (13,506) 91,736 -
+Hedging derivatives liability 391 156 - 547 -
+Unearned revenues 25,743 10,113 (4,386) 31,470 4,877
+Pension liability 9,660 - (832) 8,828 -
+OPEB liability 13,365 4,091 (13) 17,443 -
+Lease liability 2,113 20 (695) 1,438 644
+Other noncurrent liabilities
+Arbitrage rebate payable 749 1,064 - 1,813 111
+Compensated absences 2,159 1,113 (86) 3,186 1,293
+Deposits payable 2,831 305 (943) 2,193 1
+Workers’ compensation 1,000 519 (1,039) 4 80 81
+$ 2,793,460 $ 1,210,489 $ (233,390) $ 3,770,559 $ 68,902
+G. Leases
+During the year ended June 30, 2025, the Agency leased a building with a 60-month term, which
+expires September 30, 2027, a copier with a 60-month term, which expires July 12, 2028, and a postage
+meter with a 60-month term, which expires May 6, 2028.
+30
+Lease assets are reported in Capital assets, net. Lease asset activity for the year ended June
+30, 2025 was as follows (in thousands):
+Beginning Ending
+Balance Increases Decreases Balance
+Lease Assets:
+RTU Buildings $ 3,726 $ - $ (49) $ 3,677
+RTU Machinery & Equipment 122 - - 122
+Total Lease Assets $ 3,848 $ - $ (49) $ 3,799
+Accumulated Depreciation:
+RTU Buildings $ (1,791) $ (581) $ - $ (2,372)
+RTU Machinery & Equipment (25) (24) - (49)
+Total Accumulated Depreciation $ (1,816) $ (605) $ - $ (2,421)
+Lease Assets, net $ 2,032 $ (605) $ (49) $ 1,378
+Lease liabilities as of June 30, 2025, are as follows (in thousands):
+Lease Liability Due Within Lease Term Interest
+June 30, 2025 One Year in Years Rate
+Classification:
+RTU Buildings $ 1,364 $ 620 5 6.25%
+RTU Machinery & Equipment 74 24 5 8.23-8.29%
+$ 1,438 $ 644
+Future principal and interest lease payments as of June 30, 2025, are as follows (in thousands):
+Fiscal Year Principal Interest Total
+Classification: Ending June 30 Payments Payments Payments
+RTU Buildings 2026 $ 620 $ 39 $ 659
+2027 637 40 677
+2028 107 7 114
+2029 - - -
+2030 - - -
+RTU Machinery & Equipment 2026 $ 24 $ 2 $ 26
+2027 24 2 26
+2028 24 2 26
+2029 2 - 2
+2030 - - -
+$ 1,438 $ 92 $ 1,530
+H. Federal Awards
+As a designated public housing agency for the US Department of Housing and Urban
+Development (HUD) Section 8 PBCA program, the Agency requisitions Section 8 program funds and
+makes disbursements to eligible landlords. For the year ended June 30, 2025, $224,793,000 was
+received by the Agency and disbursed to property owners.
+The Agency is designated as the participating entity under grant agreements with HUD for the
+HOME and the NHTF programs. The HOME program provides funding for the purpose of developing
+affordable housing for persons of low and very low income. The NHTF provides funding to increase and
+preserve the supply of decent, safe and sanitary affordable housing for extremely low and very low
+income households. For the year ended June 30, 2025, $10,018,000 in HOME entitlement funds was
+31
+received and the Agency disbursed $24,648,000 in entitlement and program income funds. During the
+year, $1,990,000 in NHTF entitlement funds was received and disbursed by the Agency.
+The Agency receives CDBG-DR funds from the NC Office of Recovery and Resiliency, a
+component of the NC Department of Public Safety, who is the participating entity with HUD. These funds
+are used for new construction of multifamily rental housing in counties impacted by Hurricane Matthew.
+For the year ended June 30, 2025, $3,536,000 was received and disbursed by the Agency.
+The Agency was appropriated ERA2 funds that had originally been awarded to the NC Pandemic
+Recovery Office by Treasury. The Agency is using the funds for eligible affordable rental housing
+purposes, including the construction, rehabilitation, or preservation of affordable rental housing projects
+and related activities, serving very low-income families impacted by the COVID-19 pandemic. For the
+year ended June 30, 2025, $33,450,000 was received and disbursed by the Agency.
+The Agency earned fees of $10,239,000 for administering these and other federal programs for
+the year ended June 30, 2025. Of these fees, $6,282,000 was paid to Quadel Consulting Corporation
+for Section 8 PBCA administration. These fees are reported in General and administrative expense.
+Federal awards are subject to audit by the grantor agencies. The Agency could be held liable
+for amounts received in excess of allowable expenditures.
+I. PENSION PLAN
+Plan Description All permanent, full-time employees of the Agency participate in the Teachers’
+and State Employees’ Retirement System of North Carolina (TSERS), a cost-sharing multiple-employer
+defined benefit pension plan administered by the State. TSERS provides retirement benefits to plan
+members and beneficiaries. State statute assigns the authority to establish and amend benefit
+provisions to the General Assembly. TSERS is included in the Annual Comprehensive Financial Report
+(Annual Report) for the State. The State’s Annual Report includes financial statements and required
+supplementary information for TSERS. The report may be obtained from the website for the North
+Carolina Office of State Controller (OSC) using the following link: https://www.osc.nc.gov/public-
+information/reports.
+Benefits Provided TSERS provides retirement and survivor benefits. Retirement benefits are
+determined as 1.82% of the member’s average final compensation times the member’s years of
+creditable service. A member’s average final compensation is calculated as the average of a member’s
+four highest consecutive years of compensation. General employee plan members are eligible to retire
+with full retirement benefits at age 65 with five years of creditable service, at age 60 with 25 years of
+creditable service, or at any age with 30 years of creditable service. General employee plan members
+are eligible to retire with partial retirement benefits at age 50 with 20 years of creditable service or at
+age 60 with five years of creditable service. Survivor benefits are available to eligible beneficiaries of
+members who die while in active service or within 180 days of their last day of service and who have
+either completed 20 years of creditable service regardless of age or have completed five years of service
+and have reached age 60. Eligible beneficiaries may elect to receive a monthly Survivor’s Alternate
+Benefit for life or a return of the member’s contributions. The plan does not provide for automatic post-
+retirement benefit increases.
+32
+Funding Policy Plan members are required to contribute 6% of their annual covered salary,
+and the Agency is required to contribute at an actuarially determined rate. The fiscal year 2025 rate is
+16.79% of the annual covered payroll. The contribution requirements of plan members and the Agency
+are established and may be amended by the General Assembly. The following table represents the
+three-year trend of the annual contributions made by the Agency to the State retirement system. The
+Agency made 100% of its required contributions for the years ended June 30, 2025, 2024, and 2023 (in
+thousands):
+2025 2024 2023
+Retirement Contribution $2,120 $2,085 $1,935
+Percentage of Covered Payroll 16.79% 17.64% 17.38%
+Net Pension Liability At June 30, 2025, the Agency reported a liability of $8,828,000 for its
+proportionate share of the net pension liability. The net pension liability was measured as of June 30,
+2024. The total pension liability used to calculate the net pension was determined by an actuarial
+valuation as of December 31, 2023. The total pension liability was then rolled forward to the
+measurement date of June 30, 2024 utilizing update procedures incorporating the actuarial assumptions
+listed below. The Agency’s proportion of the net pension liability was based on a projection of the
+Agency’s long-term share of future payroll covered by the pension plan, relative to the projected future
+payroll covered by the pension plan of all participating TSERS employers, actuarially determined. At
+June 30, 2024 and at June 30, 2023, the Agency’s proportion was 0.05958% and 0.05794%,
+respectively.
+Deferred Outflows/Inflows of Resources Related to Pensions For the year ended June 30,
+2025, the Agency recognized pension expense of $2,701,000. At June 30, 2025, the Agency reported
+Deferred Outflows of Resources and Deferred Inflows of Resources related to pensions from the
+following sources (in thousands):
+Deferred Outflows Deferred Inflows
+of Resources of Resources
+Difference between actual and expected experience $ 795 $ 26
+Changes of assumptions ---
+Net difference between projected and actual earnings on
+pension plan investments 1,456 ---
+Change in proportion and differences between Agency’s
+contributions and proportionate share of contributions 345 ---
+Contributions subsequent to the measurement date 2,120 ---
+Total $ 4,716 $ 26
+33
+Deferred Outflows of Resources of $2,120,000 related to pensions resulting from Agency
+contributions subsequent to the measurement date will be recognized as a decrease of the net pension
+liability in the year ended June 30, 2025. Other amounts reported as Deferred Outflows of Resources
+and Deferred Inflows of Resources at June 30, 2025 related to pensions will be recognized as pension
+expense as follows (in thousands):
+Year ending June 30:
+2026 $ 849
+2027 1,914
+2028 (37)
+2029 (156)
+Total $ 2,570
+Actuarial Assumptions The total pension liability was determined by an actuarial valuation
+performed as of December 31, 2023. The total pension liability was calculated through the use of update
+procedures to roll forward from the actuarial valuation date to the measurement date of June 30, 2024.
+The update procedures incorporated the actuarial assumptions used in the valuation. The entry age
+normal actuarial cost method was utilized. Inflation is assumed to be 2.5%, and salary increases range
+from 3.25% to 8.05% which includes 3.25% inflation and productivity factor. The long-term expected
+rate of return on pension plan investments used in the determination of the total pension liability is 6.5%
+and is net of pension plan investment expense, including inflation.
+TSERS currently uses mortality tables that vary by age, gender, employee group (i.e. teacher,
+general, law enforcement officer) and health status (i.e. disabled and healthy). The current mortality
+rates are based on published tables and studies that cover significant portions of the US population. The
+mortality rates also contain a provision to reflect future mortality improvements.
+The actuarial assumptions used in the December 31, 2023 valuations were based on the results
+of an actuarial experience review for the period January 1, 2015 through December 31, 2019.
+Future ad hoc Cost of Living Adjustment amounts are not considered to be substantively
+automatic and are not included in the measurement.
+The projected long-term investment returns and inflation assumptions are developed through
+review of current and historical capital markets data, sell-side investment research, consultant
+whitepapers, and historical performance of investment strategies. Fixed income return projections
+reflect current yields across the Treasury yield curve and market expectations of forward yields projected
+and interpolated for multiple tenors and over multiple year horizons. Global public equity return
+projections are established through analysis of the equity risk premium and the fixed income return
+projections. Other asset categories and strategies’ return projections reflect the foregoing and historical
+data analysis. These projections are combined to produce the long-term expected rate of return by
+weighting the expected future real rates of return by the target asset allocation percentage and by adding
+expected inflation. Best estimates of arithmetic real rates of return for each major asset class included
+in the plan’s target asset allocation as of June 30, 2024 (the valuation date) are summarized in the
+following table:
+Long-Term Expected
+Asset Class Real Rate of Return
+Fixed Income 2.4%
+Global Equity 6.9%
+Real Estate 6.0%
+Alternatives 8.6%
+Opportunistic Fixed Income 5.3%
+Inflation Sensitive 4.3%
+34
+The information above is based on 30-year expectations developed with the consulting actuary
+and is part of the asset, liability and investment policy of the North Carolina Retirement Systems,
+including TSERS. The long-term nominal rates of return underlying the real rates of return are arithmetic
+annualized figures. The real rates of return are calculated from nominal rates by multiplicatively
+subtracting a long-term inflation assumption of 2.38%. Return projections do not include any excess
+return expectations over benchmark averages. All rates of return and inflation are annualized. The
+long-term expected real rate of return for the Bond Index Investment Pool as of June 30, 2024 is 2.76%.
+Discount Rate The discount rate used to measure the total pension liability was 6.5% for the
+December 31, 2023 valuation. The 6.5% discount rate is in line with the long-term nominal expected
+return on pension plan investments. The calculation of the net pension liability is a present value
+calculation of future net pension payments. These net pension payments assume that contributions
+from plan members will be made at the current statutory contribution rate and that contributions from
+employers will be made at contractually required rates, actuarially determined. Based on these
+assumptions, the pension plans’ fiduciary net position was projected to be available to make all projected
+future benefit payments of the current plan members. Therefore, the long-term expected rate of return
+on pension plan investments was applied to all periods of projected benefit payments to determine the
+total pension liability.
+Sensitivity of the Net Pension Liability to Changes in the Discount Rate The following
+presents the Agency’s proportionate share of the net pension liability calculated using the discount rate
+of 6.5%, as well as what the Agency’s proportionate share of the net pension asset or net pension liability
+would be if it were calculated using a discount rate that is one percentage point lower (5.5%) or one
+percentage point higher (7.5%) than the current rate (in thousands):
+1% Decrease Discount 1% Increase
+(5.5%) Rate (6.5%) (7.5%)
+Agency's proportionate share
+of the net pension liability $16 $9 $3
+Pension Plan Fiduciary Net Position Detailed information about the pension plan’s fiduciary
+net position is available in the separately issued Annual Report for the State.
+J. OTHER POSTEMPLOYMENT BENEFITS
+Plan Description In addition to providing pension benefits, the Agency participates in two
+postemployment benefit plans, the Retiree Health Benefit Fund (RHBF) and the Disability Income Plan
+of North Carolina (DIPNC), that are administered by the State as pension and other employee benefit
+trust funds. The Agency makes monthly contributions to the State for these benefits. The State’s Annual
+Report includes financial statements and required supplementary information for each plan. See Note
+I. “Pension Plan” for information about obtaining the Annual Report from OSC.
+The RHBF has been established as a fund to provide health benefits to long-term disability
+beneficiaries of the DIPNC and retirees who have at least five years of creditable service with TSERS.
+TSERS pays the full cost of coverage for retirees enrolled in the State’s self-funded Teachers’ and State
+Employees’ Preferred Provider Organization medical plan who were hired prior to October 1, 2006, and
+retire with five or more years of State TSERS membership service. For employees hired on or after
+October 1, 2006 and before January 1, 2021, TSERS will pay the full cost of coverage for retirees with
+20 or more years of service, TSERS will pay 50% of the cost of coverage for retirees with at least 10
+years but less than 20 years of service, and the retiree with less than 10 years of service will pay the full
+35
+cost of coverage. Employees hired on and after January 1, 2021 will not be eligible to receive retiree
+medical benefits.
+Short-term and long-term disability benefits are provided through the DIPNC. Long-term
+disability benefits are payable from the DIPNC after the conclusion of the short-term disability period or
+after salary continuation payments cease, whichever is later, for as long as an employee is disabled. An
+employee is eligible to receive long-term disability benefits provided the following requirements are met:
+(1) the employee has five years of contributing membership service with TSERS earned within 96 months
+prior to the end of the short-term disability period; (2) the employee must make application to receive
+long-term benefits within 180 days after the conclusion of the short-term disability period, after salary
+continuation payments cease, or after monthly payments for workers’ compensation cease, whichever
+is later; (3) the employee must be certified by the Medical Board to be mentally or physically disabled
+for the further performance of employees’ usual occupation; (4) the disability must have been
+continuous, likely to be permanent and incurred at the time of active employment; (5) the employee must
+not be eligible to receive unreduced retirement benefits from TSERS; and (6) the employee must
+terminate employment as a permanent, full-time employee. In addition, recipients of long-term disability
+benefits are eligible to receive the State-paid health insurance coverage. The monthly long-term
+disability benefit is equal to 65% of one-twelfth of an employee’s annual base rate of compensation
+reduced by any social security or workers’ compensation to which the recipient may be entitled up to a
+maximum of $3,900 per month. When an employee qualifies for an unreduced service retirement
+allowance from TSERS, the benefits payable from the DIPNC cease, and the employee will commence
+retirement under TSERS.
+All short-term disability benefit payments are made by the various State-administered plans. The
+Agency has no liability beyond payment of monthly contributions except for short-term disability benefits,
+which are paid by the Agency during the first six months of the short-term period. Contributions are
+determined as a percentage of covered monthly payrolls. Annually, the State sets monthly contribution
+rates for postemployment health care benefits, death benefits and disability benefits, which are the same
+for all agencies across the State.
+Contributions Contribution rates to RHBF, which are intended to finance benefits and
+administrative expenses on a pay-as-you-go basis, are determined by the General Assembly in the
+Appropriations Bill. Although DIPNC operates on a calendar year, disability income benefits are funded
+by actuarially determined employer contributions that are established by the General Assembly and
+coincide with the State’s fiscal year. The Agency assumes no liability for retiree health care or long-
+term disability benefits other than its required contributions.
+The following table represents the three-year trend of the annual contributions made by the
+Agency to the State post-employment benefit plans. The Agency made 100% of its required contributions
+for the years ended June 30, 2025, 2024, and 2023 (in thousands):
+2025 2024 2023
+Health Care Benefit $ 883 $ 844 $ 767
+Disability Benefit $ 16 $ 13 $ 11
+Percentage of Covered Payroll
+Health Care Benefit 6.99% 7.14% 6.89%
+Disability Benefit 0.13% 0.11% 0.10%
+Since the benefit payments are made by the various State-administered plans and not by the
+Agency, the Agency does not determine the number of eligible participants.
+36
+Net OPEB Liability (Asset) At June 30, 2025, the Agency reported a liability of $17,443,000
+for its proportionate share of the collective net OPEB liability for RHBF. The Agency also reported an
+asset of $17,000 for its proportionate share of the collective net OPEB asset for DIPNC. The total OPEB
+liability (asset) used to calculate the net OPEB liability (asset) was determined by an actuarial valuation
+as of December 31, 2023, and update procedures were used to roll forward the total OPEB liability
+(asset) to June 30, 2024. The Agency’s proportion of the net OPEB liability (asset) was based on the
+present value of future salaries for the Agency relative to the present value of future salaries for all
+participating employers, actuarially-determined. At June 30, 2024 and at June 30, 2023, the Agency’s
+proportion was 0.05958% and 0.05794%, respectively.
+Actuarial Assumptions The total OPEB liabilities (assets) for RHBF and DIPNC were
+determined by actuarial valuations as of December 31, 2023, using the following actuarial assumptions,
+applied to all periods included in the measurement, unless otherwise specified. The total OPEB liabilities
+(assets) were then rolled forward to June 30, 2024 utilizing update procedures incorporating the actuarial
+assumptions.
+RHBF DIPNC
+Valuation Date 12/31/2023 12/31/2023
+Inflation 2.5% 2.5%
+Salary Increases* 3.25% - 8.05% 3.25% - 8.05%
+Investment Rate of Return** 6.5% 3%
+Healthcare Cost Trend Rate - Medical 5% - 6.5% N/A
+Healthcare Cost Trend Rate - Prescription Drug 5% - 10% N/A
+Healthcare Cost Trend Rate - Prescription Drug Rebates 5% - 7% N/A
+Healthcare Cost Trend Rate - Medicare Advantage 5% - 6.17% N/A
+Healthcare Cost Trend Rate - Administrative 3% N/A
+*Salary increases include 3.25% inflation and productivity factor.
+**Investment rate of return is net of OPEB plan investment expense, including inflation.
+The OPEB plans currently use mortality tables that vary by age, gender, employee group (i.e.
+teacher, general, law enforcement officer) and health status (i.e. disabled and healthy). The current
+mortality rates are based on published tables and studies that cover significant portions of the US
+population. The healthy mortality rates also contain a provision to reflect future mortality improvements.
+The projected long-term investment returns and inflation assumptions are developed through a
+review of current and historical capital markets data, sell-side investment research, consultant
+whitepapers, and historical performance of investment strategies. Fixed income return projections
+reflect current yields across the Treasury yield curve and market expectations of forward yields projected
+and interpolated for multiple tenors and over multiple year horizons. Global public equity return projects
+are established through analysis of the equity risk premium and the fixed income return projections.
+Other asset categories and strategies’ return projections reflect the foregoing and historical data
+analysis. These projections are combined to produce the long-term expected rate of return by weighting
+the expected future real rates of return by the target asset allocation percentage and by adding expected
+inflation. DIPNC is primarily invested in the Bond Index Investment Pool as of June 30, 2024.
+37
+Best estimates of real rates of return for each major asset class included in RHBF’s target asset
+allocation as of June 30, 2024 (the valuation date) are summarized in the following table:
+Long-Term Expected
+Asset Class Real Rate of Return
+Fixed Income 2.4%
+Global Equity 6.9%
+Real Estate 6.0%
+Alternatives 8.6%
+Opportunistic Fixed Income 5.3%
+Inflation Sensitive 4.3%
+The information in the preceding table is based on 30-year expectations developed with the
+consulting actuary and is part of the asset, liability, and investment policy of the North Carolina
+Retirement Systems. The long-term nominal rates of return underlying the real rates of return are
+arithmetic annualized figures. The real rates of return are calculated from nominal rates by
+multiplicatively subtracting a long-term inflation assumption of 2.38%. Return projections do not include
+any excess return expectations over benchmark averages. All rates of return and inflation are
+annualized. The long-term expected real rate of return for the Bond Index Investment Pool as of June
+30, 2024 (the valuation date) was 2.76%.
+Actuarial valuations of the plans involve estimates of the value of reported amounts and
+assumptions about the probability of occurrence of events far into the future. Examples include
+assumptions about future employment, mortality, and the healthcare cost trend. Actuarially determined
+amounts are subject to continual revision as actual results are compared to past expectations and new
+estimates are made about the future.
+The actuarial assumptions used for RHBF are consistent with those used to value the pension
+benefits of TSERS where appropriate. These assumptions are based on the most recent pension
+valuations available. The discount rate used for RHBF reflects a pay-as-you-go approach.
+Projections of benefits for financial reporting purposes of the plans are based on the substantive
+plan (the plan as understood by the employer and plan members) and include the types of benefits
+provided at the time of each valuation and historical pattern of sharing of benefit costs between the
+employer and plan members to that point. Historically, the benefits funded solely by employer
+contributions applied equally to all retirees. Currently, as described earlier in the note, benefits are
+dependent on membership requirements.
+The actuarial methods and assumptions used for DIPNC include techniques that are designed
+to reduce the effects of short-term volatility in actuarial accrued liabilities and the actuarial value of
+assets, consistent with the long-term perspective of the calculations.
+The actuarial assumptions used in the December 31, 2023 valuations were based on the results
+of an actuarial experience study prepared as of December 31, 2019.
+Discount Rate The discount rate used to measure the total OPEB liability for RHBF was 3.93%.
+The projection of cash flows used to determine the discount rate assumed that contributions from
+employers will be made at the current statutorily determined contribution rate. Based on the above
+assumptions, the plan’s fiduciary net position was not projected to be available to make projected future
+benefit payments of current plan members. As a result, a municipal bond rate of 3.93% was used as
+the discount rate used to measure the total OPEB liability. The 3.93% rate is based on the Bond Buyer
+20-year General Obligation Index as of June 30, 2024.
+The discount rate used to measure the total OPEB asset for DIPNC was 3%. The projection of
+cash flows used to determine the discount rate assumed that contributions from plan members will be
+made at the current contribution rate and that contributions from employers will be made at statutorily
+required rates, actuarially determined. Based on those assumptions, the plan’s fiduciary net position
+38
+was projected to be available to make all projected future benefit payments of the current plan members.
+Therefore, the long-term expected rate of return on plan investments was applied to all periods of
+projected benefit payments to determine the total OPEB asset.
+Sensitivity of the Net OPEB Liability (Asset) to Changes in the Discount Rate The following
+presents the Agency’s proportionate share of the net OPEB liability (asset) of the plans, as well as what
+the plans’ net OPEB liability (asset) would be if it were calculated using a discount rate that is one
+percentage point lower or one percentage point higher than the current discount rate (in thousands):
+1% Decrease Discount Rate 1% Increase
+(2.93%) (3.93%) (4.93%)
+RHBF $24 $20 $17
+1% Decrease Discount Rate 1% Increase
+(2%) (3%) (4%)
+DIPNC - - -
+Sensitivity of the Net OPEB Liability to Changes in the Healthcare Cost Trend Rates The
+following presents the net OPEB liability of the plans, as well as what the plans’ net OPEB liability would
+be if it were calculated using healthcare cost trend rates that are one percentage point lower or one
+percentage point higher than the current healthcare cost trend rates (in thousands):
+Healthcare Cost
+1% Decrease Trend Rates 1% Increase
+RHBF $17 $20 $25
+Effective with the actuarial valuation as of December 31, 2021, the liability for the State’s potential
+reimbursement of costs incurred by employers was removed because the reimbursement by DIPNC was
+eliminated for disabilities occurring on or after July 1, 2019. Thus, the sensitivity to changes in the healthcare
+cost trend rates is not applicable for DIPNC.
+Deferred Outflows/Inflows of Resources Related to OPEB For the year ended June 30, 2025,
+the Agency reported Deferred Outflows of Resources and Deferred Inflows of Resources related to
+OPEB from the following sources (in thousands):
+Deferred Outflows of Resources Related to OPEB by Classification
+RHBF DIPNC TOTAL
+Difference between actual and expected experience $ 142 $ 7 $ 149
+Changes of assumptions 4,201 1 4,202
+Net difference between projected and actual
+earnings on OPEB plan investments 75 13 88
+Change in proportion and differences between
+Agency's contributions and proportionate
+share of contributions 879 3 882
+Contributions subsequent to the measurement date 883 16 899
+Total $ 6,180 $ 40 $ 6,220
+39
+Deferred Inflows of Resources Related to OPEB by Classification
+RHBF DIPNC TOTAL
+Difference between actual and expected experience $ - $ 19 $ 19
+Changes of assumptions 2,274 8 2,282
+Net difference between projected and actual
+earnings on OPEB plan investments - - -
+Change in proportion and differences between
+Agency's contributions and proportionate
+share of contributions 215 1 216
+Contributions subsequent to the measurement date - - -
+Total $ 2,489 $ 28 $ 2,517
+Amounts reported as Deferred outflows of resources related to contributions subsequent to the
+measurement date will be recognized as a reduction of the net OPEB liability for RHBF and DIPNC in
+the fiscal year ended June 30, 2025. Other amounts reported as Deferred Outflows of Resources and
+Deferred Inflows of Resources at June 30, 2025 related to OPEB will be recognized in OPEB expense
+as follows (in thousands):
+Year ending June 30: RHBF DIPNC
+2026 $ 203 $ (5)
+2027 628 (3)
+2028 1,068 2
+2029 909 1
+2030 - 1
+Thereafter - -
+Total $ 2,808 $ (4)
+K. RISK MANAGEMENT
+The Agency’s risk management policies provide for participation in the State’s risk management
+programs. The following types of risk are covered under these programs, as disclosed in the State’s
+Annual Report:
+ Automobile, Fire and Other Property Losses
+ Public Officers’ and Employees’ Liability Insurance
+ Employee Dishonesty and Computer Fraud
+ Statewide Workers’ Compensation Program/Fund
+The State is responsible for the administration of all liability insurance policies. The deductible
+and amount of loss in excess of the policy is the responsibility of the Agency.
+In addition to the State’s policies, the Agency has Cyber Liability and Fraudulent Instruction
+coverage, which is intended to mitigate financial losses associated with criminal acts of breach and
+fraudulent impersonation of Agency vendors and staff.
+40
+L. SUBSEQUENT EVENTS
+The Agency has evaluated subsequent events through September 22, 2025 and determined that
+there have been no events that would require adjustments to our disclosures in the fiscal year 2025
+financial statements.
+41
+North Carolina Housing Finance Agency
+Supplementary Information
+42
+Tel: 919-754-9370 421 Fayetteville Street
+Fax: 919-754-9369 Suite 300
+www.bdo.com Raleigh, NC 27601
+Independent Auditor’s Report on Supplementary Information
+We have audited the financial statements of the business-type activities of the North Carolina
+Housing Finance Agency (the Agency), as of and for the year ended June 30, 2025, and have issued
+our report thereon dated September 22, 2025 which contained an unmodified opinion on those
+financial statements. Our audit was performed for the purpose of forming an opinion on the
+financial statements as a whole. The supplementary information, as described in the
+accompanying table of contents and presented in the following section of this document, is
+presented for the purposes of additional analysis and is not a required part of the financial
+statements. Such information is the responsibility of management and was derived from and
+relates directly to the underlying accounting and other records used to prepare the financial
+statements. The information has been subjected to the auditing procedures applied in the audit
+of the financial statements and certain additional procedures, including comparing and
+reconciling such information directly to the underlying accounting and other records used to
+prepare the financial statements or to the financial statements themselves, and other additional
+procedures in accordance with auditing standards generally accepted in the United States of
+America. In our opinion, the information is fairly stated in all material respects in relation to the
+financial statements as a whole.
+September 22, 2025
+BDO USA, P.C., a Virginia professional corporation, is the U.S. member of BDO International Limited, a UK company limited by guarantee, and forms part of the
+international BDO network of independent member firms.
+BDO is the brand name for the BDO network and for each of the BDO Member Firms.
+43
+NORTH CAROLINA HOUSING FINANCE AGENCY
+COMBINING STATEMENT OF NET POSITION
+AS OF JUNE 30, 2025
+AGENCY GRANT HOME OWNERSHIP
+PROGRAMS PROGRAMS BOND PROGRAMS
+Housing Trust Federal and
+(in thousands) Fund Programs State Programs Total
+ASSETS
+Current assets:
+Cash and cash equivalents $ 193,024 $ - $ - $ - $ 193,024
+Restricted cash and cash equivalents 5 6,341 217,036 6 7,816 796,508 1,137,701
+Restricted investments - - - 200,599 2 00,599
+Accrued interest receivable on investments - - - 1 6,041 1 6,041
+Mortgage loans receivable, net 8,857 1 1,710 6,889 2 3,634 5 1,090
+Mortgage loans held for sale - - - 5 48 5 48
+Accrued interest receivable on mortgage loans 1 6 9 994 1,010
+State receivables - - 8 21 - 8 21
+Other assets 2 56 - 2 ,524 1,733 4,513
+Interprogram receivable (payable) 2,145 17 ( 2,882) 7 20 -
+TOTAL CURRENT ASSETS $ 260,624 $ 2 28,769 $ 75,177 $ 1 ,040,777 $ 1 ,605,347
+Noncurrent assets:
+Restricted investments $ - $ - $ - $ 2 ,985,357 $ 2 ,985,357
+Mortgage loans receivable, net 1,387 8,524 7 2,325 138,153 2 20,389
+Hedging derivatives asset - - - 3,362 3,362
+Capital assets, net 1,478 - - - 1,478
+Other assets, net 17 - - - 17
+TOTAL NONCURRENT ASSETS $ 2,882 $ 8 ,524 $ 7 2,325 $ 3 ,126,872 $ 3 ,210,603
+TOTAL ASSETS $ 263,506 $ 2 37,293 $ 1 47,502 $ 4,167,649 $ 4 ,815,950
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred outflows for pensions $ 4 ,716 $ - $ - $ - $ 4 ,716
+Deferred outflows for other postemployment benefits 6 ,220 - - - 6,220
+Accumulated decrease in fair value of hedging derivatives - - - 5 47 5 47
+TOTAL DEFERRED OUTFLOWS OF RESOURCES $ 10,936 $ - $ - $ 547 $ 1 1,483
+LIABILITIES
+Current liabilities:
+Bonds payable $ - $ - $ - $ 6 1,895 $ 6 1,895
+Accrued interest payable - - - 6 7,890 6 7,890
+Accounts payable 721 - 1 ,645 920 3,286
+Unearned revenues 2 ,972 1,905 - - 4,877
+Lease liabilties 644 - - - 6 44
+Other liabilities 1,375 - - 1 11 1,486
+TOTAL CURRENT LIABILITIES $ 5,712 $ 1 ,905 $ 1,645 $ 1 30,816 $ 1 40,078
+Noncurrent liabilities:
+Bonds payable, net $ - $ - $ - $ 3 ,641,266 $ 3 ,641,266
+Hedging derivatives liability - - - 5 47 5 47
+Unearned revenues 2 6,593 - - - 2 6,593
+Pension liability 8,828 - - - 8,828
+Other postemployment benefits 1 7,443 - - - 1 7,443
+Lease liabilities 794 - - - 7 94
+Other liabilities 4,484 - - 1,702 6,186
+TOTAL NONCURRENT LIABILITIES $ 58,142 $ - $ - $ 3 ,643,515 $ 3 ,701,657
+TOTAL LIABILITIES $ 63,854 $ 1,905 $ 1,645 $ 3 ,774,331 $ 3 ,841,735
+DEFERRED INFLOWS OF RESOURCES
+Deferred inflows for pensions $ 26 $ - $ - $ - $ 2 6
+Deferred inflows for other postemployment benefits 2 ,517 - - - 2,517
+Accumulated increase in fair value of hedging derivatives - - - 3,362 3,362
+TOTAL DEFERRED INFLOWS OF RESOURCES $ 2,543 $ - $ - $ 3 ,362 $ 5 ,905
+NET POSITION
+Net investment in capital assets $ 1 ,478 $ - $ - $ - $ 1 ,478
+Restricted net position 2 3,350 235,388 1 45,857 3 90,503 7 95,098
+Unrestricted net position 1 83,217 - - - 183,217
+TOTAL NET POSITION $ 208,045 $ 2 35,388 $ 1 45,857 $ 3 90,503 $ 9 79,793
+44
+NORTH CAROLINA HOUSING FINANCE AGENCY
+COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION
+YEAR ENDED JUNE 30, 2025
+AGENCY GRANT HOME OWNERSHIP
+PROGRAMS PROGRAMS BOND PROGRAMS
+Housing Trust Federal and
+(in thousands) Fund Programs State Programs Total
+OPERATING REVENUES
+Interest on investments $ 10,184 $ 9,350 $ 2,229 $ 1 65,543 $ 1 87,306
+Net increase (decrease) in fair value of investments - - - 6 2,345 6 2,345
+Interest on mortgage loans 2 89 4 50 9 12 9,997 1 1,648
+Federal program awards received - 3 3,450 2 44,264 - 277,714
+Nonfederal program awards received - 8,935 - - 8,935
+Program income/fees 3 3,793 5,070 1 8,114 1 6,945 7 3,922
+Other revenues - 1 44 1 03 34 2 81
+TOTAL OPERATING REVENUES $ 44,266 $ 5 7,399 $ 2 65,622 $ 2 54,864 $ 6 22,151
+OPERATING EXPENSES
+Interest on bonds $ - $ - $ - $ 120,541 $ 1 20,541
+Lease interest expense 40 - - - 40
+Mortgage servicing expense - - - 6 18 6 18
+Federal program expense - 2,079 275,200 - 277,279
+Nonfederal program expense 2,592 - - 6 7,788 7 0,380
+General and administrative expense 2 4,615 - 6 ,601 1,203 3 2,419
+Other expenses 5 - 1 ,349 12 1,366
+TOTAL OPERATING EXPENSES $ 27,252 $ 2,079 $ 283,150 $ 1 90,162 $ 5 02,643
+OPERATING INCOME (LOSS) $ 17,014 $ 5 5,320 $ (17,528) $ 64,702 $ 119,508
+NON-OPERATING REVENUES (EXPENSES)
+Transfers in (out) $ 6 ,684 (21,124) $ 1 4,767 $ (327) $ -
+State appropriations received - 5 2,660 3,000 - 5 5,660
+State grants received - 3,366 5 2,633 - 5 5,999
+Noncapital contributions 6 - - - 6
+State program expense ( 1) (54,630) ( 53,742) - ( 108,373)
+TOTAL NON-OPERATING REVENUES (EXPENSES) $ 6,689 $ (19,728) $ 1 6,658 $ (327) $ 3 ,292
+CHANGE IN NET POSITION $ 23,703 $ 3 5,592 $ (870) $ 6 4,375 $ 122,800
+TOTAL NET POSITION - BEGINNING $ 184,342 $ 1 99,796 $ 1 46,727 $ 3 26,128 $ 8 56,993
+TOTAL NET POSITION - ENDING $ 208,045 $ 2 35,388 $ 1 45,857 $ 3 90,503 $ 9 79,793
+45
+NORTH CAROLINA HOUSING FINANCE AGENCY
+COMBINING STATEMENT OF CASH FLOWS
+YEAR ENDED JUNE 30, 2025
+AGENCY GRANT HOME OWNERSHIP
+PROGRAMS PROGRAMS BOND PROGRAMS
+Housing Trust Federal and
+(in thousands) Fund Programs State Programs Total
+Cash flows from operating activities:
+Interest on mortgage loans $ 2 89 $ 4 50 $ 9 19 $ 10,054 $ 11,712
+Principal payments on mortgage loans 2 ,349 1 ,280 7 ,585 22,273 3 3,487
+Purchase of mortgage loans (3,059) ( 10,299) (5,399) - ( 18,757)
+Sale of mortgage loans held for sale - - - 275,323 275,323
+Purchase of mortgage loans held for sale - - - ( 266,215) ( 266,215)
+Federal program awards received - 3 3,450 247,075 - 280,525
+Nonfederal program awards received - 8 ,935 - - 8 ,935
+Federal program expense - (2,079) ( 274,043) - ( 276,122)
+Nonfederal program expense (2,592) - - ( 67,788) ( 70,380)
+Federal grant administration income - - 9 ,686 - 9 ,686
+Program income/fees 3 8,105 6 ,975 8 ,156 16,945 7 0,181
+Other expenses ( 23,947) - ( 11,072) (906) ( 35,925)
+Other revenues 2 ,892 1 13 (812) 1 94 2 ,387
+Net cash provided by (used in) operating activities $ 14,037 $ 38,825 $ ( 17,905) $ ( 10,120) $ 24,837
+Cash flows from non-capital financing activities:
+Issuance of bonds $ - $ - $ - $ 1,158,000 $ 1,158,000
+Principal repayments on bonds - - - ( 211,890) ( 211,890)
+Interest paid on bonds - - - ( 71,158) ( 71,158)
+Bond issuance costs paid - - - (6,822) (6,822)
+Net transfers 6 ,684 ( 21,124) 1 4,767 (327) -
+State appropriations received - 5 2,660 3 ,000 - 5 5,660
+State grants received - 3 ,366 5 2,633 - 5 5,999
+State program expense (1) ( 54,630) ( 53,742) - ( 108,373)
+Noncapital contributions 6 - - - 6
+Net cash provided by (used in) non-capital financing activities $ 6 ,689 $ ( 19,728) $ 16,658 $ 867,803 $ 871,422
+Cash flows from investing activities:
+Proceeds from sales or maturities of investments $ - $ - $ - $ 325,644 $ 325,644
+Purchase of investments - - - (1,231,390) ( 1,231,390)
+Earnings on investments 1 0,184 9 ,350 2 ,229 161,013 182,776
+Net cash provided by (used in) investing activities $ 10,184 $ 9 ,350 $ 2,229 $ ( 744,733) $ ( 722,970)
+Net increase (decrease) in cash and cash equivalents, unrestricted and restricted $ 30,910 $ 28,447 $ 9 82 $ 112,950 $ 173,289
+Cash and cash equivalents, unrestricted and restricted, at beginning of year 218,455 188,589 6 6,834 683,558 1,157,436
+Cash and cash equivalents, unrestricted and restricted, at end of year $ 249,365 $ 217,036 $ 67,816 $ 796,508 $ 1,330,725
+Reconciliation of operating income (loss) to net cash
+provided by (used in) operating activities:
+Operating income (loss) $ 17,014 $ 55,320 $ ( 17,528) $ 64,702 $ 119,508
+Adjustments to reconcile operating income (loss) to net cash
+provided by (used in) operating activities:
+Interest on investments ( 10,184) (9,350) (2,229) ( 165,543) ( 187,306)
+Decrease (increase) in fair value of investments - - - ( 62,345) ( 62,345)
+Interest on bonds - - - 120,541 120,541
+Change in operating assets and liabilities:
+Decrease (increase) in mortgage loans receivable (710) (9,163) 3 ,758 22,201 1 6,086
+Decrease (increase) in mortgage loans held for sale - - - 9 ,108 9 ,108
+Decrease (increase) in accrued interest receivable on mortgage loans - - 7 1 26 1 33
+Decrease (increase) in other assets 3 ,809 1 13 2 ,067 (3,199) 2 ,790
+Decrease (increase) in deferred outflows of resources (1,298) - - (156) (1,454)
+Increase (decrease) in accounts payable and other liabilities 2 ,645 - (3,640) 1 ,083 88
+Increase (decrease) in deferred inflows of resources (1,401) - - 3 ,362 1 ,961
+Increase (decrease) in unearned revenues 4 ,162 1 ,905 (340) - 5 ,727
+Total adjustments $ ( 2,977) $ ( 16,495) $ (377) $ ( 74,822) $ ( 94,671)
+Net cash provided by (used in) operating activities $ 14,037 $ 38,825 $ ( 17,905) $ ( 10,120) $ 24,837
+46
+This audit report required 838 audit hours at a cost of $121,900.
+Our mission is to provide safe, affordable housing opportunities to enhance
+the quality of life of North Carolinians.
+A self-supporting public agency.
