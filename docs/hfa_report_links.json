@@ -1,0 +1,410 @@
+{
+  "AK": {
+    "state": "AK",
+    "hfa_name": "Alaska Housing Finance Corporation",
+    "hfa_abbr": "AHFC",
+    "page_url": "https://www.ahfc.us/investors/financials-histori",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "AL": {
+    "state": "AL",
+    "hfa_name": "Alabama Housing Finance Authority",
+    "hfa_abbr": "AHFA",
+    "page_url": "https://www.ahfa.com/resources/investors",
+    "fy2024_pdf": "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2024-ahfa-financial-statements.pdf",
+    "fy2025_pdf": "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2025-ahfa-financial-statements.pdf"
+  },
+  "AR": {
+    "state": "AR",
+    "hfa_name": "Arkansas Development Finance Authority",
+    "hfa_abbr": "ADFA",
+    "page_url": "https://adfa.arkansas.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://adfa.arkansas.gov/wp-content/uploads/2025/12/ADFA-FS-Final-3.pdf"
+  },
+  "AZ": {
+    "state": "AZ",
+    "hfa_name": "Arizona Department of Housing",
+    "hfa_abbr": "ADOH",
+    "page_url": "https://housing.az.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "CA": {
+    "state": "CA",
+    "hfa_name": "California Housing Finance Agency",
+    "hfa_abbr": "CalHFA",
+    "page_url": "https://www.calhfa.ca.gov/about/financials/reports/index.htm",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "CO": {
+    "state": "CO",
+    "hfa_name": "Colorado Housing and Finance Authority",
+    "hfa_abbr": "CHFA",
+    "page_url": "https://www.chfainfo.com/investors/audited-financial-statements",
+    "fy2024_pdf": "https://www.chfainfo.com/getattachment/73478f64-62be-4dbc-a9c7-137f09539fd2/chfa-2024-financials.pdf",
+    "fy2025_pdf": "https://www.chfainfo.com/getattachment/7d8e4899-6f00-428a-80e4-f45e3ea826bd/chfa-2025-financials.pdf"
+  },
+  "CT": {
+    "state": "CT",
+    "hfa_name": "Connecticut Housing Finance Authority",
+    "hfa_abbr": "CHFA",
+    "page_url": "https://www.chfa.org/",
+    "fy2024_pdf": "https://www.chfa.org/assets/1/6/2024_Annual_Audited_Financial_Statement.pdf",
+    "fy2025_pdf": "https://www.chfa.org/assets/1/6/2025_Audited_Financial_Statement.pdf"
+  },
+  "DC": {
+    "state": "DC",
+    "hfa_name": "DC Housing Finance Agency",
+    "hfa_abbr": "DCHFA",
+    "page_url": "https://www.dchfa.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://dchfa.org/wp-content/uploads/2026/02/final_District-of-Columbia-HFA_FS_20252026020207.pdf"
+  },
+  "DE": {
+    "state": "DE",
+    "hfa_name": "Delaware State Housing Authority",
+    "hfa_abbr": "DSHA",
+    "page_url": "https://www.destatehousing.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://auditor.delaware.gov/wp-content/uploads/sites/209/2026/04/Delaware-State-Housing-Authority-FY25-Financial-Statement-Audit-Report.pdf"
+  },
+  "FL": {
+    "state": "FL",
+    "hfa_name": "Florida Housing Finance Corporation",
+    "hfa_abbr": "FloridaHousing",
+    "page_url": "https://www.floridahousing.org/about-florida-housing/data-docs-reports",
+    "fy2024_pdf": "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/finance/audited-financial-reports/2024-audited-financial-statements.pdf",
+    "fy2025_pdf": "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/finance/audited-financial-reports/2025-audited-financial-statements.pdf"
+  },
+  "GA": {
+    "state": "GA",
+    "hfa_name": "Georgia Housing and Finance Authority",
+    "hfa_abbr": "GHFA",
+    "page_url": "https://www.dca.ga.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://open.ga.gov/openga/report/downloadFile?rid=33638"
+  },
+  "HI": {
+    "state": "HI",
+    "hfa_name": "Hawaii Housing Finance and Development Corporation",
+    "hfa_abbr": "HHFDC",
+    "page_url": "https://dbedt.hawaii.gov/hhfdc/",
+    "fy2024_pdf": "https://files.hawaii.gov/auditor/Reports/2024_Audit/HHFDC2024.pdf",
+    "fy2025_pdf": "https://files.hawaii.gov/auditor/Reports/2025_Audit/HHFDC2025.pdf"
+  },
+  "IA": {
+    "state": "IA",
+    "hfa_name": "Iowa Finance Authority",
+    "hfa_abbr": "IFA",
+    "page_url": "https://opportunityiowa.gov/about/iowa-finance-authority/financial-reports",
+    "fy2024_pdf": "https://opportunityiowa.gov/media/6076/download?inline=",
+    "fy2025_pdf": "https://opportunityiowa.gov/media/7575/download?inline="
+  },
+  "ID": {
+    "state": "ID",
+    "hfa_name": "Idaho Housing and Finance Association",
+    "hfa_abbr": "IHFA",
+    "page_url": "https://www.idahohousing.com/",
+    "fy2024_pdf": "https://www.idahohousing.com/documents/2024-ihfa-financial-report.pdf",
+    "fy2025_pdf": "https://www.idahohousing.com/documents/2025-ihfa-financial-report.pdf"
+  },
+  "IL": {
+    "state": "IL",
+    "hfa_name": "Illinois Housing Development Authority",
+    "hfa_abbr": "IHDA",
+    "page_url": "https://www.ihda.org/",
+    "fy2024_pdf": "https://www.ihda.org/wp-content/uploads/2024/12/IHDA-June-30-2024-ACFR-1.pdf",
+    "fy2025_pdf": "https://www.ihda.org/wp-content/uploads/2025/12/FY2025-IHDA-ACFR.pdf"
+  },
+  "IN": {
+    "state": "IN",
+    "hfa_name": "Indiana Housing and Community Development Authority",
+    "hfa_abbr": "IHCDA",
+    "page_url": "https://www.in.gov/ihcda/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.in.gov/ihcda/files/IHCDA-2025-FY-Audited-FS.pdf"
+  },
+  "KS": {
+    "state": "KS",
+    "hfa_name": "Kansas Housing Resources Corporation",
+    "hfa_abbr": "KHRC",
+    "page_url": "https://kshousingcorp.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://admin.ks.gov/browse/files/d2d39a0deef8464faaba21b8f4e69a24/download"
+  },
+  "KY": {
+    "state": "KY",
+    "hfa_name": "Kentucky Housing Corporation",
+    "hfa_abbr": "KHC",
+    "page_url": "https://www.kyhousing.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.kyhousing.org/sites/default/files/2026-05/KHC%202025%20FS%20Report%20-%20Short-Form%20-%20FINAL.pdf"
+  },
+  "LA": {
+    "state": "LA",
+    "hfa_name": "Louisiana Housing Corporation",
+    "hfa_abbr": "LHC",
+    "page_url": "https://www.lhc.la.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://webapps3.lhc.la.gov/documents/BoardCommitteeMaterials/2026/January/ACM/LHC%20Financial%20Statement%20Audit%20Report%20for%20the%20FYE%20June%202025.pdf"
+  },
+  "MA": {
+    "state": "MA",
+    "hfa_name": "MassHousing",
+    "hfa_abbr": "MassHousing",
+    "page_url": "https://www.masshousing.com/about/investors",
+    "fy2024_pdf": "https://www.masshousing.com/-/media/Files/Financials/FY24_AnnualReport.pdf",
+    "fy2025_pdf": "https://www.masshousing.com/-/media/Files/Financials/FY25_AnnualReport.pdf"
+  },
+  "MD": {
+    "state": "MD",
+    "hfa_name": "Maryland Community Development Administration",
+    "hfa_abbr": "CDA",
+    "page_url": "https://dhcd.maryland.gov/Investors/Pages/default.aspx",
+    "fy2024_pdf": "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2024_06_30fs.pdf",
+    "fy2025_pdf": "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2025_06_30fs.pdf"
+  },
+  "ME": {
+    "state": "ME",
+    "hfa_name": "MaineHousing",
+    "hfa_abbr": "MaineHousing",
+    "page_url": "https://www.mainehousing.org/about/financial-reports",
+    "fy2024_pdf": "https://www.mainehousing.org/docs/default-source/financial-statements/12-31-2024-audited-financials.pdf",
+    "fy2025_pdf": "https://www.mainehousing.org/docs/default-source/financial-statements/12-31-2025-audited-financials.pdf"
+  },
+  "MI": {
+    "state": "MI",
+    "hfa_name": "Michigan State Housing Development Authority",
+    "hfa_abbr": "MSHDA",
+    "page_url": "https://www.michigan.gov/mshda",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://audgen.michigan.gov/wp-content/uploads/2025/10/MSHDA-ACFR-0625-AUD-Final.pdf"
+  },
+  "MN": {
+    "state": "MN",
+    "hfa_name": "Minnesota Housing Finance Agency",
+    "hfa_abbr": "MNHousing",
+    "page_url": "https://www.mnhousing.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.lrl.mn.gov/docs/2025/other/251924.pdf"
+  },
+  "MO": {
+    "state": "MO",
+    "hfa_name": "Missouri Housing Development Commission",
+    "hfa_abbr": "MHDC",
+    "page_url": "https://www.mhdc.com/",
+    "fy2024_pdf": "https://archive.org/download/2024MHDCFinancialStatements/2024MHDCFinancialStatements.pdf",
+    "fy2025_pdf": "https://archive.org/download/2025MHDCFinancialStatements/2025MHDCFinancialStatements.pdf"
+  },
+  "MS": {
+    "state": "MS",
+    "hfa_name": "Mississippi Home Corporation",
+    "hfa_abbr": "MHC",
+    "page_url": "https://www.mshomecorp.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "MT": {
+    "state": "MT",
+    "hfa_name": "Montana Housing",
+    "hfa_abbr": "MTHousing",
+    "page_url": "https://housing.mt.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://archive.legmt.gov/content/Committees/Administration/audit/2025-26/Meetings/April-2026/25-07.pdf"
+  },
+  "NC": {
+    "state": "NC",
+    "hfa_name": "North Carolina Housing Finance Agency",
+    "hfa_abbr": "NCHFA",
+    "page_url": "https://www.nchfa.com/",
+    "fy2024_pdf": "https://nchfa.com/sites/default/files/page_attachments/afs06-30-24.pdf",
+    "fy2025_pdf": "https://nchfa.com/sites/default/files/page_attachments/afs06-30-25.pdf"
+  },
+  "ND": {
+    "state": "ND",
+    "hfa_name": "North Dakota Housing Finance Agency",
+    "hfa_abbr": "NDHFA",
+    "page_url": "https://www.ndhfa.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.ndhousing.nd.gov/sites/www/files/documents/Investors/AuditedFinancialStatements2025and2024.pdf"
+  },
+  "NE": {
+    "state": "NE",
+    "hfa_name": "Nebraska Investment Finance Authority",
+    "hfa_abbr": "NIFA",
+    "page_url": "https://www.nifa.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Agencies/Nebraska_Investment_Finance_Authority/101_20251109-143146.pdf"
+  },
+  "NH": {
+    "state": "NH",
+    "hfa_name": "New Hampshire Housing Finance Authority",
+    "hfa_abbr": "NHHousing",
+    "page_url": "https://www.nhhousing.org/resources/publications-reports/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "NJ": {
+    "state": "NJ",
+    "hfa_name": "New Jersey Housing and Mortgage Finance Agency",
+    "hfa_abbr": "NJHMFA",
+    "page_url": "https://nj.gov/dca/hmfa/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "NM": {
+    "state": "NM",
+    "hfa_name": "New Mexico Mortgage Finance Authority",
+    "hfa_abbr": "MFA",
+    "page_url": "https://housingnm.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://housingnm.org/uploads/documents/1a_FY_2025_New_Mexico_Mortgage_Finance_Authority_Audited_Finacial_Statements.pdf"
+  },
+  "NV": {
+    "state": "NV",
+    "hfa_name": "Nevada Housing Division",
+    "hfa_abbr": "NHD",
+    "page_url": "https://housing.nv.gov/About/Financial_Reports/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "NY": {
+    "state": "NY",
+    "hfa_name": "New York State Homes and Community Renewal",
+    "hfa_abbr": "HCR",
+    "page_url": "https://hcr.ny.gov/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "OH": {
+    "state": "OH",
+    "hfa_name": "Ohio Housing Finance Agency",
+    "hfa_abbr": "OHFA",
+    "page_url": "https://ohiohome.org/financials/default.aspx",
+    "fy2024_pdf": "https://ohiohome.org/financials/documents/FincStatementsFY24.pdf",
+    "fy2025_pdf": "https://ohiohome.org/financials/documents/FincStatementsFY25.pdf"
+  },
+  "OK": {
+    "state": "OK",
+    "hfa_name": "Oklahoma Housing Finance Agency",
+    "hfa_abbr": "OHFA_OK",
+    "page_url": "https://www.ohfa.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-Single-Audit-Report-FINAL.pdf"
+  },
+  "OR": {
+    "state": "OR",
+    "hfa_name": "Oregon Housing and Community Services",
+    "hfa_abbr": "OHCS",
+    "page_url": "https://www.oregon.gov/ohcs/Pages/index.aspx",
+    "fy2024_pdf": "https://sos.oregon.gov/audits/Documents/2024-26.pdf",
+    "fy2025_pdf": null
+  },
+  "PA": {
+    "state": "PA",
+    "hfa_name": "Pennsylvania Housing Finance Agency",
+    "hfa_abbr": "PHFA",
+    "page_url": "https://www.phfa.org/about/reports/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "RI": {
+    "state": "RI",
+    "hfa_name": "Rhode Island Housing",
+    "hfa_abbr": "RIHousing",
+    "page_url": "https://www.rihousing.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "SC": {
+    "state": "SC",
+    "hfa_name": "South Carolina State Housing Finance and Development Authority",
+    "hfa_abbr": "SCHFDA",
+    "page_url": "https://www.schousing.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
+  },
+  "SD": {
+    "state": "SD",
+    "hfa_name": "South Dakota Housing Development Authority",
+    "hfa_abbr": "SDHDA",
+    "page_url": "https://www.sdhda.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://legislativeaudit.sd.gov/reports/State/Housing%20Development%20Authority%202025.pdf"
+  },
+  "TN": {
+    "state": "TN",
+    "hfa_name": "Tennessee Housing Development Agency",
+    "hfa_abbr": "THDA",
+    "page_url": "https://thda.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://dogvxws799i6n.cloudfront.net/wp-content/uploads/THDA-Audited-Financial-Statement-6-30-2025-FINAL.pdf"
+  },
+  "TX": {
+    "state": "TX",
+    "hfa_name": "Texas Department of Housing and Community Affairs",
+    "hfa_abbr": "TDHCA",
+    "page_url": "https://www.tdhca.texas.gov/programs/financial-administration-division",
+    "fy2024_pdf": "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/24-BasicFinancials.pdf",
+    "fy2025_pdf": "https://www.tdhca.texas.gov/sites/default/files/pdf/fa/25-BasicFinancials.pdf"
+  },
+  "UT": {
+    "state": "UT",
+    "hfa_name": "Utah Housing Corporation",
+    "hfa_abbr": "UtahHousing",
+    "page_url": "https://utahhousingcorp.org/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.utah.gov/pmn/files/1338619.pdf"
+  },
+  "VA": {
+    "state": "VA",
+    "hfa_name": "Virginia Housing",
+    "hfa_abbr": "VirginiaHousing",
+    "page_url": "https://www.virginiahousing.com/partners/investors/financial-statements",
+    "fy2024_pdf": "https://mc-7eaf08cc-3802-4bab-9abf-a732-cdn-endpoint.azureedge.net/-/media/docs/partners/investors/financial-statements/annual-statements/2024vhdafinancialstatements_final.pdf",
+    "fy2025_pdf": "https://mc-7eaf08cc-3802-4bab-9abf-a732-cdn-endpoint.azureedge.net/-/media/docs/partners/investors/financial-statements/annual-statements/2025vhdafinancialstatements_final_public.pdf"
+  },
+  "VT": {
+    "state": "VT",
+    "hfa_name": "Vermont Housing Finance Agency",
+    "hfa_abbr": "VHFA",
+    "page_url": "https://vhfa.org/partners/investors/annual-financial-statements",
+    "fy2024_pdf": "https://vhfa.org/finance/statements/fy2024-audited-financial-statements-final-w-opinionpdf",
+    "fy2025_pdf": "https://vhfa.org/finance/statements/fy2025-vhfa-audited-financial-packagepdf"
+  },
+  "WA": {
+    "state": "WA",
+    "hfa_name": "Washington State Housing Finance Commission",
+    "hfa_abbr": "WSHFC",
+    "page_url": "https://www.wshfc.org/finance/investor/",
+    "fy2024_pdf": "https://www.wshfc.org/finance/investor/AuditedFinancials2024.06.30and2023.pdf",
+    "fy2025_pdf": "https://www.wshfc.org/finance/investor/AuditedFinancials2025.06.30and2024.pdf"
+  },
+  "WI": {
+    "state": "WI",
+    "hfa_name": "Wisconsin Housing and Economic Development Authority",
+    "hfa_abbr": "WHEDA",
+    "page_url": "https://www.wheda.com/about-wheda/annual-report--financials",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.wheda.com/globalassets/documents/annual-reports-and-financials/2025/wheda-audit-fy-2025.pdf"
+  },
+  "WV": {
+    "state": "WV",
+    "hfa_name": "West Virginia Housing Development Fund",
+    "hfa_abbr": "WVHDF",
+    "page_url": "https://www.wvhdf.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.wvhdf.com/wp-content/uploads/2026/02/FY2025-WVHDF-Annual-Comprehensive-Financial-Report.pdf"
+  },
+  "WY": {
+    "state": "WY",
+    "hfa_name": "Wyoming Community Development Authority",
+    "hfa_abbr": "WCDA",
+    "page_url": "https://www.wyomingcda.com/",
+    "fy2024_pdf": null,
+    "fy2025_pdf": "https://www.wyomingcda.com/wp-content/uploads/2025/12/Financial-Report-2025.pdf"
+  }
+}

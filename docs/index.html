@@ -236,6 +236,54 @@
     .btn-report:hover {
       background: rgba(56, 189, 248, 0.22);
     }
+    select#state-report-select {
+      background: #0f172a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.45rem 0.6rem;
+      font-size: 0.85rem;
+      max-width: 220px;
+      cursor: pointer;
+    }
+    select#state-report-select:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+    .leaflet-popup-content-wrapper {
+      background: #1e293b;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+    }
+    .leaflet-popup-tip { background: #1e293b; }
+    .leaflet-popup-content { margin: 0.75rem 0.85rem; }
+    .hfa-popup-title {
+      font-size: 0.9rem;
+      font-weight: 600;
+      margin-bottom: 0.2rem;
+    }
+    .hfa-popup-sub {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 0.65rem;
+    }
+    .hfa-popup-links {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+    .hfa-popup-links a {
+      color: var(--accent);
+      font-size: 0.8rem;
+      text-decoration: none;
+    }
+    .hfa-popup-links a:hover { text-decoration: underline; }
+    .hfa-popup-empty {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
     .report-modal {
       position: fixed;
       inset: 0;
@@ -353,6 +401,12 @@
         <button data-lang="en" class="active">English</button>
       </div>
     </div>
+    <div class="control-group">
+      <label id="lbl-reports">HFA Reports</label>
+      <select id="state-report-select">
+        <option value="">—</option>
+      </select>
+    </div>
     <button type="button" class="btn-report" id="btn-report">FY2025 Analysis Report</button>
   </div>
 
@@ -396,6 +450,12 @@
         title: "美国州级住房金融机构数据地图",
         subtitle: "基于 FY2024/FY2025 ACFR 报告及美国政府公开统计数据",
         lblYear: "财年", lblLang: "语言",
+        lblReports: "州报告",
+        reportSelectPlaceholder: "选择州查看 ACFR / 财报",
+        reportPageLink: "机构财报网页",
+        reportFy2024Pdf: "FY2024 ACFR / 财务报表",
+        reportFy2025Pdf: "FY2025 ACFR / 财务报表",
+        reportNoLinks: "暂无可用报告链接",
         sidebarTitle: "地图显示选项",
         sidebarHint: "勾选数据项，地图上各州显示对应指标数值",
         selectAll: "全选", clearAll: "清除",
@@ -423,6 +483,12 @@
         title: "U.S. State Housing Finance Authority Data Map",
         subtitle: "Based on FY2024/FY2025 ACFR reports and U.S. government open data",
         lblYear: "Fiscal Year", lblLang: "Language",
+        lblReports: "HFA Reports",
+        reportSelectPlaceholder: "Select a state for ACFR / reports",
+        reportPageLink: "Agency financials page",
+        reportFy2024Pdf: "FY2024 ACFR / financial statements",
+        reportFy2025Pdf: "FY2025 ACFR / financial statements",
+        reportNoLinks: "No report links available",
         sidebarTitle: "Map Display Options",
         sidebarHint: "Selected metrics appear as values on each state",
         selectAll: "Select All", clearAll: "Clear All",
@@ -565,6 +631,7 @@
 
     let lang = "en", year = "2024";
     let dataset = null, stateLayer = null;
+    let reportLinks = {};
     const reportCache = {};
     let reportOpen = false;
     const selectedMetrics = new Set(["net_position"]);
@@ -669,6 +736,55 @@
 
     function getStateData(abbr) {
       return dataset?.states?.find(s => s.state === abbr);
+    }
+
+    function getReportLinks(abbr) {
+      return reportLinks?.[abbr] || null;
+    }
+
+    function buildReportPopupHtml(abbr) {
+      const rec = getStateData(abbr);
+      const links = getReportLinks(abbr);
+      const title = rec?.hfa_name || links?.hfa_name || abbr;
+      const sub = [abbr, rec?.hfa_abbr || links?.hfa_abbr].filter(Boolean).join(" · ");
+      const items = [];
+      if (links?.page_url) {
+        items.push(`<a href="${links.page_url}" target="_blank" rel="noopener noreferrer">${t("reportPageLink")}</a>`);
+      }
+      if (links?.fy2024_pdf) {
+        items.push(`<a href="${links.fy2024_pdf}" target="_blank" rel="noopener noreferrer">${t("reportFy2024Pdf")}</a>`);
+      }
+      if (links?.fy2025_pdf) {
+        items.push(`<a href="${links.fy2025_pdf}" target="_blank" rel="noopener noreferrer">${t("reportFy2025Pdf")}</a>`);
+      }
+      const body = items.length
+        ? `<div class="hfa-popup-links">${items.join("")}</div>`
+        : `<div class="hfa-popup-empty">${t("reportNoLinks")}</div>`;
+      return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${body}`;
+    }
+
+    function openStateReportPopup(abbr) {
+      const layer = layerByAbbr.get(abbr);
+      if (!layer) return;
+      const select = document.getElementById("state-report-select");
+      if (select) select.value = abbr;
+      layer.setPopupContent(buildReportPopupHtml(abbr));
+      layer.openPopup();
+    }
+
+    function populateReportSelect() {
+      const select = document.getElementById("state-report-select");
+      if (!select || !dataset?.states) return;
+      const current = select.value;
+      const opts = [`<option value="">${t("reportSelectPlaceholder")}</option>`];
+      for (const s of [...dataset.states].sort((a, b) => a.state.localeCompare(b.state))) {
+        const label = lang === "zh"
+          ? `${s.state} · ${s.name_zh || s.name_en}`
+          : `${s.state} · ${s.name_en || s.hfa_name || s.state}`;
+        opts.push(`<option value="${s.state}">${label}</option>`);
+      }
+      select.innerHTML = opts.join("");
+      if (current && [...select.options].some(o => o.value === current)) select.value = current;
     }
 
     function primaryMetric() {
@@ -784,6 +900,10 @@
       return map.containerPointToLatLng(L.point(box.cx, box.cy));
     }
 
+    function formatMetricLine(k, text, showName) {
+      return showName ? `${tMetric(k)}: ${text}` : text;
+    }
+
     function computeLabelLayout(layer, abbr) {
       const selected = METRIC_KEYS.filter(k => selectedMetrics.has(k));
       if (!selected.length) return null;
@@ -791,7 +911,13 @@
       const rec = getStateData(abbr);
       const yd = rec?.[year] || {};
       const metrics = selected.filter(k => hasMetricValue(yd[k]));
-      const valueTexts = metrics.map(k => fmtDisplay(yd[k], k)).filter(Boolean);
+      const showMetricNames = selected.length > 1;
+      const valueTexts = metrics
+        .map(k => {
+          const text = fmtDisplay(yd[k], k);
+          return text ? formatMetricLine(k, text, showMetricNames) : null;
+        })
+        .filter(Boolean);
 
       const px = getStatePixelBox(layer);
       const maxW = px.width * (1 - LABEL_PAD * 2);
@@ -822,6 +948,7 @@
 
       return {
         metrics,
+        showMetricNames,
         chartW,
         chartH,
         valFs,
@@ -840,13 +967,14 @@
         const val = yd[k];
         const text = fmtDisplay(val, k);
         if (!text) return "";
+        const line = formatMetricLine(k, text, layout.showMetricNames);
         const color = METRIC_COLORS[k] || "#e8eaed";
         let tip = `${tMetric(k)}: ${text}`;
         if (k === "staff_count") {
           const src = yd.staff_count_source || rec?.staff_count_source;
           if (src) tip += ` (${src})`;
         }
-        return `<div class="st-val" style="color:${color};font-size:${layout.valFs}px;line-height:${layout.valLineH}px;height:${layout.valLineH}px" title="${tip}">${text}</div>`;
+        return `<div class="st-val" style="color:${color};font-size:${layout.valFs}px;line-height:${layout.valLineH}px;height:${layout.valLineH}px" title="${tip}">${line}</div>`;
       }).join("");
       return `<div class="st-wrap" style="width:${layout.chartW}px;height:${layout.chartH}px;opacity:${layout.opacity}">
         <div class="st-abbr" style="font-size:${layout.abbrFs}px;line-height:${layout.abbrLineH}px;height:${layout.abbrLineH}px">${abbr}</div>
@@ -893,9 +1021,17 @@
       const abbr = STATE_ABBR[feature.properties.name];
       if (!abbr) return;
       layerByAbbr.set(abbr, layer);
+      layer.bindPopup(() => buildReportPopupHtml(abbr), {
+        maxWidth: 320,
+        className: "hfa-popup",
+      });
       layer.on({
         mouseover: e => e.target.setStyle({ weight: 2.5, color: "#e2e8f0" }),
         mouseout: e => stateLayer.resetStyle(e.target),
+        click: () => {
+          const select = document.getElementById("state-report-select");
+          if (select) select.value = abbr;
+        },
       });
     }
 
@@ -963,18 +1099,23 @@
       document.getElementById("subtitle").textContent = t("subtitle");
       document.getElementById("lbl-year").textContent = t("lblYear");
       document.getElementById("lbl-lang").textContent = t("lblLang");
+      document.getElementById("lbl-reports").textContent = t("lblReports");
       document.getElementById("sidebar-title").textContent = t("sidebarTitle");
       document.getElementById("sidebar-hint").textContent = t("sidebarHint");
       document.getElementById("btn-select-all").textContent = t("selectAll");
       document.getElementById("btn-clear-all").textContent = t("clearAll");
       document.getElementById("btn-report").textContent = t("reportBtn");
       document.getElementById("btn-report-close").setAttribute("aria-label", t("closeReport"));
+      populateReportSelect();
       if (reportOpen) {
         document.getElementById("report-title").textContent = t("reportTitle");
         renderReportContent();
       }
       renderSources();
       renderMetricOptions();
+      layerByAbbr.forEach((layer, abbr) => {
+        if (layer.isPopupOpen()) layer.setPopupContent(buildReportPopupHtml(abbr));
+      });
     }
 
     function bindToggles() {
@@ -1012,6 +1153,10 @@
       document.getElementById("report-modal").onclick = e => {
         if (e.target.id === "report-modal") closeReport();
       };
+      document.getElementById("state-report-select").onchange = e => {
+        const abbr = e.target.value;
+        if (abbr) openStateReportPopup(abbr);
+      };
       document.addEventListener("keydown", e => {
         if (e.key === "Escape" && reportOpen) closeReport();
       });
@@ -1034,14 +1179,17 @@
             : "Open via a local server (run docs/serve.bat, then visit http://localhost:8080/index.html). Opening the HTML file directly blocks data loading."
         );
       }
-      const [dataResp, geoResp] = await Promise.all([
+      const [dataResp, geoResp, linksResp] = await Promise.all([
         fetch("state_data.json"),
         fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json"),
+        fetch("hfa_report_links.json"),
       ]);
       if (!dataResp.ok) throw new Error(`state_data.json HTTP ${dataResp.status}`);
       if (!geoResp.ok) throw new Error(`us-states.json HTTP ${geoResp.status}`);
+      if (!linksResp.ok) throw new Error(`hfa_report_links.json HTTP ${linksResp.status}`);
       dataset = await dataResp.json();
       const geo = await geoResp.json();
+      reportLinks = await linksResp.json();
 
       layerByAbbr.clear();
       if (stateLayer) map.removeLayer(stateLayer);

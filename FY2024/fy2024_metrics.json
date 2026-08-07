@@ -5,13 +5,15 @@
     "abbr": "AHFA",
     "source_file": "AL_AHFA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 485041000,
-    "net_position_prior": 302024000.0,
-    "net_position_change": 183017000.0,
+    "net_position": 484375000,
+    "net_position_prior": 302024000,
+    "net_position_change": 183017000,
     "net_position_change_pct": 60.59683998622626,
     "total_assets": 1082234000,
-    "net_position_ratio": 44.81849581513795,
-    "notes": []
+    "net_position_ratio": 44.75695644380051,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   },
   {
     "state": "AK",
@@ -20,7 +22,7 @@
     "source_file": "AK_AHFC_FY2024_ACFR.txt",
     "status": "downloaded",
     "net_position": null,
-    "net_position_prior": 13823000000.0,
+    "net_position_prior": 13823000000,
     "net_position_change": null,
     "net_position_change_pct": null,
     "total_assets": null,
@@ -52,7 +54,7 @@
     "abbr": "ADFA",
     "source_file": "",
     "status": "missing",
-    "net_position": 146205000.0,
+    "net_position": 146205000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
@@ -82,11 +84,11 @@
     "abbr": "CHFA",
     "source_file": "",
     "status": "missing",
-    "net_position": 828465000.0,
+    "net_position": 828465000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 10000000000.0,
+    "total_assets": 10000000000,
     "net_position_ratio": 8.284650000000001,
     "notes": [
       "未找到FY2024 PDF/文本"
@@ -98,11 +100,11 @@
     "abbr": "CHFA",
     "source_file": "CT_CHFA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 2000000.0,
+    "net_position": 2000000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 4670053873.0,
+    "total_assets": 4670053873,
     "net_position_ratio": 0.04282605842221726,
     "notes": []
   },
@@ -113,8 +115,8 @@
     "source_file": "DE_DSHA_FY2024_ACFR.txt",
     "status": "downloaded",
     "net_position": 705352858,
-    "net_position_prior": 811000000.0,
-    "net_position_change": -105647142.0,
+    "net_position_prior": 811000000,
+    "net_position_change": -105647142,
     "net_position_change_pct": -13.026774599260172,
     "total_assets": 1033142200,
     "net_position_ratio": 68.27258222537033,
@@ -126,7 +128,7 @@
     "abbr": "DCHFA",
     "source_file": "",
     "status": "missing",
-    "net_position": 211524332.0,
+    "net_position": 211524332,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
@@ -170,14 +172,15 @@
     "abbr": "HHFDC",
     "source_file": "HI_HHFDC_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": null,
+    "net_position": 2330519000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": null,
-    "net_position_ratio": null,
+    "total_assets": 2389133000,
+    "net_position_ratio": 97.54664139669077,
     "notes": [
-      "文件为州级ACFR/合并报表，未纳入HFA专项排名"
+      "文件为州级ACFR/合并报表，未纳入HFA专项排名",
+      "Corrected from FY2025 ACFR comparative statements"
     ]
   },
   {
@@ -186,11 +189,11 @@
     "abbr": "IHFA",
     "source_file": "ID_IHFA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 302024000.0,
-    "net_position_prior": 302024000.0,
-    "net_position_change": 0.0,
-    "net_position_change_pct": 0.0,
-    "total_assets": 1337700000.0,
+    "net_position": 302024000,
+    "net_position_prior": 302024000,
+    "net_position_change": 0,
+    "net_position_change_pct": 0,
+    "total_assets": 1337700000,
     "net_position_ratio": 22.577857516633028,
     "notes": []
   },
@@ -201,8 +204,8 @@
     "source_file": "IL_IHDA_FY2024_ACFR.txt",
     "status": "downloaded",
     "net_position": 1373800000,
-    "net_position_prior": 886003000.0,
-    "net_position_change": 487797000.0,
+    "net_position_prior": 886003000,
+    "net_position_change": 487797000,
     "net_position_change_pct": 55.05590838857205,
     "total_assets": 6526900000,
     "net_position_ratio": 21.048277130031103,
@@ -214,15 +217,16 @@
     "abbr": "IHCDA",
     "source_file": "IN_IHCDA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": null,
-    "net_position_prior": 2743779136.0,
+    "net_position": 497849911,
+    "net_position_prior": 2743779136,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": null,
-    "net_position_ratio": null,
+    "total_assets": 2740054627,
+    "net_position_ratio": 18.169342541359487,
     "notes": [
       "未能自动提取核心指标，需人工复核PDF",
-      "未能自动提取核心指标，需人工复核PDF"
+      "未能自动提取核心指标，需人工复核PDF",
+      "Corrected from FY2025 ACFR comparative statements"
     ]
   },
   {
@@ -235,7 +239,7 @@
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 93208000000.0,
+    "total_assets": 93208000000,
     "net_position_ratio": null,
     "notes": []
   },
@@ -266,7 +270,7 @@
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 63597000000.0,
+    "total_assets": 63597000000,
     "net_position_ratio": null,
     "notes": []
   },
@@ -276,11 +280,11 @@
     "abbr": "LHC",
     "source_file": "LA_LHC_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 1550828455.0,
+    "net_position": 1550828455,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 5790177000.0,
+    "total_assets": 5790177000,
     "net_position_ratio": 26.783783207318184,
     "notes": []
   },
@@ -290,11 +294,11 @@
     "abbr": "MaineHousing",
     "source_file": "ME_MaineHousing_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 3280000000.0,
+    "net_position": 3280000000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 26303348767.0,
+    "total_assets": 26303348767,
     "net_position_ratio": 12.469895103679974,
     "notes": []
   },
@@ -320,15 +324,16 @@
     "abbr": "MassHousing",
     "source_file": "MA_MassHousing_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": null,
+    "net_position": 1822847000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": null,
-    "net_position_ratio": null,
+    "total_assets": 7519040000,
+    "net_position_ratio": 24.243081563603862,
     "notes": [
       "未能自动提取核心指标，需人工复核PDF",
-      "未能自动提取核心指标，需人工复核PDF"
+      "未能自动提取核心指标，需人工复核PDF",
+      "Corrected from FY2025 ACFR comparative statements"
     ]
   },
   {
@@ -337,13 +342,15 @@
     "abbr": "MSHDA",
     "source_file": "MI_FY2024_full.txt",
     "status": "downloaded",
-    "net_position": 2920501000.0,
+    "net_position": 1160992000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 6469000000.0,
-    "net_position_ratio": 45.14609676920699,
-    "notes": []
+    "total_assets": 6868705000,
+    "net_position_ratio": 16.902633029078988,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   },
   {
     "state": "MN",
@@ -351,11 +358,11 @@
     "abbr": "MNHousing",
     "source_file": "MN_MNHousing_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 1389402000.0,
-    "net_position_prior": 719757000.0,
-    "net_position_change": 669645000.0,
+    "net_position": 1389402000,
+    "net_position_prior": 719757000,
+    "net_position_change": 669645000,
     "net_position_change_pct": 93.03765020694485,
-    "total_assets": 16088000000.0,
+    "total_assets": 16088000000,
     "net_position_ratio": 8.636263053207358,
     "notes": []
   },
@@ -366,7 +373,7 @@
     "source_file": "MS_MHC_FY2024_ACFR.txt",
     "status": "downloaded",
     "net_position": null,
-    "net_position_prior": 6072758000.0,
+    "net_position_prior": 6072758000,
     "net_position_change": null,
     "net_position_change_pct": null,
     "total_assets": null,
@@ -383,7 +390,7 @@
     "source_file": "MO_MHDC_FY2024_ACFR.txt",
     "status": "downloaded",
     "net_position": null,
-    "net_position_prior": 2014000000.0,
+    "net_position_prior": 2014000000,
     "net_position_change": null,
     "net_position_change_pct": null,
     "total_assets": null,
@@ -399,13 +406,15 @@
     "abbr": "MTHousing",
     "source_file": "MT_MTHousing_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 302000000.0,
+    "net_position": 169439799,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 886009021.0,
-    "net_position_ratio": 34.0854317328672,
-    "notes": []
+    "total_assets": 794690515,
+    "net_position_ratio": 21.321482489318498,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   },
   {
     "state": "NE",
@@ -413,11 +422,11 @@
     "abbr": "NIFA",
     "source_file": "",
     "status": "missing",
-    "net_position": 643937023.0,
+    "net_position": 643937023,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 2256453000.0,
+    "total_assets": 2256453000,
     "net_position_ratio": 28.53757747225402,
     "notes": [
       "未找到FY2024 PDF/文本"
@@ -449,7 +458,7 @@
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 89470000000.0,
+    "total_assets": 89470000000,
     "net_position_ratio": null,
     "notes": []
   },
@@ -459,11 +468,11 @@
     "abbr": "NJHMFA",
     "source_file": "NJ_NJHMFA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 567192000.0,
+    "net_position": 567192000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 45185000000.0,
+    "total_assets": 45185000000,
     "net_position_ratio": 1.2552661281398694,
     "notes": []
   },
@@ -505,7 +514,7 @@
     "abbr": "NCHFA",
     "source_file": "NC_NCHFA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": null,
+    "net_position": 856993000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
@@ -513,7 +522,8 @@
     "net_position_ratio": null,
     "notes": [
       "未能自动提取核心指标，需人工复核PDF",
-      "未能自动提取核心指标，需人工复核PDF"
+      "未能自动提取核心指标，需人工复核PDF",
+      "Corrected from FY2025 ACFR comparative statements"
     ]
   },
   {
@@ -522,11 +532,11 @@
     "abbr": "NDHFA",
     "source_file": "ND_raw.txt",
     "status": "downloaded",
-    "net_position": 302024000.0,
+    "net_position": 302024000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 1000000000.0,
+    "total_assets": 1000000000,
     "net_position_ratio": 30.2024,
     "notes": []
   },
@@ -636,7 +646,7 @@
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 100000000000.0,
+    "total_assets": 100000000000,
     "net_position_ratio": null,
     "notes": []
   },
@@ -646,11 +656,11 @@
     "abbr": "THDA",
     "source_file": "TN_THDA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 634885000.0,
-    "net_position_prior": 571430000.0,
-    "net_position_change": 63455000.0,
+    "net_position": 634885000,
+    "net_position_prior": 571430000,
+    "net_position_change": 63455000,
     "net_position_change_pct": 11.104597238506903,
-    "total_assets": 63000000000.0,
+    "total_assets": 63000000000,
     "net_position_ratio": 1.0077539682539682,
     "notes": []
   },
@@ -694,7 +704,7 @@
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 20400000000.0,
+    "total_assets": 20400000000,
     "net_position_ratio": null,
     "notes": []
   },
@@ -704,13 +714,15 @@
     "abbr": "VirginiaHousing",
     "source_file": "VA_VirginiaHousing_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 5491305000.0,
+    "net_position": 3859471718,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 6000000000.0,
-    "net_position_ratio": 91.52175,
-    "notes": []
+    "total_assets": 10909544382,
+    "net_position_ratio": 35.37702018397637,
+    "notes": [
+      "Corrected from ACFR: Total net position ,859,471,718 (was mis-extracted as 5491305000)"
+    ]
   },
   {
     "state": "WA",
@@ -718,13 +730,15 @@
     "abbr": "WSHFC",
     "source_file": "WA_WSHFC_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 935600000,
+    "net_position": 935580289,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 2162400000,
-    "net_position_ratio": 43.26674065852757,
-    "notes": []
+    "total_assets": 2162353345,
+    "net_position_ratio": 43.26676262986057,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   },
   {
     "state": "WV",
@@ -732,11 +746,11 @@
     "abbr": "WVHDF",
     "source_file": "WV_WVHDF_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 71592000.0,
+    "net_position": 71592000,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 12928000000.0,
+    "total_assets": 12928000000,
     "net_position_ratio": 0.5537747524752475,
     "notes": []
   },
@@ -746,13 +760,15 @@
     "abbr": "WHEDA",
     "source_file": "WI_WHEDA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 1100000000.0,
-    "net_position_prior": 4200000000.0,
-    "net_position_change": -3100000000.0,
+    "net_position": 964200000,
+    "net_position_prior": 4200000000,
+    "net_position_change": -3100000000,
     "net_position_change_pct": -73.80952380952381,
-    "total_assets": 2900000000.0,
-    "net_position_ratio": 37.93103448275862,
-    "notes": []
+    "total_assets": 4160100000,
+    "net_position_ratio": 23.177327468089707,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   },
   {
     "state": "WY",
@@ -760,12 +776,14 @@
     "abbr": "WCDA",
     "source_file": "WY_WCDA_FY2024_ACFR.txt",
     "status": "downloaded",
-    "net_position": 441265649.0,
+    "net_position": 441265649,
     "net_position_prior": null,
     "net_position_change": null,
     "net_position_change_pct": null,
-    "total_assets": 1017258000.0,
-    "net_position_ratio": 43.37794826877744,
-    "notes": []
+    "total_assets": 1405305159,
+    "net_position_ratio": 31.39998783709012,
+    "notes": [
+      "Corrected from FY2025 ACFR comparative statements"
+    ]
   }
 ]
