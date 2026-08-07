@@ -383,17 +383,10 @@
 <body>
   <header>
     <h1 id="title">U.S. State Housing Finance Authority Data Map</h1>
-    <p id="subtitle">Based on FY2024/FY2025 ACFR reports and U.S. government open data</p>
+    <p id="subtitle">Based on FY2025 ACFR reports and U.S. government open data</p>
   </header>
 
   <div class="controls">
-    <div class="control-group">
-      <label id="lbl-year">Fiscal Year</label>
-      <div class="toggle-group" id="year-toggle">
-        <button data-year="2024" class="active">2024</button>
-        <button data-year="2025">2025</button>
-      </div>
-    </div>
     <div class="control-group">
       <label id="lbl-lang">Language</label>
       <div class="toggle-group" id="lang-toggle">
@@ -448,7 +441,7 @@
     const I18N = {
       zh: {
         title: "美国州级住房金融机构数据地图",
-        subtitle: "基于 FY2024/FY2025 ACFR 报告及美国政府公开统计数据",
+        subtitle: "基于 FY2025 ACFR 报告及美国政府公开统计数据",
         lblYear: "财年", lblLang: "语言",
         lblReports: "州报告",
         reportSelectPlaceholder: "选择州查看 ACFR / 财报",
@@ -481,7 +474,7 @@
       },
       en: {
         title: "U.S. State Housing Finance Authority Data Map",
-        subtitle: "Based on FY2024/FY2025 ACFR reports and U.S. government open data",
+        subtitle: "Based on FY2025 ACFR reports and U.S. government open data",
         lblYear: "Fiscal Year", lblLang: "Language",
         lblReports: "HFA Reports",
         reportSelectPlaceholder: "Select a state for ACFR / reports",
@@ -521,7 +514,7 @@
 
     const SOURCE_I18N = {
       zh: {
-        hfa_financials: "FY2024/FY2025 州住房金融机构 ACFR 报告",
+        hfa_financials: "FY2025 州住房金融机构 ACFR 报告",
         hfa_staff_acfr: "HFA ACFR 全职员工/FTE 披露（如报告中有）",
         hfa_staff_linkedin: "LinkedIn 机构主页（ACFR 未披露时的员工人数）",
         hfa_staff_other: "机构官网、州预算等（hfa_staff_counts.json）",
@@ -531,7 +524,7 @@
         poverty_median_home: "美国 Census Bureau ACS 1 年估计",
       },
       en: {
-        hfa_financials: "FY2024/FY2025 State Housing Finance Authority ACFR reports",
+        hfa_financials: "FY2025 State Housing Finance Authority ACFR reports",
         hfa_staff_acfr: "HFA ACFR full-time employee/FTE disclosures when reported",
         hfa_staff_linkedin: "LinkedIn company pages (HFA staff counts when not in ACFR)",
         hfa_staff_other: "Agency websites and state budget sources (hfa_staff_counts.json)",
@@ -629,7 +622,7 @@
       "District of Columbia":"DC",
     };
 
-    let lang = "en", year = "2024";
+    let lang = "en", year = "2025";
     let dataset = null, stateLayer = null;
     let reportLinks = {};
     const reportCache = {};
@@ -750,9 +743,6 @@
       const items = [];
       if (links?.page_url) {
         items.push(`<a href="${links.page_url}" target="_blank" rel="noopener noreferrer">${t("reportPageLink")}</a>`);
-      }
-      if (links?.fy2024_pdf) {
-        items.push(`<a href="${links.fy2024_pdf}" target="_blank" rel="noopener noreferrer">${t("reportFy2024Pdf")}</a>`);
       }
       if (links?.fy2025_pdf) {
         items.push(`<a href="${links.fy2025_pdf}" target="_blank" rel="noopener noreferrer">${t("reportFy2025Pdf")}</a>`);
@@ -1097,7 +1087,6 @@
     function renderControls() {
       document.getElementById("title").textContent = t("title");
       document.getElementById("subtitle").textContent = t("subtitle");
-      document.getElementById("lbl-year").textContent = t("lblYear");
       document.getElementById("lbl-lang").textContent = t("lblLang");
       document.getElementById("lbl-reports").textContent = t("lblReports");
       document.getElementById("sidebar-title").textContent = t("sidebarTitle");
