@@ -346,13 +346,6 @@
         <button data-year="2025">2025</button>
       </div>
     </div>
-    <div class="control-group" id="lang-group" hidden>
-      <label id="lbl-lang">Language</label>
-      <div class="toggle-group" id="lang-toggle">
-        <button data-lang="zh">中文</button>
-        <button data-lang="en" class="active">English</button>
-      </div>
-    </div>
     <button type="button" class="btn-report" id="btn-report">FY2025 Comprehensive Analysis Report</button>
   </div>
 
@@ -957,7 +950,6 @@
       document.getElementById("title").textContent = t("title");
       document.getElementById("subtitle").textContent = t("subtitle");
       document.getElementById("lbl-year").textContent = t("lblYear");
-      document.getElementById("lbl-lang").textContent = t("lblLang");
       document.getElementById("sidebar-title").textContent = t("sidebarTitle");
       document.getElementById("sidebar-hint").textContent = t("sidebarHint");
       document.getElementById("btn-select-all").textContent = t("selectAll");
@@ -979,16 +971,6 @@
           year = btn.dataset.year;
           document.querySelectorAll("#year-toggle button").forEach(b =>
             b.classList.toggle("active", b.dataset.year === year));
-          refreshMap();
-        };
-      });
-      document.querySelectorAll("#lang-toggle button").forEach(btn => {
-        btn.classList.toggle("active", btn.dataset.lang === lang);
-        btn.onclick = () => {
-          lang = btn.dataset.lang;
-          document.querySelectorAll("#lang-toggle button").forEach(b =>
-            b.classList.toggle("active", b.dataset.lang === lang));
-          renderControls();
           refreshMap();
         };
       });
