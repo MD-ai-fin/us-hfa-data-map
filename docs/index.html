@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>美国州级住房金融机构数据地图 | U.S. State HFA Data Map</title>
+  <title>U.S. State HFA Data Map | 美国州级住房金融机构数据地图</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -334,45 +334,45 @@
 </head>
 <body>
   <header>
-    <h1 id="title">美国州级住房金融机构数据地图</h1>
-    <p id="subtitle">基于 FY2024/FY2025 ACFR 报告及美国政府公开统计数据</p>
+    <h1 id="title">U.S. State Housing Finance Authority Data Map</h1>
+    <p id="subtitle">Based on FY2024/FY2025 ACFR reports and U.S. government open data</p>
   </header>
 
   <div class="controls">
     <div class="control-group">
-      <label id="lbl-year">财年</label>
+      <label id="lbl-year">Fiscal Year</label>
       <div class="toggle-group" id="year-toggle">
         <button data-year="2024" class="active">2024</button>
         <button data-year="2025">2025</button>
       </div>
     </div>
     <div class="control-group">
-      <label id="lbl-lang">语言</label>
+      <label id="lbl-lang">Language</label>
       <div class="toggle-group" id="lang-toggle">
-        <button data-lang="zh" class="active">中文</button>
-        <button data-lang="en">English</button>
+        <button data-lang="zh">中文</button>
+        <button data-lang="en" class="active">English</button>
       </div>
     </div>
-    <button type="button" class="btn-report" id="btn-report">FY2025 综合分析报告</button>
+    <button type="button" class="btn-report" id="btn-report">FY2025 Analysis Report</button>
   </div>
 
   <div class="layout">
     <div id="map-wrap" style="position:relative">
       <div id="map"></div>
       <div class="legend" id="legend">
-        <h3 id="legend-title">图例</h3>
+        <h3 id="legend-title">Legend</h3>
         <div class="legend-bar"></div>
         <div class="legend-labels"><span id="legend-min">—</span><span id="legend-max">—</span></div>
       </div>
     </div>
     <aside class="sidebar">
       <div>
-        <h2 id="sidebar-title">地图显示选项</h2>
-        <p class="sub" id="sidebar-hint">勾选要在地图上浮现的数据项，支持多项同时显示</p>
+        <h2 id="sidebar-title">Map Display Options</h2>
+        <p class="sub" id="sidebar-hint">Selected metrics appear as values on each state</p>
       </div>
       <div class="sidebar-actions">
-        <button type="button" id="btn-select-all">全选</button>
-        <button type="button" id="btn-clear-all">清除</button>
+        <button type="button" id="btn-select-all">Select All</button>
+        <button type="button" id="btn-clear-all">Clear All</button>
       </div>
       <div class="metric-options" id="metric-options"></div>
       <div class="sources" id="sources"></div>
@@ -382,7 +382,7 @@
   <div class="report-modal" id="report-modal" aria-hidden="true">
     <div class="report-panel" role="dialog" aria-modal="true" aria-labelledby="report-title">
       <div class="report-header">
-        <h2 id="report-title">FY2025 综合分析报告</h2>
+        <h2 id="report-title">FY2025 U.S. State HFA ACFR Analysis Report</h2>
         <button type="button" class="report-close" id="btn-report-close" aria-label="Close">×</button>
       </div>
       <div class="report-body" id="report-body"></div>
@@ -563,7 +563,7 @@
       "District of Columbia":"DC",
     };
 
-    let lang = "zh", year = "2024";
+    let lang = "en", year = "2024";
     let dataset = null, stateLayer = null;
     const reportCache = {};
     let reportOpen = false;
@@ -571,7 +571,12 @@
     const layerByAbbr = new Map();
     const markerLayer = L.layerGroup();
 
-    const map = L.map("map", { zoomControl: true, attributionControl: true }).setView([39.8, -98.5], 4);
+    const map = L.map("map", {
+      zoomControl: true,
+      attributionControl: true,
+      zoomSnap: 0.25,
+      zoomDelta: 0.25,
+    }).setView([39.5, -98.35], 5.5);
     L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: "abcd", maxZoom: 19,
@@ -1022,17 +1027,37 @@
     }
 
     async function init() {
+      if (location.protocol === "file:") {
+        throw new Error(
+          lang === "zh"
+            ? "请通过本地服务器打开（双击 docs/serve.bat，再访问 http://localhost:8080/index.html）。直接打开 HTML 时浏览器会拦截数据加载。"
+            : "Open via a local server (run docs/serve.bat, then visit http://localhost:8080/index.html). Opening the HTML file directly blocks data loading."
+        );
+      }
       const [dataResp, geoResp] = await Promise.all([
         fetch("state_data.json"),
         fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json"),
       ]);
+      if (!dataResp.ok) throw new Error(`state_data.json HTTP ${dataResp.status}`);
+      if (!geoResp.ok) throw new Error(`us-states.json HTTP ${geoResp.status}`);
       dataset = await dataResp.json();
       const geo = await geoResp.json();
 
       layerByAbbr.clear();
       if (stateLayer) map.removeLayer(stateLayer);
       stateLayer = L.geoJSON(geo, { style: styleFeature, onEachFeature }).addTo(map);
-      map.fitBounds(stateLayer.getBounds(), { padding: [20, 20] });
+      // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view)
+      const contiguousBounds = L.latLngBounds();
+      stateLayer.eachLayer(layer => {
+        const abbr = STATE_ABBR[layer.feature?.properties?.name];
+        if (abbr && abbr !== "AK" && abbr !== "HI") contiguousBounds.extend(layer.getBounds());
+      });
+      if (contiguousBounds.isValid()) {
+        map.fitBounds(contiguousBounds, { padding: [4, 4], maxZoom: 8 });
+        map.setZoom(map.getZoom() + Math.log2(1.17), { animate: false });
+      } else {
+        map.fitBounds(stateLayer.getBounds(), { padding: [20, 20] });
+      }
 
       renderControls();
       bindToggles();
