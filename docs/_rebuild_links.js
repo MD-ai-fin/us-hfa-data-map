@@ -18,7 +18,7 @@ const log25 = JSON.parse(fs.readFileSync("FY2025/download_log.json", "utf8"));
 const MANUAL_FY2024 = [
   { state: "AL", url: "https://ahfa.atl1.cdn.digitaloceanspaces.com/investors/2024-ahfa-financial-statements.pdf" },
   { state: "IL", url: "https://www.ihda.org/wp-content/uploads/2024/12/IHDA-June-30-2024-ACFR-1.pdf" },
-  { state: "DE", url: "https://auditor.delaware.gov/wp-content/uploads/sites/209/2025/04/Delaware-State-Housing-Authority-FY24-Financial-Statement-Audit-Report.pdf" },
+  { state: "DE", url: "https://auditor.delaware.gov/wp-content/uploads/sites/209/2024/12/Delaware-State-Housing-Authority-Financial-Statement-Audit-Report-FY24.pdf" },
   { state: "WA", url: "https://www.wshfc.org/finance/investor/AuditedFinancials2024.06.30and2023.pdf" },
   { state: "OH", url: "https://ohiohome.org/financials/documents/FincStatementsFY24.pdf" },
   { state: "MO", url: "https://archive.org/download/2024MHDCFinancialStatements/2024MHDCFinancialStatements.pdf" },
@@ -160,6 +160,10 @@ const PDF_FIXES = {
   },
   IA: {
     fy2024_pdf: "https://opportunityiowa.gov/media/6076/download?inline=",
+  },
+  DE: {
+    fy2024_pdf:
+      "https://auditor.delaware.gov/wp-content/uploads/sites/209/2024/12/Delaware-State-Housing-Authority-Financial-Statement-Audit-Report-FY24.pdf",
   },
   // Commonwealth of PA ACFR is not PHFA; clear until a PHFA entity PDF is known.
   PA: { fy2024_pdf: null, fy2025_pdf: null },
