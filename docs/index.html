@@ -188,6 +188,219 @@
       line-height: 1.45;
     }
     .leaflet-container { background: #0b1220; }
+    .leaflet-interactive {
+      transition: fill 0.5s ease, fill-opacity 0.45s ease, stroke 0.25s ease, stroke-width 0.25s ease;
+    }
+    @keyframes state-pulse {
+      0%, 100% { stroke-opacity: 1; filter: brightness(1); }
+      50% { stroke-opacity: 0.55; filter: brightness(1.15); }
+    }
+    path.state-pulse {
+      animation: state-pulse 1.15s ease-in-out 2;
+    }
+    .explore-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem 0.85rem;
+      padding: 0.45rem 1.25rem 0.55rem;
+      background: #162032;
+      border-bottom: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+    .scene-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem;
+      min-width: 0;
+    }
+    .explore-label {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-right: 0.15rem;
+      white-space: nowrap;
+    }
+    .scene-btn, .btn-compare {
+      font-size: 0.78rem;
+      padding: 0.35rem 0.65rem;
+      border-radius: 999px;
+      background: #0f172a;
+      border: 1px solid var(--border);
+      color: var(--text);
+      white-space: nowrap;
+    }
+    .scene-btn.active {
+      background: rgba(56, 189, 248, 0.18);
+      border-color: rgba(56, 189, 248, 0.55);
+      color: #7dd3fc;
+      font-weight: 600;
+    }
+    .btn-compare.active {
+      background: rgba(250, 204, 21, 0.16);
+      border-color: rgba(250, 204, 21, 0.55);
+      color: #fde047;
+      font-weight: 600;
+    }
+    .fun-fact {
+      display: flex;
+      align-items: center;
+      gap: 0.45rem;
+      min-width: 0;
+      flex: 1;
+      font-size: 0.78rem;
+      color: #cbd5e1;
+      line-height: 1.35;
+    }
+    .fun-fact-label {
+      flex-shrink: 0;
+      color: #fde68a;
+      font-weight: 600;
+      font-size: 0.72rem;
+    }
+    .fun-fact-text {
+      min-width: 0;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .fun-fact-refresh {
+      flex-shrink: 0;
+      padding: 0.2rem 0.45rem;
+      min-width: 2rem;
+      font-size: 0.9rem;
+      line-height: 1;
+    }
+    .rank-panel {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      z-index: 1000;
+      width: min(220px, calc(100% - 24px));
+      background: rgba(15, 23, 42, 0.92);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.65rem 0.75rem 0.55rem;
+      backdrop-filter: blur(6px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    }
+    .rank-panel h3 {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 0.4rem;
+      line-height: 1.3;
+      font-weight: 600;
+    }
+    .rank-panel ol {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.2rem;
+    }
+    .rank-panel li {
+      display: grid;
+      grid-template-columns: 1.1rem 2rem 1fr auto;
+      gap: 0.3rem;
+      align-items: baseline;
+      font-size: 0.75rem;
+      padding: 0.28rem 0.3rem;
+      border-radius: 6px;
+      cursor: pointer;
+      color: #e2e8f0;
+    }
+    .rank-panel li:hover,
+    .rank-panel li.active {
+      background: rgba(56, 189, 248, 0.12);
+    }
+    .rank-panel .rk { color: var(--muted); font-variant-numeric: tabular-nums; }
+    .rank-panel .abbr { font-weight: 700; color: #f8fafc; }
+    .rank-panel .name {
+      color: var(--muted);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .rank-panel .val {
+      font-variant-numeric: tabular-nums;
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .compare-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 2100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(2, 6, 23, 0.72);
+      backdrop-filter: blur(4px);
+    }
+    .compare-modal.open { display: flex; }
+    .compare-panel {
+      width: min(720px, 100%);
+      max-height: 100%;
+      overflow: auto;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+    }
+    .compare-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      background: var(--panel);
+      z-index: 1;
+    }
+    .compare-header h2 { font-size: 0.95rem; font-weight: 600; }
+    .compare-body { padding: 1rem 1.1rem 1.25rem; }
+    .compare-hint {
+      color: var(--muted);
+      font-size: 0.82rem;
+      margin-bottom: 0.85rem;
+    }
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr 1fr;
+      gap: 0.35rem 0.5rem;
+      font-size: 0.82rem;
+    }
+    .compare-grid .head {
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding-bottom: 0.25rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0.15rem;
+    }
+    .compare-grid .metric-name { color: #cbd5e1; }
+    .compare-grid .cell {
+      font-variant-numeric: tabular-nums;
+      color: #e2e8f0;
+    }
+    .compare-grid .cell.win { color: #4ade80; font-weight: 600; }
+    .compare-picks {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.75rem;
+    }
+    .compare-chip {
+      padding: 0.25rem 0.55rem;
+      border-radius: 999px;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      font-size: 0.78rem;
+      color: #7dd3fc;
+    }
     .state-value-marker {
       background: transparent !important;
       border: none !important;
@@ -396,6 +609,18 @@
       padding: 2rem 0;
       text-align: center;
     }
+    .report-body.report-enter {
+      animation: report-fade 0.45s ease;
+    }
+    @keyframes report-fade {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: none; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .leaflet-interactive { transition: none; }
+      path.state-pulse { animation: none; }
+      .report-body.report-enter { animation: none; }
+    }
     .site-footer {
       flex-shrink: 0;
       margin-top: auto;
@@ -458,6 +683,21 @@
         height: auto;
       }
       #map-wrap { width: 100%; height: 100%; }
+      .explore-bar {
+        padding: 0.4rem 0.75rem;
+        gap: 0.4rem;
+        max-height: 4.8rem;
+        overflow: hidden;
+      }
+      .scene-row {
+        flex: 1 1 100%;
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 0.1rem;
+      }
+      .fun-fact { flex: 1 1 100%; }
+      .fun-fact-text { white-space: nowrap; }
       .legend {
         bottom: 76px;
         left: 12px;
@@ -465,7 +705,23 @@
         padding: 0.55rem 0.7rem;
       }
       .legend h3 { font-size: 0.7rem; margin-bottom: 0.35rem; }
+      .rank-panel {
+        top: 8px;
+        right: 8px;
+        width: min(168px, calc(100% - 16px));
+        padding: 0.5rem 0.55rem;
+      }
+      .rank-panel h3 { font-size: 0.66rem; }
+      .rank-panel li {
+        font-size: 0.68rem;
+        grid-template-columns: 0.9rem 1.6rem 1fr auto;
+        padding: 0.2rem 0.15rem;
+      }
+      .rank-panel .name { display: none; }
       .site-footer { display: none; }
+      .compare-modal { padding: 0; }
+      .compare-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
+      .compare-grid { grid-template-columns: 1.2fr 1fr 1fr; font-size: 0.78rem; }
       .report-modal { padding: 0; }
       .report-panel {
         width: 100%;
@@ -612,9 +868,28 @@
     <button type="button" class="btn-report" id="btn-report">FY2025 Analysis Report</button>
   </div>
 
+  <div class="explore-bar" id="explore-bar">
+    <div class="scene-row" id="scene-row">
+      <span class="explore-label" id="lbl-scenes">Explore</span>
+      <button type="button" class="scene-btn" data-scene="top_np" id="scene-top-np">Top Net Position</button>
+      <button type="button" class="scene-btn" data-scene="top_growth" id="scene-top-growth">Fastest Growth</button>
+      <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Per Capita</button>
+      <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
+    </div>
+    <div class="fun-fact" id="fun-fact">
+      <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
+      <span class="fun-fact-text" id="fun-fact-text">—</span>
+      <button type="button" class="fun-fact-refresh" id="btn-fun-fact" aria-label="Next fact">↻</button>
+    </div>
+  </div>
+
   <div class="layout">
     <div id="map-wrap">
       <div id="map"></div>
+      <div class="rank-panel" id="rank-panel">
+        <h3 id="rank-title">Top 5</h3>
+        <ol id="rank-list"></ol>
+      </div>
       <div class="legend" id="legend">
         <h3 id="legend-title">Legend</h3>
         <div class="legend-bar"></div>
@@ -654,6 +929,16 @@
     </div>
   </div>
 
+  <div class="compare-modal" id="compare-modal" aria-hidden="true">
+    <div class="compare-panel" role="dialog" aria-modal="true" aria-labelledby="compare-title">
+      <div class="compare-header">
+        <h2 id="compare-title">State comparison</h2>
+        <button type="button" class="report-close" id="btn-compare-close" aria-label="Close">×</button>
+      </div>
+      <div class="compare-body" id="compare-body"></div>
+    </div>
+  </div>
+
   <footer class="site-footer" id="site-footer">
     <div id="footer-credit"></div>
     <div>
@@ -686,12 +971,26 @@
         selectAll: "全选", clearAll: "清除",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
         metricsDrawerBtn: "指标",
+        exploreLabel: "探索",
+        sceneTopNp: "净资产 Top",
+        sceneTopGrowth: "增速最快",
+        sceneTopCapita: "人均净资产",
+        compareBtn: "对比各州",
+        compareBtnActive: "点选两个州…",
+        compareTitle: "州对比",
+        compareHintPick: "在地图上依次点选两个州进行对比。",
+        compareHintOne: "已选 {a}，请再选另一个州。",
+        compareClear: "重选",
+        rankTitle: "Top 5 · {metric}",
+        funFactLabel: "冷知识",
+        nextFact: "下一条",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
         reportError: "无法加载报告，请确认 reports/fy2025-zh.html 已生成。",
         closeReport: "关闭",
         closeDrawer: "关闭",
+        closeCompare: "关闭",
         footerCredit: "© 2026 MD-ai-fin · 数据分析与可视化：MD-ai-fin",
         footerCode: "代码",
         footerContent: "内容",
@@ -731,12 +1030,26 @@
         selectAll: "Select All", clearAll: "Clear All",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
         metricsDrawerBtn: "Metrics",
+        exploreLabel: "Explore",
+        sceneTopNp: "Top Net Position",
+        sceneTopGrowth: "Fastest Growth",
+        sceneTopCapita: "Per Capita",
+        compareBtn: "Compare states",
+        compareBtnActive: "Pick 2 states…",
+        compareTitle: "State comparison",
+        compareHintPick: "Click two states on the map to compare.",
+        compareHintOne: "{a} selected — click another state.",
+        compareClear: "Reset",
+        rankTitle: "Top 5 · {metric}",
+        funFactLabel: "Did you know?",
+        nextFact: "Next fact",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
         reportError: "Could not load the report. Ensure reports/fy2025-en.html exists.",
         closeReport: "Close",
         closeDrawer: "Close",
+        closeCompare: "Close",
         footerCredit: "© 2026 MD-ai-fin · Analysis & Visualization by MD-ai-fin",
         footerCode: "Code",
         footerContent: "Content",
@@ -893,10 +1206,27 @@
     const reportCache = {};
     let reportOpen = false;
     let drawerOpen = false;
+    let compareOpen = false;
+    let compareMode = false;
+    let activeScene = null;
+    let funFactIndex = 0;
+    let funFacts = [];
+    const comparePick = [];
+    const highlightAbbrs = new Set();
+    const COMPARE_METRICS = [
+      "net_position", "net_position_growth_pct", "net_position_per_capita",
+      "total_assets", "leverage_ratio", "homeless_count",
+    ];
+    const SCENES = {
+      top_np: { metric: "net_position", top: 10 },
+      top_growth: { metric: "net_position_growth_pct", top: 10 },
+      top_capita: { metric: "net_position_per_capita", top: 10 },
+    };
     const MOBILE_MQ = window.matchMedia("(max-width: 900px)");
     const selectedMetrics = new Set(["net_position"]);
     const layerByAbbr = new Map();
     const markerLayer = L.layerGroup();
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
     const map = L.map("map", {
       zoomControl: true,
@@ -971,12 +1301,19 @@
 
     function openReport() {
       if (drawerOpen) closeMetricsDrawer();
+      if (compareOpen) closeComparePanel();
       reportOpen = true;
       const modal = document.getElementById("report-modal");
       modal.classList.add("open");
       modal.setAttribute("aria-hidden", "false");
       document.body.style.overflow = "hidden";
-      renderReportContent();
+      renderReportContent().then(() => {
+        const body = document.getElementById("report-body");
+        if (!body || reduceMotion) return;
+        body.classList.remove("report-enter");
+        void body.offsetWidth;
+        body.classList.add("report-enter");
+      });
     }
 
     function closeReport() {
@@ -985,6 +1322,40 @@
       modal.classList.remove("open");
       modal.setAttribute("aria-hidden", "true");
       document.body.style.overflow = "";
+    }
+
+    function animateCountEl(el, finalText, duration = 700) {
+      if (!el || reduceMotion) {
+        if (el) el.textContent = finalText;
+        return;
+      }
+      const numeric = parseFloat(String(finalText).replace(/[^0-9.+-]/g, ""));
+      if (!Number.isFinite(numeric)) {
+        el.textContent = finalText;
+        return;
+      }
+      const prefix = String(finalText).trim().startsWith("$") ? "$" : "";
+      const suffix = String(finalText).includes("%") ? "%" : (String(finalText).includes("×") ? "×" : "");
+      const isCompact = /[KMBT]$/.test(String(finalText).replace(/[%×]/g, "").trim());
+      if (isCompact || Math.abs(numeric) >= 1000) {
+        // Compact labels: fade swap rather than interpolate abbreviations
+        el.style.opacity = "0.35";
+        el.textContent = finalText;
+        requestAnimationFrame(() => { el.style.transition = "opacity 0.45s ease"; el.style.opacity = "1"; });
+        return;
+      }
+      const start = performance.now();
+      const from = 0;
+      const tick = now => {
+        const p = Math.min(1, (now - start) / duration);
+        const eased = 1 - Math.pow(1 - p, 3);
+        const cur = from + (numeric - from) * eased;
+        const decimals = String(finalText).includes(".") ? 1 : 0;
+        el.textContent = prefix + cur.toFixed(decimals) + suffix;
+        if (p < 1) requestAnimationFrame(tick);
+        else el.textContent = finalText;
+      };
+      requestAnimationFrame(tick);
     }
 
     function hasMetricValue(val) {
@@ -1310,6 +1681,308 @@
       });
     }
 
+    function rankedStates(mkey, limit = 5) {
+      if (!dataset || !mkey) return [];
+      return dataset.states
+        .map(s => ({ state: s.state, rec: s, value: metricValueForState(s, mkey) }))
+        .filter(r => r.value != null)
+        .sort((a, b) => b.value - a.value)
+        .slice(0, limit);
+    }
+
+    function stateDisplayName(rec, abbr) {
+      if (!rec) return abbr;
+      return lang === "zh" ? (rec.name_zh || rec.name_en || abbr) : (rec.name_en || rec.hfa_name || abbr);
+    }
+
+    function setPrimaryMetricOnly(mkey) {
+      selectedMetrics.clear();
+      selectedMetrics.add(mkey);
+      renderMetricOptions();
+      updateMetricsDrawerBtn();
+    }
+
+    function clearHighlights() {
+      highlightAbbrs.clear();
+      applyHighlightClasses(false);
+    }
+
+    function applyHighlightClasses(pulse) {
+      layerByAbbr.forEach((layer, abbr) => {
+        const path = layer.getElement?.() || layer._path;
+        if (!path) return;
+        const on = highlightAbbrs.has(abbr);
+        path.classList.toggle("state-pulse", Boolean(pulse && on && !reduceMotion));
+      });
+    }
+
+    function applyScene(sceneId) {
+      const scene = SCENES[sceneId];
+      if (!scene) return;
+      if (activeScene === sceneId) {
+        activeScene = null;
+        clearHighlights();
+        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        refreshMap();
+        return;
+      }
+      activeScene = sceneId;
+      setPrimaryMetricOnly(scene.metric);
+      const top = rankedStates(scene.metric, scene.top);
+      highlightAbbrs.clear();
+      top.forEach(r => highlightAbbrs.add(r.state));
+      document.querySelectorAll(".scene-btn").forEach(b =>
+        b.classList.toggle("active", b.dataset.scene === sceneId));
+      refreshMap();
+      applyHighlightClasses(true);
+      if (!reduceMotion) {
+        setTimeout(() => applyHighlightClasses(false), 2400);
+      }
+    }
+
+    function flyToState(abbr) {
+      const layer = layerByAbbr.get(abbr);
+      if (!layer) return;
+      const bounds = layer.getBounds();
+      map.fitBounds(bounds, { padding: [40, 40], maxZoom: 6, animate: !reduceMotion });
+      const select = document.getElementById("state-report-select");
+      if (select) select.value = abbr;
+      if (!compareMode) {
+        layer.setPopupContent(buildReportPopupHtml(abbr));
+        layer.openPopup();
+      }
+      document.querySelectorAll("#rank-list li").forEach(li =>
+        li.classList.toggle("active", li.dataset.state === abbr));
+    }
+
+    function renderRankPanel() {
+      const mkey = primaryMetric();
+      const title = document.getElementById("rank-title");
+      const list = document.getElementById("rank-list");
+      if (!mkey) {
+        title.textContent = t("rankTitle").replace("{metric}", "—");
+        list.innerHTML = "";
+        return;
+      }
+      title.textContent = t("rankTitle").replace("{metric}", tMetric(mkey));
+      const rows = rankedStates(mkey, 5);
+      list.innerHTML = rows.map((r, i) => {
+        const name = stateDisplayName(r.rec, r.state);
+        const val = fmt(r.value, mkey);
+        return `<li data-state="${r.state}" tabindex="0">
+          <span class="rk">${i + 1}</span>
+          <span class="abbr">${r.state}</span>
+          <span class="name">${name}</span>
+          <span class="val" data-final="${val}">${val}</span>
+        </li>`;
+      }).join("");
+      list.querySelectorAll("li").forEach(li => {
+        const go = () => flyToState(li.dataset.state);
+        li.onclick = go;
+        li.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
+      });
+      if (!reduceMotion) {
+        list.querySelectorAll(".val").forEach(el => animateCountEl(el, el.dataset.final || el.textContent));
+      }
+    }
+
+    function daySeed() {
+      const d = new Date();
+      return Math.floor(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) / 86400000);
+    }
+
+    function rebuildFunFacts() {
+      if (!dataset) { funFacts = []; return; }
+      const facts = [];
+      const pushTop = (mkey, zh, en) => {
+        const top = rankedStates(mkey, 1)[0];
+        if (!top) return;
+        const name = stateDisplayName(top.rec, top.state);
+        const val = fmt(top.value, mkey);
+        facts.push(lang === "zh"
+          ? zh({ abbr: top.state, name, val, metric: tMetric(mkey) })
+          : en({ abbr: top.state, name, val, metric: tMetric(mkey) }));
+      };
+      pushTop("net_position",
+        x => `${x.name}（${x.abbr}）住房局净资产最高：${x.val}`,
+        x => `${x.name} (${x.abbr}) leads in HFA net position at ${x.val}.`);
+      pushTop("net_position_growth_pct",
+        x => `${x.name}（${x.abbr}）净资产同比增速最快：${x.val}`,
+        x => `${x.name} (${x.abbr}) posted the fastest net-position growth: ${x.val}.`);
+      pushTop("net_position_per_capita",
+        x => `${x.name}（${x.abbr}）人均净资产最高：${x.val}`,
+        x => `${x.name} (${x.abbr}) has the highest net position per capita: ${x.val}.`);
+      pushTop("total_assets",
+        x => `${x.name}（${x.abbr}）总资产规模领先：${x.val}`,
+        x => `${x.name} (${x.abbr}) has the largest total assets: ${x.val}.`);
+      pushTop("leverage_ratio",
+        x => `${x.name}（${x.abbr}）杠杆率（负债/资产）最高：${x.val}`,
+        x => `${x.name} (${x.abbr}) shows the highest leverage ratio: ${x.val}.`);
+      pushTop("homeless_count",
+        x => `${x.name}（${x.abbr}）无家可归人数（2025年1月 PIT）最多：${x.val}`,
+        x => `${x.name} (${x.abbr}) has the highest Jan 2025 PIT homelessness count: ${x.val}.`);
+      const withNp = rankedStates("net_position", 50);
+      if (withNp.length >= 2) {
+        const coverage = dataset.states.filter(s => metricValueForState(s, "net_position") != null).length;
+        facts.push(lang === "zh"
+          ? `地图已纳入 ${coverage} 个州/地区的 FY2025 净资产数据。`
+          : `${coverage} states/territories have FY2025 net position on this map.`);
+      }
+      funFacts = facts;
+    }
+
+    function renderFunFact(resetToDaily = false) {
+      rebuildFunFacts();
+      if (!funFacts.length) {
+        document.getElementById("fun-fact-text").textContent = "—";
+        return;
+      }
+      if (resetToDaily) funFactIndex = daySeed() % funFacts.length;
+      funFactIndex = ((funFactIndex % funFacts.length) + funFacts.length) % funFacts.length;
+      const el = document.getElementById("fun-fact-text");
+      document.getElementById("fun-fact-label").textContent = t("funFactLabel");
+      document.getElementById("btn-fun-fact").setAttribute("aria-label", t("nextFact"));
+      el.textContent = funFacts[funFactIndex];
+      if (!reduceMotion) {
+        el.style.opacity = "0.4";
+        requestAnimationFrame(() => {
+          el.style.transition = "opacity 0.35s ease";
+          el.style.opacity = "1";
+        });
+      }
+    }
+
+    function nextFunFact() {
+      rebuildFunFacts();
+      if (!funFacts.length) return;
+      funFactIndex = (funFactIndex + 1) % funFacts.length;
+      renderFunFact(false);
+    }
+
+    function updateCompareButton() {
+      const btn = document.getElementById("btn-compare");
+      btn.classList.toggle("active", compareMode);
+      btn.setAttribute("aria-pressed", compareMode ? "true" : "false");
+      if (!compareMode) {
+        btn.textContent = t("compareBtn");
+      } else if (comparePick.length === 1) {
+        btn.textContent = t("compareHintOne").replace("{a}", comparePick[0]);
+      } else {
+        btn.textContent = t("compareBtnActive");
+      }
+    }
+
+    function setCompareMode(on) {
+      compareMode = on;
+      if (!on) comparePick.length = 0;
+      updateCompareButton();
+      if (on) {
+        map.closePopup();
+        if (drawerOpen) closeMetricsDrawer();
+      }
+    }
+
+    function openComparePanel() {
+      if (comparePick.length < 2) return;
+      compareOpen = true;
+      if (reportOpen) closeReport();
+      const modal = document.getElementById("compare-modal");
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      document.getElementById("compare-title").textContent = t("compareTitle");
+      renderCompareBody();
+    }
+
+    function closeComparePanel() {
+      compareOpen = false;
+      const modal = document.getElementById("compare-modal");
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
+    }
+
+    function renderCompareBody() {
+      const body = document.getElementById("compare-body");
+      if (comparePick.length === 0) {
+        body.innerHTML = `<p class="compare-hint">${t("compareHintPick")}</p>`;
+        return;
+      }
+      if (comparePick.length === 1) {
+        body.innerHTML = `<p class="compare-hint">${t("compareHintOne").replace("{a}", comparePick[0])}</p>
+          <button type="button" id="btn-compare-reset">${t("compareClear")}</button>`;
+        document.getElementById("btn-compare-reset").onclick = () => {
+          comparePick.length = 0;
+          setCompareMode(true);
+          closeComparePanel();
+        };
+        return;
+      }
+      const [a, b] = comparePick;
+      const ra = getStateData(a);
+      const rb = getStateData(b);
+      const na = stateDisplayName(ra, a);
+      const nb = stateDisplayName(rb, b);
+      const rows = COMPARE_METRICS.map(k => {
+        const va = metricValueForState(ra, k);
+        const vb = metricValueForState(rb, k);
+        const fa = va == null ? t("na") : fmt(va, k);
+        const fb = vb == null ? t("na") : fmt(vb, k);
+        let winA = "", winB = "";
+        if (va != null && vb != null && va !== vb) {
+          // For leverage, lower can be "better" but we just mark the higher value
+          if (va > vb) winA = " win";
+          else winB = " win";
+        }
+        return `<div class="metric-name">${tMetric(k)}</div>
+          <div class="cell${winA}" data-final="${fa}">${fa}</div>
+          <div class="cell${winB}" data-final="${fb}">${fb}</div>`;
+      }).join("");
+      body.innerHTML = `
+        <div class="compare-picks">
+          <span class="compare-chip">${a} · ${na}</span>
+          <span class="compare-chip">${b} · ${nb}</span>
+          <button type="button" id="btn-compare-reset">${t("compareClear")}</button>
+        </div>
+        <div class="compare-grid">
+          <div class="head"></div>
+          <div class="head">${a}</div>
+          <div class="head">${b}</div>
+          ${rows}
+        </div>`;
+      document.getElementById("btn-compare-reset").onclick = () => {
+        comparePick.length = 0;
+        closeComparePanel();
+        setCompareMode(true);
+      };
+      body.querySelectorAll(".cell[data-final]").forEach(el =>
+        animateCountEl(el, el.dataset.final));
+    }
+
+    function handleComparePick(abbr) {
+      if (!compareMode) return;
+      if (comparePick.includes(abbr)) return;
+      if (comparePick.length >= 2) comparePick.length = 0;
+      comparePick.push(abbr);
+      highlightAbbrs.clear();
+      comparePick.forEach(s => highlightAbbrs.add(s));
+      activeScene = null;
+      document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+      refreshMap();
+      applyHighlightClasses(true);
+      updateCompareButton();
+      if (comparePick.length === 2) openComparePanel();
+    }
+
+    function renderExploreLabels() {
+      document.getElementById("lbl-scenes").textContent = t("exploreLabel");
+      document.getElementById("scene-top-np").textContent = t("sceneTopNp");
+      document.getElementById("scene-top-growth").textContent = t("sceneTopGrowth");
+      document.getElementById("scene-top-capita").textContent = t("sceneTopCapita");
+      document.getElementById("btn-compare-close").setAttribute("aria-label", t("closeCompare"));
+      updateCompareButton();
+      document.querySelectorAll(".scene-btn").forEach(b =>
+        b.classList.toggle("active", b.dataset.scene === activeScene));
+    }
+
     function styleFeature(feature) {
       const abbr = STATE_ABBR[feature.properties.name];
       const mkey = primaryMetric();
@@ -1317,11 +1990,12 @@
       const val = metricValueForState(rec, mkey);
       const { min, max } = metricRange(mkey);
       const hasScale = metricValues(mkey).length > 0;
+      const highlighted = highlightAbbrs.has(abbr);
       return {
         fillColor: mkey && hasScale ? colorScale(val, min, max) : "#1e293b",
-        weight: 1,
+        weight: highlighted ? 2.6 : 1,
         opacity: 1,
-        color: "#64748b",
+        color: highlighted ? "#fde047" : "#64748b",
         fillOpacity: mkey && val != null ? 0.78 : 0.35,
       };
     }
@@ -1335,9 +2009,18 @@
         className: "hfa-popup",
       });
       layer.on({
-        mouseover: e => e.target.setStyle({ weight: 2.5, color: "#e2e8f0" }),
+        mouseover: e => {
+          if (compareMode) return;
+          e.target.setStyle({ weight: 2.5, color: "#e2e8f0" });
+        },
         mouseout: e => stateLayer.resetStyle(e.target),
-        click: () => {
+        click: e => {
+          if (compareMode) {
+            L.DomEvent.stop(e);
+            map.closePopup();
+            handleComparePick(abbr);
+            return;
+          }
           const select = document.getElementById("state-report-select");
           if (select) select.value = abbr;
         },
@@ -1348,6 +2031,8 @@
       if (stateLayer) stateLayer.setStyle(styleFeature);
       updateLayerLabels();
       updateLegend();
+      renderRankPanel();
+      requestAnimationFrame(() => applyHighlightClasses(false));
     }
 
     function updateLegend() {
@@ -1393,6 +2078,9 @@
           if (input.checked) selectedMetrics.add(k);
           else selectedMetrics.delete(k);
           el.classList.toggle("checked", input.checked);
+          activeScene = null;
+          document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+          if (!compareMode) clearHighlights();
           updateMetricsDrawerBtn();
           refreshMap();
         };
@@ -1496,9 +2184,16 @@
       );
       updateMetricsDrawerBtn();
       populateReportSelect();
+      renderExploreLabels();
+      renderFunFact(false);
+      renderRankPanel();
       if (reportOpen) {
         document.getElementById("report-title").textContent = t("reportTitle");
         renderReportContent();
+      }
+      if (compareOpen) {
+        document.getElementById("compare-title").textContent = t("compareTitle");
+        renderCompareBody();
       }
       renderFooter();
       renderSources();
@@ -1530,12 +2225,18 @@
       });
       document.getElementById("btn-select-all").onclick = () => {
         METRIC_KEYS.forEach(k => selectedMetrics.add(k));
+        activeScene = null;
+        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        if (!compareMode) clearHighlights();
         renderMetricOptions();
         updateMetricsDrawerBtn();
         refreshMap();
       };
       document.getElementById("btn-clear-all").onclick = () => {
         selectedMetrics.clear();
+        activeScene = null;
+        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        if (!compareMode) clearHighlights();
         renderMetricOptions();
         updateMetricsDrawerBtn();
         refreshMap();
@@ -1553,10 +2254,43 @@
       document.getElementById("btn-drawer-close").onclick = closeMetricsDrawer;
       document.getElementById("drawer-backdrop").onclick = closeMetricsDrawer;
       document.getElementById("drawer-handle").onclick = closeMetricsDrawer;
+      document.querySelectorAll(".scene-btn").forEach(btn => {
+        btn.onclick = () => applyScene(btn.dataset.scene);
+      });
+      document.getElementById("btn-compare").onclick = () => {
+        if (compareMode) {
+          setCompareMode(false);
+          clearHighlights();
+          closeComparePanel();
+          refreshMap();
+        } else {
+          setCompareMode(true);
+        }
+      };
+      document.getElementById("btn-compare-close").onclick = () => {
+        closeComparePanel();
+        setCompareMode(false);
+        clearHighlights();
+        refreshMap();
+      };
+      document.getElementById("compare-modal").onclick = e => {
+        if (e.target.id === "compare-modal") {
+          closeComparePanel();
+          setCompareMode(false);
+          clearHighlights();
+          refreshMap();
+        }
+      };
+      document.getElementById("btn-fun-fact").onclick = nextFunFact;
       document.addEventListener("keydown", e => {
         if (e.key !== "Escape") return;
         if (reportOpen) closeReport();
-        else if (drawerOpen && isMobileLayout()) closeMetricsDrawer();
+        else if (compareOpen) {
+          closeComparePanel();
+          setCompareMode(false);
+          clearHighlights();
+          refreshMap();
+        } else if (drawerOpen && isMobileLayout()) closeMetricsDrawer();
       });
       const onViewportChange = () => syncDrawerForViewport();
       if (typeof MOBILE_MQ.addEventListener === "function") {
@@ -1617,6 +2351,7 @@
       renderControls();
       bindToggles();
       refreshMap();
+      renderFunFact(true);
       initAnalytics();
 
       map.on("zoomend moveend resize viewreset", scheduleLabelUpdate);
