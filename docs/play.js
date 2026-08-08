@@ -161,7 +161,6 @@
       if (!myStateMode) {
         clearHighlights();
         refreshMap();
-        resetMapView?.();
       }
     }
 
@@ -346,7 +345,10 @@
 
     $("btn-my-state").onclick = openMyState;
     $("btn-anomaly").onclick = toggleAnomaly;
-    $("btn-play-close").onclick = closePlayModal;
+    $("btn-play-close").onclick = () => {
+      closePlayModal();
+      resetMapView?.();
+    };
 
     renderPlayLabels();
     return { renderPlayLabels, onMapClick, onEscape, deactivate };
