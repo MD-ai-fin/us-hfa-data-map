@@ -1,0 +1,308 @@
+{
+  "AK": {
+    "homeless_2024": 2686,
+    "homeless_2025": 2655,
+    "homeless_sheltered_2025": 2081,
+    "homeless_unsheltered_2025": 574
+  },
+  "AL": {
+    "homeless_2024": 4601,
+    "homeless_2025": 4137,
+    "homeless_sheltered_2025": 1912,
+    "homeless_unsheltered_2025": 2225
+  },
+  "AR": {
+    "homeless_2024": 2783,
+    "homeless_2025": 2720,
+    "homeless_sheltered_2025": 1274,
+    "homeless_unsheltered_2025": 1446
+  },
+  "AZ": {
+    "homeless_2024": 14737,
+    "homeless_2025": 15259,
+    "homeless_sheltered_2025": 6762,
+    "homeless_unsheltered_2025": 8497
+  },
+  "CA": {
+    "homeless_2024": 187084,
+    "homeless_2025": 181934,
+    "homeless_sheltered_2025": 66351,
+    "homeless_unsheltered_2025": 115583
+  },
+  "CO": {
+    "homeless_2024": 18715,
+    "homeless_2025": 16687,
+    "homeless_sheltered_2025": 11614,
+    "homeless_unsheltered_2025": 5073
+  },
+  "CT": {
+    "homeless_2024": 3410,
+    "homeless_2025": 3735,
+    "homeless_sheltered_2025": 2902,
+    "homeless_unsheltered_2025": 833
+  },
+  "DC": {
+    "homeless_2024": 5616,
+    "homeless_2025": 5138,
+    "homeless_sheltered_2025": 4340,
+    "homeless_unsheltered_2025": 798
+  },
+  "DE": {
+    "homeless_2024": 1358,
+    "homeless_2025": 1573,
+    "homeless_sheltered_2025": 1406,
+    "homeless_unsheltered_2025": 167
+  },
+  "FL": {
+    "homeless_2024": 31362,
+    "homeless_2025": 27888,
+    "homeless_sheltered_2025": 14726,
+    "homeless_unsheltered_2025": 13162
+  },
+  "GA": {
+    "homeless_2024": 12290,
+    "homeless_2025": 12284,
+    "homeless_sheltered_2025": 5631,
+    "homeless_unsheltered_2025": 6653
+  },
+  "HI": {
+    "homeless_2024": 11637,
+    "homeless_2025": 6828,
+    "homeless_sheltered_2025": 2786,
+    "homeless_unsheltered_2025": 4042
+  },
+  "IA": {
+    "homeless_2024": 2631,
+    "homeless_2025": 2816,
+    "homeless_sheltered_2025": 2205,
+    "homeless_unsheltered_2025": 611
+  },
+  "ID": {
+    "homeless_2024": 2750,
+    "homeless_2025": 2697,
+    "homeless_sheltered_2025": 1349,
+    "homeless_unsheltered_2025": 1348
+  },
+  "IL": {
+    "homeless_2024": 25832,
+    "homeless_2025": 14576,
+    "homeless_sheltered_2025": 12502,
+    "homeless_unsheltered_2025": 2074
+  },
+  "IN": {
+    "homeless_2024": 6285,
+    "homeless_2025": 6675,
+    "homeless_sheltered_2025": 5143,
+    "homeless_unsheltered_2025": 1532
+  },
+  "KS": {
+    "homeless_2024": 2567,
+    "homeless_2025": 2406,
+    "homeless_sheltered_2025": 1693,
+    "homeless_unsheltered_2025": 713
+  },
+  "KY": {
+    "homeless_2024": 5231,
+    "homeless_2025": 5789,
+    "homeless_sheltered_2025": 3791,
+    "homeless_unsheltered_2025": 1998
+  },
+  "LA": {
+    "homeless_2024": 3469,
+    "homeless_2025": 3688,
+    "homeless_sheltered_2025": 2136,
+    "homeless_unsheltered_2025": 1552
+  },
+  "MA": {
+    "homeless_2024": 29360,
+    "homeless_2025": 28311,
+    "homeless_sheltered_2025": 26563,
+    "homeless_unsheltered_2025": 1748
+  },
+  "MD": {
+    "homeless_2024": 6069,
+    "homeless_2025": 7120,
+    "homeless_sheltered_2025": 6219,
+    "homeless_unsheltered_2025": 901
+  },
+  "ME": {
+    "homeless_2024": 2702,
+    "homeless_2025": 2413,
+    "homeless_sheltered_2025": 2132,
+    "homeless_unsheltered_2025": 281
+  },
+  "MI": {
+    "homeless_2024": 9739,
+    "homeless_2025": 10155,
+    "homeless_sheltered_2025": 8439,
+    "homeless_unsheltered_2025": 1716
+  },
+  "MN": {
+    "homeless_2024": 9201,
+    "homeless_2025": 8392,
+    "homeless_sheltered_2025": 6571,
+    "homeless_unsheltered_2025": 1821
+  },
+  "MO": {
+    "homeless_2024": 5357,
+    "homeless_2025": 5943,
+    "homeless_sheltered_2025": 4209,
+    "homeless_unsheltered_2025": 1734
+  },
+  "MS": {
+    "homeless_2024": 1041,
+    "homeless_2025": 1245,
+    "homeless_sheltered_2025": 726,
+    "homeless_unsheltered_2025": 519
+  },
+  "MT": {
+    "homeless_2024": 2008,
+    "homeless_2025": 2263,
+    "homeless_sheltered_2025": 1557,
+    "homeless_unsheltered_2025": 706
+  },
+  "NC": {
+    "homeless_2024": 11626,
+    "homeless_2025": 15512,
+    "homeless_sheltered_2025": 10712,
+    "homeless_unsheltered_2025": 4800
+  },
+  "ND": {
+    "homeless_2024": 865,
+    "homeless_2025": 861,
+    "homeless_sheltered_2025": 695,
+    "homeless_unsheltered_2025": 166
+  },
+  "NE": {
+    "homeless_2024": 2720,
+    "homeless_2025": 2656,
+    "homeless_sheltered_2025": 2369,
+    "homeless_unsheltered_2025": 287
+  },
+  "NH": {
+    "homeless_2024": 2245,
+    "homeless_2025": 2406,
+    "homeless_sheltered_2025": 1754,
+    "homeless_unsheltered_2025": 652
+  },
+  "NJ": {
+    "homeless_2024": 12762,
+    "homeless_2025": 13714,
+    "homeless_sheltered_2025": 11728,
+    "homeless_unsheltered_2025": 1986
+  },
+  "NM": {
+    "homeless_2024": 4631,
+    "homeless_2025": 4683,
+    "homeless_sheltered_2025": 2537,
+    "homeless_unsheltered_2025": 2146
+  },
+  "NV": {
+    "homeless_2024": 10106,
+    "homeless_2025": 9905,
+    "homeless_sheltered_2025": 4991,
+    "homeless_unsheltered_2025": 4914
+  },
+  "NY": {
+    "homeless_2024": 158019,
+    "homeless_2025": 145560,
+    "homeless_sheltered_2025": 139704,
+    "homeless_unsheltered_2025": 5856
+  },
+  "OH": {
+    "homeless_2024": 11759,
+    "homeless_2025": 12196,
+    "homeless_sheltered_2025": 9718,
+    "homeless_unsheltered_2025": 2478
+  },
+  "OK": {
+    "homeless_2024": 5467,
+    "homeless_2025": 5174,
+    "homeless_sheltered_2025": 3239,
+    "homeless_unsheltered_2025": 1935
+  },
+  "OR": {
+    "homeless_2024": 22875,
+    "homeless_2025": 27202,
+    "homeless_sheltered_2025": 10702,
+    "homeless_unsheltered_2025": 16500
+  },
+  "PA": {
+    "homeless_2024": 14088,
+    "homeless_2025": 14834,
+    "homeless_sheltered_2025": 11952,
+    "homeless_unsheltered_2025": 2882
+  },
+  "RI": {
+    "homeless_2024": 2442,
+    "homeless_2025": 2373,
+    "homeless_sheltered_2025": 1755,
+    "homeless_unsheltered_2025": 618
+  },
+  "SC": {
+    "homeless_2024": 4593,
+    "homeless_2025": 4398,
+    "homeless_sheltered_2025": 2975,
+    "homeless_unsheltered_2025": 1423
+  },
+  "SD": {
+    "homeless_2024": 1338,
+    "homeless_2025": 1450,
+    "homeless_sheltered_2025": 1087,
+    "homeless_unsheltered_2025": 363
+  },
+  "TN": {
+    "homeless_2024": 8280,
+    "homeless_2025": 8850,
+    "homeless_sheltered_2025": 4774,
+    "homeless_unsheltered_2025": 4076
+  },
+  "TX": {
+    "homeless_2024": 27987,
+    "homeless_2025": 28031,
+    "homeless_sheltered_2025": 15870,
+    "homeless_unsheltered_2025": 12161
+  },
+  "UT": {
+    "homeless_2024": 3869,
+    "homeless_2025": 4584,
+    "homeless_sheltered_2025": 3538,
+    "homeless_unsheltered_2025": 1046
+  },
+  "VA": {
+    "homeless_2024": 7141,
+    "homeless_2025": 7240,
+    "homeless_sheltered_2025": 5891,
+    "homeless_unsheltered_2025": 1349
+  },
+  "VT": {
+    "homeless_2024": 3458,
+    "homeless_2025": 3386,
+    "homeless_sheltered_2025": 3116,
+    "homeless_unsheltered_2025": 270
+  },
+  "WA": {
+    "homeless_2024": 31554,
+    "homeless_2025": 31721,
+    "homeless_sheltered_2025": 14688,
+    "homeless_unsheltered_2025": 17033
+  },
+  "WI": {
+    "homeless_2024": 5049,
+    "homeless_2025": 5243,
+    "homeless_sheltered_2025": 4767,
+    "homeless_unsheltered_2025": 476
+  },
+  "WV": {
+    "homeless_2024": 1779,
+    "homeless_2025": 1925,
+    "homeless_sheltered_2025": 1042,
+    "homeless_unsheltered_2025": 883
+  },
+  "WY": {
+    "homeless_2024": 501,
+    "homeless_2025": 535,
+    "homeless_sheltered_2025": 437,
+    "homeless_unsheltered_2025": 98
+  }
+}

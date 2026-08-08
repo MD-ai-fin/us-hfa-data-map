@@ -291,9 +291,9 @@
     "state": "OK",
     "hfa_name": "Oklahoma Housing Finance Agency",
     "hfa_abbr": "OHFA_OK",
-    "page_url": "https://www.ohfa.org/",
+    "page_url": "https://www.ohfa.org/financials/",
     "fy2024_pdf": null,
-    "fy2025_pdf": "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-Single-Audit-Report-FINAL.pdf"
+    "fy2025_pdf": "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-FS-Report-FINAL.pdf"
   },
   "OR": {
     "state": "OR",

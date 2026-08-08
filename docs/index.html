@@ -454,14 +454,17 @@
         selectAll: "全选", clearAll: "清除",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
         reportBtn: "FY2025 综合分析报告",
-        reportTitle: "FY2025 美国州级住房金融机构 ACFR 综合分析报告",
+        reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
         reportError: "无法加载报告，请确认 reports/fy2025-zh.html 已生成。",
         closeReport: "关闭",
         metrics: {
           net_position: "住房局净资产",
+          net_position_growth_pct: "净资产同比增速",
+          net_position_per_capita: "人均净资产",
           total_assets: "总资产规模",
           total_liabilities: "总负债规模",
+          leverage_ratio: "杠杆率（负债/资产）",
           families_served: "服务家庭数量",
           staff_count: "住房管理局工作人员总数",
           population: "州总人口",
@@ -470,6 +473,7 @@
           unemployment_rate: "失业率",
           poverty_rate: "贫困率",
           median_home_price: "中位房价",
+          homeless_count: "流浪人员人数（2025年1月）",
         },
       },
       en: {
@@ -487,14 +491,17 @@
         selectAll: "Select All", clearAll: "Clear All",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
         reportBtn: "FY2025 Analysis Report",
-        reportTitle: "FY2025 U.S. State HFA ACFR Analysis Report",
+        reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
         reportError: "Could not load the report. Ensure reports/fy2025-en.html exists.",
         closeReport: "Close",
         metrics: {
           net_position: "HFA Net Position",
+          net_position_growth_pct: "Net Position YoY Growth",
+          net_position_per_capita: "Net Position per Capita",
           total_assets: "Total Assets",
           total_liabilities: "Total Liabilities",
+          leverage_ratio: "Leverage (Liabilities / Assets)",
           families_served: "Families Served",
           staff_count: "HFA Total Staff",
           population: "State Population",
@@ -503,6 +510,7 @@
           unemployment_rate: "Unemployment Rate",
           poverty_rate: "Poverty Rate",
           median_home_price: "Median Home Value",
+          homeless_count: "Homeless Persons (Jan 2025 PIT)",
         },
       },
     };
@@ -510,6 +518,7 @@
     const SOURCE_ORDER = [
       "hfa_financials", "hfa_staff_acfr", "hfa_staff_linkedin", "hfa_staff_other",
       "population", "personal_income", "unemployment", "poverty_median_home",
+      "homeless_count",
     ];
 
     const SOURCE_I18N = {
@@ -522,6 +531,7 @@
         personal_income: "美国经济分析局 SAINC4（州个人收入）",
         unemployment: "美国劳工统计局 LAUS（2023–2024 年平均）",
         poverty_median_home: "美国 Census Bureau ACS 1 年估计",
+        homeless_count: "HUD AHAR 时点统计（各州无家可归人数，2025 年 1 月）",
       },
       en: {
         hfa_financials: "FY2025 State Housing Finance Authority ACFR reports",
@@ -532,14 +542,17 @@
         personal_income: "U.S. Bureau of Economic Analysis SAINC4 (State Personal Income)",
         unemployment: "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
         poverty_median_home: "U.S. Census Bureau ACS 1-year estimates",
+        homeless_count: "HUD AHAR Point-in-Time Estimates by State (January 2025)",
       },
     };
 
     const METRIC_KEYS = [
-      "net_position", "total_assets", "total_liabilities",
+      "net_position", "net_position_growth_pct", "net_position_per_capita",
+      "total_assets", "total_liabilities", "leverage_ratio",
       "families_served", "staff_count", "population",
       "personal_income_total", "personal_income_per_capita",
       "unemployment_rate", "poverty_rate", "median_home_price",
+      "homeless_count",
     ];
 
     const LINE_HEIGHT = 1.15;
@@ -596,8 +609,11 @@
 
     const METRIC_COLORS = {
       net_position: "#38bdf8",
+      net_position_growth_pct: "#22d3ee",
+      net_position_per_capita: "#67e8f9",
       total_assets: "#2dd4bf",
       total_liabilities: "#fb7185",
+      leverage_ratio: "#f43f5e",
       families_served: "#a78bfa",
       staff_count: "#fb923c",
       population: "#4ade80",
@@ -606,6 +622,7 @@
       unemployment_rate: "#f87171",
       poverty_rate: "#ef4444",
       median_home_price: "#f472b6",
+      homeless_count: "#c084fc",
     };
 
     const STATE_ABBR = {
@@ -702,6 +719,27 @@
       return val != null && val !== "" && !Number.isNaN(Number(val));
     }
 
+    function yearMetrics(rec) {
+      const yd = { ...(rec?.[year] || {}) };
+      const np = Number(yd.net_position);
+      const pop = Number(yd.population);
+      const assets = Number(yd.total_assets);
+      const liab = Number(yd.total_liabilities);
+      if (hasMetricValue(yd.net_position) && hasMetricValue(yd.population) && pop > 0) {
+        yd.net_position_per_capita = np / pop;
+      }
+      if (hasMetricValue(yd.total_assets) && hasMetricValue(yd.total_liabilities) && assets > 0) {
+        yd.leverage_ratio = liab / assets;
+      }
+      return yd;
+    }
+
+    function metricValueForState(rec, mkey) {
+      if (!mkey) return null;
+      const yd = yearMetrics(rec);
+      return hasMetricValue(yd[mkey]) ? Number(yd[mkey]) : null;
+    }
+
     function fmtDisplay(val, key) {
       if (!hasMetricValue(val)) return null;
       return fmt(val, key);
@@ -709,8 +747,9 @@
 
     function fmt(val, key) {
       if (!hasMetricValue(val)) return t("na");
+      if (key === "leverage_ratio") return `${Number(val).toFixed(2)}×`;
       if (key.includes("rate") || key.includes("pct") || key.includes("growth")) return `${Number(val).toFixed(1)}%`;
-      if (key.includes("population") || key.includes("families") || key.includes("staff")) {
+      if (key.includes("population") || key.includes("families") || key.includes("staff") || key.includes("homeless")) {
         const n = Number(val);
         if (n >= 1e6) return `${(n / 1e6).toFixed(1)}M`;
         if (n >= 1e3) return `${(n / 1e3).toFixed(0)}K`;
@@ -722,7 +761,7 @@
         if (Math.abs(n) >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
         if (Math.abs(n) >= 1e6) return `$${(n / 1e6).toFixed(0)}M`;
         if (Math.abs(n) >= 1e3) return `$${(n / 1e3).toFixed(0)}K`;
-        return `$${n.toLocaleString()}`;
+        return `$${Math.round(n).toLocaleString(lang === "zh" ? "zh-CN" : "en-US")}`;
       }
       return Number(val).toLocaleString();
     }
@@ -786,12 +825,21 @@
 
     function metricValues(mkey) {
       if (!dataset || !mkey) return [];
-      return dataset.states.map(s => s[year]?.[mkey]).filter(v => v != null && !Number.isNaN(v));
+      return dataset.states
+        .map(s => metricValueForState(s, mkey))
+        .filter(v => v != null && !Number.isNaN(v));
     }
 
     function metricRange(mkey) {
       const vals = metricValues(mkey);
       if (!vals.length) return { min: 0, max: 1 };
+      // Winsorize extreme YoY growth outliers so choropleth stays readable.
+      if (mkey === "net_position_growth_pct" && vals.length >= 5) {
+        const sorted = [...vals].sort((a, b) => a - b);
+        const lo = sorted[Math.floor((sorted.length - 1) * 0.05)];
+        const hi = sorted[Math.floor((sorted.length - 1) * 0.95)];
+        if (lo !== hi) return { min: lo, max: hi };
+      }
       return { min: Math.min(...vals), max: Math.max(...vals) };
     }
 
@@ -899,7 +947,7 @@
       if (!selected.length) return null;
 
       const rec = getStateData(abbr);
-      const yd = rec?.[year] || {};
+      const yd = yearMetrics(rec);
       const metrics = selected.filter(k => hasMetricValue(yd[k]));
       const showMetricNames = selected.length > 1;
       const valueTexts = metrics
@@ -952,7 +1000,7 @@
 
     function buildMarkerHtml(abbr, layout) {
       const rec = getStateData(abbr);
-      const yd = rec?.[year] || {};
+      const yd = yearMetrics(rec);
       const rows = layout.metrics.map(k => {
         const val = yd[k];
         const text = fmtDisplay(val, k);
@@ -994,12 +1042,11 @@
       const abbr = STATE_ABBR[feature.properties.name];
       const mkey = primaryMetric();
       const rec = getStateData(abbr);
-      const val = mkey ? rec?.[year]?.[mkey] : null;
-      const vals = metricValues(mkey);
-      const min = vals.length ? Math.min(...vals) : null;
-      const max = vals.length ? Math.max(...vals) : null;
+      const val = metricValueForState(rec, mkey);
+      const { min, max } = metricRange(mkey);
+      const hasScale = metricValues(mkey).length > 0;
       return {
-        fillColor: mkey ? colorScale(val, min, max) : "#1e293b",
+        fillColor: mkey && hasScale ? colorScale(val, min, max) : "#1e293b",
         weight: 1,
         opacity: 1,
         color: "#64748b",
@@ -1050,8 +1097,9 @@
         document.getElementById("legend-max").textContent = t("na");
         return;
       }
-      document.getElementById("legend-min").textContent = fmt(Math.min(...vals), mkey);
-      document.getElementById("legend-max").textContent = fmt(Math.max(...vals), mkey);
+      const { min, max } = metricRange(mkey);
+      document.getElementById("legend-min").textContent = fmt(min, mkey);
+      document.getElementById("legend-max").textContent = fmt(max, mkey);
     }
 
     function renderMetricOptions() {

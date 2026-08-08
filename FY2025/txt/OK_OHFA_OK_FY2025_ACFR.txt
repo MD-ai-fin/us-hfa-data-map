@@ -1,262 +1,8406 @@
-SINGLE AUDIT SUPPLEMENT
-AND
-INDEPENDENT AUDITOR'S REPORTS
-ON COMPLIANCE AND INTERNAL CONTROL
-SEPTEMBER 30, 2025
-CONTENTS
-Schedule of Expenditures of Federal Awards ............................................................................................... 1
-Notes to Schedule of Expenditures of Federal Awards ................................................................................ 2
-Report on Internal Control over Financial Reporting and on Compliance
-and Other Matters Based on an Audit of Financial Statements Performed
-in Accordance with Government Auditing Standards ............................................................................... 3
-Report on Compliance for each Major Federal Program; Report on Internal
-Control Over Compliance; and Report on Schedule of Expenditures of
-Federal Awards Required by the Uniform Guidance ................................................................................ 5
-Schedule of Findings and Questioned Costs ................................................................................................. 8
-Summary Schedule of Prior Audit Findings ............................................................................................... 10
-OKLAHOMA HOUSING FINANCE AGENCY
-SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
-Year ended September 30, 2025
-Federal Passed
-ALN Through to Total Federal
-Federal Grantor/Pass-Through Grantor/Program or Cluster Title Number Subrecipients Expenditures
-U.S. Department of Housing and Urban Development:
-Lower Income Housing Assistance Program - Section 8
-Moderate Rehabilitation (Section 8 Project-Based Cluster) 14.856 $ - $ 132,508
-Housing Voucher Cluster:
-Section 8 Housing Choice Vouchers Program 14.871 - 92,250,989
-Section 8 Housing Choice Vouchers Program - Emergency
-Housing Voucher 14.871 - 2,322,199
-Total Section 8 Housing Choice Vouchers Program and
-Total Housing Voucher Cluster - 94,573,188
-PIH Family Self-Sufficiency Program 14.896 - 260,668
-Total Section 8 Related - 94,966,364
-Performance Based Contract Administrator Program 14.327 - 96,957,510
-Housing Opportunities for Persons with AIDS 14.241 548,304 570,453
-Housing Trust Fund 14.275 3,689,786 4,122,322
-HOME Investment Partnerships Program 14.239 9,766,892 11,053,476
-Total U.S. Department of Housing and Urban Development 14,004,982 207,670,125
-U.S. Department of Treasury:
-Homeowner Assistance Fund 21.026 - 9,059,174
-Total Expenditures of Federal Awards $ 14,004,982 $ 216,729,299
-See accompanying notes to schedule of expenditures of federal awards. 1
-OKLAHOMA HOUSING FINANCE AGENCY
-NOTES TO SCHEDULE OF EXPENDITURES OF FEDERAL AWARDS
+ 
+ 
+ 
+FINANCIAL STATEMENTS 
+AND SUPPLEMENTAL INFORMATION 
+ 
+SEPTEMBER 30, 2025 and 2024 
+ 
+WITH 
+ 
+INDEPENDENT AUDITOR'S REPORTS 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+CONTENTS 
+ 
+ 
+ 
+Independent Auditor's Report ....................................................................................................................... 1 
+ 
+Management's Discussion and Analysis (Unaudited) ................................................................................... 4 
+ 
+Basic Financial Statements: 
+ 
+Statements of Net Position ..................................................................................................................... 12 
+ 
+Statements of Revenues, Expenses and Changes in Net Position .......................................................... 14 
+ 
+Statements of Cash Flows ...................................................................................................................... 15 
+ 
+Notes to Financial Statements ................................................................................................................ 17 
+ 
+Required Supplemental Information:  
+ 
+ 
+Schedule of OHFA's Proportionate Share of the Net Pension (Asset) Liability .................................... 40 
+ 
+ 
+Schedule of OHFA's Pension Contributions .......................................................................................... 41 
+ 
+Schedule of OHFA's Proportionate Share of the Net Other Postemployment  
+ 
+Employee Benefits Liability (Asset) ................................................................................................. 42 
+ 
+ 
+Schedule of OHFA's Other Postemployment Employee Benefits Contributions .................................. 43 
+ 
+Other Supplemental Information: 
+ 
+Single Family Mortgage Revenue Bond Programs: 
+ 
+Supplemental Combining Statement of Net Position ........................................................................ 44 
+ 
+Supplemental Combining Statement of Revenues, Expenses and  
+ 
+Changes in Net Position ............................................................................................................... 47 
+ 
+Agency General Fund and Single Family Mortgage Revenue Bond Programs: 
+ 
+Supplemental Combining Statement of Net Position ........................................................................ 50 
+ 
+Supplemental Combining Statement of Revenues, Expenses and Changes 
+ 
+in Net Position .............................................................................................................................. 52 
+ 
+Supplemental Combining Statement of Cash Flows ......................................................................... 53 
+ 
+Other Report: 
+ 
+Report on Internal Control over Financial Reporting and on Compliance 
+and Other Matters Based on an Audit of Financial Statements 
+Performed in Accordance with Government Auditing Standards ..................................................... 55 
+ 
+
+ 
+ 
+ 
+1 
+INDEPENDENT AUDITOR'S REPORT 
+ 
+ 
+To the Board of Trustees 
+Oklahoma Housing Finance Agency 
+ 
+Report on the Audit of the Financial Statements 
+ 
+Opinion 
+ 
+We have audited the financial statements of Oklahoma Housing Finance Agency (the Agency, or OHFA), 
+a component unit of the State of Oklahoma, as of and for the years ended September 30, 2025 and 2024, 
+and the related notes to the financial statements, which collectively comprise the Agency's basic financial 
+statements as listed in the table of contents. 
+ 
+In our opinion, the accompanying financial statements present fairly, in all material respects, the financial 
+position of the Agency as of September 30, 2025 and 2024, and the respective changes in financial position 
+and cash flows thereof for the years then ended in accordance with accounting principles generally accepted 
+in the United States of America. 
+ 
+Basis for Opinion 
+ 
+We conducted our audits in accordance with auditing standards generally accepted in the United States of 
+America (GAAS) and the standards applicable to financial audits contained in Government Auditing 
+Standards, issued by the Comptroller General of the United States (Government Auditing Standards). Our 
+responsibilities under those standards are further described in the Auditor's Responsibilities for the Audit 
+of the Financial Statements section of our report. We are required to be independent of the Agency and to 
+meet our other ethical responsibilities, in accordance with the relevant ethical requirements relating to our 
+audits. We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis 
+for our audit opinion. 
+ 
+Responsibilities of Management for the Financial Statements 
+ 
+Management is responsible for the preparation and fair presentation of the financial statements in 
+accordance with accounting principles generally accepted in the United States of America, and for the 
+design, implementation, and maintenance of internal control relevant to the preparation and fair presentation 
+of financial statements that are free from material misstatement, whether due to fraud or error. 
+ 
+In preparing the financial statements, management is required to evaluate whether there are conditions or 
+events, considered in the aggregate, that raise substantial doubt about the Agency's ability to continue as a 
+going concern for twelve months beyond the financial statement date, including any currently known 
+information that may raise substantial doubt shortly thereafter. 
+ 
+Auditor's Responsibilities for the Audit of the Financial Statements 
+ 
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free 
+from material misstatement, whether due to fraud or error, and to issue an auditor's report that includes our 
+opinion. Reasonable assurance is a high level of assurance but is not absolute assurance and therefore is not 
+a guarantee that an audit conducted in accordance with GAAS and Government Auditing Standards will 
+always detect a material misstatement when it exists. The risk of not detecting a material misstatement 
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery,  
+www.hogantaylor.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+2 
+intentional omissions, misrepresentations, or the override of internal control. Misstatements are considered 
+material if there is a substantial likelihood that, individually or in the aggregate, they would influence the 
+judgment made by a reasonable user based on the financial statements. 
+ 
+In performing an audit in accordance with GAAS and Government Auditing Standards, we: 
+ 
+• Exercise professional judgment and maintain professional skepticism throughout the audit. 
+• Identify and assess the risks of material misstatement of the financial statements, whether due to fraud 
+or error, and design and perform audit procedures responsive to those risks. Such procedures include 
+examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures 
+that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the 
+effectiveness of the Agency's internal control. Accordingly, no such opinion is expressed. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of significant 
+accounting estimates made by management, as well as evaluate the overall presentation of the 
+financial statements. 
+• Conclude whether, in our judgment, there are conditions or events, considered in the aggregate, that 
+raise substantial doubt about the Agency's ability to continue as a going concern for a reasonable 
+period of time. 
+ 
+We are required to communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit, significant audit findings, and certain internal control-related matters 
+that we identified during the audit. 
+ 
+Other Matters 
+ 
+Required Supplemental Information 
+ 
+Accounting principles generally accepted in the United States of America require that the management's 
+discussion and analysis on pages 4-11, the schedule of OHFA's proportionate share of the net pension (asset) 
+liability on page 40, the schedule of OHFA's pension contributions on page 41, the schedule of OHFA's 
+proportionate share of the net Other Postemployment Employee Benefits (OPEB) liability (asset) on page 
+42, and the schedule of OHFA's OPEB contributions on page 43 be presented to supplement the basic 
+financial statements. Such information is the responsibility of management and, although not a part of the 
+basic financial statements, is required by the Governmental Accounting Standards Board who considers it 
+to be an essential part of financial reporting for placing the basic financial statements in an appropriate 
+operational, economic, or historical context. We have applied certain limited procedures to the required 
+supplemental information in accordance with auditing standards generally accepted in the United States of 
+America, which consisted of inquiries of management about the methods of preparing the information and 
+comparing the information for consistency with management's responses to our inquiries, the basic financial 
+statements, and other knowledge we obtained during our audit of the basic financial statements. We do not 
+express an opinion or provide any assurance on the information because the limited procedures do not 
+provide us with sufficient evidence to express an opinion or provide any assurance. 
+ 
+Other Supplemental Information 
+ 
+Our audit was conducted for the purpose of forming an opinion on the financial statements that collectively 
+comprise the Agency's basic financial statements. The accompanying supplemental information on pages 
+44 through 54 is presented for purposes of additional analysis and is not a required part of the basic financial 
+statements. Such information is the responsibility of management and was derived from and relates directly 
+to the underlying accounting and other records used to prepare the basic financial statements. The 
+
+ 
+ 
+ 
+3 
+information has been subjected to the auditing procedures applied in the audit of the basic financial 
+statements and certain additional procedures, including comparing and reconciling such information 
+directly to the underlying accounting and other records used to prepare the basic financial statements, or to 
+the basic financial statements themselves, and other additional procedures in accordance with auditing 
+standards generally accepted in the United States of America. In our opinion, the information is fairly stated 
+in all material respects in relation to the basic financial statements as a whole. 
+ 
+Other Reporting Required by Government Auditing Standards 
+ 
+In accordance with Government Auditing Standards, we have also issued our report dated January 20, 2026, 
+on our consideration of OHFA's internal control over financial reporting and on our tests of its compliance 
+with certain provisions of laws, regulations, contracts, and grant agreements and other matters. The purpose 
+of that report is to describe the scope of our testing of internal control over financial reporting and 
+compliance and the results of that testing, and not to provide an opinion on the effectiveness of OHFA's 
+internal control over financial reporting or on compliance. That report is an integral part of an audit 
+performed in accordance with Government Auditing Standards in considering OHFA's internal control over 
+financial reporting and compliance. 
+ 
+ 
+ 
+Oklahoma City, Oklahoma 
+January 20, 2026 
+
+ 
+ 
+ 
+4 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+MANAGEMENT'S DISCUSSION AND ANALYSIS 
+(unaudited) 
+ 
+September 30, 2025 and 2024 
+ 
+ 
+ 
+Oklahoma Housing Finance Agency (the Agency, or OHFA) was created in 1975 to provide funds to 
+promote the development of adequate residential housing to families of Oklahoma with low and moderate 
+incomes. OHFA is a self-supporting public trust and follows enterprise fund accounting.  
+ 
+As management of OHFA, we offer readers of OHFA's financial statements this narrative overview and 
+analysis of the financial activities for the fiscal years ended September 30, 2025 and 2024. This information 
+is presented to provide additional information regarding the activities of OHFA and to meet the disclosure 
+requirements of Government Accounting Standards Board (GASB) Statement No. 34, Basic Financial 
+Statements – and Management's Discussion and Analysis – for State and Local Governments. This analysis 
+should be read in conjunction with the basic financial statements, notes to financial statements, and 
+supplemental information.  
+ 
+OVERVIEW OF THE FINANCIAL STATEMENTS 
+ 
+This financial report of OHFA consists of three sections: management's discussion and analysis, the basic 
+financial statements, and supplemental information. OHFA's basic financial statements include the 
+following: the Statements of Net Position; the Statements of Revenues, Expenses and Changes in Net 
+Position; the Statements of Cash Flows; and the Notes to the Basic Financial Statements.  
+ 
+The Statements of Net Position answer the question, "How is our financial health at the end of the year?" 
+This statement includes all assets, deferred outflows, liabilities and deferred inflows of OHFA, both 
+financial and capital, short term and long term, using the accrual basis of accounting and economic 
+resources measurement focus, which is similar to the accounting used by most private-sector companies. 
+The resulting net position presented in this statement is displayed as invested in capital assets, restricted 
+and unrestricted. Assets are restricted when their use is subject to external limits such as bond resolutions, 
+legal agreements or statutes. Assets not included in this category are characterized as unrestricted. Over 
+time, changes in net position may serve as a useful indicator of whether the financial position of OHFA is 
+improving or deteriorating. 
+ 
+The Statements of Revenues, Expenses and Changes in Net Position measure the activities of OHFA's 
+operations over the past year and present the operating income and change in net position. They can be used 
+to determine whether OHFA has successfully recovered all its costs through mortgage and loan interest, 
+investment interest, externally funded programs, and other revenue sources. These statements help answer 
+the question, "Is OHFA, as a whole, better off or worse off as a result of this year's activities?" 
+ 
+The primary purpose of the Statements of Cash Flows is to provide information about the sources and uses 
+of OHFA's cash and the components of the change in cash balance during the reporting period. These 
+statements report cash receipts, cash payments, and net changes resulting from operating, noncapital 
+financing, capital financing, and investing activities. It provides answers to such questions as "What were 
+the sources of cash?" "How was cash used?" and "What was the change in cash balance during the reporting 
+period?" 
+ 
+The Notes to the Basic Financial Statements provide additional information that is essential for a full 
+understanding of the data provided in the financial statements.  
+ 
+
+ 
+ 
+ 
+5 
+In addition, this report contains a Supplemental Combining Statement of Net Position for the Single Family 
+Mortgage Revenue Bond Programs as well as a Supplemental Combining Statement of Revenues, 
+Expenses, and Changes in Net Position for the various Single Family Mortgage Revenue Bond Programs. 
+These supplemental schedules are presented to provide the reader with information regarding the financial 
+condition of each Single Family Mortgage Revenue Bond Program of the Agency.  
+ 
+FINANCIAL HIGHLIGHTS 
+Year ended September 30, 2025 
+ 
+• 
+Total assets increased by $380.3 million. 
+• 
+Total liabilities increased by $347.8 million. 
+• 
+Net position increased by $30.5 million. 
+• 
+Made 2,431 single family mortgage loans available to first-time homebuyers compared to 2,160 in 
+2024. 
+• 
+Provided 118,776 unit months of Section 8 rental assistance compared to 122,548 in 2024. 
+• 
+Paid $83.1 million in rental assistance to benefit Section 8 voucher holders compared to $76.0 million 
+in 2024. 
+• 
+Paid $93.6 million in rental assistance to project-based Section 8 properties compared to $85.8 
+million in 2024. 
+• 
+The Oklahoma Housing Stability Program (OHSP) closed 27 loans for a total award amount of $64.4 
+million in FY2025 compared to two loans for a total award of $3.2 million in FY2024. These are 0% 
+interest loans with two-year maturities. 
+ 
+FINANCIAL HIGHLIGHTS 
+Year ended September 30, 2024 
+ 
+• 
+Total assets increased by $283.9 million. 
+• 
+Total liabilities increased by $57.6 million. 
+• 
+Net position increased by $224.7 million. 
+• 
+Made 2,160 single family mortgage loans available to first-time homebuyers compared to 2,030 in 
+2023. 
+• 
+Provided 122,548 unit months of Section 8 rental assistance compared to 120,455 in 2023. 
+• 
+Paid $76.0 million in rental assistance to benefit Section 8 voucher holders compared to $69.1 million 
+in 2023. 
+• 
+Paid $85.8 million in rental assistance to project-based Section 8 properties compared to $81.3 
+million in 2023. 
+• 
+Oklahoma Governor approved the $215.0 million OHSP on January 25, 2024. OHSP is a zero percent 
+interest perpetual loan fund to stimulate production of single family and multi-family housing across 
+Oklahoma. The program closed two loans in FY2024 for a total award amount of $3.2 million. These 
+are 0% interest loans with two-year maturities. 
+ 
+The Agency has maintained a General Obligation issuer rating of A1 from Moody's Investors Service since 
+June 2006. This rating reflects OHFA's sound financial condition and a bond program collateralized by 
+highly rated mortgage-backed securities (MBS), as well as capable and dedicated management. 
+ 
+The Section 8 Voucher Program provides rental assistance to many elderly people, persons with disabilities, 
+single parents, or working families in need of help with their rent payments. 
+ 
+ 
+
+ 
+ 
+ 
+6 
+The Single Family Loan Program provides affordable mortgages with down payment and closing cost 
+assistance to homebuyers through proceeds from mortgage revenue bonds (first-time homebuyers) or selling 
+MBS in the open market via the "To Be Announced" (TBA) Program (no first-time homebuyer requirement). 
+Housing Tax Credits are provided to developers as an incentive to build new, affordable complexes or 
+rehabilitate complexes in need of repair. 
+ 
+As Section 8 Contract Administrator for project-based Section 8 properties located throughout Oklahoma 
+for the U.S. Department of Housing and Urban Development (HUD), OHFA's 2025 duties consisted of 165 
+properties, totaling 12,578 assisted units. The Agency receives a fee to administer the program based on 
+the number of units under contract. 
+ 
+In late 2021, OHFA was awarded a contract with the U.S. Department of Treasury to administer the 
+Homeowner Assistance Fund for the State of Oklahoma. The Oklahoma Homeowner Assistance Fund 
+(HAF) is a temporary program made available through the American Rescue Plan Act. HAF provides 
+financial assistance on behalf of homeowners who have experienced significant financial hardship due to 
+COVID-19. Eligible expenses paid with HAF funds included mortgage restatement, principal reduction, 
+delinquent real estate taxes, restoration of homeowner insurance, and delinquent homeowner association 
+dues. The HAF program issued their final awards in FY2025 and is anticipated to complete required 
+reporting activities in FY2026. 
+ 
+Oklahoma House Bill 1031 established the OHSP. The Oklahoma Governor approved OHFA's OHSP in 
+January 2024. This program provides funds for the new construction of single-family homes for purchase 
+and for single-family or multi-family rental housing. It also provides down payment assistance for 
+homebuyers who purchase homes built with OHSP financing.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+7 
+CONDENSED FINANCIAL INFORMATION  
+ 
+Statements of Net Position 
+ 
+The following table presents condensed statements of net position for the Agency as of September 30 (in 
+millions):  
+ 
+Condensed Statements of Net Position 
+ 
+ 
+Explanations of significant variances between 2025 and 2024 on the condensed statements of net position 
+follow:  
+ 
+The increase in total assets of $380.3 million is primarily due 1) an increase in cash and investments 
+related to the Agency issuing four new Single Family Bond series for $375.0 million during FY 2025 
+against $36.2 million in paydowns on bonds outstanding, for a net increase in bonds and notes payable 
+(excluding unamortized premium) of $338.8 million, 2) a $0.8 million positive market value 
+adjustment caused by decreases in market interest rates and an increase in the underlying investment 
+base, which causes the value of investments to rise, 3) a $35.8 million increase in Program Loans (net 
+of allowances), 4) a $1.5 million increase in interest receivable, 5) offset with a $0.9 million decrease 
+in capital assets, 6) a $1.2 million increase in the pension asset and $0.2 million increase in the OPEB 
+asset. 
+ 
+ 
+2025
+2024
+2023
+Assets
+Current assets
+Unrestricted
+68.1
+$       
+57.4
+$     
+67.1
+$     
+Restricted
+371.0
+       
+351.9
+     
+266.4
+     
+Noncurrent assets:
+Restricted
+928.8
+     
+576.6
+   
+377.7
+   
+Net capital assets
+17.1
+       
+18.0
+     
+18.7
+     
+Unrestricted
+87.1
+       
+87.8
+     
+77.9
+     
+Total assets
+1,472.1
+    
+1,091.7
+  
+807.8
+     
+Deferred outflows
+1.4
+           
+2.8
+         
+4.3
+         
+Liabilities
+Current liabilities
+91.8
+         
+93.2
+       
+284.1
+     
+Noncurrent liabilities
+963.1
+       
+613.9
+     
+365.4
+     
+Total liabilities
+1,054.9
+    
+707.1
+     
+649.5
+     
+Deferred inflows
+1.1
+           
+0.4
+         
+0.3
+         
+Net Position
+Invested in capital assets
+17.1
+         
+18.0
+       
+18.7
+       
+Restricted for single family bond programs
+80.8
+         
+77.8
+       
+48.6
+       
+Restricted for Section 8 and Emergency Housing
+Voucher programs
+3.2
+           
+0.1
+         
+0.1
+         
+Restricted for Oklahoma Housing Trust Fund
+4.2
+           
+4.2
+         
+4.2
+         
+Restricted for Oklahoma Housing Stability Program
+185.7
+       
+176.5
+     
+-
+           
+Unrestricted
+126.5
+       
+110.4
+     
+90.7
+       
+Total net position
+417.5
+$     
+387.0
+$   
+162.3
+$   
+
+ 
+ 
+ 
+8 
+The increase in total liabilities of $347.8 million is primarily due to the net effect of five factors: 1) a 
+decrease in unearned revenue of $0.6 million for OHSP due to funds being expended for program 
+purposes, and 2) a decrease in unearned revenues of $9.1 million for HAF due to funds being expended 
+for program purposes, and 3) a decrease in the pension liability and arbitrage payable of $1.8 million 
+(FY2024 pension liability converted to a pension asset in FY2025) , and, 4) an increase in HUD related 
+payables of $1.2 million, and 5) the Agency bonds and interest payable amounts increasing due to net 
+new debt of $357.8 million (as the result of four new bond issues totaling $375.0 million, net of 
+paydowns on outstanding bonds).  
+ 
+The increase in net position of $30.5 million from $387.0 million in 2024 to $417.5 million in 2025 is 
+primarily due to an almost $27.6 million operating profit and a $2.9 million nonoperating surplus. 
+ 
+Explanations of significant variances between 2024 and 2023 on the condensed statements of net position 
+follow:  
+ 
+The increase in total assets of $283.9 million is primarily due 1) an increase in cash and investments 
+related to the Agency issuing four new Single Family Bond series for $270.0 million during FY 2024 
+against $27.8 million in paydowns on bonds outstanding, for a net increase in bonds and notes payable 
+(excluding unamortized premium) of $242.2 million, 2) a $26.9 million positive market value 
+adjustment caused by significant decreases in market interest rates and an increase in the underlying 
+investment base, which causes the value of investments to rise, 3) a $13.7 million increase in Program 
+Loans (net of allowances), and 4) a $1.4 million increase in interest receivable offset with a $0.6 
+million decrease in capital assets.  
+ 
+The increase in total liabilities of $57.6 million is primarily due to the net effect of three factors: 1) a 
+decrease in deferred revenue of $165.8 million relating to the OHSP that were received (and deferred) 
+in FY2023 and recognized as income in FY2024, and 2) a decrease in deferred revenues of $29.5 
+million for HAF due to funds being expended for program purposes, and 3) the Agency bonds payable 
+increasing due to net new debt of $253.3 million (as the result of four new bond issues totaling $270.0 
+million, net of paydowns on outstanding bonds). 
+ 
+The increase in net position of $224.7 million from $162.3 million in 2023 to $387.0 million in 2024 
+is primarily due to an almost $60.5 million operating profit and a $164.2 million nonoperating surplus. 
+ 
+Statements of Revenues, Expenses and Changes in Net Position 
+ 
+The following table presents condensed statements of revenues, expenses and changes in net position for 
+the Agency for the years ended September 30 (in millions):  
+ 
+Condensed Statements of Revenues, Expenses and Changes in Net Position 
+ 
+ 
+ 
+ 
+2025
+2024
+2023
+Operating and Nonoperating Revenues
+Investments and program loans
+60.0
+$     
+46.6
+$     
+18.2
+$     
+Net increase (decrease) in fair value of investments
+0.8
+         
+31.6
+       
+(11.4)
+      
+Realized gain on sale of investments
+4.2
+         
+5.9
+         
+3.9
+         
+Fees and other income
+23.4
+       
+22.2
+       
+21.1
+       
+Federal and state program income
+203.0
+     
+369.9
+     
+192.1
+     
+Total revenues
+291.4
+     
+476.2
+     
+223.9
+     
+
+ 
+ 
+ 
+9 
+ 
+ 
+Explanations of significant fluctuations between 2025 and 2024 in revenues, expenses, and changes in net 
+position follow:  
+ 
+The net increase in the fair value of investments of $0.8 million for 2025 was due to market interest 
+rates being lower than in the previous year, causing an increase in the value of newer, relatively higher 
+yielding interest rate securities. The market values of fixed interest rate investments typically have an 
+inverse relationship to interest rates. 
+ 
+The realized gain on sale of investments of $4.2 million in 2025 and $5.9 million in 2024 is due to the 
+Agency capitalizing on market opportunities to sell newly pooled Single Family Loan Program MBS 
+at a gain on the open market via the TBA Program instead of placing these MBS into a bond issue. 
+Fewer MBS were sold in the market in 2025 than 2024.  
+ 
+Federal and state program revenues decreased by $166.9 million due primarily to the net effect of a 
+$7.7 million increase in the Section 8 Contract Administration Program revenues, a $10.2 million 
+increase in the Section 8 Voucher Program revenues, a $164.2 decrease in OHSP revenues, a $19.8 
+million decrease in HAF revenues, and a $0.8 million decrease in other federal programs. 
+ 
+Interest expense on bonds and notes payable increased by $13.9 million in 2025 from 2024. The 
+increase in interest expense is due to bonds and notes payable balances trending upward during 2025 
+due to four new bond issues totaling $375.0 million of new debt.  
+ 
+Federal and state program expenses decreased by $5.6 million due primarily to the net effect of a $7.7 
+million increase in the Section 8 Contract Administration Program expenses, a $7.0 million increase 
+in the Section 8 Voucher Program expenses, a $19.8 million decrease in HAF expenses, and a $0.5 
+decrease in other federal and state programs. 
+ 
+The increase in net position of $30.5 million from $387.0 million in 2024 to $417.5 million in 2025 is 
+primarily due to an almost $27.6 million operating profit and a $2.9 million increase in net position 
+due to OHFA receiving $2.9 million more in nonoperating federal and state program revenues than 
+federal and state program expenses. 
+ 
+Explanations of significant fluctuations between 2024 and 2023 in revenues, expenses, and changes in net 
+position follow:  
+ 
+The net increase in the fair value of investments of $43.0 million for 2024 was due to market interest 
+rates being lower than in the previous year, causing an increase in the value of older, relatively lower 
+yielding interest rate securities. The market values of fixed interest rate investments typically have an 
+inverse relationship to interest rates. 
+ 
+2025
+2024
+2023
+Operating and Nonoperating Expenses
+Interest on bonds and notes
+34.2
+       
+20.3
+       
+9.6
+         
+Other bond program expenses
+8.5
+         
+6.6
+         
+4.8
+         
+Salaries, general and administrative
+18.1
+       
+18.9
+       
+16.4
+       
+Federal and state program expenses
+200.1
+     
+205.7
+     
+192.5
+     
+Total expenses
+260.9
+     
+251.5
+     
+223.3
+     
+Increase in net position
+30.5
+       
+224.7
+     
+0.6
+         
+Net position at beginning of year
+387.0
+     
+162.3
+     
+161.7
+     
+Net position at end of year
+417.5
+$   
+387.0
+$   
+162.3
+$   
+
+ 
+ 
+ 
+10 
+The realized gain on sale of investments of $5.9 million in 2024 and $3.9 million in 2023 is due to the 
+Agency capitalizing on market opportunities to sell newly pooled Single Family Loan Program MBS 
+at a gain on the open market via the TBA Program instead of placing these MBS into a bond issue.  
+ 
+Federal and state program revenues increased by $177.8 million due primarily to the net effect of a 
+$4.6 million increase in the Section 8 Contract Administration Program revenues, a $2.9 million 
+increase in the HOME Investment Partnership Program revenues, a $6.8 million increase in the Section 
+8 Voucher Program revenues, $164.2 million earned revenues for the OHSP, and due to a $1.4 million 
+decrease in the HAF revenues due to varying availability of federal program funding and activity. 
+ 
+Interest expense on bonds and notes payable increased by $10.7 million in 2024 from 2023. The 
+increase in interest expense is due to bonds and notes payable balances trending upward during 2024 
+due to four new bond issues totaling $270.0 million of new debt.  
+ 
+Federal and state program expenses increased by $13.2 million due primarily to the net effect of a $4.6 
+million increase in the Section 8 Contract Administration Program expenses, a $2.9 million increase 
+in the HOME Investment Partnership Program expenses, a $0.2 million increase in the Emergency 
+Housing Voucher (EHV) program expenses, a $6.9 million increase in the Section 8 Voucher Program 
+expenses and a $1.4 million decrease in the HAF expenses due to varying availability of federal 
+program funding and activity. 
+ 
+The increase in net position of $224.7 million from $162.3 million in 2023 to $387.0 million in 2024 
+is primarily due to an almost $60.5 million operating profit and a $164.2 million increase in net 
+position due to OHFA receiving $164.2 million more in nonoperating federal and state program 
+revenues than federal and state program expenses. 
+ 
+Capital Assets and Long-Term Debt Administration 
+ 
+Capital assets 
+ 
+As of September 30, 2025 and 2024, the Agency had invested $17.1 million and $18.0 million, respectively, 
+net of accumulated depreciation, in a broad range of capital assets, including a building and building 
+improvements, land, and furniture and equipment. More detailed information about the capital assets is 
+presented in Note 5 of the notes to the financial statements. 
+ 
+Long-term debt 
+ 
+As of September 30, 2025, the Agency had $983.2 million in bonds and notes payable outstanding, which 
+is an increase of 56.9% from last year's amount of $626.8 million. More detailed information about the 
+bonds and notes payable is presented in Note 7 of the notes to the financial statements.  
+ 
+Economic Factors and Other Financial Information  
+ 
+OHFA's main sources of revenues include mortgage loan activity, investment interest income, and 
+externally funded grants. Market interest rates have an effect on both the mortgage program and investment 
+income revenues. If interest rates rise, mortgage and investment income should increase as new loans are 
+originated and new investments are purchased at higher rates. If interest rates fall, mortgage and investment 
+income should decrease as new loans are originated and new investments are purchased at the lower rates. 
+Any decrease in interest rates could also cause an increase in prepayments on higher rate mortgages. 
+Administrative fees for administering federal programs have stabilized and continue to trend slightly higher. 
+Large federal deficits or changes in programs or funding levels could have a negative impact on externally 
+funded program revenues.  
+ 
+The Agency expects to continue its commitment to its mission of providing housing resources while 
+preserving a strong financial position during the coming year.  
+
+ 
+ 
+ 
+11 
+Contacting OHFA's Financial Management  
+ 
+This discussion and analysis is to provide additional information to our stakeholders regarding the activities 
+of the Agency. If you have questions about this report, or need additional financial information, contact the 
+OHFA Controller, Mr. Ron Wolf, CPA, at (405) 419-8209; Oklahoma Housing Finance Agency, P.O. Box 
+26720, Oklahoma City, Oklahoma 73126-0720; e-mail: ron.wolf@ohfa.org or visit our website at 
+www.ohfa.org. 
+ 
+
+ 
+ 
+See notes to financial statements.  
+12 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+STATEMENTS OF NET POSITION 
+ 
+September 30, 2025 and 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+Assets
+Current assets:
+Cash and cash equivalents
+65,491,323
+$     
+54,885,506
+$     
+Investments
+-
+                       
+254,661
+            
+Accounts receivable (net of an allowance for doubtful accounts 
+of $1,951,951 and $1,808,974 for 2025 and 2024, respectively)
+178,750
+            
+48,339
+              
+Accounts receivable - U.S. Department of 
+Housing and Urban Development
+1,261,169
+         
+1,126,358
+         
+Interest receivable
+396,344
+            
+307,853
+            
+Prepaid expenses
+783,994
+            
+818,374
+            
+Restricted assets:
+Cash and cash equivalents
+361,829,550
+     
+348,743,313
+     
+Program loans receivable
+4,645,368
+         
+-
+                       
+Interest receivable
+4,528,182
+         
+3,103,174
+         
+Total current assets
+439,114,680
+     
+409,287,578
+     
+Noncurrent assets:
+Investments
+67,523,914
+       
+71,220,032
+       
+Program loans receivable (net of an allowance for bad debts 
+of $1,762,823 and $1,423,417 for 2025 and 2024, respectively)
+19,555,853
+       
+16,603,685
+       
+Nondepreciated capital assets
+550,000
+            
+550,000
+            
+Capital assets, net 
+16,579,736
+       
+17,498,142
+       
+Restricted assets:
+Investments 
+885,351,140
+     
+562,663,494
+     
+Program loans receivable  (net of an allowance for bad debts 
+of $2,546,393 and $1,339,127 for 2025 and 2024, respectively)
+41,584,775
+       
+13,422,912
+       
+Pension asset
+1,217,984
+         
+-
+                       
+OPEB asset
+631,907
+            
+458,778
+            
+Total noncurrent assets
+1,032,995,309
+  
+682,417,043
+     
+Total assets
+1,472,109,989
+  
+1,091,704,621
+  
+Deferred outflows of resources:
+Pension
+1,351,888
+         
+2,606,649
+         
+OPEB
+117,536
+            
+160,717
+            
+Accumulated decrease in fair value of hedging derivatives
+6,559
+                
+12,700
+              
+Total deferred outflows
+1,475,983
+         
+2,780,066
+         
+
+ 
+ 
+See notes to financial statements.  
+13 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+STATEMENTS OF NET POSITION (continued) 
+ 
+September 30, 2025 and 2024 
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+Liabilities
+Current liabilities:
+Salaries and related expenses
+872,895
+            
+791,518
+            
+Accounts payable - U.S. Department of Housing
+and Urban Development
+1,570,346
+         
+651,942
+            
+Accounts payable - Family Self Sufficiency Program
+1,271,066
+         
+960,691
+            
+Accounts payable - other
+549,791
+            
+645,198
+            
+Hedging payable
+6,559
+                
+12,700
+              
+Unearned revenue
+62,458,770
+       
+71,966,454
+       
+Compensated absences
+1,133,170
+         
+1,099,940
+         
+Interest payable
+3,850,745
+         
+2,362,265
+         
+Current maturities of bonds and notes payable
+20,094,852
+       
+14,737,610
+       
+Total current liabilities
+91,808,194
+       
+93,228,318
+       
+Noncurrent liabilities:                                                      
+Pension liability
+-
+                       
+1,644,092
+         
+Arbitrage payable
+-
+                       
+200,463
+            
+Bonds and notes payable, less current maturities
+963,122,252
+     
+612,031,954
+     
+Total noncurrent liabilities
+963,122,252
+     
+613,876,509
+     
+Total liabilities
+1,054,930,446
+  
+707,104,827
+     
+Deferred inflows of resources:
+OPEB
+211,808
+            
+204,054
+            
+Pension
+925,996
+            
+162,242
+            
+Total deferred inflows of resources
+1,137,804
+         
+366,296
+            
+Net Position
+Invested in capital assets
+17,129,736
+       
+18,048,142
+       
+Restricted for Single Family Bond Programs 
+80,819,916
+       
+77,830,801
+       
+Restricted for Section 8 and Emergency Housing Voucher Programs
+3,168,581
+         
+55,747
+              
+Restricted for Oklahoma Housing Trust Fund
+4,171,442
+         
+4,171,442
+         
+Restricted for Oklahoma Housing Stability Program
+185,689,319
+     
+176,495,865
+     
+Unrestricted
+126,538,728
+     
+110,411,567
+     
+Total net position
+417,517,722
+$   
+387,013,564
+$   
+
+ 
+ 
+See notes to financial statements.  
+14 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+STATEMENTS OF REVENUES, EXPENSES AND CHANGES IN NET POSITION 
+ 
+Years ended September 30, 2025 and 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+2025
+2024
+Operating Revenues
+Investment income
+59,913,017
+$     
+46,449,992
+$     
+Program loan income
+131,129
+            
+109,215
+            
+Net increase in fair value of investments
+768,753
+            
+31,603,808
+       
+Realized gain on sale of investments
+4,258,061
+         
+5,921,837
+         
+Fees and other income
+23,398,705
+       
+22,186,454
+       
+Total operating revenues
+88,469,665
+       
+106,271,306
+     
+Operating Expenses
+Interest on bonds and notes payable
+34,241,283
+       
+20,249,105
+       
+Mortgage servicing fees
+3,413,681
+         
+2,333,143
+         
+Trustees and other fees
+132,803
+            
+288,376
+            
+Bad debt
+1,693,940
+         
+1,466,153
+         
+Bond issue costs
+3,270,782
+         
+2,500,687
+         
+Salaries and related expenses
+12,871,416
+       
+13,625,513
+       
+Other general and administrative
+5,257,936
+         
+5,300,145
+         
+Total operating expenses
+60,881,841
+       
+45,763,122
+       
+Operating income 
+27,587,824
+       
+60,508,184
+       
+Nonoperating revenue (expense):
+Federal and state program revenue
+203,012,736
+     
+369,943,295
+     
+Federal and state program expense
+(200,096,402)
+   
+(205,705,880)
+   
+Total nonoperating revenue
+2,916,334
+         
+164,237,415
+     
+Increase in net position
+30,504,158
+       
+224,745,599
+     
+Total net position, beginning of year
+387,013,564
+     
+162,267,965
+     
+Total net position, end of year
+417,517,722
+$   
+387,013,564
+$   
+
+ 
+ 
+See notes to financial statements.  
+15 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+STATEMENTS OF CASH FLOWS 
+ 
+Years ended September 30, 2025 and 2024 
+ 
+ 
+ 
+2025
+2024
+Cash Flows from Operating Activities
+Receipts from fees
+26,265,711
+$       
+20,648,382
+$       
+Receipts from program loan payments
+6,816,724
+           
+1,879,445
+           
+Receipts used by other sources
+(9,390,168)
+          
+(195,009,922)
+      
+Payments to employees
+(12,756,809)
+        
+(13,594,259)
+        
+Payments to suppliers
+(3,281,042)
+          
+(3,329,410)
+          
+Payments for purchases of program loans
+(44,043,354)
+        
+(16,911,042)
+        
+Payments for bond fees
+(3,332,111)
+          
+(2,287,767)
+          
+Payments for trustee and other fees
+(4,646,739)
+          
+(89,117)
+               
+Net cash used in operating activities
+(44,367,788)
+        
+(208,693,690)
+      
+Cash Flows from Noncapital Financing Activities
+Proceeds from issuance of bonds and notes payable
+394,298,800
+       
+658,449,268
+       
+Principal paid on bonds and notes payable
+(37,851,260)
+        
+(405,135,265)
+      
+Interest paid on bonds and notes payable
+(32,752,803)
+        
+(19,366,649)
+        
+Payment of bond issuance costs
+(3,270,782)
+          
+(2,500,687)
+          
+Receipt of federal and state program revenues
+203,012,736
+       
+369,943,295
+       
+Payment of federal and state program expenses
+(200,096,402)
+      
+(205,705,880)
+      
+Net cash provided by noncapital financing activities
+323,340,289
+       
+395,684,082
+       
+Cash Flows from Capital and Related Financing Activities
+Acquisition of capital assets
+(249,810)
+             
+(570,407)
+             
+Cash Flows from Investing Activities
+Purchase of investments
+(854,695,414)
+      
+(643,271,329)
+      
+Proceeds from sales and maturities of investments
+541,265,259
+       
+485,830,471
+       
+Interest received on investments
+58,399,518
+         
+45,106,900
+         
+Net cash used in investing activities
+(255,030,637)
+      
+(112,333,958)
+      
+Net increase in cash
+23,692,054
+         
+74,086,027
+         
+Cash and cash equivalents, beginning of year
+403,628,819
+       
+329,542,792
+       
+Cash and cash equivalents, end of year
+427,320,873
+$     
+403,628,819
+$     
+Cash and Cash Equivalents as Reported in 
+Statement of Net Position
+Unrestricted
+65,491,323
+$       
+54,885,506
+$       
+Restricted
+361,829,550
+       
+348,743,313
+       
+427,320,873
+$     
+403,628,819
+$     
+
+ 
+ 
+See notes to financial statements.  
+16 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+STATEMENTS OF CASH FLOWS (continued) 
+ 
+Years ended September 30, 2025 and 2024 
+ 
+ 
+ 
+ 
+2025
+2024
+Reconciliation of Operating Income to Net Cash
+Used in Operating Activities
+Operating income
+27,587,824
+$       
+60,508,184
+$       
+Adjustments to reconcile operating income to net cash
+used in operating activities:
+Depreciation
+1,150,392
+           
+1,191,918
+           
+Bad debt
+1,693,940
+           
+1,466,153
+           
+Interest from investments
+(59,913,017)
+        
+(46,449,992)
+        
+Bond issue costs
+3,270,782
+           
+2,500,687
+           
+Net increase in fair value of investments
+(768,753)
+             
+(31,603,808)
+        
+Realized gain on sale of investments
+(4,520,135)
+          
+(5,921,837)
+          
+Interest on bonds and notes payable
+34,241,283
+         
+20,249,105
+         
+Change in operating assets, liabilities, deferred outflows,
+and deferred inflows:
+Accounts receivable and HUD receivable
+(439,258)
+             
+(319,153)
+             
+Hedging payable
+(6,141)
+                 
+(19,339)
+               
+Prepaid expenses
+34,380
+                
+(91,265)
+               
+Program loans receivable
+(37,359,808)
+        
+(15,126,736)
+        
+OPEB asset
+(173,129)
+             
+(145,124)
+             
+Pension asset
+(1,217,984)
+          
+-
+                          
+Accounts payable and accrued expenses
+1,295,254
+           
+(402,616)
+             
+Arbitrage payable
+(200,463)
+             
+200,463
+              
+Unearned revenue
+(9,507,684)
+          
+(195,069,951)
+      
+Pension liability
+(1,644,092)
+          
+(1,173,008)
+          
+Deferred outflows
+1,304,083
+           
+1,486,481
+           
+Deferred inflows
+771,508
+              
+51,942
+                
+Compensated absences
+33,230
+                
+(25,794)
+               
+Net cash used in operating activities
+(44,367,788)
+$      
+(208,693,690)
+$    
+
+ 
+ 
+ 
+17 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+NOTES TO FINANCIAL STATEMENTS 
+ 
+September 30, 2025 and 2024 
+ 
+ 
+ 
+Note 1 – Authorizing Legislation and Activities 
+ 
+Oklahoma Housing Finance Agency (the Agency, or OHFA) is a public trust established pursuant to a Trust 
+Indenture, as amended, which was originally adopted on May 1, 1975. Under the Trust Indenture, OHFA 
+was created for the benefit of the State of Oklahoma (the State) pursuant to the Oklahoma Public Trust Act 
+(the Act). Pursuant to the Act, the Governor of the State, on behalf of the State, approved the creation of 
+OHFA and accepted the beneficial interest created thereby on May 1, 1975. The Trust Indenture was last 
+amended by the third amendment as of August 19, 2002, with the approval of the Governor of the State. 
+The Governor has, pursuant to the Trust Indenture, approved the by-laws of OHFA. The Governor also 
+appoints the five-member Board of Trustees and the resident board member representing the Housing 
+Choice Voucher Program.  
+ 
+OHFA is authorized, in the furtherance of public purposes, to issue mortgage revenue bonds through its 
+Single Family Bond Programs (or Single Family Mortgage Revenue Bond Programs) in order to provide 
+funds to promote the development of adequate residential housing and other economic development for the 
+benefit of the State. In no event does the indebtedness constitute a debt, liability, or moral obligation of the 
+State or any political subdivision thereof. OHFA has no taxing power. The Agency receives application, 
+servicing and issuer fees in connection with its bond programs.  
+ 
+OHFA is included in the State's financial report. The State reports the transactions of OHFA in its Annual 
+Comprehensive Financial Report as a major component unit.  
+ 
+In addition to its bond programs, OHFA administers Section 8 Housing Assistance Payments Programs for 
+the U.S. Department of Housing and Urban Development (HUD). OHFA receives administrative fees based 
+on the number of housing units administered under its contracts with HUD. OHFA also administers the 
+Home Investment Partnerships Program (HOME) for HUD. The intent of the HOME Program is to provide 
+decent affordable housing to lower-income households, expand the capacity of nonprofit housing providers, 
+strengthen the ability of state and local governments to provide housing, and leverage private sector 
+participation. Activities that are eligible under HOME include homeowner rehabilitation, homebuyer 
+activities, rental housing and tenant-based rental assistance. OHFA receives reimbursement of eligible costs 
+associated with the administration of the program.  
+ 
+OHFA is the Section 8 Contract Administrator for federal HUD-financed Section 8 properties located 
+throughout Oklahoma. The Agency receives a fee to administer the program determined by the number of 
+units under contract. The Agency also administers the U.S. Department of Treasury's (Treasury) Low 
+Income Housing Tax Credit (LIHTC) Program for the State. The Agency receives application and service 
+fees from developers who participate in the LIHTC Program. Since 2021, the Agency has administered the 
+Treasury's Homeowner Assistance Fund. 
+ 
+Oklahoma House Bill 1031 established the Oklahoma Housing Stability Program (OHSP). The Oklahoma 
+Governor approved OHFA's OHSP plan in January 2024. This program provides funds for the new 
+construction of single-family homes for purchase and for single-family or multi-family rental housing. It 
+also provides down payment assistance for homebuyers who purchase homes built with OHSP financing.  
+ 
+OHFA also administers certain other federal and state programs.  
+ 
+ 
+
+ 
+ 
+ 
+18 
+Note 2 – Summary of Significant Accounting Policies 
+ 
+Financial statement presentation 
+ 
+OHFA accounts for revenues and expenses related to temporary funding of certain single family first 
+mortgage loans within its general fund until the loans are sold in specified increments in connection with 
+related bond programs, when required, due to the temporary restrictions associated with bond programs. 
+Intergovernmental grants are also accounted for within the Agency's general fund. Pursuant to OHFA's 
+bond obligation resolutions, separate funds are established by each trustee bank to record all transactions 
+relating to OHFA programs financed under each of the resolutions. Within each fund, there is a group of 
+accounts required by the respective resolutions. The Single Family Bond Program funds and the general 
+fund have been presented on a combined basis because OHFA is considered a single enterprise fund for 
+financial reporting purposes. All interfund balances and transactions have been eliminated in the financial 
+statements.  
+ 
+The accompanying financial statements have been prepared in conformity with generally accepted 
+accounting principles (GAAP) as prescribed by the Governmental Accounting Standards Board (GASB). 
+The financial statements are prepared in accordance with GASB Statement No. 34, Basic Financial 
+Statements – and Management's Discussion for State and Local Governments, GASB Statement No. 37, 
+Basic Financial Statements – and Management's Discussion and Analysis – for State and Local 
+Governments: Omnibus, and GASB Statement No. 38, Certain Financial Statement Note Disclosures.  
+ 
+Basis of accounting 
+ 
+The Agency accounts for its activities within a proprietary fund type. The Agency's activities meet the 
+definition of an enterprise fund because it is the intent of the Agency to recover, primarily through user 
+charges, the cost of providing goods or services to the general public.  
+ 
+The proprietary fund type is accounted for on a flow of economic resources measurement focus. With this 
+measurement focus, all assets and all liabilities associated with the operation of this fund are included on 
+the Statement of Net Position. Proprietary fund operating statements present increases (e.g., revenues) and 
+decreases (e.g., expenses) in net position. The accrual basis of accounting is utilized by a proprietary fund. 
+Under this basis of accounting, revenues are recognized when earned and expenses are recognized when 
+the liability is incurred.  
+ 
+GASB is the standard-setting body for governmental accounting and financial reporting. GASB periodically 
+updates its codification of the existing Governmental Accounting and Financial Reporting Standards, 
+which, along with subsequent GASB pronouncements (Statements and Interpretations), constitutes GAAP 
+for governmental units. 
+ 
+Proprietary funds distinguish operating revenues and expenses from nonoperating items. Operating 
+revenues and expenses generally result from providing services in connection with a proprietary fund's 
+principal ongoing operations. Revenues and expenses not meeting this definition are reported as 
+nonoperating revenues and expenses.  
+ 
+When the Agency incurs an expense for which it may use either restricted or unrestricted net position, it 
+uses restricted net position first unless unrestricted net position will have to be returned because they were 
+not used.  
+ 
+Cash and cash equivalents 
+ 
+For purposes of the Statement of Cash Flows, OHFA's cash equivalents are defined as short-term, highly 
+liquid investments that are readily convertible to cash with an original maturity of 90 days or less.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+19 
+Investments 
+ 
+The Agency's investment policy for the general fund is governed by state statute and the Board of Trustees' 
+"Statement of Investment Policy." Permissible investments include direct obligations of the United States 
+Government and Agencies, mortgage-backed securities (MBS) guaranteed by federal agencies, certificates 
+of deposit, repurchase agreements and savings accounts. Collateral is required for demand deposits and 
+certificates of deposit for all amounts not covered by Federal Deposit Insurance Corporation (FDIC) 
+insurance. Investments are reported at fair value. 
+ 
+The short-term investments within the Single Family Bond Programs are generally restricted by the various 
+bond resolutions as to authorized investments. Most are commonly held in guaranteed investment contracts 
+or money market accounts collateralized by government securities. These short-term investments are 
+reported at cost, which approximates their fair values.  
+ 
+As required by GASB Statement No. 31, Accounting for and Financial Reporting for Certain Investments 
+and External Investment Pools, U.S. government and agency securities and MBS are reported at fair value 
+as determined by the investment custodians utilizing prices quoted by securities dealers, brokers, investment 
+banks, or other services at the valuation date.  
+ 
+MBS reported by the Single Family Bond Programs are pass-through certificates of the Government 
+National Mortgage Association (GNMA) and Federal National Mortgage Association (FNMA), which 
+securitize qualified pools of loans or individual loans under the respective programs. These securities are 
+reported at fair value. MBS do not have a contractual maturity date, and the Agency may be subject to the 
+risk of prepayment on these MBS. 
+ 
+Without consideration of the net change in the fair value of investments, OHFA's net operating income 
+would have been $26,819,071 and $28,904,376 for the years ended September 30, 2025 and 2024, 
+respectively.  
+ 
+Fair value measurements 
+ 
+The Agency categorizes its assets and liabilities measured at fair value within the hierarchy established by 
+GAAP. Assets and liabilities valued at fair value are categorized based on inputs to valuation techniques as 
+follows: 
+ 
+Level 1 input – Quoted prices for identical assets or liabilities in an active market that an entity has 
+the ability to access.  
+Level 2 input – Quoted prices for similar assets or liabilities in active markets and inputs that are 
+observable for the assets or liability, either directly or indirectly, for substantially the full term of 
+the asset or liability. 
+Level 3 input – Inputs that are unobservable for the asset or liability which are typically based upon 
+the Agency's own assumptions as there is little, if any, related market activity. 
+ 
+Hierarchy – The fair value hierarchy gives the highest priority to Level 1 inputs and the lowest priority to 
+Level 3 inputs.  
+ 
+Inputs – If the fair value of an asset or a liability is measured using inputs from more than one level of the 
+fair value hierarchy, the measurement is considered to be based on the lowest priority level input that is 
+significant to the entire measurement. 
+ 
+Program loans receivable 
+ 
+Program loans receivable consists of a Workforce Housing Pilot Program loan, Oklahoma Housing Trust 
+Fund loan(s) secured by mortgages, OHSP loans, and down payment and closing cost second mortgages 
+ 
+
+ 
+ 
+ 
+20 
+related to Single Family Program activities. These loans are reported at cost. Based on management's 
+evaluation of program loans receivable, a 10% allowance was deemed necessary on the second mortgages 
+as of September 30, 2025 and 2024. 
+ 
+Capital assets 
+ 
+Capital assets, with an initial value of $250 or more and all furniture, are capitalized and carried at cost. 
+Depreciation and amortization are computed using the straight-line method over the estimated useful lives 
+of the assets, which range from 1 to 40 years. Maintenance and repairs are expensed as incurred. Total 
+depreciation expense for the years ended September 30, 2025 and 2024, were $1,150,392 and $1,191,918, 
+respectively, and is included with other general and administrative expense on the Statements of Revenues, 
+Expenses and Changes in Net Position.  
+ 
+Unearned revenue 
+ 
+Unearned revenue arises when the resources were received by the Agency before it has a legal claim to the 
+resources. Amounts received under certain intergovernmental grant agreements are recognized only to the 
+extent of allowable expenses. Any amounts received in excess of expenditures incurred are unearned and 
+recorded as a liability.  
+ 
+The only exception to this accounting policy is the Section 8 Housing Choice Voucher Program. Per HUD 
+guidance, excess budget authority disbursed to a Public Housing Agency that is not utilized to pay Housing 
+Assistance Payment (HAP) becomes part of the net position – restricted for the Section 8 Voucher and 
+Emergency Housing Voucher Programs.  
+ 
+Bond issue costs 
+ 
+Bond issue costs are costs associated with issuing bonds and are expensed in the period incurred.  
+ 
+Pensions and other postemployment employee benefits 
+ 
+The fiduciary net position of the Oklahoma Public Employees Retirement System (OPERS) has been 
+determined using the flow of economic resources measurement focus and full accrual basis of accounting. 
+This includes measuring the net pension and OPEB liabilities (assets), deferred outflows of resources and 
+deferred inflows of resources related to pensions and OPEB, pension and OPEB expense, and information 
+about assets, liabilities and additions to/deductions from OPERS fiduciary net position. Benefit payments 
+(including refunds of employee contributions related to pensions) are recognized when due and payable in 
+accordance with the benefit terms. Investments are reported at fair value. 
+ 
+Restrictions and designations of net position 
+ 
+The use of assets of each of the Single Family Bond Program funds is restricted by the related bond 
+indenture and resolution. Certain amounts in the program funds are considered subject to the restriction that 
+they may be applied to the financing of housing for the respective program purposes or to the retirement of 
+obligations issued for such purposes. The Agency previously designated $8,000,000 of unrestricted net 
+position to provide funds and reserves to purchase single family loans to be acquired from future issuances 
+under the Single Family Mortgage Revenue Bond Programs.  
+ 
+Net position restricted for the Section 8 Voucher and Emergency Housing Voucher Programs represent 
+funds received from HUD in excess of HAP expenditures. These funds can only be utilized to make HAP 
+payments for the Section 8 Voucher and Emergency Housing Voucher Programs. Net position restricted 
+for Oklahoma Housing Trust Fund and OHSP funds are received from the State of Oklahoma and restricted 
+in their use.  
+ 
+ 
+ 
+
+ 
+ 
+ 
+21 
+Reclassifications 
+ 
+Certain reclassifications have been made to the 2024 financial statements to conform with the 2025 
+presentation. These reclassifications had no impact to the previously reported increase in net position.  
+ 
+Subsequent events 
+ 
+The Agency has evaluated events for recognition and disclosure that occurred through January 20, 2026, 
+the date the financial statements were available to be issued. New conduit debt and single family mortgage 
+revenue bonds were issued subsequent to year-end, see Note 14. 
+ 
+ 
+Note 3 – Cash and Investments 
+ 
+Deposit custodial credit risk 
+ 
+Custodial credit risk is the risk that in the event of a bank failure, the Agency's deposits may not be returned. 
+The Agency requires that financial institutions pledge securities as collateral to secure the deposits of the 
+Agency in each institution for amounts above the FDIC insurance coverage.  
+ 
+Current Agency policy for deposits not held by the Single Family Bond Programs requires fair value of the 
+collateral pledged to be 110% of the deposit value. As of September 30, 2025 and 2024, the Agency was 
+not exposed to custodial credit risk.  
+ 
+As of September 30, 2025 and 2024, $155,328,362 and $129,461,788, respectively, of the total cash 
+consisted primarily of money market accounts held at trustee banks. These funds are classified as 
+investments for the purposes of GASB Statement No. 40, Deposit and Investment Risk Disclosures 
+requirements and therefore are not subject to deposit custodial credit risk. For presentation on the face of 
+the Statement of Net Position, these funds are classified as cash equivalents. 
+ 
+Investment interest rate risk 
+ 
+The Agency limits investments to those having maturities of no more than 36 months, unless specifically 
+authorized by the Agency's Board of Trustees, which helps manage its exposure to fair value losses from 
+increasing interest rates. The Board of Trustees has approved OHFA to purchase MBS investments backed 
+by loans made through the Single Family Program with maturities not to exceed 30 years.  
+ 
+The Agency's investments in securities and related maturities as of September 30, are listed below: 
+ 
+ 
+Less than
+One to
+Greater Than
+Fair Value
+Fair Value
+One Year
+Three Years
+Three Years
+Investment
+Agency General Fund:
+GNMA pooled loans
+38,429,838
+$     
+-
+$               
+138
+$               
+38,429,700
+$   
+Level 2
+FNMA pooled loans
+13,816,320
+       
+-
+                 
+-
+                     
+13,816,320
+     
+Level 2
+Certificates of deposit 
+254,375
+            
+-
+                 
+254,375
+          
+-
+                     
+Level 2
+Government bonds
+15,023,381
+       
+-
+                 
+15,023,381
+     
+-
+                     
+Level 2
+Total investments in securities
+67,523,914
+       
+-
+$               
+15,277,894
+$   
+52,246,020
+$   
+Single Family Bond Programs:
+GNMA pooled loans 
+773,686,521
+     
+Level 2
+FNMA pooled loans
+111,490,512
+     
+Level 2
+Guaranteed investment contracts
+174,107
+            
+Level 2
+Total investments
+952,875,054
+$   
+2025
+Investment Maturity
+
+ 
+ 
+ 
+22 
+ 
+Investment custodial credit risk 
+ 
+For investments, custodial credit risk is the risk that, in the event of the failure of the counterparty, the 
+Agency will not be able to recover the value of its investments or collateral securities that are in the 
+possession of an outside party. All of the Agency's investments in securities are held by the investment's 
+counterparty in the name of the Agency. FNMA and GNMA are rated AA+ by Standard & Poor's. FNMA 
+and GNMA are rated Aa1 and Aaa, respectively, by Moody's. Credit ratings are not available for the 
+guaranteed investment contracts. 
+ 
+At September 30, total investments are reported in the Statement of Net Position in the following 
+classifications:  
+ 
+ 
+The net change in fair value of investments shown in the financial statements takes into account all changes 
+in fair value that occurred during the year. Fair value amounts for individual investments fluctuate based 
+on changes in the market interest rates available to investors. 
+ 
+ 
+ 
+Less than
+One to
+Greater Than
+Fair Value
+Fair Value
+One Year
+Three Years
+Three Years
+Investment
+Agency General Fund:
+GNMA pooled loans
+40,499,014
+$     
+2,654
+$       
+1,212
+$            
+40,495,148
+$   
+Level 2
+FNMA pooled loans
+16,145,796
+       
+-
+                 
+-
+                     
+16,145,796
+     
+Level 2
+Certificates of deposit
+509,757
+            
+252,007
+     
+257,750
+          
+-
+                     
+Level 2
+Government bonds
+14,320,126
+       
+-
+                 
+14,320,126
+     
+-
+                     
+Level 2
+Total investments in securities
+71,474,693
+       
+254,661
+$   
+14,579,088
+$   
+56,640,944
+$   
+Single Family Bond Programs:
+GNMA pooled loans 
+494,450,771
+     
+Level 2
+FNMA pooled loans
+68,212,723
+       
+Level 2
+Total investments
+634,138,187
+$   
+2024
+Investment Maturity
+2025
+2024
+Current:
+Agency General Fund
+-
+$                      
+254,661
+$          
+Noncurrent:
+Restricted - Single Family Bond Programs
+885,351,140
+     
+562,663,494
+     
+Agency General Fund
+67,523,914
+       
+71,220,032
+       
+Total noncurrent
+952,875,054
+     
+633,883,526
+     
+Total investments
+952,875,054
+$   
+634,138,187
+$   
+
+ 
+ 
+ 
+23 
+Concentration of investment credit risk 
+ 
+The Agency places no limit on the amount the Agency can invest in any one type of issuer. Investments by 
+issuer that account for 5% or more of the Agency's total investments are indicated by an asterisk (*) as 
+follows at September 30:  
+ 
+ 
+MBS forward contracts 
+ 
+Beginning in 2013, the Agency entered into forward contracts to hedge the interest rate risk of delivering 
+MBS guaranteed by GNMA and FNMA in the future, before the securities are ready for delivery (referred 
+to as "to-be-announced," or TBA MBS). These securities represent pools of qualified mortgage loans 
+originated by Agency approved lenders. The forward contracts offset the financial impact to the Agency of 
+changes in interest rates between the time the loan reservations are made to originating mortgage lenders 
+and the securitization and sale of such loans as GNMA and FNMA securities. The forward contracts are 
+considered derivative instruments and the fair values were obtained from an external pricing specialist who 
+used acceptable methods and assumptions in accordance with GASB requirements, subject to review and 
+approval by the Agency. A positive fair value represents money due the Agency by the counterparty, while 
+a negative fair value represents money payable by the Agency. 
+ 
+ 
+ 
+Credit
+Credit
+Exposure as
+Exposure as
+a Percentage
+a Percentage
+Fair
+of Total 
+Fair
+of Total 
+Value
+Investments
+Value
+Investments
+Agency General Fund:
+GNMA pooled loans
+38,429,838
+$     
+4.0%
+40,499,014
+$     
+*
+6.4%
+FNMA pooled loans
+13,816,320
+       
+1.5%
+16,145,796
+       
+2.5%
+Certificates of deposit
+254,375
+            
+0.0%
+509,757
+            
+0.1%
+Government bonds
+15,023,381
+       
+1.6%
+14,320,126
+       
+2.3%
+67,523,914
+       
+7.1%
+71,474,693
+       
+11.3%
+Single Family Bond Programs:
+GNMA pooled loans
+773,686,521
+     
+*
+81.2%
+494,450,771
+     
+*
+78.0%
+FNMA pooled loans
+111,490,512
+     
+*
+11.7%
+68,212,723
+       
+*
+10.7%
+Guaranteed investment contracts
+174,107
+            
+0.0%
+-
+                        
+0.0%
+885,351,140
+     
+92.9%
+562,663,494
+     
+88.7%
+Total investments
+952,875,054
+$   
+100.0%
+634,138,187
+$   
+100.0%
+2025
+2024
+
+ 
+ 
+ 
+24 
+Outstanding forward sales contracts as of September 30, 2025, are as follows:  
+ 
+ 
+Outstanding forward sales contracts as of September 30, 2024, are as follows:  
+ 
+ 
+ 
+ 
+Net Fair Values
+as Reported in
+Forward Contracts
+Notional
+the Statement of
+to Sell TBA
+Amount
+Net Position at
+Mortgage-Backed
+September 30,
+Trade
+Delivery
+Coupon
+September 30,
+Securities
+2025
+Date
+Date
+Rate
+2025
+BOK Financial Corp
+GNMA II
+600,000
+$        
+9/17/2025
+10/20/2025
+7.00%
+1,500
+$       
+GNMA II
+1,600,000
+       
+9/19/2025
+12/18/2025
+6.50%
+3,375
+         
+Jefferies LLC
+GNMA II
+1,400,000
+       
+7/23/2025
+10/20/2025
+6.50%
+(6,563)
+        
+GNMA II
+1,000,000
+       
+7/29/2025
+10/20/2025
+6.50%
+(4,219)
+        
+GNMA II
+1,200,000
+       
+9/25/2025
+12/18/2025
+6.50%
+2,250
+         
+GNMA II
+1,000,000
+       
+9/29/2025
+12/18/2025
+6.50%
+938
+            
+Piper Sandler & Co
+GNMA II
+1,100,000
+       
+8/4/2025
+10/20/2025
+6.50%
+(1,375)
+        
+GNMA II
+1,200,000
+       
+8/13/2025
+10/20/2025
+6.50%
+(375)
+           
+GNMA II
+1,200,000
+       
+8/18/2025
+10/20/2025
+6.50%
+(1,500)
+        
+GNMA II
+1,000,000
+       
+8/21/2025
+11/20/2025
+6.50%
+(1,562)
+        
+GNMA II
+1,300,000
+       
+8/26/2025
+11/20/2025
+6.50%
+1,066
+         
+GNMA II
+(600,000)
+        
+9/16/2025
+10/20/2025
+6.50%
+(563)
+           
+GNMA II
+1,000,000
+       
+9/18/2025
+11/20/2025
+6.50%
+469
+            
+13,000,000
+$   
+Total deferred outflows of
+resources accumulated
+decrease in fair value of
+hedging derivatives
+(6,559)
+$      
+Net Fair Values
+as Reported in
+Forward Contracts
+Notional
+the Statement of
+to Sell TBA
+Amount
+Net Position at
+Mortgage-Backed
+September 30,
+Trade
+Delivery
+Coupon
+September 30,
+Securities
+2024
+Date
+Date
+Rate
+2024
+BMO Capital Markets Corp
+GNMA II
+1,000,000
+$     
+09/06/2024
+11/20/2024
+7.00%
+1,406
+$       
+GNMA II
+1,000,000
+       
+09/27/2024
+12/19/2024
+7.00%
+1,328
+         
+BNY Mellon Capital Markets LLC
+GNMA II
+1,000,000
+       
+08/05/2024
+10/21/2024
+7.00%
+(2,617)
+        
+GNMA II
+2,900,000
+       
+09/18/2024
+10/21/2024
+6.50%
+2,719
+         
+
+ 
+ 
+ 
+25 
+ 
+ 
+ 
+Note 4 – Program Loans Receivable 
+ 
+Program loans receivable consists of the following at September 30: 
+ 
+ 
+ 
+ 
+Net Fair Values
+as Reported in
+Forward Contracts
+Notional
+the Statement of
+to Sell TBA
+Amount
+Net Position at
+Mortgage-Backed
+September 30,
+Trade
+Delivery
+Coupon
+September 30,
+Securities
+2024
+Date
+Date
+Rate
+2024
+BOK Financial Corp
+GNMA II
+1,400,000
+       
+07/29/2024
+10/21/2024
+7.00%
+(7,000)
+        
+GNMA II
+1,200,000
+       
+08/14/2024
+10/21/2024
+7.00%
+(750)
+           
+GNMA II
+1,000,000
+       
+08/27/2024
+11/20/2024
+7.00%
+(469)
+           
+FNMA 
+105,000
+          
+09/13/2024
+10/15/2024
+6.50%
+189
+            
+FNMA 
+(105,000)
+        
+09/18/2024
+10/15/2024
+6.50%
+(278)
+           
+GNMA II
+600,000
+          
+09/18/2024
+10/21/2024
+6.50%
+281
+            
+GNMA II
+1,000,000
+       
+09/23/2024
+12/19/2024
+7.00%
+781
+            
+FNMA 
+100,000
+          
+09/24/2024
+10/15/2024
+6.00%
+164
+            
+Jefferies LLC
+GNMA II
+1,600,000
+       
+07/19/2024
+10/21/2024
+7.00%
+(6,313)
+        
+GNMA II
+1,400,000
+       
+07/23/2024
+10/21/2024
+7.00%
+(5,688)
+        
+GNMA II
+1,100,000
+       
+09/18/2024
+10/21/2024
+7.00%
+2,063
+         
+Piper Sandler & Co
+GNMA II
+1,400,000
+       
+07/31/2024
+10/21/2024
+7.00%
+(4,813)
+        
+GNMA II
+1,400,000
+       
+08/20/2024
+11/20/2024
+7.00%
+438
+            
+GNMA II
+1,000,000
+       
+08/22/2024
+11/20/2024
+7.00%
+(587)
+           
+GNMA II
+1,000,000
+       
+08/29/2024
+11/20/2024
+7.00%
+625
+            
+GNMA II
+1,000,000
+       
+09/10/2024
+11/20/2024
+7.00%
+469
+            
+GNMA II
+1,000,000
+       
+09/16/2024
+11/20/2024
+7.00%
+352
+            
+GNMA II
+3,200,000
+       
+09/18/2024
+10/21/2024
+7.00%
+5,000
+         
+25,300,000
+$   
+Total deferred outflows of
+resources accumulated
+decrease in fair value of
+hedging derivatives
+(12,700)
+$    
+2025
+2024
+Current, restricted:
+Agency General Fund, Restricted:
+Oklahoma Housing Trust Fund, Tivoli Homes, LLC,  bearing interest 
+at 2.00%, 24-month term, maturing March 2026
+2,502,726
+$     
+-
+$                   
+Oklahoma Housing Stability Program, Oklahoma Homebuilder Program, 
+bearing interest at 0.00%, 24-month term, maturing August 2026 
+527,070
+          
+-
+                     
+Oklahoma Housing Stability Program, Oklahoma Increased Housing Program, 
+bearing interest at 0.00%, 24-month term, maturing September 2026
+1,615,572
+       
+-
+                     
+Total current, restricted 
+4,645,368
+       
+-
+                     
+
+ 
+ 
+ 
+26 
+ 
+In addition to the loans in the table above, certain loans from the federally appropriated HOME Investment 
+Partnership Program and National Housing Trust Fund Program are carried at below-market interest rates, 
+and repayment is deferred for up to 40 years. These loans are generally in either a second or more 
+subordinate position. Given the nature of these loans and the risk associated with them, at the time of 
+origination, they are fully expensed as part of federal and state program expenses, resulting in a net carrying 
+value of zero. Loans with net carrying values of zero are excluded from the table above, and loans are 
+tracked for affordability by OHFA staff. The balances of these loans for the years ended September 30, 
+2025 and 2024, were $26,001,713 and $18,808,595, respectively.  
+ 
+The Oklahoma Housing Stability Program loans are progress-based construction draws net of any 
+repayments received. As of September 30, 2025, the Agency made program awards of approximately 
+$147,000,000, of which, $107,000,000 are unfunded commitments and will be drawn down over the next 
+24 months. 
+ 
+ 
+Note 5 – Capital Assets 
+ 
+Capital assets activity for the year ended September 30, was as follows:  
+ 
+ 
+ 
+ 
+2025
+2024
+Noncurrent:
+Agency General Fund:
+Workforce Housing Pilot Program, American Opportunity Partners LLC, 
+bearing interest at 2.00%, ten-year term, maturing August 2029
+3,690,441
+       
+3,792,936
+       
+Second Mortgages (net of allowance for bad debts of $1,762,823 and 
+$1,423,417 for 2025 and 2024, respectively)
+15,865,412
+     
+12,810,749
+     
+Total noncurrent 
+19,555,853
+     
+16,603,685
+     
+Noncurrent, restricted:
+Agency General Fund, Restricted:
+Oklahoma Housing Trust Fund, Tivoli Homes, LLC,  bearing interest 
+-
+                     
+1,050,000
+       
+at 2.00%, 24-month term, maturing March 2026
+Oklahoma Housing Stability Program, Oklahoma Homebuilder Program, 
+bearing interest at 0.00%, 24-month term, maturity dates ranging from 
+November 2026 through September 2027
+15,156,134
+     
+131,768
+          
+Oklahoma Housing Stability Program, Oklahoma Increased Housing 
+Program, bearing interest at 0.00%, 24-month term, maturity dates 
+ranging from February 2027 through July 2027
+3,511,104
+       
+189,000
+          
+Single Family Bond Programs, Restricted:
+Single Family Second Mortgages (net of allowance for bad debts 
+of $2,546,393 and $1,339,127 for 2025 and 2024, respectively)
+22,917,537
+     
+12,052,144
+     
+Total noncurrent, restricted
+41,584,775
+     
+13,422,912
+     
+Total program loans receivable
+65,785,996
+$   
+30,026,597
+$   
+Beginning
+Ending
+Balance
+Additions
+Retirements
+Balance
+Capital assets not being depreciated:
+Land
+550,000
+$        
+-
+$                 
+-
+$                 
+550,000
+$        
+Total capital assets not being depreciated
+550,000
+          
+-
+                   
+-
+                   
+550,000
+          
+2025
+
+ 
+ 
+ 
+27 
+ 
+ 
+ 
+Note 6 – Conduit Debt 
+ 
+The Agency has issued multi-family mortgage revenue bonds as a conduit debt issuer to promote the 
+development of adequate residential housing and other economic development. The net proceeds of these 
+bonds are used to provide interim and permanent financing for multi-family construction projects and 
+establish debt-service reserves as required by the various trust indentures. The bonds are secured by the 
+property financed and are payable solely from payments received on the underlying mortgage loans. Neither 
+the Agency, the State, nor any political subdivision thereof, is obligated in any manner for repayment of 
+these bonds. 
+ 
+ 
+ 
+Beginning
+Ending
+Balance
+Additions
+Retirements
+Balance
+2025
+Capital assets being depreciated:
+Furniture and equipment
+4,648,016
+       
+231,186
+        
+(307,292)
+      
+4,571,910
+       
+Buildings
+17,097,458
+     
+18,624
+          
+-
+                   
+17,116,082
+     
+Improvements
+711,147
+          
+-
+                   
+-
+                   
+711,147
+          
+Total capital assets being depreciated
+22,456,621
+     
+249,810
+        
+(307,292)
+      
+22,399,139
+     
+Less accumulated depreciation:
+Furniture and equipment
+(2,800,271)
+     
+(673,607)
+      
+289,469
+        
+(3,184,409)
+     
+Building
+(1,707,090)
+     
+(427,296)
+      
+-
+                   
+(2,134,386)
+     
+Improvements
+(451,118)
+        
+(49,490)
+        
+-
+                   
+(500,608)
+        
+Total accumulated depreciation
+(4,958,479)
+     
+(1,150,393)
+   
+289,469
+        
+(5,819,403)
+     
+Total capital assets being depreciated
+17,498,142
+     
+(900,583)
+      
+(17,823)
+        
+16,579,736
+     
+Capital assets, net
+18,048,142
+$   
+(900,583)
+$    
+(17,823)
+$      
+17,129,736
+$   
+Beginning
+Ending
+Balance
+Additions
+Retirements
+Balance
+Capital assets not being depreciated:
+Land
+550,000
+$        
+-
+$                 
+-
+$                 
+550,000
+$        
+Total capital assets not being depreciated
+550,000
+          
+-
+                   
+-
+                   
+550,000
+          
+Capital assets being depreciated:
+Furniture and equipment
+5,245,329
+       
+504,677
+        
+(1,101,990)
+   
+4,648,016
+       
+Buildings
+17,046,478
+     
+50,980
+          
+-
+                   
+17,097,458
+     
+Improvements
+696,397
+          
+14,750
+          
+-
+                   
+711,147
+          
+Total capital assets being depreciated
+22,988,204
+     
+570,407
+        
+(1,101,990)
+   
+22,456,621
+     
+Less accumulated depreciation:
+Furniture and equipment
+(3,166,989)
+     
+(722,080)
+      
+1,088,798
+     
+(2,800,271)
+     
+Building
+(1,285,513)
+     
+(421,577)
+      
+-
+                   
+(1,707,090)
+     
+Improvements
+(402,857)
+        
+(48,261)
+        
+-
+                   
+(451,118)
+        
+Total accumulated depreciation
+(4,855,359)
+     
+(1,191,918)
+   
+1,088,798
+     
+(4,958,479)
+     
+Total capital assets being depreciated
+18,132,845
+     
+(621,511)
+      
+(13,192)
+        
+17,498,142
+     
+Capital assets, net
+18,682,845
+$   
+(621,511)
+$    
+(13,192)
+$      
+18,048,142
+$   
+2024
+
+ 
+ 
+ 
+28 
+The following series of bonds were outstanding as of September 30: 
+ 
+ 
+ 
+Note 7 – Bonds and Notes Payable 
+ 
+The Single Family Bond Programs are generally payable in annual and semiannual installments and are 
+subject to mandatory sinking fund requirements. These bonds are special obligations payable solely from 
+the income and receipts of these indentures. Neither the Agency, the State, nor any political subdivision 
+thereof, is obligated in any manner for the repayment of these bonds, which are secured by MBS and other 
+assets of their respective indentures. 
+ 
+The Agency's line of credit agreement with the Federal Home Loan Bank (FHLBank) has a term of one day 
+with automatic daily renewals subject to FHLBank discretion not to renew. The agreement requires monthly 
+interest payments at a daily rate set based on the FHLBank's cost of funds rate (4.33% and 5.04% at 
+September 30, 2025 and 2024, respectively) and is collateralized by investment securities. As of 
+September 30, 2025 and 2024, there was no outstanding balance. According to the terms of the agreement, 
+the maximum amount of credit available with FHLBank may not exceed the collateral lending value of 
+pledged securities. At September 30, 2025 and 2024, the amount available under this line of credit was 
+$40,719,384 and $44,496,273, respectively. 
+ 
+ 
+Original
+Number of
+Principal
+Development
+Units
+Issued
+Amount
+New Page
+136
+3/18/2016
+21,000,000
+$      
+6,706,700
+$        
+6,819,542
+$        
+Highland Trails
+100
+4/27/2018
+9,000,000
+          
+5,111,863
+          
+5,219,361
+          
+The Curve
+244
+12/21/2018
+30,000,000
+        
+25,000,000
+        
+30,000,000
+        
+Stillwater Springs
+120
+7/24/2019
+12,000,000
+        
+7,382,880
+          
+7,486,531
+          
+North Pointe Apartments
+184
+12/20/2021
+14,620,000
+        
+14,362,475
+        
+14,554,690
+        
+Country Club Gardens
+353
+12/29/2021
+30,500,000
+        
+18,253,944
+        
+18,449,523
+        
+Chisholm Springs of Spencer
+70
+7/13/2022
+13,000,000
+        
+5,487,924
+          
+5,550,737
+          
+Duncan Plaza
+105
+8/11/2022
+8,520,000
+          
+8,320,000
+          
+8,405,000
+          
+Fairground Flats
+216
+9/8/2022
+33,670,000
+        
+31,074,041
+        
+33,670,000
+        
+Cornerstone Apartments Yukon
+122
+9/13/2022
+22,885,000
+        
+20,410,660
+        
+20,465,000
+        
+The Gates of Oklahoma City
+120
+1/31/2023
+17,000,000
+        
+9,700,000
+          
+17,000,000
+        
+Rising Sun Apartments
+224
+6/21/2023
+27,000,000
+        
+27,000,000
+        
+27,000,000
+        
+Pioneer Plaza Apartments
+191
+6/27/2023
+25,989,000
+        
+7,190,247
+          
+25,989,000
+        
+Oak Tree Village
+120
+10/11/2023
+15,500,000
+        
+10,760,000
+        
+15,460,000
+        
+Portland Place Apartments
+180
+10/31/2023
+21,000,000
+        
+21,000,000
+        
+21,000,000
+        
+Mohawk Manor
+106
+12/22/2023
+15,050,000
+        
+15,050,000
+        
+15,050,000
+        
+Seminole Hills
+141
+12/22/2023
+19,900,000
+        
+19,900,000
+        
+19,900,000
+        
+Bradford Apartments
+192
+12/22/2023
+17,416,000
+        
+15,652,928
+        
+17,292,432
+        
+Edenwood Apartments
+192
+12/22/2023
+17,525,000
+        
+16,523,174
+        
+17,395,126
+        
+Chisholm Springs of Oklahoma City
+171
+2/5/2024
+32,000,000
+        
+32,000,000
+        
+32,000,000
+        
+Alley's End
+211
+11/6/2024
+31,000,000
+        
+31,000,000
+        
+                       -
+Lakeshore Pointe
+190
+12/4/2024
+30,000,000
+        
+30,000,000
+        
+                       -
+Trinity Trails
+145
+3/13/2025
+15,000,000
+        
+15,000,000
+        
+                       -
+Crimson Flats West
+40
+5/14/2025
+4,600,000
+          
+4,600,000
+          
+                       -
+New Leaf II
+59
+6/5/2025
+7,915,000
+          
+7,915,000
+          
+                       -
+Eastland Apartments
+192
+6/11/2025
+27,000,000
+        
+27,000,000
+        
+                       -
+Arcadian Homes
+100
+7/31/2025
+20,000,000
+        
+20,000,000
+        
+                       -
+Eagle Landings
+264
+9/19/2025
+60,000,000
+        
+60,000,000
+        
+                       -
+599,090,000
+$    
+512,401,836
+$    
+358,706,942
+$    
+Outstanding
+Balance
 September 30, 2025
-Note 1 – Basis of Presentation
-The accompanying schedule of expenditures of federal awards (the Schedule) includes the federal award
-activity of the Oklahoma Housing Finance Agency (the Agency) under programs of the federal government
-for the year ended September 30, 2025. The information in this Schedule is presented in accordance with
-the requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform Administrative
-Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform Guidance). Because
-the Schedule presents only a selected portion of the operations of the Agency, it is not intended to and does
-not present the financial position, changes in net position, or cash flows of the Agency.
-Note 2 – Summary of Significant Accounting Policies
-Expenditures reported on the Schedule are reported on the accrual basis of accounting. Such expenditures
-are recognized following the cost principles contained in the Uniform Guidance, wherein certain types of
-expenditures are not allowable or are limited as to reimbursement.
-Note 3 – Indirect Cost Rate
-The Agency has elected not to use the 10% de minimis indirect cost rate as allowed under the Uniform
-Guidance.
-2
-REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING
-AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT
-OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH
-GOVERNMENT AUDITING STANDARDS
-INDEPENDENT AUDITOR'S REPORT
-To the Board of Trustees
-Oklahoma Housing Finance Agency
-We have audited, in accordance with the auditing standards generally accepted in the United States of
-America and the standards applicable to financial audits contained in Government Auditing Standards,
-issued by the Comptroller General of the United States (Government Auditing Standards), the financial
-statements of Oklahoma Housing Finance Agency (the Agency), a component unit of the State of
-Oklahoma, as of and for the year ended September 30, 2025, and the related notes to the financial
-statements, and have issued our report thereon dated January 20, 2026.
-Report on Internal Control over Financial Reporting
-I n planning and performing our audit of the financial statements, we considered the Agency's internal
-control over financial reporting (internal control) as a basis for designing audit procedures that are
-appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but
-not for the purpose of expressing an opinion on the effectiveness of the Agency's internal control.
-Accordingly, we do not express an opinion on the effectiveness of the Agency's internal control.
-A deficiency in internal control exists when the design or operation of a control does not allow management
-o r employees, in the normal course of performing their assigned functions, to prevent, or detect and correct,
-m isstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in
-internal control, such that there is a reasonable possibility that a material misstatement of the entity's
-financial statements will not be prevented or detected and corrected on a timely basis. A significant
-deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a
-material weakness, yet important enough to merit attention by those charged with governance.
-O ur consideration of internal control was for the limited purpose described in the first paragraph of this
-s ection and was not designed to identify all deficiencies in internal control that might be material
-w eaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any
-deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses
-or significant deficiencies may exist that have not been identified.
-Report on Compliance and Other Matters
-A s part of obtaining reasonable assurance about whether the Agency's financial statements are free from
-m aterial misstatement, we performed tests of its compliance with certain provisions of laws, regulations,
-contracts, and grant agreements, noncompliance with which could have a direct and material effect on the
-financial statements. However, providing an opinion on compliance with those provisions was not an
-objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed
-no instances of noncompliance or other matters that are required to be reported under Government Auditing
-Standards.
-www.ho gantaylor. com
-3
-Purpose of This Report
-The purpose of this report is solely to describe the scope of our testing of internal control and compliance
-and the results of that testing, and not to provide an opinion on the effectiveness of the entity's internal
-control or on compliance. This report is an integral part of an audit performed in accordance with
-Government Auditing Standards in considering the entity's internal control and compliance. Accordingly,
-this communication is not suitable for any other purpose.
-Oklahoma City, Oklahoma
-January 20, 2026
-4
-REPORT ON COMPLIANCE FOR EACH MAJOR FEDERAL PROGRAM; REPORT ON
-INTERNAL CONTROL OVER COMPLIANCE; AND REPORT ON SCHEDULE OF
-EXPENDITURES OF FEDERAL AWARDS REQUIRED BY THE UNIFORM GUIDANCE
-INDEPENDENT AUDITOR'S REPORT
-To the Board of Trustees
-Oklahoma Housing Finance Agency
-R eport on Compliance for Each Major Federal Program
-O pinion on Each Major Federal Program
-We have audited Oklahoma Housing Finance Agency's (the Agency), a component unit of the State of
-Oklahoma, compliance with the types of compliance requirements identified as subject to audit in the OMB
-Compliance Supplement that could have a direct and material effecton each of the Agency's major federal
-programs for the year ended September 30, 2025. The Agency's major federal programs are identified in
-t he summary of auditor's results section of the accompanying schedule of findings and questioned costs.
-I n our opinion, the Agency complied, in all material respects, with the types of compliance requirements
-referred to above that could have a direct and material effect on each of its major federal programs for the
-year ended September 30, 2025.
-Basis for Opinion on Each Major Federal Program
-W e conducted our audit of compliance in accordance with auditing standards generally accepted in the
-U nited States of America (GAAS); the standards applicable to financial audits contained in Government
-A uditing Standard issued by the Comptroller General of the United States (Government Auditing
-Standards); and the audit requirements of Title 2 U.S. Code of Federal Regulations Part 200, Uniform
-Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards (Uniform
-Guidance). Our responsibilities under those standards and the Uniform Guidance are further described in
-the Auditor's Responsibilities for the Audit of Compliance section of our report.
-W e are required to be independent of the Agency and to meet our other ethical responsibilities, in
-a ccordance with relevant ethical requirements relating to our audit. We believe that the audit evidence we
-h ave obtained is sufficient and appropriate to provide a basis for our opinion on compliance for each major
-federal program. Our audit does not provide a legal determination of the Agency's compliance with the
-compliance requirements referred to above.
-Responsibilities of Management for Compliance
-M anagement is responsible for compliance with the requirements referred to above and for the design,
-i mplementation, and maintenance of effective internal control over compliance with the requirements of
-laws, statutes, regulations, rules and provisions of contracts or grant agreements applicable to the Agency's
-federal programs.
-www.hogantaylor.com
-5
-Auditor's Responsibilities for the Audit of Compliance
-Our objectives are to obtain reasonable assurance about whether material noncompliance with the
-compliance requirements referred to above occurred, whether due to fraud or error, and express an opinion
-on the Agency's compliance based on our audit. Reasonable assurance is a high level of assurance but is
-not absolute assurance and therefore is not a guarantee that an audit conducted in accordance with
-GAAS, Government Auditing Standards, and the Uniform Guidance will always detect material
-noncompliance when it exists. The risk of not detecting material noncompliance resulting from fraud is
-higher than for that resulting from error, as fraud may involve collusion, forgery, intentional omissions,
-misrepresentations, or the override of internal control. Noncompliance with the compliance requirements
-referred to above is considered material, if there is a substantial likelihood that, individually or in the
-aggregate, it would influence the judgment made by a reasonable user of the report on compliance about
-the Agency's compliance with the requirements of each major federal program as a whole.
-In performing an audit in accordance with GAAS, Government Auditing Standards, and the Uniform
-Guidance, we:
-• Exercise professional judgment and maintain professional skepticism throughout the audit.
-• Identify and assess the risks of material noncompliance, whether due to fraud or error, and design
-and perform audit procedures responsive to those risks. Such procedures include examining, on a
-test basis, evidence regarding the Agency's compliance with the compliance requirements referred
-to above and performing such other procedures as we considered necessary in the circumstances.
-• Obtain an understanding of the Agency's internal control over compliance relevant to the audit in
-order to design audit procedures that are appropriate in the circumstances and to test and report on
-internal control over compliance in accordance with the Uniform Guidance, but not for the purpose
-of expressing an opinion on the effectiveness of the Agency's internal control over compliance.
-Accordingly, no such opinion is expressed.
-We are required to communicate with those charged with governance regarding, among other matters, the
-planned scope and timing of the audit and any significant deficiencies and material weaknesses in internal
-control over compliance that we identified during the audit.
-Report on Internal Control Over Compliance
-A deficiency in internal control over compliance exists when the design or operation of a control over
-compliance does not allow management or employees, in the normal course of performing their assigned
-functions, to prevent, or detect and correct, noncompliance with a type of compliance requirement of a
-federal program on a timely basis. A material weakness in internal control over compliance is a deficiency,
-or a combination of deficiencies, in internal control over compliance, such that there is a reasonable
-possibility that material noncompliance with a type of compliance requirement of a federal program will
-not be prevented, or detected and corrected, on a timely basis. A significant deficiency in internal control
-over compliance is a deficiency, or a combination of deficiencies, in internal control over compliance with
-a type of compliance requirement of a federal program that is less severe than a material weakness in
-internal control over compliance, yet important enough to merit attention by those charged with governance.
-Our consideration of internal control over compliance was for the limited purpose described in the Auditor's
-Responsibilities for the Audit of Compliance section above and was not designed to identify all deficiencies
-in internal control over compliance that might be material weaknesses or significant deficiencies in internal
-control over compliance. Given these limitations, during our audit we did not identify any deficiencies in
-internal control over compliance that we consider to be material weaknesses, as defined above. However,
-material weaknesses or significant deficiencies in internal control over compliance may exist that were not
-identified.
-6
-Our audit was not designed for the purpose of expressing an opinion on the effectiveness of internal control
-over compliance. Accordingly, no such opinion is expressed.
-The purpose of this report on internal control over compliance is solely to describe the scope of our testing
-of internal control over compliance and the results of that testing based on the requirements of the Uniform
-Guidance. Accordingly, this report is not suitable for any other purpose.
-Report on Schedule of Expenditures of Federal Awards Required by the Uniform Guidance
-We have audited the financial statements of the Agency as of and for the year ended September 30, 2025,
-and have issued our report thereon dated January 20, 2026, which contained an unmodified opinion on
-those financial statements. Our audit was performed for the purpose of forming an opinion on the financial
-statements as a whole. The accompanying schedule of expenditures of federal awards is presented for
-purposes of additional analysis as required by the Uniform Guidance and is not a required part of the
-financial statements. Such information is the responsibility of management and was derived from and
-relates directly to the underlying accounting and other records used to prepare the financial statements. The
-information has been subjected to the auditing procedures applied in the audit of the financial statements
-and certain additional procedures, including comparing and reconciling such information directly to the
-underlying accounting and other records used to prepare the financial statements or to the financial
-statements themselves, and other additional procedures in accordance with auditing standards generally
-accepted in the United States of America. In our opinion, the schedule of expenditures of federal awards is
-fairly stated in all material respects in relation to the financial statements as a whole.
-Oklahoma City, Oklahoma
-January 20, 2026
-7
-OKLAHOMA HOUSING FINANCE AGENCY
-SCHEDULE OF FINDINGS AND QUESTIONED COSTS
-Year ended September 30, 2025
-Section I – Summary of Auditor's Results
-Financial Statements
-Type of Auditor's report issued: Unmodified
-Yes No None Reported
-Internal control over financial reporting:
-Material weakness(es) identified? X
-Significant deficiency(ies) identified? X
-Noncompliance material to financial
-statements noted? X
-Federal Awards
-Yes No None Reported
-Internal control over major programs:
-Material weakness(es) identified? X
-Significant deficiency(ies) identified? X
-Type of Auditor's report issued on compliance
-for major federal programs: Unmodified
-Any audit findings disclosed that are required to
-be reported in accordance with section 2 CFR
-200.516(a)? X
-Identification of major programs:
-ALN (CFDA) Number(s) Name of Federal Program or Cluster
-14.871 Housing Voucher Cluster
-14.239 HOME Investment Partnerships Program
-Dollar threshold used to distinguish between
-type A and type B programs: $3,000,000
-8
-OKLAHOMA HOUSING FINANCE AGENCY
-SCHEDULE OF FINDINGS AND QUESTIONED COSTS (continued)
-Year ended September 30, 2025
-Yes No
-Auditee qualified as low-risk auditee? X
-Section II – Financial Statement Findings
-None
-Section III – Federal Award Findings and Questioned Costs
-None
-9
-OKLAHOMA HOUSING FINANCE AGENCY
-SUMMARY SCHEDULE OF PRIOR AUDIT FINDINGS
-Year ended September 30, 2025
-Section II – Financial Statement Findings
-None
-Section III – Federal Award Findings and Questioned Costs
-None
-10
+Outstanding
+Balance
+September 30, 2024
+
+ 
+ 
+ 
+29 
+Bonds and notes payable and changes for the fiscal years ended 2025 and 2024, are as follows:  
+ 
+ 
+Debt requirements on bonds and notes payable at September 30, are as follows (in thousands): 
+ 
+ 
+Single
+Ending Balance
+Ending Balance
+Ending Balance
+Family Bond
+Maturity
+September 30,
+September 30,
+September 30,
+Amount Due
+Program
+Issued
+Through
+2023
+Additions
+Reductions
+2024
+Additions
+Reductions
+2025
+in One Year
+2012 A
+12/5/2012
+2.89%
+5.00%
+3/1/2041
+21,560,000
+$      
+-
+$                       
+2,290,000
+$        
+19,270,000
+$      
+-
+$                       
+2,415,000
+$        
+16,855,000
+$      
+2,535,000
+$     
+2013 C&D
+10/30/2013
+3.35%
+3.75%
+3/1/2044
+10,610,816
+        
+-
+                         
+1,653,441
+          
+8,957,375
+          
+-
+                         
+1,088,210
+          
+7,869,165
+          
+449,852
+          
+2018 A
+10/23/2018
+2.90%
+4.75%
+9/1/2048
+15,750,000
+        
+-
+                         
+2,560,000
+          
+13,190,000
+        
+-
+                         
+1,685,000
+          
+11,505,000
+        
+640,000
+          
+2019 A
+8/29/2019
+2.00%
+5.00%
+9/1/2049
+31,715,000
+        
+-
+                         
+4,250,000
+          
+27,465,000
+        
+-
+                         
+3,285,000
+          
+24,180,000
+        
+1,375,000
+       
+2020 A
+5/6/2020
+1.75%
+4.00%
+3/1/2050
+29,555,000
+        
+-
+                         
+3,290,000
+          
+26,265,000
+        
+-
+                         
+2,370,000
+          
+23,895,000
+        
+850,000
+          
+2020 B
+12/10/2020
+0.70%
+3.25%
+9/1/2050
+23,135,000
+        
+-
+                         
+3,170,000
+          
+19,965,000
+        
+-
+                         
+2,650,000
+          
+17,315,000
+        
+1,335,000
+       
+2022 A
+6/29/2022
+2.70%
+5.00%
+3/1/2052
+38,260,000
+        
+-
+                         
+2,785,000
+          
+35,475,000
+        
+-
+                         
+3,590,000
+          
+31,885,000
+        
+1,890,000
+       
+2022 B
+12/7/2022
+3.55%
+6.25%
+9/1/2053
+49,565,000
+        
+-
+                         
+2,955,000
+          
+46,610,000
+        
+-
+                         
+3,255,000
+          
+43,355,000
+        
+890,000
+          
+2023 A
+4/20/2023
+2.85%
+6.00%
+3/1/2054
+39,925,000
+        
+-
+                         
+1,475,000
+          
+38,450,000
+        
+-
+                         
+2,220,000
+          
+36,230,000
+        
+675,000
+          
+2023 B
+7/11/2023
+3.25%
+5.75%
+9/1/2053
+50,000,000
+        
+-
+                         
+1,730,000
+          
+48,270,000
+        
+-
+                         
+2,620,000
+          
+45,650,000
+        
+795,000
+          
+2023 C
+9/21/2023
+3.50%
+6.00%
+3/1/2054
+50,000,000
+        
+-
+                         
+840,000
+             
+49,160,000
+        
+-
+                         
+2,480,000
+          
+46,680,000
+        
+775,000
+          
+2023 D
+12/13/2023
+3.70%
+6.50%
+9/1/2054
+-
+                         
+60,000,000
+        
+645,000
+             
+59,355,000
+        
+-
+                         
+2,355,000
+          
+57,000,000
+        
+800,000
+          
+2024 A
+2/29/2024
+3.15%
+6.00%
+9/1/2054
+-
+                         
+60,000,000
+        
+145,000
+             
+59,855,000
+        
+-
+                         
+2,770,000
+          
+57,085,000
+        
+855,000
+          
+2024 B
+6/13/2024
+3.45%
+6.25%
+9/1/2055
+-
+                         
+75,000,000
+        
+-
+                         
+75,000,000
+        
+-
+                         
+2,075,000
+          
+72,925,000
+        
+1,005,000
+       
+2024 C
+8/29/2024
+3.15%
+6.00%
+3/1/2056
+-
+                         
+75,000,000
+        
+-
+                         
+75,000,000
+        
+-
+                         
+920,000
+             
+74,080,000
+        
+940,000
+          
+2024 D
+11/21/2024
+3.20%
+6.50%
+3/1/2056
+-
+                         
+-
+                         
+-
+                         
+-
+                         
+75,000,000
+        
+380,000
+             
+74,620,000
+        
+1,085,000
+       
+2025 A
+2/26/2025
+3.00%
+6.25%
+9/1/2056
+-
+                         
+-
+                         
+-
+                         
+-
+                         
+75,000,000
+        
+20,000
+               
+74,980,000
+        
+1,045,000
+       
+2025 B
+5/22/2025
+3.50%
+6.50%
+9/1/2056
+-
+                         
+-
+                         
+-
+                         
+-
+                         
+100,000,000
+      
+10,000
+               
+99,990,000
+        
+1,365,000
+       
+2025 C&D
+8/27/2025
+2.85%
+6.50%
+3/1/2057
+-
+                         
+-
+                         
+-
+                         
+-
+                         
+125,000,000
+      
+-
+                         
+125,000,000
+      
+790,000
+          
+Total Single Family Bond Programs
+360,075,816
+      
+270,000,000
+      
+27,788,441
+        
+602,287,375
+      
+375,000,000
+      
+36,188,210
+        
+941,099,165
+      
+20,094,852
+     
+Agency line of credit
+4.33%
+daily
+-
+                         
+376,300,000
+      
+376,300,000
+      
+-
+                         
+245,100,000
+      
+245,100,000
+      
+-
+                         
+-
+                      
+Total bonds and notes payable
+360,075,816
+      
+646,300,000
+      
+404,088,441
+      
+602,287,375
+      
+620,100,000
+      
+281,288,210
+      
+941,099,165
+      
+20,094,852
+     
+Unamortized premium
+13,379,745
+        
+12,149,268
+        
+1,046,824
+          
+24,482,189
+        
+19,053,700
+        
+1,417,950
+          
+42,117,939
+        
+-
+                      
+Total bonds and notes payable including unamortized premium
+373,455,561
+$    
+658,449,268
+$    
+405,135,265
+$    
+626,769,564
+$    
+639,153,700
+$    
+282,706,160
+$    
+983,217,104
+$    
+20,094,852
+$   
+Interest Rate Range on
+Outstanding Amount
+2026
+2027
+2028
+2029
+2030
+2031-2035
+2036-2040
+2041-2045
+2046-2050
+2051-2055
+2056+
+Total
+2025:
+Principal and interest
+66,091
+$   
+67,335
+$   
+63,734
+$   
+63,679
+$   
+63,615
+$   
+322,008
+$   
+316,742
+$   
+306,540
+$   
+302,801
+$   
+247,444
+$   
+9,756
+$  
+1,829,745
+$   
+Less interest
+45,996
+     
+45,219
+     
+44,497
+     
+43,884
+     
+43,223
+     
+203,944
+     
+178,632
+     
+145,500
+     
+101,161
+     
+36,159
+       
+431
+       
+888,646
+        
+Total principal
+20,095
+$   
+22,116
+$   
+19,237
+$   
+19,795
+$   
+20,392
+$   
+118,064
+$   
+138,110
+$   
+161,040
+$   
+201,640
+$   
+211,285
+$   
+9,325
+$  
+941,099
+        
+Unamortized premium
+42,118
+          
+983,217
+$      
+
+ 
+ 
+ 
+30 
+ 
+2025
+2026
+2027
+2028
+2029
+2030-2034
+2035-2039
+2040-2044
+2045-2049
+2050-2054 2055-2056
+Total
+2024:
+Principal and interest
+42,668
+$   
+43,263
+$   
+43,098
+$   
+39,446
+$   
+39,361
+$   
+199,141
+$   
+195,500
+$   
+186,881
+$   
+186,378
+$   
+152,721
+$   
+5,331
+$     
+1,133,788
+$   
+Less interest
+27,930
+     
+27,414
+     
+26,871
+     
+26,346
+     
+25,942
+     
+122,233
+     
+106,514
+     
+86,506
+       
+59,933
+       
+21,596
+       
+216
+          
+531,501
+        
+Total principal
+14,738
+$   
+15,849
+$   
+16,227
+$   
+13,100
+$   
+13,419
+$   
+76,908
+$     
+88,986
+$     
+100,375
+$   
+126,445
+$   
+131,125
+$   
+5,115
+$     
+602,287
+        
+Unamortized premium
+24,482
+          
+Bonds and notes payable
+626,769
+$      
+
+ 
+ 
+ 
+31 
+Note 8 – Nonoperating Revenues and Expenses 
+ 
+OHFA administers federal and state programs, the funds of which are restricted in purpose by the granting 
+authority and are considered nonoperating income and expenses. The nonoperating revenues and expenses 
+are shown below for the years ended September 30: 
+ 
+ 
+ 
+ 
+2025
+2024
+Federal and state program revenues:
+Federal program revenues:
+Home Investment Partnerships Program
+8,442,859
+$       
+9,469,365
+$       
+HOME - American Rescue Plan
+1,368,372
+         
+-
+                       
+Housing Opportunities for Persons with AIDS 
+548,304
+            
+621,954
+            
+National Housing Trust Fund 
+3,689,786
+         
+4,411,209
+         
+Performance Based Contract Administration Program
+93,605,312
+       
+85,871,727
+       
+Low Income Housing Assistance Program - Section 8
+Moderate Rehabilitation
+91,338
+              
+108,687
+            
+Section 8 Housing Choice Vouchers Program
+86,305,899
+       
+76,110,938
+       
+Section 8 Housing Choice Vouchers Program - 
+Emergency Housing Voucher
+2,236,114
+         
+2,562,391
+         
+Homeowner Assistance Fund
+6,715,748
+         
+26,537,024
+       
+Total federal revenues
+203,003,732
+     
+205,693,295
+     
+State program revenues:
+Oklahoma Housing Stability Program
+9,004
+                
+164,250,000
+     
+Total state program revenues
+9,004
+                
+164,250,000
+     
+Total federal and state program revenues
+203,012,736
+$   
+369,943,295
+$   
+Federal and state program expenses:
+Federal program expenses:
+Home Investment Partnerships Program 
+8,442,859
+$       
+9,469,365
+$       
+HOME - American Rescue Plan
+1,368,372
+         
+-
+                       
+Housing Opportunities for Persons with AIDS 
+548,304
+            
+621,954
+            
+National Housing Trust Fund 
+3,689,786
+         
+4,411,209
+         
+Performance Based Contract Administration Program
+93,605,312
+       
+85,871,727
+       
+Low Income Housing Assistance Program - Section 8
+Moderate Rehabilitation
+91,338
+              
+108,687
+            
+Section 8 Housing Choice Vouchers Program 
+83,366,220
+       
+76,146,868
+       
+Section 8 Housing Choice Vouchers Program - 
+Emergency Housing Voucher
+2,259,459
+         
+2,539,046
+         
+Homeowner Assistance Fund
+6,715,748
+         
+26,537,024
+       
+Total federal program expenses
+200,087,398
+     
+205,705,880
+     
+State program expenses:
+Oklahoma Housing Stability Program
+9,004
+                
+-
+                       
+Total state program revenues
+9,004
+                
+-
+                       
+Total federal and state program expenses
+200,096,402
+$   
+205,705,880
+$   
+Net federal and state program revenues
+2,916,334
+$       
+164,237,415
+$   
+
+ 
+ 
+ 
+32 
+Note 9 – Retirement Plans 
+ 
+Employees hired prior to July 1, 1997, who elect not to be covered by the Oklahoma Public Employees 
+Defined Benefit Pension Plan (OPERS Plan), are covered by the Oklahoma Housing Finance Agency 
+Retirement Plan (OHFA Plan). The OHFA Plan is a defined contribution plan. No new employees are 
+allowed to join this plan after June 30, 1997. OHFA's contribution amount is at the discretion of the Board 
+of Trustees and does not have any limitations. The Board of Trustees approved a monthly contribution to 
+the OHFA Plan equaling the required contribution for the OPERS plan. For September 30, 2025 and 2024, 
+retirement expense for the OHFA plan was $79,910 and $83,512, respectively. 
+ 
+The contribution to the OHFA Plan was 15.5% of allowable compensation beginning July 1, 2009, and 
+increased to 16.5% of allowable compensation on July 1, 2011. All OHFA employees hired after June 30, 
+1997, and prior to November 1, 2015, are required to participate in the OPERS Plan.  
+ 
+Employees hired on or after November 1, 2015, are required to participate in the State's mandatory defined 
+contribution plan administered by OPERS (PATHFINDER). Under this plan, members choose a 
+contribution rate which will be matched by OHFA up to 7%. For September 30, 2025 and 2024, retirement 
+expense for the PATHFINDER plan was $156,527 and $616,452, respectively. 
+ 
+ 
+Note 10 – Defined Benefit Pension Plans  
+ 
+OPERS Plan description 
+ 
+OHFA participates in the OPERS, a cost-sharing multiple-employer defined benefit pension for many state 
+employees in Oklahoma. It covers substantially all employees of the State except those covered by six other 
+plans sponsored by the State and also covers employees of participating counties and local agencies. The 
+employee and employer contribution rates for each member category are established by the Oklahoma 
+Legislature after recommendation by the OPERS Board of Trustees based on an actuarial calculation which 
+is performed to determine the adequacy of such contribution rates.  
+ 
+All OHFA employees hired on or after July 1, 1997, and prior to November 1, 2015, are covered by OPERS. 
+ 
+Pension plan fiduciary net position 
+ 
+Detailed information about OPERS fiduciary net position is available in separately issued 
+Comprehensive Annual Financial Reports that include financial statements and required supplemental 
+information. These reports may be obtained on the Internet at https://www.opers.ok.gov/wp-
+content/uploads/2024/11/2024_ACFR_OPERS_FINAL.pdf; P.O. Box 53007, Oklahoma City, OK 
+73152-3007; and telephone (800) 733-9008. 
+ 
+Benefits provided 
+ 
+OPERS provides retirement benefits to eligible employees (and their beneficiaries) of many state employees 
+in Oklahoma. Members qualify for full retirement benefits at their specified normal retirement age or, 
+depending upon when they became members, when the sum of the member's age and years of credited 
+service equals 80 or 90. Generally, benefits for state, county, and local agency employees are determined 
+at 2% of the average salary, as defined, multiplied by the number of years of credited service. Members 
+may elect to pay an additional contribution rate to receive benefits using a 2.5% factor for each full year 
+the additional contributions are made. 
+ 
+Contributions 
+ 
+The contribution rates for each member category of the plan are established by the Oklahoma Legislature 
+after recommendation by the OPERS Board of Trustees based on an actuarial calculation, which is 
+ 
+ 
+
+ 
+ 
+ 
+33 
+performed to determine the adequacy of such contribution rates. Each member participates based on their 
+qualifying gross salary earned, excluding overtime. There is no cap on the qualifying gross salary earned, 
+subject to Internal Revenue Service (IRS) limitations on compensation. The following contribution rates 
+were in effect for State, County, and Local Agency Employees: for 2025 and 2024, state agency employers 
+contributed 16.5% on all salary, and state employees contributed 3.5% on all salary. 
+ 
+For the years ended September 30, 2025 and 2024, OHFA contributed approximately $1,153,000 and 
+$1,062,000, respectively, to the OPERS Plan.  
+ 
+Actuarial methods and assumptions 
+ 
+The total pension (asset) liability for June 30, 2024 and 2023, was determined based on actuarial valuations 
+prepared as of July 1, 2024, using the following actuarial assumptions:  
+ 
+• 
+Price inflation – 2.5% 
+• 
+Salary increases – 3.25% to 9.25% 
+• 
+Long-term Rate of Return, net of investment expense, including price inflation – 6.5% 
+• 
+Municipal Bond Index Rate – Prior Measurement Date 3.66%; Measurement Date 3.9% 
+• 
+Single Equivalent Interest Rate, net of plan investment expense, including price inflation – Prior 
+Measurement Date 6.5%, Measurement Date 6.5% 
+• 
+Mortality rates – Pub-2010 Below Media, General Membership Active/Retiree Healthy Mortality 
+Table with base rates projected generationally using Scale MP-2019. Male rates are unadjusted, 
+and female rates are set forward two years. 
+ 
+The actuarial assumptions used in the July 1, 2024, valuation are based on the results of the most recent 
+actuarial experience study, which covered the three-year period ended June 30, 2022. The experience study 
+report is dated April 12, 2023.  
+ 
+The long-term expected rate of return on pension plan investments was determined using a log-normal 
+distribution analysis in which best estimate ranges of expected future real rates of return (expected returns, 
+net of pension plan investment expense and inflation) are developed for each major asset class. These ranges 
+are combined to produce the long-term expected rate of return by weighing the expected future real rates 
+of return by the target asset allocation percentage and by adding expected inflation. 
+ 
+The target asset allocation and best estimates of arithmetic real rates of return for each major asset class, as 
+used in the June 30, 2022 experience study, are summarized in the following table: 
+ 
+ 
+Discount rate 
+ 
+The discount rate used to measure the total pension liability was 6.5%, net of investment expenses, for 2024 
+and 2023, respectively. The projection of cash flows used to determine the discount rate assumed that 
+contributions from plan members and those of the contributing employers are made at the current 
+ 
+ 
+Long-Term
+Target
+Expected Real
+Allocation
+Rate of Return
+U.S. Large Cap Equity
+34.0%
+5.1%
+U.S. Small Cap Equity
+6.0%
+5.0%
+Global Equity ex-US
+28.0%
+8.2%
+Core Fixed Income
+25.0%
+1.9%
+Long Term Treasuries 
+3.5%
+2.1%
+US TIPS
+3.5%
+1.8%
+  Total
+100.0%
+Asset Class
+
+ 
+ 
+ 
+34 
+contribution rate as set out in state statute. Based on those assumptions, the pension plan's fiduciary net 
+position was projected to be available to make all projected future benefit payments of current plan 
+members. Therefore, the long-term expected rate of return on pension plan investments was applied to all 
+periods of projected benefit payments to determine the total pension liability. The discount rate determined 
+does not use a municipal bond rate. 
+ 
+Sensitivity of the net pension (asset) liability to changes in the discount rate 
+ 
+The following schedule presents the OHFA portion of the OPERS pension (asset) liability calculated using 
+the discount rate of 6.5% for 2024 and 2023, as well as what OHFA's pension (asset) liability would be if 
+it were calculated using a discount rate that is 1% lower than and 1% greater than the discount rate that was 
+used in measuring the net pension (asset) liability as of June 30, 2024 and 2023, per the respective OPERS 
+schedule of employer allocations and collective pension amounts. 
+ 
+ 
+Pension (asset) liabilities, pension expense, and deferred outflows of resources and deferred inflows of 
+resources related to pensions 
+ 
+At September 30, 2025 and 2024, respectively, OHFA reported an (asset) liability of $(1,217,984) and 
+$1,644,092 for its proportionate share of the OPERS net pension (asset) liability. For the years ended 
+September 30, 2025 and 2024, OHFA recognized pension expense of $330,635 and $1,064,147, 
+respectively. 
+ 
+The net pension (asset) liability was measured as of June 30, 2024 and 2023, and the total pension (asset) 
+liability used to calculate the net pension (asset) liability was determined by actuarial valuations as of those 
+dates. The employer's proportion of the net pension (asset) liability was based on the employer's 
+contributions to the pension plan relative to the contributions of all employers to the plan for the period 
+July 1, 2023 through June 30, 2024, and the period July 1, 2022 through June 30, 2023.  
+ 
+The amount recognized by the Agency as its proportionate share of the net pension (asset) liability and the 
+total portion of the net pension (asset) liability that was associated with the Agency were as follows at 
+September 30: 
+ 
+ 
+ 
+ 
+2024
+1% Decrease 
+1% Increase
+in Discount
+Discount
+in Discount
+Rate (5.5%)
+Rate (6.5%)
+Rate (7.5%)
+OHFA's proportionate share of the
+net pension (asset) liability 
+3,638,652
+$   
+(1,217,984)
+$   
+(5,300,082)
+$   
+2023
+1% Decrease 
+1% Increase
+in Discount
+Discount
+in Discount
+Rate (5.5%)
+Rate (6.5%)
+Rate (7.5%)
+OHFA's proportionate share of the
+net pension (asset) liability 
+6,350,492
+$   
+1,644,092
+$     
+(2,313,165)
+$   
+2025
+2024
+Agency's proportion of the net pension (asset) liability
+0.37%
+0.36%
+Agency's proportionate share of the net pension (asset) liability
+(1,217,984)
+$   
+1,644,092
+$   
+Agency's covered-employee payroll
+7,342,491
+$     
+6,802,715
+$   
+Agency's proportionate share of the net pension (asset) liability
+  as a percentage of its covered-employee payroll
+16.59%
+24.17%
+Plan fiduciary net position as a percentage of
+  the total pension liability
+102.91%
+95.91%
+
+ 
+ 
+ 
+35 
+At September 30, 2025 and 2024, OHFA reported its proportionate share of the OPERS deferred outflows 
+of resources and deferred inflows of resources related to pensions from the following sources: 
+ 
+ 
+Deferred outflows of resources of $1,171,536 and $784,480 related to pensions as of September 30, 2025 
+and 2024, respectively, resulting from OHFA contributions subsequent to the measurement dates of 
+June 30, 2024 and 2023, were recognized as an increase in the net pension (asset) or reduction of the net 
+pension liability in the years ended September 30, 2025 and 2024.  
+ 
+Other amounts reported as deferred outflows of resources and deferred inflows of resources related to 
+pensions will be recognized in pension (income) expense as follows: 
+ 
+ 
+ 
+ 
+Note 11 – OPEB 
+ 
+OPERS OPEB plan description 
+ 
+OHFA participates in the OPERS Health Insurance Subsidy Plan (HISP), a cost-sharing multiple-employer 
+defined benefit public employee health insurance subsidy retirement plan which is administered by OPERS. 
+The HISP is classified as an "other postemployment employee benefit."  
+ 
+OPEB plan fiduciary net position 
+ 
+Detailed information about OPERS OPEB fiduciary net position is available in separately issued 
+Comprehensive Annual Financial Reports that include financial statements and required supplemental 
+information. These reports may be obtained on the Internet at https://www.opers.ok.gov/wp-
+content/uploads/2024/11/2024_ACFR_OPERS_FINAL.pdf, P.O. Box 53007, Oklahoma City, OK 73152-
+3007; and telephone (800) 733-9008. 
+ 
+ 
+Deferred
+Deferred
+Outflows of
+Inflows of
+Resources
+Resources
+2025:
+Change in proportionate share
+-
+$                 
+(209,504)
+$    
+Changes in actuarial assumptions
+51,546
+          
+-
+                   
+Differences between expected and actual economic experience
+128,806
+        
+(716,492)
+      
+Contributions paid to OPERS subsequent to the measurement date
+1,171,536
+     
+-
+                   
+1,351,888
+$   
+(925,996)
+$    
+2024:
+Change in proportionate share
+63,063
+$        
+(137,337)
+$    
+Changes in actuarial assumptions
+347,319
+        
+-
+                   
+Differences between expected and actual economic experience
+45,106
+          
+(24,905)
+        
+Difference between projected and actual investment earnings
+1,366,681
+     
+-
+                   
+Contributions paid to OPERS subsequent to the measurement date
+784,480
+        
+-
+                   
+2,606,649
+$   
+(162,242)
+$    
+Pension 
+Year Ended
+(Income) 
+September 30,
+Expense 
+2026
+(497,554)
+$    
+2027
+1,037,473
+     
+2028
+(804,886)
+      
+2029
+(483,677)
+      
+
+ 
+ 
+ 
+36 
+Benefits provided 
+ 
+HISP provides a health insurance premium subsidy for retirees of OPERS who elect to maintain health 
+insurance with the Office of Management Enterprise Services (OMES) Employees Group Insurance 
+Division (EGID) or other qualified insurance plan provided by the employers. The HISP subsidy is capped 
+at $105 per month per retiree. This subsidy continues until the retiree terminates health insurance coverage 
+with EGID or other qualified plan, or until death. The subsidy is only for the retiree, not the joint annuitants 
+or beneficiaries.  
+ 
+Contributions 
+ 
+The contribution rates for each member category of the plan are established by the Oklahoma Legislature 
+after recommendation by the OPERS Board based on actuarial calculation, which is performed to determine 
+the adequacy of such contribution rates. An actuarially determined portion of the total contribution to 
+OPERS is set aside to finance the cost of the benefits of the HISP in accordance with provisions of the 
+Internal Revenue Code.  
+ 
+Each member participates based on their qualifying gross salary earned, excluding overtime. There is no 
+cap on the qualifying gross salary earned, subject to IRS limitations on compensation. Only employers 
+contribute to the HISP. The following contribution rates were in effect for State, County, and Local Agency 
+Employees: for 2025 and 2024, state agency employers contributed 16.5% on all salary toward OPERS and 
+HISP.  
+ 
+For the years ended September 30, 2025 and 2024, OHFA contributed approximately $59,000 and $60,000, 
+respectively, to OPERS for the HISP.  
+ 
+Actuarial methods and assumptions 
+ 
+The total OPEB asset (liability) as of June 30, 2024 and 2023, was determined based on actuarial valuations 
+prepared as of July 1, 2024, using the following actuarial assumptions: 
+ 
+• 
+Price inflation – 2.5% 
+• 
+Salary increases – 3.25% to 9.25% 
+• 
+Long-term Rate of Return, net of investment expense, including price inflation – 6.5% 
+• 
+Municipal Bond Index Rate – Prior Measurement Date 3.66%; Measurement Date 3.9% 
+• 
+Single Equivalent Interest Rate, net of plan investment expense, including price inflation – Prior 
+Measurement Date 6.5%, Measurement Date 6.5% 
+• 
+Mortality rates – Pub-2010 Below Media, General Membership Active/Retiree Healthy Mortality 
+Table with base rates projected generationally using Scale MP-2019. Male rates are unadjusted, 
+and female rates are set forward two years. 
+ 
+The actuarial assumptions used in the July 1, 2024 valuations are based on the results of the most recent 
+actuarial experience study, which covered the three-year period ended June 30, 2022. The experience study 
+report is dated April 12, 2023. 
+ 
+The long-term expected rate of return on OPEB plan investments was determined using a log-normal 
+distribution analysis in which best estimate ranges of expected future real rates of return (expected returns, 
+net of OPEB plan investment expense and inflation) are developed for each major asset class. These ranges 
+are combined to produce the long-term expected rate of return by weighing the expected future real rates 
+of return by the target asset allocation percentage and by adding expected inflation. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+37 
+The target asset allocation and best estimates of arithmetic real rates of return for each major asset class, as 
+used in the June 30, 2022 experience study, are summarized in the following table: 
+ 
+ 
+Discount rate 
+ 
+The discount rate used to measure the total OPEB (asset) liability was 6.5% net of investment expenses for 
+2024 and 2023, respectively. The projection of cash flows used to determine the discount rate assumed that 
+contributions from plan members and employers are made at the current contribution rate as set out in state 
+statute. Based on those assumptions, the OPEB plan's fiduciary net position was projected to be available 
+to make all projected future benefit payments of current plan members. Therefore, the long-term expected 
+rate of return on OPEB plan investments was applied to all periods of projected benefit payments to 
+determine the total OPEB asset or liability. The discount rate determined does not use a municipal bond 
+rate. 
+ 
+Sensitivity of the net OPEB liability to changes in the discount rate 
+ 
+The following schedule presents the OHFA portion of the OPERS OPEB (asset) liability calculated using 
+the discount rates of 6.5% for 2024 and 2023, as well as what OHFA's OPEB (asset) liability would be if it 
+were calculated using a discount rate that is 1% lower than and 1% greater than the discount rate that was 
+used in measuring the net OPEB (asset) liability as of June 30, 2024 and 2023, per the respective OPERS 
+schedule of employer allocations and collective OPEB amounts. 
+ 
+ 
+OPEB (assets) liabilities, OPEB expense, and deferred outflows of resources and deferred inflows of 
+resources related to OPEB 
+ 
+At September 30, 2025 and 2024, OHFA reported assets of $631,907 and $458,778, respectively, for its 
+proportionate share of the OPERS net OPEB (asset) liability. For the years ended September 30, 2025 and 
+2024, OHFA recognized OPEB (revenue) expense of ($62,340) and ($34,257), respectively. 
+ 
+ 
+ 
+Long-Term
+Target
+Expected Real
+Asset Class
+Allocation
+Rate of Return
+U.S. Large Cap Equity
+34.0%
+5.1%
+U.S. Small Cap Equity
+6.0%
+5.0%
+Global Equity ex-US
+28.0%
+8.2%
+Core Fixed Income
+25.0%
+1.9%
+Long Term Treasuries
+3.5%
+2.1%
+US TIPS
+3.5%
+1.8%
+Total
+100.0%
+1% Decrease
+1% Increase
+in Discount
+Discount
+in Discount 
+Rate (5.5%)
+Rate (6.5%)
+Rate (7.5%)
+OHFA's proportionate share of the net OPEB asset
+(510,014)
+$    
+(631,907)
+$    
+(735,549)
+$    
+1% Decrease
+1% Increase
+in Discount
+Discount
+in Discount 
+Rate (5.5%)
+Rate (6.5%)
+Rate (7.5%)
+OHFA's proportionate share of the net OPEB asset
+(336,500)
+$    
+(458,778)
+$    
+(562,759)
+$    
+2023
+2024
+
+ 
+ 
+ 
+38 
+The net OPEB (asset) liability was measured as of June 30, 2024 and 2023, respectively, and the total OPEB 
+(asset) liability used to calculate the net OPEB (asset) or liability was determined by actuarial valuations as 
+of those dates. The employer's proportion of the net OPEB asset or liability was based on the employer's 
+contributions to the OPEB plan relative to the contributions of all employers to the plan for the period 
+July 1, 2023 through June 30, 2024, and July 1, 2022 through June 30, 2023.  
+ 
+The amount recognized by the Agency as its proportionate share of the net OPEB (asset) liability and the 
+total portion of the net OPEB (asset) liability that was associated with the Agency were as follows at 
+September 30: 
+ 
+ 
+ 
+At September 30, 2025 and 2024, OHFA reported its proportionate share of the OPERS deferred outflows 
+of resources and deferred inflows of resources related to OPEB from the following sources: 
+ 
+ 
+Deferred outflows of resources of $59,854 and $44,457 related to OPEB as of September 30, 2025 and 
+2024, respectively, resulting from OHFA contributions subsequent to the measurement dates of June 30, 
+2024 and 2023, were recognized as a reduction of the net OPEB liability in the year ended September 30, 
+2024 and 2023.  
+ 
+Other amounts reported as deferred outflows of resources and deferred inflows of resources related to OPEB 
+will be recognized in pension expense as follows: 
+ 
+ 
+ 
+ 
+2025
+2024
+Agency's proportion of the net OPEB liability (asset)
+0.37%
+0.36%
+Agency's proportionate share of the net OPEB liability (asset)
+(631,907)
+$    
+(458,777)
+$    
+Plan fiduciary net position as a percentage of the total
+OPEB asset or liability
+157.20%
+141.38%
+Deferred
+Deferred
+Outflows of
+Inflows of
+Resources
+Resources
+2025:
+Change in proportionate share
+53
+$            
+(49,203)
+$      
+Differences between expected and actual economic experience
+-
+                 
+(162,605)
+      
+Changes in actuarial assumptions
+18,089
+       
+-
+                   
+Difference between projected and actual investment earnings
+39,540
+       
+-
+                   
+Contributions paid to OPERS subsequent to the measurement date
+59,854
+       
+-
+                   
+117,536
+$   
+(211,808)
+$    
+2024:
+Change in proportionate share
+788
+$          
+(39,762)
+$      
+Differences between expected and actual economic experience
+-
+                 
+(164,292)
+      
+Changes in actuarial assumptions
+29,657
+       
+-
+                   
+Difference between projected and actual investment earnings
+85,815
+       
+-
+                   
+Contributions paid to OPERS subsequent to the measurement date
+44,457
+       
+-
+                   
+160,717
+$   
+(204,054)
+$    
+Pension 
+Year Ended
+(Income) 
+September 30,
+Expense 
+2026
+(52,933)
+$    
+2027
+(6,159)
+        
+2028
+(52,714)
+      
+2029
+(33,148)
+      
+2030
+(9,172)
+        
+
+ 
+ 
+ 
+39 
+Note 12 – Risk Management 
+ 
+OHFA is exposed to various risks of loss related to torts; theft of, damage to, and destruction to assets; 
+errors and omissions; injuries to employees; and natural disasters. OHFA pays an annual premium to a 
+private insurance carrier for its tort liability, property loss, workers' compensation, and general liability 
+insurance coverage. OHFA purchases commercial employee life insurance and pays an annual premium for 
+its employee health insurance coverage. There has not been any significant reduction in insurance coverage 
+from the prior year. Settled claims resulting from these risks have not exceeded insurance coverage in any 
+of the past three fiscal years. The Agency is not subject to significant risk of loss with respect to the above 
+risks. 
+ 
+ 
+Note 13 – Contingencies 
+ 
+Intergovernmental Financial Assistance – OHFA administers various federal and state programs. These 
+programs are subject to audit and adjustments by the awarding agencies and other organizations. Any 
+disallowed claims, including amounts already collected, may constitute a liability of the applicable 
+program. The amount, if any, of expenditures disallowed cannot be determined at this time. OHFA expects 
+such amounts, if any, to be immaterial.  
+ 
+Litigation – OHFA, in the normal course of business, is a defendant in various lawsuits. Although the 
+outcome of these lawsuits is not presently determinable, OHFA believes the resolution of these matters will 
+not have a material adverse effect on the financial condition of OHFA. 
+ 
+ 
+Note 14 – Subsequent Event 
+ 
+In November 2025, OHFA issued $60,000,000 of bonds (Series 2025E) to purchase mortgage-backed 
+securities originated under the Agency's Single Family Mortgage Revenue Bond Program. The bonds have 
+interest rates ranging from 2.85% to 6.25% and maturities ranging from September 2026 to March 2057. 
+ 
+The Agency issued seven conduit debt multi-family bonds subsequent to year-end totaling $197,397,000.
+
+ 
+ 
+REQUIRED SUPPLEMENTAL INFORMATION 
+
+ 
+ 
+See independent auditor's report. 
+40 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SCHEDULE OF OHFA'S PROPORTIONATE SHARE OF THE NET PENSION (ASSET) LIABILITY 
+ 
+ 
+ 
+ 
+ 
+Last Ten Fiscal Years (1)
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+OHFA's proportion of the 
+net pension (asset) liability
+0.36704182% 0.35934793%
+0.33514373%
+0.31820207%
+0.29991057%
+0.30404844%
+0.27042901%
+0.27571479%
+0.24714034%
+0.23478392%
+OHFA's proportionate share of
+the net pension (asset) liability
+(1,217,984)
+$    
+1,644,092
+$   
+2,817,100
+$     
+(4,270,783)
+$    
+2,675,690
+$     
+404,956
+$        
+527,453
+$        
+1,490,688
+$     
+2,352,317
+$     
+844,480
+$        
+OHFA's covered payroll
+7,342,491
+$     
+6,802,715
+$   
+6,076,376
+$     
+5,641,073
+$     
+5,334,545
+$     
+5,195,297
+$     
+4,547,539
+$     
+4,809,522
+$     
+4,298,455
+$     
+4,374,297
+$     
+OHFA's proportionate share of 
+the net pension (asset) liability  
+as a percentage of its covered
+payroll 
+16.59%
+24.17%
+46.36%
+75.71%
+50.16%
+7.79%
+11.60%
+30.99%
+54.72%
+19.30%
+OPERS' fiduciary net position as
+a percentage of the total pension
+(asset) liability
+102.91%
+95.91%
+92.24%
+112.51%
+91.59%
+98.63%
+97.96%
+94.28%
+89.50%
+96.00%
+(1) The amounts presented for each fiscal year were determined as of June 30 of the prior year.
+
+ 
+ 
+See independent auditor's report. 
+41 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SCHEDULE OF OHFA'S PENSION CONTRIBUTIONS  
+ 
+ 
+ 
+ 
+ 
+Last Ten Fiscal Years
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+Contractually required contribution
+1,152,623
+$   
+1,062,250
+$   
+947,022
+$      
+874,352
+$      
+822,509
+$      
+800,230
+$      
+698,746
+$      
+741,664
+$      
+709,245
+$      
+721,759
+$      
+Contributions in relation to the
+contractually required contributions
+1,152,623
+     
+1,062,250
+     
+947,022
+        
+874,352
+        
+822,509
+        
+800,230
+        
+698,746
+        
+741,664
+        
+709,245
+        
+721,759
+        
+Contribution deficiency (excess)
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+OHFA's covered payroll
+7,342,491
+$   
+6,802,715
+$   
+6,076,376
+$   
+5,641,073
+$   
+5,334,545
+$   
+5,195,297
+$   
+4,547,539
+$   
+4,809,522
+$   
+4,298,455
+$   
+4,374,297
+$   
+Contributions as a percentage of
+covered payroll
+15.7%
+15.6%
+15.6%
+15.4%
+15.4%
+15.4%
+15.4%
+15.4%
+16.5%
+16.5%
+
+ 
+ 
+See independent auditor's report. 
+42 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SCHEDULE OF OHFA'S PROPORTIONATE SHARE OF THE NET OPEB LIABILITY (ASSET) 
+ 
+ 
+ 
+ 
+ 
+ 
+Last Eight Fiscal Years (1)
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+OHFA's proportion of the net OPEB liability (asset)
+0.36704182% 0.35934793% 0.33514373% 0.31820207% 0.29991057% 0.30404844% 0.27042901% 0.27571479%
+OHFA's proportionate share of the net OPEB 
+liability (asset)
+(631,907)
+$    
+(458,778)
+$    
+(313,653)
+$    
+(437,472)
+$    
+(140,607)
+$    
+(118,198)
+$    
+(34,996)
+$      
+31,580
+$        
+OHFA's covered payroll
+7,342,491
+$   
+6,802,715
+$   
+6,076,376
+$   
+5,641,073
+$   
+5,334,545
+$   
+5,195,297
+$   
+4,547,539
+$   
+4,809,552
+$   
+OHFA's proportionate share of the net OPEB liability
+(asset) as a percentage of its covered payroll
+8.61%
+6.74%
+5.16%
+7.76%
+2.64%
+2.28%
+0.77%
+0.66%
+OPERS' fiduciary net position as a percentage of the 
+total OPEB asset or liability
+157.20%
+141.38%
+130.01%
+142.87%
+114.27%
+112.11%
+103.94%
+96.50%
+(1) The amounts presented for each fiscal year were determined as of June 30 of the prior year.
+Only the last eight fiscal years are presented because ten-year data is not readily available. 
+
+ 
+ 
+See independent auditor's report. 
+43 
+OKLAHOMA HOUSING FINANCE AGENCY  
+ 
+SCHEDULE OF OHFA'S OPEB CONTRIBUTIONS 
+ 
+ 
+ 
+ 
+Last Eight Fiscal Years
+2025
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+Contractually required contribution
+58,888
+$        
+60,198
+$        
+55,580
+$        
+56,425
+$        
+57,691
+$        
+56,991
+$        
+51,598
+$        
+51,912
+$        
+Contributions in relation to the contractually 
+required contributions
+58,888
+          
+60,198
+          
+55,580
+          
+56,425
+          
+57,691
+          
+56,991
+          
+51,598
+          
+51,912
+          
+Contribution deficiency (excess)
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+-
+$                 
+OHFA's covered payroll
+7,342,491
+$   
+6,802,715
+$   
+6,076,376
+$   
+5,641,073
+$   
+5,334,545
+$   
+5,195,297
+$   
+4,547,539
+$   
+4,809,522
+$   
+Contributions as a percentage of covered payroll
+0.80%
+0.88%
+0.91%
+1.00%
+1.08%
+1.10%
+1.13%
+1.08%
+Only the last eight fiscal years are presented because ten-year data is not readily available.
+
+ 
+ 
+OTHER SUPPLEMENTAL INFORMATION 
+
+ 
+ 
+See independent auditor's report. 
+44 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF NET POSITION 
+ 
+September 30, 2025 
+ 
+ 
+ 
+1994 Master
+2009
+2018 Master 
+Indenture
+Series C
+2012
+Indenture
+Accumulation 
+NIBP Master
+Series A
+2013
+Special
+2018
+2019
+2020
+2020
+2022
+Fund
+Indenture
+2009 C-4
+Series C & D
+Program Fund
+Series A
+Series A
+Series A
+Series B
+Series A
+Assets
+Current assets:
+   Accounts receivable
+-
+$                      
+-
+$                      
+-
+$                      
+-
+$                   
+12,028
+$          
+-
+$                      
+-
+$                      
+-
+$                      
+-
+$                   
+-
+$                   
+Restricted assets:
+   Cash and cash equivalents
+715,630
+            
+561,712
+            
+340,650
+            
+1,228,758
+       
+4,330,296
+       
+216,397
+            
+612,966
+            
+648,902
+            
+503,997
+          
+512,817
+          
+   Interest receivable
+20,896
+              
+26,470
+              
+43,362
+              
+34,576
+            
+157,630
+          
+58,683
+              
+78,833
+              
+77,854
+              
+39,810
+            
+125,756
+          
+Total current assets
+736,526
+            
+588,182
+            
+384,012
+            
+1,263,334
+       
+4,499,954
+       
+275,080
+            
+691,799
+            
+726,756
+            
+543,807
+          
+638,573
+          
+Noncurrent assets:
+   Investments
+4,106,554
+         
+7,680,998
+         
+13,939,640
+       
+8,980,570
+       
+44,673,994
+     
+14,669,165
+       
+22,352,578
+       
+24,305,009
+       
+15,010,629
+     
+29,729,321
+     
+   Program loans receivable (net of allowance
+ for doubtful accounts of $2,546,393)
+-
+                        
+30,548
+              
+-
+                        
+-
+                     
+127,399
+          
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+748,310
+          
+Total noncurrent assets
+4,106,554
+         
+7,711,546
+         
+13,939,640
+       
+8,980,570
+       
+44,801,393
+     
+14,669,165
+       
+22,352,578
+       
+24,305,009
+       
+15,010,629
+     
+30,477,631
+     
+Total assets
+4,843,080
+         
+8,299,728
+         
+14,323,652
+       
+10,243,904
+     
+49,301,347
+     
+14,944,245
+       
+23,044,377
+       
+25,031,765
+       
+15,554,436
+     
+31,116,204
+     
+Liabilities
+Current liabilities:
+   Accounts payable 
+-
+                        
+-
+                        
+8,047
+                
+3,707
+              
+-
+                     
+5,612
+                
+9,014
+                
+10,174
+              
+6,712
+              
+11,308
+            
+   Interest payable
+-
+                        
+-
+                        
+49,736
+              
+23,542
+            
+-
+                     
+38,278
+              
+70,025
+              
+60,922
+              
+29,352
+            
+105,086
+          
+   Current maturities of bonds payable
+-
+                        
+-
+                        
+2,535,000
+         
+449,852
+          
+-
+                     
+640,000
+            
+1,375,000
+         
+850,000
+            
+1,335,000
+       
+1,890,000
+       
+Total current liabilities
+-
+                        
+-
+                        
+2,592,783
+         
+477,101
+          
+-
+                     
+683,890
+            
+1,454,039
+         
+921,096
+            
+1,371,064
+       
+2,006,394
+       
+Noncurrent liabilities:
+  Bonds payable, less current maturities
+-
+                        
+-
+                        
+15,272,773
+       
+7,419,313
+       
+-
+                     
+11,242,820
+       
+24,236,150
+       
+23,843,636
+       
+16,669,658
+     
+30,788,603
+     
+Total noncurrent liabilities
+-
+                        
+-
+                        
+15,272,773
+       
+7,419,313
+       
+-
+                     
+11,242,820
+       
+24,236,150
+       
+23,843,636
+       
+16,669,658
+     
+30,788,603
+     
+Total liabilities
+-
+                        
+-
+                        
+17,865,556
+       
+7,896,414
+       
+-
+                     
+11,926,710
+       
+25,690,189
+       
+24,764,732
+       
+18,040,722
+     
+32,794,997
+     
+Net Position
+Restricted for single family bond programs
+4,843,080
+$       
+8,299,728
+$       
+(3,541,904)
+$      
+2,347,490
+$     
+49,301,347
+$   
+3,017,535
+$       
+(2,645,812)
+$      
+267,033
+$          
+(2,486,286)
+$   
+(1,678,793)
+$   
+
+ 
+ 
+See independent auditor's report. 
+45 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF NET POSITION (continued) 
+ 
+September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+2022
+2023
+2023
+2023
+2023
+2024
+2024
+2024
+2024
+2025
+Series B
+Series A
+Series B
+Series C
+Series D
+Series A
+Series B
+Series C
+Series D
+Series A
+Assets
+Current assets:
+   Accounts receivable
+-
+$                      
+-
+$                      
+-
+$                      
+-
+$                   
+-
+$                   
+-
+$                      
+-
+$                      
+-
+$                      
+-
+$                   
+-
+$                   
+Restricted assets:
+   Cash and cash equivalents
+1,076,889
+         
+850,579
+            
+1,147,575
+         
+1,444,155
+       
+1,372,762
+       
+1,653,280
+         
+919,359
+            
+1,169,981
+         
+846,443
+          
+38,505,661
+     
+   Interest receivable
+211,153
+            
+152,653
+            
+207,846
+            
+219,510
+          
+270,472
+          
+244,169
+            
+325,048
+            
+314,912
+            
+320,168
+          
+417,491
+          
+Total current assets
+1,288,042
+         
+1,003,232
+         
+1,355,421
+         
+1,663,665
+       
+1,643,234
+       
+1,897,449
+         
+1,244,407
+         
+1,484,893
+         
+1,166,611
+       
+38,923,152
+     
+Noncurrent assets:
+   Investments
+45,376,805
+       
+32,086,838
+       
+42,441,734
+       
+43,209,985
+     
+49,978,692
+     
+44,017,709
+       
+63,009,234
+       
+63,207,290
+       
+71,543,461
+     
+69,123,370
+     
+   Program loans receivable (net of allowance
+for doubtful accounts of $2,546,393)
+1,501,132
+         
+1,039,233
+         
+1,359,102
+         
+1,368,817
+       
+1,572,423
+       
+1,386,298
+         
+1,946,735
+         
+1,959,539
+         
+2,236,013
+       
+2,168,946
+       
+Total noncurrent assets
+46,877,937
+       
+33,126,071
+       
+43,800,836
+       
+44,578,802
+     
+51,551,115
+     
+45,404,007
+       
+64,955,969
+       
+65,166,829
+       
+73,779,474
+     
+71,292,316
+     
+Total assets
+48,165,979
+       
+34,129,303
+       
+45,156,257
+       
+46,242,467
+     
+53,194,349
+     
+47,301,456
+       
+66,200,376
+       
+66,651,722
+       
+74,946,085
+     
+110,215,468
+   
+Liabilities
+Current liabilities:
+   Accounts payable 
+16,980
+              
+12,114
+              
+15,675
+              
+16,031
+            
+18,358
+            
+16,387
+              
+22,905
+              
+24,235
+              
+27,820
+            
+-
+                     
+   Interest payable
+189,448
+            
+146,131
+            
+183,644
+            
+197,201
+          
+258,013
+          
+232,500
+            
+309,955
+            
+310,082
+            
+316,146
+          
+306,705
+          
+   Current maturities of bonds payable
+890,000
+            
+675,000
+            
+795,000
+            
+775,000
+          
+800,000
+          
+855,000
+            
+1,005,000
+         
+940,000
+            
+1,085,000
+       
+1,045,000
+       
+Total current liabilities
+1,096,428
+         
+833,245
+            
+994,319
+            
+988,232
+          
+1,076,371
+       
+1,103,887
+         
+1,337,860
+         
+1,274,317
+         
+1,428,966
+       
+1,351,705
+       
+Noncurrent liabilities:
+   Bonds payable, less current maturities
+43,573,889
+       
+37,389,607
+       
+46,519,805
+       
+47,578,225
+     
+58,521,143
+     
+58,783,623
+       
+75,072,460
+       
+76,873,412
+       
+77,488,629
+     
+77,560,185
+     
+Total noncurrent liabilities
+43,573,889
+       
+37,389,607
+       
+46,519,805
+       
+47,578,225
+     
+58,521,143
+     
+58,783,623
+       
+75,072,460
+       
+76,873,412
+       
+77,488,629
+     
+77,560,185
+     
+Total liabilities
+44,670,317
+       
+38,222,852
+       
+47,514,124
+       
+48,566,457
+     
+59,597,514
+     
+59,887,510
+       
+76,410,320
+       
+78,147,729
+       
+78,917,595
+     
+78,911,890
+     
+Net Position
+Restricted for single family bond programs
+3,495,662
+$       
+(4,093,549)
+$      
+(2,357,867)
+$      
+(2,323,990)
+$   
+(6,403,165)
+$   
+(12,586,054)
+$    
+(10,209,944)
+$    
+(11,496,007)
+$    
+(3,971,510)
+$   
+31,303,578
+$   
+
+ 
+ 
+See independent auditor's report. 
+46 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF NET POSITION (continued) 
+ 
+September 30, 2025 
+ 
+ 
+ 
+Total Single
+2025
+2025
+Family Bond
+Series B
+Series CD
+Programs
+Assets
+Current assets:
+   Accounts receivable
+-
+$                      
+-
+$                      
+12,028
+$            
+Restricted assets:
+   Cash and cash equivalents
+41,036,690
+       
+55,597,582
+       
+155,293,081
+     
+   Interest receivable
+568,216
+            
+612,674
+            
+4,528,182
+         
+Total current assets
+41,604,906
+       
+56,210,256
+       
+159,833,291
+     
+Noncurrent assets:
+   Investments
+101,928,216
+     
+73,979,348
+       
+885,351,140
+     
+   Program loans receivable (net of allowance
+for doubtful accounts of $2,546,393)
+3,198,893
+         
+2,274,149
+         
+22,917,537
+       
+Total noncurrent assets
+105,127,109
+     
+76,253,497
+       
+908,268,677
+     
+Total assets
+146,732,015
+     
+132,463,753
+     
+1,068,101,968
+  
+Liabilities
+Current liabilities:
+   Accounts payable 
+-
+                        
+-
+                        
+225,079
+            
+   Interest payable
+443,496
+            
+569,607
+            
+3,839,869
+         
+   Current maturities of bonds payable
+1,365,000
+         
+790,000
+            
+20,094,852
+       
+Total current liabilities
+1,808,496
+         
+1,359,607
+         
+24,159,800
+       
+Noncurrent liabilities:
+   Bonds payable, less current maturities
+103,276,196
+     
+131,012,125
+     
+963,122,252
+     
+Total noncurrent liabilities
+103,276,196
+     
+131,012,125
+     
+963,122,252
+     
+Total liabilities
+105,084,692
+     
+132,371,732
+     
+987,282,052
+     
+Net Position
+Restricted for single family bond programs
+41,647,323
+$     
+92,021
+$            
+80,819,916
+$     
+
+ 
+ 
+See independent auditor's report. 
+47 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION 
+ 
+Year ended September 30, 2025 
+ 
+ 
+ 
+1994 Master
+2009
+2018 Master 
+Indenture
+ Series C 
+2012
+Indenture
+Accumulation  NIBP Master 
+ Series A 
+2013
+Special
+2018
+2019
+2020
+2020
+2022
+ Fund 
+ Indenture 
+ 2009 C-4 
+ Series C & D  Program Fund 
+ Series A 
+ Series A 
+ Series A 
+ Series B 
+ Series A 
+Operating Revenues
+Investment income
+301,274
+$        
+337,985
+$        
+641,341
+$        
+490,381
+$        
+2,088,279
+$     
+769,881
+$          
+1,040,408
+$       
+1,013,681
+$       
+541,748
+$        
+1,740,803
+$     
+Net decrease in fair value
+of investments
+(17,665)
+          
+(11,943)
+          
+(259,670)
+        
+(114,311)
+        
+(287,566)
+        
+(139,685)
+           
+(351,355)
+           
+(389,295)
+           
+(85,740)
+          
+(189,071)
+        
+Other income
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+1,203
+              
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+5,392
+              
+Total operating revenues
+283,609
+          
+326,042
+          
+381,671
+          
+376,070
+          
+1,801,916
+       
+630,196
+            
+689,053
+            
+624,386
+            
+456,008
+          
+1,557,124
+       
+Operating Expenses
+Interest on bonds payable
+-
+                     
+-
+                     
+541,128
+          
+300,150
+          
+-
+                     
+439,771
+            
+733,106
+            
+694,259
+            
+278,146
+          
+1,259,473
+       
+Mortgage servicing fees
+22,825
+            
+44,326
+            
+79,178
+            
+50,395
+            
+254,172
+          
+76,206
+              
+123,622
+            
+138,703
+            
+91,699
+            
+155,996
+          
+Trustees, issuer and other fees
+1,200
+              
+-
+                     
+112,165
+          
+52,846
+            
+-
+                     
+77,938
+              
+125,768
+            
+140,626
+            
+93,283
+            
+158,463
+          
+Bad debt
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Bond issue costs
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Other general and administrative
+-
+                     
+1,165
+              
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Total operating expenses
+24,025
+            
+45,491
+            
+732,471
+          
+403,391
+          
+254,172
+          
+593,915
+            
+982,496
+            
+973,588
+            
+463,128
+          
+1,573,932
+       
+Operating income (loss) before transfers
+259,584
+          
+280,551
+          
+(350,800)
+        
+(27,321)
+          
+1,547,744
+       
+36,281
+              
+(293,443)
+           
+(349,202)
+           
+(7,120)
+            
+(16,808)
+          
+Equity transfers in (out)
+(1,101,183)
+     
+(705,074)
+        
+1,044,651
+       
+(109,578)
+        
+(6,528,837)
+     
+559,516
+            
+1,351,100
+         
+339,384
+            
+1,148,931
+       
+458,538
+          
+Operating transfers in (out)
+-
+                     
+-
+                     
+(3,954)
+            
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Increase (decrease) in net position
+(841,599)
+        
+(424,523)
+        
+689,897
+          
+(136,899)
+        
+(4,981,093)
+     
+595,797
+            
+1,057,657
+         
+(9,818)
+               
+1,141,811
+       
+441,730
+          
+Total net position, beginning of year
+5,684,679
+       
+8,724,251
+       
+(4,231,801)
+     
+2,484,389
+       
+54,282,440
+     
+2,421,738
+         
+(3,703,469)
+        
+276,851
+            
+(3,628,097)
+     
+(2,120,523)
+     
+Total net position, end of year
+4,843,080
+$     
+8,299,728
+$     
+(3,541,904)
+$   
+2,347,490
+$     
+49,301,347
+$   
+3,017,535
+$       
+(2,645,812)
+$      
+267,033
+$          
+(2,486,286)
+$   
+(1,678,793)
+$   
+
+ 
+ 
+See independent auditor's report. 
+48 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION (continued) 
+ 
+Year ended September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+2022
+2023
+2023
+2023
+2023
+2024
+2024
+2024
+2024
+2025
+ Series B 
+ Series A 
+ Series B 
+ Series C 
+ Series D 
+ Series A 
+ Series B 
+ Series C 
+ Series D
+ Series A
+Operating Revenues
+Investment income
+2,863,149
+$     
+2,072,240
+$     
+2,756,292
+$     
+2,943,788
+$     
+3,579,188
+$     
+3,327,374
+$       
+4,632,800
+$       
+5,163,118
+$       
+3,740,933
+$     
+2,925,073
+$     
+Net increase (decrease) in 
+fair value of investments
+(55,841)
+          
+39,206
+            
+126,699
+          
+52,022
+            
+141,067
+          
+(112,713)
+           
+(96,828)
+             
+648,632
+            
+655,934
+          
+110,989
+          
+Other income
+6,070
+              
+30,450
+            
+48,146
+            
+37,135
+            
+58,664
+            
+39,005
+              
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Total operating revenues
+2,813,378
+       
+2,141,896
+       
+2,931,137
+       
+3,032,945
+       
+3,778,919
+       
+3,253,666
+         
+4,535,972
+         
+5,811,750
+         
+4,396,867
+       
+3,036,062
+       
+Operating Expenses
+Interest on bonds payable
+2,311,859
+       
+1,719,243
+       
+2,198,147
+       
+2,365,218
+       
+3,092,948
+       
+2,750,225
+         
+3,692,596
+         
+3,728,470
+         
+3,259,849
+       
+2,197,726
+       
+Mortgage servicing fees
+231,428
+          
+162,846
+          
+210,192
+          
+217,335
+          
+246,825
+          
+218,844
+            
+299,592
+            
+265,295
+            
+225,173
+          
+152,344
+          
+Trustees, issuer and other fees
+235,196
+          
+166,865
+          
+215,044
+          
+221,652
+          
+252,296
+          
+132,847
+            
+184,776
+            
+33,540
+              
+43,275
+            
+13,004
+            
+Bad debt
+-
+                     
+2,890
+              
+-
+                     
+-
+                     
+-
+                     
+5,243
+                
+17,709
+              
+124,459
+            
+248,446
+          
+240,994
+          
+Bond issue costs
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+677,183
+          
+675,183
+          
+Other general and administrative
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Total operating expenses
+2,778,483
+       
+2,051,844
+       
+2,623,383
+       
+2,804,205
+       
+3,592,069
+       
+3,107,159
+         
+4,194,673
+         
+4,151,764
+         
+4,453,926
+       
+3,279,251
+       
+Operating income (loss) before transfers
+34,895
+            
+90,052
+            
+307,754
+          
+228,740
+          
+186,850
+          
+146,507
+            
+341,299
+            
+1,659,986
+         
+(57,059)
+          
+(243,189)
+        
+Equity transfers in (out)
+(18,578)
+          
+399,402
+          
+1,268,571
+       
+585,339
+          
+536,424
+          
+(15,096,188)
+      
+(27,112,436)
+      
+(27,173,874)
+      
+(3,914,451)
+     
+31,546,767
+     
+Operating transfers in (out)
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                     
+-
+                        
+-
+                        
+-
+                        
+-
+                     
+-
+                     
+Increase (decrease) in net position
+16,317
+            
+489,454
+          
+1,576,325
+       
+814,079
+          
+723,274
+          
+(14,949,681)
+      
+(26,771,137)
+      
+(25,513,888)
+      
+(3,971,510)
+     
+31,303,578
+     
+Total net position, beginning of year
+3,479,345
+       
+(4,583,003)
+     
+(3,934,192)
+     
+(3,138,069)
+     
+(7,126,439)
+     
+2,363,627
+         
+16,561,193
+       
+14,017,881
+       
+-
+                     
+-
+                     
+Total net position, end of year
+3,495,662
+$     
+(4,093,549)
+$   
+(2,357,867)
+$   
+(2,323,990)
+$   
+(6,403,165)
+$   
+(12,586,054)
+$    
+(10,209,944)
+$    
+(11,496,007)
+$    
+(3,971,510)
+$   
+31,303,578
+$   
+
+ 
+ 
+See independent auditor's report. 
+49 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SINGLE FAMILY MORTGAGE REVENUE BOND PROGRAMS 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF REVENUES, EXPENSES AND CHANGES IN NET POSITION (continued) 
+ 
+Year ended September 30, 2025 
+ 
+ 
+ 
+ Total Single 
+2025
+2025
+ Family Bond 
+ Series B 
+ Series CD
+ Programs 
+Operating Revenues
+Investment income
+2,394,647
+$     
+577,686
+$        
+45,942,069
+$   
+Net increase (decrease) in 
+fair value of investments
+(19,988)
+          
+1,443,168
+       
+1,086,046
+       
+Other income
+-
+                     
+-
+                     
+226,065
+          
+Total operating revenues
+2,374,659
+       
+2,020,854
+       
+47,254,180
+     
+Operating Expenses
+Interest on bonds payable
+1,906,748
+       
+569,607
+          
+34,038,669
+     
+Mortgage servicing fees
+130,639
+          
+16,046
+            
+3,413,681
+       
+Trustees, issuer and other fees
+13,187
+            
+14,986
+            
+2,288,957
+       
+Bad debt
+355,433
+          
+252,683
+          
+1,247,857
+       
+Bond issue costs
+842,905
+          
+1,075,511
+       
+3,270,782
+       
+Other general and administrative
+-
+                     
+-
+                     
+1,165
+              
+Total operating expenses
+3,248,912
+       
+1,928,833
+       
+44,261,111
+     
+Operating income (loss) before transfers
+(874,253)
+        
+92,021
+            
+2,993,069
+       
+Equity transfers in (out)
+42,521,576
+     
+-
+                     
+-
+                     
+Operating transfers in (out)
+-
+                     
+-
+                     
+(3,954)
+            
+Increase in net position
+41,647,323
+     
+92,021
+            
+2,989,115
+       
+Total net position, beginning of year
+-
+                     
+-
+                     
+77,830,801
+     
+Total net position, end of year
+41,647,323
+$   
+92,021
+$          
+80,819,916
+$   
+
+ 
+ 
+See independent auditor's report. 
+50 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF NET POSITION 
+ 
+September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+Single Family
+Agency
+Bond
+General
+Combined
+Programs
+Fund
+Eliminations
+Totals
+Assets
+Current assets:
+Cash and cash equivalents
+-
+$                      
+65,491,323
+$     
+-
+$                 
+65,491,323
+$     
+for doubtful accounts of $1,951,951)
+12,028
+              
+403,829
+            
+(237,107)
+      
+178,750
+            
+Accounts receivable - U.S. Department of 
+Housing and Urban Development
+-
+                        
+1,261,169
+         
+-
+                   
+1,261,169
+         
+Interest receivable
+-
+                        
+396,344
+            
+-
+                   
+396,344
+            
+Prepaid expenses
+-
+                        
+783,994
+            
+-
+                   
+783,994
+            
+Restricted assets:
+Cash and cash equivalents
+155,293,081
+     
+206,536,469
+     
+-
+                   
+361,829,550
+     
+Program loan receivables
+-
+                        
+4,645,368
+         
+-
+                   
+4,645,368
+         
+Interest receivable
+4,528,182
+         
+-
+                        
+-
+                   
+4,528,182
+         
+Total current assets
+159,833,291
+     
+279,518,496
+     
+(237,107)
+      
+439,114,680
+     
+Noncurrent assets:
+Investments
+-
+                        
+67,523,914
+       
+-
+                   
+67,523,914
+       
+Program loans receivable (net of an allowance for bad 
+debts of $1,762,823)
+-
+                        
+19,555,853
+       
+-
+                   
+19,555,853
+       
+Nondepreciated capital assets
+-
+                        
+550,000
+            
+-
+                   
+550,000
+            
+Capital assets, net
+-
+                        
+16,579,736
+       
+-
+                   
+16,579,736
+       
+Restricted assets:
+Investments
+885,351,140
+     
+-
+                        
+-
+                   
+885,351,140
+     
+Program loans receivable (net of an allowance for 
+bad debts of $2,546,393)
+22,917,537
+       
+18,667,238
+       
+-
+                   
+41,584,775
+       
+Pension asset
+-
+                        
+1,217,984
+         
+-
+                   
+1,217,984
+         
+OPEB asset
+-
+                        
+631,907
+            
+-
+                   
+631,907
+            
+Total noncurrent assets
+908,268,677
+     
+124,726,632
+     
+-
+                   
+1,032,995,309
+  
+Total assets
+1,068,101,968
+  
+404,245,128
+     
+(237,107)
+      
+1,472,109,989
+  
+Deferred outflows of resources:
+Pension
+-
+                        
+1,351,888
+         
+-
+                   
+1,351,888
+         
+OPEB
+-
+                        
+117,536
+            
+-
+                   
+117,536
+            
+Accumulated decrease in fair value of 
+hedging derivatives
+-
+                        
+6,559
+                
+-
+                   
+6,559
+                
+Total deferred outflows of resources
+-
+                        
+1,475,983
+         
+-
+                   
+1,475,983
+         
+
+ 
+ 
+See independent auditor's report. 
+51 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF NET POSITION (continued) 
+ 
+September 30, 2025 
+ 
+ 
+ 
+ 
+ 
+Single Family
+Agency
+Bond
+General
+Combined
+Programs
+Fund
+Eliminations
+Totals
+Liabilities
+Current liabilities:
+Salaries and related expenses
+-
+                        
+872,895
+            
+-
+                   
+872,895
+            
+Accounts Payable - U.S. Department 
+of Housing and Urban Development
+-
+                        
+1,570,346
+         
+-
+                   
+1,570,346
+         
+Accounts payable - Family Self 
+Sufficiency Program
+-
+                        
+1,271,066
+         
+-
+                   
+1,271,066
+         
+Accounts payable - other
+225,079
+            
+561,819
+            
+(237,107)
+      
+549,791
+            
+Hedging payable
+-
+                        
+6,559
+                
+-
+                   
+6,559
+                
+Unearned revenue
+-
+                        
+62,458,770
+       
+-
+                   
+62,458,770
+       
+Compensated absences
+-
+                        
+1,133,170
+         
+-
+                   
+1,133,170
+         
+Interest payable
+3,839,869
+         
+10,876
+              
+-
+                   
+3,850,745
+         
+Current maturities of bonds and 
+notes payable
+20,094,852
+       
+-
+                        
+-
+                   
+20,094,852
+       
+Total current liabilities
+24,159,800
+       
+67,885,501
+       
+(237,107)
+      
+91,808,194
+       
+Noncurrent liabilities:                                                      
+Bonds and notes payable, less current maturities
+963,122,252
+     
+-
+                        
+-
+                   
+963,122,252
+     
+Total noncurrent liabilities
+963,122,252
+     
+-
+                        
+-
+                   
+963,122,252
+     
+Total liabilities
+987,282,052
+     
+67,885,501
+       
+(237,107)
+      
+1,054,930,446
+  
+Deferred inflows of resources:
+OPEB 
+-
+                        
+211,808
+            
+-
+                   
+211,808
+            
+Pension 
+-
+                        
+925,996
+            
+-
+                   
+925,996
+            
+Total deferred inflows of resources
+-
+                        
+1,137,804
+         
+-
+                   
+1,137,804
+         
+Net Position
+Invested in capital assets
+-
+                        
+17,129,736
+       
+-
+                   
+17,129,736
+       
+Restricted for Single Family Bond Programs 
+80,819,916
+       
+-
+                        
+-
+                   
+80,819,916
+       
+Restricted for Section 8 and Emergency
+Housing Voucher Programs
+-
+                        
+3,168,581
+         
+-
+                   
+3,168,581
+         
+Restricted for Oklahoma Housing Trust Fund
+-
+                        
+4,171,442
+         
+-
+                   
+4,171,442
+         
+Restricted for Oklahoma Housing Stability Program
+-
+                        
+185,689,319
+     
+-
+                   
+185,689,319
+     
+Unrestricted
+-
+                        
+126,538,728
+     
+-
+                   
+126,538,728
+     
+Total net position
+80,819,916
+$     
+336,697,806
+$   
+-
+$                 
+417,517,722
+$   
+
+ 
+ 
+See independent auditor's report. 
+52 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF REVENUES,  
+EXPENSES AND CHANGES IN NET POSITION 
+ 
+Year ended September 30, 2025 
+ 
+ 
+ 
+ 
+Single Family
+Agency
+Bond
+General
+Combined
+Programs
+Fund
+Eliminations
+Totals
+Operating Revenues
+Investment income
+45,942,069
+$   
+13,970,948
+$     
+-
+$                 
+59,913,017
+$     
+Program loan income
+-
+                     
+131,129
+            
+-
+                   
+131,129
+            
+Net increase in fair value of investments
+1,086,046
+       
+(317,293)
+           
+-
+                   
+768,753
+            
+Realized gain on sale of investments
+-
+                     
+4,258,061
+         
+-
+                   
+4,258,061
+         
+Fees and other income 
+226,065
+          
+25,328,794
+       
+(2,156,154)
+   
+23,398,705
+       
+Total operating revenues
+47,254,180
+     
+43,371,639
+       
+(2,156,154)
+   
+88,469,665
+       
+Operating Expenses
+Interest on bonds and notes payable
+34,038,669
+     
+202,614
+            
+-
+                   
+34,241,283
+       
+Mortgage servicing fees
+3,413,681
+       
+-
+                        
+-
+                   
+3,413,681
+         
+Trustees, issuer and other fees
+2,288,957
+       
+-
+                        
+(2,156,154)
+   
+132,803
+            
+Bad debt
+1,247,857
+       
+446,083
+            
+-
+                   
+1,693,940
+         
+Bond issue costs
+3,270,782
+       
+-
+                        
+-
+                   
+3,270,782
+         
+Salaries and related expenses
+-
+                     
+12,871,416
+       
+-
+                   
+12,871,416
+       
+Other general and administrative
+1,165
+              
+5,256,771
+         
+-
+                   
+5,257,936
+         
+Total operating expenses
+44,261,111
+     
+18,776,884
+       
+(2,156,154)
+   
+60,881,841
+       
+Operating income 
+2,993,069
+       
+24,594,755
+       
+-
+                   
+27,587,824
+       
+Nonoperating revenues (expenses):
+Federal and state program income
+-
+                     
+203,012,736
+     
+-
+                   
+203,012,736
+     
+Federal and state program expenses
+-
+                     
+(200,096,402)
+    
+-
+                   
+(200,096,402)
+    
+Total nonoperating income
+-
+                     
+2,916,334
+         
+-
+                   
+2,916,334
+         
+Income before transfers
+2,993,069
+       
+27,511,089
+       
+-
+                   
+30,504,158
+       
+Transfers
+(3,954)
+            
+3,954
+                
+-
+                   
+-
+                        
+Increase in net position
+2,989,115
+       
+27,515,043
+       
+-
+                   
+30,504,158
+       
+Total net position, beginning of year
+77,830,801
+     
+309,182,763
+     
+-
+                   
+387,013,564
+     
+Total net position, end of year
+80,819,916
+$   
+336,697,806
+$   
+-
+$                 
+417,517,722
+$   
+
+ 
+ 
+See independent auditor's report. 
+53 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF CASH FLOWS 
+ 
+Year ended September 30, 2025 
+ 
+ 
+Single Family
+Agency
+Bond
+General
+Combined
+Programs
+Fund
+Eliminations
+Totals
+Cash Flows from Operating Activities
+Receipts from fees
+226,065
+$          
+23,883,492
+$     
+2,156,154
+$       
+26,265,711
+$     
+Receipts from program loan payments
+422,849
+            
+18,927,925
+       
+(12,534,050)
+      
+6,816,724
+         
+Receipts used by other sources
+-
+                        
+(9,390,168)
+        
+-
+                        
+(9,390,168)
+        
+Payments to employees
+-
+                        
+(12,756,809)
+      
+-
+                        
+(12,756,809)
+      
+Payments to suppliers
+-
+                        
+(3,281,042)
+        
+-
+                        
+(3,281,042)
+        
+Payment for purchases of program loans
+(12,534,050)
+      
+(44,043,354)
+      
+12,534,050
+       
+(44,043,354)
+      
+Payments for bond fees
+(3,332,111)
+        
+-
+                        
+-
+                        
+(3,332,111)
+        
+Payments for trustee and other fees
+(2,490,585)
+        
+-
+                        
+(2,156,154)
+        
+(4,646,739)
+        
+Net cash used in operating activities
+(17,707,832)
+      
+(26,659,956)
+      
+-
+                        
+(44,367,788)
+      
+Cash Flows from Noncapital Financing Activities
+Proceeds from issuance of bonds and notes payable
+394,053,700
+     
+245,100,000
+     
+-
+                        
+639,153,700
+     
+Principal paid on bonds and notes payable
+(37,606,160)
+      
+(245,100,000)
+    
+-
+                        
+(282,706,160)
+    
+Interest paid on bonds and notes payable
+(32,534,131)
+      
+(218,672)
+           
+-
+                        
+(32,752,803)
+      
+Payment of bond issuance costs
+(3,270,782)
+        
+-
+                        
+-
+                        
+(3,270,782)
+        
+Receipt of federal and state program revenue
+-
+                        
+203,012,736
+     
+-
+                        
+203,012,736
+     
+Payment of federal and state program expenses
+-
+                        
+(200,096,402)
+    
+-
+                        
+(200,096,402)
+    
+Transfers
+(3,954)
+               
+3,954
+                
+-
+                        
+-
+                        
+Net cash provided by noncapital financing activities
+320,638,673
+     
+2,701,616
+         
+-
+                        
+323,340,289
+     
+Cash Flows from Capital and Related Financing Activities
+Acquisition of capital assets
+-
+                        
+(249,810)
+           
+-
+                        
+(249,810)
+           
+Cash Flows from Investing Activities
+Purchase of investments
+(363,753,258)
+    
+(490,942,156)
+    
+-
+                        
+(854,695,414)
+    
+Proceeds from sales and maturities of investments
+42,151,658
+       
+499,113,601
+     
+-
+                        
+541,265,259
+     
+Interest received on investments
+44,517,061
+       
+13,882,457
+       
+-
+                        
+58,399,518
+       
+Net cash provided by (used in) investing activities
+(277,084,539)
+    
+22,053,902
+       
+-
+                        
+(255,030,637)
+    
+Net increase (decrease) in cash
+25,846,302
+       
+(2,154,248)
+        
+-
+                        
+23,692,054
+       
+Cash and cash equivalents, beginning of year
+129,446,779
+     
+274,182,040
+     
+-
+                        
+403,628,819
+     
+Cash and cash equivalents, end of year
+155,293,081
+$   
+272,027,792
+$   
+-
+$                      
+427,320,873
+$   
+Cash and Cash Equivalents as Reported in
+Statement of Net Position
+Unrestricted
+-
+$                      
+65,491,323
+$     
+-
+$                      
+65,491,323
+$     
+Restricted
+155,293,081
+     
+206,536,469
+     
+-
+                        
+361,829,550
+     
+155,293,081
+$   
+272,027,792
+$   
+-
+$                      
+427,320,873
+$   
+
+ 
+ 
+See independent auditor's report. 
+54 
+OKLAHOMA HOUSING FINANCE AGENCY 
+ 
+SUPPLEMENTAL COMBINING STATEMENT OF CASH FLOWS (continued) 
+ 
+Year ended September 30, 2025 
+ 
+ 
+ 
+ 
+Single Family
+Agency
+Bond
+General
+Combined
+Programs
+Fund
+Eliminations
+Totals
+Reconciliation of Operating Income to Net Cash 
+Used in Operating Activities
+Operating income 
+2,993,069
+$       
+24,594,755
+$     
+-
+$                      
+27,587,824
+$     
+Adjustments to reconcile operating income to 
+net cash used in operating activities:
+Depreciation
+-
+                        
+1,150,392
+         
+-
+                        
+1,150,392
+         
+Bad debt
+1,247,857
+         
+446,083
+            
+-
+                        
+1,693,940
+         
+Interest from investments
+(45,942,069)
+      
+(13,970,948)
+      
+-
+                        
+(59,913,017)
+      
+Bond issue costs
+3,270,782
+         
+-
+                        
+-
+                        
+3,270,782
+         
+Net increase in fair value of investments
+(1,086,046)
+        
+317,293
+            
+-
+                        
+(768,753)
+           
+Realized gain on sale of investments
+-
+                        
+(4,520,135)
+        
+-
+                        
+(4,520,135)
+        
+Interest on bonds and notes payable
+34,038,669
+       
+202,614
+            
+-
+                        
+34,241,283
+       
+Change in operating assets, liabilities, deferred outflows, 
+and deferred inflows:
+Accounts receivable and HUD receivable
+2,049
+                
+(441,307)
+           
+-
+                        
+(439,258)
+           
+Hedging payable
+-
+                        
+(6,141)
+               
+-
+                        
+(6,141)
+               
+Prepaid expenses
+-
+                        
+34,380
+              
+-
+                        
+34,380
+              
+Program loans receivable
+(12,113,250)
+      
+(25,246,558)
+      
+-
+                        
+(37,359,808)
+      
+OPEB asset
+-
+                        
+(173,129)
+           
+-
+                        
+(173,129)
+           
+Pension asset
+-
+                        
+(1,217,984)
+        
+-
+                        
+(1,217,984)
+        
+Accounts payable and accrued expenses
+81,570
+              
+1,213,684
+         
+-
+                        
+1,295,254
+         
+Arbitrage payable
+(200,463)
+           
+-
+                        
+-
+                        
+(200,463)
+           
+Unearned revenue
+-
+                        
+(9,507,684)
+        
+-
+                        
+(9,507,684)
+        
+Pension liability
+-
+                        
+(1,644,092)
+        
+-
+                        
+(1,644,092)
+        
+Deferred outflows
+-
+                        
+1,304,083
+         
+-
+                        
+1,304,083
+         
+Deferred inflows
+-
+                        
+771,508
+            
+-
+                        
+771,508
+            
+Compensated absences
+-
+                        
+33,230
+              
+-
+                        
+33,230
+              
+Net cash used in operating activities
+(17,707,832)
+$    
+(26,659,956)
+$    
+-
+$                      
+(44,367,788)
+$    
+
+ 
+ 
+OTHER REPORT
+
+ 
+55 
+REPORT ON INTERNAL CONTROL OVER FINANCIAL REPORTING 
+AND ON COMPLIANCE AND OTHER MATTERS BASED ON AN AUDIT 
+OF FINANCIAL STATEMENTS PERFORMED IN ACCORDANCE WITH 
+GOVERNMENT AUDITING STANDARDS 
+ 
+INDEPENDENT AUDITOR'S REPORT 
+ 
+ 
+ 
+To the Board of Trustees  
+Oklahoma Housing Finance Agency 
+ 
+We have audited, in accordance with the auditing standards generally accepted in the United States of 
+America and the standards applicable to financial audits contained in Government Auditing Standards 
+issued by the Comptroller General of the United States, the financial statements of Oklahoma Housing 
+Finance Agency (the Agency), as of and for the year ended September 30, 2025, and the related notes to 
+the financial statements, and have issued our report thereon dated January 20, 2026. 
+ 
+Report on Internal Control over Financial Reporting 
+ 
+In planning and performing our audit of the financial statements, we considered the Agency's internal 
+control over financial reporting (internal control) as a basis for designing audit procedures that are 
+appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but 
+not for the purpose of expressing an opinion on the effectiveness of the Agency's internal control. 
+Accordingly, we do not express an opinion on the effectiveness of the Agency's internal control. 
+ 
+A deficiency in internal control exists when the design or operation of a control does not allow management 
+or employees, in the normal course of performing their assigned functions, to prevent, or detect and correct, 
+misstatements on a timely basis. A material weakness is a deficiency, or a combination of deficiencies, in 
+internal control, such that there is a reasonable possibility that a material misstatement of the entity's 
+financial statements will not be prevented, or detected and corrected on a timely basis. A significant 
+deficiency is a deficiency, or a combination of deficiencies, in internal control that is less severe than a 
+material weakness, yet important enough to merit attention by those charged with governance. 
+ 
+Our consideration of internal control was for the limited purpose described in the first paragraph of this 
+section and was not designed to identify all deficiencies in internal control that might be material 
+weaknesses or significant deficiencies. Given these limitations, during our audit we did not identify any 
+deficiencies in internal control that we consider to be material weaknesses. However, material weaknesses 
+or significant deficiencies may exist that have not been identified. 
+ 
+Report on Compliance and Other Matters 
+ 
+As part of obtaining reasonable assurance about whether the Agency's financial statements are free from 
+material misstatement, we performed tests of its compliance with certain provisions of laws, regulations, 
+contracts, and grant agreements, noncompliance with which could have a direct and material effect on the 
+financial statements. However, providing an opinion on compliance with those provisions was not an 
+objective of our audit, and accordingly, we do not express such an opinion. The results of our tests disclosed 
+no instances of noncompliance or other matters that are required to be reported under Government Auditing 
+Standards. 
+www.hogantaylor.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+56 
+Purpose of this Report 
+ 
+The purpose of this report is solely to describe the scope of our testing of internal control and compliance 
+and the results of that testing, and not to provide an opinion on the effectiveness of the entity's internal 
+control or on compliance. This report is an integral part of an audit performed in accordance with 
+Government Auditing Standards in considering the entity's internal control and compliance. Accordingly, 
+this communication is not suitable for any other purpose. 
+ 
+ 
+ 
+Oklahoma City, Oklahoma 
+January 20, 2026 

@@ -18,7 +18,7 @@ FY2025_METRICS = BASE / "FY2025" / "fy2025_metrics.json"
 FY2024_METRICS = BASE / "FY2024" / "fy2024_metrics.json"
 CATALOG = BASE / "FY2025" / "state_hfa_catalog.json"
 HFA_STAFF_COUNTS = BASE / "hfa_staff_counts.json"
-OUT = BASE / "web-map" / "state_data.json"
+OUT = BASE / "docs" / "state_data.json"
 
 FIPS_TO_STATE = {
     "01": "AL", "02": "AK", "04": "AZ", "05": "AR", "06": "CA", "08": "CO", "09": "CT",
@@ -716,16 +716,127 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "net_position_change_pct": 11.3,
     },
     "MN": {"net_position_2025": 1_649_443_000, "total_assets_2025": 8_543_311_000},
-    "MO": {"net_position_2025": 708_007_000},
-    "CO": {"total_assets_2025": 8_385_309_000},
+    "MO": {
+        "net_position_2025": 708_007_000,
+        "net_position_2024": 664_589_000,
+        "total_assets_2025": 3_192_551_000,
+        "total_assets_2024": 2_461_129_000,
+        "total_liabilities_2025": 2_491_534_000,
+        "total_liabilities_2024": 1_806_271_000,
+        "net_position_change_pct": 6.5,
+    },
+    "CO": {
+        "net_position_2025": 971_675_000,
+        "net_position_2024": 828_465_000,
+        "total_assets_2025": 8_385_309_000,
+        "net_position_change_pct": 17.3,
+    },
     "NC": {
         "net_position_2025": 979_793_000,
         "net_position_2024": 856_993_000,
         "total_assets_2025": 4_815_950_000,
         "net_position_change_pct": 14.3,
     },
-    "ND": {"net_position_2025": 454_474_000, "total_assets_2025": 2_910_591_000},
-    "NE": {"net_position_2025": 454_474_000, "total_assets_2025": 2_910_591_000},
+    "ND": {
+        "net_position_2025": 280_805_000,
+        "net_position_2024": 256_450_000,
+        "total_assets_2025": 2_818_952_000,
+        "total_assets_2024": 2_255_841_000,
+        "total_liabilities_2025": 2_521_600_000,
+        "total_liabilities_2024": 1_978_564_000,
+        "net_position_change_pct": 9.0,
+    },
+    "NE": {
+        "net_position_2025": 454_474_000,
+        "net_position_2024": 432_973_000,
+        "total_assets_2025": 2_910_591_000,
+        "total_assets_2024": 2_249_850_000,
+        "total_liabilities_2025": 2_447_488_000,
+        "total_liabilities_2024": 1_805_585_000,
+        "net_position_change_pct": 5.0,
+    },
+    "AR": {
+        "net_position_2025": 530_822_000,
+        "net_position_2024": 505_820_000,
+        "total_assets_2025": 1_142_207_000,
+        "total_assets_2024": 1_008_195_000,
+        "total_liabilities_2025": 611_156_000,
+        "total_liabilities_2024": 502_172_000,
+        "net_position_change_pct": 5.1,
+    },
+    "ME": {
+        "net_position_2025": 508_535_000,
+        "net_position_2024": 475_829_000,
+        "net_position_change_pct": 6.9,
+    },
+    "UT": {
+        "net_position_2025": 610_650_000,
+        "net_position_2024": 514_400_000,
+        "total_assets_2025": 3_861_330_000,
+        "total_assets_2024": 2_923_819_000,
+        "net_position_change_pct": 18.7,
+    },
+    "CT": {
+        "net_position_2025": 957_039_000,
+        "net_position_2024": 764_506_000,
+        "total_assets_2025": 8_122_355_000,
+        "total_assets_2024": 7_043_493_000,
+        "total_liabilities_2025": 6_986_013_000,
+        "total_liabilities_2024": 6_115_720_000,
+        "net_position_change_pct": 25.2,
+    },
+    "KY": {
+        "net_position_2025": 519_377_000,
+        "net_position_2024": 486_274_000,
+        "total_assets_2025": 1_434_509_000,
+        "total_assets_2024": 1_180_300_000,
+        "total_liabilities_2025": 915_132_000,
+        "total_liabilities_2024": 694_000_000,
+        "net_position_change_pct": 6.8,
+    },
+    "SC": {
+        "net_position_2025": 612_736_978,
+        "net_position_2024": 570_045_294,
+        "total_assets_2025": 2_330_498_465,
+        "total_assets_2024": 1_847_789_251,
+        "total_liabilities_2025": 1_717_292_827,
+        "total_liabilities_2024": 1_275_296_701,
+        "net_position_change_pct": 7.5,
+    },
+    "VT": {
+        "net_position_2025": 123_644_000,
+        "net_position_2024": 112_192_000,
+        "total_assets_2025": 679_864_000,
+        "total_assets_2024": 565_610_000,
+        "total_liabilities_2025": 581_488_000,
+        "total_liabilities_2024": 480_222_000,
+        "net_position_change_pct": 10.2,
+    },
+    "OK": {
+        "net_position_2025": 417_517_722,
+        "net_position_2024": 387_013_564,
+        "total_assets_2025": 1_472_100_000,
+        "total_assets_2024": 1_091_700_000,
+        "total_liabilities_2025": 1_054_900_000,
+        "total_liabilities_2024": 707_100_000,
+        "net_position_change_pct": 7.9,
+    },
+    "KS": {
+        "net_position_2025": 78_666_000,
+        "net_position_2024": 74_066_000,
+        "total_assets_2025": 96_859_000,
+        "total_liabilities_2025": 20_134_000,
+        "net_position_change_pct": 6.2,
+    },
+    "NM": {
+        "net_position_2025": 323_285_000,
+        "net_position_2024": 290_095_000,
+        "total_assets_2025": 2_716_367_000,
+        "total_assets_2024": 2_376_981_000,
+        "total_liabilities_2025": 2_393_131_000,
+        "total_liabilities_2024": 2_086_795_000,
+        "net_position_change_pct": 11.4,
+    },
     "OH": {
         "net_position_2025": 526_058_065,
         "net_position_2024": 438_942_146,
@@ -814,6 +925,16 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 625_413_802,
         "net_position_change_pct": 3.84,
     },
+    # IFA ACFR amounts are in thousands; extractor mis-scaled them.
+    "IA": {
+        "net_position_2025": 1_664_618_000,
+        "net_position_2024": 1_530_373_000,
+        "total_assets_2025": 6_173_161_000,
+        "total_assets_2024": 5_626_808_000,
+        "total_liabilities_2025": 4_487_552_000,
+        "total_liabilities_2024": 4_071_413_000,
+        "net_position_change_pct": 8.8,
+    },
 }
 
 
@@ -875,8 +996,6 @@ def compute_growth(by_state: dict[str, dict]) -> None:
             if plausible_np(calc):
                 rec["2024"]["net_position"] = calc
                 np24 = calc
-        elif np24 and np25 and chg is None and np24:
-            rec["2025"]["net_position_growth_pct"] = ((np25 - np24) / np24) * 100
 
         a24 = rec["2024"].get("total_assets")
         a25 = rec["2025"].get("total_assets")
@@ -884,6 +1003,15 @@ def compute_growth(by_state: dict[str, dict]) -> None:
             rec["2024"]["total_assets"] = None
         if np24 and np25 and np24 > np25 * 3:
             rec["2024"]["net_position"] = None
+            np24 = None
+
+        np24 = rec["2024"].get("net_position")
+        np25 = rec["2025"].get("net_position")
+        # Recompute after scale/plausibility cleanup so orphaned bad % cannot linger.
+        if np24 and np25 and np24 != 0:
+            rec["2025"]["net_position_growth_pct"] = ((np25 - np24) / np24) * 100
+        elif np25 is None and np24 is None:
+            rec["2025"]["net_position_growth_pct"] = None
 
 
 def fix_scale_errors(by_state: dict[str, dict]) -> None:
@@ -1344,6 +1472,20 @@ def load_acs_quickfacts() -> dict[str, dict]:
     return result
 
 
+def load_homeless_pit() -> dict[str, dict[str, int | None]]:
+    """HUD AHAR Point-in-Time overall homeless counts by state (January PIT)."""
+    result = {s: {"2024": None, "2025": None} for s in STATE_NAMES}
+    fallback = BASE / "web-map" / "homeless_pit_fallback.json"
+    if fallback.exists():
+        data = json.loads(fallback.read_text(encoding="utf-8"))
+        for st, vals in data.items():
+            if st not in result:
+                continue
+            result[st]["2024"] = vals.get("homeless_2024")
+            result[st]["2025"] = vals.get("homeless_2025")
+    return result
+
+
 def build_hfa_metrics() -> dict[str, dict]:
     fy25 = json.loads(FY2025_METRICS.read_text(encoding="utf-8"))
     catalog = {c["state"]: c for c in json.loads(CATALOG.read_text(encoding="utf-8"))}
@@ -1452,10 +1594,12 @@ def build_hfa_metrics() -> dict[str, dict]:
 
     apply_manual_overrides(by_state)
     apply_hfa_staff_counts(by_state, load_hfa_staff_counts())
-    compute_growth(by_state)
     compute_liabilities(by_state)
     fix_scale_errors(by_state)
     reconcile_balance_sheet(by_state)
+    # Growth last: uses cleaned net position figures only.
+    compute_growth(by_state)
+    apply_manual_overrides(by_state)  # restore ACFR-stated growth % when provided
     return by_state
 
 
@@ -1466,6 +1610,7 @@ def main() -> None:
     income = load_personal_income()
     unemp = load_unemployment()
     acs = load_acs_quickfacts()
+    homeless = load_homeless_pit()
 
     states_out = []
     for st, names in STATE_NAMES.items():
@@ -1474,8 +1619,17 @@ def main() -> None:
         inc = income.get(st, {})
         u = unemp.get(st, {})
         a = acs.get(st, {})
+        hm = homeless.get(st, {})
 
-        def year_block(fy: str, pop_key: str, inc_key: str, unemp_key: str, poverty_key: str, median_key: str):
+        def year_block(
+            fy: str,
+            pop_key: str,
+            inc_key: str,
+            unemp_key: str,
+            poverty_key: str,
+            median_key: str,
+            homeless_key: str,
+        ):
             hfa_y = h.get(fy, {})
             pop_val = p.get(pop_key)
             inc_total = inc.get(inc_key)
@@ -1498,6 +1652,7 @@ def main() -> None:
                 "unemployment_rate": u.get(unemp_key),
                 "poverty_rate": a.get(poverty_key),
                 "median_home_price": a.get(median_key),
+                "homeless_count": hm.get(homeless_key),
             }
 
         states_out.append({
@@ -1513,8 +1668,8 @@ def main() -> None:
                 or h.get("staff_count_source")
             ),
             "staff_count_source_url": h.get("staff_count_source_url"),
-            "2024": year_block("2024", "2024", "2024", "2024", "poverty_2023", "median_home_2023"),
-            "2025": year_block("2025", "2025", "2024", "2024", "poverty_2024", "median_home_2024"),
+            "2024": year_block("2024", "2024", "2024", "2024", "poverty_2023", "median_home_2023", "2024"),
+            "2025": year_block("2025", "2025", "2024", "2024", "poverty_2024", "median_home_2024", "2025"),
         })
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
@@ -1529,6 +1684,7 @@ def main() -> None:
             "personal_income": "U.S. Bureau of Economic Analysis SAINC4 (State Personal Income)",
             "unemployment": "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
             "poverty_median_home": "U.S. Census Bureau ACS 1-year estimates",
+            "homeless_count": "HUD AHAR Point-in-Time Estimates by State (January 2025)",
         },
         "states": states_out,
     }
@@ -1539,11 +1695,12 @@ def main() -> None:
     filled_liab24 = sum(1 for s in states_out if s["2024"]["total_liabilities"])
     filled_u = sum(1 for s in states_out if s["2025"]["unemployment_rate"])
     filled_staff = sum(1 for s in states_out if s["2025"]["staff_count"])
+    filled_hm = sum(1 for s in states_out if s["2025"]["homeless_count"])
     print(
         f"Wrote {OUT} | 2024 net_position: {filled_np24}/52 | 2024 total_assets: {filled_a24}/52"
         f" | 2024 total_liabilities: {filled_liab24}/52"
         f" | 2025 net_position: {filled_np25}/52 | unemployment: {filled_u}/52"
-        f" | staff_count: {filled_staff}/52"
+        f" | staff_count: {filled_staff}/52 | homeless_count: {filled_hm}/52"
     )
 
 

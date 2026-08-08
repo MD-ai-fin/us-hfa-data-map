@@ -99,7 +99,7 @@ const PAGE_FIXES = {
   NM: "https://housingnm.org/",
   NY: "https://hcr.ny.gov/",
   OH: "https://ohiohome.org/financials/default.aspx",
-  OK: "https://www.ohfa.org/",
+  OK: "https://www.ohfa.org/financials/",
   OR: "https://www.oregon.gov/ohcs/Pages/index.aspx",
   PA: "https://www.phfa.org/about/reports/",
   RI: "https://www.rihousing.com/",

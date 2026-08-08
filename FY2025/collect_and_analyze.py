@@ -82,6 +82,16 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "net_position_change_pct": 20.4,
     },
     "LA": {"net_position_2025": 821_730_000, "total_assets_2025": 1_545_038_000, "net_position_change_pct": 31.9},
+    "IA": {
+        "net_position_2025": 1_664_618_000,
+        "net_position_2024": 1_530_373_000,
+        "total_assets_2025": 6_173_161_000,
+        "total_assets_2024": 5_626_808_000,
+        "total_liabilities_2025": 4_487_552_000,
+        "total_liabilities_2024": 4_071_413_000,
+        "net_position_change": 134_245_000,
+        "net_position_change_pct": 8.8,
+    },
     "MA": {
         "net_position_2025": 2_083_948_000,
         "net_position_2024": 1_822_847_000,
@@ -101,16 +111,127 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "net_position_change_pct": 11.3,
     },
     "MN": {"net_position_2025": 1_649_443_000, "total_assets_2025": 8_543_311_000},
-    "MO": {"net_position_2025": 708_007_000},
-    "CO": {"total_assets_2025": 8_385_309_000},
+    "MO": {
+        "net_position_2025": 708_007_000,
+        "net_position_2024": 664_589_000,
+        "total_assets_2025": 3_192_551_000,
+        "total_assets_2024": 2_461_129_000,
+        "total_liabilities_2025": 2_491_534_000,
+        "total_liabilities_2024": 1_806_271_000,
+        "net_position_change_pct": 6.5,
+    },
+    "CO": {
+        "net_position_2025": 971_675_000,
+        "net_position_2024": 828_465_000,
+        "total_assets_2025": 8_385_309_000,
+        "net_position_change_pct": 17.3,
+    },
     "NC": {
         "net_position_2025": 979_793_000,
         "net_position_2024": 856_993_000,
         "total_assets_2025": 4_815_950_000,
         "net_position_change_pct": 14.3,
     },
-    "ND": {"net_position_2025": 454_474_000, "total_assets_2025": 2_910_591_000},
-    "NE": {"net_position_2025": 454_474_000, "total_assets_2025": 2_910_591_000},
+    "ND": {
+        "net_position_2025": 280_805_000,
+        "net_position_2024": 256_450_000,
+        "total_assets_2025": 2_818_952_000,
+        "total_assets_2024": 2_255_841_000,
+        "total_liabilities_2025": 2_521_600_000,
+        "total_liabilities_2024": 1_978_564_000,
+        "net_position_change_pct": 9.0,
+    },
+    "NE": {
+        "net_position_2025": 454_474_000,
+        "net_position_2024": 432_973_000,
+        "total_assets_2025": 2_910_591_000,
+        "total_assets_2024": 2_249_850_000,
+        "total_liabilities_2025": 2_447_488_000,
+        "total_liabilities_2024": 1_805_585_000,
+        "net_position_change_pct": 5.0,
+    },
+    "AR": {
+        "net_position_2025": 530_822_000,
+        "net_position_2024": 505_820_000,
+        "total_assets_2025": 1_142_207_000,
+        "total_assets_2024": 1_008_195_000,
+        "total_liabilities_2025": 611_156_000,
+        "total_liabilities_2024": 502_172_000,
+        "net_position_change_pct": 5.1,
+    },
+    "ME": {
+        "net_position_2025": 508_535_000,
+        "net_position_2024": 475_829_000,
+        "net_position_change_pct": 6.9,
+    },
+    "UT": {
+        "net_position_2025": 610_650_000,
+        "net_position_2024": 514_400_000,
+        "total_assets_2025": 3_861_330_000,
+        "total_assets_2024": 2_923_819_000,
+        "net_position_change_pct": 18.7,
+    },
+    "CT": {
+        "net_position_2025": 957_039_000,
+        "net_position_2024": 764_506_000,
+        "total_assets_2025": 8_122_355_000,
+        "total_assets_2024": 7_043_493_000,
+        "total_liabilities_2025": 6_986_013_000,
+        "total_liabilities_2024": 6_115_720_000,
+        "net_position_change_pct": 25.2,
+    },
+    "KY": {
+        "net_position_2025": 519_377_000,
+        "net_position_2024": 486_274_000,
+        "total_assets_2025": 1_434_509_000,
+        "total_assets_2024": 1_180_300_000,
+        "total_liabilities_2025": 915_132_000,
+        "total_liabilities_2024": 694_000_000,
+        "net_position_change_pct": 6.8,
+    },
+    "SC": {
+        "net_position_2025": 612_736_978,
+        "net_position_2024": 570_045_294,
+        "total_assets_2025": 2_330_498_465,
+        "total_assets_2024": 1_847_789_251,
+        "total_liabilities_2025": 1_717_292_827,
+        "total_liabilities_2024": 1_275_296_701,
+        "net_position_change_pct": 7.5,
+    },
+    "VT": {
+        "net_position_2025": 123_644_000,
+        "net_position_2024": 112_192_000,
+        "total_assets_2025": 679_864_000,
+        "total_assets_2024": 565_610_000,
+        "total_liabilities_2025": 581_488_000,
+        "total_liabilities_2024": 480_222_000,
+        "net_position_change_pct": 10.2,
+    },
+    "OK": {
+        "net_position_2025": 417_517_722,
+        "net_position_2024": 387_013_564,
+        "total_assets_2025": 1_472_100_000,
+        "total_assets_2024": 1_091_700_000,
+        "total_liabilities_2025": 1_054_900_000,
+        "total_liabilities_2024": 707_100_000,
+        "net_position_change_pct": 7.9,
+    },
+    "KS": {
+        "net_position_2025": 78_666_000,
+        "net_position_2024": 74_066_000,
+        "total_assets_2025": 96_859_000,
+        "total_liabilities_2025": 20_134_000,
+        "net_position_change_pct": 6.2,
+    },
+    "NM": {
+        "net_position_2025": 323_285_000,
+        "net_position_2024": 290_095_000,
+        "total_assets_2025": 2_716_367_000,
+        "total_assets_2024": 2_376_981_000,
+        "total_liabilities_2025": 2_393_131_000,
+        "total_liabilities_2024": 2_086_795_000,
+        "net_position_change_pct": 11.4,
+    },
     "OH": {"net_position_2025": 526_058_065, "total_assets_2025": 3_946_798_760, "net_position_change_pct": 19.8},
     "TN": {"net_position_2025": 665_000_000, "net_position_change_pct": 4.74},
     "TX": {
@@ -178,7 +299,7 @@ MANUAL_OVERRIDES: dict[str, dict] = {
     },
 }
 
-EXCLUDE_FROM_RANKINGS = {"KS", "PA", "IA"}
+EXCLUDE_FROM_RANKINGS = {"PA"}  # Commonwealth ACFR, not PHFA entity report
 
 FY2025_PATTERNS = [
     r"fy\s*2025",
@@ -578,153 +699,164 @@ def _report_copy(language: str) -> dict:
             "date_fmt": date_fmt,
             "downloaded_label": downloaded_label,
             "missing_label": missing_label,
-            "title": "FY2025 U.S. State Housing Finance Agencies\nACFR & Financial Statements: Panoramic Analysis & Strategic Insights",
+            "title": "FY2025 U.S. State Housing Finance Agencies\nACFR and Financial Statement Analysis",
             "subtitle": (
                 "Prepared: {date}  |  Coverage: {total} states/territories  |  "
                 "Reports obtained: {downloaded} FY2025 filings"
             ),
-            "s1": "I. Executive Summary: A Balance-Sheet Moment for Housing Finance",
+            "s1": "I. Executive Summary",
             "s1_body": (
-                "FY2025 (year ended June 30, 2025; some agencies use a calendar year) was a pivotal "
-                "financial year for State Housing Finance Agencies (HFAs) amid falling interest rates, "
-                "intensifying LIHTC competition, and expanding first-time homebuyer programs. "
-                "This report systematically collects and compares publicly disclosed ACFRs and audited "
-                "financial statements across all 51 states and territories. As of the collection date, "
-                "{downloaded} FY2025 reports were obtained ({coverage:.0f}% coverage)."
+                "Fiscal year 2025 (year ended June 30, 2025 for most agencies; a few report on a calendar year) "
+                "was a consequential period for State Housing Finance Agencies (HFAs). Interest rates eased, "
+                "competition for Low-Income Housing Tax Credits (LIHTC) intensified, and first-time homebuyer "
+                "programs continued to expand. This report compiles and compares publicly available ACFRs and "
+                "audited financial statements for HFAs across all 51 states and the District of Columbia. "
+                "As of the preparation date, {downloaded} FY2025 reports were obtained "
+                "({coverage:.0f}% coverage)."
             ),
             "key_findings": (
-                "Key finding: Among {count} agencies with extracted data, aggregate net position totals "
-                "approximately {np}, and aggregate total assets approximately {assets}. "
-                "State HFAs operate as quasi-banks funded by bonds—mortgage and development loans on the "
-                "asset side, housing bonds on the liability side. Net position ratio (Net Position / Total Assets) "
-                "measures financial cushion and resilience."
+                "Among {count} agencies with extracted metrics, aggregate net position is approximately {np} "
+                "and aggregate total assets approximately {assets}. State HFAs function largely as "
+                "bond-financed intermediaries: mortgage and development loans on the asset side, and housing "
+                "bonds on the liability side. The net position ratio (net position divided by total assets) "
+                "is a useful indicator of financial cushion and resilience."
             ),
             "growth_champion": (
-                "Growth leader: {state} ({abbr}) posted net position growth of {pct}, reaching {np}. "
-                "This typically reflects rebounding bond issuance, portfolio expansion, or fair-value recovery—"
-                "but should be cross-checked against housing units financed."
+                "The strongest year-over-year increase in net position was recorded by {state} ({abbr}), "
+                "at {pct}, bringing net position to {np}. Such gains often coincide with higher bond issuance, "
+                "portfolio growth, or fair-value recovery, and should be interpreted alongside housing production "
+                "measures (for example, units financed)."
             ),
-            "s2": "II. Rankings: Who Is Getting Bigger, Stronger, and Faster",
-            "s2_1": "2.1 Top 10 by Net Position (Financial Heavyweights)",
+            "s2": "II. Rankings",
+            "s2_1": "2.1 Top 10 by Net Position",
             "s2_1_insight": (
-                "Insight: The largest net-position agencies are often dual-engine players in multifamily "
-                "housing revenue bonds (MHRB) and single-family mortgage programs. Scale alone does not "
-                "equal performance, but it signals stronger bargaining power, lower marginal borrowing costs, "
-                "and capacity to underwrite large affordable housing deals when federal policy shifts."
+                "Florida, Virginia, and California lead by net position, followed by Hawaii and Massachusetts. "
+                "Larger agencies typically operate both multifamily housing revenue bond and single-family "
+                "mortgage programs. Size is not a performance scorecard, but it often correlates with stronger "
+                "market access, lower marginal funding costs, and greater capacity to finance large affordable "
+                "housing transactions when federal policy shifts."
             ),
-            "s2_2": "2.2 Top 10 by Net Position Growth (Financial Acceleration)",
+            "s2_2": "2.2 Top 10 by Net Position Growth",
             "s2_2_insight": (
-                "Insight: High-growth states often fall into three scenarios: (1) bond issuance rebound; "
-                "(2) loan-loss reserve releases or fair-value gains; (3) state down-payment/homeownership "
-                "programs improving fees and spreads. Caution: growth driven by fair-value gains rather than "
-                "operating surplus may be less sustainable."
+                "Louisiana recorded the highest year-over-year net position growth, with Connecticut, Indiana, "
+                "Ohio, Minnesota, and Utah also posting gains in the mid-teens to mid-20s. Rapid growth commonly "
+                "reflects a rebound in bond issuance, releases of loan-loss reserves or fair-value gains, or "
+                "stronger fee and spread income from state homebuyer programs. Gains driven mainly by fair-value "
+                "changes rather than operating results may prove less durable."
             ),
             "s2_2_empty": (
                 "Some reports do not disclose comparable two-year net position growth; this section will "
                 "expand as coverage improves."
             ),
-            "s2_3": "2.3 Top 10 by Total Assets (Market Anchors)",
-            "s2_4": "2.4 Top 10 by Net Position Ratio (Financial Cushion)",
+            "s2_3": "2.3 Top 10 by Total Assets",
+            "s2_4": "2.4 Top 10 by Net Position Ratio",
             "s2_4_insight": (
-                "Insight: Agencies with higher net position ratios typically have more room to absorb asset "
-                "impairments, rate shocks, or tighter refinancing windows. For policymakers, this is a hard "
-                "measure of fiscal resilience—not a talking point."
+                "Among larger agencies, Hawaii and California show the highest net position ratios; Florida "
+                "and Louisiana also sit well above typical peer levels. Smaller HFAs can post elevated ratios "
+                "because of simpler balance sheets, so size and ratio should be read together. A thicker "
+                "cushion generally provides more flexibility under asset impairments, interest-rate stress, "
+                "or narrower refinancing windows."
             ),
-            "s3": "III. Regional & Model Comparison: Five State HFA Archetypes",
-            "s3_intro": "FY2025 disclosures suggest five rough archetypes for cross-state benchmarking:",
+            "s3": "III. Operating Models: Five Archetypes",
+            "s3_intro": "FY2025 disclosures suggest five broad operating models useful for cross-state comparison:",
             "prototypes": [
                 (
-                    "Bond-Driven Giants",
-                    "e.g., MI, IL, MN—assets and liabilities expand together, heavily reliant on MHRB/SFR "
-                    "programs and GSE pipelines.",
+                    "Bond-financed large agencies",
+                    "Examples include Virginia, Minnesota, Colorado, Connecticut, Michigan, and Illinois: "
+                    "large asset bases with liabilities expanding in parallel, and heavy reliance on "
+                    "multifamily and single-family bond programs and GSE channels.",
                 ),
                 (
-                    "Lean High-Growth Players",
-                    "e.g., NH, WV—mid-sized balance sheets but notable net position growth; useful models for "
-                    "how smaller states punch above their weight.",
+                    "High-growth mid-to-large agencies",
+                    "Examples include Louisiana, Connecticut, Indiana, Ohio, and Utah: double-digit net "
+                    "position growth on mid-to-large balance sheets, illustrating how issuance cycles and "
+                    "program mix can strengthen equity.",
                 ),
                 (
-                    "Integrated State-Department Models",
-                    "e.g., TX TDHCA—governmental and business-type funds in parallel; disclosure basis "
-                    "requires careful reading.",
+                    "Integrated state-department models",
+                    "Texas TDHCA is representative: governmental and business-type funds operate in parallel, "
+                    "so the disclosure basis and consolidation scope require careful reading.",
                 ),
                 (
-                    "High-Cost Coastal States",
-                    "e.g., CA, NY, WA—financial results tightly linked to home prices, construction costs, "
-                    "and project pipelines. FY2025 CalHFA reported net position of ~$3.44B and total assets "
-                    "near $5.0B, with single-family TBA securitizations exceeding $3B—among the nation's "
-                    "largest state housing finance players.",
+                    "High-cost coastal markets",
+                    "California and Washington are illustrative (New York entity-level filings remain limited). "
+                    "Results track home prices, construction costs, and project pipelines closely. In FY2025, "
+                    "CalHFA reported net position of about $3.44 billion and total assets near $5.0 billion, "
+                    "remaining among the largest state housing finance agencies.",
                 ),
                 (
-                    "Resource / Low-Density States",
-                    "e.g., WY, ND, SD—issuance cycles are volatile; individual projects can move the "
-                    "financial statements materially.",
+                    "Resource and low-density states",
+                    "Wyoming, North Dakota, South Dakota, and New Mexico often show more volatile issuance "
+                    "cycles; individual projects can move the financial statements materially.",
                 ),
             ],
-            "s4": "IV. Counter-Intuitive Insights Behind the Numbers",
+            "s4": "IV. Interpreting the Numbers",
             "insights": [
                 (
-                    "Bigger is not always safer",
+                    "Scale does not guarantee safety",
                     "The largest asset bases often carry the highest liabilities and derivative exposure. "
-                    "With FY2025 rate paths still uncertain, net position ratio and cash flow matter as much "
-                    "as asset rankings.",
+                    "While interest-rate paths remain uncertain, net position ratio and cash-flow capacity "
+                    "deserve as much attention as asset rankings.",
                 ),
                 (
-                    "Net position growth ≠ more housing built",
-                    "Under GAAP, net position can move with investment fair value, loss provisions, or bond "
-                    "premium amortization. Housing output must be validated against project reports (units "
-                    "financed, bonds issued).",
+                    "Net position growth is not housing production",
+                    "Under GAAP, net position can change with investment fair value, loss provisions, or bond "
+                    "premium amortization. Housing output should be validated against program reports "
+                    "(units financed, bonds issued).",
                 ),
                 (
-                    "Disclosure quality is a competitive advantage",
-                    "Agencies earning the GFOA Certificate of Achievement (e.g., IL IHDA) tend to publish "
-                    "clearer MD&A—lowering investor due-diligence costs and, indirectly, bond spreads.",
+                    "Disclosure quality has market value",
+                    "Agencies that earn the GFOA Certificate of Achievement (for example, Illinois IHDA) "
+                    "tend to publish clearer MD&A, which can reduce investor due-diligence costs and, "
+                    "indirectly, support tighter bond spreads.",
                 ),
             ],
-            "s5": "V. Constructive Recommendations: A Policy Toolkit for FY2026 and Beyond",
+            "s5": "V. Recommendations for FY2026 and Beyond",
             "recommendations": [
                 (
-                    "Establish an HFA Financial Health Index",
+                    "Adopt a common HFA financial health framework",
                     "Standardize disclosure of net position ratio, debt service coverage, delinquency rates, "
-                    "LIHTC pipeline, and single-family vs. multifamily mix—replacing fragmented narratives "
-                    "with comparable metrics.",
+                    "LIHTC pipeline, and the single-family versus multifamily mix so that fragmented narratives "
+                    "can be replaced with comparable metrics.",
                 ),
                 (
-                    "Embed affordability in the balance sheet",
-                    "Add MD&A unit-cost metrics: affordable units per $1M of bond proceeds, first-time "
-                    "buyers supported per dollar of net position—linking financial statements to housing outcomes.",
+                    "Connect affordability outcomes to the financial statements",
+                    "Add MD&A unit-cost metrics—affordable units per $1 million of bond proceeds, and "
+                    "first-time buyers supported per dollar of net position—to link reported finances to "
+                    "housing results.",
                 ),
                 (
-                    "Regional bond pooling and risk sharing",
-                    "Smaller HFAs: explore regional bond pools to cut issuance costs. Larger HFAs: standardize "
-                    "hedging for disaster and interest-rate risk.",
+                    "Expand regional bond pooling and risk sharing",
+                    "Smaller HFAs may lower issuance costs through regional bond pools. Larger HFAs may "
+                    "benefit from more standardized hedging for disaster and interest-rate risk.",
                 ),
                 (
-                    "Digital disclosure and machine-readable data",
-                    "Publish XBRL or structured CSV supplements so researchers, rating agencies, and federal "
-                    "partners can monitor HFAs in near real time.",
+                    "Publish machine-readable disclosures",
+                    "XBRL or structured CSV supplements would help researchers, rating agencies, and federal "
+                    "partners monitor HFAs on a more timely basis.",
                 ),
                 (
-                    "Focus on the missing middle (80%–120% AMI)",
-                    "Track middle-income projects separately in financial planning—avoid concentrating all "
-                    "resources at the lowest AMI tier and market-rate ends, squeezing out teachers, nurses, "
-                    "and similar workers.",
+                    "Track the missing-middle segment (80%–120% AMI)",
+                    "Treat middle-income projects as a distinct planning category so resources are not "
+                    "concentrated only at the lowest AMI tiers and the market-rate end of the spectrum, "
+                    "which can leave teachers, nurses, and similar workers underserved.",
                 ),
             ],
-            "s6": "VI. Data Coverage & Download Inventory",
-            "s7": "VII. States Without FY2025 Reports (Watch List)",
+            "s6": "VI. Data Coverage and File Inventory",
+            "s7": "VII. States Without FY2025 Reports",
             "s7_body": (
-                "The following {count} states/territories had no locatable FY2025 ACFR/financial statement "
-                "in public channels as of this report—often because audits were incomplete, only FY2024 was "
-                "posted, or filings sit behind non-standard portals."
+                "As of this report, the following {count} states or territories had no publicly locatable "
+                "FY2025 ACFR or audited financial statement. Common reasons include incomplete audits, "
+                "FY2024-only postings, or filings hosted on nonstandard sites."
             ),
             "appendix": "Appendix: Methodology",
             "appendix_body": (
-                "Data sources: FY2025 ACFRs or audited financial statement PDFs published on state HFA or "
-                "state auditor websites. Metric extraction prioritizes MD&A Financial Highlights and Statement "
-                "of Net Position lines for Total assets, Total liabilities, and Total net position (typically "
-                "in thousands of dollars). Limitation: disclosure bases differ (governmental vs. business-type "
-                "vs. blended); cross-state comparisons should be read with footnotes."
+                "Sources are FY2025 ACFRs or audited financial statement PDFs published by state HFAs or "
+                "state auditors. Extraction prioritizes MD&A financial highlights and Statement of Net "
+                "Position lines for total assets, total liabilities, and total net position (often reported "
+                "in thousands of dollars). Disclosure bases differ across governmental activities, "
+                "business-type activities, and blended presentations; cross-state comparisons should be read "
+                "with the accompanying notes."
             ),
             "table_rank": ["Rank", "State", "Agency", "FY2025 Net Position", "FY2025 Total Assets", "Net Position Ratio"],
             "table_growth": ["Rank", "State", "Agency", "Net Position Change", "Growth Rate", "FY2025 Net Position"],
@@ -735,132 +867,170 @@ def _report_copy(language: str) -> dict:
             "note_extract_fail": "Core metrics not auto-extracted; manual PDF review recommended",
             "note_missing_pdf": "FY2025 PDF link not found",
             "note_extract_error": "Text extraction failed: {err}",
+            "note_manual_fill": "Metrics completed from the agency ACFR/financial statements",
+            "note_growth_audit": "Growth rate verified manually against the ACFR",
+            "note_thousands": "Amounts reported in thousands; figures adjusted accordingly",
+            "note_scanned_fill": "Metrics completed from audited financial statements (scanned PDF) MD&A",
         }
 
     return {
         "date_fmt": date_fmt,
         "downloaded_label": downloaded_label,
         "missing_label": missing_label,
-        "title": "FY2025 美国州级住房金融机构\nACFR/财务报表 全景分析与战略洞察",
-        "subtitle": "编制日期：{date}  |  覆盖 {total} 个州/特区  |  成功获取 {downloaded} 份FY2025报告",
-        "s1": "一、执行摘要：住房金融体系的“资产负债表时刻”",
+        "title": "FY2025 美国州级住房金融机构\n综合年报与财务报表分析",
+        "subtitle": "编制日期：{date}　｜　覆盖 {total} 个州／特区　｜　已取得 {downloaded} 份 FY2025 报告",
+        "s1": "一、执行摘要",
         "s1_body": (
-            "FY2025（截至2025年6月30日，部分机构为日历年）是美国州级住房金融机构（State Housing Finance Agencies, HFAs）"
-            "在利率回落、LIHTC竞争加剧、以及首购支持计划扩张交织背景下的关键财务年度。"
-            "本报告基于公开披露的ACFR/经审计财务报表，对全美51个州/特区的HFA进行系统采集与横向比较。"
-            "截至采集日，共成功获取 {downloaded} 份FY2025报告（覆盖率 {coverage:.0f}%）。"
+            "2025 财年（多数机构会计年度截至 2025 年 6 月 30 日，少数按自然年结算）"
+            "对美国各州住房金融机构（State Housing Finance Agencies，以下简称 HFA）意义重大："
+            "市场利率有所回落，低收入住房税收抵免（LIHTC）竞争加剧，首套房支持计划继续扩大。"
+            "本报告汇集并比较全美 50 个州及哥伦比亚特区 HFA 公开发布的综合年报（ACFR）"
+            "与经审计财务报表。"
+            "截至编制之日，共取得 {downloaded} 份 FY2025 报告，覆盖率约 {coverage:.0f}%。"
         ),
         "key_findings": (
-            "核心发现：在已提取数据的 {count} 家机构中，合计净资产（Net Position）约 {np}，"
-            "合计总资产约 {assets}。州级HFA是以债券融资为核心的准银行机构——资产端主要是抵押贷款与开发贷款，"
-            "负债端是住房债券。净资产率（Net Position / Total Assets）衡量缓冲垫与抗风险能力。"
+            "在已提取到核心指标的 {count} 家机构中，净资产合计约 {np}，总资产合计约 {assets}。"
+            "州级 HFA 大体充当以债券融资为支撑的中介机构：资产端多为抵押贷款与开发贷款，"
+            "负债端则以住房债券为主。"
+            "净资产率（净资产÷总资产）是观察财务缓冲与抗风险能力的重要指标。"
         ),
         "growth_champion": (
-            "增长冠军：{state}（{abbr}）净资产同比增长 {pct}，达到 {np}。"
-            "这通常反映债券发行回暖、贷款组合扩张或公允价值回升，但需与单位产出交叉验证。"
+            "净资产同比增幅最高的是 {state}（{abbr}），达 {pct}，期末净资产为 {np}。"
+            "此类增长往往与债券发行增加、贷款组合扩张或公允价值回升相伴出现，"
+            "解读时应结合住房产出指标（如融资套数）一并审视。"
         ),
-        "s2": "二、排行榜：谁在做大、谁在做厚、谁在跑得快",
-        "s2_1": "2.1 净资产规模 Top 10（财务“体量之王”）",
+        "s2": "二、排行榜",
+        "s2_1": "2.1 净资产前十",
         "s2_1_insight": (
-            "洞察：净资产规模最大的机构往往也是多家庭债券（Multifamily Housing Revenue Bonds）"
-            "与单一家庭抵押贷款计划的“双引擎”玩家。规模本身不等于绩效，但意味着在联邦政策波动时"
-            "拥有更强的议价能力、更低的边际融资成本，以及承接大型可负担住房项目的组织能力。"
+            "按净资产计，佛罗里达、弗吉尼亚与加利福尼亚居前，其后为夏威夷与马萨诸塞。"
+            "大型机构通常同时开展多户住房收入债券与单户抵押贷款业务。"
+            "规模本身并非绩效打分，但往往对应更强的市场融资能力、更低的边际资金成本，"
+            "以及在联邦政策调整时承接大型可负担住房交易的更大空间。"
         ),
-        "s2_2": "2.2 净资产增长率 Top 10（财务“加速度”）",
+        "s2_2": "2.2 净资产增速前十",
         "s2_2_insight": (
-            "洞察：高增长州往往出现在三类情境——(1) 债券发行量反弹；(2) 贷款损失准备释放或公允价值回升；"
-            "(3) 州级首购/英雄/homeownership计划带来费用与利差改善。"
-            "但需警惕：若增长主要来自公允价值而非经营性盈余，则可持续性较弱。"
+            "净资产同比增速以路易斯安那最高；康涅狄格、印第安纳、俄亥俄、明尼苏达与犹他"
+            "亦录得约百分之十五至二十五的增幅。"
+            "较快增长常见于债券发行回升、贷款损失准备转回或公允价值收益，"
+            "以及州级购房支持计划带来的手续费与利差改善。"
+            "若增幅主要来自公允价值变动而非经营成果，持续性可能较弱。"
         ),
-        "s2_2_empty": "部分报告未披露可比的两年净资产增长率，本节数据随下载完成度提升而扩展。",
-        "s2_3": "2.3 总资产规模 Top 10（市场“压舱石”）",
-        "s2_4": "2.4 净资产率 Top 10（财务“缓冲垫”）",
+        "s2_2_empty": "部分报告未披露可比较的两年净资产变动；本节将随数据完善逐步充实。",
+        "s2_3": "2.3 总资产前十",
+        "s2_4": "2.4 净资产率前十",
         "s2_4_insight": (
-            "洞察：净资产率较高的机构，通常在资产减值、利率冲击、或债券再融资窗口收窄时拥有更大回旋余地。"
-            "对于政策制定者，这是“财政韧性”的硬指标，而非公关话术。"
+            "在较大型机构中，夏威夷与加利福尼亚的净资产率最高；"
+            "佛罗里达与路易斯安那亦明显高于同业常见水平。"
+            "体量较小的 HFA 因资产负债表结构更简单，比率也可能偏高，故宜将规模与比率一并阅读。"
+            "缓冲较厚者在面临资产减值、利率压力或再融资窗口收窄时，通常更具回旋余地。"
         ),
-        "s3": "三、区域与模式对比：五种“州级HFA原型”",
-        "s3_intro": "通过FY2025披露信息，可将州级HFA粗略分为五类原型，便于跨州对标：",
+        "s3": "三、经营模式：五类原型",
+        "s3_intro": "依据 FY2025 披露信息，可将州级 HFA 大致归纳为五类经营模式，便于跨州比较：",
         "prototypes": [
-            ("债券驱动型巨人", "如MI、IL、MN等，资产与负债同步扩张，高度依赖MHRB/SFR计划与GSE对接。"),
-            ("精悍增长型", "如NH、WV等，体量中等但净资产增长显著，适合研究“小州如何做大影响”。"),
-            ("综合州部门型", "如TX TDHCA，财务结构更偏行政基金+企业基金并行，披露口径需特别关注。"),
             (
-                "沿海高成本州",
-                "如CA、NY、WA，受房价与建筑成本制约，财务表现与项目管道高度相关。"
-                "FY2025 CalHFA 净资产约 $34.4 亿、总资产近 $50 亿，单一家庭 TBA 证券化超 $30 亿，"
-                "是全国体量最大的州级住房金融玩家之一。",
+                "债券融资型大型机构",
+                "以弗吉尼亚、明尼苏达、科罗拉多、康涅狄格、密歇根、伊利诺伊等为代表："
+                "资产规模较大，负债大体同步扩张，高度依赖多户／单户债券计划及政府支持企业（GSE）渠道。",
             ),
-            ("资源型/低密度州", "如WY、ND、SD，发行周期波动大，但单次项目对财务报表影响更显著。"),
+            (
+                "增速较快的中大型机构",
+                "以路易斯安那、康涅狄格、印第安纳、俄亥俄、犹他等为代表："
+                "在中大型资产负债表上实现净资产两位数增长，"
+                "可见发债周期与业务结构如何增强权益缓冲。",
+            ),
+            (
+                "州行政部门综合型",
+                "得州住房与社区事务部（TDHCA）较具代表性："
+                "政府活动基金与企业型基金并行，披露口径与合并范围需仔细甄别。",
+            ),
+            (
+                "高成本沿海市场",
+                "加利福尼亚与华盛顿较具代表性（纽约州机构层面专项披露仍较有限）。"
+                "财务结果与房价、营造成本及项目储备联系紧密。"
+                "FY2025，加州住房金融局（CalHFA）净资产约 34.4 亿美元、总资产近 50 亿美元，"
+                "仍属全美规模最大的州级住房金融机构之列。",
+            ),
+            (
+                "资源型与低密度州",
+                "怀俄明、北达科他、南达科他、新墨西哥等州发债节奏波动往往更大；"
+                "单个项目即可对财务报表产生显著影响。",
+            ),
         ],
-        "s4": "四、有趣洞察：数字背后的三条“反直觉”",
+        "s4": "四、如何理解这些数字",
         "insights": [
             (
-                "越大不一定越“安全”",
-                "资产规模最大的机构往往伴随最高的负债与衍生品敞口。"
-                "在FY2025利率路径仍不确定的环境下，应同时看净资产率与现金流，而非只看资产排名。",
+                "规模并不等于安全",
+                "资产规模最大的机构，往往也承担更高负债与衍生品敞口。"
+                "在利率路径仍不确定的背景下，净资产率与现金流能力应与资产排名同等重视。"
             ),
             (
-                "净资产增长≠多盖了房",
-                "会计准则下的净资产变动可能来自投资公允价值、损失准备、或债券溢价摊销。"
-                "评估住房产出，必须将ACFR与项目绩效报告（units financed, bonds issued）交叉验证。",
+                "净资产增长不等于住房增产",
+                "按通行会计准则（GAAP），净资产可因投资公允价值、损失准备或债券溢价摊销而变动，"
+                "并不必然对应新建住房。"
+                "住房产出宜对照项目绩效报告（融资套数、发债规模等）加以核验。"
             ),
             (
-                "披露质量本身就是竞争力",
-                "获得GFOA Certificate of Achievement的机构（如IL IHDA）通常披露更完整、"
-                "MD&A更可读——这降低了投资者成本，间接转化为更低的债券利差。",
+                "披露质量具有市场价值",
+                "获得美国政府财政官员协会（GFOA）“卓越成就证书”的机构（如伊利诺伊 IHDA）"
+                "通常发布更清晰的管理层讨论与分析（MD&A），"
+                "有助于降低投资者尽职调查成本，并可能间接支撑更紧的债券利差。"
             ),
         ],
-        "s5": "五、建设性建议：面向FY2026及以后的政策工具箱",
+        "s5": "五、面向 2026 财年及以后的建议",
         "recommendations": [
             (
-                "建立“HFA财务健康指数”（HFA Financial Health Index）",
-                "建议各州统一披露：净资产率、债务服务覆盖率、贷款逾期率、LIHTC项目管道、"
-                "以及单一家庭/多家庭占比。用一套可比指标替代碎片化叙述。",
+                "建立统一的 HFA 财务健康框架",
+                "统一披露净资产率、偿债覆盖率、贷款逾期率、LIHTC 项目储备，"
+                "以及单户与多户业务占比，以可比较指标替代零散叙述。",
             ),
             (
-                "把“可负担”写进资产负债表",
-                "在MD&A中增加单位成本指标：每100万美元债券融资对应的可负担单元数、"
-                "每单位净资产的首购家庭数。让财务报告与住房成果直接挂钩。",
+                "将可负担住房成效与财务报表衔接",
+                "建议在管理层讨论中增加单位成本指标："
+                "每百万美元债券融资对应的可负担住房套数，以及单位净资产所支持的首购家庭数，"
+                "使账面财务与住房成效相互对应。",
             ),
             (
-                "跨州联合发债与风险共担",
-                "对小型HFA，探索区域联合债券池（regional pool）以降低发行成本；"
-                "对大型HFA，探索灾难与利率风险的对冲工具标准化。",
+                "扩大区域联合发债与风险分担",
+                "小型 HFA 可通过区域联合债券池降低发行成本；"
+                "大型 HFA 则可推进灾害与利率风险对冲安排的标准化。",
             ),
             (
-                "数字化披露与机器可读数据",
-                "推动XBRL或结构化CSV附件，便于研究者、评级机构与联邦伙伴实时监测。"
-                "这将显著提升本报告一类分析的时效性与准确性。",
+                "发布机器可读披露数据",
+                "以 XBRL 或结构化 CSV 附件发布关键指标，"
+                "有助于研究者、评级机构与联邦合作方更及时地跟踪各州 HFA。",
             ),
             (
-                "关注“中间缺失”市场（Missing Middle）",
-                "建议在财务规划中单独追踪80%-120% AMI项目，"
-                "避免所有资源集中在极低收入与市场化两端，导致教师/护士等群体持续被挤出。",
+                "单独跟踪“中间层”住房（地区中位数收入的 80%—120%）",
+                "将中间收入项目作为独立规划类别，避免资源仅集中于极低收入端与完全市场化两端，"
+                "致使教师、护士等群体住房需求持续得不到满足。",
             ),
         ],
-        "s6": "六、数据覆盖与下载清单",
-        "s7": "七、尚未获取FY2025报告的州（需持续跟踪）",
+        "s6": "六、数据覆盖与文件清单",
+        "s7": "七、尚未取得 FY2025 报告的州",
         "s7_body": (
-            "以下 {count} 个州/特区截至本报告编制时，尚未在公开渠道定位到FY2025 ACFR/财务报表，"
-            "可能原因包括：审计尚未完成、仅发布FY2024、或报告托管在非标准页面。"
+            "截至本报告编制时，下列 {count} 个州或特区尚未在公开渠道查得 FY2025 综合年报或经审计财务报表。"
+            "常见原因包括：审计尚未完成、仅发布了 FY2024 报告，或文件托管于非常规网站。"
         ),
-        "appendix": "附录：方法论",
+        "appendix": "附录：方法说明",
         "appendix_body": (
-            "数据来源：各州HFA/州审计机构官网公开发布的FY2025 ACFR或经审计财务报表PDF。"
-            "指标提取：优先解析MD&A“Financial Highlights”及Statement of Net Position中的"
-            "Total assets / Total liabilities / Total net position（单位通常为千美元）。"
-            "限制：不同州披露口径（政府活动/企业活动/合并）存在差异，跨州比较应结合注释阅读。"
+            "数据来源为各州 HFA 或州审计机构公开发布的 FY2025 综合年报／经审计财务报表 PDF。"
+            "指标提取优先取自管理层讨论中的财务摘要，以及净资产表中的总资产、总负债与净资产"
+            "（金额单位多为千美元）。"
+            "各州披露口径不尽相同（政府活动、企业活动或合并列报），跨州比较宜结合附注阅读。"
         ),
-        "table_rank": ["排名", "州", "机构", "FY2025净资产", "FY2025总资产", "净资产率"],
-        "table_growth": ["排名", "州", "机构", "净资产变动", "增长率", "FY2025净资产"],
-        "table_assets": ["排名", "州", "机构", "FY2025总资产", "FY2025净资产"],
-        "table_ratio": ["排名", "州", "机构", "净资产率", "FY2025净资产", "FY2025总资产"],
+        "table_rank": ["排名", "州", "机构", "FY2025 净资产", "FY2025 总资产", "净资产率"],
+        "table_growth": ["排名", "州", "机构", "净资产变动", "增长率", "FY2025 净资产"],
+        "table_assets": ["排名", "州", "机构", "FY2025 总资产", "FY2025 净资产"],
+        "table_ratio": ["排名", "州", "机构", "净资产率", "FY2025 净资产", "FY2025 总资产"],
         "table_coverage": ["州", "机构", "状态", "文件名", "备注"],
-        "note_state_acfr": "文件为州级ACFR/合并报表，未纳入HFA专项排名",
-        "note_extract_fail": "未能自动提取核心指标，需人工复核PDF",
-        "note_missing_pdf": "未找到FY2025 PDF链接",
-        "note_extract_error": "文本提取失败: {err}",
+        "note_state_acfr": "系州级综合年报／合并报表，未纳入 HFA 专项排名",
+        "note_extract_fail": "核心指标未能自动提取，建议人工核对 PDF",
+        "note_missing_pdf": "未找到 FY2025 PDF 链接",
+        "note_extract_error": "文本提取失败：{err}",
+        "note_manual_fill": "指标已据机构综合年报／财务报表补全",
+        "note_growth_audit": "增速已对照综合年报人工核验",
+        "note_thousands": "原报告以千美元列示，金额已相应调整",
+        "note_scanned_fill": "指标已据经审计财务报表（扫描件）管理层讨论补全",
     }
 
 
@@ -870,15 +1040,25 @@ def _translate_notes(notes: list[str], language: str) -> str:
     t = _report_copy(language)
     translated: list[str] = []
     for note in notes:
-        if "州级ACFR" in note or "state-level ACFR" in note.lower():
+        low = note.lower()
+        if "州级ACFR" in note or "州级综合年报" in note or "state-level acfr" in low:
             translated.append(t["note_state_acfr"])
-        elif "未能自动提取" in note or "not auto-extracted" in note.lower():
+        elif "未能自动提取" in note or "not auto-extracted" in low:
             translated.append(t["note_extract_fail"])
-        elif "未找到FY2025" in note or "PDF link not found" in note:
+        elif "未找到FY2025" in note or "未找到 FY2025" in note or "pdf link not found" in low:
             translated.append(t["note_missing_pdf"])
-        elif note.startswith("文本提取失败"):
+        elif note.startswith("文本提取失败") or low.startswith("text extraction failed"):
             err = note.split(":", 1)[-1].strip()
             translated.append(t["note_extract_error"].format(err=err))
+        elif "filled from" in low or "map coverage" in low:
+            if "scanned" in low or "md&a" in low:
+                translated.append(t.get("note_scanned_fill", note))
+            else:
+                translated.append(t.get("note_manual_fill", note))
+        elif "growth audit" in low or "manual verification" in low:
+            translated.append(t.get("note_growth_audit", note))
+        elif "in thousands" in low or "manual override" in low:
+            translated.append(t.get("note_thousands", note))
         else:
             translated.append(note)
     return "; ".join(translated)

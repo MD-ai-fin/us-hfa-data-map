@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:01:19.685510+00:00",
+  "generated_at": "2026-08-08T00:08:58.349817+00:00",
   "sources": {
     "hfa_financials": "FY2024/FY2025 State Housing Finance Authority ACFR reports",
     "hfa_staff_acfr": "HFA ACFR full-time employee/FTE disclosures when reported",
@@ -8,7 +8,8 @@
     "population": "U.S. Census Bureau Population Estimates Program (Vintage 2024/2025)",
     "personal_income": "U.S. Bureau of Economic Analysis SAINC4 (State Personal Income)",
     "unemployment": "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
-    "poverty_median_home": "U.S. Census Bureau ACS 1-year estimates"
+    "poverty_median_home": "U.S. Census Bureau ACS 1-year estimates",
+    "homeless_count": "HUD AHAR Point-in-Time Estimates by State (January 2025)"
   },
   "states": [
     {
@@ -25,11 +26,12 @@
         "personal_income_per_capita": 57251,
         "unemployment_rate": 3.1,
         "poverty_rate": 15.4,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 4601
       },
       "2025": {
         "net_position": 516018000,
-        "net_position_growth_pct": 6.53,
+        "net_position_growth_pct": 6.532748387096775,
         "total_assets": 1364901000,
         "total_liabilities": 846539000,
         "families_served": null,
@@ -40,11 +42,12 @@
         "personal_income_per_capita": 57251,
         "unemployment_rate": 3.1,
         "poverty_rate": 15.4,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 4137
       },
       "state": "AL",
       "name_en": "Alabama",
-      "name_zh": "阿拉巴马州",
+      "name_zh": "\u963f\u62c9\u5df4\u9a6c\u5dde",
       "hfa_name": "Alabama Housing Finance Authority",
       "hfa_abbr": "AHFA",
       "hfa_status": "downloaded",
@@ -65,11 +68,12 @@
         "personal_income_per_capita": 76606,
         "unemployment_rate": 4.6,
         "poverty_rate": 10.4,
-        "median_home_price": 355000
+        "median_home_price": 355000,
+        "homeless_count": 2686
       },
       "2025": {
         "net_position": 492441000,
-        "net_position_growth_pct": -97.4082052631579,
+        "net_position_growth_pct": null,
         "total_assets": null,
         "total_liabilities": null,
         "families_served": null,
@@ -80,11 +84,12 @@
         "personal_income_per_capita": 76606,
         "unemployment_rate": 4.6,
         "poverty_rate": 10.4,
-        "median_home_price": 355000
+        "median_home_price": 355000,
+        "homeless_count": 2655
       },
       "state": "AK",
       "name_en": "Alaska",
-      "name_zh": "阿拉斯加州",
+      "name_zh": "\u963f\u62c9\u65af\u52a0\u5dde",
       "hfa_name": "Alaska Housing Finance Corporation",
       "hfa_abbr": "AHFC",
       "hfa_status": "downloaded",
@@ -105,7 +110,8 @@
         "personal_income_per_capita": 66024,
         "unemployment_rate": 3.6,
         "poverty_rate": 12.5,
-        "median_home_price": 385000
+        "median_home_price": 385000,
+        "homeless_count": 14737
       },
       "2025": {
         "net_position": null,
@@ -120,11 +126,12 @@
         "personal_income_per_capita": 66024,
         "unemployment_rate": 3.6,
         "poverty_rate": 12.5,
-        "median_home_price": 385000
+        "median_home_price": 385000,
+        "homeless_count": 15259
       },
       "state": "AZ",
       "name_en": "Arizona",
-      "name_zh": "亚利桑那州",
+      "name_zh": "\u4e9a\u5229\u6851\u90a3\u5dde",
       "hfa_name": "Arizona Department of Housing",
       "hfa_abbr": "ADOH",
       "hfa_status": "missing",
@@ -133,10 +140,10 @@
     },
     {
       "2024": {
-        "net_position": 146205000,
+        "net_position": 505820000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": 71000000,
+        "total_assets": 1008195000,
+        "total_liabilities": 502172000,
         "families_served": null,
         "staff_count": 40,
         "staff_count_source": "Arkansas Development Finance Authority",
@@ -145,13 +152,14 @@
         "personal_income_per_capita": 59172,
         "unemployment_rate": 3.5,
         "poverty_rate": 15.8,
-        "median_home_price": 178000
+        "median_home_price": 178000,
+        "homeless_count": 2783
       },
       "2025": {
         "net_position": 530822000,
-        "net_position_growth_pct": 263.0669265756985,
-        "total_assets": 1143461000,
-        "total_liabilities": 612639000,
+        "net_position_growth_pct": 5.1,
+        "total_assets": 1142207000,
+        "total_liabilities": 611156000,
         "families_served": null,
         "staff_count": 43,
         "staff_count_source": "ACFR FY2025",
@@ -160,11 +168,12 @@
         "personal_income_per_capita": 59172,
         "unemployment_rate": 3.5,
         "poverty_rate": 15.8,
-        "median_home_price": 178000
+        "median_home_price": 178000,
+        "homeless_count": 2720
       },
       "state": "AR",
       "name_en": "Arkansas",
-      "name_zh": "阿肯色州",
+      "name_zh": "\u963f\u80af\u8272\u5dde",
       "hfa_name": "Arkansas Development Finance Authority",
       "hfa_abbr": "ADFA",
       "hfa_status": "downloaded",
@@ -185,7 +194,8 @@
         "personal_income_per_capita": 86378,
         "unemployment_rate": 5.3,
         "poverty_rate": 11,
-        "median_home_price": 725000
+        "median_home_price": 725000,
+        "homeless_count": 187084
       },
       "2025": {
         "net_position": 3442918000,
@@ -200,11 +210,12 @@
         "personal_income_per_capita": 86378,
         "unemployment_rate": 5.3,
         "poverty_rate": 11,
-        "median_home_price": 725000
+        "median_home_price": 725000,
+        "homeless_count": 181934
       },
       "state": "CA",
       "name_en": "California",
-      "name_zh": "加利福尼亚州",
+      "name_zh": "\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde",
       "hfa_name": "California Housing Finance Agency",
       "hfa_abbr": "CalHFA",
       "hfa_status": "downloaded",
@@ -225,11 +236,12 @@
         "personal_income_per_capita": 82625,
         "unemployment_rate": 4.3,
         "poverty_rate": 9.6,
-        "median_home_price": 550000
+        "median_home_price": 550000,
+        "homeless_count": 18715
       },
       "2025": {
         "net_position": 971675000,
-        "net_position_growth_pct": 17.28618589801621,
+        "net_position_growth_pct": 17.3,
         "total_assets": 8385309000,
         "total_liabilities": 7413634000,
         "families_served": null,
@@ -240,11 +252,12 @@
         "personal_income_per_capita": 82625,
         "unemployment_rate": 4.3,
         "poverty_rate": 9.6,
-        "median_home_price": 550000
+        "median_home_price": 550000,
+        "homeless_count": 16687
       },
       "state": "CO",
       "name_en": "Colorado",
-      "name_zh": "科罗拉多州",
+      "name_zh": "\u79d1\u7f57\u62c9\u591a\u5dde",
       "hfa_name": "Colorado Housing and Finance Authority",
       "hfa_abbr": "CHFA",
       "hfa_status": "downloaded",
@@ -253,10 +266,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 764506000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 7043493000,
+        "total_liabilities": 6115720000,
         "families_served": null,
         "staff_count": 148,
         "staff_count_source": "Connecticut quasi-public payroll",
@@ -265,13 +278,14 @@
         "personal_income_per_capita": 95083,
         "unemployment_rate": 3.2,
         "poverty_rate": 9.6,
-        "median_home_price": 375000
+        "median_home_price": 375000,
+        "homeless_count": 3410
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": -6.25,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 957039000,
+        "net_position_growth_pct": 25.2,
+        "total_assets": 8122355000,
+        "total_liabilities": 6986013000,
         "families_served": null,
         "staff_count": 148,
         "staff_count_source": "Connecticut quasi-public payroll",
@@ -280,11 +294,12 @@
         "personal_income_per_capita": 95083,
         "unemployment_rate": 3.2,
         "poverty_rate": 9.6,
-        "median_home_price": 375000
+        "median_home_price": 375000,
+        "homeless_count": 3735
       },
       "state": "CT",
       "name_en": "Connecticut",
-      "name_zh": "康涅狄格州",
+      "name_zh": "\u5eb7\u6d85\u72c4\u683c\u5dde",
       "hfa_name": "Connecticut Housing Finance Authority",
       "hfa_abbr": "CHFA",
       "hfa_status": "downloaded",
@@ -305,7 +320,8 @@
         "personal_income_per_capita": 68177,
         "unemployment_rate": 3.7,
         "poverty_rate": 10.9,
-        "median_home_price": 350000
+        "median_home_price": 350000,
+        "homeless_count": 1358
       },
       "2025": {
         "net_position": 732459779,
@@ -320,11 +336,12 @@
         "personal_income_per_capita": 68177,
         "unemployment_rate": 3.7,
         "poverty_rate": 10.9,
-        "median_home_price": 350000
+        "median_home_price": 350000,
+        "homeless_count": 1573
       },
       "state": "DE",
       "name_en": "Delaware",
-      "name_zh": "特拉华州",
+      "name_zh": "\u7279\u62c9\u534e\u5dde",
       "hfa_name": "Delaware State Housing Authority",
       "hfa_abbr": "DSHA",
       "hfa_status": "downloaded",
@@ -345,7 +362,8 @@
         "personal_income_per_capita": 112944,
         "unemployment_rate": 5.2,
         "poverty_rate": 14.8,
-        "median_home_price": 680000
+        "median_home_price": 680000,
+        "homeless_count": 5616
       },
       "2025": {
         "net_position": 211524332,
@@ -360,11 +378,12 @@
         "personal_income_per_capita": 112944,
         "unemployment_rate": 5.2,
         "poverty_rate": 14.8,
-        "median_home_price": 680000
+        "median_home_price": 680000,
+        "homeless_count": 5138
       },
       "state": "DC",
       "name_en": "District of Columbia",
-      "name_zh": "哥伦比亚特区",
+      "name_zh": "\u54e5\u4f26\u6bd4\u4e9a\u7279\u533a",
       "hfa_name": "DC Housing Finance Agency",
       "hfa_abbr": "DCHFA",
       "hfa_status": "downloaded",
@@ -385,7 +404,8 @@
         "personal_income_per_capita": 73340,
         "unemployment_rate": 3.4,
         "poverty_rate": 12.3,
-        "median_home_price": 365000
+        "median_home_price": 365000,
+        "homeless_count": 31362
       },
       "2025": {
         "net_position": 4771085657,
@@ -400,11 +420,12 @@
         "personal_income_per_capita": 73340,
         "unemployment_rate": 3.4,
         "poverty_rate": 12.3,
-        "median_home_price": 365000
+        "median_home_price": 365000,
+        "homeless_count": 27888
       },
       "state": "FL",
       "name_en": "Florida",
-      "name_zh": "佛罗里达州",
+      "name_zh": "\u4f5b\u7f57\u91cc\u8fbe\u5dde",
       "hfa_name": "Florida Housing Finance Corporation",
       "hfa_abbr": "FloridaHousing",
       "hfa_status": "downloaded",
@@ -425,7 +446,8 @@
         "personal_income_per_capita": 62875,
         "unemployment_rate": 3.5,
         "poverty_rate": 13.7,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 12290
       },
       "2025": {
         "net_position": 345578000,
@@ -440,11 +462,12 @@
         "personal_income_per_capita": 62875,
         "unemployment_rate": 3.5,
         "poverty_rate": 13.7,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 12284
       },
       "state": "GA",
       "name_en": "Georgia",
-      "name_zh": "佐治亚州",
+      "name_zh": "\u4f50\u6cbb\u4e9a\u5dde",
       "hfa_name": "Georgia Housing and Finance Authority",
       "hfa_abbr": "GHFA",
       "hfa_status": "downloaded",
@@ -456,7 +479,7 @@
         "net_position": 2330519000,
         "net_position_growth_pct": null,
         "total_assets": 2389133000,
-        "total_liabilities": null,
+        "total_liabilities": 58614000,
         "families_served": null,
         "staff_count": 68,
         "staff_count_source": "HHFDC Annual Report",
@@ -465,7 +488,8 @@
         "personal_income_per_capita": 71573,
         "unemployment_rate": 3,
         "poverty_rate": 9.5,
-        "median_home_price": 820000
+        "median_home_price": 820000,
+        "homeless_count": 11637
       },
       "2025": {
         "net_position": 2653188757,
@@ -480,11 +504,12 @@
         "personal_income_per_capita": 71573,
         "unemployment_rate": 3,
         "poverty_rate": 9.5,
-        "median_home_price": 820000
+        "median_home_price": 820000,
+        "homeless_count": 6828
       },
       "state": "HI",
       "name_en": "Hawaii",
-      "name_zh": "夏威夷州",
+      "name_zh": "\u590f\u5a01\u5937\u5dde",
       "hfa_name": "Hawaii Housing Finance and Development Corporation",
       "hfa_abbr": "HHFDC",
       "hfa_status": "downloaded",
@@ -505,7 +530,8 @@
         "personal_income_per_capita": 62346,
         "unemployment_rate": 3.7,
         "poverty_rate": 11.2,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2750
       },
       "2025": {
         "net_position": 716007000,
@@ -520,11 +546,12 @@
         "personal_income_per_capita": 62346,
         "unemployment_rate": 3.7,
         "poverty_rate": 11.2,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2697
       },
       "state": "ID",
       "name_en": "Idaho",
-      "name_zh": "爱达荷州",
+      "name_zh": "\u7231\u8fbe\u8377\u5dde",
       "hfa_name": "Idaho Housing and Finance Association",
       "hfa_abbr": "IHFA",
       "hfa_status": "downloaded",
@@ -545,7 +572,8 @@
         "personal_income_per_capita": 74564,
         "unemployment_rate": 5,
         "poverty_rate": 11.9,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 25832
       },
       "2025": {
         "net_position": 1533700000,
@@ -560,11 +588,12 @@
         "personal_income_per_capita": 74564,
         "unemployment_rate": 5,
         "poverty_rate": 11.9,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 14576
       },
       "state": "IL",
       "name_en": "Illinois",
-      "name_zh": "伊利诺伊州",
+      "name_zh": "\u4f0a\u5229\u8bfa\u4f0a\u5dde",
       "hfa_name": "Illinois Housing Development Authority",
       "hfa_abbr": "IHDA",
       "hfa_status": "downloaded",
@@ -585,7 +614,8 @@
         "personal_income_per_capita": 63980,
         "unemployment_rate": 4.2,
         "poverty_rate": 11.7,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 6285
       },
       "2025": {
         "net_position": 599528335,
@@ -600,11 +630,12 @@
         "personal_income_per_capita": 63980,
         "unemployment_rate": 4.2,
         "poverty_rate": 11.7,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 6675
       },
       "state": "IN",
       "name_en": "Indiana",
-      "name_zh": "印第安纳州",
+      "name_zh": "\u5370\u7b2c\u5b89\u7eb3\u5dde",
       "hfa_name": "Indiana Housing and Community Development Authority",
       "hfa_abbr": "IHCDA",
       "hfa_status": "downloaded",
@@ -613,10 +644,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 1530373000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 5626808000,
+        "total_liabilities": 4071413000,
         "families_served": 248,
         "staff_count": 90,
         "staff_count_source": "ACFR FY2024",
@@ -625,13 +656,14 @@
         "personal_income_per_capita": 65448,
         "unemployment_rate": 3,
         "poverty_rate": 10.5,
-        "median_home_price": 205000
+        "median_home_price": 205000,
+        "homeless_count": 2631
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": -53.80952380952381,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 1664618000,
+        "net_position_growth_pct": 8.8,
+        "total_assets": 6173161000,
+        "total_liabilities": 4487552000,
         "families_served": 600,
         "staff_count": 89,
         "staff_count_source": "ACFR FY2025",
@@ -640,11 +672,12 @@
         "personal_income_per_capita": 65448,
         "unemployment_rate": 3,
         "poverty_rate": 10.5,
-        "median_home_price": 205000
+        "median_home_price": 205000,
+        "homeless_count": 2816
       },
       "state": "IA",
       "name_en": "Iowa",
-      "name_zh": "艾奥瓦州",
+      "name_zh": "\u827e\u5965\u74e6\u5dde",
       "hfa_name": "Iowa Finance Authority",
       "hfa_abbr": "IFA",
       "hfa_status": "downloaded",
@@ -653,7 +686,7 @@
     },
     {
       "2024": {
-        "net_position": 1493000000,
+        "net_position": 74066000,
         "net_position_growth_pct": null,
         "total_assets": 1500000000,
         "total_liabilities": 7000000,
@@ -665,13 +698,14 @@
         "personal_income_per_capita": 65975,
         "unemployment_rate": 3.6,
         "poverty_rate": 11,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 2567
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 78666000,
+        "net_position_growth_pct": 6.2,
+        "total_assets": 96859000,
+        "total_liabilities": 20134000,
         "families_served": 6603370,
         "staff_count": 28,
         "staff_count_source": "LinkedIn",
@@ -680,11 +714,12 @@
         "personal_income_per_capita": 65975,
         "unemployment_rate": 3.6,
         "poverty_rate": 11,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 2406
       },
       "state": "KS",
       "name_en": "Kansas",
-      "name_zh": "堪萨斯州",
+      "name_zh": "\u582a\u8428\u65af\u5dde",
       "hfa_name": "Kansas Housing Resources Corporation",
       "hfa_abbr": "KHRC",
       "hfa_status": "downloaded",
@@ -693,10 +728,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 486274000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 1180300000,
+        "total_liabilities": 694000000,
         "families_served": null,
         "staff_count": 132,
         "staff_count_source": "LinkedIn",
@@ -705,13 +740,14 @@
         "personal_income_per_capita": 58310,
         "unemployment_rate": 5.1,
         "poverty_rate": 15.4,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 5231
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 519377000,
+        "net_position_growth_pct": 6.8,
+        "total_assets": 1434509000,
+        "total_liabilities": 915132000,
         "families_served": null,
         "staff_count": 132,
         "staff_count_source": "LinkedIn",
@@ -720,11 +756,12 @@
         "personal_income_per_capita": 58310,
         "unemployment_rate": 5.1,
         "poverty_rate": 15.4,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 5789
       },
       "state": "KY",
       "name_en": "Kentucky",
-      "name_zh": "肯塔基州",
+      "name_zh": "\u80af\u5854\u57fa\u5dde",
       "hfa_name": "Kentucky Housing Corporation",
       "hfa_abbr": "KHC",
       "hfa_status": "downloaded",
@@ -745,7 +782,8 @@
         "personal_income_per_capita": 61667,
         "unemployment_rate": 4.4,
         "poverty_rate": 18.9,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 3469
       },
       "2025": {
         "net_position": 821730000,
@@ -760,11 +798,12 @@
         "personal_income_per_capita": 61667,
         "unemployment_rate": 4.4,
         "poverty_rate": 18.9,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 3688
       },
       "state": "LA",
       "name_en": "Louisiana",
-      "name_zh": "路易斯安那州",
+      "name_zh": "\u8def\u6613\u65af\u5b89\u90a3\u5dde",
       "hfa_name": "Louisiana Housing Corporation",
       "hfa_abbr": "LHC",
       "hfa_status": "downloaded",
@@ -773,10 +812,10 @@
     },
     {
       "2024": {
-        "net_position": 3280000000,
+        "net_position": 475829000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": 7000000000,
+        "total_assets": 3800000000,
+        "total_liabilities": 520000000,
         "families_served": null,
         "staff_count": 59,
         "staff_count_source": "LinkedIn",
@@ -785,11 +824,12 @@
         "personal_income_per_capita": 68764,
         "unemployment_rate": 3.1,
         "poverty_rate": 10.4,
-        "median_home_price": 325000
+        "median_home_price": 325000,
+        "homeless_count": 2702
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": 204.8780487804878,
+        "net_position": 508535000,
+        "net_position_growth_pct": 6.9,
         "total_assets": null,
         "total_liabilities": null,
         "families_served": null,
@@ -800,11 +840,12 @@
         "personal_income_per_capita": 68764,
         "unemployment_rate": 3.1,
         "poverty_rate": 10.4,
-        "median_home_price": 325000
+        "median_home_price": 325000,
+        "homeless_count": 2413
       },
       "state": "ME",
       "name_en": "Maine",
-      "name_zh": "缅因州",
+      "name_zh": "\u7f05\u56e0\u5dde",
       "hfa_name": "MaineHousing",
       "hfa_abbr": "MaineHousing",
       "hfa_status": "downloaded",
@@ -825,7 +866,8 @@
         "personal_income_per_capita": 79486,
         "unemployment_rate": 3,
         "poverty_rate": 9.1,
-        "median_home_price": 420000
+        "median_home_price": 420000,
+        "homeless_count": 6069
       },
       "2025": {
         "net_position": 786372000,
@@ -840,11 +882,12 @@
         "personal_income_per_capita": 79486,
         "unemployment_rate": 3,
         "poverty_rate": 9.1,
-        "median_home_price": 420000
+        "median_home_price": 420000,
+        "homeless_count": 7120
       },
       "state": "MD",
       "name_en": "Maryland",
-      "name_zh": "马里兰州",
+      "name_zh": "\u9a6c\u91cc\u5170\u5dde",
       "hfa_name": "Maryland Community Development Administration",
       "hfa_abbr": "CDA",
       "hfa_status": "downloaded",
@@ -865,7 +908,8 @@
         "personal_income_per_capita": 93575,
         "unemployment_rate": 4,
         "poverty_rate": 9.9,
-        "median_home_price": 590000
+        "median_home_price": 590000,
+        "homeless_count": 29360
       },
       "2025": {
         "net_position": 2083948000,
@@ -880,11 +924,12 @@
         "personal_income_per_capita": 93575,
         "unemployment_rate": 4,
         "poverty_rate": 9.9,
-        "median_home_price": 590000
+        "median_home_price": 590000,
+        "homeless_count": 28311
       },
       "state": "MA",
       "name_en": "Massachusetts",
-      "name_zh": "马萨诸塞州",
+      "name_zh": "\u9a6c\u8428\u8bf8\u585e\u5dde",
       "hfa_name": "MassHousing",
       "hfa_abbr": "MassHousing",
       "hfa_status": "downloaded",
@@ -905,7 +950,8 @@
         "personal_income_per_capita": 63945,
         "unemployment_rate": 4.7,
         "poverty_rate": 13.4,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 9739
       },
       "2025": {
         "net_position": 1292050000,
@@ -920,11 +966,12 @@
         "personal_income_per_capita": 63945,
         "unemployment_rate": 4.7,
         "poverty_rate": 13.4,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 10155
       },
       "state": "MI",
       "name_en": "Michigan",
-      "name_zh": "密歇根州",
+      "name_zh": "\u5bc6\u6b47\u6839\u5dde",
       "hfa_name": "Michigan State Housing Development Authority",
       "hfa_abbr": "MSHDA",
       "hfa_status": "downloaded",
@@ -945,7 +992,8 @@
         "personal_income_per_capita": 75548,
         "unemployment_rate": 3,
         "poverty_rate": 9.1,
-        "median_home_price": 315000
+        "median_home_price": 315000,
+        "homeless_count": 9201
       },
       "2025": {
         "net_position": 1649443000,
@@ -960,11 +1008,12 @@
         "personal_income_per_capita": 75548,
         "unemployment_rate": 3,
         "poverty_rate": 9.1,
-        "median_home_price": 315000
+        "median_home_price": 315000,
+        "homeless_count": 8392
       },
       "state": "MN",
       "name_en": "Minnesota",
-      "name_zh": "明尼苏达州",
+      "name_zh": "\u660e\u5c3c\u82cf\u8fbe\u5dde",
       "hfa_name": "Minnesota Housing Finance Agency",
       "hfa_abbr": "MNHousing",
       "hfa_status": "downloaded",
@@ -985,7 +1034,8 @@
         "personal_income_per_capita": 51948,
         "unemployment_rate": 3.2,
         "poverty_rate": 18.8,
-        "median_home_price": 175000
+        "median_home_price": 175000,
+        "homeless_count": 1041
       },
       "2025": {
         "net_position": null,
@@ -1000,11 +1050,12 @@
         "personal_income_per_capita": 51948,
         "unemployment_rate": 3.2,
         "poverty_rate": 18.8,
-        "median_home_price": 175000
+        "median_home_price": 175000,
+        "homeless_count": 1245
       },
       "state": "MS",
       "name_en": "Mississippi",
-      "name_zh": "密西西比州",
+      "name_zh": "\u5bc6\u897f\u897f\u6bd4\u5dde",
       "hfa_name": "Mississippi Home Corporation",
       "hfa_abbr": "MHC",
       "hfa_status": "missing",
@@ -1013,10 +1064,10 @@
     },
     {
       "2024": {
-        "net_position": 2000000,
+        "net_position": 664589000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 2461129000,
+        "total_liabilities": 1806271000,
         "families_served": null,
         "staff_count": 42,
         "staff_count_source": "LinkedIn",
@@ -1025,13 +1076,14 @@
         "personal_income_per_capita": 64940,
         "unemployment_rate": 3.7,
         "poverty_rate": 12.2,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 5357
       },
       "2025": {
         "net_position": 708007000,
-        "net_position_growth_pct": 35300.35,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position_growth_pct": 6.5,
+        "total_assets": 3192551000,
+        "total_liabilities": 2491534000,
         "families_served": null,
         "staff_count": 42,
         "staff_count_source": "LinkedIn",
@@ -1040,11 +1092,12 @@
         "personal_income_per_capita": 64940,
         "unemployment_rate": 3.7,
         "poverty_rate": 12.2,
-        "median_home_price": 225000
+        "median_home_price": 225000,
+        "homeless_count": 5943
       },
       "state": "MO",
       "name_en": "Missouri",
-      "name_zh": "密苏里州",
+      "name_zh": "\u5bc6\u82cf\u91cc\u5dde",
       "hfa_name": "Missouri Housing Development Commission",
       "hfa_abbr": "MHDC",
       "hfa_status": "downloaded",
@@ -1065,7 +1118,8 @@
         "personal_income_per_capita": 69220,
         "unemployment_rate": 3,
         "poverty_rate": 12.1,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2008
       },
       "2025": {
         "net_position": 175942443,
@@ -1080,11 +1134,12 @@
         "personal_income_per_capita": 69220,
         "unemployment_rate": 3,
         "poverty_rate": 12.1,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2263
       },
       "state": "MT",
       "name_en": "Montana",
-      "name_zh": "蒙大拿州",
+      "name_zh": "\u8499\u5927\u62ff\u5dde",
       "hfa_name": "Montana Housing",
       "hfa_abbr": "MTHousing",
       "hfa_status": "downloaded",
@@ -1093,10 +1148,10 @@
     },
     {
       "2024": {
-        "net_position": 643937023,
+        "net_position": 432973000,
         "net_position_growth_pct": null,
-        "total_assets": 2256453000,
-        "total_liabilities": 1612515977,
+        "total_assets": 2249850000,
+        "total_liabilities": 1805585000,
         "families_served": null,
         "staff_count": 30,
         "staff_count_source": "LinkedIn",
@@ -1105,13 +1160,14 @@
         "personal_income_per_capita": 72696,
         "unemployment_rate": 2.8,
         "poverty_rate": 9.9,
-        "median_home_price": 235000
+        "median_home_price": 235000,
+        "homeless_count": 2720
       },
       "2025": {
         "net_position": 454474000,
-        "net_position_growth_pct": -97.88616744186047,
+        "net_position_growth_pct": 5,
         "total_assets": 2910591000,
-        "total_liabilities": 2456117000,
+        "total_liabilities": 2447488000,
         "families_served": null,
         "staff_count": 30,
         "staff_count_source": "LinkedIn",
@@ -1120,11 +1176,12 @@
         "personal_income_per_capita": 72696,
         "unemployment_rate": 2.8,
         "poverty_rate": 9.9,
-        "median_home_price": 235000
+        "median_home_price": 235000,
+        "homeless_count": 2656
       },
       "state": "NE",
       "name_en": "Nebraska",
-      "name_zh": "内布拉斯加州",
+      "name_zh": "\u5185\u5e03\u62c9\u65af\u52a0\u5dde",
       "hfa_name": "Nebraska Investment Finance Authority",
       "hfa_abbr": "NIFA",
       "hfa_status": "downloaded",
@@ -1145,7 +1202,8 @@
         "personal_income_per_capita": 70104,
         "unemployment_rate": 5.6,
         "poverty_rate": 12.6,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 10106
       },
       "2025": {
         "net_position": null,
@@ -1160,11 +1218,12 @@
         "personal_income_per_capita": 70104,
         "unemployment_rate": 5.6,
         "poverty_rate": 12.6,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 9905
       },
       "state": "NV",
       "name_en": "Nevada",
-      "name_zh": "内华达州",
+      "name_zh": "\u5185\u534e\u8fbe\u5dde",
       "hfa_name": "Nevada Housing Division",
       "hfa_abbr": "NHD",
       "hfa_status": "missing",
@@ -1185,7 +1244,8 @@
         "personal_income_per_capita": 83222,
         "unemployment_rate": 2.6,
         "poverty_rate": 7.2,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2245
       },
       "2025": {
         "net_position": null,
@@ -1200,11 +1260,12 @@
         "personal_income_per_capita": 83222,
         "unemployment_rate": 2.6,
         "poverty_rate": 7.2,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2406
       },
       "state": "NH",
       "name_en": "New Hampshire",
-      "name_zh": "新罕布什尔州",
+      "name_zh": "\u65b0\u7f55\u5e03\u4ec0\u5c14\u5dde",
       "hfa_name": "New Hampshire Housing Finance Authority",
       "hfa_abbr": "NHHousing",
       "hfa_status": "missing",
@@ -1225,7 +1286,8 @@
         "personal_income_per_capita": 84844,
         "unemployment_rate": 4.5,
         "poverty_rate": 9.5,
-        "median_home_price": 480000
+        "median_home_price": 480000,
+        "homeless_count": 12762
       },
       "2025": {
         "net_position": null,
@@ -1240,11 +1302,12 @@
         "personal_income_per_capita": 84844,
         "unemployment_rate": 4.5,
         "poverty_rate": 9.5,
-        "median_home_price": 480000
+        "median_home_price": 480000,
+        "homeless_count": 13714
       },
       "state": "NJ",
       "name_en": "New Jersey",
-      "name_zh": "新泽西州",
+      "name_zh": "\u65b0\u6cfd\u897f\u5dde",
       "hfa_name": "New Jersey Housing and Mortgage Finance Agency",
       "hfa_abbr": "NJHMFA",
       "hfa_status": "missing",
@@ -1265,13 +1328,14 @@
         "personal_income_per_capita": 58345,
         "unemployment_rate": 4.1,
         "poverty_rate": 17.6,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 4631
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 323285000,
+        "net_position_growth_pct": 11.4,
+        "total_assets": 2716367000,
+        "total_liabilities": 2393131000,
         "families_served": null,
         "staff_count": 120,
         "staff_count_source": "Housing New Mexico",
@@ -1280,11 +1344,12 @@
         "personal_income_per_capita": 58345,
         "unemployment_rate": 4.1,
         "poverty_rate": 17.6,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 4683
       },
       "state": "NM",
       "name_en": "New Mexico",
-      "name_zh": "新墨西哥州",
+      "name_zh": "\u65b0\u58a8\u897f\u54e5\u5dde",
       "hfa_name": "New Mexico Mortgage Finance Authority",
       "hfa_abbr": "MFA",
       "hfa_status": "downloaded",
@@ -1305,7 +1370,8 @@
         "personal_income_per_capita": 84978,
         "unemployment_rate": 4.3,
         "poverty_rate": 13.9,
-        "median_home_price": 450000
+        "median_home_price": 450000,
+        "homeless_count": 158019
       },
       "2025": {
         "net_position": null,
@@ -1320,11 +1386,12 @@
         "personal_income_per_capita": 84978,
         "unemployment_rate": 4.3,
         "poverty_rate": 13.9,
-        "median_home_price": 450000
+        "median_home_price": 450000,
+        "homeless_count": 145560
       },
       "state": "NY",
       "name_en": "New York",
-      "name_zh": "纽约州",
+      "name_zh": "\u7ebd\u7ea6\u5dde",
       "hfa_name": "New York State Homes and Community Renewal",
       "hfa_abbr": "HCR",
       "hfa_status": "missing",
@@ -1345,7 +1412,8 @@
         "personal_income_per_capita": 65598,
         "unemployment_rate": 3.6,
         "poverty_rate": 12.9,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 11626
       },
       "2025": {
         "net_position": 979793000,
@@ -1360,11 +1428,12 @@
         "personal_income_per_capita": 65598,
         "unemployment_rate": 3.6,
         "poverty_rate": 12.9,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 15512
       },
       "state": "NC",
       "name_en": "North Carolina",
-      "name_zh": "北卡罗来纳州",
+      "name_zh": "\u5317\u5361\u7f57\u6765\u7eb3\u5dde",
       "hfa_name": "North Carolina Housing Finance Agency",
       "hfa_abbr": "NCHFA",
       "hfa_status": "downloaded",
@@ -1373,10 +1442,10 @@
     },
     {
       "2024": {
-        "net_position": 302024000,
+        "net_position": 256450000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": 30000000,
+        "total_assets": 2255841000,
+        "total_liabilities": 1978564000,
         "families_served": null,
         "staff_count": 17,
         "staff_count_source": "LinkedIn",
@@ -1385,13 +1454,14 @@
         "personal_income_per_capita": 72037,
         "unemployment_rate": 2.4,
         "poverty_rate": 10.4,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 865
       },
       "2025": {
-        "net_position": 454474000,
-        "net_position_growth_pct": 50.47612110295871,
-        "total_assets": 2910591000,
-        "total_liabilities": 2456117000,
+        "net_position": 280805000,
+        "net_position_growth_pct": 9,
+        "total_assets": 2818952000,
+        "total_liabilities": 2521600000,
         "families_served": null,
         "staff_count": 17,
         "staff_count_source": "LinkedIn",
@@ -1400,11 +1470,12 @@
         "personal_income_per_capita": 72037,
         "unemployment_rate": 2.4,
         "poverty_rate": 10.4,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 861
       },
       "state": "ND",
       "name_en": "North Dakota",
-      "name_zh": "北达科他州",
+      "name_zh": "\u5317\u8fbe\u79d1\u4ed6\u5dde",
       "hfa_name": "North Dakota Housing Finance Agency",
       "hfa_abbr": "NDHFA",
       "hfa_status": "downloaded",
@@ -1425,7 +1496,8 @@
         "personal_income_per_capita": 64587,
         "unemployment_rate": 4.3,
         "poverty_rate": 13.4,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 11759
       },
       "2025": {
         "net_position": 526058065,
@@ -1440,11 +1512,12 @@
         "personal_income_per_capita": 64587,
         "unemployment_rate": 4.3,
         "poverty_rate": 13.4,
-        "median_home_price": 215000
+        "median_home_price": 215000,
+        "homeless_count": 12196
       },
       "state": "OH",
       "name_en": "Ohio",
-      "name_zh": "俄亥俄州",
+      "name_zh": "\u4fc4\u4ea5\u4fc4\u5dde",
       "hfa_name": "Ohio Housing Finance Agency",
       "hfa_abbr": "OHFA",
       "hfa_status": "downloaded",
@@ -1453,10 +1526,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 387013564,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 1091700000,
+        "total_liabilities": 707100000,
         "families_served": null,
         "staff_count": 60,
         "staff_count_source": "LinkedIn",
@@ -1465,13 +1538,14 @@
         "personal_income_per_capita": 63671,
         "unemployment_rate": 3.3,
         "poverty_rate": 14.2,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 5467
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 417517722,
+        "net_position_growth_pct": 7.9,
+        "total_assets": 1472100000,
+        "total_liabilities": 1054900000,
         "families_served": null,
         "staff_count": 60,
         "staff_count_source": "LinkedIn",
@@ -1480,11 +1554,12 @@
         "personal_income_per_capita": 63671,
         "unemployment_rate": 3.3,
         "poverty_rate": 14.2,
-        "median_home_price": 195000
+        "median_home_price": 195000,
+        "homeless_count": 5174
       },
       "state": "OK",
       "name_en": "Oklahoma",
-      "name_zh": "俄克拉荷马州",
+      "name_zh": "\u4fc4\u514b\u62c9\u8377\u9a6c\u5dde",
       "hfa_name": "Oklahoma Housing Finance Agency",
       "hfa_abbr": "OHFA_OK",
       "hfa_status": "downloaded",
@@ -1505,7 +1580,8 @@
         "personal_income_per_capita": 70940,
         "unemployment_rate": 4.2,
         "poverty_rate": 11.4,
-        "median_home_price": 485000
+        "median_home_price": 485000,
+        "homeless_count": 22875
       },
       "2025": {
         "net_position": null,
@@ -1520,11 +1596,12 @@
         "personal_income_per_capita": 70940,
         "unemployment_rate": 4.2,
         "poverty_rate": 11.4,
-        "median_home_price": 485000
+        "median_home_price": 485000,
+        "homeless_count": 27202
       },
       "state": "OR",
       "name_en": "Oregon",
-      "name_zh": "俄勒冈州",
+      "name_zh": "\u4fc4\u52d2\u5188\u5dde",
       "hfa_name": "Oregon Housing and Community Services",
       "hfa_abbr": "OHCS",
       "hfa_status": "missing",
@@ -1545,11 +1622,12 @@
         "personal_income_per_capita": 70856,
         "unemployment_rate": 3.6,
         "poverty_rate": 11.8,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 14088
       },
       "2025": {
         "net_position": null,
-        "net_position_growth_pct": 8.494412145037563,
+        "net_position_growth_pct": null,
         "total_assets": null,
         "total_liabilities": null,
         "families_served": null,
@@ -1560,11 +1638,12 @@
         "personal_income_per_capita": 70856,
         "unemployment_rate": 3.6,
         "poverty_rate": 11.8,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 14834
       },
       "state": "PA",
       "name_en": "Pennsylvania",
-      "name_zh": "宾夕法尼亚州",
+      "name_zh": "\u5bbe\u5915\u6cd5\u5c3c\u4e9a\u5dde",
       "hfa_name": "Pennsylvania Housing Finance Agency",
       "hfa_abbr": "PHFA",
       "hfa_status": "downloaded",
@@ -1585,7 +1664,8 @@
         "personal_income_per_capita": 70743,
         "unemployment_rate": 4.3,
         "poverty_rate": 10.8,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2442
       },
       "2025": {
         "net_position": null,
@@ -1600,11 +1680,12 @@
         "personal_income_per_capita": 70743,
         "unemployment_rate": 4.3,
         "poverty_rate": 10.8,
-        "median_home_price": 425000
+        "median_home_price": 425000,
+        "homeless_count": 2373
       },
       "state": "RI",
       "name_en": "Rhode Island",
-      "name_zh": "罗德岛州",
+      "name_zh": "\u7f57\u5fb7\u5c9b\u5dde",
       "hfa_name": "Rhode Island Housing",
       "hfa_abbr": "RIHousing",
       "hfa_status": "missing",
@@ -1613,10 +1694,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 570045294,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 1847789251,
+        "total_liabilities": 1275296701,
         "families_served": null,
         "staff_count": 140,
         "staff_count_source": "South Carolina Housing",
@@ -1625,13 +1706,14 @@
         "personal_income_per_capita": 60649,
         "unemployment_rate": 4.1,
         "poverty_rate": 13.1,
-        "median_home_price": 285000
+        "median_home_price": 285000,
+        "homeless_count": 4593
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 612736978,
+        "net_position_growth_pct": 7.5,
+        "total_assets": 2330498465,
+        "total_liabilities": 1717292827,
         "families_served": null,
         "staff_count": 140,
         "staff_count_source": "South Carolina Housing",
@@ -1640,11 +1722,12 @@
         "personal_income_per_capita": 60649,
         "unemployment_rate": 4.1,
         "poverty_rate": 13.1,
-        "median_home_price": 285000
+        "median_home_price": 285000,
+        "homeless_count": 4398
       },
       "state": "SC",
       "name_en": "South Carolina",
-      "name_zh": "南卡罗来纳州",
+      "name_zh": "\u5357\u5361\u7f57\u6765\u7eb3\u5dde",
       "hfa_name": "South Carolina State Housing Finance and Development Authority",
       "hfa_abbr": "SCHFDA",
       "hfa_status": "downloaded",
@@ -1665,7 +1748,8 @@
         "personal_income_per_capita": 75499,
         "unemployment_rate": 1.8,
         "poverty_rate": 11.1,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 1338
       },
       "2025": {
         "net_position": 665054948,
@@ -1680,11 +1764,12 @@
         "personal_income_per_capita": 75499,
         "unemployment_rate": 1.8,
         "poverty_rate": 11.1,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 1450
       },
       "state": "SD",
       "name_en": "South Dakota",
-      "name_zh": "南达科他州",
+      "name_zh": "\u5357\u8fbe\u79d1\u4ed6\u5dde",
       "hfa_name": "South Dakota Housing Development Authority",
       "hfa_abbr": "SDHDA",
       "hfa_status": "downloaded",
@@ -1705,7 +1790,8 @@
         "personal_income_per_capita": 66288,
         "unemployment_rate": 3.4,
         "poverty_rate": 13.6,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 8280
       },
       "2025": {
         "net_position": 665000000,
@@ -1720,11 +1806,12 @@
         "personal_income_per_capita": 66288,
         "unemployment_rate": 3.4,
         "poverty_rate": 13.6,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 8850
       },
       "state": "TN",
       "name_en": "Tennessee",
-      "name_zh": "田纳西州",
+      "name_zh": "\u7530\u7eb3\u897f\u5dde",
       "hfa_name": "Tennessee Housing Development Agency",
       "hfa_abbr": "THDA",
       "hfa_status": "downloaded",
@@ -1745,7 +1832,8 @@
         "personal_income_per_capita": 69762,
         "unemployment_rate": 4.1,
         "poverty_rate": 13.7,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 27987
       },
       "2025": {
         "net_position": 1078974997,
@@ -1760,11 +1848,12 @@
         "personal_income_per_capita": 69762,
         "unemployment_rate": 4.1,
         "poverty_rate": 13.7,
-        "median_home_price": 295000
+        "median_home_price": 295000,
+        "homeless_count": 28031
       },
       "state": "TX",
       "name_en": "Texas",
-      "name_zh": "德克萨斯州",
+      "name_zh": "\u5fb7\u514b\u8428\u65af\u5dde",
       "hfa_name": "Texas Department of Housing and Community Affairs",
       "hfa_abbr": "TDHCA",
       "hfa_status": "downloaded",
@@ -1773,9 +1862,9 @@
     },
     {
       "2024": {
-        "net_position": 3861330000,
+        "net_position": 514400000,
         "net_position_growth_pct": null,
-        "total_assets": null,
+        "total_assets": 2923819000,
         "total_liabilities": null,
         "families_served": null,
         "staff_count": 82,
@@ -1785,12 +1874,13 @@
         "personal_income_per_capita": 67345,
         "unemployment_rate": 3.2,
         "poverty_rate": 8.5,
-        "median_home_price": 525000
+        "median_home_price": 525000,
+        "homeless_count": 3869
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": 284.6343099398394,
-        "total_assets": null,
+        "net_position": 610650000,
+        "net_position_growth_pct": 18.7,
+        "total_assets": 3861330000,
         "total_liabilities": null,
         "families_served": null,
         "staff_count": 82,
@@ -1800,11 +1890,12 @@
         "personal_income_per_capita": 67345,
         "unemployment_rate": 3.2,
         "poverty_rate": 8.5,
-        "median_home_price": 525000
+        "median_home_price": 525000,
+        "homeless_count": 4584
       },
       "state": "UT",
       "name_en": "Utah",
-      "name_zh": "犹他州",
+      "name_zh": "\u72b9\u4ed6\u5dde",
       "hfa_name": "Utah Housing Corporation",
       "hfa_abbr": "UtahHousing",
       "hfa_status": "downloaded",
@@ -1813,10 +1904,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 112192000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 565610000,
+        "total_liabilities": 480222000,
         "families_served": null,
         "staff_count": 29,
         "staff_count_source": "LinkedIn",
@@ -1825,13 +1916,14 @@
         "personal_income_per_capita": 71505,
         "unemployment_rate": 2.3,
         "poverty_rate": 10.2,
-        "median_home_price": 365000
+        "median_home_price": 365000,
+        "homeless_count": 3458
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 123644000,
+        "net_position_growth_pct": 10.2,
+        "total_assets": 679864000,
+        "total_liabilities": 581488000,
         "families_served": null,
         "staff_count": 29,
         "staff_count_source": "LinkedIn",
@@ -1840,11 +1932,12 @@
         "personal_income_per_capita": 71505,
         "unemployment_rate": 2.3,
         "poverty_rate": 10.2,
-        "median_home_price": 365000
+        "median_home_price": 365000,
+        "homeless_count": 3386
       },
       "state": "VT",
       "name_en": "Vermont",
-      "name_zh": "佛蒙特州",
+      "name_zh": "\u4f5b\u8499\u7279\u5dde",
       "hfa_name": "Vermont Housing Finance Agency",
       "hfa_abbr": "VHFA",
       "hfa_status": "downloaded",
@@ -1865,7 +1958,8 @@
         "personal_income_per_capita": 77277,
         "unemployment_rate": 2.9,
         "poverty_rate": 9.6,
-        "median_home_price": 385000
+        "median_home_price": 385000,
+        "homeless_count": 7141
       },
       "2025": {
         "net_position": 3963105718,
@@ -1880,11 +1974,12 @@
         "personal_income_per_capita": 77277,
         "unemployment_rate": 2.9,
         "poverty_rate": 9.6,
-        "median_home_price": 385000
+        "median_home_price": 385000,
+        "homeless_count": 7240
       },
       "state": "VA",
       "name_en": "Virginia",
-      "name_zh": "弗吉尼亚州",
+      "name_zh": "\u5f17\u5409\u5c3c\u4e9a\u5dde",
       "hfa_name": "Virginia Housing",
       "hfa_abbr": "VirginiaHousing",
       "hfa_status": "downloaded",
@@ -1905,7 +2000,8 @@
         "personal_income_per_capita": 85512,
         "unemployment_rate": 4.5,
         "poverty_rate": 9.8,
-        "median_home_price": 565000
+        "median_home_price": 565000,
+        "homeless_count": 31554
       },
       "2025": {
         "net_position": 1064113600,
@@ -1920,11 +2016,12 @@
         "personal_income_per_capita": 85512,
         "unemployment_rate": 4.5,
         "poverty_rate": 9.8,
-        "median_home_price": 565000
+        "median_home_price": 565000,
+        "homeless_count": 31721
       },
       "state": "WA",
       "name_en": "Washington",
-      "name_zh": "华盛顿州",
+      "name_zh": "\u534e\u76db\u987f\u5dde",
       "hfa_name": "Washington State Housing Finance Commission",
       "hfa_abbr": "WSHFC",
       "hfa_status": "downloaded",
@@ -1945,7 +2042,8 @@
         "personal_income_per_capita": 55432,
         "unemployment_rate": 4.1,
         "poverty_rate": 16.5,
-        "median_home_price": 155000
+        "median_home_price": 155000,
+        "homeless_count": 1779
       },
       "2025": {
         "net_position": 640049000,
@@ -1960,11 +2058,12 @@
         "personal_income_per_capita": 55432,
         "unemployment_rate": 4.1,
         "poverty_rate": 16.5,
-        "median_home_price": 155000
+        "median_home_price": 155000,
+        "homeless_count": 1925
       },
       "state": "WV",
       "name_en": "West Virginia",
-      "name_zh": "西弗吉尼亚州",
+      "name_zh": "\u897f\u5f17\u5409\u5c3c\u4e9a\u5dde",
       "hfa_name": "West Virginia Housing Development Fund",
       "hfa_abbr": "WVHDF",
       "hfa_status": "downloaded",
@@ -1985,7 +2084,8 @@
         "personal_income_per_capita": 67799,
         "unemployment_rate": 3,
         "poverty_rate": 10.2,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 5049
       },
       "2025": {
         "net_position": 1134100000,
@@ -2000,11 +2100,12 @@
         "personal_income_per_capita": 67799,
         "unemployment_rate": 3,
         "poverty_rate": 10.2,
-        "median_home_price": 265000
+        "median_home_price": 265000,
+        "homeless_count": 5243
       },
       "state": "WI",
       "name_en": "Wisconsin",
-      "name_zh": "威斯康星州",
+      "name_zh": "\u5a01\u65af\u5eb7\u661f\u5dde",
       "hfa_name": "Wisconsin Housing and Economic Development Authority",
       "hfa_abbr": "WHEDA",
       "hfa_status": "downloaded",
@@ -2025,7 +2126,8 @@
         "personal_income_per_capita": 86609,
         "unemployment_rate": 3.2,
         "poverty_rate": 10.5,
-        "median_home_price": 335000
+        "median_home_price": 335000,
+        "homeless_count": 501
       },
       "2025": {
         "net_position": 456281420,
@@ -2040,11 +2142,12 @@
         "personal_income_per_capita": 86609,
         "unemployment_rate": 3.2,
         "poverty_rate": 10.5,
-        "median_home_price": 335000
+        "median_home_price": 335000,
+        "homeless_count": 535
       },
       "state": "WY",
       "name_en": "Wyoming",
-      "name_zh": "怀俄明州",
+      "name_zh": "\u6000\u4fc4\u660e\u5dde",
       "hfa_name": "Wyoming Community Development Authority",
       "hfa_abbr": "WCDA",
       "hfa_status": "downloaded",
