@@ -706,7 +706,7 @@
         "net_position_growth_pct": 6.2,
         "total_assets": 96859000,
         "total_liabilities": 20134000,
-        "families_served": 6603370,
+        "families_served": null,
         "staff_count": 28,
         "staff_count_source": "LinkedIn",
         "population": 2977220,

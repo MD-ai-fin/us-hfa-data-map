@@ -1371,15 +1371,22 @@ def extract_from_text(text: str, year: int) -> dict:
     t = normalize_financial_text(text)
     out = {"families_served": None, "staff_count": None}
 
+    # Avoid matching dollar columns next to "Families First … Act" (seen in state ACFRs).
     best_family = 0
     for pat in [
-        r"(\d[\d,]+)\s+families",
-        r"(\d[\d,]+)\s+households",
-        r"served\s+(\d[\d,]+)\s+(?:families|households|people|individuals)",
+        r"(?<!\$)\b(\d[\d,]{2,})\s+(families|households)\b(?!\s+First\b)",
+        r"\bserved\s+(\d[\d,]{2,})\s+(?:families|households|people|individuals)\b",
     ]:
         for m in re.finditer(pat, t, re.I):
-            n = int(m.group(1).replace(",", ""))
-            if 100 < n < 50_000_000 and n > best_family:
+            raw = m.group(1)
+            # Skip matches that sit in a money column: "... $ 6,603,370 Families First"
+            start = m.start(1)
+            window = t[max(0, start - 40) : start]
+            if "$" in window or "Families First" in t[m.start() : m.start() + 40]:
+                continue
+            n = int(raw.replace(",", ""))
+            # Plausible HFA program volumes; multi-million "families" is almost always $ amounts.
+            if 100 < n < 2_000_000 and n > best_family:
                 best_family = n
     if best_family:
         out["families_served"] = best_family
