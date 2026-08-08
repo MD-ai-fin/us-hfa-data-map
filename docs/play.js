@@ -1,44 +1,117 @@
 /**
- * Play modes: My State, Spot outliers, Guess the state.
+ * Play modes: My State, Contrasts.
  * window.initHfaPlay(api) → { renderPlayLabels, onMapClick, onEscape }
  */
 (function () {
   window.initHfaPlay = function initHfaPlay(api) {
     const {
       t, tMetric, getLang, getFocusedState, setFocusedState,
-      getStateData, stateDisplayName, metricValueForState, fmt,
+      getStateData, stateDisplayName, fmt,
       rankedStates, setPrimaryMetricOnly,
       flyToState, clearHighlights, highlightAbbrs, refreshMap,
       applyHighlightClasses, buildShareUrl, syncUrlFromState,
-      map, getDataset,
-      closeComparePanel, setCompareMode, closeMetricsDrawer,
+      getDataset,
+      closeMetricsDrawer,
       isDrawerOpen, closeReport, isReportOpen,
+      clearExclusiveTools,
     } = api;
 
-    let playMode = null; // null | quiz
     let anomalyType = null;
-    let quiz = { answer: null, metric: null, rank: null, score: 0, rounds: 0, awaiting: false, lastGuess: null };
+    let myStateMode = false;
     const ANOMALY_ORDER = ["growth_small", "assets_low_capita"];
+    let dragBound = false;
 
     function $(id) { return document.getElementById(id); }
 
-    function openPlayModal(title, { clearBackdrop = false, quizLayout = false } = {}) {
+    function resetPanelPosition() {
+      const panel = $("play-panel") || document.querySelector("#play-modal .play-panel");
+      if (!panel) return;
+      panel.style.left = "";
+      panel.style.top = "";
+      panel.style.transform = "";
+      panel.style.right = "";
+      panel.style.bottom = "";
+    }
+
+    function bindPanelDrag() {
+      if (dragBound) return;
+      const modal = $("play-modal");
+      const panel = modal?.querySelector(".play-panel");
+      const handle = panel?.querySelector(".compare-header");
+      if (!modal || !panel || !handle) return;
+      dragBound = true;
+
+      handle.addEventListener("pointerdown", e => {
+        if (!modal.classList.contains("map-clear")) return;
+        if (e.target.closest("button, a, input, select, textarea, label")) return;
+        e.preventDefault();
+        const rect = panel.getBoundingClientRect();
+        panel.style.left = `${rect.left}px`;
+        panel.style.top = `${rect.top}px`;
+        panel.style.transform = "none";
+        const startX = e.clientX;
+        const startY = e.clientY;
+        const origLeft = rect.left;
+        const origTop = rect.top;
+        handle.setPointerCapture(e.pointerId);
+
+        const onMove = ev => {
+          const w = panel.offsetWidth;
+          const h = panel.offsetHeight;
+          let nx = origLeft + (ev.clientX - startX);
+          let ny = origTop + (ev.clientY - startY);
+          nx = Math.max(8, Math.min(nx, window.innerWidth - w - 8));
+          ny = Math.max(8, Math.min(ny, window.innerHeight - Math.min(h, 80) - 8));
+          panel.style.left = `${nx}px`;
+          panel.style.top = `${ny}px`;
+        };
+        const onUp = ev => {
+          try { handle.releasePointerCapture(ev.pointerId); } catch (_err) { /* ignore */ }
+          handle.removeEventListener("pointermove", onMove);
+          handle.removeEventListener("pointerup", onUp);
+          handle.removeEventListener("pointercancel", onUp);
+        };
+        handle.addEventListener("pointermove", onMove);
+        handle.addEventListener("pointerup", onUp);
+        handle.addEventListener("pointercancel", onUp);
+      });
+    }
+
+    function setMapHighlights(abbrs, { pulse = true } = {}) {
+      highlightAbbrs.clear();
+      (abbrs || []).forEach(a => { if (a) highlightAbbrs.add(a); });
+      refreshMap();
+      if (pulse) applyHighlightClasses(true);
+    }
+
+    function openPlayModal(title, { clearBackdrop = false } = {}) {
       if (isReportOpen()) closeReport();
-      closeComparePanel();
-      setCompareMode(false);
       if (isDrawerOpen()) closeMetricsDrawer();
       $("play-title").textContent = title;
       const modal = $("play-modal");
-      modal.classList.toggle("map-clear", Boolean(clearBackdrop) && !quizLayout);
-      modal.classList.toggle("quiz-open", Boolean(quizLayout));
+      resetPanelPosition();
+      modal.classList.toggle("map-clear", Boolean(clearBackdrop));
       modal.classList.add("open");
       modal.setAttribute("aria-hidden", "false");
+      bindPanelDrag();
+    }
+
+    function deactivate() {
+      const modal = $("play-modal");
+      if (!modal) return;
+      modal.classList.remove("open", "map-clear");
+      modal.setAttribute("aria-hidden", "true");
+      $("btn-my-state")?.classList.remove("active");
+      $("btn-anomaly")?.classList.remove("active");
+      resetPanelPosition();
+      myStateMode = false;
+      anomalyType = null;
     }
 
     function closePlayModal() {
-      const modal = $("play-modal");
-      modal.classList.remove("open", "map-clear", "quiz-open");
-      modal.setAttribute("aria-hidden", "true");
+      deactivate();
+      clearHighlights();
+      refreshMap();
     }
 
     function rankInfo(mkey, abbr) {
@@ -81,21 +154,15 @@
       return [];
     }
 
-    function exitQuiz() {
-      playMode = null;
-      quiz.awaiting = false;
-      $("btn-quiz")?.classList.remove("active");
-      document.body.classList.remove("quiz-mode");
-    }
-
     function stopAnomaly() {
       anomalyType = null;
       $("btn-anomaly")?.classList.remove("active");
-      clearHighlights();
-      refreshMap();
+      if (!myStateMode) {
+        clearHighlights();
+        refreshMap();
+      }
     }
 
-    /* —— My State —— */
     function renderMyState(abbr) {
       const rec = getStateData(abbr);
       if (!rec) {
@@ -147,12 +214,14 @@
           <button type="button" id="btn-my-state-copy">${t("shareBtn")}</button>
         </div>`;
       $("my-state-select").onchange = e => {
-        setFocusedState(e.target.value);
-        renderMyState(e.target.value);
+        const next = e.target.value;
+        setFocusedState(next);
+        setMapHighlights([next]);
+        renderMyState(next);
       };
       $("btn-my-state-goto").onclick = () => {
-        closePlayModal();
-        flyToState(abbr);
+        flyToState(abbr, { openPopup: false });
+        setMapHighlights([abbr]);
       };
       $("btn-my-state-copy").onclick = async () => {
         setFocusedState(abbr);
@@ -169,24 +238,35 @@
     }
 
     function openMyState() {
-      exitQuiz();
+      if (myStateMode && $("play-modal")?.classList.contains("open")) {
+        closePlayModal();
+        return;
+      }
+      clearExclusiveTools?.({ except: "play" });
+      anomalyType = null;
+      myStateMode = true;
+      $("btn-my-state")?.classList.add("active");
+      $("btn-anomaly")?.classList.remove("active");
       const abbr = getFocusedState() || "CA";
+      setFocusedState(abbr);
+      setMapHighlights([abbr]);
       openPlayModal(t("myStateTitle"), { clearBackdrop: true });
       renderMyState(abbr);
     }
 
-    /* —— Anomalies —— */
     function applyAnomaly(type) {
-      exitQuiz();
+      myStateMode = false;
       anomalyType = type;
       const rows = findAnomalies(type);
-      const metric = type === "growth_small" ? "net_position_growth_pct" : "total_assets";
+      const abbrs = rows.map(r => r.state);
+      // Map metric chosen so matched states are not mid-scale yellow fills
+      // (yellow rim would otherwise look like the whole state lighting up).
+      const metric = type === "growth_small"
+        ? "net_position_growth_pct"
+        : "net_position_per_capita";
       setPrimaryMetricOnly(metric);
-      highlightAbbrs.clear();
-      rows.forEach(r => highlightAbbrs.add(r.state));
-      refreshMap();
-      applyHighlightClasses(true);
       $("btn-anomaly").classList.add("active");
+      $("btn-my-state")?.classList.remove("active");
       openPlayModal(t("anomalyTitle"), { clearBackdrop: true });
       const explain = type === "growth_small" ? t("anomalyGrowthSmall") : t("anomalyAssetsLowCapita");
       const list = rows.slice(0, 12).map(r => {
@@ -207,11 +287,17 @@
           <button type="button" id="btn-anomaly-next">${t("anomalyNext")}</button>
           <button type="button" id="btn-anomaly-clear">${t("anomalyClear")}</button>
         </div>`;
+      // No pulse: keeps rim weight/brightness identical across states (MI reference)
+      setMapHighlights(abbrs, { pulse: false });
       $("play-body").querySelectorAll("li[data-state]").forEach(li => {
-        li.onclick = () => flyToState(li.dataset.state);
+        li.onclick = () => {
+          const st = li.dataset.state;
+          flyToState(st, { openPopup: false });
+          setMapHighlights(abbrs, { pulse: false });
+        };
       });
       $("btn-anomaly-next").onclick = () => {
-        const i = ANOMALY_ORDER.indexOf(type);
+        const i = ANOMALY_ORDER.indexOf(anomalyType || type);
         applyAnomaly(ANOMALY_ORDER[(i + 1) % ANOMALY_ORDER.length]);
       };
       $("btn-anomaly-clear").onclick = () => {
@@ -221,123 +307,31 @@
     }
 
     function toggleAnomaly() {
-      if (anomalyType) {
-        const i = ANOMALY_ORDER.indexOf(anomalyType);
-        applyAnomaly(ANOMALY_ORDER[(i + 1) % ANOMALY_ORDER.length]);
-      } else {
-        applyAnomaly(ANOMALY_ORDER[0]);
-      }
-    }
-
-    /* —— Quiz —— */
-    function renderQuiz() {
-      const rec = getStateData(quiz.answer);
-      const name = stateDisplayName(rec, quiz.answer);
-      let result = "";
-      if (quiz.lastGuess) {
-        const ok = quiz.lastGuess === quiz.answer;
-        result = `<p class="quiz-result ${ok ? "ok" : "bad"}">${ok
-          ? t("quizCorrect").replace("{name}", name).replace("{abbr}", quiz.answer)
-          : t("quizWrong")
-            .replace("{guess}", quiz.lastGuess)
-            .replace("{name}", name)
-            .replace("{abbr}", quiz.answer)}</p>`;
-      }
-      $("play-body").innerHTML = `
-        <p class="compare-hint">${t("quizHint")}</p>
-        <p class="quiz-prompt">${t("quizPrompt")
-          .replace("{metric}", tMetric(quiz.metric))
-          .replace("{rank}", String(quiz.rank))}</p>
-        <p class="quiz-score">${t("quizScore")
-          .replace("{score}", String(quiz.score))
-          .replace("{rounds}", String(quiz.rounds))}</p>
-        ${result}
-        <div class="play-actions">
-          ${quiz.lastGuess ? `<button type="button" id="btn-quiz-next">${t("quizNext")}</button>` : ""}
-          <button type="button" id="btn-quiz-exit">${t("quizExit")}</button>
-        </div>`;
-      if ($("btn-quiz-next")) $("btn-quiz-next").onclick = nextQuizRound;
-      $("btn-quiz-exit").onclick = () => {
-        exitQuiz();
+      if (anomalyType && $("play-modal")?.classList.contains("open")) {
         closePlayModal();
-        map.closePopup();
-        if (!anomalyType) {
-          clearHighlights();
-          refreshMap();
-        }
-      };
-    }
-
-    function nextQuizRound() {
-      const metrics = ["net_position", "net_position_growth_pct", "net_position_per_capita", "total_assets"];
-      const mkey = metrics[Math.floor(Math.random() * metrics.length)];
-      const ranked = rankedStates(mkey, 9999);
-      if (ranked.length < 5) {
-        $("play-body").innerHTML = `<p class="compare-hint">${t("playNoData")}</p>`;
         return;
       }
-      const idx = Math.floor(Math.random() * Math.min(12, ranked.length));
-      quiz.answer = ranked[idx].state;
-      quiz.metric = mkey;
-      quiz.rank = idx + 1;
-      quiz.lastGuess = null;
-      quiz.awaiting = true;
-      setPrimaryMetricOnly(mkey);
-      highlightAbbrs.clear();
-      refreshMap();
-      renderQuiz();
-    }
-
-    function startQuiz() {
-      stopAnomaly();
-      exitQuiz();
-      playMode = "quiz";
-      quiz.score = 0;
-      quiz.rounds = 0;
-      quiz.lastGuess = null;
-      document.body.classList.add("quiz-mode");
-      $("btn-quiz").classList.add("active");
-      openPlayModal(t("quizTitle"), { quizLayout: true });
-      nextQuizRound();
-    }
-
-    function handleQuizGuess(abbr) {
-      if (playMode !== "quiz" || !quiz.awaiting) return false;
-      quiz.awaiting = false;
-      quiz.rounds += 1;
-      quiz.lastGuess = abbr;
-      if (abbr === quiz.answer) quiz.score += 1;
-      highlightAbbrs.clear();
-      highlightAbbrs.add(quiz.answer);
-      if (abbr !== quiz.answer) highlightAbbrs.add(abbr);
-      refreshMap();
-      applyHighlightClasses(true);
-      flyToState(quiz.answer);
-      renderQuiz();
-      openPlayModal(t("quizTitle"), { quizLayout: true });
-      return true;
+      clearExclusiveTools?.({ except: "play" });
+      applyAnomaly(ANOMALY_ORDER[0]);
     }
 
     function renderPlayLabels() {
       $("btn-my-state").textContent = t("myStateBtn");
       $("btn-anomaly").textContent = t("anomalyBtn");
-      $("btn-quiz").textContent = t("quizBtn");
       $("btn-play-close").setAttribute("aria-label", t("closePlay"));
     }
 
     function onMapClick(abbr) {
-      return handleQuizGuess(abbr);
+      if (!myStateMode || !$("play-modal")?.classList.contains("open")) return false;
+      if (!abbr || !getStateData(abbr)) return true;
+      setFocusedState(abbr);
+      setMapHighlights([abbr]);
+      renderMyState(abbr);
+      return true; // suppress default report popup
     }
 
     function onEscape() {
       if ($("play-modal").classList.contains("open")) {
-        if (playMode === "quiz") {
-          exitQuiz();
-          if (!anomalyType) {
-            clearHighlights();
-            refreshMap();
-          }
-        }
         closePlayModal();
         return true;
       }
@@ -346,22 +340,9 @@
 
     $("btn-my-state").onclick = openMyState;
     $("btn-anomaly").onclick = toggleAnomaly;
-    $("btn-quiz").onclick = startQuiz;
-    $("btn-play-close").onclick = () => {
-      if (playMode === "quiz") {
-        exitQuiz();
-        if (!anomalyType) {
-          clearHighlights();
-          refreshMap();
-        }
-      }
-      closePlayModal();
-    };
-    $("play-modal").onclick = e => {
-      if (e.target.id === "play-modal" && playMode !== "quiz") closePlayModal();
-    };
+    $("btn-play-close").onclick = closePlayModal;
 
     renderPlayLabels();
-    return { renderPlayLabels, onMapClick, onEscape };
+    return { renderPlayLabels, onMapClick, onEscape, deactivate };
   };
 })();

@@ -189,13 +189,24 @@
     }
     .leaflet-container { background: #0b1220; }
     .leaflet-interactive {
-      transition: fill 0.5s ease, fill-opacity 0.45s ease, stroke 0.25s ease, stroke-width 0.25s ease;
+      transition: fill 0.5s ease, fill-opacity 0.45s ease;
     }
     @keyframes state-pulse {
-      0%, 100% { stroke-opacity: 1; filter: brightness(1); }
-      50% { stroke-opacity: 0.55; filter: brightness(1.15); }
+      0%, 100% { stroke-opacity: 1; }
+      50% { stroke-opacity: 0.45; }
     }
-    path.state-pulse {
+    /* Dedicated highlight overlay rings — identical stroke on every state */
+    .leaflet-highlight-pane path.state-highlight-ring {
+      stroke: #fde047 !important;
+      stroke-width: 3.5px !important;
+      stroke-opacity: 1 !important;
+      fill: none !important;
+      fill-opacity: 0 !important;
+      vector-effect: non-scaling-stroke;
+      filter: none !important;
+      transition: none !important;
+    }
+    .leaflet-highlight-pane path.state-pulse {
       animation: state-pulse 1.15s ease-in-out 2;
     }
     .explore-bar {
@@ -211,47 +222,13 @@
       min-width: 0;
       overflow-x: auto;
     }
-    .mode-switch {
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-      flex-shrink: 0;
-    }
-    .mode-switch label {
-      font-size: 0.72rem;
-      color: var(--muted);
-      white-space: nowrap;
-    }
-    select#mode-select {
-      background: #0f172a;
-      color: var(--text);
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 0.35rem 0.55rem;
-      font-size: 0.78rem;
-      min-height: 32px;
-      cursor: pointer;
-    }
-    select#mode-select:focus {
-      outline: 2px solid var(--accent);
-      outline-offset: 1px;
-    }
-    .scene-row, .play-row {
+    .scene-row {
       display: flex;
       flex-wrap: nowrap;
       align-items: center;
       gap: 0.4rem;
       min-width: 0;
       flex: 0 1 auto;
-    }
-    .scene-row[hidden], .play-row[hidden] {
-      display: none !important;
-    }
-    .explore-label {
-      font-size: 0.72rem;
-      color: var(--muted);
-      margin-right: 0.15rem;
-      white-space: nowrap;
     }
     .scene-btn, .btn-compare {
       font-size: 0.78rem;
@@ -279,7 +256,7 @@
       border-color: rgba(74, 222, 128, 0.5);
       color: #86efac;
     }
-    .play-row .scene-btn.active {
+    .scene-btn.discover.active {
       background: rgba(167, 139, 250, 0.18);
       border-color: rgba(167, 139, 250, 0.55);
       color: #c4b5fd;
@@ -296,26 +273,25 @@
       backdrop-filter: blur(4px);
     }
     .play-modal.open { display: flex; }
-    /* 我的州 / 找异常 / 猜州：不模糊，地图保持清晰 */
+    /* 我的州 / 反差州：不挡地图，面板可拖动 */
     .play-modal.map-clear {
-      background: rgba(2, 6, 23, 0.28);
-      backdrop-filter: none;
-      -webkit-backdrop-filter: none;
-    }
-    /* 猜州：遮罩不拦截点击，可直接点地图 */
-    .play-modal.quiz-open {
-      align-items: flex-start;
-      padding-top: 0.75rem;
       background: transparent;
       backdrop-filter: none;
       -webkit-backdrop-filter: none;
       pointer-events: none;
+      align-items: flex-start;
+      justify-content: flex-start;
+      padding: 0;
     }
-    .play-modal.quiz-open .play-panel {
+    .play-modal.map-clear .play-panel {
       pointer-events: auto;
-      width: min(420px, calc(100% - 1.5rem));
-      max-height: min(42vh, 360px);
-      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55);
+      position: absolute;
+      left: 50%;
+      top: 4.5rem;
+      transform: translateX(-50%);
+      width: min(420px, calc(100vw - 24px));
+      max-height: min(70vh, 560px);
+      margin: 0;
     }
     .play-panel {
       width: min(560px, 100%);
@@ -326,6 +302,13 @@
       border-radius: 12px;
       box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
     }
+    .play-modal.map-clear .compare-header {
+      cursor: grab;
+      touch-action: none;
+      user-select: none;
+    }
+    .play-modal.map-clear .compare-header:active { cursor: grabbing; }
+    .play-modal.map-clear .compare-header .report-close { cursor: pointer; }
     .play-field {
       display: flex;
       flex-direction: column;
@@ -380,19 +363,6 @@
       font-size: 0.82rem;
       padding: 0.45rem 0.75rem;
     }
-    .quiz-prompt {
-      font-size: 1.05rem;
-      font-weight: 600;
-      color: #f8fafc;
-      margin: 0.5rem 0 0.75rem;
-      line-height: 1.4;
-    }
-    .quiz-score { color: var(--muted); font-size: 0.82rem; margin-bottom: 0.75rem; }
-    .quiz-result { font-size: 0.9rem; margin-bottom: 0.75rem; }
-    .quiz-result.ok { color: #4ade80; }
-    .quiz-result.bad { color: #fb7185; }
-    body.quiz-mode .rank-panel { opacity: 0.35; pointer-events: none; }
-    body.quiz-mode .state-value-marker { opacity: 0.15 !important; }
     .fun-fact {
       display: flex;
       align-items: center;
@@ -840,14 +810,25 @@
         gap: 0.4rem;
         -webkit-overflow-scrolling: touch;
       }
-      .mode-switch label { display: none; }
       .fun-fact {
         flex: 1 1 120px;
         min-width: 110px;
         margin-left: 0;
       }
-      .play-modal { padding: 0; }
-      .play-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
+      .play-modal:not(.map-clear) { padding: 0; }
+      .play-modal:not(.map-clear) .play-panel {
+        width: 100%;
+        max-height: 100%;
+        border-radius: 0;
+        border: none;
+      }
+      .play-modal.map-clear .play-panel {
+        top: 5.5rem;
+        width: min(360px, calc(100vw - 16px));
+        max-height: min(55vh, 420px);
+        border-radius: 12px;
+        border: 1px solid var(--border);
+      }
       .fun-fact-text { white-space: nowrap; }
       .legend {
         bottom: 76px;
@@ -1020,24 +1001,14 @@
   </div>
 
   <div class="explore-bar" id="explore-bar">
-    <div class="mode-switch">
-      <label for="mode-select" id="lbl-mode">Mode</label>
-      <select id="mode-select" aria-label="Explore or Discover">
-        <option value="explore" id="opt-explore" selected>Explore</option>
-        <option value="play" id="opt-play">Discover</option>
-      </select>
-    </div>
     <div class="scene-row" id="scene-row">
       <button type="button" class="scene-btn" data-scene="top_np" id="scene-top-np">Top Net Position</button>
       <button type="button" class="scene-btn" data-scene="top_growth" id="scene-top-growth">Fastest Growth</button>
       <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Per Capita</button>
       <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
+      <button type="button" class="scene-btn discover" id="btn-my-state">My state</button>
+      <button type="button" class="scene-btn discover" id="btn-anomaly">Contrasts</button>
       <button type="button" class="scene-btn btn-share" id="btn-share">Copy link</button>
-    </div>
-    <div class="play-row" id="play-row" hidden>
-      <button type="button" class="scene-btn" id="btn-my-state">My state</button>
-      <button type="button" class="scene-btn" id="btn-anomaly">Spot outliers</button>
-      <button type="button" class="scene-btn" id="btn-quiz">Guess</button>
     </div>
     <div class="fun-fact" id="fun-fact">
       <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
@@ -1145,9 +1116,6 @@
         selectAll: "全选", clearAll: "清除",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
         metricsDrawerBtn: "指标",
-        exploreLabel: "探索",
-        playLabel: "发现",
-        modeLabel: "模式",
         sceneTopNp: "净资产 Top",
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
@@ -1169,22 +1137,13 @@
         myStateLineNp: "{name}（{abbr}）净资产全国第 {rank}/{n}，约 {val}。",
         myStateLineGrowth: "净资产同比增速排第 {rank}/{n}（{val}）。",
         myStateLineCapita: "人均净资产排第 {rank}/{n}（{val}）。",
-        anomalyBtn: "找异常",
-        anomalyTitle: "找异常",
+        anomalyBtn: "反差州",
+        anomalyTitle: "反差州",
         anomalyGrowthSmall: "增速很快、但净资产规模仍偏小的州：增长故事值得对照规模一起看。",
         anomalyAssetsLowCapita: "总资产很大、但人均净资产偏低的州：体量大，摊到人口上未必厚。",
         anomalyCount: "匹配 {n} 个州（高亮于地图）。点击列表可定位。",
-        anomalyNext: "下一种异常",
+        anomalyNext: "下一种反差",
         anomalyClear: "清除高亮",
-        quizBtn: "猜州",
-        quizTitle: "猜州",
-        quizHint: "根据排名提示，在地图上点选你认为的州。州名标签已淡化。",
-        quizPrompt: "哪一州的「{metric}」位列第 {rank}？",
-        quizScore: "得分 {score} / {rounds}",
-        quizCorrect: "正确！是 {name}（{abbr}）。",
-        quizWrong: "你点了 {guess}。答案是 {name}（{abbr}）。",
-        quizNext: "下一题",
-        quizExit: "结束猜州",
         playNoData: "暂无足够数据。",
         closePlay: "关闭",
         reportBtn: "FY2025 综合分析报告",
@@ -1233,9 +1192,6 @@
         selectAll: "Select All", clearAll: "Clear All",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
         metricsDrawerBtn: "Metrics",
-        exploreLabel: "Explore",
-        playLabel: "Discover",
-        modeLabel: "Mode",
         sceneTopNp: "Top Net Position",
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Per Capita",
@@ -1257,22 +1213,13 @@
         myStateLineNp: "{name} ({abbr}) ranks #{rank} of {n} in net position (~{val}).",
         myStateLineGrowth: "Net-position growth ranks #{rank} of {n} ({val}).",
         myStateLineCapita: "Net position per capita ranks #{rank} of {n} ({val}).",
-        anomalyBtn: "Spot outliers",
-        anomalyTitle: "Spot outliers",
+        anomalyBtn: "Contrasts",
+        anomalyTitle: "Contrasts",
         anomalyGrowthSmall: "Fast growth, still-smaller net position: read the surge alongside scale.",
         anomalyAssetsLowCapita: "Large assets, lower per-capita net position: big books, thinner per resident.",
         anomalyCount: "{n} states matched (highlighted). Tap a row to fly there.",
-        anomalyNext: "Next pattern",
+        anomalyNext: "Next contrast",
         anomalyClear: "Clear highlights",
-        quizBtn: "Guess",
-        quizTitle: "Guess the state",
-        quizHint: "Use the rank clue, then click the state on the map. Labels are dimmed.",
-        quizPrompt: "Which state ranks #{rank} for {metric}?",
-        quizScore: "Score {score} / {rounds}",
-        quizCorrect: "Correct — {name} ({abbr}).",
-        quizWrong: "You picked {guess}. Answer: {name} ({abbr}).",
-        quizNext: "Next round",
-        quizExit: "End quiz",
         playNoData: "Not enough data yet.",
         closePlay: "Close",
         reportBtn: "FY2025 Analysis Report",
@@ -1433,7 +1380,7 @@
     };
 
     let lang = "en", year = "2025";
-    let dataset = null, stateLayer = null;
+    let dataset = null, stateLayer = null, highlightLayer = null;
     let reportLinks = {};
     const reportCache = {};
     let reportOpen = false;
@@ -1447,6 +1394,16 @@
     let funFacts = [];
     const comparePick = [];
     const highlightAbbrs = new Set();
+    const HIGHLIGHT_RING = {
+      color: "#fde047",
+      weight: 3.5,
+      opacity: 1,
+      fill: false,
+      fillOpacity: 0,
+      lineJoin: "round",
+      lineCap: "round",
+      className: "state-highlight-ring",
+    };
     const COMPARE_METRICS = [
       "net_position", "net_position_growth_pct", "net_position_per_capita",
       "total_assets", "leverage_ratio", "homeless_count",
@@ -1468,6 +1425,10 @@
       zoomSnap: 0.25,
       zoomDelta: 0.25,
     }).setView([39.5, -98.35], 5.5);
+    map.createPane("highlightPane");
+    map.getPane("highlightPane").classList.add("leaflet-highlight-pane");
+    map.getPane("highlightPane").style.zIndex = 450;
+    map.getPane("highlightPane").style.pointerEvents = "none";
     L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
       attribution: '&copy; OpenStreetMap &copy; CARTO',
       subdomains: "abcd", maxZoom: 19,
@@ -2007,18 +1968,69 @@
       updateMetricsDrawerBtn();
     }
 
+    function syncHighlightOverlay(pulse = false) {
+      if (highlightLayer) {
+        map.removeLayer(highlightLayer);
+        highlightLayer = null;
+      }
+      if (!highlightAbbrs.size || !stateLayer) return;
+      const features = [];
+      stateLayer.eachLayer(layer => {
+        const abbr = STATE_ABBR[layer.feature?.properties?.name];
+        if (abbr && highlightAbbrs.has(abbr) && layer.feature) {
+          // Keep full geometry (e.g. Michigan MultiPolygon: both peninsulas + islands)
+          features.push(layer.feature);
+        }
+      });
+      if (!features.length) return;
+      highlightLayer = L.geoJSON(
+        { type: "FeatureCollection", features },
+        {
+          style: () => ({ ...HIGHLIGHT_RING }),
+          interactive: false,
+          pane: "highlightPane",
+        }
+      ).addTo(map);
+      if (pulse && !reduceMotion) {
+        highlightLayer.eachLayer(layer => {
+          const path = layer.getElement?.() || layer._path;
+          if (path) path.classList.add("state-pulse");
+        });
+        setTimeout(() => {
+          if (!highlightLayer) return;
+          highlightLayer.eachLayer(layer => {
+            const path = layer.getElement?.() || layer._path;
+            if (path) path.classList.remove("state-pulse");
+          });
+        }, 2400);
+      }
+    }
+
     function clearHighlights() {
       highlightAbbrs.clear();
-      applyHighlightClasses(false);
+      syncHighlightOverlay(false);
     }
 
     function applyHighlightClasses(pulse) {
-      layerByAbbr.forEach((layer, abbr) => {
-        const path = layer.getElement?.() || layer._path;
-        if (!path) return;
-        const on = highlightAbbrs.has(abbr);
-        path.classList.toggle("state-pulse", Boolean(pulse && on && !reduceMotion));
-      });
+      syncHighlightOverlay(Boolean(pulse));
+    }
+
+    /**
+     * Explore/Discover tools are single-select (except Copy link / fun fact).
+     * except: "scene" | "compare" | "play"
+     */
+    function clearExclusiveTools({ except } = {}) {
+      if (except !== "scene") {
+        activeScene = null;
+        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
+      }
+      if (except !== "compare") {
+        if (compareOpen) closeComparePanel();
+        if (compareMode) setCompareMode(false);
+      }
+      if (except !== "play") {
+        window.hfaPlay?.deactivate?.();
+      }
     }
 
     function applyScene(sceneId, { toggleOff = true } = {}) {
@@ -2032,6 +2044,7 @@
         syncUrlFromState();
         return;
       }
+      clearExclusiveTools({ except: "scene" });
       activeScene = sceneId;
       setPrimaryMetricOnly(scene.metric);
       const top = rankedStates(scene.metric, scene.top);
@@ -2295,24 +2308,7 @@
       if (comparePick.length === 2) openComparePanel();
     }
 
-    let toolbarMode = "explore";
-
-    function setToolbarMode(mode) {
-      toolbarMode = mode === "play" ? "play" : "explore";
-      const select = document.getElementById("mode-select");
-      if (select) select.value = toolbarMode;
-      document.getElementById("scene-row").hidden = toolbarMode !== "explore";
-      document.getElementById("play-row").hidden = toolbarMode !== "play";
-    }
-
     function renderExploreLabels() {
-      document.getElementById("lbl-mode").textContent = t("modeLabel");
-      document.getElementById("opt-explore").textContent = t("exploreLabel");
-      document.getElementById("opt-play").textContent = t("playLabel");
-      document.getElementById("mode-select").setAttribute(
-        "aria-label",
-        `${t("exploreLabel")} / ${t("playLabel")}`
-      );
       document.getElementById("scene-top-np").textContent = t("sceneTopNp");
       document.getElementById("scene-top-growth").textContent = t("sceneTopGrowth");
       document.getElementById("scene-top-capita").textContent = t("sceneTopCapita");
@@ -2320,7 +2316,6 @@
       document.getElementById("btn-share").classList.remove("copied");
       document.getElementById("btn-compare-close").setAttribute("aria-label", t("closeCompare"));
       updateCompareButton();
-      setToolbarMode(toolbarMode);
       document.querySelectorAll(".scene-btn[data-scene]").forEach(b =>
         b.classList.toggle("active", b.dataset.scene === activeScene));
     }
@@ -2332,12 +2327,11 @@
       const val = metricValueForState(rec, mkey);
       const { min, max } = metricRange(mkey);
       const hasScale = metricValues(mkey).length > 0;
-      const highlighted = highlightAbbrs.has(abbr);
       return {
         fillColor: mkey && hasScale ? colorScale(val, min, max) : "#1e293b",
-        weight: highlighted ? 2.6 : 1,
+        weight: 1,
         opacity: 1,
-        color: highlighted ? "#fde047" : "#64748b",
+        color: "#64748b",
         fillOpacity: mkey && val != null ? 0.78 : 0.35,
       };
     }
@@ -2379,7 +2373,7 @@
       updateLayerLabels();
       updateLegend();
       renderRankPanel();
-      requestAnimationFrame(() => applyHighlightClasses(false));
+      syncHighlightOverlay(false);
     }
 
     function updateLegend() {
@@ -2618,6 +2612,9 @@
           closeComparePanel();
           refreshMap();
         } else {
+          clearExclusiveTools({ except: "compare" });
+          clearHighlights();
+          refreshMap();
           setCompareMode(true);
         }
       };
@@ -2636,9 +2633,6 @@
         }
       };
       document.getElementById("btn-fun-fact").onclick = nextFunFact;
-      document.getElementById("mode-select").onchange = e => {
-        setToolbarMode(e.target.value);
-      };
       document.addEventListener("keydown", e => {
         if (e.key !== "Escape") return;
         if (window.hfaPlay?.onEscape?.()) return;
@@ -2741,6 +2735,7 @@
           isDrawerOpen: () => drawerOpen,
           closeReport,
           isReportOpen: () => reportOpen,
+          clearExclusiveTools,
         });
       }
       bootFromUrl(bootParams);
