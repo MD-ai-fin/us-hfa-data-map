@@ -818,13 +818,20 @@
         max-width: none;
         flex: 0 0 auto;
       }
-      /* Sit after explore controls in the same scroll row — no overlap */
+      /* Sit after explore controls; full text scrolls horizontally (no ellipsis) */
       .fun-fact {
         flex: 0 0 auto;
-        min-width: 0;
-        max-width: min(72vw, 280px);
+        min-width: max-content;
+        max-width: none;
         margin-left: 0.35rem;
         padding-left: 0.65rem;
+        padding-right: 0.25rem;
+      }
+      .fun-fact-text {
+        overflow: visible;
+        text-overflow: unset;
+        white-space: nowrap;
+        max-width: none;
       }
       .play-modal:not(.map-clear) { padding: 0; }
       .play-modal:not(.map-clear) .play-panel {
@@ -840,7 +847,6 @@
         border-radius: 12px;
         border: 1px solid var(--border);
       }
-      .fun-fact-text { white-space: nowrap; }
       .legend {
         bottom: 76px;
         left: 12px;
