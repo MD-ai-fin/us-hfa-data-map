@@ -242,6 +242,11 @@
       color: #fde047;
       font-weight: 600;
     }
+    .btn-share.copied {
+      background: rgba(74, 222, 128, 0.16);
+      border-color: rgba(74, 222, 128, 0.5);
+      color: #86efac;
+    }
     .fun-fact {
       display: flex;
       align-items: center;
@@ -875,6 +880,7 @@
       <button type="button" class="scene-btn" data-scene="top_growth" id="scene-top-growth">Fastest Growth</button>
       <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Per Capita</button>
       <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
+      <button type="button" class="scene-btn btn-share" id="btn-share">Copy link</button>
     </div>
     <div class="fun-fact" id="fun-fact">
       <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
@@ -984,6 +990,8 @@
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "冷知识",
         nextFact: "下一条",
+        shareBtn: "复制链接",
+        shareCopied: "已复制",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
@@ -1043,6 +1051,8 @@
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "Did you know?",
         nextFact: "Next fact",
+        shareBtn: "Copy link",
+        shareCopied: "Copied",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
@@ -1209,6 +1219,8 @@
     let compareOpen = false;
     let compareMode = false;
     let activeScene = null;
+    let focusedState = null;
+    let applyingUrl = false;
     let funFactIndex = 0;
     let funFacts = [];
     const comparePick = [];
@@ -1242,6 +1254,78 @@
 
     function t(key) { return I18N[lang][key] ?? key; }
     function tMetric(k) { return I18N[lang].metrics[k] ?? k; }
+
+    function parseUrlParams(search = location.search) {
+      const params = new URLSearchParams(search);
+      const langParam = (params.get("lang") || "").toLowerCase();
+      const nextLang = langParam === "zh" || langParam === "en" ? langParam : null;
+      const metricRaw = params.get("metric") || params.get("metrics") || "";
+      const metrics = metricRaw
+        .split(",")
+        .map(s => s.trim())
+        .filter(k => METRIC_KEYS.includes(k));
+      const stateRaw = (params.get("state") || "").toUpperCase();
+      const state = /^[A-Z]{2}$/.test(stateRaw) ? stateRaw : null;
+      const sceneRaw = params.get("scene") || "";
+      const scene = SCENES[sceneRaw] ? sceneRaw : null;
+      return { lang: nextLang, metrics, state, scene };
+    }
+
+    function buildShareUrl() {
+      const params = new URLSearchParams();
+      params.set("lang", lang);
+      const metrics = METRIC_KEYS.filter(k => selectedMetrics.has(k));
+      if (metrics.length) params.set("metric", metrics.join(","));
+      if (activeScene && SCENES[activeScene]) params.set("scene", activeScene);
+      if (focusedState) params.set("state", focusedState);
+      const qs = params.toString();
+      return `${location.origin}${location.pathname}${qs ? `?${qs}` : ""}`;
+    }
+
+    function syncUrlFromState() {
+      if (applyingUrl) return;
+      const url = buildShareUrl();
+      const next = url.replace(location.origin, "");
+      const current = `${location.pathname}${location.search}`;
+      if (next === current) return;
+      history.replaceState({ lang, metrics: [...selectedMetrics], state: focusedState, scene: activeScene }, "", url);
+    }
+
+    function setFocusedState(abbr, { sync = true } = {}) {
+      focusedState = abbr || null;
+      const select = document.getElementById("state-report-select");
+      if (select && abbr && [...select.options].some(o => o.value === abbr)) select.value = abbr;
+      document.querySelectorAll("#rank-list li").forEach(li =>
+        li.classList.toggle("active", Boolean(abbr) && li.dataset.state === abbr));
+      if (sync) syncUrlFromState();
+    }
+
+    async function copyShareLink() {
+      const url = buildShareUrl();
+      syncUrlFromState();
+      const btn = document.getElementById("btn-share");
+      try {
+        if (navigator.clipboard?.writeText) await navigator.clipboard.writeText(url);
+        else {
+          const ta = document.createElement("textarea");
+          ta.value = url;
+          ta.style.position = "fixed";
+          ta.style.left = "-9999px";
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand("copy");
+          ta.remove();
+        }
+        btn.textContent = t("shareCopied");
+        btn.classList.add("copied");
+        setTimeout(() => {
+          btn.textContent = t("shareBtn");
+          btn.classList.remove("copied");
+        }, 1600);
+      } catch (_err) {
+        window.prompt(t("shareBtn"), url);
+      }
+    }
     function sourceText(key) {
       return SOURCE_I18N[lang]?.[key] ?? dataset?.sources?.[key] ?? key;
     }
@@ -1438,8 +1522,7 @@
     function openStateReportPopup(abbr) {
       const layer = layerByAbbr.get(abbr);
       if (!layer) return;
-      const select = document.getElementById("state-report-select");
-      if (select) select.value = abbr;
+      setFocusedState(abbr);
       layer.setPopupContent(buildReportPopupHtml(abbr));
       layer.openPopup();
     }
@@ -1716,14 +1799,15 @@
       });
     }
 
-    function applyScene(sceneId) {
+    function applyScene(sceneId, { toggleOff = true } = {}) {
       const scene = SCENES[sceneId];
       if (!scene) return;
-      if (activeScene === sceneId) {
+      if (toggleOff && activeScene === sceneId) {
         activeScene = null;
         clearHighlights();
-        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
         refreshMap();
+        syncUrlFromState();
         return;
       }
       activeScene = sceneId;
@@ -1731,12 +1815,32 @@
       const top = rankedStates(scene.metric, scene.top);
       highlightAbbrs.clear();
       top.forEach(r => highlightAbbrs.add(r.state));
-      document.querySelectorAll(".scene-btn").forEach(b =>
+      document.querySelectorAll(".scene-btn[data-scene]").forEach(b =>
         b.classList.toggle("active", b.dataset.scene === sceneId));
       refreshMap();
       applyHighlightClasses(true);
       if (!reduceMotion) {
         setTimeout(() => applyHighlightClasses(false), 2400);
+      }
+      syncUrlFromState();
+    }
+
+    function applyParsedUrl(parsed) {
+      applyingUrl = true;
+      try {
+        if (parsed.lang) lang = parsed.lang;
+        if (parsed.scene && SCENES[parsed.scene]) {
+          applyScene(parsed.scene, { toggleOff: false });
+        } else if (parsed.metrics.length) {
+          activeScene = null;
+          selectedMetrics.clear();
+          parsed.metrics.forEach(k => selectedMetrics.add(k));
+          clearHighlights();
+          document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
+        }
+        focusedState = parsed.state && layerByAbbr.has(parsed.state) ? parsed.state : null;
+      } finally {
+        applyingUrl = false;
       }
     }
 
@@ -1745,14 +1849,11 @@
       if (!layer) return;
       const bounds = layer.getBounds();
       map.fitBounds(bounds, { padding: [40, 40], maxZoom: 6, animate: !reduceMotion });
-      const select = document.getElementById("state-report-select");
-      if (select) select.value = abbr;
+      setFocusedState(abbr);
       if (!compareMode) {
         layer.setPopupContent(buildReportPopupHtml(abbr));
         layer.openPopup();
       }
-      document.querySelectorAll("#rank-list li").forEach(li =>
-        li.classList.toggle("active", li.dataset.state === abbr));
     }
 
     function renderRankPanel() {
@@ -1965,7 +2066,7 @@
       highlightAbbrs.clear();
       comparePick.forEach(s => highlightAbbrs.add(s));
       activeScene = null;
-      document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+      document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
       refreshMap();
       applyHighlightClasses(true);
       updateCompareButton();
@@ -1977,9 +2078,11 @@
       document.getElementById("scene-top-np").textContent = t("sceneTopNp");
       document.getElementById("scene-top-growth").textContent = t("sceneTopGrowth");
       document.getElementById("scene-top-capita").textContent = t("sceneTopCapita");
+      document.getElementById("btn-share").textContent = t("shareBtn");
+      document.getElementById("btn-share").classList.remove("copied");
       document.getElementById("btn-compare-close").setAttribute("aria-label", t("closeCompare"));
       updateCompareButton();
-      document.querySelectorAll(".scene-btn").forEach(b =>
+      document.querySelectorAll(".scene-btn[data-scene]").forEach(b =>
         b.classList.toggle("active", b.dataset.scene === activeScene));
     }
 
@@ -2021,8 +2124,7 @@
             handleComparePick(abbr);
             return;
           }
-          const select = document.getElementById("state-report-select");
-          if (select) select.value = abbr;
+          setFocusedState(abbr);
         },
       });
     }
@@ -2079,10 +2181,11 @@
           else selectedMetrics.delete(k);
           el.classList.toggle("checked", input.checked);
           activeScene = null;
-          document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+          document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
           if (!compareMode) clearHighlights();
           updateMetricsDrawerBtn();
           refreshMap();
+          syncUrlFromState();
         };
         input.addEventListener("change", toggle);
         el.addEventListener("click", e => {
@@ -2221,25 +2324,28 @@
             b.classList.toggle("active", b.dataset.lang === lang));
           renderControls();
           refreshMap();
+          syncUrlFromState();
         };
       });
       document.getElementById("btn-select-all").onclick = () => {
         METRIC_KEYS.forEach(k => selectedMetrics.add(k));
         activeScene = null;
-        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
         if (!compareMode) clearHighlights();
         renderMetricOptions();
         updateMetricsDrawerBtn();
         refreshMap();
+        syncUrlFromState();
       };
       document.getElementById("btn-clear-all").onclick = () => {
         selectedMetrics.clear();
         activeScene = null;
-        document.querySelectorAll(".scene-btn").forEach(b => b.classList.remove("active"));
+        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
         if (!compareMode) clearHighlights();
         renderMetricOptions();
         updateMetricsDrawerBtn();
         refreshMap();
+        syncUrlFromState();
       };
       document.getElementById("btn-report").onclick = openReport;
       document.getElementById("btn-report-close").onclick = closeReport;
@@ -2249,12 +2355,14 @@
       document.getElementById("state-report-select").onchange = e => {
         const abbr = e.target.value;
         if (abbr) openStateReportPopup(abbr);
+        else setFocusedState(null);
       };
+      document.getElementById("btn-share").onclick = copyShareLink;
       document.getElementById("btn-metrics-drawer").onclick = openMetricsDrawer;
       document.getElementById("btn-drawer-close").onclick = closeMetricsDrawer;
       document.getElementById("drawer-backdrop").onclick = closeMetricsDrawer;
       document.getElementById("drawer-handle").onclick = closeMetricsDrawer;
-      document.querySelectorAll(".scene-btn").forEach(btn => {
+      document.querySelectorAll(".scene-btn[data-scene]").forEach(btn => {
         btn.onclick = () => applyScene(btn.dataset.scene);
       });
       document.getElementById("btn-compare").onclick = () => {
@@ -2312,7 +2420,22 @@
       });
     }
 
+    function bootFromUrl(parsed) {
+      applyParsedUrl(parsed);
+      document.querySelectorAll("#lang-toggle button").forEach(b =>
+        b.classList.toggle("active", b.dataset.lang === lang));
+      renderControls();
+      refreshMap();
+      syncUrlFromState();
+      if (parsed.state && layerByAbbr.has(parsed.state)) {
+        setTimeout(() => flyToState(parsed.state), reduceMotion ? 0 : 120);
+      }
+    }
+
     async function init() {
+      const bootParams = parseUrlParams();
+      if (bootParams.lang) lang = bootParams.lang;
+
       if (location.protocol === "file:") {
         throw new Error(
           lang === "zh"
@@ -2348,13 +2471,13 @@
         map.fitBounds(stateLayer.getBounds(), { padding: [20, 20] });
       }
 
-      renderControls();
       bindToggles();
-      refreshMap();
+      bootFromUrl(bootParams);
       renderFunFact(true);
       initAnalytics();
 
       map.on("zoomend moveend resize viewreset", scheduleLabelUpdate);
+      window.addEventListener("popstate", () => bootFromUrl(parseUrlParams()));
     }
 
     init().catch(err => {
