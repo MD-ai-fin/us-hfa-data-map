@@ -2732,18 +2732,25 @@
       layerByAbbr.clear();
       if (stateLayer) map.removeLayer(stateLayer);
       stateLayer = L.geoJSON(geo, { style: styleFeature, onEachFeature }).addTo(map);
-      // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view)
-      const contiguousBounds = L.latLngBounds();
-      stateLayer.eachLayer(layer => {
-        const abbr = STATE_ABBR[layer.feature?.properties?.name];
-        if (abbr && abbr !== "AK" && abbr !== "HI") contiguousBounds.extend(layer.getBounds());
-      });
-      if (contiguousBounds.isValid()) {
-        map.fitBounds(contiguousBounds, { padding: [4, 4], maxZoom: 8 });
-        map.setZoom(map.getZoom() + Math.log2(1.17), { animate: false });
-      } else {
-        map.fitBounds(stateLayer.getBounds(), { padding: [20, 20] });
+
+      function resetMapView() {
+        if (!stateLayer) return;
+        const contiguousBounds = L.latLngBounds();
+        stateLayer.eachLayer(layer => {
+          const abbr = STATE_ABBR[layer.feature?.properties?.name];
+          if (abbr && abbr !== "AK" && abbr !== "HI") contiguousBounds.extend(layer.getBounds());
+        });
+        // Match the initial boot framing exactly (no animation race with setZoom)
+        if (contiguousBounds.isValid()) {
+          map.fitBounds(contiguousBounds, { padding: [4, 4], maxZoom: 8, animate: false });
+          map.setZoom(map.getZoom() + Math.log2(1.17), { animate: false });
+        } else {
+          map.fitBounds(stateLayer.getBounds(), { padding: [20, 20], animate: false });
+        }
       }
+
+      // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view)
+      resetMapView();
 
       bindToggles();
       if (typeof initHfaPlay === "function") {
@@ -2765,6 +2772,7 @@
           closeReport,
           isReportOpen: () => reportOpen,
           clearExclusiveTools,
+          resetMapView,
         });
       }
       bootFromUrl(bootParams);

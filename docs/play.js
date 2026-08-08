@@ -14,6 +14,7 @@
       closeMetricsDrawer,
       isDrawerOpen, closeReport, isReportOpen,
       clearExclusiveTools,
+      resetMapView,
     } = api;
 
     let anomalyType = null;
@@ -160,6 +161,7 @@
       if (!myStateMode) {
         clearHighlights();
         refreshMap();
+        resetMapView?.();
       }
     }
 
