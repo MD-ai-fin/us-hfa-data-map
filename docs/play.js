@@ -319,7 +319,6 @@
     }
 
     function renderPlayLabels() {
-      $("lbl-play").textContent = t("playLabel");
       $("btn-my-state").textContent = t("myStateBtn");
       $("btn-anomaly").textContent = t("anomalyBtn");
       $("btn-quiz").textContent = t("quizBtn");

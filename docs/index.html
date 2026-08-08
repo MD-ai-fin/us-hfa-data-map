@@ -200,20 +200,54 @@
     }
     .explore-bar {
       display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 0.55rem 0.85rem;
+      flex-direction: column;
+      gap: 0.4rem;
       padding: 0.45rem 1.25rem 0.55rem;
       background: #162032;
       border-bottom: 1px solid var(--border);
       flex-shrink: 0;
     }
-    .scene-row {
+    .explore-top-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem 0.85rem;
+      min-width: 0;
+    }
+    .mode-switch {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      flex-shrink: 0;
+    }
+    .mode-switch label {
+      font-size: 0.72rem;
+      color: var(--muted);
+      white-space: nowrap;
+    }
+    select#mode-select {
+      background: #0f172a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.35rem 0.55rem;
+      font-size: 0.78rem;
+      min-height: 32px;
+      cursor: pointer;
+    }
+    select#mode-select:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+    .scene-row, .play-row {
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       gap: 0.4rem;
       min-width: 0;
+    }
+    .scene-row[hidden], .play-row[hidden] {
+      display: none !important;
     }
     .explore-label {
       font-size: 0.72rem;
@@ -246,13 +280,6 @@
       background: rgba(74, 222, 128, 0.16);
       border-color: rgba(74, 222, 128, 0.5);
       color: #86efac;
-    }
-    .play-row {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 0.4rem;
-      width: 100%;
     }
     .play-row .scene-btn.active {
       background: rgba(167, 139, 250, 0.18);
@@ -373,7 +400,7 @@
       align-items: center;
       gap: 0.45rem;
       min-width: 0;
-      flex: 1;
+      flex: 1 1 200px;
       font-size: 0.78rem;
       color: #cbd5e1;
       line-height: 1.35;
@@ -811,18 +838,25 @@
       #map-wrap { width: 100%; height: 100%; }
       .explore-bar {
         padding: 0.4rem 0.75rem;
-        gap: 0.4rem;
+        gap: 0.35rem;
         max-height: none;
         overflow: visible;
       }
+      .explore-top-row {
+        flex-wrap: nowrap;
+        gap: 0.45rem;
+      }
+      .mode-switch label { display: none; }
       .scene-row, .play-row {
-        flex: 1 1 100%;
         overflow-x: auto;
         flex-wrap: nowrap;
         -webkit-overflow-scrolling: touch;
         padding-bottom: 0.1rem;
       }
-      .fun-fact { flex: 1 1 100%; }
+      .fun-fact {
+        flex: 1 1 auto;
+        min-width: 0;
+      }
       .play-modal { padding: 0; }
       .play-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
       .fun-fact-text { white-space: nowrap; }
@@ -997,24 +1031,31 @@
   </div>
 
   <div class="explore-bar" id="explore-bar">
+    <div class="explore-top-row">
+      <div class="mode-switch">
+        <label for="mode-select" id="lbl-mode">Mode</label>
+        <select id="mode-select" aria-label="Explore or Play">
+          <option value="explore" id="opt-explore" selected>Explore</option>
+          <option value="play" id="opt-play">Discover</option>
+        </select>
+      </div>
+      <div class="fun-fact" id="fun-fact">
+        <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
+        <span class="fun-fact-text" id="fun-fact-text">—</span>
+        <button type="button" class="fun-fact-refresh" id="btn-fun-fact" aria-label="Next fact">↻</button>
+      </div>
+    </div>
     <div class="scene-row" id="scene-row">
-      <span class="explore-label" id="lbl-scenes">Explore</span>
       <button type="button" class="scene-btn" data-scene="top_np" id="scene-top-np">Top Net Position</button>
       <button type="button" class="scene-btn" data-scene="top_growth" id="scene-top-growth">Fastest Growth</button>
       <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Per Capita</button>
       <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
       <button type="button" class="scene-btn btn-share" id="btn-share">Copy link</button>
     </div>
-    <div class="play-row" id="play-row">
-      <span class="explore-label" id="lbl-play">Play</span>
+    <div class="play-row" id="play-row" hidden>
       <button type="button" class="scene-btn" id="btn-my-state">My state</button>
       <button type="button" class="scene-btn" id="btn-anomaly">Spot outliers</button>
       <button type="button" class="scene-btn" id="btn-quiz">Guess</button>
-    </div>
-    <div class="fun-fact" id="fun-fact">
-      <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
-      <span class="fun-fact-text" id="fun-fact-text">—</span>
-      <button type="button" class="fun-fact-refresh" id="btn-fun-fact" aria-label="Next fact">↻</button>
     </div>
   </div>
 
@@ -1118,6 +1159,8 @@
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
         metricsDrawerBtn: "指标",
         exploreLabel: "探索",
+        playLabel: "发现",
+        modeLabel: "模式",
         sceneTopNp: "净资产 Top",
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
@@ -1132,7 +1175,6 @@
         nextFact: "下一条",
         shareBtn: "复制链接",
         shareCopied: "已复制",
-        playLabel: "玩法",
         myStateBtn: "我的州",
         myStateTitle: "我的州",
         myStatePick: "选择州 / 地区",
@@ -1205,6 +1247,8 @@
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
         metricsDrawerBtn: "Metrics",
         exploreLabel: "Explore",
+        playLabel: "Discover",
+        modeLabel: "Mode",
         sceneTopNp: "Top Net Position",
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Per Capita",
@@ -1219,7 +1263,6 @@
         nextFact: "Next fact",
         shareBtn: "Copy link",
         shareCopied: "Copied",
-        playLabel: "Play",
         myStateBtn: "My state",
         myStateTitle: "My state",
         myStatePick: "Choose a state / district",
@@ -2265,8 +2308,24 @@
       if (comparePick.length === 2) openComparePanel();
     }
 
+    let toolbarMode = "explore";
+
+    function setToolbarMode(mode) {
+      toolbarMode = mode === "play" ? "play" : "explore";
+      const select = document.getElementById("mode-select");
+      if (select) select.value = toolbarMode;
+      document.getElementById("scene-row").hidden = toolbarMode !== "explore";
+      document.getElementById("play-row").hidden = toolbarMode !== "play";
+    }
+
     function renderExploreLabels() {
-      document.getElementById("lbl-scenes").textContent = t("exploreLabel");
+      document.getElementById("lbl-mode").textContent = t("modeLabel");
+      document.getElementById("opt-explore").textContent = t("exploreLabel");
+      document.getElementById("opt-play").textContent = t("playLabel");
+      document.getElementById("mode-select").setAttribute(
+        "aria-label",
+        `${t("exploreLabel")} / ${t("playLabel")}`
+      );
       document.getElementById("scene-top-np").textContent = t("sceneTopNp");
       document.getElementById("scene-top-growth").textContent = t("sceneTopGrowth");
       document.getElementById("scene-top-capita").textContent = t("sceneTopCapita");
@@ -2274,6 +2333,7 @@
       document.getElementById("btn-share").classList.remove("copied");
       document.getElementById("btn-compare-close").setAttribute("aria-label", t("closeCompare"));
       updateCompareButton();
+      setToolbarMode(toolbarMode);
       document.querySelectorAll(".scene-btn[data-scene]").forEach(b =>
         b.classList.toggle("active", b.dataset.scene === activeScene));
     }
@@ -2589,6 +2649,9 @@
         }
       };
       document.getElementById("btn-fun-fact").onclick = nextFunFact;
+      document.getElementById("mode-select").onchange = e => {
+        setToolbarMode(e.target.value);
+      };
       document.addEventListener("keydown", e => {
         if (e.key !== "Escape") return;
         if (window.hfaPlay?.onEscape?.()) return;
