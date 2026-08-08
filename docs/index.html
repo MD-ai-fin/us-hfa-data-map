@@ -228,7 +228,8 @@
       align-items: center;
       gap: 0.4rem;
       min-width: 0;
-      flex: 0 1 auto;
+      flex: 1 1 auto;
+      width: 100%;
     }
     .scene-btn, .btn-compare {
       font-size: 0.78rem;
@@ -373,6 +374,8 @@
       color: #cbd5e1;
       line-height: 1.35;
       margin-left: auto;
+      padding-left: 0.5rem;
+      border-left: 1px solid var(--border);
     }
     .fun-fact-label {
       flex-shrink: 0;
@@ -810,10 +813,18 @@
         gap: 0.4rem;
         -webkit-overflow-scrolling: touch;
       }
+      .scene-row {
+        width: max-content;
+        max-width: none;
+        flex: 0 0 auto;
+      }
+      /* Sit after explore controls in the same scroll row — no overlap */
       .fun-fact {
-        flex: 1 1 120px;
-        min-width: 110px;
-        margin-left: 0;
+        flex: 0 0 auto;
+        min-width: 0;
+        max-width: min(72vw, 280px);
+        margin-left: 0.35rem;
+        padding-left: 0.65rem;
       }
       .play-modal:not(.map-clear) { padding: 0; }
       .play-modal:not(.map-clear) .play-panel {
@@ -1009,11 +1020,11 @@
       <button type="button" class="scene-btn discover" id="btn-my-state">My state</button>
       <button type="button" class="scene-btn discover" id="btn-anomaly">Contrasts</button>
       <button type="button" class="scene-btn btn-share" id="btn-share">Copy link</button>
-    </div>
-    <div class="fun-fact" id="fun-fact">
-      <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
-      <span class="fun-fact-text" id="fun-fact-text">—</span>
-      <button type="button" class="fun-fact-refresh" id="btn-fun-fact" aria-label="Next fact">↻</button>
+      <div class="fun-fact" id="fun-fact">
+        <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
+        <span class="fun-fact-text" id="fun-fact-text">—</span>
+        <button type="button" class="fun-fact-refresh" id="btn-fun-fact" aria-label="Next fact">↻</button>
+      </div>
     </div>
   </div>
 
