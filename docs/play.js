@@ -84,12 +84,12 @@
       if (pulse) applyHighlightClasses(true);
     }
 
-    function openPlayModal(title, { clearBackdrop = false } = {}) {
+    function openPlayModal(title, { clearBackdrop = false, keepPosition = false } = {}) {
       if (isReportOpen()) closeReport();
       if (isDrawerOpen()) closeMetricsDrawer();
       $("play-title").textContent = title;
       const modal = $("play-modal");
-      resetPanelPosition();
+      if (!keepPosition) resetPanelPosition();
       modal.classList.toggle("map-clear", Boolean(clearBackdrop));
       modal.classList.add("open");
       modal.setAttribute("aria-hidden", "false");
@@ -267,7 +267,11 @@
       setPrimaryMetricOnly(metric);
       $("btn-anomaly").classList.add("active");
       $("btn-my-state")?.classList.remove("active");
-      openPlayModal(t("anomalyTitle"), { clearBackdrop: true });
+      const panelAlreadyOpen = $("play-modal")?.classList.contains("open");
+      openPlayModal(t("anomalyTitle"), {
+        clearBackdrop: true,
+        keepPosition: panelAlreadyOpen,
+      });
       const explain = type === "growth_small" ? t("anomalyGrowthSmall") : t("anomalyAssetsLowCapita");
       const list = rows.slice(0, 12).map(r => {
         const rec = getStateData(r.state);
