@@ -170,15 +170,6 @@
       color: var(--muted);
       line-height: 1.45;
     }
-    .page-views {
-      margin-top: 0.55rem;
-      padding-top: 0.55rem;
-      border-top: 1px solid var(--border);
-      font-size: 0.68rem;
-      color: var(--muted);
-      line-height: 1.45;
-    }
-    .page-views strong { color: #cbd5e1; font-weight: 500; }
     .leaflet-container { background: #0b1220; }
     .state-value-marker {
       background: transparent !important;
@@ -437,7 +428,6 @@
       </div>
       <div class="metric-options" id="metric-options"></div>
       <div class="sources" id="sources"></div>
-      <div class="page-views" id="page-views" hidden></div>
     </aside>
   </div>
 
@@ -468,7 +458,6 @@
         sidebarHint: "勾选数据项，地图上各州显示对应指标数值",
         selectAll: "全选", clearAll: "清除",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
-        pageViews: "浏览量",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
@@ -506,7 +495,6 @@
         sidebarHint: "Selected metrics appear as values on each state",
         selectAll: "Select All", clearAll: "Clear All",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
-        pageViews: "Page views",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
@@ -690,42 +678,25 @@
         keys.map(k => `• ${sourceText(k)}`).join("<br>");
     }
 
-    /** Lightweight page-view counter (no account). Localhost / file:// skipped. */
-    const PAGE_VIEWS_SITE = "md-ai-fin-us-hfa-data-map";
-    const PAGE_VIEWS_PATH = "/";
-    const PAGE_VIEWS_API = "https://page-views-api.ratneshc.com/api/v1";
-    let pageViewCount = null;
+    /**
+     * GoatCounter (private dashboard, not shown on the map).
+     * 1) Create a free site at https://www.goatcounter.com
+     * 2) Put the subdomain code below (e.g. "ushfamap" → https://ushfamap.goatcounter.com)
+     * Localhost / file:// are skipped.
+     */
+    const GOATCOUNTER_CODE = "ushfamap";
 
-    function shouldTrackPageViews() {
+    function initAnalytics() {
+      const code = (GOATCOUNTER_CODE || "").trim();
+      if (!code) return;
       const host = location.hostname;
-      if (!host || host === "localhost" || host === "127.0.0.1") return false;
-      if (location.protocol === "file:") return false;
-      return true;
-    }
-
-    function renderPageViews() {
-      const el = document.getElementById("page-views");
-      if (!el || pageViewCount == null) return;
-      const n = Number(pageViewCount).toLocaleString(lang === "zh" ? "zh-CN" : "en-US");
-      el.hidden = false;
-      el.innerHTML = `<strong>${t("pageViews")}:</strong> ${n}`;
-    }
-
-    async function initPageViews() {
-      if (!shouldTrackPageViews()) return;
-      const q = `site=${encodeURIComponent(PAGE_VIEWS_SITE)}&path=${encodeURIComponent(PAGE_VIEWS_PATH)}`;
-      try {
-        await fetch(`${PAGE_VIEWS_API}/track?${q}`, { keepalive: true, cache: "no-store" });
-        const resp = await fetch(`${PAGE_VIEWS_API}/views?${q}`, { cache: "no-store" });
-        if (!resp.ok) return;
-        const data = await resp.json();
-        if (data && data.views != null) {
-          pageViewCount = data.views;
-          renderPageViews();
-        }
-      } catch (_err) {
-        /* analytics should never break the map */
-      }
+      if (!host || host === "localhost" || host === "127.0.0.1") return;
+      if (location.protocol === "file:") return;
+      const s = document.createElement("script");
+      s.async = true;
+      s.dataset.goatcounter = `https://${code}.goatcounter.com/count`;
+      s.src = "https://gc.zgo.at/count.js";
+      document.head.appendChild(s);
     }
 
     function reportPath() {
@@ -1204,7 +1175,6 @@
         renderReportContent();
       }
       renderSources();
-      renderPageViews();
       renderMetricOptions();
       layerByAbbr.forEach((layer, abbr) => {
         if (layer.isPopupOpen()) layer.setPopupContent(buildReportPopupHtml(abbr));
@@ -1303,7 +1273,7 @@
       renderControls();
       bindToggles();
       refreshMap();
-      initPageViews();
+      initAnalytics();
 
       map.on("zoomend moveend resize viewreset", scheduleLabelUpdate);
     }
