@@ -852,7 +852,7 @@
         border: 1px solid var(--border);
       }
       .legend {
-        bottom: 76px;
+        bottom: 68px;
         left: 12px;
         min-width: 140px;
         padding: 0.55rem 0.7rem;
@@ -871,7 +871,14 @@
         padding: 0.2rem 0.15rem;
       }
       .rank-panel .name { display: none; }
-      .site-footer { display: none; }
+      /* Compact legal strip — was display:none and invisible on phones */
+      .site-footer {
+        display: block;
+        padding: 6px 10px calc(6px + env(safe-area-inset-bottom, 0px));
+        font-size: 0.62rem;
+        line-height: 1.35;
+        text-align: center;
+      }
       .compare-modal { padding: 0; }
       .compare-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
       .compare-grid { grid-template-columns: 1.2fr 1fr 1fr; font-size: 0.78rem; }
@@ -894,7 +901,8 @@
         gap: 0.4rem;
         position: fixed;
         left: 50%;
-        bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+        /* Sit above the mobile footer strip */
+        bottom: calc(52px + env(safe-area-inset-bottom, 0px));
         transform: translateX(-50%);
         z-index: 1100;
         min-width: 148px;
