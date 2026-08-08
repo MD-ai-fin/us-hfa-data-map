@@ -716,10 +716,12 @@ def _report_copy(language: str) -> dict:
             ),
             "key_findings": (
                 "Among {count} agencies with extracted metrics, aggregate net position is approximately {np} "
-                "and aggregate total assets approximately {assets}. State HFAs function largely as "
-                "bond-financed intermediaries: mortgage and development loans on the asset side, and housing "
-                "bonds on the liability side. The net position ratio (net position divided by total assets) "
-                "is a useful indicator of financial cushion and resilience."
+                "and aggregate total assets approximately {assets}. These aggregates are indicative of sector "
+                "scale only and are not comparable to consolidated financial statements given differing "
+                "reporting bases. State HFAs function largely as bond-financed intermediaries: mortgage and "
+                "development loans on the asset side, and housing bonds on the liability side. The net "
+                "position ratio (net position divided by total assets) is a useful indicator of financial "
+                "cushion and resilience."
             ),
             "growth_champion": (
                 "The strongest year-over-year increase in net position was recorded by {state} ({abbr}), "
@@ -890,6 +892,7 @@ def _report_copy(language: str) -> dict:
         ),
         "key_findings": (
             "在已提取到核心指标的 {count} 家机构中，净资产合计约 {np}，总资产合计约 {assets}。"
+            "上述合计仅反映行业规模量级；因各机构披露口径不尽相同，不宜与合并财务报表直接比照。"
             "州级 HFA 大体充当以债券融资为支撑的中介机构：资产端多为抵押贷款与开发贷款，"
             "负债端则以住房债券为主。"
             "净资产率（净资产÷总资产）是观察财务缓冲与抗风险能力的重要指标。"
