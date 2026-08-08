@@ -170,6 +170,50 @@
       min-width: 180px;
       backdrop-filter: blur(6px);
     }
+    /* AK / HI insets when those states are on a ranked/highlight list */
+    .map-insets {
+      display: none;
+      position: absolute;
+      left: 24px;
+      bottom: 118px;
+      z-index: 1000;
+      flex-direction: row;
+      align-items: stretch;
+      gap: 0.45rem;
+      pointer-events: auto;
+    }
+    .map-insets.visible { display: flex; }
+    .inset-card {
+      width: 118px;
+      background: rgba(15, 23, 42, 0.94);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.35);
+      backdrop-filter: blur(6px);
+    }
+    .inset-card[hidden] { display: none !important; }
+    .inset-map {
+      width: 100%;
+      height: 84px;
+      background: #0b1220;
+    }
+    .inset-map .leaflet-container { background: #0b1220; }
+    .inset-label {
+      display: block;
+      text-align: center;
+      font-size: 0.68rem;
+      font-weight: 600;
+      color: #e2e8f0;
+      padding: 0.28rem 0.35rem 0.35rem;
+      border-top: 1px solid var(--border);
+      letter-spacing: 0.02em;
+    }
+    .inset-card.is-highlight {
+      border-color: rgba(253, 224, 71, 0.75);
+      box-shadow: 0 0 0 1px rgba(253, 224, 71, 0.35), 0 8px 20px rgba(0, 0, 0, 0.35);
+    }
+    .inset-card.is-highlight .inset-label { color: #fde047; }
     .legend h3 { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.5rem; line-height: 1.35; }
     .legend-bar {
       height: 12px;
@@ -857,6 +901,14 @@
         min-width: 140px;
         padding: 0.55rem 0.7rem;
       }
+      .map-insets {
+        left: 12px;
+        bottom: 148px;
+        gap: 0.35rem;
+      }
+      .inset-card { width: 96px; }
+      .inset-map { height: 70px; }
+      .inset-label { font-size: 0.62rem; }
       .legend h3 { font-size: 0.7rem; margin-bottom: 0.35rem; }
       .rank-panel {
         top: 8px;
@@ -1052,6 +1104,16 @@
       <div class="rank-panel" id="rank-panel">
         <h3 id="rank-title">Top 5</h3>
         <ol id="rank-list"></ol>
+      </div>
+      <div class="map-insets" id="map-insets" aria-label="Alaska and Hawaii insets">
+        <div class="inset-card" id="inset-card-ak" hidden>
+          <div class="inset-map" id="inset-map-ak"></div>
+          <span class="inset-label" id="inset-label-ak">AK</span>
+        </div>
+        <div class="inset-card" id="inset-card-hi" hidden>
+          <div class="inset-map" id="inset-map-hi"></div>
+          <span class="inset-label" id="inset-label-hi">HI</span>
+        </div>
       </div>
       <div class="legend" id="legend">
         <h3 id="legend-title">Legend</h3>
@@ -1410,6 +1472,8 @@
 
     let lang = "en", year = "2025";
     let dataset = null, stateLayer = null, highlightLayer = null;
+    const insetFeatures = {}; // AK / HI GeoJSON features
+    const insetMaps = {}; // abbr → { map, layer }
     let reportLinks = {};
     const reportCache = {};
     let reportOpen = false;
@@ -2006,7 +2070,8 @@
       const features = [];
       stateLayer.eachLayer(layer => {
         const abbr = STATE_ABBR[layer.feature?.properties?.name];
-        if (abbr && highlightAbbrs.has(abbr) && layer.feature) {
+        // AK/HI are shown in bottom-left insets when highlighted
+        if (abbr && highlightAbbrs.has(abbr) && layer.feature && abbr !== "AK" && abbr !== "HI") {
           // Keep full geometry (e.g. Michigan MultiPolygon: both peninsulas + islands)
           features.push(layer.feature);
         }
@@ -2397,12 +2462,87 @@
       });
     }
 
+    function insetStyle(feature) {
+      const base = styleFeature(feature);
+      const abbr = STATE_ABBR[feature.properties.name];
+      if (highlightAbbrs.has(abbr)) {
+        return {
+          ...base,
+          color: "#fde047",
+          weight: 3,
+          opacity: 1,
+        };
+      }
+      return base;
+    }
+
+    function ensureInsetMap(abbr) {
+      if (insetMaps[abbr] || !insetFeatures[abbr]) return insetMaps[abbr];
+      const el = document.getElementById(`inset-map-${abbr.toLowerCase()}`);
+      if (!el) return null;
+      const insetMap = L.map(el, {
+        zoomControl: false,
+        attributionControl: false,
+        dragging: false,
+        scrollWheelZoom: false,
+        doubleClickZoom: false,
+        boxZoom: false,
+        keyboard: false,
+        touchZoom: false,
+      });
+      const layer = L.geoJSON(insetFeatures[abbr], {
+        style: insetStyle,
+        interactive: true,
+      }).addTo(insetMap);
+      layer.on("click", () => {
+        // Keep focus on the inset state without yanking the main map to AK/HI
+        setFocusedState(abbr);
+        if (window.hfaPlay?.onMapClick?.(abbr)) return;
+      });
+      insetMaps[abbr] = { map: insetMap, layer };
+      return insetMaps[abbr];
+    }
+
+    function updateInsets() {
+      const box = document.getElementById("map-insets");
+      if (!box) return;
+      const show = { AK: highlightAbbrs.has("AK"), HI: highlightAbbrs.has("HI") };
+      const any = show.AK || show.HI;
+      box.classList.toggle("visible", any);
+
+      for (const abbr of ["AK", "HI"]) {
+        const card = document.getElementById(`inset-card-${abbr.toLowerCase()}`);
+        const label = document.getElementById(`inset-label-${abbr.toLowerCase()}`);
+        if (!card) continue;
+        if (!show[abbr] || !insetFeatures[abbr]) {
+          card.hidden = true;
+          card.classList.remove("is-highlight");
+          continue;
+        }
+        card.hidden = false;
+        card.classList.add("is-highlight");
+        const rec = getStateData(abbr);
+        if (label) {
+          const name = stateDisplayName(rec, abbr);
+          label.textContent = `${abbr} · ${name}`;
+        }
+        const entry = ensureInsetMap(abbr);
+        if (!entry) continue;
+        entry.layer.setStyle(insetStyle);
+        requestAnimationFrame(() => {
+          entry.map.invalidateSize({ animate: false });
+          entry.map.fitBounds(entry.layer.getBounds(), { padding: [10, 10], animate: false });
+        });
+      }
+    }
+
     function refreshMap() {
       if (stateLayer) stateLayer.setStyle(styleFeature);
       updateLayerLabels();
       updateLegend();
       renderRankPanel();
       syncHighlightOverlay(false);
+      updateInsets();
     }
 
     function updateLegend() {
@@ -2730,6 +2870,11 @@
       reportLinks = await linksResp.json();
 
       layerByAbbr.clear();
+      Object.keys(insetFeatures).forEach(k => delete insetFeatures[k]);
+      (geo.features || []).forEach(f => {
+        const abbr = STATE_ABBR[f.properties?.name];
+        if (abbr === "AK" || abbr === "HI") insetFeatures[abbr] = f;
+      });
       if (stateLayer) map.removeLayer(stateLayer);
       stateLayer = L.geoJSON(geo, { style: styleFeature, onEachFeature }).addTo(map);
 
