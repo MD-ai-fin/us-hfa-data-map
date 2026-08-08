@@ -247,6 +247,127 @@
       border-color: rgba(74, 222, 128, 0.5);
       color: #86efac;
     }
+    .play-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem;
+      width: 100%;
+    }
+    .play-row .scene-btn.active {
+      background: rgba(167, 139, 250, 0.18);
+      border-color: rgba(167, 139, 250, 0.55);
+      color: #c4b5fd;
+    }
+    .play-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 2150;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(2, 6, 23, 0.72);
+      backdrop-filter: blur(4px);
+    }
+    .play-modal.open { display: flex; }
+    /* 我的州 / 找异常 / 猜州：不模糊，地图保持清晰 */
+    .play-modal.map-clear {
+      background: rgba(2, 6, 23, 0.28);
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+    }
+    /* 猜州：遮罩不拦截点击，可直接点地图 */
+    .play-modal.quiz-open {
+      align-items: flex-start;
+      padding-top: 0.75rem;
+      background: transparent;
+      backdrop-filter: none;
+      -webkit-backdrop-filter: none;
+      pointer-events: none;
+    }
+    .play-modal.quiz-open .play-panel {
+      pointer-events: auto;
+      width: min(420px, calc(100% - 1.5rem));
+      max-height: min(42vh, 360px);
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.55);
+    }
+    .play-panel {
+      width: min(560px, 100%);
+      max-height: 100%;
+      overflow: auto;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+    }
+    .play-field {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      margin-bottom: 0.85rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+    .play-field select {
+      background: #0f172a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.88rem;
+    }
+    .play-bullets {
+      margin: 0 0 1rem 1.1rem;
+      color: #e2e8f0;
+      font-size: 0.9rem;
+      line-height: 1.55;
+    }
+    .play-bullets li { margin-bottom: 0.45rem; }
+    .play-list {
+      list-style: none;
+      margin: 0 0 1rem;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+    }
+    .play-list li {
+      padding: 0.5rem 0.6rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      background: #0f172a;
+      cursor: pointer;
+      font-size: 0.82rem;
+      color: #e2e8f0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.15rem;
+    }
+    .play-list li:hover { border-color: var(--accent); }
+    .play-list li span { color: var(--muted); font-size: 0.72rem; }
+    .play-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .play-actions button {
+      font-size: 0.82rem;
+      padding: 0.45rem 0.75rem;
+    }
+    .quiz-prompt {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #f8fafc;
+      margin: 0.5rem 0 0.75rem;
+      line-height: 1.4;
+    }
+    .quiz-score { color: var(--muted); font-size: 0.82rem; margin-bottom: 0.75rem; }
+    .quiz-result { font-size: 0.9rem; margin-bottom: 0.75rem; }
+    .quiz-result.ok { color: #4ade80; }
+    .quiz-result.bad { color: #fb7185; }
+    body.quiz-mode .rank-panel { opacity: 0.35; pointer-events: none; }
+    body.quiz-mode .state-value-marker { opacity: 0.15 !important; }
     .fun-fact {
       display: flex;
       align-items: center;
@@ -691,10 +812,10 @@
       .explore-bar {
         padding: 0.4rem 0.75rem;
         gap: 0.4rem;
-        max-height: 4.8rem;
-        overflow: hidden;
+        max-height: none;
+        overflow: visible;
       }
-      .scene-row {
+      .scene-row, .play-row {
         flex: 1 1 100%;
         overflow-x: auto;
         flex-wrap: nowrap;
@@ -702,6 +823,8 @@
         padding-bottom: 0.1rem;
       }
       .fun-fact { flex: 1 1 100%; }
+      .play-modal { padding: 0; }
+      .play-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
       .fun-fact-text { white-space: nowrap; }
       .legend {
         bottom: 76px;
@@ -882,6 +1005,12 @@
       <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
       <button type="button" class="scene-btn btn-share" id="btn-share">Copy link</button>
     </div>
+    <div class="play-row" id="play-row">
+      <span class="explore-label" id="lbl-play">Play</span>
+      <button type="button" class="scene-btn" id="btn-my-state">My state</button>
+      <button type="button" class="scene-btn" id="btn-anomaly">Spot outliers</button>
+      <button type="button" class="scene-btn" id="btn-quiz">Guess</button>
+    </div>
     <div class="fun-fact" id="fun-fact">
       <span class="fun-fact-label" id="fun-fact-label">Did you know?</span>
       <span class="fun-fact-text" id="fun-fact-text">—</span>
@@ -945,6 +1074,16 @@
     </div>
   </div>
 
+  <div class="play-modal" id="play-modal" aria-hidden="true">
+    <div class="play-panel" role="dialog" aria-modal="true" aria-labelledby="play-title">
+      <div class="compare-header">
+        <h2 id="play-title">Play</h2>
+        <button type="button" class="report-close" id="btn-play-close" aria-label="Close">×</button>
+      </div>
+      <div class="compare-body" id="play-body"></div>
+    </div>
+  </div>
+
   <footer class="site-footer" id="site-footer">
     <div id="footer-credit"></div>
     <div>
@@ -960,6 +1099,7 @@
   </footer>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="play.js"></script>
   <script>
     const I18N = {
       zh: {
@@ -992,6 +1132,32 @@
         nextFact: "下一条",
         shareBtn: "复制链接",
         shareCopied: "已复制",
+        playLabel: "玩法",
+        myStateBtn: "我的州",
+        myStateTitle: "我的州",
+        myStatePick: "选择州 / 地区",
+        myStateGoto: "在地图上查看",
+        myStateLineNp: "{name}（{abbr}）净资产全国第 {rank}/{n}，约 {val}。",
+        myStateLineGrowth: "净资产同比增速排第 {rank}/{n}（{val}）。",
+        myStateLineCapita: "人均净资产排第 {rank}/{n}（{val}）。",
+        anomalyBtn: "找异常",
+        anomalyTitle: "找异常",
+        anomalyGrowthSmall: "增速很快、但净资产规模仍偏小的州：增长故事值得对照规模一起看。",
+        anomalyAssetsLowCapita: "总资产很大、但人均净资产偏低的州：体量大，摊到人口上未必厚。",
+        anomalyCount: "匹配 {n} 个州（高亮于地图）。点击列表可定位。",
+        anomalyNext: "下一种异常",
+        anomalyClear: "清除高亮",
+        quizBtn: "猜州",
+        quizTitle: "猜州",
+        quizHint: "根据排名提示，在地图上点选你认为的州。州名标签已淡化。",
+        quizPrompt: "哪一州的「{metric}」位列第 {rank}？",
+        quizScore: "得分 {score} / {rounds}",
+        quizCorrect: "正确！是 {name}（{abbr}）。",
+        quizWrong: "你点了 {guess}。答案是 {name}（{abbr}）。",
+        quizNext: "下一题",
+        quizExit: "结束猜州",
+        playNoData: "暂无足够数据。",
+        closePlay: "关闭",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
@@ -1053,6 +1219,32 @@
         nextFact: "Next fact",
         shareBtn: "Copy link",
         shareCopied: "Copied",
+        playLabel: "Play",
+        myStateBtn: "My state",
+        myStateTitle: "My state",
+        myStatePick: "Choose a state / district",
+        myStateGoto: "Show on map",
+        myStateLineNp: "{name} ({abbr}) ranks #{rank} of {n} in net position (~{val}).",
+        myStateLineGrowth: "Net-position growth ranks #{rank} of {n} ({val}).",
+        myStateLineCapita: "Net position per capita ranks #{rank} of {n} ({val}).",
+        anomalyBtn: "Spot outliers",
+        anomalyTitle: "Spot outliers",
+        anomalyGrowthSmall: "Fast growth, still-smaller net position: read the surge alongside scale.",
+        anomalyAssetsLowCapita: "Large assets, lower per-capita net position: big books, thinner per resident.",
+        anomalyCount: "{n} states matched (highlighted). Tap a row to fly there.",
+        anomalyNext: "Next pattern",
+        anomalyClear: "Clear highlights",
+        quizBtn: "Guess",
+        quizTitle: "Guess the state",
+        quizHint: "Use the rank clue, then click the state on the map. Labels are dimmed.",
+        quizPrompt: "Which state ranks #{rank} for {metric}?",
+        quizScore: "Score {score} / {rounds}",
+        quizCorrect: "Correct — {name} ({abbr}).",
+        quizWrong: "You picked {guess}. Answer: {name} ({abbr}).",
+        quizNext: "Next round",
+        quizExit: "End quiz",
+        playNoData: "Not enough data yet.",
+        closePlay: "Close",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
@@ -1844,13 +2036,13 @@
       }
     }
 
-    function flyToState(abbr) {
+    function flyToState(abbr, { openPopup = true } = {}) {
       const layer = layerByAbbr.get(abbr);
       if (!layer) return;
       const bounds = layer.getBounds();
       map.fitBounds(bounds, { padding: [40, 40], maxZoom: 6, animate: !reduceMotion });
       setFocusedState(abbr);
-      if (!compareMode) {
+      if (openPopup && !compareMode) {
         layer.setPopupContent(buildReportPopupHtml(abbr));
         layer.openPopup();
       }
@@ -2118,6 +2310,12 @@
         },
         mouseout: e => stateLayer.resetStyle(e.target),
         click: e => {
+          if (window.hfaPlay?.onMapClick?.(abbr)) {
+            L.DomEvent.stop(e);
+            L.DomEvent.preventDefault(e);
+            map.closePopup();
+            return;
+          }
           if (compareMode) {
             L.DomEvent.stop(e);
             map.closePopup();
@@ -2288,6 +2486,7 @@
       updateMetricsDrawerBtn();
       populateReportSelect();
       renderExploreLabels();
+      window.hfaPlay?.renderPlayLabels?.();
       renderFunFact(false);
       renderRankPanel();
       if (reportOpen) {
@@ -2392,6 +2591,7 @@
       document.getElementById("btn-fun-fact").onclick = nextFunFact;
       document.addEventListener("keydown", e => {
         if (e.key !== "Escape") return;
+        if (window.hfaPlay?.onEscape?.()) return;
         if (reportOpen) closeReport();
         else if (compareOpen) {
           closeComparePanel();
@@ -2427,8 +2627,9 @@
       renderControls();
       refreshMap();
       syncUrlFromState();
+      // Restore focused state from URL without auto-opening the report card.
       if (parsed.state && layerByAbbr.has(parsed.state)) {
-        setTimeout(() => flyToState(parsed.state), reduceMotion ? 0 : 120);
+        setFocusedState(parsed.state, { sync: false });
       }
     }
 
@@ -2472,6 +2673,26 @@
       }
 
       bindToggles();
+      if (typeof initHfaPlay === "function") {
+        window.hfaPlay = initHfaPlay({
+          t, tMetric,
+          getLang: () => lang,
+          getFocusedState: () => focusedState,
+          setFocusedState,
+          getStateData, stateDisplayName, metricValueForState, fmt,
+          rankedStates, setPrimaryMetricOnly,
+          flyToState, clearHighlights, highlightAbbrs, refreshMap,
+          applyHighlightClasses, buildShareUrl, syncUrlFromState,
+          map,
+          getDataset: () => dataset,
+          closeComparePanel,
+          setCompareMode,
+          closeMetricsDrawer,
+          isDrawerOpen: () => drawerOpen,
+          closeReport,
+          isReportOpen: () => reportOpen,
+        });
+      }
       bootFromUrl(bootParams);
       renderFunFact(true);
       initAnalytics();
