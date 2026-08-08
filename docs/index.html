@@ -28,6 +28,7 @@
       background: var(--bg);
       color: var(--text);
       min-height: 100vh;
+      min-height: 100dvh;
       display: flex;
       flex-direction: column;
     }
@@ -35,6 +36,7 @@
       padding: 1rem 1.25rem;
       border-bottom: 1px solid var(--border);
       background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+      flex-shrink: 0;
     }
     header h1 { font-size: 1.35rem; font-weight: 700; margin-bottom: 0.25rem; }
     header p { color: var(--muted); font-size: 0.85rem; }
@@ -46,6 +48,7 @@
       background: var(--panel);
       border-bottom: 1px solid var(--border);
       align-items: center;
+      flex-shrink: 0;
     }
     .control-group { display: flex; align-items: center; gap: 0.5rem; }
     label { font-size: 0.82rem; color: var(--muted); white-space: nowrap; }
@@ -80,9 +83,10 @@
       display: grid;
       grid-template-columns: 1fr 300px;
       flex: 1;
-      min-height: 320px;
+      min-height: 0;
       min-height: 480px;
     }
+    #map-wrap { position: relative; min-height: 0; height: 100%; }
     #map { width: 100%; height: 100%; background: #0b1220; }
     .sidebar {
       border-left: 1px solid var(--border);
@@ -92,6 +96,15 @@
       display: flex;
       flex-direction: column;
       gap: 0.75rem;
+    }
+    .drawer-handle,
+    .drawer-close,
+    .btn-metrics-drawer,
+    .drawer-backdrop {
+      display: none;
+    }
+    .drawer-header-row {
+      display: contents;
     }
     .sidebar h2 { font-size: 0.95rem; font-weight: 600; }
     .sidebar .sub { color: var(--muted); font-size: 0.78rem; line-height: 1.45; }
@@ -399,8 +412,178 @@
     .site-footer a:hover { color: var(--accent); }
     .site-footer strong { color: #cbd5e1; font-weight: 600; }
     @media (max-width: 900px) {
-      .layout { grid-template-columns: 1fr; grid-template-rows: 55vh auto; height: auto; }
-      .sidebar { border-left: none; border-top: 1px solid var(--border); max-height: 45vh; }
+      body {
+        height: 100dvh;
+        max-height: 100dvh;
+        overflow: hidden;
+      }
+      body.drawer-open { overflow: hidden; }
+      header {
+        padding: 0.65rem 0.85rem 0.55rem;
+      }
+      header h1 {
+        font-size: 1.05rem;
+        line-height: 1.25;
+        margin-bottom: 0.15rem;
+      }
+      header p { font-size: 0.75rem; }
+      .controls {
+        gap: 0.5rem;
+        padding: 0.55rem 0.85rem;
+      }
+      .control-group { gap: 0.35rem; }
+      label { font-size: 0.75rem; }
+      button {
+        padding: 0.5rem 0.7rem;
+        font-size: 0.82rem;
+        min-height: 40px;
+      }
+      .btn-report {
+        margin-left: 0;
+        width: 100%;
+        order: 10;
+      }
+      select#state-report-select {
+        max-width: min(52vw, 200px);
+        min-height: 40px;
+        font-size: 0.82rem;
+      }
+      .layout {
+        display: block;
+        position: relative;
+        flex: 1;
+        min-height: 0;
+        height: auto;
+      }
+      #map-wrap { width: 100%; height: 100%; }
+      .legend {
+        bottom: 76px;
+        left: 12px;
+        min-width: 140px;
+        padding: 0.55rem 0.7rem;
+      }
+      .legend h3 { font-size: 0.7rem; margin-bottom: 0.35rem; }
+      .site-footer { display: none; }
+      .report-modal { padding: 0; }
+      .report-panel {
+        width: 100%;
+        max-height: 100%;
+        border-radius: 0;
+        border: none;
+      }
+      .report-header { padding: 0.75rem 0.85rem; }
+      .report-header h2 { font-size: 0.88rem; }
+      .report-body { padding: 1rem 0.95rem 1.5rem; font-size: 0.84rem; }
+      .leaflet-popup-content { margin: 0.65rem 0.75rem; max-width: 240px; }
+
+      .btn-metrics-drawer {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.4rem;
+        position: fixed;
+        left: 50%;
+        bottom: calc(14px + env(safe-area-inset-bottom, 0px));
+        transform: translateX(-50%);
+        z-index: 1100;
+        min-width: 148px;
+        min-height: 44px;
+        padding: 0.65rem 1.15rem;
+        border-radius: 999px;
+        background: rgba(56, 189, 248, 0.95);
+        color: #0f172a;
+        border: none;
+        font-weight: 700;
+        font-size: 0.9rem;
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+      }
+      .btn-metrics-drawer[aria-expanded="true"] { display: none; }
+      .btn-metrics-drawer .drawer-btn-count {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 1.35rem;
+        height: 1.35rem;
+        padding: 0 0.3rem;
+        border-radius: 999px;
+        background: rgba(15, 23, 42, 0.18);
+        font-size: 0.75rem;
+      }
+
+      .drawer-backdrop {
+        display: block;
+        position: fixed;
+        inset: 0;
+        z-index: 1150;
+        background: rgba(2, 6, 23, 0.45);
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.22s ease;
+      }
+      .drawer-backdrop.open {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
+      .sidebar {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1200;
+        width: 100%;
+        max-height: min(78dvh, 640px);
+        border: none;
+        border-top: 1px solid var(--border);
+        border-radius: 16px 16px 0 0;
+        padding: 0 1rem calc(1rem + env(safe-area-inset-bottom, 0px));
+        box-shadow: 0 -12px 40px rgba(0, 0, 0, 0.45);
+        transform: translateY(105%);
+        transition: transform 0.28s cubic-bezier(0.22, 1, 0.36, 1);
+        -webkit-overflow-scrolling: touch;
+      }
+      .sidebar.drawer-open { transform: translateY(0); }
+      .drawer-handle {
+        display: flex;
+        justify-content: center;
+        padding: 0.55rem 0 0.15rem;
+        flex-shrink: 0;
+        cursor: pointer;
+      }
+      .drawer-handle::before {
+        content: "";
+        width: 40px;
+        height: 4px;
+        border-radius: 999px;
+        background: #64748b;
+      }
+      .drawer-header-row {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 0.75rem;
+        flex-shrink: 0;
+        padding-bottom: 0.15rem;
+      }
+      .drawer-header-row > div { min-width: 0; }
+      .drawer-close {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        min-height: 40px;
+        padding: 0;
+        font-size: 1.25rem;
+        line-height: 1;
+      }
+      .metric-option { padding: 0.6rem 0.65rem; }
+      .metric-option .opt-label { font-size: 0.84rem; }
+    }
+    @media (max-width: 480px) {
+      header p { display: none; }
+      .control-group label { display: none; }
     }
   </style>
 </head>
@@ -428,7 +611,7 @@
   </div>
 
   <div class="layout">
-    <div id="map-wrap" style="position:relative">
+    <div id="map-wrap">
       <div id="map"></div>
       <div class="legend" id="legend">
         <h3 id="legend-title">Legend</h3>
@@ -436,10 +619,19 @@
         <div class="legend-labels"><span id="legend-min">—</span><span id="legend-max">—</span></div>
       </div>
     </div>
-    <aside class="sidebar">
-      <div>
-        <h2 id="sidebar-title">Map Display Options</h2>
-        <p class="sub" id="sidebar-hint">Selected metrics appear as values on each state</p>
+    <button type="button" class="btn-metrics-drawer" id="btn-metrics-drawer" aria-expanded="false" aria-controls="metrics-drawer">
+      <span id="btn-metrics-label">Metrics</span>
+      <span class="drawer-btn-count" id="btn-metrics-count" hidden>0</span>
+    </button>
+    <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
+    <aside class="sidebar" id="metrics-drawer" aria-label="Map display options">
+      <div class="drawer-handle" id="drawer-handle" aria-hidden="true"></div>
+      <div class="drawer-header-row">
+        <div>
+          <h2 id="sidebar-title">Map Display Options</h2>
+          <p class="sub" id="sidebar-hint">Selected metrics appear as values on each state</p>
+        </div>
+        <button type="button" class="drawer-close" id="btn-drawer-close" aria-label="Close">×</button>
       </div>
       <div class="sidebar-actions">
         <button type="button" id="btn-select-all">Select All</button>
@@ -491,11 +683,13 @@
         sidebarHint: "勾选数据项，地图上各州显示对应指标数值",
         selectAll: "全选", clearAll: "清除",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
+        metricsDrawerBtn: "指标",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
         reportLoading: "正在加载报告…",
         reportError: "无法加载报告，请确认 reports/fy2025-zh.html 已生成。",
         closeReport: "关闭",
+        closeDrawer: "关闭",
         footerCredit: "© 2026 MD-ai-fin · 数据分析与可视化：MD-ai-fin",
         footerCode: "代码",
         footerContent: "内容",
@@ -534,11 +728,13 @@
         sidebarHint: "Selected metrics appear as values on each state",
         selectAll: "Select All", clearAll: "Clear All",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
+        metricsDrawerBtn: "Metrics",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
         reportLoading: "Loading report…",
         reportError: "Could not load the report. Ensure reports/fy2025-en.html exists.",
         closeReport: "Close",
+        closeDrawer: "Close",
         footerCredit: "© 2026 MD-ai-fin · Analysis & Visualization by MD-ai-fin",
         footerCode: "Code",
         footerContent: "Content",
@@ -694,6 +890,8 @@
     let reportLinks = {};
     const reportCache = {};
     let reportOpen = false;
+    let drawerOpen = false;
+    const MOBILE_MQ = window.matchMedia("(max-width: 900px)");
     const selectedMetrics = new Set(["net_position"]);
     const layerByAbbr = new Map();
     const markerLayer = L.layerGroup();
@@ -770,6 +968,7 @@
     }
 
     function openReport() {
+      if (drawerOpen) closeMetricsDrawer();
       reportOpen = true;
       const modal = document.getElementById("report-modal");
       modal.classList.add("open");
@@ -1192,6 +1391,7 @@
           if (input.checked) selectedMetrics.add(k);
           else selectedMetrics.delete(k);
           el.classList.toggle("checked", input.checked);
+          updateMetricsDrawerBtn();
           refreshMap();
         };
         input.addEventListener("change", toggle);
@@ -1201,6 +1401,67 @@
           toggle();
         });
       });
+    }
+
+    function isMobileLayout() {
+      return MOBILE_MQ.matches;
+    }
+
+    function updateMetricsDrawerBtn() {
+      const btn = document.getElementById("btn-metrics-drawer");
+      const label = document.getElementById("btn-metrics-label");
+      const countEl = document.getElementById("btn-metrics-count");
+      label.textContent = t("metricsDrawerBtn");
+      const n = selectedMetrics.size;
+      if (n > 0) {
+        countEl.hidden = false;
+        countEl.textContent = String(n);
+      } else {
+        countEl.hidden = true;
+        countEl.textContent = "0";
+      }
+      btn.setAttribute("aria-expanded", drawerOpen && isMobileLayout() ? "true" : "false");
+    }
+
+    function openMetricsDrawer() {
+      if (!isMobileLayout()) return;
+      drawerOpen = true;
+      const drawer = document.getElementById("metrics-drawer");
+      const backdrop = document.getElementById("drawer-backdrop");
+      drawer.classList.add("drawer-open");
+      backdrop.hidden = false;
+      requestAnimationFrame(() => backdrop.classList.add("open"));
+      document.body.classList.add("drawer-open");
+      updateMetricsDrawerBtn();
+      setTimeout(() => map.invalidateSize({ animate: false }), 300);
+    }
+
+    function closeMetricsDrawer() {
+      drawerOpen = false;
+      const drawer = document.getElementById("metrics-drawer");
+      const backdrop = document.getElementById("drawer-backdrop");
+      drawer.classList.remove("drawer-open");
+      backdrop.classList.remove("open");
+      document.body.classList.remove("drawer-open");
+      updateMetricsDrawerBtn();
+      const hideBackdrop = () => {
+        if (!drawerOpen) backdrop.hidden = true;
+      };
+      backdrop.addEventListener("transitionend", hideBackdrop, { once: true });
+      setTimeout(hideBackdrop, 280);
+      setTimeout(() => map.invalidateSize({ animate: false }), 280);
+    }
+
+    function syncDrawerForViewport() {
+      if (!isMobileLayout()) {
+        drawerOpen = false;
+        document.getElementById("metrics-drawer").classList.remove("drawer-open");
+        document.getElementById("drawer-backdrop").classList.remove("open");
+        document.getElementById("drawer-backdrop").hidden = true;
+        document.body.classList.remove("drawer-open");
+      }
+      updateMetricsDrawerBtn();
+      map.invalidateSize({ animate: false });
     }
 
     function renderFooter() {
@@ -1226,6 +1487,12 @@
       document.getElementById("btn-clear-all").textContent = t("clearAll");
       document.getElementById("btn-report").textContent = t("reportBtn");
       document.getElementById("btn-report-close").setAttribute("aria-label", t("closeReport"));
+      document.getElementById("btn-drawer-close").setAttribute("aria-label", t("closeDrawer"));
+      document.getElementById("metrics-drawer").setAttribute(
+        "aria-label",
+        t("sidebarTitle")
+      );
+      updateMetricsDrawerBtn();
       populateReportSelect();
       if (reportOpen) {
         document.getElementById("report-title").textContent = t("reportTitle");
@@ -1262,11 +1529,13 @@
       document.getElementById("btn-select-all").onclick = () => {
         METRIC_KEYS.forEach(k => selectedMetrics.add(k));
         renderMetricOptions();
+        updateMetricsDrawerBtn();
         refreshMap();
       };
       document.getElementById("btn-clear-all").onclick = () => {
         selectedMetrics.clear();
         renderMetricOptions();
+        updateMetricsDrawerBtn();
         refreshMap();
       };
       document.getElementById("btn-report").onclick = openReport;
@@ -1278,8 +1547,23 @@
         const abbr = e.target.value;
         if (abbr) openStateReportPopup(abbr);
       };
+      document.getElementById("btn-metrics-drawer").onclick = openMetricsDrawer;
+      document.getElementById("btn-drawer-close").onclick = closeMetricsDrawer;
+      document.getElementById("drawer-backdrop").onclick = closeMetricsDrawer;
+      document.getElementById("drawer-handle").onclick = closeMetricsDrawer;
       document.addEventListener("keydown", e => {
-        if (e.key === "Escape" && reportOpen) closeReport();
+        if (e.key !== "Escape") return;
+        if (reportOpen) closeReport();
+        else if (drawerOpen && isMobileLayout()) closeMetricsDrawer();
+      });
+      const onViewportChange = () => syncDrawerForViewport();
+      if (typeof MOBILE_MQ.addEventListener === "function") {
+        MOBILE_MQ.addEventListener("change", onViewportChange);
+      } else if (typeof MOBILE_MQ.addListener === "function") {
+        MOBILE_MQ.addListener(onViewportChange);
+      }
+      window.addEventListener("orientationchange", () => {
+        setTimeout(() => map.invalidateSize({ animate: false }), 250);
       });
     }
 
