@@ -515,6 +515,10 @@
       border-radius: 12px;
       box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
     }
+    #state-modal { background: transparent; backdrop-filter: none; }
+    @media (min-width: 901px) {
+      #state-modal .compare-panel { width: min(360px, 100%); }
+    }
     .compare-header {
       display: flex;
       align-items: center;
@@ -682,15 +686,6 @@
       outline: 2px solid var(--accent);
       outline-offset: 1px;
     }
-    .leaflet-popup-content-wrapper {
-      background: #1e293b;
-      color: var(--text);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
-    }
-    .leaflet-popup-tip { background: #1e293b; }
-    .leaflet-popup-content { margin: 0.75rem 0.85rem; }
     .hfa-popup-title {
       font-size: 0.9rem;
       font-weight: 600;
@@ -1163,7 +1158,6 @@
       .report-header { padding: 0.75rem 0.85rem; }
       .report-header h2 { font-size: 0.88rem; }
       .report-body { padding: 1rem 0.95rem 1.5rem; font-size: 0.84rem; }
-      .leaflet-popup-content { margin: 0.65rem 0.75rem; max-width: 240px; }
       .chart-modal { padding: 0; }
       .chart-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
       .chart-body { padding: 0.85rem 0.8rem 1.25rem; }
@@ -1379,6 +1373,16 @@
     </div>
   </div>
 
+  <div class="compare-modal" id="state-modal" aria-hidden="true">
+    <div class="compare-panel" role="dialog" aria-modal="true" aria-labelledby="state-title">
+      <div class="compare-header">
+        <h2 id="state-title">State details</h2>
+        <button type="button" class="report-close" id="btn-state-close" aria-label="Close">×</button>
+      </div>
+      <div class="compare-body" id="state-body"></div>
+    </div>
+  </div>
+
   <div class="compare-modal" id="compare-modal" aria-hidden="true">
     <div class="compare-panel" role="dialog" aria-modal="true" aria-labelledby="compare-title">
       <div class="compare-header">
@@ -1445,6 +1449,7 @@
         sceneTopNp: "净资产 Top",
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
+        stateModalTitle: "州详情",
         compareBtn: "对比各州",
         compareBtnActive: "点选 1~5 个州…",
         compareBtnView: "已选 {n}/{max} 个州 · 点击查看",
@@ -1534,6 +1539,7 @@
         sceneTopNp: "Top Net Position",
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Net Position Per Capita",
+        stateModalTitle: "State details",
         compareBtn: "Compare states",
         compareBtnActive: "Pick 1–5 states…",
         compareBtnView: "{n}/{max} selected · tap to view",
@@ -1740,6 +1746,8 @@
     const reportCache = {};
     let reportOpen = false;
     let drawerOpen = false;
+    let stateModalOpen = false;
+    let stateModalAbbr = null;
     let compareOpen = false;
     let compareMode = false;
     let activeScene = null;
@@ -1926,6 +1934,7 @@
     function openReport() {
       if (drawerOpen) closeMetricsDrawer();
       if (compareOpen) closeComparePanel();
+      if (stateModalOpen) closeStateModal();
       reportOpen = true;
       const modal = document.getElementById("report-modal");
       modal.classList.add("open");
@@ -2073,12 +2082,30 @@
       return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${metrics}${body}`;
     }
 
-    function openStateReportPopup(abbr) {
-      const layer = layerByAbbr.get(abbr);
-      if (!layer) return;
+    function renderStateModalBody() {
+      if (!stateModalAbbr) return;
+      document.getElementById("state-title").textContent = t("stateModalTitle");
+      document.getElementById("state-body").innerHTML = buildReportPopupHtml(stateModalAbbr);
+    }
+
+    function openStateModal(abbr) {
+      if (!layerByAbbr.has(abbr)) return;
+      clearExclusiveTools({ except: "state" });
       setFocusedState(abbr);
-      layer.setPopupContent(buildReportPopupHtml(abbr));
-      layer.openPopup();
+      stateModalOpen = true;
+      stateModalAbbr = abbr;
+      const modal = document.getElementById("state-modal");
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      renderStateModalBody();
+    }
+
+    function closeStateModal() {
+      stateModalOpen = false;
+      stateModalAbbr = null;
+      const modal = document.getElementById("state-modal");
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
     }
 
     function populateReportSelect() {
@@ -2396,6 +2423,9 @@
         activeScene = null;
         document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
       }
+      if (except !== "state") {
+        if (stateModalOpen) closeStateModal();
+      }
       if (except !== "compare") {
         if (compareOpen) closeComparePanel();
         if (compareMode) setCompareMode(false);
@@ -2461,8 +2491,7 @@
       map.fitBounds(bounds, { padding: [40, 40], maxZoom: 6, animate: !reduceMotion });
       setFocusedState(abbr);
       if (openPopup && !compareMode) {
-        layer.setPopupContent(buildReportPopupHtml(abbr));
-        layer.openPopup();
+        openStateModal(abbr);
       }
     }
 
@@ -2592,7 +2621,7 @@
       if (!on) comparePick.length = 0;
       updateCompareButton();
       if (on) {
-        map.closePopup();
+        if (stateModalOpen) closeStateModal();
         if (drawerOpen) closeMetricsDrawer();
       }
     }
@@ -2717,6 +2746,7 @@
       document.getElementById("btn-share").textContent = t("shareBtn");
       document.getElementById("btn-share").classList.remove("copied");
       document.getElementById("btn-compare-close").setAttribute("aria-label", t("closeCompare"));
+      document.getElementById("btn-state-close").setAttribute("aria-label", t("closeCompare"));
       updateCompareButton();
       document.querySelectorAll(".scene-btn[data-scene]").forEach(b =>
         b.classList.toggle("active", b.dataset.scene === activeScene));
@@ -2742,10 +2772,6 @@
       const abbr = STATE_ABBR[feature.properties.name];
       if (!abbr) return;
       layerByAbbr.set(abbr, layer);
-      layer.bindPopup(() => buildReportPopupHtml(abbr), {
-        maxWidth: 320,
-        className: "hfa-popup",
-      });
       layer.on({
         mouseover: e => {
           if (compareMode) return;
@@ -2756,16 +2782,16 @@
           if (window.hfaPlay?.onMapClick?.(abbr)) {
             L.DomEvent.stop(e);
             L.DomEvent.preventDefault(e);
-            map.closePopup();
+            closeStateModal();
             return;
           }
           if (compareMode) {
             L.DomEvent.stop(e);
-            map.closePopup();
+            closeStateModal();
             handleComparePick(abbr);
             return;
           }
-          setFocusedState(abbr);
+          openStateModal(abbr);
         },
       });
     }
@@ -2804,8 +2830,12 @@
       }).addTo(insetMap);
       layer.on("click", () => {
         // Keep focus on the inset state without yanking the main map to AK/HI
-        setFocusedState(abbr);
         if (window.hfaPlay?.onMapClick?.(abbr)) return;
+        if (compareMode) {
+          handleComparePick(abbr);
+          return;
+        }
+        openStateModal(abbr);
       });
       insetMaps[abbr] = { map: insetMap, layer };
       return insetMaps[abbr];
@@ -3002,12 +3032,10 @@
         document.getElementById("compare-title").textContent = t("compareTitle");
         renderCompareBody();
       }
+      if (stateModalOpen) renderStateModalBody();
       renderFooter();
       renderSources();
       renderMetricOptions();
-      layerByAbbr.forEach((layer, abbr) => {
-        if (layer.isPopupOpen()) layer.setPopupContent(buildReportPopupHtml(abbr));
-      });
     }
 
     function bindToggles() {
@@ -3038,7 +3066,7 @@
       };
       document.getElementById("state-report-select").onchange = e => {
         const abbr = e.target.value;
-        if (abbr) openStateReportPopup(abbr);
+        if (abbr) openStateModal(abbr);
         else setFocusedState(null);
       };
       document.getElementById("btn-share").onclick = copyShareLink;
@@ -3084,12 +3112,17 @@
           refreshMap();
         }
       };
+      document.getElementById("btn-state-close").onclick = closeStateModal;
+      document.getElementById("state-modal").onclick = e => {
+        if (e.target.id === "state-modal") closeStateModal();
+      };
       document.getElementById("btn-fun-fact").onclick = nextFunFact;
       document.addEventListener("keydown", e => {
         if (e.key !== "Escape") return;
         if (window.hfaPlay?.onEscape?.()) return;
         if (window.hfaCharts?.onEscape?.()) return;
         if (reportOpen) closeReport();
+        else if (stateModalOpen) closeStateModal();
         else if (compareOpen) {
           closeComparePanel();
           setCompareMode(false);
