@@ -299,7 +299,7 @@ MANUAL_OVERRIDES: dict[str, dict] = {
     },
 }
 
-EXCLUDE_FROM_RANKINGS = {"PA"}  # Commonwealth ACFR, not PHFA entity report
+EXCLUDE_FROM_RANKINGS: set[str] = set()  # PA figures verified as PHFA's own entity-level MD&A data, not a state-consolidated total; included in rankings
 
 FY2025_PATTERNS = [
     r"fy\s*2025",
@@ -873,6 +873,13 @@ def _report_copy(language: str) -> dict:
             "note_growth_audit": "Growth rate verified manually against the ACFR",
             "note_thousands": "Amounts reported in thousands; figures adjusted accordingly",
             "note_scanned_fill": "Metrics completed from audited financial statements (scanned PDF) MD&A",
+            "note_pa_mdna": "Core metrics manually verified against PHFA FY2025 MD&A (Condensed Summary Balance Sheets, June 30 2025/2024)",
+            "note_pa_scope": "Figures are the \"Total Assets\"/\"Total Liabilities\" lines, excluding Deferred Outflows/Inflows of Resources",
+            "note_ak_mdna": "Core metrics manually verified against AHFC FY2025 MD&A (Condensed Statement of Net Position, June 30 2025/2024), correcting a previously mis-extracted net position figure",
+            "note_dc_mdna": "Core metrics manually verified against DCHFA FY2025 MD&A (Financial Statement Analysis, FYE Sept 30 2025/2024), correcting a prior bug where net_position_2024 had been duplicated from 2025",
+            "note_sd_mdna": "Total assets/liabilities added from SDHDA FY2025 MD&A (Changes in Assets/Liabilities/Net Position, in millions, FYE June 30 2025/2024)",
+            "note_me_mdna": "Total assets/liabilities added from MaineHousing FY2025 MD&A (Statement of Net Position, in millions, FYE Dec 31 2025/2024), replacing a previous inaccurate estimate",
+            "note_md_scope": "Full CDA scope: deduplicated sum of the 4 non-overlapping published bond fund statements at dhcd.maryland.gov (Revenue Obligation Funds -- itself a combination of Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund -- plus Multi-Family Mortgage Revenue Bonds, Single Family Housing Revenue Bonds, and Local Government Infrastructure Bonds)",
         }
 
     return {
@@ -1034,6 +1041,13 @@ def _report_copy(language: str) -> dict:
         "note_growth_audit": "增速已对照综合年报人工核验",
         "note_thousands": "原报告以千美元列示，金额已相应调整",
         "note_scanned_fill": "指标已据经审计财务报表（扫描件）管理层讨论补全",
+        "note_pa_mdna": "已根据 PHFA FY2025 MD&A（Condensed Summary Balance Sheets, June 30 2025/2024）人工核验核心指标",
+        "note_pa_scope": "取值为「Total Assets」/「Total Liabilities」行，不含 Deferred Outflows/Inflows of Resources",
+        "note_ak_mdna": "已根据 AHFC FY2025 MD&A（Condensed Statement of Net Position, June 30 2025/2024）人工核验核心指标，修正此前误提取的净资产数值",
+        "note_dc_mdna": "已根据 DCHFA FY2025 MD&A（Financial Statement Analysis, FYE Sept 30 2025/2024）人工核验核心指标，修正此前 net_position_2024 被误复制为 2025 数值的问题",
+        "note_sd_mdna": "已根据 SDHDA FY2025 MD&A（Changes in Assets/Liabilities/Net Position, in millions, FYE June 30 2025/2024）补充总资产／总负债",
+        "note_me_mdna": "已根据 MaineHousing FY2025 MD&A（Statement of Net Position, in millions, FYE Dec 31 2025/2024）补充总资产／总负债，替换此前不准确的估算值",
+        "note_md_scope": "CDA 全部业务范围：对 dhcd.maryland.gov 发布的 4 份互不重叠债券基金报表去重后汇总（Revenue Obligation Funds 本身已合并 Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund，再加上 Multi-Family Mortgage Revenue Bonds、Single Family Housing Revenue Bonds 与 Local Government Infrastructure Bonds）",
     }
 
 
@@ -1044,7 +1058,21 @@ def _translate_notes(notes: list[str], language: str) -> str:
     translated: list[str] = []
     for note in notes:
         low = note.lower()
-        if "州级ACFR" in note or "州级综合年报" in note or "state-level acfr" in low:
+        if "phfa fy2025 md&a" in low:
+            translated.append(t["note_pa_mdna"])
+        elif "不含deferred" in low or "excluding deferred outflows" in low:
+            translated.append(t["note_pa_scope"])
+        elif "ahfc fy2025 md&a" in low:
+            translated.append(t["note_ak_mdna"])
+        elif "dchfa fy2025 md&a" in low:
+            translated.append(t["note_dc_mdna"])
+        elif "sdhda fy2025 md&a" in low:
+            translated.append(t["note_sd_mdna"])
+        elif "mainehousing fy2025 md&a" in low:
+            translated.append(t["note_me_mdna"])
+        elif "financialstatement.aspx" in low:
+            translated.append(t["note_md_scope"])
+        elif "州级ACFR" in note or "州级综合年报" in note or "state-level acfr" in low:
             translated.append(t["note_state_acfr"])
         elif "未能自动提取" in note or "not auto-extracted" in low:
             translated.append(t["note_extract_fail"])

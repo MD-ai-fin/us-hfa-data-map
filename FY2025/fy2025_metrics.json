@@ -36,7 +36,7 @@
     "total_liabilities_2024": 2842698000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 35.89,
+    "net_position_ratio": 35.8907689880309,
     "notes": [
       "已根据AHFC FY2025 MD&A（Condensed Statement of Net Position, June 30 2025/2024）人工补充核心指标，修正此前误提取的净资产数值"
     ]
@@ -190,7 +190,7 @@
     "total_liabilities_2024": 481578803,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 28.45,
+    "net_position_ratio": 28.447056745515358,
     "notes": [
       "已根据DCHFA FY2025 MD&A（Financial Statement Analysis, FYE Sept 30 2025/2024）人工补充核心指标，修正此前net_position_2024被误复制为2025数值的问题"
     ]
@@ -422,7 +422,7 @@
     "total_liabilities_2024": 2490800000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 15.5,
+    "net_position_ratio": 15.496084346527713,
     "notes": [
       "ACFR manual verification for growth audit",
       "已根据MaineHousing FY2025 MD&A（Statement of Net Position, in millions, FYE Dec 31 2025/2024）补充total_assets/total_liabilities，替换此前不准确的估算值"
@@ -445,7 +445,7 @@
     "total_liabilities_2024": 4286088000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 9.9612,
+    "net_position_ratio": 9.961213930670489,
     "notes": [
       "Full CDA scope: sum of the 4 non-overlapping published bond fund statements at https://dhcd.maryland.gov/Investors/Pages/FinancialStatement.aspx -- Revenue Obligation Funds (ROF, itself a combined statement of Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund), Multi-Family Mortgage Revenue Bonds, Single Family Housing Revenue Bonds, and Local Government Infrastructure Bonds. Summing all 6 individually-listed statements would double-count HRB/RRB since they are already inside ROF's combined total; this figure deduplicates that."
     ]
@@ -527,7 +527,7 @@
     "total_liabilities_2024": 1045086643,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 3.000023606346511,
+    "net_position_ratio": 3.000023605967642,
     "notes": [
       "Combined Statements of Net Position, FY2025 Annual Report (audited), Mississippi Home Corporation"
     ]
@@ -831,11 +831,10 @@
     "total_liabilities_2024": 6614819000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 10.84,
+    "net_position_ratio": 10.842408618744482,
     "notes": [
       "已根据PHFA FY2025 MD&A（Condensed Summary Balance Sheets, June 30 2025/2024）人工补充核心指标",
-      "取值为\"Total Assets\"/\"Total Liabilities\"行，不含Deferred Outflows/Inflows of Resources",
-      "文件为州级ACFR/合并报表，自动提取器未能识别，已人工复核"
+      "取值为\"Total Assets\"/\"Total Liabilities\"行，不含Deferred Outflows/Inflows of Resources"
     ]
   },
   {
@@ -899,7 +898,7 @@
     "total_liabilities_2024": 1910000000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 21.78,
+    "net_position_ratio": 21.7808000262003,
     "notes": [
       "已根据SDHDA FY2025 MD&A（Changes in Assets/Liabilities/Net Position, in millions, FYE June 30 2025/2024）补充total_assets/total_liabilities"
     ]
@@ -911,7 +910,7 @@
     "source_file": "TN_THDA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 664960000,
+    "net_position_2025": 665000000,
     "net_position_2024": 634885000,
     "net_position_change": 30075000,
     "net_position_change_pct": 4.74,
@@ -921,7 +920,7 @@
     "total_liabilities_2024": 4030196000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 13.606917722920297,
+    "net_position_ratio": 13.607736233370426,
     "notes": [
       "Statement of Net Position + MD&A comparative table, THDA FY2025 audited financial statements"
     ]
