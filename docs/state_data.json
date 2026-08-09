@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:43:36.449041+00:00",
+  "generated_at": "2026-08-09T20:18:33.133964+00:00",
   "sources": {
     "hfa_financials": "FY2024/FY2025 State Housing Finance Authority ACFR reports",
     "hfa_staff_acfr": "HFA ACFR full-time employee/FTE disclosures when reported",
@@ -862,10 +862,10 @@
       "staff_count_source": "Maryland State Manual",
       "staff_count_source_url": "https://2025mdmanual.msa.maryland.gov/msa/mdmanual/17dhcd/html/dhcd.html",
       "2024": {
-        "net_position": null,
+        "net_position": 69304000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 625655000,
+        "total_liabilities": 556351000,
         "families_served": null,
         "staff_count": 329,
         "staff_count_source": "Maryland State Manual",
@@ -878,10 +878,10 @@
         "homeless_count": 6069
       },
       "2025": {
-        "net_position": 786372000.0,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 78170000,
+        "net_position_growth_pct": 12.79,
+        "total_assets": 786372000,
+        "total_liabilities": 708202000,
         "families_served": null,
         "staff_count": 329,
         "staff_count_source": "Maryland State Manual",
@@ -1786,10 +1786,10 @@
       "staff_count_source": "LinkedIn",
       "staff_count_source_url": "https://www.linkedin.com/company/tennessee-housing-development-agency",
       "2024": {
-        "net_position": 635148042,
+        "net_position": 634885000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 4659430000,
+        "total_liabilities": 4030196000,
         "families_served": null,
         "staff_count": 158,
         "staff_count_source": "LinkedIn",
@@ -1802,10 +1802,10 @@
         "homeless_count": 8280
       },
       "2025": {
-        "net_position": 665000000,
+        "net_position": 664960000,
         "net_position_growth_pct": 4.74,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 4886926000,
+        "total_liabilities": 4224386000,
         "families_served": null,
         "staff_count": 158,
         "staff_count_source": "LinkedIn",

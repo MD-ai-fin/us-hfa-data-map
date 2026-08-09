@@ -862,7 +862,27 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 2_919_608_566,
         "net_position_change_pct": 13.8,
     },
-    "TN": {"net_position_2025": 665_000_000, "net_position_change_pct": 4.74},
+    "MD": {
+        # Only the Housing Revenue Bonds fund (the report already linked for
+        # MD) -- CDA also has separately-audited Revenue Obligation Funds and
+        # Multi-Family Mortgage Revenue Bonds statements not included here.
+        "net_position_2025": 78_170_000,
+        "net_position_2024": 69_304_000,
+        "net_position_change_pct": 12.79,
+        "total_assets_2025": 786_372_000,
+        "total_assets_2024": 625_655_000,
+        "total_liabilities_2025": 708_202_000,
+        "total_liabilities_2024": 556_351_000,
+    },
+    "TN": {
+        "net_position_2025": 664_960_000,
+        "net_position_2024": 634_885_000,
+        "net_position_change_pct": 4.74,
+        "total_assets_2025": 4_886_926_000,
+        "total_assets_2024": 4_659_430_000,
+        "total_liabilities_2025": 4_224_386_000,
+        "total_liabilities_2024": 4_030_196_000,
+    },
     "TX": {
         "net_position_2025": 1_078_974_997,
         "net_position_2024": 970_575_954,

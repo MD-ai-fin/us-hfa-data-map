@@ -432,18 +432,20 @@
     "source_file": "MD_CDA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 786372000.0,
-    "net_position_2024": null,
-    "net_position_change": null,
-    "net_position_change_pct": null,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "net_position_2025": 78170000,
+    "net_position_2024": 69304000,
+    "net_position_change": 8866000,
+    "net_position_change_pct": 12.79,
+    "total_assets_2025": 786372000,
+    "total_assets_2024": 625655000,
+    "total_liabilities_2025": 708202000,
+    "total_liabilities_2024": 556351000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
-    "notes": []
+    "net_position_ratio": 9.9405879151,
+    "notes": [
+      "Statement of Net Position, CDA Housing Revenue Bonds fund only (FY2025, audited). CDA also has separately-audited Revenue Obligation Funds (net position ~$545M FY2025, includes Residential Revenue Bonds + General Bond Reserve Fund) and Multi-Family Mortgage Revenue Bonds (~$13M) statements not reflected here -- this figure understates Maryland CDA's total scope."
+    ]
   },
   {
     "state": "MA",
@@ -906,18 +908,20 @@
     "source_file": "TN_THDA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 665000000,
-    "net_position_2024": 635148042,
-    "net_position_change": 29851958,
+    "net_position_2025": 664960000,
+    "net_position_2024": 634885000,
+    "net_position_change": 30075000,
     "net_position_change_pct": 4.74,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "total_assets_2025": 4886926000,
+    "total_assets_2024": 4659430000,
+    "total_liabilities_2025": 4224386000,
+    "total_liabilities_2024": 4030196000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
-    "notes": []
+    "net_position_ratio": 13.606917722920297,
+    "notes": [
+      "Statement of Net Position + MD&A comparative table, THDA FY2025 audited financial statements"
+    ]
   },
   {
     "state": "TX",
