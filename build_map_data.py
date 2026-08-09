@@ -764,9 +764,17 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 502_172_000,
         "net_position_change_pct": 5.1,
     },
+    # MaineHousing MD&A "Statement of Net Position" (business-type + governmental
+    # activities, Total column; source table is in millions). net_position figures
+    # kept at their prior more-precise values; total_assets/liabilities added from
+    # this table, replacing earlier rough placeholder figures.
     "ME": {
         "net_position_2025": 508_535_000,
         "net_position_2024": 475_829_000,
+        "total_assets_2025": 3_281_700_000,
+        "total_assets_2024": 2_984_200_000,
+        "total_liabilities_2025": 2_762_700_000,
+        "total_liabilities_2024": 2_490_800_000,
         "net_position_change_pct": 6.9,
     },
     "UT": {
@@ -963,6 +971,33 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2025": 4_487_552_000,
         "total_liabilities_2024": 4_071_413_000,
         "net_position_change_pct": 8.8,
+    },
+    # DCHFA MD&A "Financial Statement Analysis" table (fiscal year ended
+    # September 30, 2025/2024); assets - liabilities reconciles exactly to the
+    # stated net position for both years (no deferred outflows/inflows).
+    # Overrides a bug where net_position_2024 had been duplicated from 2025.
+    "DC": {
+        "net_position_2025": 211_524_332,
+        "net_position_2024": 207_758_195,
+        "total_assets_2025": 743_571_941,
+        "total_assets_2024": 689_336_998,
+        "total_liabilities_2025": 532_047_609,
+        "total_liabilities_2024": 481_578_803,
+        "net_position_change_pct": 1.8,
+    },
+    # AHFC MD&A condensed statement of net position (June 30, 2025 and 2024);
+    # source figures are "Total assets" / "Total liabilities" lines, excluding
+    # deferred outflow/inflow of resources (reported separately). Overrides a
+    # previously mis-extracted net_position_2025 value (492,441,000, which
+    # matched no line in the actual statement).
+    "AK": {
+        "net_position_2025": 1_699_228_000,
+        "net_position_2024": 1_652_836_000,
+        "total_assets_2025": 4_734_443_000,
+        "total_assets_2024": 4_463_536_000,
+        "total_liabilities_2025": 3_072_428_000,
+        "total_liabilities_2024": 2_842_698_000,
+        "net_position_change_pct": 2.8,
     },
     # PHFA MD&A condensed balance sheet (June 30, 2025 and 2024); source
     # figures are "Total Assets" / "Total Liabilities" lines, excluding

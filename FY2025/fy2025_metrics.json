@@ -26,18 +26,20 @@
     "source_file": "AK_AHFC_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 492441000.0,
-    "net_position_2024": null,
-    "net_position_change": null,
-    "net_position_change_pct": null,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "net_position_2025": 1699228000,
+    "net_position_2024": 1652836000,
+    "net_position_change": 46392000,
+    "net_position_change_pct": 2.8,
+    "total_assets_2025": 4734443000,
+    "total_assets_2024": 4463536000,
+    "total_liabilities_2025": 3072428000,
+    "total_liabilities_2024": 2842698000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
-    "notes": []
+    "net_position_ratio": 35.89,
+    "notes": [
+      "已根据AHFC FY2025 MD&A（Condensed Statement of Net Position, June 30 2025/2024）人工补充核心指标，修正此前误提取的净资产数值"
+    ]
   },
   {
     "state": "AZ",
@@ -178,19 +180,19 @@
     "source_file": "DC_DCHFA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 211524332.0,
-    "net_position_2024": 211524332,
-    "net_position_change": 0,
-    "net_position_change_pct": 0.0,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "net_position_2025": 211524332,
+    "net_position_2024": 207758195,
+    "net_position_change": 3766137,
+    "net_position_change_pct": 1.8,
+    "total_assets_2025": 743571941,
+    "total_assets_2024": 689336998,
+    "total_liabilities_2025": 532047609,
+    "total_liabilities_2024": 481578803,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
+    "net_position_ratio": 28.45,
     "notes": [
-      "未能自动提取核心指标，需人工复核PDF"
+      "已根据DCHFA FY2025 MD&A（Financial Statement Analysis, FYE Sept 30 2025/2024）人工补充核心指标，修正此前net_position_2024被误复制为2025数值的问题"
     ]
   },
   {
@@ -412,17 +414,18 @@
     "status": "downloaded",
     "net_position_2025": 508535000,
     "net_position_2024": 475829000,
-    "net_position_change": 32824055,
+    "net_position_change": 32706000,
     "net_position_change_pct": 6.9,
-    "total_assets_2025": null,
-    "total_assets_2024": 3800000000,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": 520000000,
+    "total_assets_2025": 3281700000,
+    "total_assets_2024": 2984200000,
+    "total_liabilities_2025": 2762700000,
+    "total_liabilities_2024": 2490800000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
+    "net_position_ratio": 15.5,
     "notes": [
-      "ACFR manual verification for growth audit"
+      "ACFR manual verification for growth audit",
+      "已根据MaineHousing FY2025 MD&A（Statement of Net Position, in millions, FYE Dec 31 2025/2024）补充total_assets/total_liabilities，替换此前不准确的估算值"
     ]
   },
   {
