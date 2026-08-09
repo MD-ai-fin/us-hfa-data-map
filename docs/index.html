@@ -738,12 +738,26 @@
       font-weight: 600;
       white-space: nowrap;
     }
+    .tt-rank {
+      font-variant-numeric: tabular-nums;
+      color: var(--muted);
+      font-size: 0.88em;
+      white-space: nowrap;
+      min-width: 2.6em;
+      text-align: right;
+    }
     .hfa-popup-metrics {
       margin: 0.5rem 0 0.65rem;
       padding-top: 0.5rem;
       border-top: 1px solid var(--border);
     }
     .hfa-popup-metrics .tt-row { font-size: 0.72rem; }
+    .tt-rank-hint {
+      margin-top: 0.5rem;
+      color: var(--muted);
+      font-size: 0.68rem;
+      line-height: 1.4;
+    }
     .report-modal {
       position: fixed;
       inset: 0;
@@ -1438,6 +1452,7 @@
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
         stateModalTitle: "州详情",
+        stateModalRankHint: "排名为全美各州（含华盛顿特区）按数值从高到低排序，第 1 名为最高。",
         compareBtn: "对比各州",
         compareBtnActive: "点选 1~5 个州…",
         compareBtnView: "已选 {n}/{max} 个州 · 点击查看",
@@ -1528,6 +1543,7 @@
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Net Position Per Capita",
         stateModalTitle: "State details",
+        stateModalRankHint: "Ranked across all U.S. states and D.C. by value, highest to lowest (rank 1 = highest).",
         compareBtn: "Compare states",
         compareBtnActive: "Pick 1–5 states…",
         compareBtnView: "{n}/{max} selected · tap to view",
@@ -2042,10 +2058,17 @@
       const rows = METRIC_KEYS.map(k => {
         const val = metricValueForState(rec, k);
         const color = METRIC_COLORS[k] || "#94a3b8";
+        let rankText = "";
+        if (val != null && rec?.state) {
+          const ranked = rankedStates(k, dataset?.states?.length || 9999);
+          const idx = ranked.findIndex(r => r.state === rec.state);
+          if (idx >= 0) rankText = `${idx + 1}/${ranked.length}`;
+        }
         return `<div class="tt-row">
           <span class="tt-dot" style="background:${color}"></span>
           <span class="tt-label">${tMetric(k)}</span>
           <span class="tt-value">${fmt(val, k)}</span>
+          <span class="tt-rank">${rankText}</span>
         </div>`;
       }).join("");
       return `<div class="tt-body">${rows}</div>`;
@@ -2066,7 +2089,8 @@
       const body = items.length
         ? `<div class="hfa-popup-links">${items.join("")}</div>`
         : `<div class="hfa-popup-empty">${t("reportNoLinks")}</div>`;
-      const metrics = `<div class="hfa-popup-metrics">${buildMetricRowsHtml(rec)}</div>`;
+      const metrics = `<div class="hfa-popup-metrics">${buildMetricRowsHtml(rec)}
+        <p class="tt-rank-hint">${t("stateModalRankHint")}</p></div>`;
       return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${metrics}${body}`;
     }
 
