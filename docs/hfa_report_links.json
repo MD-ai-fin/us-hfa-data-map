@@ -163,9 +163,9 @@
     "state": "MD",
     "hfa_name": "Maryland Community Development Administration",
     "hfa_abbr": "CDA",
-    "page_url": "https://dhcd.maryland.gov/Investors/Pages/default.aspx",
-    "fy2024_pdf": "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2024_06_30fs.pdf",
-    "fy2025_pdf": "https://dhcd.maryland.gov/Investors/CDABondDocs/hrb2025_06_30fs.pdf"
+    "page_url": "https://dhcd.maryland.gov/Investors/Pages/FinancialStatement.aspx",
+    "fy2024_pdf": null,
+    "fy2025_pdf": null
   },
   "ME": {
     "state": "ME",

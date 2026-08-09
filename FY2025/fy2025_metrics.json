@@ -435,19 +435,19 @@
     "source_file": "MD_CDA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": 78170000,
-    "net_position_2024": 69304000,
-    "net_position_change": 8866000,
-    "net_position_change_pct": 12.79,
-    "total_assets_2025": 786372000,
-    "total_assets_2024": 625655000,
-    "total_liabilities_2025": 708202000,
-    "total_liabilities_2024": 556351000,
+    "net_position_2025": 572128000,
+    "net_position_2024": 447092000,
+    "net_position_change": 125036000,
+    "net_position_change_pct": 28.0,
+    "total_assets_2025": 5743557000,
+    "total_assets_2024": 4733622000,
+    "total_liabilities_2025": 5171017000,
+    "total_liabilities_2024": 4286088000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": 9.9405879151,
+    "net_position_ratio": 9.9612,
     "notes": [
-      "Statement of Net Position, CDA Housing Revenue Bonds fund only (FY2025, audited). CDA also has separately-audited Revenue Obligation Funds (net position ~$545M FY2025, includes Residential Revenue Bonds + General Bond Reserve Fund) and Multi-Family Mortgage Revenue Bonds (~$13M) statements not reflected here -- this figure understates Maryland CDA's total scope."
+      "Full CDA scope: sum of the 4 non-overlapping published bond fund statements at https://dhcd.maryland.gov/Investors/Pages/FinancialStatement.aspx -- Revenue Obligation Funds (ROF, itself a combined statement of Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund), Multi-Family Mortgage Revenue Bonds, Single Family Housing Revenue Bonds, and Local Government Infrastructure Bonds. Summing all 6 individually-listed statements would double-count HRB/RRB since they are already inside ROF's combined total; this figure deduplicates that."
     ]
   },
   {
