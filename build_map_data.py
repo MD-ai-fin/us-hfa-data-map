@@ -935,6 +935,18 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 4_071_413_000,
         "net_position_change_pct": 8.8,
     },
+    # PHFA MD&A condensed balance sheet (June 30, 2025 and 2024); source
+    # figures are "Total Assets" / "Total Liabilities" lines, excluding
+    # deferred outflows/inflows of resources (reported separately).
+    "PA": {
+        "net_position_2025": 890_304_000,
+        "net_position_2024": 826_629_000,
+        "total_assets_2025": 8_211_312_000,
+        "total_assets_2024": 7_456_089_000,
+        "total_liabilities_2025": 7_289_944_000,
+        "total_liabilities_2024": 6_614_819_000,
+        "net_position_change_pct": 7.7,
+    },
 }
 
 

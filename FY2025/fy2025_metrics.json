@@ -816,20 +816,21 @@
     "source_file": "PA_PHFA_FY2025_ACFR.pdf",
     "source_url": "",
     "status": "downloaded",
-    "net_position_2025": null,
-    "net_position_2024": null,
-    "net_position_change": null,
-    "net_position_change_pct": null,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "net_position_2025": 890304000,
+    "net_position_2024": 826629000,
+    "net_position_change": 63675000,
+    "net_position_change_pct": 7.7,
+    "total_assets_2025": 8211312000,
+    "total_assets_2024": 7456089000,
+    "total_liabilities_2025": 7289944000,
+    "total_liabilities_2024": 6614819000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
+    "net_position_ratio": 10.84,
     "notes": [
-      "未能自动提取核心指标，需人工复核PDF",
-      "文件为州级ACFR/合并报表，未纳入HFA专项排名"
+      "已根据PHFA FY2025 MD&A（Condensed Summary Balance Sheets, June 30 2025/2024）人工补充核心指标",
+      "取值为\"Total Assets\"/\"Total Liabilities\"行，不含Deferred Outflows/Inflows of Resources",
+      "文件为州级ACFR/合并报表，自动提取器未能识别，已人工复核"
     ]
   },
   {

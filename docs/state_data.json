@@ -1610,10 +1610,10 @@
     },
     {
       "2024": {
-        "net_position": null,
+        "net_position": 826629000,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 7456089000,
+        "total_liabilities": 6614819000,
         "families_served": null,
         "staff_count": 94,
         "staff_count_source": "LinkedIn",
@@ -1626,10 +1626,10 @@
         "homeless_count": 14088
       },
       "2025": {
-        "net_position": null,
-        "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "net_position": 890304000,
+        "net_position_growth_pct": 7.7,
+        "total_assets": 8211312000,
+        "total_liabilities": 7289944000,
         "families_served": null,
         "staff_count": 94,
         "staff_count_source": "LinkedIn",
