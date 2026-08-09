@@ -221,6 +221,44 @@
       font-size: 0.72rem;
       color: var(--muted);
     }
+    .kbd-help {
+      margin-top: 0.6rem;
+      padding-top: 0.55rem;
+      border-top: 1px solid var(--border);
+    }
+    .kbd-help summary {
+      cursor: pointer;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent);
+      list-style: none;
+    }
+    .kbd-help summary::-webkit-details-marker { display: none; }
+    .kbd-help summary::before { content: "▸ "; }
+    .kbd-help[open] summary::before { content: "▾ "; }
+    .kbd-help summary:hover,
+    .kbd-help summary:focus-visible { color: #7dd3fc; }
+    .kbd-help-body {
+      margin-top: 0.5rem;
+      font-size: 0.7rem;
+      color: #cbd5e1;
+      line-height: 1.7;
+    }
+    .kbd-help-body ul { list-style: none; margin: 0; padding: 0; }
+    .kbd-help-body kbd {
+      display: inline-block;
+      min-width: 1.3em;
+      padding: 0.05rem 0.35rem;
+      margin-right: 0.15rem;
+      border: 1px solid var(--border);
+      border-bottom-width: 2px;
+      border-radius: 4px;
+      background: #0f172a;
+      color: #f8fafc;
+      font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+      font-size: 0.66rem;
+      text-align: center;
+    }
     .sources {
       margin-top: auto;
       padding-top: 0.75rem;
@@ -1028,6 +1066,75 @@
       display: none;
     }
     .chart-tooltip.show { display: block; }
+    .feedback-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 2200;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(2, 6, 23, 0.72);
+      backdrop-filter: blur(4px);
+    }
+    .feedback-modal.open { display: flex; }
+    .feedback-panel {
+      width: min(420px, 100%);
+      max-height: 100%;
+      overflow: auto;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+    }
+    .feedback-field {
+      display: flex;
+      flex-direction: column;
+      gap: 0.35rem;
+      margin-bottom: 0.85rem;
+      font-size: 0.82rem;
+      color: var(--muted);
+    }
+    .feedback-field input,
+    .feedback-field textarea {
+      background: #0f172a;
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.5rem 0.65rem;
+      font-size: 0.88rem;
+      font-family: inherit;
+      resize: vertical;
+    }
+    .feedback-field input:focus,
+    .feedback-field textarea:focus {
+      outline: 2px solid var(--accent);
+      outline-offset: 1px;
+    }
+    .feedback-honeypot { position: absolute; left: -9999px; width: 1px; height: 1px; opacity: 0; }
+    .feedback-status {
+      font-size: 0.8rem;
+      margin: 0.6rem 0 0;
+      min-height: 1.2em;
+      color: var(--muted);
+    }
+    .feedback-status.success { color: #86efac; }
+    .feedback-status.error { color: #fca5a5; }
+    #footer-a11y {
+      margin-top: 4px;
+    }
+    .footer-link-btn {
+      background: none;
+      border: none;
+      padding: 0;
+      margin-left: 0.3rem;
+      color: var(--accent);
+      text-decoration: underline;
+      cursor: pointer;
+      font: inherit;
+    }
+    .footer-link-btn:hover,
+    .footer-link-btn:focus-visible { color: #7dd3fc; }
     .site-footer {
       flex-shrink: 0;
       margin-top: auto;
@@ -1371,6 +1478,10 @@
         <h3 id="legend-title">Legend</h3>
         <div class="legend-bar" id="legend-bar"></div>
         <div class="legend-labels"><span id="legend-min">—</span><span id="legend-max">—</span></div>
+        <details class="kbd-help" id="kbd-help">
+          <summary id="kbd-help-summary">⌨️ Keyboard Shortcuts</summary>
+          <div class="kbd-help-body" id="kbd-help-body"></div>
+        </details>
       </div>
     </div>
     <button type="button" class="btn-metrics-drawer" id="btn-metrics-drawer" aria-expanded="false" aria-controls="metrics-drawer">
@@ -1453,7 +1564,34 @@
       <a href="https://github.com/MD-ai-fin/us-hfa-data-map" target="_blank" rel="noopener">GitHub</a>
     </div>
     <div id="footer-disclaimer"></div>
+    <div id="footer-a11y"></div>
   </footer>
+
+  <div class="feedback-modal" id="feedback-modal" aria-hidden="true">
+    <div class="feedback-panel" role="dialog" aria-modal="true" aria-labelledby="feedback-title">
+      <div class="compare-header">
+        <h2 id="feedback-title">Feedback</h2>
+        <button type="button" class="report-close" id="btn-feedback-close" aria-label="Close">×</button>
+      </div>
+      <div class="compare-body">
+        <form id="feedback-form">
+          <label class="feedback-field">
+            <span id="feedback-email-label">Email *</span>
+            <input type="email" id="feedback-email" name="email" autocomplete="email" required />
+          </label>
+          <label class="feedback-field">
+            <span id="feedback-message-label">Message *</span>
+            <textarea id="feedback-message" name="message" rows="5" required></textarea>
+          </label>
+          <input type="text" name="_gotcha" class="feedback-honeypot" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          <div class="play-actions">
+            <button type="submit" id="feedback-submit">Send</button>
+          </div>
+          <p class="feedback-status" id="feedback-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </div>
+  </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="play.js"></script>
@@ -1537,6 +1675,21 @@
         footerMit: "MIT 许可证",
         footerCc: "CC BY 4.0",
         footerDisclaimer: "独立研究项目，与任何州住房金融机构无隶属关系。",
+        footerA11y: "本网站支持键盘导航和色盲友好配色方案。欢迎提交反馈，帮助我们改进无障碍体验。",
+        feedbackLinkText: "发送反馈",
+        feedbackTitle: "反馈意见",
+        feedbackEmailLabel: "邮箱 *",
+        feedbackMessageLabel: "反馈内容 *",
+        feedbackSubmit: "发送",
+        feedbackSending: "发送中…",
+        feedbackSuccess: "感谢反馈，我们已收到！",
+        feedbackError: "发送失败，请稍后再试。",
+        closeFeedback: "关闭",
+        kbdHelpBtn: "⌨️ 键盘操作",
+        kbdHelpTab: "聚焦地图",
+        kbdHelpArrows: "在各州之间切换",
+        kbdHelpTypeahead: "输入州缩写（如 IL）可直接跳转到该州",
+        kbdHelpEnter: "打开该州详情",
         metrics: {
           net_position: "住房局净资产",
           net_position_growth_pct: "净资产同比增速",
@@ -1632,6 +1785,21 @@
         footerMit: "MIT License",
         footerCc: "CC BY 4.0",
         footerDisclaimer: "Independent research project. Not affiliated with any state Housing Finance Agency.",
+        footerA11y: "This site supports keyboard navigation and colorblind-friendly palettes. Feedback on accessibility is welcome.",
+        feedbackLinkText: "Send Feedback",
+        feedbackTitle: "Feedback",
+        feedbackEmailLabel: "Email *",
+        feedbackMessageLabel: "Message *",
+        feedbackSubmit: "Send",
+        feedbackSending: "Sending…",
+        feedbackSuccess: "Thanks — your feedback was received!",
+        feedbackError: "Something went wrong. Please try again later.",
+        closeFeedback: "Close",
+        kbdHelpBtn: "⌨️ Keyboard Shortcuts",
+        kbdHelpTab: "focus the map",
+        kbdHelpArrows: "move between states",
+        kbdHelpTypeahead: "Type a state abbreviation (e.g. IL) to jump to that state",
+        kbdHelpEnter: "open state details",
         metrics: {
           net_position: "HFA Net Position",
           net_position_growth_pct: "Net Position YoY Growth",
@@ -3185,6 +3353,92 @@
       cc.textContent = t("footerCc");
       cc.href = lang === "zh" ? "license-content-zh.html" : "license-content-en.html";
       document.getElementById("footer-disclaimer").textContent = t("footerDisclaimer");
+      const a11y = document.getElementById("footer-a11y");
+      a11y.innerHTML = "";
+      a11y.append(document.createTextNode(t("footerA11y")));
+      const feedbackBtn = document.createElement("button");
+      feedbackBtn.type = "button";
+      feedbackBtn.id = "footer-feedback-btn";
+      feedbackBtn.className = "footer-link-btn";
+      feedbackBtn.textContent = t("feedbackLinkText");
+      feedbackBtn.onclick = openFeedbackModal;
+      a11y.append(" ", feedbackBtn);
+
+      document.getElementById("feedback-title").textContent = t("feedbackTitle");
+      document.getElementById("btn-feedback-close").setAttribute("aria-label", t("closeFeedback"));
+      document.getElementById("feedback-email-label").textContent = t("feedbackEmailLabel");
+      document.getElementById("feedback-message-label").textContent = t("feedbackMessageLabel");
+      document.getElementById("feedback-submit").textContent = t("feedbackSubmit");
+    }
+
+    function renderKbdHelp() {
+      const summary = document.getElementById("kbd-help-summary");
+      const body = document.getElementById("kbd-help-body");
+      if (!summary || !body) return;
+      summary.textContent = t("kbdHelpBtn");
+      const rows = [
+        `<li><kbd>Tab</kbd> ${t("kbdHelpTab")}</li>`,
+        `<li><kbd>↑</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd> ${t("kbdHelpArrows")}</li>`,
+        `<li>${t("kbdHelpTypeahead")}</li>`,
+        `<li><kbd>Enter</kbd> ${t("kbdHelpEnter")}</li>`,
+      ];
+      body.innerHTML = `<ul>${rows.join("")}</ul>`;
+    }
+
+    function openFeedbackModal() {
+      const modal = document.getElementById("feedback-modal");
+      if (!modal) return;
+      const status = document.getElementById("feedback-status");
+      status.textContent = "";
+      status.className = "feedback-status";
+      modal.classList.add("open");
+      modal.setAttribute("aria-hidden", "false");
+      document.getElementById("feedback-message")?.focus();
+    }
+
+    function closeFeedbackModal() {
+      const modal = document.getElementById("feedback-modal");
+      if (!modal) return;
+      modal.classList.remove("open");
+      modal.setAttribute("aria-hidden", "true");
+    }
+
+    function bindFeedbackForm() {
+      const form = document.getElementById("feedback-form");
+      const status = document.getElementById("feedback-status");
+      const submitBtn = document.getElementById("feedback-submit");
+      form.addEventListener("submit", async e => {
+        e.preventDefault();
+        const message = document.getElementById("feedback-message").value.trim();
+        if (!message) return;
+        submitBtn.disabled = true;
+        status.textContent = t("feedbackSending");
+        status.className = "feedback-status";
+        try {
+          const res = await fetch("https://formspree.io/f/mzepdqpl", {
+            method: "POST",
+            headers: { Accept: "application/json" },
+            body: new FormData(form),
+          });
+          if (res.ok) {
+            status.textContent = t("feedbackSuccess");
+            status.className = "feedback-status success";
+            form.reset();
+          } else {
+            status.textContent = t("feedbackError");
+            status.className = "feedback-status error";
+          }
+        } catch (_err) {
+          status.textContent = t("feedbackError");
+          status.className = "feedback-status error";
+        } finally {
+          submitBtn.disabled = false;
+        }
+      });
+      document.getElementById("btn-feedback-close").onclick = closeFeedbackModal;
+      document.getElementById("feedback-modal").onclick = e => {
+        if (e.target.id === "feedback-modal") closeFeedbackModal();
+      };
     }
 
     function renderControls() {
@@ -3210,6 +3464,7 @@
       renderExploreLabels();
       window.hfaPlay?.renderPlayLabels?.();
       window.hfaCharts?.renderChartLabels?.();
+      renderKbdHelp();
       renderFunFact(false);
       renderRankPanel();
       if (reportOpen) {
@@ -3227,6 +3482,7 @@
     }
 
     function bindToggles() {
+      bindFeedbackForm();
       document.querySelectorAll("#year-toggle button").forEach(btn => {
         btn.classList.toggle("active", btn.dataset.year === year);
         btn.onclick = () => {
@@ -3322,6 +3578,10 @@
         if (e.key !== "Escape") return;
         if (window.hfaPlay?.onEscape?.()) return;
         if (window.hfaCharts?.onEscape?.()) return;
+        if (document.getElementById("feedback-modal")?.classList.contains("open")) {
+          closeFeedbackModal();
+          return;
+        }
         if (reportOpen) closeReport();
         else if (stateModalOpen) closeStateModal();
         else if (compareOpen) {
