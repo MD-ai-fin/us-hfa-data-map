@@ -3308,7 +3308,11 @@
     function updateMetricsDrawerBtn() {
       const btn = document.getElementById("btn-metrics-drawer");
       const label = document.getElementById("btn-metrics-label");
-      label.textContent = t("metricsDrawerBtn");
+      const mkey = primaryMetric();
+      // Show the currently selected metric's name so the button also works as a
+      // status readout — otherwise there's no way to tell what's on the map from here.
+      label.textContent = mkey ? tMetric(mkey) : t("metricsDrawerBtn");
+      btn.setAttribute("aria-label", mkey ? `${t("metricsDrawerBtn")}: ${tMetric(mkey)}` : t("metricsDrawerBtn"));
       btn.setAttribute("aria-expanded", drawerOpen && isMobileLayout() ? "true" : "false");
     }
 
