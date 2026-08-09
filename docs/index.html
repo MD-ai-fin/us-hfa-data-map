@@ -1309,29 +1309,23 @@
       .chart-rank-row .name-line { display: none; }
       .chart-scatter-wrap .pt-label { display: none; }
 
+      /* Lives inline in the top controls row now (next to HFA Reports, above the
+         Analysis Report button) instead of floating over the map — no more fighting
+         with the legend/rank panel for space down there. */
       .btn-metrics-drawer {
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        gap: 0.4rem;
-        /* Absolute within #map-wrap (not fixed to the viewport) so it lives entirely
-           inside the map area and never overlaps the footer below it. */
-        position: absolute;
-        left: 50%;
-        bottom: 12px;
-        transform: translateX(-50%);
-        z-index: 1100;
-        min-width: 148px;
-        min-height: 44px;
-        padding: 0.65rem 1.15rem;
-        border-radius: 999px;
-        background: rgba(56, 189, 248, 0.95);
-        color: #0f172a;
-        border: none;
-        font-weight: 700;
-        font-size: 0.9rem;
-        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+        min-height: 40px;
+        padding: 0.5rem 0.9rem;
+        border-radius: 8px;
+        background: rgba(56, 189, 248, 0.12);
+        border: 1px solid rgba(56, 189, 248, 0.45);
+        color: var(--accent);
+        font-weight: 600;
+        font-size: 0.82rem;
       }
+      .btn-metrics-drawer:hover { background: rgba(56, 189, 248, 0.22); }
       .btn-metrics-drawer[aria-expanded="true"] { display: none; }
 
       .drawer-backdrop {
@@ -1438,6 +1432,9 @@
         <option value="">—</option>
       </select>
     </div>
+    <button type="button" class="btn-metrics-drawer" id="btn-metrics-drawer" aria-expanded="false" aria-controls="metrics-drawer">
+      <span id="btn-metrics-label">Metrics</span>
+    </button>
     <button type="button" class="btn-report" id="btn-report">FY2025 Analysis Report</button>
   </div>
 
@@ -1486,9 +1483,6 @@
           <div class="kbd-help-body" id="kbd-help-body"></div>
         </details>
       </div>
-      <button type="button" class="btn-metrics-drawer" id="btn-metrics-drawer" aria-expanded="false" aria-controls="metrics-drawer">
-        <span id="btn-metrics-label">Metrics</span>
-      </button>
     </div>
     <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
     <aside class="sidebar" id="metrics-drawer" aria-label="Map display options">
