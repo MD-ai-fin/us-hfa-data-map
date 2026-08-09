@@ -545,6 +545,7 @@
       grid-template-columns: 1.4fr 1fr 1fr;
       gap: 0.35rem 0.5rem;
       font-size: 0.82rem;
+      overflow-x: auto;
     }
     .compare-grid .head {
       color: var(--muted);
@@ -560,6 +561,21 @@
       color: #e2e8f0;
     }
     .compare-grid .cell.win { color: #4ade80; font-weight: 600; }
+    .compare-legend {
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      color: var(--muted);
+      font-size: 0.76rem;
+      margin-top: 0.85rem;
+    }
+    .compare-legend .dot {
+      width: 8px;
+      height: 8px;
+      flex: none;
+      border-radius: 50%;
+      background: #4ade80;
+    }
     .compare-picks {
       display: flex;
       gap: 0.5rem;
@@ -567,13 +583,27 @@
       margin-bottom: 0.75rem;
     }
     .compare-chip {
-      padding: 0.25rem 0.55rem;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.25rem 0.5rem 0.25rem 0.55rem;
       border-radius: 999px;
       background: rgba(56, 189, 248, 0.12);
       border: 1px solid rgba(56, 189, 248, 0.35);
       font-size: 0.78rem;
       color: #7dd3fc;
     }
+    .compare-chip-remove {
+      background: none;
+      border: none;
+      color: inherit;
+      cursor: pointer;
+      font-size: 0.9rem;
+      line-height: 1;
+      padding: 0;
+      opacity: 0.7;
+    }
+    .compare-chip-remove:hover { opacity: 1; }
     .state-value-marker {
       background: transparent !important;
       border: none !important;
@@ -1394,11 +1424,13 @@
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
         compareBtn: "对比各州",
-        compareBtnActive: "点选两个州…",
+        compareBtnActive: "点选 1~5 个州…",
+        compareBtnView: "已选 {n}/{max} 个州 · 点击查看",
         compareTitle: "州对比",
-        compareHintPick: "在地图上依次点选两个州进行对比。",
-        compareHintOne: "已选 {a}，请再选另一个州。",
+        compareHintPick: "在地图上点选 1~5 个州查看详情或对比。",
         compareClear: "重选",
+        compareEdit: "修改选择",
+        compareLegend: "绿色数字表示该项指标在所选州中数值最高（并列最高不标注）。",
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "冷知识",
         nextFact: "下一条",
@@ -1482,11 +1514,13 @@
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Per Capita",
         compareBtn: "Compare states",
-        compareBtnActive: "Pick 2 states…",
+        compareBtnActive: "Pick 1–5 states…",
+        compareBtnView: "{n}/{max} selected · tap to view",
         compareTitle: "State comparison",
-        compareHintPick: "Click two states on the map to compare.",
-        compareHintOne: "{a} selected — click another state.",
+        compareHintPick: "Click 1–5 states on the map to view or compare.",
         compareClear: "Reset",
+        compareLegend: "Green numbers mark the highest value for that metric among the selected states (ties are not marked).",
+        compareEdit: "Edit selection",
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "Did you know?",
         nextFact: "Next fact",
@@ -1708,6 +1742,8 @@
       "net_position", "net_position_growth_pct", "net_position_per_capita",
       "total_assets", "leverage_ratio", "homeless_count",
     ];
+    const MIN_COMPARE = 1;
+    const MAX_COMPARE = 5;
     const SCENES = {
       top_np: { metric: "net_position", top: 10 },
       top_growth: { metric: "net_position_growth_pct", top: 10 },
@@ -2505,10 +2541,14 @@
       btn.setAttribute("aria-pressed", compareMode ? "true" : "false");
       if (!compareMode) {
         btn.textContent = t("compareBtn");
-      } else if (comparePick.length === 1) {
-        btn.textContent = t("compareHintOne").replace("{a}", comparePick[0]);
-      } else {
+      } else if (compareOpen) {
+        btn.textContent = t("compareBtn");
+      } else if (comparePick.length === 0) {
         btn.textContent = t("compareBtnActive");
+      } else {
+        btn.textContent = t("compareBtnView")
+          .replace("{n}", comparePick.length)
+          .replace("{max}", MAX_COMPARE);
       }
     }
 
@@ -2523,7 +2563,7 @@
     }
 
     function openComparePanel() {
-      if (comparePick.length < 2) return;
+      if (comparePick.length < MIN_COMPARE) return;
       compareOpen = true;
       if (reportOpen) closeReport();
       const modal = document.getElementById("compare-modal");
@@ -2543,65 +2583,89 @@
     function renderCompareBody() {
       const body = document.getElementById("compare-body");
       if (comparePick.length === 0) {
-        body.innerHTML = `<p class="compare-hint">${t("compareHintPick")}</p>`;
-        return;
-      }
-      if (comparePick.length === 1) {
-        body.innerHTML = `<p class="compare-hint">${t("compareHintOne").replace("{a}", comparePick[0])}</p>
-          <button type="button" id="btn-compare-reset">${t("compareClear")}</button>`;
-        document.getElementById("btn-compare-reset").onclick = () => {
-          comparePick.length = 0;
-          setCompareMode(true);
+        body.innerHTML = `<p class="compare-hint">${t("compareHintPick")}</p>
+          <button type="button" id="btn-compare-edit">${t("compareEdit")}</button>`;
+        document.getElementById("btn-compare-edit").onclick = () => {
           closeComparePanel();
+          updateCompareButton();
         };
         return;
       }
-      const [a, b] = comparePick;
-      const ra = getStateData(a);
-      const rb = getStateData(b);
-      const na = stateDisplayName(ra, a);
-      const nb = stateDisplayName(rb, b);
+      const picks = comparePick.map(abbr => {
+        const row = getStateData(abbr);
+        return { abbr, row, name: stateDisplayName(row, abbr) };
+      });
       const rows = COMPARE_METRICS.map(k => {
-        const va = metricValueForState(ra, k);
-        const vb = metricValueForState(rb, k);
-        const fa = va == null ? t("na") : fmt(va, k);
-        const fb = vb == null ? t("na") : fmt(vb, k);
-        let winA = "", winB = "";
-        if (va != null && vb != null && va !== vb) {
-          // For leverage, lower can be "better" but we just mark the higher value
-          if (va > vb) winA = " win";
-          else winB = " win";
-        }
-        return `<div class="metric-name">${tMetric(k)}</div>
-          <div class="cell${winA}" data-final="${fa}">${fa}</div>
-          <div class="cell${winB}" data-final="${fb}">${fb}</div>`;
+        const vals = picks.map(p => metricValueForState(p.row, k));
+        const numeric = vals.filter(v => v != null);
+        const maxVal = numeric.length ? Math.max(...numeric) : null;
+        const allTied = numeric.length > 0 && numeric.every(v => v === numeric[0]);
+        const cells = vals.map(v => {
+          const f = v == null ? t("na") : fmt(v, k);
+          // For leverage, lower can be "better" but we just mark the highest value(s)
+          const win = v != null && v === maxVal && !allTied ? " win" : "";
+          return `<div class="cell${win}" data-final="${f}">${f}</div>`;
+        }).join("");
+        return `<div class="metric-name">${tMetric(k)}</div>${cells}`;
       }).join("");
+      const chips = picks.map(p => `<span class="compare-chip">${p.abbr} · ${p.name}<button type="button" class="compare-chip-remove" data-abbr="${p.abbr}" aria-label="${t("closeCompare")}">×</button></span>`).join("");
+      const heads = picks.map(p => `<div class="head">${p.abbr}</div>`).join("");
+      const editBtn = comparePick.length < MAX_COMPARE
+        ? `<button type="button" id="btn-compare-edit">${t("compareEdit")}</button>`
+        : "";
+      const legend = picks.length >= 2
+        ? `<p class="compare-legend"><span class="dot"></span>${t("compareLegend")}</p>`
+        : "";
       body.innerHTML = `
         <div class="compare-picks">
-          <span class="compare-chip">${a} · ${na}</span>
-          <span class="compare-chip">${b} · ${nb}</span>
+          ${chips}
+          ${editBtn}
           <button type="button" id="btn-compare-reset">${t("compareClear")}</button>
         </div>
-        <div class="compare-grid">
+        <div class="compare-grid" style="grid-template-columns: 140px repeat(${picks.length}, minmax(88px, 1fr));">
           <div class="head"></div>
-          <div class="head">${a}</div>
-          <div class="head">${b}</div>
+          ${heads}
           ${rows}
-        </div>`;
+        </div>
+        ${legend}`;
       document.getElementById("btn-compare-reset").onclick = () => {
         comparePick.length = 0;
         closeComparePanel();
         setCompareMode(true);
       };
+      const editEl = document.getElementById("btn-compare-edit");
+      if (editEl) {
+        editEl.onclick = () => {
+          closeComparePanel();
+          updateCompareButton();
+        };
+      }
+      body.querySelectorAll(".compare-chip-remove").forEach(el => {
+        el.onclick = () => {
+          const abbr = el.dataset.abbr;
+          const idx = comparePick.indexOf(abbr);
+          if (idx !== -1) comparePick.splice(idx, 1);
+          highlightAbbrs.delete(abbr);
+          refreshMap();
+          applyHighlightClasses(true);
+          updateCompareButton();
+          renderCompareBody();
+        };
+      });
       body.querySelectorAll(".cell[data-final]").forEach(el =>
         animateCountEl(el, el.dataset.final));
     }
 
     function handleComparePick(abbr) {
-      if (!compareMode) return;
-      if (comparePick.includes(abbr)) return;
-      if (comparePick.length >= 2) comparePick.length = 0;
-      comparePick.push(abbr);
+      if (!compareMode || compareOpen) return;
+      const idx = comparePick.indexOf(abbr);
+      if (idx !== -1) {
+        comparePick.splice(idx, 1);
+      } else if (comparePick.length < MAX_COMPARE) {
+        comparePick.push(abbr);
+      } else {
+        return;
+      }
       highlightAbbrs.clear();
       comparePick.forEach(s => highlightAbbrs.add(s));
       activeScene = null;
@@ -2609,7 +2673,6 @@
       refreshMap();
       applyHighlightClasses(true);
       updateCompareButton();
-      if (comparePick.length === 2) openComparePanel();
     }
 
     function renderExploreLabels() {
@@ -2987,10 +3050,18 @@
       });
       document.getElementById("btn-compare").onclick = () => {
         if (compareMode) {
-          setCompareMode(false);
-          clearHighlights();
-          closeComparePanel();
-          refreshMap();
+          if (compareOpen) {
+            setCompareMode(false);
+            clearHighlights();
+            closeComparePanel();
+            refreshMap();
+          } else if (comparePick.length >= MIN_COMPARE) {
+            openComparePanel();
+          } else {
+            setCompareMode(false);
+            clearHighlights();
+            refreshMap();
+          }
         } else {
           clearExclusiveTools({ except: "compare" });
           clearHighlights();
