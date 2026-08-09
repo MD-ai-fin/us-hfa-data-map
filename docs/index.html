@@ -399,7 +399,8 @@
       flex-direction: column;
       gap: 0.15rem;
     }
-    .play-list li:hover { border-color: var(--accent); }
+    .play-list li:hover,
+    .play-list li:focus-visible { border-color: var(--accent); }
     .play-list li span { color: var(--muted); font-size: 0.72rem; }
     .play-actions {
       display: flex;
@@ -563,6 +564,7 @@
       color: #e2e8f0;
     }
     .compare-grid .cell.win { color: #4ade80; font-weight: 600; }
+    .compare-grid .cell.win::after { content: " ▲"; font-size: 0.8em; }
     .compare-legend {
       display: flex;
       align-items: center;
@@ -1487,7 +1489,8 @@
         compareHintPick: "在地图上点选 1~5 个州查看详情或对比。",
         compareClear: "重选",
         compareEdit: "修改选择",
-        compareLegend: "绿色数字表示该项指标在所选州中数值最高（并列最高不标注）。",
+        compareLegend: "绿色数字 + ▲ 标记表示该项指标在所选州中数值最高（并列最高不标注）。",
+        compareWinLabel: "最高",
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "冷知识",
         nextFact: "下一条",
@@ -1580,7 +1583,8 @@
         compareTitle: "State comparison",
         compareHintPick: "Click 1–5 states on the map to view or compare.",
         compareClear: "Reset",
-        compareLegend: "Green numbers mark the highest value for that metric among the selected states (ties are not marked).",
+        compareLegend: "Green numbers with a ▲ mark the highest value for that metric among the selected states (ties are not marked).",
+        compareWinLabel: "highest",
         compareEdit: "Edit selection",
         rankTitle: "Top 5 · {metric}",
         funFactLabel: "Did you know?",
@@ -2731,8 +2735,9 @@
         const cells = vals.map(v => {
           const f = v == null ? t("na") : fmt(v, k);
           // For leverage, lower can be "better" but we just mark the highest value(s)
-          const win = v != null && v === maxVal && !allTied ? " win" : "";
-          return `<div class="cell${win}" data-final="${f}">${f}</div>`;
+          const win = v != null && v === maxVal && !allTied;
+          const label = win ? `${f} (${t("compareWinLabel")})` : f;
+          return `<div class="cell${win ? " win" : ""}" data-final="${f}" aria-label="${label}">${f}</div>`;
         }).join("");
         return `<div class="metric-name">${tMetric(k)}</div>${cells}`;
       }).join("");
@@ -2861,19 +2866,101 @@
       });
     }
 
-    // Make each state polygon a keyboard-reachable control: Tab moves focus,
-    // Enter/Space activates it the same way a click would.
+    function getStateElement(abbr) {
+      const layer = layerByAbbr.get(abbr);
+      return layer?.getElement?.() || layer?._path || null;
+    }
+
+    function focusStateElement(abbr) {
+      getStateElement(abbr)?.focus();
+    }
+
+    // Arrow-key directions as (dLng, dLat) vectors: right = east (+lng), up = north (+lat).
+    const ARROW_DIRS = {
+      ArrowRight: [1, 0], ArrowLeft: [-1, 0], ArrowUp: [0, 1], ArrowDown: [0, -1],
+    };
+
+    // Nearest other state whose centroid lies roughly in the given direction from `fromAbbr`.
+    // Ranks candidates by how closely they align with the direction axis, then by distance —
+    // the same heuristic used by D-pad/gamepad-style 2D spatial focus navigation.
+    function nearestStateInDirection(fromAbbr, dx, dy) {
+      const fromLayer = layerByAbbr.get(fromAbbr);
+      if (!fromLayer) return null;
+      const c0 = fromLayer.getBounds().getCenter();
+      let best = null, bestScore = Infinity;
+      layerByAbbr.forEach((layer, abbr) => {
+        if (abbr === fromAbbr) return;
+        const c = layer.getBounds().getCenter();
+        const vx = c.lng - c0.lng;
+        const vy = c.lat - c0.lat;
+        const dot = vx * dx + vy * dy;
+        if (dot <= 0) return; // not generally in that direction
+        const perp = Math.abs(vx * dy - vy * dx);
+        const dist = Math.hypot(vx, vy);
+        const score = perp * 2 + dist;
+        if (score < bestScore) { bestScore = score; best = abbr; }
+      });
+      return best;
+    }
+
+    // Typeahead: typing a state's postal abbreviation (e.g. "CA") jumps focus to it,
+    // same convention as a native <select>'s typeahead.
+    let typeaheadBuffer = "";
+    let typeaheadTimer = null;
+    function handleStateTypeahead(key) {
+      clearTimeout(typeaheadTimer);
+      const upper = key.toUpperCase();
+      const abbrs = [...layerByAbbr.keys()];
+      let candidate = typeaheadBuffer + upper;
+      let matches = abbrs.filter(a => a.startsWith(candidate));
+      if (!matches.length) {
+        candidate = upper;
+        matches = abbrs.filter(a => a.startsWith(candidate));
+      }
+      typeaheadBuffer = candidate;
+      typeaheadTimer = setTimeout(() => { typeaheadBuffer = ""; }, 700);
+      if (matches.length) focusStateElement(matches.sort()[0]);
+    }
+
+    // Make each state polygon a keyboard-reachable control: Tab moves focus (unchanged,
+    // visits every state individually — the most predictable pattern for screen readers).
+    // On top of that, as optional accelerators for sighted keyboard users: Enter/Space
+    // activates a focused state like a click, arrow keys hop to the nearest neighboring
+    // state in that direction, and typing a state's abbreviation jumps straight to it.
     function setupStateA11y() {
       layerByAbbr.forEach((layer, abbr) => {
-        const el = layer.getElement?.() || layer._path;
+        const el = getStateElement(abbr);
         if (!el || el.dataset.a11yBound) return;
         el.dataset.a11yBound = "1";
         el.setAttribute("tabindex", "0");
         el.setAttribute("role", "button");
+        // Whichever way focus arrives (Tab, arrow-key hop, or typeahead), make sure the
+        // state is actually visible rather than leaving a focus ring off-screen.
+        el.addEventListener("focus", () => {
+          const bounds = layer.getBounds();
+          if (typeof map.panInsideBounds === "function") {
+            map.panInsideBounds(bounds, { padding: [40, 40], animate: !reduceMotion });
+          } else {
+            map.panTo(bounds.getCenter(), { animate: !reduceMotion });
+          }
+        });
         el.addEventListener("keydown", e => {
-          if (e.key !== "Enter" && e.key !== " " && e.key !== "Spacebar") return;
-          e.preventDefault();
-          activateState(abbr);
+          if (e.key === "Enter" || e.key === " " || e.key === "Spacebar") {
+            e.preventDefault();
+            activateState(abbr);
+            return;
+          }
+          if (ARROW_DIRS[e.key]) {
+            e.preventDefault();
+            const [dx, dy] = ARROW_DIRS[e.key];
+            const next = nearestStateInDirection(abbr, dx, dy);
+            if (next) focusStateElement(next);
+            return;
+          }
+          if (e.key.length === 1 && /[a-z]/i.test(e.key) && !e.ctrlKey && !e.metaKey && !e.altKey) {
+            e.preventDefault();
+            handleStateTypeahead(e.key);
+          }
         });
       });
     }
@@ -2881,7 +2968,7 @@
     function updateA11yLabels() {
       const mkey = primaryMetric();
       layerByAbbr.forEach((layer, abbr) => {
-        const el = layer.getElement?.() || layer._path;
+        const el = getStateElement(abbr);
         if (!el) return;
         const rec = getStateData(abbr);
         const name = stateDisplayName(rec, abbr);

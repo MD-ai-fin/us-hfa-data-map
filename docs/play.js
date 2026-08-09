@@ -278,10 +278,10 @@
         const rec = getStateData(r.state);
         const name = stateDisplayName(rec, r.state);
         if (type === "growth_small") {
-          return `<li data-state="${r.state}"><strong>${r.state}</strong> ${name}
+          return `<li data-state="${r.state}" tabindex="0" role="button"><strong>${r.state}</strong> ${name}
             <span>${tMetric("net_position_growth_pct")} #${r.growth.rank} · ${tMetric("net_position")} #${r.net.rank}</span></li>`;
         }
-        return `<li data-state="${r.state}"><strong>${r.state}</strong> ${name}
+        return `<li data-state="${r.state}" tabindex="0" role="button"><strong>${r.state}</strong> ${name}
           <span>${tMetric("total_assets")} #${r.assets.rank} · ${tMetric("net_position_per_capita")} #${r.capita.rank}</span></li>`;
       }).join("");
       $("play-body").innerHTML = `
@@ -295,11 +295,13 @@
       // No pulse: keeps rim weight/brightness identical across states (MI reference)
       setMapHighlights(abbrs, { pulse: false });
       $("play-body").querySelectorAll("li[data-state]").forEach(li => {
-        li.onclick = () => {
+        const go = () => {
           const st = li.dataset.state;
           flyToState(st, { openPopup: false });
           setMapHighlights(abbrs, { pulse: false });
         };
+        li.onclick = go;
+        li.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); go(); } };
       });
       $("btn-anomaly-next").onclick = () => {
         const i = ANOMALY_ORDER.indexOf(anomalyType || type);
