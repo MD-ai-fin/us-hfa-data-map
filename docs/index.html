@@ -716,59 +716,39 @@
       font-size: 0.78rem;
       color: var(--muted);
     }
-    .leaflet-tooltip.hfa-tooltip {
-      background: var(--panel);
-      color: var(--text);
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
-      padding: 0;
-      white-space: normal;
-      opacity: 1;
-    }
-    .leaflet-tooltip-top.hfa-tooltip::before { border-top-color: var(--panel); }
-    .leaflet-tooltip-bottom.hfa-tooltip::before { border-bottom-color: var(--panel); }
-    .leaflet-tooltip-left.hfa-tooltip::before { border-left-color: var(--panel); }
-    .leaflet-tooltip-right.hfa-tooltip::before { border-right-color: var(--panel); }
-    .state-tooltip {
-      width: 230px;
-      max-width: 60vw;
-      padding: 0.6rem 0.7rem;
-    }
-    .state-tooltip .tt-title {
-      font-size: 0.84rem;
-      font-weight: 600;
-      margin-bottom: 0.45rem;
-      padding-bottom: 0.35rem;
-      border-bottom: 1px solid var(--border);
-    }
-    .state-tooltip .tt-body {
+    .tt-body {
       display: flex;
       flex-direction: column;
       gap: 0.24rem;
     }
-    .state-tooltip .tt-row {
+    .tt-row {
       display: flex;
       align-items: baseline;
       gap: 0.4rem;
       font-size: 0.7rem;
     }
-    .state-tooltip .tt-dot {
+    .tt-dot {
       width: 6px;
       height: 6px;
       flex: none;
       border-radius: 50%;
     }
-    .state-tooltip .tt-label {
+    .tt-label {
       flex: 1;
       min-width: 0;
       color: var(--muted);
     }
-    .state-tooltip .tt-value {
+    .tt-value {
       font-variant-numeric: tabular-nums;
       font-weight: 600;
       white-space: nowrap;
     }
+    .hfa-popup-metrics {
+      margin: 0.5rem 0 0.65rem;
+      padding-top: 0.5rem;
+      border-top: 1px solid var(--border);
+    }
+    .hfa-popup-metrics .tt-row { font-size: 0.72rem; }
     .report-modal {
       position: fixed;
       inset: 0;
@@ -2061,6 +2041,19 @@
       return reportLinks?.[abbr] || null;
     }
 
+    function buildMetricRowsHtml(rec) {
+      const rows = METRIC_KEYS.map(k => {
+        const val = metricValueForState(rec, k);
+        const color = METRIC_COLORS[k] || "#94a3b8";
+        return `<div class="tt-row">
+          <span class="tt-dot" style="background:${color}"></span>
+          <span class="tt-label">${tMetric(k)}</span>
+          <span class="tt-value">${fmt(val, k)}</span>
+        </div>`;
+      }).join("");
+      return `<div class="tt-body">${rows}</div>`;
+    }
+
     function buildReportPopupHtml(abbr) {
       const rec = getStateData(abbr);
       const links = getReportLinks(abbr);
@@ -2076,25 +2069,8 @@
       const body = items.length
         ? `<div class="hfa-popup-links">${items.join("")}</div>`
         : `<div class="hfa-popup-empty">${t("reportNoLinks")}</div>`;
-      return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${body}`;
-    }
-
-    function buildStateTooltipHtml(abbr) {
-      const rec = getStateData(abbr);
-      const name = stateDisplayName(rec, abbr);
-      const rows = METRIC_KEYS.map(k => {
-        const val = metricValueForState(rec, k);
-        const color = METRIC_COLORS[k] || "#94a3b8";
-        return `<div class="tt-row">
-          <span class="tt-dot" style="background:${color}"></span>
-          <span class="tt-label">${tMetric(k)}</span>
-          <span class="tt-value">${fmt(val, k)}</span>
-        </div>`;
-      }).join("");
-      return `<div class="state-tooltip">
-        <div class="tt-title">${abbr} · ${name}</div>
-        <div class="tt-body">${rows}</div>
-      </div>`;
+      const metrics = `<div class="hfa-popup-metrics">${buildMetricRowsHtml(rec)}</div>`;
+      return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${metrics}${body}`;
     }
 
     function openStateReportPopup(abbr) {
@@ -2770,23 +2746,13 @@
         maxWidth: 320,
         className: "hfa-popup",
       });
-      layer.bindTooltip(() => buildStateTooltipHtml(abbr), {
-        sticky: true,
-        direction: "auto",
-        opacity: 1,
-        className: "hfa-tooltip",
-      });
       layer.on({
-        tooltipopen: () => {
-          if (compareMode) layer.closeTooltip();
-        },
         mouseover: e => {
           if (compareMode) return;
           e.target.setStyle({ weight: 2.5, color: "#e2e8f0" });
         },
         mouseout: e => stateLayer.resetStyle(e.target),
         click: e => {
-          layer.closeTooltip();
           if (window.hfaPlay?.onMapClick?.(abbr)) {
             L.DomEvent.stop(e);
             L.DomEvent.preventDefault(e);
