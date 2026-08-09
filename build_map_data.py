@@ -972,6 +972,19 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 4_071_413_000,
         "net_position_change_pct": 8.8,
     },
+    # SDHDA MD&A "Changes in Assets, Deferred Outflows, Liabilities, Deferred
+    # Inflows and Net Position" (in millions, FYE June 30 2025/2024). Net
+    # position kept at its prior more-precise value; total_assets/liabilities
+    # newly added from this table.
+    "SD": {
+        "net_position_2025": 665_054_948,
+        "net_position_2024": 632_181_510,
+        "total_assets_2025": 3_053_400_000,
+        "total_assets_2024": 2_574_900_000,
+        "total_liabilities_2025": 2_360_700_000,
+        "total_liabilities_2024": 1_910_000_000,
+        "net_position_change_pct": 5.2,
+    },
     # DCHFA MD&A "Financial Statement Analysis" table (fiscal year ended
     # September 30, 2025/2024); assets - liabilities reconciles exactly to the
     # stated net position for both years (no deferred outflows/inflows).

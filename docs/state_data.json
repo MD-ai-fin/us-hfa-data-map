@@ -1746,8 +1746,8 @@
       "2024": {
         "net_position": 632181510,
         "net_position_growth_pct": null,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 2574900000,
+        "total_liabilities": 1910000000,
         "families_served": null,
         "staff_count": 71,
         "staff_count_source": "South Dakota Housing annual report",
@@ -1762,8 +1762,8 @@
       "2025": {
         "net_position": 665054948.0,
         "net_position_growth_pct": 5.199999917745143,
-        "total_assets": null,
-        "total_liabilities": null,
+        "total_assets": 3053400000,
+        "total_liabilities": 2360700000,
         "families_served": null,
         "staff_count": 71,
         "staff_count_source": "South Dakota Housing annual report",
