@@ -716,6 +716,59 @@
       font-size: 0.78rem;
       color: var(--muted);
     }
+    .leaflet-tooltip.hfa-tooltip {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.45);
+      padding: 0;
+      white-space: normal;
+      opacity: 1;
+    }
+    .leaflet-tooltip-top.hfa-tooltip::before { border-top-color: var(--panel); }
+    .leaflet-tooltip-bottom.hfa-tooltip::before { border-bottom-color: var(--panel); }
+    .leaflet-tooltip-left.hfa-tooltip::before { border-left-color: var(--panel); }
+    .leaflet-tooltip-right.hfa-tooltip::before { border-right-color: var(--panel); }
+    .state-tooltip {
+      width: 230px;
+      max-width: 60vw;
+      padding: 0.6rem 0.7rem;
+    }
+    .state-tooltip .tt-title {
+      font-size: 0.84rem;
+      font-weight: 600;
+      margin-bottom: 0.45rem;
+      padding-bottom: 0.35rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .state-tooltip .tt-body {
+      display: flex;
+      flex-direction: column;
+      gap: 0.24rem;
+    }
+    .state-tooltip .tt-row {
+      display: flex;
+      align-items: baseline;
+      gap: 0.4rem;
+      font-size: 0.7rem;
+    }
+    .state-tooltip .tt-dot {
+      width: 6px;
+      height: 6px;
+      flex: none;
+      border-radius: 50%;
+    }
+    .state-tooltip .tt-label {
+      flex: 1;
+      min-width: 0;
+      color: var(--muted);
+    }
+    .state-tooltip .tt-value {
+      font-variant-numeric: tabular-nums;
+      font-weight: 600;
+      white-space: nowrap;
+    }
     .report-modal {
       position: fixed;
       inset: 0;
@@ -1279,9 +1332,9 @@
     <div class="scene-row" id="scene-row">
       <button type="button" class="scene-btn" data-scene="top_np" id="scene-top-np">Top Net Position</button>
       <button type="button" class="scene-btn" data-scene="top_growth" id="scene-top-growth">Fastest Growth</button>
-      <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Per Capita</button>
+      <button type="button" class="scene-btn" data-scene="top_capita" id="scene-top-capita">Net Position Per Capita</button>
       <button type="button" class="btn-compare" id="btn-compare" aria-pressed="false">Compare states</button>
-      <button type="button" class="scene-btn discover" id="btn-my-state">My state</button>
+      <button type="button" class="scene-btn discover" id="btn-my-state">My State Ranking</button>
       <button type="button" class="scene-btn discover" id="btn-anomaly">Contrasts</button>
       <button type="button" class="scene-btn discover" id="btn-rank-chart">Rankings</button>
       <button type="button" class="scene-btn discover" id="btn-scatter">Scatter</button>
@@ -1425,7 +1478,7 @@
         nextFact: "下一条",
         shareBtn: "复制链接",
         shareCopied: "已复制",
-        myStateBtn: "我的州",
+        myStateBtn: "我的州排名",
         myStateTitle: "我的州",
         myStatePick: "选择州 / 地区",
         myStateGoto: "在地图上查看",
@@ -1500,7 +1553,7 @@
         metricsDrawerBtn: "Metrics",
         sceneTopNp: "Top Net Position",
         sceneTopGrowth: "Fastest Growth",
-        sceneTopCapita: "Per Capita",
+        sceneTopCapita: "Net Position Per Capita",
         compareBtn: "Compare states",
         compareBtnActive: "Pick 1–5 states…",
         compareBtnView: "{n}/{max} selected · tap to view",
@@ -1514,7 +1567,7 @@
         nextFact: "Next fact",
         shareBtn: "Copy link",
         shareCopied: "Copied",
-        myStateBtn: "My state",
+        myStateBtn: "My State Ranking",
         myStateTitle: "My state",
         myStatePick: "Choose a state / district",
         myStateGoto: "Show on map",
@@ -2024,6 +2077,24 @@
         ? `<div class="hfa-popup-links">${items.join("")}</div>`
         : `<div class="hfa-popup-empty">${t("reportNoLinks")}</div>`;
       return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${body}`;
+    }
+
+    function buildStateTooltipHtml(abbr) {
+      const rec = getStateData(abbr);
+      const name = stateDisplayName(rec, abbr);
+      const rows = METRIC_KEYS.map(k => {
+        const val = metricValueForState(rec, k);
+        const color = METRIC_COLORS[k] || "#94a3b8";
+        return `<div class="tt-row">
+          <span class="tt-dot" style="background:${color}"></span>
+          <span class="tt-label">${tMetric(k)}</span>
+          <span class="tt-value">${fmt(val, k)}</span>
+        </div>`;
+      }).join("");
+      return `<div class="state-tooltip">
+        <div class="tt-title">${abbr} · ${name}</div>
+        <div class="tt-body">${rows}</div>
+      </div>`;
     }
 
     function openStateReportPopup(abbr) {
@@ -2699,13 +2770,23 @@
         maxWidth: 320,
         className: "hfa-popup",
       });
+      layer.bindTooltip(() => buildStateTooltipHtml(abbr), {
+        sticky: true,
+        direction: "auto",
+        opacity: 1,
+        className: "hfa-tooltip",
+      });
       layer.on({
+        tooltipopen: () => {
+          if (compareMode) layer.closeTooltip();
+        },
         mouseover: e => {
           if (compareMode) return;
           e.target.setStyle({ weight: 2.5, color: "#e2e8f0" });
         },
         mouseout: e => stateLayer.resetStyle(e.target),
         click: e => {
+          layer.closeTooltip();
           if (window.hfaPlay?.onMapClick?.(abbr)) {
             L.DomEvent.stop(e);
             L.DomEvent.preventDefault(e);
