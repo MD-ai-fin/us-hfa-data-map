@@ -5,7 +5,7 @@
 (function () {
   window.initHfaPlay = function initHfaPlay(api) {
     const {
-      t, tMetric, getLang, getFocusedState, setFocusedState,
+      t, tMetric, getFocusedState, setFocusedState,
       getStateData, stateDisplayName, fmt,
       rankedStates, setPrimaryMetricOnly,
       flyToState, clearHighlights, highlightAbbrs, refreshMap,
@@ -197,9 +197,7 @@
         .slice()
         .sort((a, b) => a.state.localeCompare(b.state))
         .map(s => {
-          const label = getLang() === "zh"
-            ? `${s.state} · ${s.name_zh || s.name_en}`
-            : `${s.state} · ${s.name_en || s.state}`;
+          const label = `${s.state} · ${stateDisplayName(s, s.state)}`;
           return `<option value="${s.state}" ${s.state === abbr ? "selected" : ""}>${label}</option>`;
         })
         .join("");

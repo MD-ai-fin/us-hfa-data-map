@@ -1417,6 +1417,8 @@
       <div class="toggle-group" id="lang-toggle">
         <button data-lang="zh">中文</button>
         <button data-lang="en" class="active">English</button>
+        <button data-lang="es">Español</button>
+        <button data-lang="pl">Polski</button>
       </div>
     </div>
     <div class="control-group">
@@ -1815,6 +1817,226 @@
           homeless_count: "Homeless Persons (Jan 2025 PIT)",
         },
       },
+      es: {
+        title: "Mapa de Datos de las Agencias Estatales de Financiamiento de Vivienda de EE. UU.",
+        subtitle: "Basado en informes ACFR del FY2025 y datos públicos del gobierno de EE. UU.",
+        lblYear: "Año fiscal", lblLang: "Idioma",
+        lblPalette: "Esquema de color",
+        paletteStandard: "Estándar",
+        paletteA11y: "Accesible",
+        lblReports: "Informes de las HFA",
+        reportSelectPlaceholder: "Seleccione un estado para ver el ACFR / informes",
+        reportPageLink: "Página financiera de la agencia",
+        reportFy2024Pdf: "ACFR / estados financieros del FY2024",
+        reportFy2025Pdf: "ACFR / estados financieros del FY2025",
+        reportNoLinks: "No hay enlaces de informes disponibles",
+        sidebarTitle: "Opciones de visualización del mapa",
+        sidebarHint: "Elija un indicador para mostrar su valor en cada estado",
+        legend: "Leyenda", colorBy: "Colorear por", sources: "Fuentes de datos", na: "N/D",
+        metricsDrawerBtn: "Indicadores",
+        sceneTopNp: "Mayor activo neto",
+        sceneTopGrowth: "Crecimiento más rápido",
+        sceneTopCapita: "Activo neto per cápita",
+        stateModalTitle: "Detalles del estado",
+        stateModalRankHint: "Clasificación entre todos los estados de EE. UU. y D. C. por valor, de mayor a menor (posición 1 = el más alto).",
+        compareBtn: "Comparar estados",
+        compareBtnActive: "Elija de 1 a 5 estados…",
+        compareBtnView: "{n}/{max} seleccionados · toque para ver",
+        compareTitle: "Comparación de estados",
+        compareHintPick: "Toque de 1 a 5 estados en el mapa para verlos o compararlos.",
+        compareClear: "Reiniciar",
+        compareLegend: "Los números en verde con ▲ indican el valor más alto de ese indicador entre los estados seleccionados (los empates no se marcan).",
+        compareWinLabel: "el más alto",
+        compareEdit: "Modificar selección",
+        rankTitle: "Top 5 · {metric}",
+        funFactLabel: "¿Sabía que…?",
+        nextFact: "Siguiente dato",
+        shareBtn: "Copiar enlace",
+        shareCopied: "Copiado",
+        myStateBtn: "Clasificación de mi estado",
+        myStateTitle: "Mi estado",
+        myStatePick: "Elija un estado / distrito",
+        myStateGoto: "Mostrar en el mapa",
+        myStateLineNp: "{name} ({abbr}) ocupa el puesto n.º {rank} de {n} en activo neto (~{val}).",
+        myStateLineGrowth: "El crecimiento del activo neto ocupa el puesto n.º {rank} de {n} ({val}).",
+        myStateLineCapita: "El activo neto per cápita ocupa el puesto n.º {rank} de {n} ({val}).",
+        anomalyBtn: "Contrastes",
+        anomalyTitle: "Contrastes",
+        anomalyGrowthSmall: "Crecimiento rápido, pero activo neto todavía reducido: interprete el repunte junto con la escala.",
+        anomalyAssetsLowCapita: "Activos elevados, pero activo neto per cápita más bajo: gran volumen, menos margen por residente.",
+        anomalyCount: "{n} estados coinciden (resaltados). Toque una fila para ir hasta allí.",
+        anomalyNext: "Siguiente contraste",
+        anomalyClear: "Borrar resaltados",
+        playNoData: "Aún no hay datos suficientes.",
+        rankChartBtn: "Clasificaciones",
+        rankChartTitle: "Clasificación completa de estados",
+        rankChartMetricLabel: "Ordenar por",
+        rankChartHint: "{n} estados clasificados (se omiten los estados sin este indicador). Toque una fila para ir hasta allí en el mapa.",
+        scatterBtn: "Dispersión",
+        scatterTitle: "Explorador de correlación (gráfico de dispersión)",
+        scatterXLabel: "Eje X",
+        scatterYLabel: "Eje Y",
+        scatterHint: "Se muestran {shown} estados ({excluded} excluidos por falta de datos).",
+        scatterCorrelation: "Correlación r = {r} (n = {n})",
+        scatterInsufficientData: "No hay suficientes datos superpuestos para calcular una correlación.",
+        closeChart: "Cerrar",
+        closePlay: "Cerrar",
+        reportBtn: "Informe de análisis FY2025",
+        reportTitle: "Análisis del ACFR y los estados financieros de las HFA estatales de EE. UU. — FY2025",
+        reportLoading: "Cargando informe…",
+        reportError: "No se pudo cargar el informe. Verifique que exista reports/fy2025-es.html.",
+        closeReport: "Cerrar",
+        closeDrawer: "Cerrar",
+        closeCompare: "Cerrar",
+        footerCredit: "© 2026 MD-ai-fin · Análisis y visualización: MD-ai-fin",
+        footerCode: "Código",
+        footerContent: "Contenido",
+        footerMit: "Licencia MIT",
+        footerCc: "CC BY 4.0",
+        footerDisclaimer: "Proyecto de investigación independiente. Sin afiliación con ninguna Agencia Estatal de Financiamiento de Vivienda.",
+        footerA11y: "Este sitio admite navegación por teclado y paletas de colores aptas para daltónicos. Sus comentarios sobre accesibilidad son bienvenidos.",
+        feedbackLinkText: "Enviar comentarios",
+        feedbackTitle: "Comentarios",
+        feedbackEmailLabel: "Correo electrónico *",
+        feedbackMessageLabel: "Mensaje *",
+        feedbackSubmit: "Enviar",
+        feedbackSending: "Enviando…",
+        feedbackSuccess: "Gracias — hemos recibido su comentario.",
+        feedbackError: "Ocurrió un error. Inténtelo de nuevo más tarde.",
+        closeFeedback: "Cerrar",
+        kbdHelpBtn: "⌨️ Atajos de Teclado",
+        kbdHelpTab: "enfocar el mapa",
+        kbdHelpArrows: "moverse entre estados",
+        kbdHelpTypeahead: "Escriba la abreviatura de un estado (p. ej., IL) para ir directamente a él",
+        kbdHelpEnter: "abrir los detalles del estado",
+        metrics: {
+          net_position: "Activo neto de la HFA",
+          net_position_growth_pct: "Crecimiento interanual del activo neto",
+          net_position_per_capita: "Activo neto per cápita",
+          total_assets: "Activo total",
+          total_liabilities: "Pasivo total",
+          leverage_ratio: "Apalancamiento (pasivo / activo)",
+          families_served: "Familias atendidas",
+          staff_count: "Personal total de la HFA",
+          population: "Población del estado",
+          personal_income_total: "Ingreso personal total",
+          personal_income_per_capita: "Ingreso personal per cápita",
+          unemployment_rate: "Tasa de desempleo",
+          poverty_rate: "Tasa de pobreza",
+          median_home_price: "Valor mediano de la vivienda",
+          homeless_count: "Personas sin hogar (recuento puntual, enero de 2025)",
+        },
+      },
+      pl: {
+        title: "Mapa Danych Amerykańskich Stanowych Agencji Finansowania Budownictwa Mieszkaniowego",
+        subtitle: "Na podstawie raportów ACFR za FY2025 oraz publicznie dostępnych danych rządu USA",
+        lblYear: "Rok podatkowy", lblLang: "Język",
+        lblPalette: "Schemat kolorów",
+        paletteStandard: "Standardowy",
+        paletteA11y: "Dostępny",
+        lblReports: "Raporty HFA",
+        reportSelectPlaceholder: "Wybierz stan, aby zobaczyć ACFR / raporty",
+        reportPageLink: "Strona finansowa agencji",
+        reportFy2024Pdf: "ACFR / sprawozdania finansowe za FY2024",
+        reportFy2025Pdf: "ACFR / sprawozdania finansowe za FY2025",
+        reportNoLinks: "Brak dostępnych odnośników do raportów",
+        sidebarTitle: "Opcje wyświetlania mapy",
+        sidebarHint: "Wybierz jeden wskaźnik, aby wyświetlić jego wartości dla każdego stanu",
+        legend: "Legenda", colorBy: "Koloruj według", sources: "Źródła danych", na: "Brak danych",
+        metricsDrawerBtn: "Wskaźniki",
+        sceneTopNp: "Najwyższe aktywa netto",
+        sceneTopGrowth: "Najszybszy wzrost",
+        sceneTopCapita: "Aktywa netto na mieszkańca",
+        stateModalTitle: "Szczegóły stanu",
+        stateModalRankHint: "Ranking obejmujący wszystkie stany USA i Dystrykt Kolumbii według wartości, od najwyższej do najniższej (1. miejsce = najwyższa wartość).",
+        compareBtn: "Porównaj stany",
+        compareBtnActive: "Wybierz 1–5 stanów…",
+        compareBtnView: "Wybrano {n}/{max} · dotknij, aby zobaczyć",
+        compareTitle: "Porównanie stanów",
+        compareHintPick: "Dotknij 1–5 stanów na mapie, aby je zobaczyć lub porównać.",
+        compareClear: "Wyczyść",
+        compareLegend: "Zielone liczby ze znacznikiem ▲ oznaczają najwyższą wartość danego wskaźnika wśród wybranych stanów (remisy nie są oznaczane).",
+        compareWinLabel: "najwyższa wartość",
+        compareEdit: "Zmień wybór",
+        rankTitle: "Top 5 · {metric}",
+        funFactLabel: "Czy wiesz, że…",
+        nextFact: "Następna ciekawostka",
+        shareBtn: "Kopiuj link",
+        shareCopied: "Skopiowano",
+        myStateBtn: "Ranking mojego stanu",
+        myStateTitle: "Mój stan",
+        myStatePick: "Wybierz stan / dystrykt",
+        myStateGoto: "Pokaż na mapie",
+        myStateLineNp: "{name} ({abbr}) zajmuje {rank}. miejsce na {n} pod względem aktywów netto (~{val}).",
+        myStateLineGrowth: "Wzrost aktywów netto: {rank}. miejsce na {n} ({val}).",
+        myStateLineCapita: "Aktywa netto na mieszkańca: {rank}. miejsce na {n} ({val}).",
+        anomalyBtn: "Kontrasty",
+        anomalyTitle: "Kontrasty",
+        anomalyGrowthSmall: "Szybki wzrost przy wciąż niewielkich aktywach netto: odczytuj ten wzrost razem ze skalą.",
+        anomalyAssetsLowCapita: "Duże aktywa, ale niższe aktywa netto na mieszkańca: duży bilans, mniej na jednego mieszkańca.",
+        anomalyCount: "Dopasowano {n} stanów (podświetlone). Dotknij wiersz, aby tam przejść.",
+        anomalyNext: "Następny kontrast",
+        anomalyClear: "Wyczyść podświetlenie",
+        playNoData: "Wciąż za mało danych.",
+        rankChartBtn: "Rankingi",
+        rankChartTitle: "Pełny ranking stanów",
+        rankChartMetricLabel: "Sortuj według",
+        rankChartHint: "Sklasyfikowano {n} stanów (stany bez tego wskaźnika są pominięte). Kliknij wiersz, aby przejść do niego na mapie.",
+        scatterBtn: "Wykres rozrzutu",
+        scatterTitle: "Eksplorator korelacji (wykres rozrzutu)",
+        scatterXLabel: "Oś X",
+        scatterYLabel: "Oś Y",
+        scatterHint: "Wyświetlono {shown} stanów ({excluded} wykluczonych z powodu braku danych).",
+        scatterCorrelation: "Korelacja r = {r} (n = {n})",
+        scatterInsufficientData: "Zbyt mało wspólnych danych, aby obliczyć korelację.",
+        closeChart: "Zamknij",
+        closePlay: "Zamknij",
+        reportBtn: "Raport analityczny FY2025",
+        reportTitle: "Analiza ACFR i sprawozdań finansowych stanowych HFA w USA — FY2025",
+        reportLoading: "Wczytywanie raportu…",
+        reportError: "Nie udało się wczytać raportu. Upewnij się, że plik reports/fy2025-pl.html istnieje.",
+        closeReport: "Zamknij",
+        closeDrawer: "Zamknij",
+        closeCompare: "Zamknij",
+        footerCredit: "© 2026 MD-ai-fin · Analiza i wizualizacja: MD-ai-fin",
+        footerCode: "Kod",
+        footerContent: "Treść",
+        footerMit: "Licencja MIT",
+        footerCc: "CC BY 4.0",
+        footerDisclaimer: "Niezależny projekt badawczy. Brak powiązań z jakąkolwiek stanową agencją finansowania budownictwa mieszkaniowego.",
+        footerA11y: "Ta strona obsługuje nawigację klawiaturą oraz palety kolorów przyjazne dla osób z zaburzeniami widzenia barw. Zachęcamy do przesyłania uwag dotyczących dostępności.",
+        feedbackLinkText: "Wyślij opinię",
+        feedbackTitle: "Opinia",
+        feedbackEmailLabel: "E-mail *",
+        feedbackMessageLabel: "Wiadomość *",
+        feedbackSubmit: "Wyślij",
+        feedbackSending: "Wysyłanie…",
+        feedbackSuccess: "Dziękujemy — Twoja wiadomość została odebrana!",
+        feedbackError: "Coś poszło nie tak. Spróbuj ponownie później.",
+        closeFeedback: "Zamknij",
+        kbdHelpBtn: "⌨️ Skróty Klawiszowe",
+        kbdHelpTab: "ustaw fokus na mapie",
+        kbdHelpArrows: "przełączaj między stanami",
+        kbdHelpTypeahead: "Wpisz skrót stanu (np. IL), aby od razu do niego przejść",
+        kbdHelpEnter: "otwórz szczegóły stanu",
+        metrics: {
+          net_position: "Aktywa netto HFA",
+          net_position_growth_pct: "Wzrost aktywów netto r/r",
+          net_position_per_capita: "Aktywa netto na mieszkańca",
+          total_assets: "Aktywa ogółem",
+          total_liabilities: "Zobowiązania ogółem",
+          leverage_ratio: "Dźwignia (zobowiązania / aktywa)",
+          families_served: "Liczba obsłużonych rodzin",
+          staff_count: "Łączna liczba pracowników HFA",
+          population: "Ludność stanu",
+          personal_income_total: "Łączny dochód osobisty",
+          personal_income_per_capita: "Dochód osobisty na mieszkańca",
+          unemployment_rate: "Stopa bezrobocia",
+          poverty_rate: "Stopa ubóstwa",
+          median_home_price: "Mediana wartości domu",
+          homeless_count: "Liczba osób bezdomnych (stan na styczeń 2025)",
+        },
+      },
     };
 
     const SOURCE_ORDER = [
@@ -1845,6 +2067,28 @@
         unemployment: "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
         poverty_median_home: "U.S. Census Bureau ACS 1-year estimates",
         homeless_count: "HUD AHAR Point-in-Time Estimates by State (January 2025)",
+      },
+      es: {
+        hfa_financials: "Informes ACFR del FY2025 de las Agencias Estatales de Financiamiento de Vivienda",
+        hfa_staff_acfr: "Divulgaciones de empleados de tiempo completo/FTE en el ACFR de la HFA (cuando se reportan)",
+        hfa_staff_linkedin: "Páginas de empresa en LinkedIn (personal de la HFA cuando no consta en el ACFR)",
+        hfa_staff_other: "Sitios web de las agencias y fuentes presupuestarias estatales (hfa_staff_counts.json)",
+        population: "Programa de Estimaciones de Población de la Oficina del Censo de EE. UU. (edición 2024/2025)",
+        personal_income: "Oficina de Análisis Económico de EE. UU., SAINC4 (Ingreso Personal Estatal)",
+        unemployment: "Oficina de Estadísticas Laborales de EE. UU., LAUS (promedios anuales 2023–2024)",
+        poverty_median_home: "Estimaciones de 1 año de la ACS de la Oficina del Censo de EE. UU.",
+        homeless_count: "Estimaciones puntuales (PIT) del HUD AHAR por estado (enero de 2025)",
+      },
+      pl: {
+        hfa_financials: "Raporty ACFR stanowych agencji finansowania budownictwa mieszkaniowego za FY2025",
+        hfa_staff_acfr: "Ujawnienia liczby pracowników pełnoetatowych/FTE w ACFR danej HFA (jeśli podano)",
+        hfa_staff_linkedin: "Strony firmowe na LinkedIn (liczba pracowników HFA, gdy brak danych w ACFR)",
+        hfa_staff_other: "Strony internetowe agencji i stanowe źródła budżetowe (hfa_staff_counts.json)",
+        population: "Program szacunków ludności Biura Spisu Ludności USA (edycja 2024/2025)",
+        personal_income: "Biuro Analiz Ekonomicznych USA, SAINC4 (dochód osobisty w stanach)",
+        unemployment: "Biuro Statystyki Pracy USA, LAUS (średnie roczne za lata 2023–2024)",
+        poverty_median_home: "Roczne szacunki ACS Biura Spisu Ludności USA",
+        homeless_count: "Szacunki punktowe (PIT) HUD AHAR według stanu (styczeń 2025)",
       },
     };
 
@@ -1941,6 +2185,42 @@
       "District of Columbia":"DC",
     };
 
+    // Client-side exonyms for es/pl — the data file only carries name_zh/name_en,
+    // and pulling in two more language columns would mean touching the whole
+    // Python build pipeline, so these two extra languages are looked up here instead.
+    const STATE_NAMES_ES = {
+      AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",
+      CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawái",ID:"Idaho",
+      IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Luisiana",
+      ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Míchigan",MN:"Minnesota",
+      MS:"Misisipi",MO:"Misuri",MT:"Montana",NE:"Nebraska",NV:"Nevada",
+      NH:"Nuevo Hampshire",NJ:"Nueva Jersey",NM:"Nuevo México",NY:"Nueva York",
+      NC:"Carolina del Norte",ND:"Dakota del Norte",OH:"Ohio",OK:"Oklahoma",OR:"Oregón",
+      PA:"Pensilvania",RI:"Rhode Island",SC:"Carolina del Sur",SD:"Dakota del Sur",
+      TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",
+      WV:"Virginia Occidental",WI:"Wisconsin",WY:"Wyoming",
+      DC:"Distrito de Columbia",
+    };
+    const STATE_NAMES_PL = {
+      AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"Kalifornia",CO:"Kolorado",
+      CT:"Connecticut",DE:"Delaware",FL:"Floryda",GA:"Georgia",HI:"Hawaje",ID:"Idaho",
+      IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Luizjana",
+      ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",
+      MS:"Missisipi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",
+      NH:"New Hampshire",NJ:"New Jersey",NM:"Nowy Meksyk",NY:"Nowy Jork",
+      NC:"Karolina Północna",ND:"Dakota Północna",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",
+      PA:"Pensylwania",RI:"Rhode Island",SC:"Karolina Południowa",SD:"Dakota Południowa",
+      TN:"Tennessee",TX:"Teksas",UT:"Utah",VT:"Vermont",VA:"Wirginia",WA:"Waszyngton",
+      WV:"Wirginia Zachodnia",WI:"Wisconsin",WY:"Wyoming",
+      DC:"Dystrykt Kolumbii",
+    };
+
+    const SUPPORTED_LANGS = ["zh", "en", "es", "pl"];
+    const LOCALE_TAG = { zh: "zh-CN", en: "en-US", es: "es-ES", pl: "pl-PL" };
+    const HTML_LANG_TAG = { zh: "zh-CN", en: "en", es: "es", pl: "pl" };
+    const REPORT_LANGS = SUPPORTED_LANGS;
+    const LICENSE_LANGS = SUPPORTED_LANGS;
+
     let lang = "en", year = "2025";
     let colorPalette = "a11y";
     try {
@@ -2013,7 +2293,7 @@
     function parseUrlParams(search = location.search) {
       const params = new URLSearchParams(search);
       const langParam = (params.get("lang") || "").toLowerCase();
-      const nextLang = langParam === "zh" || langParam === "en" ? langParam : null;
+      const nextLang = SUPPORTED_LANGS.includes(langParam) ? langParam : null;
       const metricRaw = params.get("metric") || params.get("metrics") || "";
       const metrics = metricRaw
         .split(",")
@@ -2114,7 +2394,8 @@
     }
 
     function reportPath() {
-      return lang === "zh" ? "reports/fy2025-zh.html" : "reports/fy2025-en.html";
+      const l = REPORT_LANGS.includes(lang) ? lang : "en";
+      return `reports/fy2025-${l}.html`;
     }
 
     async function loadReportHtml(force = false) {
@@ -2236,7 +2517,7 @@
         const n = Number(val);
         if (n >= 1e6) return `${(n / 1e6).toFixed(1)}M`;
         if (n >= 1e3) return `${(n / 1e3).toFixed(0)}K`;
-        return n.toLocaleString(lang === "zh" ? "zh-CN" : "en-US");
+        return n.toLocaleString(LOCALE_TAG[lang] || "en-US");
       }
       if (key.includes("income") || key.includes("assets") || key.includes("liabilit") || key.includes("position") || key.includes("price") || key.includes("median")) {
         const n = Number(val);
@@ -2244,7 +2525,7 @@
         if (Math.abs(n) >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
         if (Math.abs(n) >= 1e6) return `$${(n / 1e6).toFixed(0)}M`;
         if (Math.abs(n) >= 1e3) return `$${(n / 1e3).toFixed(0)}K`;
-        return `$${Math.round(n).toLocaleString(lang === "zh" ? "zh-CN" : "en-US")}`;
+        return `$${Math.round(n).toLocaleString(LOCALE_TAG[lang] || "en-US")}`;
       }
       return Number(val).toLocaleString();
     }
@@ -2329,9 +2610,7 @@
       const current = select.value;
       const opts = [`<option value="">${t("reportSelectPlaceholder")}</option>`];
       for (const s of [...dataset.states].sort((a, b) => a.state.localeCompare(b.state))) {
-        const label = lang === "zh"
-          ? `${s.state} · ${s.name_zh || s.name_en}`
-          : `${s.state} · ${s.name_en || s.hfa_name || s.state}`;
+        const label = `${s.state} · ${stateDisplayName(s, s.state)}`;
         opts.push(`<option value="${s.state}">${label}</option>`);
       }
       select.innerHTML = opts.join("");
@@ -2588,6 +2867,8 @@
     }
 
     function stateDisplayName(rec, abbr) {
+      if (lang === "es") return STATE_NAMES_ES[abbr] || rec?.name_en || abbr;
+      if (lang === "pl") return STATE_NAMES_PL[abbr] || rec?.name_en || abbr;
       if (!rec) return abbr;
       return lang === "zh" ? (rec.name_zh || rec.name_en || abbr) : (rec.name_en || rec.hfa_name || abbr);
     }
@@ -2767,39 +3048,60 @@
     function rebuildFunFacts() {
       if (!dataset) { funFacts = []; return; }
       const facts = [];
-      const pushTop = (mkey, zh, en) => {
+      const pushTop = (mkey, tpl) => {
         const top = rankedStates(mkey, 1)[0];
         if (!top) return;
         const name = stateDisplayName(top.rec, top.state);
         const val = fmt(top.value, mkey);
-        facts.push(lang === "zh"
-          ? zh({ abbr: top.state, name, val, metric: tMetric(mkey) })
-          : en({ abbr: top.state, name, val, metric: tMetric(mkey) }));
+        const x = { abbr: top.state, name, val, metric: tMetric(mkey) };
+        facts.push((tpl[lang] || tpl.en)(x));
       };
-      pushTop("net_position",
-        x => `${x.name}（${x.abbr}）住房局净资产最高：${x.val}`,
-        x => `${x.name} (${x.abbr}) leads in HFA net position at ${x.val}.`);
-      pushTop("net_position_growth_pct",
-        x => `${x.name}（${x.abbr}）净资产同比增速最快：${x.val}`,
-        x => `${x.name} (${x.abbr}) posted the fastest net-position growth: ${x.val}.`);
-      pushTop("net_position_per_capita",
-        x => `${x.name}（${x.abbr}）人均净资产最高：${x.val}`,
-        x => `${x.name} (${x.abbr}) has the highest net position per capita: ${x.val}.`);
-      pushTop("total_assets",
-        x => `${x.name}（${x.abbr}）总资产规模领先：${x.val}`,
-        x => `${x.name} (${x.abbr}) has the largest total assets: ${x.val}.`);
-      pushTop("leverage_ratio",
-        x => `${x.name}（${x.abbr}）杠杆率（负债/资产）最高：${x.val}`,
-        x => `${x.name} (${x.abbr}) shows the highest leverage ratio: ${x.val}.`);
-      pushTop("homeless_count",
-        x => `${x.name}（${x.abbr}）无家可归人数（2025年1月 PIT）最多：${x.val}`,
-        x => `${x.name} (${x.abbr}) has the highest Jan 2025 PIT homelessness count: ${x.val}.`);
+      pushTop("net_position", {
+        zh: x => `${x.name}（${x.abbr}）住房局净资产最高：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) leads in HFA net position at ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) lidera en activo neto de la HFA con ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) przoduje pod względem aktywów netto HFA: ${x.val}.`,
+      });
+      pushTop("net_position_growth_pct", {
+        zh: x => `${x.name}（${x.abbr}）净资产同比增速最快：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) posted the fastest net-position growth: ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) registró el crecimiento más rápido del activo neto: ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) odnotował(a) najszybszy wzrost aktywów netto: ${x.val}.`,
+      });
+      pushTop("net_position_per_capita", {
+        zh: x => `${x.name}（${x.abbr}）人均净资产最高：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) has the highest net position per capita: ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) tiene el mayor activo neto per cápita: ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) ma najwyższe aktywa netto na mieszkańca: ${x.val}.`,
+      });
+      pushTop("total_assets", {
+        zh: x => `${x.name}（${x.abbr}）总资产规模领先：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) has the largest total assets: ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) tiene el mayor activo total: ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) ma największe aktywa ogółem: ${x.val}.`,
+      });
+      pushTop("leverage_ratio", {
+        zh: x => `${x.name}（${x.abbr}）杠杆率（负债/资产）最高：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) shows the highest leverage ratio: ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) presenta el mayor índice de apalancamiento: ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) wykazuje najwyższy wskaźnik dźwigni: ${x.val}.`,
+      });
+      pushTop("homeless_count", {
+        zh: x => `${x.name}（${x.abbr}）无家可归人数（2025年1月 PIT）最多：${x.val}`,
+        en: x => `${x.name} (${x.abbr}) has the highest Jan 2025 PIT homelessness count: ${x.val}.`,
+        es: x => `${x.name} (${x.abbr}) tiene el mayor número de personas sin hogar según el recuento PIT de enero de 2025: ${x.val}.`,
+        pl: x => `${x.name} (${x.abbr}) ma najwyższą liczbę osób bezdomnych według liczenia PIT ze stycznia 2025: ${x.val}.`,
+      });
       const withNp = rankedStates("net_position", 50);
       if (withNp.length >= 2) {
         const coverage = dataset.states.filter(s => metricValueForState(s, "net_position") != null).length;
-        facts.push(lang === "zh"
-          ? `地图已纳入 ${coverage} 个州/地区的 FY2025 净资产数据。`
-          : `${coverage} states/territories have FY2025 net position on this map.`);
+        const coverageTpl = {
+          zh: c => `地图已纳入 ${c} 个州/地区的 FY2025 净资产数据。`,
+          en: c => `${c} states/territories have FY2025 net position on this map.`,
+          es: c => `${c} estados/territorios cuentan con datos de activo neto del FY2025 en este mapa.`,
+          pl: c => `${c} stanów/terytoriów ma na tej mapie dane o aktywach netto za FY2025.`,
+        };
+        facts.push((coverageTpl[lang] || coverageTpl.en)(coverage));
       }
       funFacts = facts;
     }
@@ -3364,7 +3666,7 @@
       document.getElementById("footer-mit-link").textContent = t("footerMit");
       const cc = document.getElementById("footer-cc-link");
       cc.textContent = t("footerCc");
-      cc.href = lang === "zh" ? "license-content-zh.html" : "license-content-en.html";
+      cc.href = `license-content-${LICENSE_LANGS.includes(lang) ? lang : "en"}.html`;
       document.getElementById("footer-disclaimer").textContent = t("footerDisclaimer");
       const a11y = document.getElementById("footer-a11y");
       a11y.innerHTML = "";
@@ -3455,7 +3757,7 @@
     }
 
     function renderControls() {
-      document.documentElement.lang = lang === "zh" ? "zh-CN" : "en";
+      document.documentElement.lang = HTML_LANG_TAG[lang] || "en";
       document.getElementById("title").textContent = t("title");
       document.getElementById("subtitle").textContent = t("subtitle");
       document.getElementById("lbl-lang").textContent = t("lblLang");
@@ -3642,11 +3944,13 @@
       if (bootParams.lang) lang = bootParams.lang;
 
       if (location.protocol === "file:") {
-        throw new Error(
-          lang === "zh"
-            ? "请通过本地服务器打开（双击 docs/serve.bat，再访问 http://localhost:8080/index.html）。直接打开 HTML 时浏览器会拦截数据加载。"
-            : "Open via a local server (run docs/serve.bat, then visit http://localhost:8080/index.html). Opening the HTML file directly blocks data loading."
-        );
+        const fileProtoMsg = {
+          zh: "请通过本地服务器打开（双击 docs/serve.bat，再访问 http://localhost:8080/index.html）。直接打开 HTML 时浏览器会拦截数据加载。",
+          en: "Open via a local server (run docs/serve.bat, then visit http://localhost:8080/index.html). Opening the HTML file directly blocks data loading.",
+          es: "Ábralo mediante un servidor local (ejecute docs/serve.bat y luego visite http://localhost:8080/index.html). Abrir el archivo HTML directamente bloquea la carga de datos.",
+          pl: "Otwórz stronę za pomocą lokalnego serwera (uruchom docs/serve.bat, a następnie przejdź do http://localhost:8080/index.html). Bezpośrednie otwarcie pliku HTML blokuje wczytywanie danych.",
+        };
+        throw new Error(fileProtoMsg[lang] || fileProtoMsg.en);
       }
       const [dataResp, geoResp, linksResp] = await Promise.all([
         fetch("state_data.json"),
