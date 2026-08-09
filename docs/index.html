@@ -1317,6 +1317,7 @@
         align-items: center;
         justify-content: center;
         min-height: 40px;
+        max-width: min(200px, 45vw);
         padding: 0.5rem 0.9rem;
         border-radius: 8px;
         background: rgba(56, 189, 248, 0.12);
@@ -1326,6 +1327,14 @@
         font-size: 0.82rem;
       }
       .btn-metrics-drawer:hover { background: rgba(56, 189, 248, 0.22); }
+      /* Fixed box for the label so JS has a stable width to shrink text into —
+         keeps the selected metric's name on one line instead of wrapping. */
+      #btn-metrics-label {
+        display: inline-block;
+        max-width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+      }
       .btn-metrics-drawer[aria-expanded="true"] { display: none; }
 
       .drawer-backdrop {
@@ -3305,6 +3314,21 @@
       return MOBILE_MQ.matches;
     }
 
+    // Shrinks the label's own font-size (not the button's) just enough that the text
+    // fits the space CSS already gave it, instead of wrapping to a second line.
+    function fitMetricsLabelFont(label) {
+      if (!label || !label.textContent) return;
+      label.style.fontSize = "";
+      if (!label.clientWidth) return; // hidden (e.g. desktop) or not laid out yet
+      const maxFs = parseFloat(getComputedStyle(label).fontSize);
+      const minFs = maxFs * 0.65;
+      let fs = maxFs;
+      while (fs > minFs && label.scrollWidth > label.clientWidth + 0.5) {
+        fs -= 0.5;
+        label.style.fontSize = `${fs}px`;
+      }
+    }
+
     function updateMetricsDrawerBtn() {
       const btn = document.getElementById("btn-metrics-drawer");
       const label = document.getElementById("btn-metrics-label");
@@ -3314,6 +3338,7 @@
       label.textContent = mkey ? tMetric(mkey) : t("metricsDrawerBtn");
       btn.setAttribute("aria-label", mkey ? `${t("metricsDrawerBtn")}: ${tMetric(mkey)}` : t("metricsDrawerBtn"));
       btn.setAttribute("aria-expanded", drawerOpen && isMobileLayout() ? "true" : "false");
+      fitMetricsLabelFont(label);
     }
 
     function openMetricsDrawer() {
