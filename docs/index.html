@@ -213,7 +213,7 @@
       height: 12px;
       border-radius: 4px;
       margin-bottom: 0.35rem;
-      background: linear-gradient(90deg, #1e3a5f, #38bdf8, #fef08a, #ef4444);
+      background: linear-gradient(90deg, #440154 0%, #3b528b 25%, #21908c 50%, #5dc963 75%, #fde725 100%);
     }
     .legend-labels {
       display: flex;
@@ -1318,8 +1318,8 @@
     <div class="control-group">
       <label id="lbl-palette">Color scheme</label>
       <div class="toggle-group" id="palette-toggle">
-        <button type="button" data-palette="default" class="active">Standard</button>
-        <button type="button" data-palette="a11y">Accessible</button>
+        <button type="button" data-palette="default">Standard</button>
+        <button type="button" data-palette="a11y" class="active">Accessible</button>
       </div>
     </div>
     <div class="control-group">
@@ -1777,9 +1777,9 @@
     };
 
     let lang = "en", year = "2025";
-    let colorPalette = "default";
+    let colorPalette = "a11y";
     try {
-      if (localStorage.getItem("hfa_palette") === "a11y") colorPalette = "a11y";
+      if (localStorage.getItem("hfa_palette") === "default") colorPalette = "default";
     } catch (_err) { /* localStorage unavailable (private mode etc.) */ }
     let dataset = null, stateLayer = null, highlightLayer = null;
     const insetFeatures = {}; // AK / HI GeoJSON features
