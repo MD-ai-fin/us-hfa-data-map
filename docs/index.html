@@ -1190,17 +1190,6 @@
         box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
       }
       .btn-metrics-drawer[aria-expanded="true"] { display: none; }
-      .btn-metrics-drawer .drawer-btn-count {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        min-width: 1.35rem;
-        height: 1.35rem;
-        padding: 0 0.3rem;
-        border-radius: 999px;
-        background: rgba(15, 23, 42, 0.18);
-        font-size: 0.75rem;
-      }
 
       .drawer-backdrop {
         display: block;
@@ -1346,7 +1335,6 @@
     </div>
     <button type="button" class="btn-metrics-drawer" id="btn-metrics-drawer" aria-expanded="false" aria-controls="metrics-drawer">
       <span id="btn-metrics-label">Metrics</span>
-      <span class="drawer-btn-count" id="btn-metrics-count" hidden>0</span>
     </button>
     <div class="drawer-backdrop" id="drawer-backdrop" hidden></div>
     <aside class="sidebar" id="metrics-drawer" aria-label="Map display options">
@@ -2933,6 +2921,7 @@
           updateMetricsDrawerBtn();
           refreshMap();
           syncUrlFromState();
+          if (drawerOpen) closeMetricsDrawer();
         });
       });
     }
@@ -2944,9 +2933,7 @@
     function updateMetricsDrawerBtn() {
       const btn = document.getElementById("btn-metrics-drawer");
       const label = document.getElementById("btn-metrics-label");
-      const countEl = document.getElementById("btn-metrics-count");
       label.textContent = t("metricsDrawerBtn");
-      countEl.hidden = true;
       btn.setAttribute("aria-expanded", drawerOpen && isMobileLayout() ? "true" : "false");
     }
 
