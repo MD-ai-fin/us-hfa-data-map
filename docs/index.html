@@ -233,6 +233,10 @@
     .leaflet-interactive {
       transition: fill 0.5s ease, fill-opacity 0.45s ease;
     }
+    .leaflet-interactive:focus-visible {
+      outline: 3px solid #fde047;
+      outline-offset: -1px;
+    }
     @keyframes state-pulse {
       0%, 100% { stroke-opacity: 1; }
       50% { stroke-opacity: 0.45; }
@@ -1310,6 +1314,13 @@
       </div>
     </div>
     <div class="control-group">
+      <label id="lbl-palette">Color scheme</label>
+      <div class="toggle-group" id="palette-toggle">
+        <button type="button" data-palette="default" class="active">Standard</button>
+        <button type="button" data-palette="a11y">Accessible</button>
+      </div>
+    </div>
+    <div class="control-group">
       <label id="lbl-reports">HFA Reports</label>
       <select id="state-report-select">
         <option value="">—</option>
@@ -1356,7 +1367,7 @@
       </div>
       <div class="legend" id="legend">
         <h3 id="legend-title">Legend</h3>
-        <div class="legend-bar"></div>
+        <div class="legend-bar" id="legend-bar"></div>
         <div class="legend-labels"><span id="legend-min">—</span><span id="legend-max">—</span></div>
       </div>
     </div>
@@ -1451,6 +1462,9 @@
         title: "美国州级住房金融机构数据地图",
         subtitle: "基于 FY2025 ACFR 报告及美国政府公开统计数据",
         lblYear: "财年", lblLang: "语言",
+        lblPalette: "配色方案",
+        paletteStandard: "标准",
+        paletteA11y: "无障碍",
         lblReports: "州报告",
         reportSelectPlaceholder: "选择州查看 ACFR / 财报",
         reportPageLink: "机构财报网页",
@@ -1542,6 +1556,9 @@
         title: "U.S. State Housing Finance Authority Data Map",
         subtitle: "Based on FY2025 ACFR reports and U.S. government open data",
         lblYear: "Fiscal Year", lblLang: "Language",
+        lblPalette: "Color scheme",
+        paletteStandard: "Standard",
+        paletteA11y: "Accessible",
         lblReports: "HFA Reports",
         reportSelectPlaceholder: "Select a state for ACFR / reports",
         reportPageLink: "Agency financials page",
@@ -1756,6 +1773,10 @@
     };
 
     let lang = "en", year = "2025";
+    let colorPalette = "default";
+    try {
+      if (localStorage.getItem("hfa_palette") === "a11y") colorPalette = "a11y";
+    } catch (_err) { /* localStorage unavailable (private mode etc.) */ }
     let dataset = null, stateLayer = null, highlightLayer = null;
     const insetFeatures = {}; // AK / HI GeoJSON features
     const insetMaps = {}; // abbr → { map, layer }
@@ -2175,12 +2196,26 @@
       return { min: Math.min(...vals), max: Math.max(...vals) };
     }
 
+    // Default: blue → cyan → pale yellow → red. Accessible: Viridis (colorblind-safe,
+    // perceptually uniform, wide luminance range doubles as high-contrast).
+    const COLOR_STOPS = {
+      default: [
+        [0, [30, 58, 95]], [0.35, [56, 189, 248]], [0.65, [254, 240, 138]], [1, [239, 68, 68]],
+      ],
+      a11y: [
+        [0, [68, 1, 84]], [0.25, [59, 82, 139]], [0.5, [33, 144, 140]],
+        [0.75, [93, 201, 99]], [1, [253, 231, 37]],
+      ],
+    };
+
+    function colorStops() {
+      return COLOR_STOPS[colorPalette] || COLOR_STOPS.default;
+    }
+
     function colorScale(val, min, max) {
       if (val == null || min == null || max == null || min === max) return "#334155";
       const t = (val - min) / (max - min);
-      const stops = [
-        [0, [30, 58, 95]], [0.35, [56, 189, 248]], [0.65, [254, 240, 138]], [1, [239, 68, 68]],
-      ];
+      const stops = colorStops();
       let lo = stops[0], hi = stops[stops.length - 1];
       for (let i = 0; i < stops.length - 1; i++) {
         if (t >= stops[i][0] && t <= stops[i + 1][0]) { lo = stops[i]; hi = stops[i + 1]; break; }
@@ -2188,6 +2223,10 @@
       const lt = (t - lo[0]) / (hi[0] - lo[0] || 1);
       const rgb = lo[1].map((c, i) => Math.round(c + (hi[1][i] - c) * lt));
       return `rgb(${rgb.join(",")})`;
+    }
+
+    function gradientCss(stops) {
+      return `linear-gradient(90deg, ${stops.map(s => `rgb(${s[1].join(",")}) ${Math.round(s[0] * 100)}%`).join(", ")})`;
     }
 
     function flattenPolygonRings(latlngs) {
@@ -2793,6 +2832,21 @@
       };
     }
 
+    function activateState(abbr, e) {
+      if (window.hfaPlay?.onMapClick?.(abbr)) {
+        if (e) { L.DomEvent.stop(e); L.DomEvent.preventDefault(e); }
+        closeStateModal();
+        return;
+      }
+      if (compareMode) {
+        if (e) L.DomEvent.stop(e);
+        closeStateModal();
+        handleComparePick(abbr);
+        return;
+      }
+      openStateModal(abbr);
+    }
+
     function onEachFeature(feature, layer) {
       const abbr = STATE_ABBR[feature.properties.name];
       if (!abbr) return;
@@ -2803,21 +2857,39 @@
           e.target.setStyle({ weight: 2.5, color: "#e2e8f0" });
         },
         mouseout: e => stateLayer.resetStyle(e.target),
-        click: e => {
-          if (window.hfaPlay?.onMapClick?.(abbr)) {
-            L.DomEvent.stop(e);
-            L.DomEvent.preventDefault(e);
-            closeStateModal();
-            return;
-          }
-          if (compareMode) {
-            L.DomEvent.stop(e);
-            closeStateModal();
-            handleComparePick(abbr);
-            return;
-          }
-          openStateModal(abbr);
-        },
+        click: e => activateState(abbr, e),
+      });
+    }
+
+    // Make each state polygon a keyboard-reachable control: Tab moves focus,
+    // Enter/Space activates it the same way a click would.
+    function setupStateA11y() {
+      layerByAbbr.forEach((layer, abbr) => {
+        const el = layer.getElement?.() || layer._path;
+        if (!el || el.dataset.a11yBound) return;
+        el.dataset.a11yBound = "1";
+        el.setAttribute("tabindex", "0");
+        el.setAttribute("role", "button");
+        el.addEventListener("keydown", e => {
+          if (e.key !== "Enter" && e.key !== " " && e.key !== "Spacebar") return;
+          e.preventDefault();
+          activateState(abbr);
+        });
+      });
+    }
+
+    function updateA11yLabels() {
+      const mkey = primaryMetric();
+      layerByAbbr.forEach((layer, abbr) => {
+        const el = layer.getElement?.() || layer._path;
+        if (!el) return;
+        const rec = getStateData(abbr);
+        const name = stateDisplayName(rec, abbr);
+        const val = mkey ? metricValueForState(rec, mkey) : null;
+        const label = mkey
+          ? `${name} (${abbr}): ${tMetric(mkey)} ${fmt(val, mkey)}`
+          : `${name} (${abbr})`;
+        el.setAttribute("aria-label", label);
       });
     }
 
@@ -2906,11 +2978,13 @@
       renderRankPanel();
       syncHighlightOverlay(false);
       updateInsets();
+      updateA11yLabels();
     }
 
     function updateLegend() {
       const mkey = primaryMetric();
       const legendEl = document.getElementById("legend");
+      document.getElementById("legend-bar").style.background = gradientCss(colorStops());
       if (!mkey) {
         document.getElementById("legend-title").textContent = t("legend");
         document.getElementById("legend-min").textContent = "—";
@@ -3031,6 +3105,9 @@
       document.getElementById("title").textContent = t("title");
       document.getElementById("subtitle").textContent = t("subtitle");
       document.getElementById("lbl-lang").textContent = t("lblLang");
+      document.getElementById("lbl-palette").textContent = t("lblPalette");
+      document.querySelector('#palette-toggle button[data-palette="default"]').textContent = t("paletteStandard");
+      document.querySelector('#palette-toggle button[data-palette="a11y"]').textContent = t("paletteA11y");
       document.getElementById("lbl-reports").textContent = t("lblReports");
       document.getElementById("sidebar-title").textContent = t("sidebarTitle");
       document.getElementById("sidebar-hint").textContent = t("sidebarHint");
@@ -3081,6 +3158,19 @@
           renderControls();
           refreshMap();
           syncUrlFromState();
+        };
+      });
+      document.querySelectorAll("#palette-toggle button").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.palette === colorPalette);
+        btn.setAttribute("aria-pressed", String(btn.dataset.palette === colorPalette));
+        btn.onclick = () => {
+          colorPalette = btn.dataset.palette;
+          try { localStorage.setItem("hfa_palette", colorPalette); } catch (_err) { /* ignore */ }
+          document.querySelectorAll("#palette-toggle button").forEach(b => {
+            b.classList.toggle("active", b.dataset.palette === colorPalette);
+            b.setAttribute("aria-pressed", String(b.dataset.palette === colorPalette));
+          });
+          refreshMap();
         };
       });
       document.getElementById("btn-report").onclick = openReport;
@@ -3218,6 +3308,7 @@
       });
       if (stateLayer) map.removeLayer(stateLayer);
       stateLayer = L.geoJSON(geo, { style: styleFeature, onEachFeature }).addTo(map);
+      setupStateA11y();
 
       function resetMapView() {
         if (!stateLayer) return;
