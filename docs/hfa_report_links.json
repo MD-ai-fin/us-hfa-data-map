@@ -196,7 +196,7 @@
     "hfa_name": "Missouri Housing Development Commission",
     "hfa_abbr": "MHDC",
     "page_url": "https://www.mhdc.com/",
-    "fy2024_pdf": "https://archive.org/download/2024MHDCFinancialStatements/2024MHDCFinancialStatements.pdf",
+    "fy2024_pdf": null,
     "fy2025_pdf": "https://archive.org/download/2025MHDCFinancialStatements/2025MHDCFinancialStatements.pdf"
   },
   "MS": {
@@ -205,7 +205,7 @@
     "hfa_abbr": "MHC",
     "page_url": "https://www.mshomecorp.com/",
     "fy2024_pdf": null,
-    "fy2025_pdf": null
+    "fy2025_pdf": "https://archivemhc.com/Financials/Annual%20Reports/2025%20Annual%20Report.pdf"
   },
   "MT": {
     "state": "MT",
@@ -293,7 +293,7 @@
     "hfa_abbr": "OHFA_OK",
     "page_url": "https://www.ohfa.org/financials/",
     "fy2024_pdf": null,
-    "fy2025_pdf": "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-FS-Report-FINAL.pdf"
+    "fy2025_pdf": "https://www.ohfa.org/wp-content/uploads/2026/01/2025-OHFA-Single-Audit-Report-FINAL.pdf"
   },
   "OR": {
     "state": "OR",

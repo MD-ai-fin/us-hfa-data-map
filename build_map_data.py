@@ -898,6 +898,15 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2025": 3_316_300_000,
         "total_liabilities_2024": 3_174_000_000,
     },
+    "MS": {
+        "net_position_2025": 38_802_358,
+        "net_position_2024": 17_545_424,
+        "net_position_change_pct": 121.2,
+        "total_assets_2025": 1_293_401_756,
+        "total_assets_2024": 1_059_524_854,
+        "total_liabilities_2025": 1_256_548_625,
+        "total_liabilities_2024": 1_045_086_643,
+    },
     "WV": {"net_position_2025": 640_049_000, "total_assets_2025": 1_607_042_000, "net_position_change_pct": 4.7},
     "WY": {
         "net_position_2025": 456_281_420,
@@ -1463,7 +1472,7 @@ def load_personal_income() -> dict[str, dict[str, float | None]]:
 
 def load_unemployment() -> dict[str, dict[str, float | None]]:
     result = {s: {"2023": None, "2024": None} for s in STATE_NAMES}
-    fallback = BASE / "web-map" / "acs_fallback.json"
+    fallback = BASE / "docs" / "acs_fallback.json"
     if fallback.exists():
         data = json.loads(fallback.read_text(encoding="utf-8"))
         for st, vals in data.items():
@@ -1482,7 +1491,7 @@ def load_acs_quickfacts() -> dict[str, dict]:
         }
         for s in STATE_NAMES
     }
-    fallback = BASE / "web-map" / "acs_fallback.json"
+    fallback = BASE / "docs" / "acs_fallback.json"
     if fallback.exists():
         data = json.loads(fallback.read_text(encoding="utf-8"))
         for st, vals in data.items():
