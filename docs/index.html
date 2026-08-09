@@ -1237,7 +1237,7 @@
         border: 1px solid var(--border);
       }
       .legend {
-        bottom: 38px;
+        bottom: 16px;
         left: 8px;
         min-width: 108px;
         padding: 0.4rem 0.55rem;
@@ -1279,10 +1279,12 @@
       }
       .leaflet-top .leaflet-control { margin-top: 6px; }
       .leaflet-left .leaflet-control { margin-left: 6px; }
-      /* Compact legal strip — was display:none and invisible on phones */
+      /* Compact legal strip — was display:none and invisible on phones.
+         Bottom padding also clears the floating "Metrics" pill (fixed,
+         ~96px tall footprint) so it doesn't sit on top of this text. */
       .site-footer {
         display: block;
-        padding: 6px 10px calc(6px + env(safe-area-inset-bottom, 0px));
+        padding: 6px 10px calc(104px + env(safe-area-inset-bottom, 0px));
         font-size: 0.62rem;
         line-height: 1.35;
         text-align: center;
