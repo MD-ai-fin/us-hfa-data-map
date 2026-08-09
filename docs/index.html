@@ -113,12 +113,6 @@
     }
     .sidebar h2 { font-size: 0.95rem; font-weight: 600; }
     .sidebar .sub { color: var(--muted); font-size: 0.78rem; line-height: 1.45; }
-    .sidebar-actions { display: flex; gap: 0.5rem; }
-    .sidebar-actions button {
-      flex: 1;
-      font-size: 0.78rem;
-      padding: 0.35rem 0.5rem;
-    }
     .metric-options {
       display: flex;
       flex-direction: column;
@@ -1337,10 +1331,6 @@
         </div>
         <button type="button" class="drawer-close" id="btn-drawer-close" aria-label="Close">×</button>
       </div>
-      <div class="sidebar-actions">
-        <button type="button" id="btn-select-all">Select All</button>
-        <button type="button" id="btn-clear-all">Clear All</button>
-      </div>
       <div class="metric-options" id="metric-options"></div>
       <div class="sources" id="sources"></div>
     </aside>
@@ -1416,8 +1406,7 @@
         reportFy2025Pdf: "FY2025 ACFR / 财务报表",
         reportNoLinks: "暂无可用报告链接",
         sidebarTitle: "地图显示选项",
-        sidebarHint: "勾选数据项，地图上各州显示对应指标数值",
-        selectAll: "全选", clearAll: "清除",
+        sidebarHint: "选择一项数据，地图上各州显示对应指标数值",
         legend: "图例", colorBy: "着色依据", sources: "数据来源", na: "暂无",
         metricsDrawerBtn: "指标",
         sceneTopNp: "净资产 Top",
@@ -1506,8 +1495,7 @@
         reportFy2025Pdf: "FY2025 ACFR / financial statements",
         reportNoLinks: "No report links available",
         sidebarTitle: "Map Display Options",
-        sidebarHint: "Selected metrics appear as values on each state",
-        selectAll: "Select All", clearAll: "Clear All",
+        sidebarHint: "Pick one metric to show as values on each state",
         legend: "Legend", colorBy: "Color by", sources: "Data Sources", na: "N/A",
         metricsDrawerBtn: "Metrics",
         sceneTopNp: "Top Net Position",
@@ -2409,7 +2397,7 @@
         } else if (parsed.metrics.length) {
           activeScene = null;
           selectedMetrics.clear();
-          parsed.metrics.forEach(k => selectedMetrics.add(k));
+          selectedMetrics.add(parsed.metrics[0]);
           clearHighlights();
           document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
         }
@@ -2849,7 +2837,7 @@
         const color = METRIC_COLORS[k] || "#94a3b8";
         return `<label class="metric-option ${checked ? "checked" : ""}" data-key="${k}">
           <span class="color-dot" style="background:${color}"></span>
-          <input type="checkbox" value="${k}" ${checked ? "checked" : ""} />
+          <input type="radio" name="metric-option" value="${k}" ${checked ? "checked" : ""} />
           <span class="opt-label">${tMetric(k)}</span>
         </label>`;
       }).join("");
@@ -2857,22 +2845,17 @@
       container.querySelectorAll(".metric-option").forEach(el => {
         const k = el.dataset.key;
         const input = el.querySelector("input");
-        const toggle = () => {
-          if (input.checked) selectedMetrics.add(k);
-          else selectedMetrics.delete(k);
-          el.classList.toggle("checked", input.checked);
+        input.addEventListener("change", () => {
+          if (selectedMetrics.has(k) && selectedMetrics.size === 1) return;
+          selectedMetrics.clear();
+          selectedMetrics.add(k);
+          renderMetricOptions();
           activeScene = null;
           document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
           if (!compareMode) clearHighlights();
           updateMetricsDrawerBtn();
           refreshMap();
           syncUrlFromState();
-        };
-        input.addEventListener("change", toggle);
-        el.addEventListener("click", e => {
-          if (e.target === input) return;
-          input.checked = !input.checked;
-          toggle();
         });
       });
     }
@@ -2886,14 +2869,7 @@
       const label = document.getElementById("btn-metrics-label");
       const countEl = document.getElementById("btn-metrics-count");
       label.textContent = t("metricsDrawerBtn");
-      const n = selectedMetrics.size;
-      if (n > 0) {
-        countEl.hidden = false;
-        countEl.textContent = String(n);
-      } else {
-        countEl.hidden = true;
-        countEl.textContent = "0";
-      }
+      countEl.hidden = true;
       btn.setAttribute("aria-expanded", drawerOpen && isMobileLayout() ? "true" : "false");
     }
 
@@ -2957,8 +2933,6 @@
       document.getElementById("lbl-reports").textContent = t("lblReports");
       document.getElementById("sidebar-title").textContent = t("sidebarTitle");
       document.getElementById("sidebar-hint").textContent = t("sidebarHint");
-      document.getElementById("btn-select-all").textContent = t("selectAll");
-      document.getElementById("btn-clear-all").textContent = t("clearAll");
       document.getElementById("btn-report").textContent = t("reportBtn");
       document.getElementById("btn-report-close").setAttribute("aria-label", t("closeReport"));
       document.getElementById("btn-drawer-close").setAttribute("aria-label", t("closeDrawer"));
@@ -3010,26 +2984,6 @@
           syncUrlFromState();
         };
       });
-      document.getElementById("btn-select-all").onclick = () => {
-        METRIC_KEYS.forEach(k => selectedMetrics.add(k));
-        activeScene = null;
-        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
-        if (!compareMode) clearHighlights();
-        renderMetricOptions();
-        updateMetricsDrawerBtn();
-        refreshMap();
-        syncUrlFromState();
-      };
-      document.getElementById("btn-clear-all").onclick = () => {
-        selectedMetrics.clear();
-        activeScene = null;
-        document.querySelectorAll(".scene-btn[data-scene]").forEach(b => b.classList.remove("active"));
-        if (!compareMode) clearHighlights();
-        renderMetricOptions();
-        updateMetricsDrawerBtn();
-        refreshMap();
-        syncUrlFromState();
-      };
       document.getElementById("btn-report").onclick = openReport;
       document.getElementById("btn-report-close").onclick = closeReport;
       document.getElementById("report-modal").onclick = e => {
