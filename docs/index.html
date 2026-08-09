@@ -3098,6 +3098,12 @@
     // On top of that, as optional accelerators for sighted keyboard users: Enter/Space
     // activates a focused state like a click, arrow keys hop to the nearest neighboring
     // state in that direction, and typing a state's abbreviation jumps straight to it.
+    // Clicking/tapping a state also moves DOM focus to it (it's tabindex="0"), which
+    // would otherwise trigger the pan-into-view logic below for every ordinary click —
+    // that pan is only meant to help keyboard users find an off-screen focus target.
+    // Track pointer-vs-keyboard focus with a flag set just before the browser assigns focus.
+    let stateFocusFromPointer = false;
+
     function setupStateA11y() {
       layerByAbbr.forEach((layer, abbr) => {
         const el = getStateElement(abbr);
@@ -3105,9 +3111,15 @@
         el.dataset.a11yBound = "1";
         el.setAttribute("tabindex", "0");
         el.setAttribute("role", "button");
+        el.addEventListener("pointerdown", () => { stateFocusFromPointer = true; });
         // Whichever way focus arrives (Tab, arrow-key hop, or typeahead), make sure the
-        // state is actually visible rather than leaving a focus ring off-screen.
+        // state is actually visible rather than leaving a focus ring off-screen. Skip this
+        // for mouse/touch clicks — the user can already see exactly what they clicked.
         el.addEventListener("focus", () => {
+          if (stateFocusFromPointer) {
+            stateFocusFromPointer = false;
+            return;
+          }
           const bounds = layer.getBounds();
           if (typeof map.panInsideBounds === "function") {
             map.panInsideBounds(bounds, { padding: [40, 40], animate: !reduceMotion });
