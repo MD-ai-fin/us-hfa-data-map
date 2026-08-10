@@ -1255,37 +1255,42 @@
         border: 1px solid var(--border);
       }
       .legend {
-        bottom: 16px;
+        bottom: 8px;
         left: 8px;
         min-width: 108px;
-        padding: 0.4rem 0.55rem;
+        max-width: 42vw;
+        padding: 0.35rem 0.5rem;
+        /* Lighter than desktop — these overlays sit on an already-short
+           mobile map viewport, so let more of the map read through. */
+        background: rgba(15, 23, 42, 0.78);
       }
-      .legend h3 { font-size: 0.62rem; margin-bottom: 0.22rem; }
-      .legend-bar { height: 8px; margin-bottom: 0.2rem; }
-      .legend-labels { font-size: 0.6rem; }
+      .legend h3 { font-size: 0.6rem; margin-bottom: 0.2rem; }
+      .legend-bar { height: 7px; margin-bottom: 0.18rem; }
+      .legend-labels { font-size: 0.58rem; }
       /* No physical keyboard on mobile — the shortcuts list is just dead weight here */
       .kbd-help { display: none; }
       .map-insets {
         left: 8px;
-        bottom: 108px;
+        bottom: 100px;
         gap: 0.3rem;
       }
       .inset-card { width: 76px; }
       .inset-map { height: 54px; }
       .inset-label { font-size: 0.56rem; padding: 0.2rem 0.25rem 0.28rem; }
       .rank-panel {
-        bottom: 6px;
+        bottom: 8px;
         right: 6px;
-        width: min(134px, calc(100% - 12px));
-        padding: 0.4rem 0.45rem 0.35rem;
+        width: min(128px, calc(100% - 12px));
+        padding: 0.35rem 0.4rem 0.3rem;
+        background: rgba(15, 23, 42, 0.78);
       }
-      .rank-panel h3 { font-size: 0.6rem; margin-bottom: 0.25rem; }
-      .rank-panel ol { gap: 0.1rem; }
+      .rank-panel h3 { font-size: 0.58rem; margin-bottom: 0.2rem; }
+      .rank-panel ol { gap: 0.08rem; }
       .rank-panel li {
-        font-size: 0.63rem;
-        grid-template-columns: 0.75rem 1.3rem 1fr auto;
+        font-size: 0.62rem;
+        grid-template-columns: 0.7rem 1.3rem 1fr auto;
         gap: 0.2rem;
-        padding: 0.14rem 0.1rem;
+        padding: 0.12rem 0.1rem;
       }
       .rank-panel .name { display: none; }
       .leaflet-touch .leaflet-control-zoom a,
@@ -1421,6 +1426,11 @@
     @media (max-width: 480px) {
       header p { display: none; }
       .control-group label { display: none; }
+      .legend { max-width: 46vw; padding: 0.3rem 0.45rem; }
+      .legend h3 { font-size: 0.56rem; }
+      .rank-panel { width: min(112px, calc(100% - 12px)); padding: 0.3rem 0.35rem 0.28rem; }
+      .rank-panel h3 { font-size: 0.55rem; }
+      .rank-panel li { font-size: 0.58rem; }
     }
   </style>
 </head>
@@ -1648,7 +1658,7 @@
         compareEdit: "修改选择",
         compareLegend: "绿色数字 + ▲ 标记表示该项指标在所选州中数值最高（并列最高不标注）。",
         compareWinLabel: "最高",
-        rankTitle: "Top 5 · {metric}",
+        rankTitle: "Top {n} · {metric}",
         funFactLabel: "冷知识",
         nextFact: "下一条",
         shareBtn: "复制链接",
@@ -1759,7 +1769,7 @@
         compareLegend: "Green numbers with a ▲ mark the highest value for that metric among the selected states (ties are not marked).",
         compareWinLabel: "highest",
         compareEdit: "Edit selection",
-        rankTitle: "Top 5 · {metric}",
+        rankTitle: "Top {n} · {metric}",
         funFactLabel: "Did you know?",
         nextFact: "Next fact",
         shareBtn: "Copy link",
@@ -1870,7 +1880,7 @@
         compareLegend: "Los números en verde con ▲ indican el valor más alto de ese indicador entre los estados seleccionados (los empates no se marcan).",
         compareWinLabel: "el más alto",
         compareEdit: "Modificar selección",
-        rankTitle: "Top 5 · {metric}",
+        rankTitle: "Top {n} · {metric}",
         funFactLabel: "¿Sabía que…?",
         nextFact: "Siguiente dato",
         shareBtn: "Copiar enlace",
@@ -1981,7 +1991,7 @@
         compareLegend: "Zielone liczby ze znacznikiem ▲ oznaczają najwyższą wartość danego wskaźnika wśród wybranych stanów (remisy nie są oznaczane).",
         compareWinLabel: "najwyższa wartość",
         compareEdit: "Zmień wybór",
-        rankTitle: "Top 5 · {metric}",
+        rankTitle: "Top {n} · {metric}",
         funFactLabel: "Czy wiesz, że…",
         nextFact: "Następna ciekawostka",
         shareBtn: "Kopiuj link",
@@ -3050,13 +3060,16 @@
       const mkey = primaryMetric();
       const title = document.getElementById("rank-title");
       const list = document.getElementById("rank-list");
+      // Fewer rows on mobile — the panel overlays the map, and a shorter
+      // list leaves more of it visible on an already-short viewport.
+      const rankCount = isMobileLayout() ? 3 : 5;
       if (!mkey) {
-        title.textContent = t("rankTitle").replace("{metric}", "—");
+        title.textContent = t("rankTitle").replace("{n}", rankCount).replace("{metric}", "—");
         list.innerHTML = "";
         return;
       }
-      title.textContent = t("rankTitle").replace("{metric}", tMetric(mkey));
-      const rows = rankedStates(mkey, 5);
+      title.textContent = t("rankTitle").replace("{n}", rankCount).replace("{metric}", tMetric(mkey));
+      const rows = rankedStates(mkey, rankCount);
       list.innerHTML = rows.map((r, i) => {
         const name = stateDisplayName(r.rec, r.state);
         const val = fmt(r.value, mkey);
@@ -3693,6 +3706,7 @@
         document.body.classList.remove("drawer-open");
       }
       updateMetricsDrawerBtn();
+      renderRankPanel();
       map.invalidateSize({ animate: false });
     }
 
