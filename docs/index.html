@@ -3630,6 +3630,25 @@
       updateA11yLabels();
     }
 
+    // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view). Hoisted
+    // to module scope (was originally local to init()) so the resize handler in
+    // bindToggles() can also call it -- see handleViewportResize().
+    function resetMapView() {
+      if (!stateLayer) return;
+      const contiguousBounds = L.latLngBounds();
+      stateLayer.eachLayer(layer => {
+        const abbr = STATE_ABBR[layer.feature?.properties?.name];
+        if (abbr && abbr !== "AK" && abbr !== "HI") contiguousBounds.extend(layer.getBounds());
+      });
+      // Match the initial boot framing exactly (no animation race with setZoom)
+      if (contiguousBounds.isValid()) {
+        map.fitBounds(contiguousBounds, { padding: [4, 4], maxZoom: 8, animate: false });
+        map.setZoom(map.getZoom() + Math.log2(1.17), { animate: false });
+      } else {
+        map.fitBounds(stateLayer.getBounds(), { padding: [20, 20], animate: false });
+      }
+    }
+
     function updateLegend() {
       const mkey = primaryMetric();
       const legendEl = document.getElementById("legend");
@@ -4006,12 +4025,28 @@
       // can change devicePixelRatio -- blurring/misaligning tiles -- without the
       // window's CSS pixel dimensions (and therefore a "resize" event) changing at
       // all. Debounce both signals into the same handler so either one recovers it.
+      //
+      // invalidateSize() alone only fixes tile/pane rendering for the new
+      // container size -- it keeps the same center/zoom, so a big jump in window
+      // size (e.g. moving to a much larger second monitor) just reveals more
+      // ocean/Canada/Mexico around an unchanged-size U.S. silhouette rather than
+      // the map visibly "filling" the new window the way a fresh page load does
+      // (which fits the contiguous U.S. to the container via resetMapView()).
+      // Re-run that same fit here too, but only when the map is still showing its
+      // untouched default view -- if the visitor has already selected/highlighted
+      // a state, opened compare, or opened a report, resizing shouldn't yank their
+      // view back to the whole-country framing.
       let resizeSettleTimer = null;
       function handleViewportResize() {
         clearTimeout(resizeSettleTimer);
         resizeSettleTimer = setTimeout(() => {
           map.invalidateSize({ animate: false });
           Object.values(insetMaps).forEach(entry => entry.map.invalidateSize({ animate: false }));
+          const isDefaultView = !focusedState && !stateModalOpen && !compareOpen && !reportOpen
+            && highlightAbbrs.size === 0 && !activeScene
+            && !document.getElementById("play-modal")?.classList.contains("open")
+            && !document.getElementById("chart-modal")?.classList.contains("open");
+          if (isDefaultView) resetMapView();
         }, 150);
       }
       window.addEventListener("resize", handleViewportResize);
@@ -4097,23 +4132,6 @@
       stateLayer = L.geoJSON(geo, { style: styleFeature, onEachFeature }).addTo(map);
       setupStateA11y();
 
-      function resetMapView() {
-        if (!stateLayer) return;
-        const contiguousBounds = L.latLngBounds();
-        stateLayer.eachLayer(layer => {
-          const abbr = STATE_ABBR[layer.feature?.properties?.name];
-          if (abbr && abbr !== "AK" && abbr !== "HI") contiguousBounds.extend(layer.getBounds());
-        });
-        // Match the initial boot framing exactly (no animation race with setZoom)
-        if (contiguousBounds.isValid()) {
-          map.fitBounds(contiguousBounds, { padding: [4, 4], maxZoom: 8, animate: false });
-          map.setZoom(map.getZoom() + Math.log2(1.17), { animate: false });
-        } else {
-          map.fitBounds(stateLayer.getBounds(), { padding: [20, 20], animate: false });
-        }
-      }
-
-      // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view)
       resetMapView();
       // Mobile browsers often report a provisional (taller) viewport height
       // before the address bar / dynamic toolbar finishes settling, which
