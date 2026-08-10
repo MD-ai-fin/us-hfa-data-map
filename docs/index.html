@@ -4025,6 +4025,19 @@
         else if (typeof mq.addListener === "function") mq.addListener(onDprChange);
       }
       watchDevicePixelRatio();
+
+      // Belt-and-braces: window "resize" and the devicePixelRatio watcher above
+      // both infer a size change from an event that *usually* correlates with one.
+      // Some window managers move a window to a different monitor (even one with a
+      // different resolution/scale) without firing either -- ResizeObserver instead
+      // watches the map container's own box directly, so it fires on the actual
+      // layout change regardless of what caused it.
+      if (typeof ResizeObserver === "function") {
+        const mapWrapEl = document.getElementById("map-wrap");
+        if (mapWrapEl) {
+          new ResizeObserver(() => handleViewportResize()).observe(mapWrapEl);
+        }
+      }
     }
 
     let labelRAF = null;
