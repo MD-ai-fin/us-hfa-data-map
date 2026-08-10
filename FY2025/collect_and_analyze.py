@@ -880,6 +880,7 @@ def _report_copy(language: str) -> dict:
             "note_sd_mdna": "Total assets/liabilities added from SDHDA FY2025 MD&A (Changes in Assets/Liabilities/Net Position, in millions, FYE June 30 2025/2024)",
             "note_me_mdna": "Total assets/liabilities added from MaineHousing FY2025 MD&A (Statement of Net Position, in millions, FYE Dec 31 2025/2024), replacing a previous inaccurate estimate",
             "note_md_scope": "Full CDA scope: deduplicated sum of the 4 non-overlapping published bond fund statements at dhcd.maryland.gov (Revenue Obligation Funds -- itself a combination of Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund -- plus Multi-Family Mortgage Revenue Bonds, Single Family Housing Revenue Bonds, and Local Government Infrastructure Bonds)",
+            "note_nh_mdna": "Core metrics manually verified against NH Housing FY2025 MD&A (Condensed Financial Information -- Statement of Net Position, June 30 2025/2024)",
         }
 
     return {
@@ -1048,6 +1049,7 @@ def _report_copy(language: str) -> dict:
         "note_sd_mdna": "已根据 SDHDA FY2025 MD&A（Changes in Assets/Liabilities/Net Position, in millions, FYE June 30 2025/2024）补充总资产／总负债",
         "note_me_mdna": "已根据 MaineHousing FY2025 MD&A（Statement of Net Position, in millions, FYE Dec 31 2025/2024）补充总资产／总负债，替换此前不准确的估算值",
         "note_md_scope": "CDA 全部业务范围：对 dhcd.maryland.gov 发布的 4 份互不重叠债券基金报表去重后汇总（Revenue Obligation Funds 本身已合并 Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund，再加上 Multi-Family Mortgage Revenue Bonds、Single Family Housing Revenue Bonds 与 Local Government Infrastructure Bonds）",
+        "note_nh_mdna": "已根据 NH Housing FY2025 MD&A（Condensed Financial Information – Statement of Net Position, June 30 2025/2024）人工核验核心指标",
     }
 
 
@@ -1072,6 +1074,8 @@ def _translate_notes(notes: list[str], language: str) -> str:
             translated.append(t["note_me_mdna"])
         elif "financialstatement.aspx" in low:
             translated.append(t["note_md_scope"])
+        elif "nh housing fy2025 md&a" in low:
+            translated.append(t["note_nh_mdna"])
         elif "州级ACFR" in note or "州级综合年报" in note or "state-level acfr" in low:
             translated.append(t["note_state_acfr"])
         elif "未能自动提取" in note or "not auto-extracted" in low:

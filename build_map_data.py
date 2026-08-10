@@ -1031,6 +1031,47 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 6_614_819_000,
         "net_position_change_pct": 7.7,
     },
+    # Oregon Housing & Community Services Dept., "Statement of Net Position,
+    # Proprietary Funds" (Business-Type Activities - Enterprise Funds,
+    # combined total column), June 30, 2024 (sos.oregon.gov audit report
+    # 2024-31). OHCS's FY2025 (June 30, 2025) audit was not yet published as
+    # of this writing, so this fills the "2024" slot only -- no 2025 figures
+    # or growth% (growth would need a 2025 figure to compare against).
+    "OR": {
+        "net_position_2024": 291_887_046,
+        "total_assets_2024": 1_458_035_482,
+        "total_liabilities_2024": 1_145_571_466,
+    },
+    # Nevada statewide FY2024 ACFR, "Housing Division" column of the
+    # combining Statement of Net Position for (major) Enterprise Funds,
+    # June 30, 2024. Nevada's FY2025 statewide ACFR was not yet published as
+    # of this writing (FY2024's took nearly two years to issue), so "2024"
+    # slot only.
+    "NV": {
+        "net_position_2024": 271_755_834,
+        "total_assets_2024": 962_297_225,
+        "total_liabilities_2024": 691_268_969,
+    },
+    # NJHMFA "Condensed Statement of Net Position" (MD&A), December 31, 2024
+    # (NJHMFA's fiscal year is the calendar year). FY2025 (Dec 31, 2025)
+    # audit not yet published, so "2024" slot only.
+    "NJ": {
+        "net_position_2024": 1_615_595_000,
+        "total_assets_2024": 5_173_136_000,
+        "total_liabilities_2024": 3_549_128_000,
+    },
+    # NH Housing Finance Authority "Condensed Financial Information --
+    # Statement of Net Position" (MD&A), June 30, 2025 and 2024 -- a true
+    # FY2025 filing, unlike OR/NV/NJ above.
+    "NH": {
+        "net_position_2025": 224_507_000,
+        "net_position_2024": 206_442_000,
+        "total_assets_2025": 1_570_317_000,
+        "total_assets_2024": 1_162_167_000,
+        "total_liabilities_2025": 1_345_810_000,
+        "total_liabilities_2024": 955_725_000,
+        "net_position_change_pct": 8.7,
+    },
 }
 
 

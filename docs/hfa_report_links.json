@@ -244,15 +244,15 @@
     "hfa_name": "New Hampshire Housing Finance Authority",
     "hfa_abbr": "NHHousing",
     "page_url": "https://www.nhhousing.org/resources/publications-reports/",
-    "fy2024_pdf": null,
-    "fy2025_pdf": null
+    "fy2024_pdf": "https://www.nhhousing.org/wp-content/uploads/2026/05/NH-Housing-Finance-Authority-Audited-Financial-Statements-FY-2024.pdf",
+    "fy2025_pdf": "https://www.nhhousing.org/wp-content/uploads/2026/05/NH-Housing-Finance-Authority-Audited-Financial-Statements-FY-2025.pdf"
   },
   "NJ": {
     "state": "NJ",
     "hfa_name": "New Jersey Housing and Mortgage Finance Agency",
     "hfa_abbr": "NJHMFA",
     "page_url": "https://nj.gov/dca/hmfa/",
-    "fy2024_pdf": null,
+    "fy2024_pdf": "https://www.nj.gov/dca/hmfa/about/docs/investorinfo/financials/2024_final_agency_report.pdf",
     "fy2025_pdf": null
   },
   "NM": {
@@ -268,7 +268,7 @@
     "hfa_name": "Nevada Housing Division",
     "hfa_abbr": "NHD",
     "page_url": "https://housing.nv.gov/About/Financial_Reports/",
-    "fy2024_pdf": null,
+    "fy2024_pdf": "https://www.controller.nv.gov/siteassets/content/financialrpts/acfr/fy-2024-acfr.pdf",
     "fy2025_pdf": null
   },
   "NY": {
@@ -300,7 +300,7 @@
     "hfa_name": "Oregon Housing and Community Services",
     "hfa_abbr": "OHCS",
     "page_url": "https://www.oregon.gov/ohcs/Pages/index.aspx",
-    "fy2024_pdf": "https://sos.oregon.gov/audits/Documents/2024-26.pdf",
+    "fy2024_pdf": "https://sos.oregon.gov/audits/Documents/2024-31.pdf",
     "fy2025_pdf": null
   },
   "PA": {
