@@ -4029,6 +4029,21 @@
 
       // Fit contiguous U.S. (exclude AK/HI so the mainland fills the view)
       resetMapView();
+      // Mobile browsers often report a provisional (taller) viewport height
+      // before the address bar / dynamic toolbar finishes settling, which
+      // leaves this initial fit sized against a stale container — the map
+      // ends up panned off-center (empty space above, country cut off at
+      // the bottom) until something else nudges Leaflet to recompute. Re-fit
+      // once after the next paint and once more shortly after as a safety
+      // net for slower devices.
+      requestAnimationFrame(() => {
+        map.invalidateSize({ animate: false });
+        resetMapView();
+      });
+      setTimeout(() => {
+        map.invalidateSize({ animate: false });
+        resetMapView();
+      }, 350);
 
       bindToggles();
       if (typeof initHfaPlay === "function") {
