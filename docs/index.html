@@ -2265,6 +2265,7 @@
     const insetMaps = {}; // abbr → { map, layer }
     let reportLinks = {};
     const reportCache = {};
+    const pdfSizeCache = {};
     let reportOpen = false;
     let drawerOpen = false;
     let stateModalOpen = false;
@@ -2439,6 +2440,28 @@
       return `reports/fy2025-${l}.pdf`;
     }
 
+    function fmtFileSize(bytes) {
+      if (!bytes || bytes <= 0) return null;
+      const mb = bytes / (1024 * 1024);
+      if (mb >= 0.1) return `${mb.toFixed(1)} MB`;
+      return `${Math.max(1, Math.round(bytes / 1024))} KB`;
+    }
+
+    // HEAD request just for the Content-Length header — cheap way to show a
+    // concise file size next to the PDF download link without fetching the
+    // whole file. Cached per path since it never changes within a session.
+    async function getPdfSizeLabel(path) {
+      if (pdfSizeCache[path] !== undefined) return pdfSizeCache[path];
+      let label = null;
+      try {
+        const resp = await fetch(path, { method: "HEAD" });
+        const len = resp.headers.get("content-length");
+        if (len) label = fmtFileSize(Number(len));
+      } catch (_err) { /* offline / blocked — just skip the size */ }
+      pdfSizeCache[path] = label;
+      return label;
+    }
+
     async function loadReportHtml(force = false) {
       const path = reportPath();
       if (!force && reportCache[path]) return reportCache[path];
@@ -2454,9 +2477,19 @@
       document.getElementById("report-title").textContent = t("reportTitle");
       const pdfLink = document.getElementById("report-download-pdf");
       if (pdfLink) {
-        pdfLink.href = reportPdfPath();
-        pdfLink.textContent = t("reportDownloadPdf");
-        pdfLink.setAttribute("aria-label", t("reportDownloadPdf"));
+        const pdfPath = reportPdfPath();
+        const baseLabel = t("reportDownloadPdf");
+        pdfLink.href = pdfPath;
+        pdfLink.textContent = baseLabel;
+        pdfLink.setAttribute("aria-label", baseLabel);
+        getPdfSizeLabel(pdfPath).then(size => {
+          // Skip if the report modal moved on to a different language/PDF
+          // by the time this HEAD request resolves.
+          if (!size || !pdfLink.href.endsWith(pdfPath)) return;
+          const labelWithSize = `${baseLabel} (${size})`;
+          pdfLink.textContent = labelWithSize;
+          pdfLink.setAttribute("aria-label", labelWithSize);
+        });
       }
       body.innerHTML = `<div class="report-loading">${t("reportLoading")}</div>`;
       try {
