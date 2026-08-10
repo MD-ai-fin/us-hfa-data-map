@@ -3999,6 +3999,32 @@
       window.addEventListener("orientationchange", () => {
         setTimeout(() => map.invalidateSize({ animate: false }), 250);
       });
+
+      // Leaflet caches the map container's pixel size at init and only re-measures
+      // it when told to. A plain window "resize" listener covers most cases, but
+      // dragging the browser between two monitors with different DPI/scale factors
+      // can change devicePixelRatio -- blurring/misaligning tiles -- without the
+      // window's CSS pixel dimensions (and therefore a "resize" event) changing at
+      // all. Debounce both signals into the same handler so either one recovers it.
+      let resizeSettleTimer = null;
+      function handleViewportResize() {
+        clearTimeout(resizeSettleTimer);
+        resizeSettleTimer = setTimeout(() => {
+          map.invalidateSize({ animate: false });
+          Object.values(insetMaps).forEach(entry => entry.map.invalidateSize({ animate: false }));
+        }, 150);
+      }
+      window.addEventListener("resize", handleViewportResize);
+      function watchDevicePixelRatio() {
+        const mq = window.matchMedia(`(resolution: ${window.devicePixelRatio}dppx)`);
+        const onDprChange = () => {
+          handleViewportResize();
+          watchDevicePixelRatio(); // re-arm: the ratio just changed, so this query is now stale
+        };
+        if (typeof mq.addEventListener === "function") mq.addEventListener("change", onDprChange, { once: true });
+        else if (typeof mq.addListener === "function") mq.addListener(onDprChange);
+      }
+      watchDevicePixelRatio();
     }
 
     let labelRAF = null;
