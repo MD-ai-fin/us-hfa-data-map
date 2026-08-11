@@ -1086,6 +1086,173 @@
       display: none;
     }
     .chart-tooltip.show { display: block; }
+    .il-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 2100;
+      display: none;
+      align-items: stretch;
+      justify-content: center;
+      padding: 1rem;
+      background: rgba(2, 6, 23, 0.72);
+      backdrop-filter: blur(4px);
+    }
+    .il-modal.open { display: flex; }
+    .il-panel {
+      width: min(1040px, 100%);
+      max-height: 100%;
+      margin: 0 auto;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.45);
+    }
+    .il-body {
+      overflow: auto;
+      padding: 1rem 1.1rem 1.25rem;
+      flex: 1 1 auto;
+      min-height: 0;
+    }
+    .il-kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 0.7rem;
+      margin-bottom: 1rem;
+    }
+    .il-kpi-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 0.7rem 0.75rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      min-width: 0;
+    }
+    .il-kpi-head { display: flex; align-items: center; gap: 0.4rem; font-size: 0.78rem; color: var(--muted); }
+    .il-kpi-icon { font-size: 1.05rem; }
+    .il-kpi-title { font-weight: 600; color: #e2e8f0; }
+    .il-kpi-value { font-size: 1.5rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+    .il-unit-icon { font-size: 1rem; }
+    .il-amount-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem 0.6rem;
+      font-size: 0.7rem;
+      color: #7dd3fc;
+      font-variant-numeric: tabular-nums;
+    }
+    .il-kpi-fy26 { min-height: 1.2rem; }
+    .il-fy26-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.7rem;
+      padding: 0.15rem 0.45rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .il-fy26-badge.il-fy26-numeric { color: #bbf7d0; border-color: rgba(74, 222, 128, 0.45); background: rgba(74, 222, 128, 0.08); }
+    .il-fy26-badge.il-fy26-pending { color: var(--muted); }
+    .il-fy26-badge.il-fy26-closed { color: #fca5a5; border-color: rgba(248, 113, 113, 0.4); }
+    .il-stack-track {
+      position: relative;
+      height: 12px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .il-seg { position: absolute; top: 0; bottom: 0; }
+    .il-sub-legend, .il-chip-row {
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+    .il-sub-chip, .il-ref-chip {
+      display: flex;
+      align-items: baseline;
+      gap: 0.3rem;
+      font-size: 0.68rem;
+      color: var(--muted);
+      white-space: normal;
+      overflow-wrap: anywhere;
+      min-width: 0;
+    }
+    .il-dot { width: 7px; height: 7px; border-radius: 50%; flex: none; align-self: center; }
+    .il-overlap-flag {
+      cursor: help;
+      color: #fbbf24;
+      font-size: 0.72rem;
+    }
+    .il-chip-note {
+      font-size: 0.66rem;
+      color: var(--muted);
+      font-style: italic;
+      margin-top: 0.1rem;
+    }
+    .il-section-title {
+      font-size: 0.82rem;
+      font-weight: 600;
+      margin: 0.9rem 0 0.4rem;
+      color: #e2e8f0;
+    }
+    .il-map-wrap { position: relative; }
+    #il-bubble-map {
+      height: 380px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .il-map-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem 1rem;
+      margin-top: 0.5rem;
+      font-size: 0.72rem;
+      color: var(--muted);
+    }
+    .il-map-legend span { display: inline-flex; align-items: center; gap: 0.3rem; }
+    .il-tooltip {
+      font-size: 0.76rem;
+      line-height: 1.4;
+    }
+    .il-tooltip .il-tt-overlap { color: #fbbf24; margin-top: 0.2rem; display: block; }
+    .il-footnote {
+      margin-top: 0.9rem;
+      padding-top: 0.6rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.68rem;
+      color: var(--muted);
+      line-height: 1.5;
+    }
+    .il-legend-units {
+      display: flex;
+      gap: 1rem;
+      font-size: 0.7rem;
+      color: var(--muted);
+      margin-top: 0.3rem;
+    }
+    .il-error {
+      color: #fca5a5;
+      font-size: 0.85rem;
+      padding: 1rem 0;
+    }
+    .hfa-popup-cta {
+      display: inline-block;
+      margin-top: 0.35rem;
+      padding: 0.35rem 0.6rem;
+      border-radius: 8px;
+      background: rgba(56, 189, 248, 0.12);
+      border: 1px solid rgba(56, 189, 248, 0.45);
+      color: var(--accent);
+      font-size: 0.76rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .hfa-popup-cta:hover { background: rgba(56, 189, 248, 0.22); }
     .feedback-modal {
       position: fixed;
       inset: 0;
@@ -1334,6 +1501,11 @@
       .chart-rank-row { grid-template-columns: 1.5rem 2.3rem 1fr 4.8rem; font-size: 0.76rem; }
       .chart-rank-row .name-line { display: none; }
       .chart-scatter-wrap .pt-label { display: none; }
+      .il-modal { padding: 0; }
+      .il-panel { width: 100%; max-height: 100%; border-radius: 0; border: none; }
+      .il-body { padding: 0.85rem 0.8rem 1.25rem; }
+      .il-kpi-grid { grid-template-columns: 1fr 1fr; }
+      #il-bubble-map { height: 280px; }
 
       /* Lives inline in the top controls row now (next to HFA Reports, above the
          Analysis Report button) instead of floating over the map — no more fighting
@@ -1583,6 +1755,16 @@
     </div>
   </div>
 
+  <div class="il-modal" id="il-activity-modal" aria-hidden="true">
+    <div class="il-panel" role="dialog" aria-modal="true" aria-labelledby="il-activity-title">
+      <div class="compare-header">
+        <h2 id="il-activity-title">Illinois IHDA FY2025 Program Activity</h2>
+        <button type="button" class="report-close" id="btn-il-activity-close" aria-label="Close">×</button>
+      </div>
+      <div class="il-body" id="il-activity-body"></div>
+    </div>
+  </div>
+
   <footer class="site-footer" id="site-footer">
     <div id="footer-credit"></div>
     <div>
@@ -1627,6 +1809,7 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="play.js"></script>
   <script src="charts.js"></script>
+  <script src="il_activity.js"></script>
   <script>
     const I18N = {
       zh: {
@@ -1695,6 +1878,55 @@
         scatterCorrelation: "相关系数 r = {r}（n = {n}）",
         scatterInsufficientData: "有效数据点不足，无法计算相关性。",
         closeChart: "关闭",
+        ilActivityOpenBtn: "查看住房项目活动详情 →",
+        ilModalTitle: "伊利诺伊州 IHDA FY2025 项目活动（试点）",
+        ilFy2026Label: "FY2026 预测",
+        ilFy2026Pending: "待公布/部分披露",
+        ilFy2026Closed: "项目已关闭",
+        ilNotAdditiveNote: "以上资金来源之间存在项目重叠，不可相加。",
+        ilOverlapTooltip: "该资金来源与 {others} 存在项目重叠，请勿重复累加。",
+        ilUnitsLegend: "🏠 = 套数（units）",
+        ilHouseholdsLegend: "🧑 = 户数（households）",
+        ilMapTitle: "多户住宅新建/保留项目分布（仅 FY2025 已完成项目，购房贷款/维修/救助不上图）",
+        ilMapLegendBond: "债券",
+        ilMapLegendCredit: "税收抵免",
+        ilMapLegendTrust: "联邦/州信托基金",
+        ilMapLegendCapital: "基建法案/缺口融资",
+        ilMapSizeLegend: "气泡大小 ≈ 套数",
+        ilMapCount: "共 {n} 个项目",
+        ilProjectOverlapNote: "该项目资金已计入 {sources} 等多个计划的结项报告，请勿重复累加总套数。",
+        ilSourceNote: "数据来源：{agency}《{title}》（{fy}，{retrieved} 抓取）。口径提醒：多户住宅按套数（units）计，购房贷款/维修咨询/应急救助按户数（households）计，两者不可直接相加。",
+        ilLoadError: "项目活动数据加载失败，请稍后重试。",
+        ilCat_multifamily_new_preserve: "多户住宅新建/保留",
+        ilCat_homebuyer_loans: "购房贷款家庭",
+        ilCat_repair_counseling: "房屋维修/咨询类家庭",
+        ilCat_covid_emergency: "COVID 应急救助家庭",
+        ilSub_bonds: "债券 (Bonds)",
+        ilSub_lihtc_9: "联邦低收入住房税收抵免 9%",
+        ilSub_lihtc_4: "联邦低收入住房税收抵免 4%",
+        ilSub_iahtc: "伊利诺伊州住房税收抵免 (IAHTC)",
+        ilSub_home: "HOME 计划",
+        ilSub_nhtf: "国家住房信托基金 (NHTF)",
+        ilSub_trust_fund: "伊利诺伊州住房信托基金",
+        ilSub_capital_bill: "基建法案项目 (HJIIP/H3C)",
+        ilSub_other_multifamily: "其他多户融资/缺口融资",
+        ilSub_access_4: "Access 4%",
+        ilSub_access_5: "Access 5%",
+        ilSub_access_10: "Access 10%",
+        ilSub_smartbuy: "SmartBuy",
+        ilSub_hrap: "住房维修无障碍计划 (HRAP)",
+        ilSub_hafhr: "住房维修援助基金 (HAFHR)",
+        ilSub_ccmfmp: "库克郡止赎调解计划 (CCMFMP)",
+        ilSub_hcrp: "住房咨询资源计划 (HCRP)",
+        ilSub_ilhaf2: "伊州购房者援助基金二期 (ILHAF2)",
+        ilSub_state_cbrap: "州法院租房援助计划 (State CBRAP)",
+        ilSub_aserap: "庇护寻求者应急租金援助 (ASERAP)",
+        il_amt_cash_resources: "州/联邦资金",
+        il_amt_tax_credits: "税收抵免",
+        il_amt_first_mortgage: "首笔贷款",
+        il_amt_second_mortgage: "二笔贷款（首付/过户费援助）",
+        il_amt_disbursed: "已发放金额",
+        ilFy2026AmountLabel: "FY2026 预测金额",
         closePlay: "关闭",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
@@ -1810,6 +2042,55 @@
         scatterCorrelation: "Correlation r = {r} (n = {n})",
         scatterInsufficientData: "Not enough overlapping data to compute a correlation.",
         closeChart: "Close",
+        ilActivityOpenBtn: "View program activity details →",
+        ilModalTitle: "Illinois IHDA FY2025 Program Activity (Pilot)",
+        ilFy2026Label: "FY2026 projected",
+        ilFy2026Pending: "Pending / partial disclosure",
+        ilFy2026Closed: "Program closed",
+        ilNotAdditiveNote: "The funding sources above share overlapping projects and should not be summed.",
+        ilOverlapTooltip: "This funding source shares projects with {others} — do not double-count.",
+        ilUnitsLegend: "🏠 = units",
+        ilHouseholdsLegend: "🧑 = households",
+        ilMapTitle: "Multifamily new construction/preservation projects (FY2025 closed projects only; homebuyer loans, repair, and emergency assistance are not mapped)",
+        ilMapLegendBond: "Bonds",
+        ilMapLegendCredit: "Tax credits",
+        ilMapLegendTrust: "Federal/state trust funds",
+        ilMapLegendCapital: "Capital Bill / gap financing",
+        ilMapSizeLegend: "Bubble size ≈ units",
+        ilMapCount: "{n} projects",
+        ilProjectOverlapNote: "This project's funding is also counted in the closing reports for {sources} — do not double-count total units.",
+        ilSourceNote: "Source: {agency}, \"{title}\" ({fy}, retrieved {retrieved}). Note on units: multifamily figures are counted in units, while homebuyer/repair/emergency-assistance figures are counted in households — the two are not directly additive.",
+        ilLoadError: "Failed to load program-activity data. Please try again later.",
+        ilCat_multifamily_new_preserve: "Multifamily New Construction/Preservation",
+        ilCat_homebuyer_loans: "Homebuyer Loan Households",
+        ilCat_repair_counseling: "Home Repair & Counseling Households",
+        ilCat_covid_emergency: "COVID Emergency Assistance Households",
+        ilSub_bonds: "Bonds",
+        ilSub_lihtc_9: "Federal LIHTC 9%",
+        ilSub_lihtc_4: "Federal LIHTC 4%",
+        ilSub_iahtc: "Illinois Affordable Housing Tax Credit (IAHTC)",
+        ilSub_home: "HOME Program",
+        ilSub_nhtf: "National Housing Trust Fund (NHTF)",
+        ilSub_trust_fund: "Illinois Affordable Housing Trust Fund",
+        ilSub_capital_bill: "Capital Bill Programs (HJIIP/H3C)",
+        ilSub_other_multifamily: "Other Multifamily/Gap Financing",
+        ilSub_access_4: "Access 4%",
+        ilSub_access_5: "Access 5%",
+        ilSub_access_10: "Access 10%",
+        ilSub_smartbuy: "SmartBuy",
+        ilSub_hrap: "Home Repair and Accessibility Program (HRAP)",
+        ilSub_hafhr: "Homeowner Assistance Fund Home Repair (HAFHR)",
+        ilSub_ccmfmp: "Cook County Mortgage Foreclosure Mediation Program (CCMFMP)",
+        ilSub_hcrp: "Housing Counseling Resource Program (HCRP)",
+        ilSub_ilhaf2: "Illinois Homeowner Assistance Fund 2 (ILHAF2)",
+        ilSub_state_cbrap: "State Court-Based Rental Assistance Program (State CBRAP)",
+        ilSub_aserap: "Asylum Seekers Emergency Rental Assistance Program (ASERAP)",
+        il_amt_cash_resources: "State/federal resources",
+        il_amt_tax_credits: "Tax credits",
+        il_amt_first_mortgage: "First mortgages",
+        il_amt_second_mortgage: "Second mortgages (down payment/closing cost assistance)",
+        il_amt_disbursed: "Disbursed",
+        ilFy2026AmountLabel: "FY2026 projected amount",
         closePlay: "Close",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
@@ -1925,6 +2206,55 @@
         scatterCorrelation: "Correlación r = {r} (n = {n})",
         scatterInsufficientData: "No hay suficientes datos superpuestos para calcular una correlación.",
         closeChart: "Cerrar",
+        ilActivityOpenBtn: "Ver detalles de actividad del programa →",
+        ilModalTitle: "Actividad del programa de IHDA de Illinois FY2025 (piloto)",
+        ilFy2026Label: "Proyección FY2026",
+        ilFy2026Pending: "Pendiente / divulgación parcial",
+        ilFy2026Closed: "Programa cerrado",
+        ilNotAdditiveNote: "Las fuentes de financiamiento anteriores comparten proyectos superpuestos y no deben sumarse.",
+        ilOverlapTooltip: "Esta fuente de financiamiento comparte proyectos con {others}; no las sume dos veces.",
+        ilUnitsLegend: "🏠 = unidades",
+        ilHouseholdsLegend: "🧑 = hogares",
+        ilMapTitle: "Proyectos multifamiliares nuevos/preservados (solo proyectos cerrados en el FY2025; los préstamos para compra de vivienda, reparaciones y asistencia de emergencia no se muestran en el mapa)",
+        ilMapLegendBond: "Bonos",
+        ilMapLegendCredit: "Créditos fiscales",
+        ilMapLegendTrust: "Fondos fiduciarios federales/estatales",
+        ilMapLegendCapital: "Ley de capital / financiamiento de brecha",
+        ilMapSizeLegend: "Tamaño de la burbuja ≈ unidades",
+        ilMapCount: "{n} proyectos",
+        ilProjectOverlapNote: "El financiamiento de este proyecto también se contabiliza en los informes de cierre de {sources}; no sume el total de unidades dos veces.",
+        ilSourceNote: "Fuente: {agency}, «{title}» ({fy}, obtenido el {retrieved}). Nota sobre unidades: las cifras multifamiliares se cuentan en unidades, mientras que las de préstamos para compra de vivienda/reparación/asistencia de emergencia se cuentan en hogares; ambas no son directamente sumables.",
+        ilLoadError: "No se pudieron cargar los datos de actividad del programa. Inténtelo de nuevo más tarde.",
+        ilCat_multifamily_new_preserve: "Nueva construcción/preservación multifamiliar",
+        ilCat_homebuyer_loans: "Hogares con préstamos para compra de vivienda",
+        ilCat_repair_counseling: "Hogares de reparación y asesoría de vivienda",
+        ilCat_covid_emergency: "Hogares de asistencia de emergencia por COVID",
+        ilSub_bonds: "Bonos",
+        ilSub_lihtc_9: "Crédito fiscal federal LIHTC 9%",
+        ilSub_lihtc_4: "Crédito fiscal federal LIHTC 4%",
+        ilSub_iahtc: "Crédito Fiscal de Vivienda Asequible de Illinois (IAHTC)",
+        ilSub_home: "Programa HOME",
+        ilSub_nhtf: "Fondo Fiduciario Nacional de Vivienda (NHTF)",
+        ilSub_trust_fund: "Fondo Fiduciario de Vivienda Asequible de Illinois",
+        ilSub_capital_bill: "Programas de la Ley de Capital (HJIIP/H3C)",
+        ilSub_other_multifamily: "Otro financiamiento multifamiliar/de brecha",
+        ilSub_access_4: "Access 4%",
+        ilSub_access_5: "Access 5%",
+        ilSub_access_10: "Access 10%",
+        ilSub_smartbuy: "SmartBuy",
+        ilSub_hrap: "Programa de Reparación y Accesibilidad de Vivienda (HRAP)",
+        ilSub_hafhr: "Fondo de Asistencia al Propietario - Reparación de Vivienda (HAFHR)",
+        ilSub_ccmfmp: "Programa de Mediación de Ejecución Hipotecaria del Condado de Cook (CCMFMP)",
+        ilSub_hcrp: "Programa de Recursos de Asesoría de Vivienda (HCRP)",
+        ilSub_ilhaf2: "Fondo de Asistencia al Propietario de Illinois 2 (ILHAF2)",
+        ilSub_state_cbrap: "Programa Estatal de Asistencia de Alquiler en Tribunales (State CBRAP)",
+        ilSub_aserap: "Programa de Asistencia de Alquiler de Emergencia para Solicitantes de Asilo (ASERAP)",
+        il_amt_cash_resources: "Recursos estatales/federales",
+        il_amt_tax_credits: "Créditos fiscales",
+        il_amt_first_mortgage: "Primeras hipotecas",
+        il_amt_second_mortgage: "Segundas hipotecas (asistencia para pago inicial/costos de cierre)",
+        il_amt_disbursed: "Desembolsado",
+        ilFy2026AmountLabel: "Monto proyectado FY2026",
         closePlay: "Cerrar",
         reportBtn: "Informe de análisis FY2025",
         reportTitle: "Análisis del ACFR y los estados financieros de las HFA estatales de EE. UU. — FY2025",
@@ -2040,6 +2370,55 @@
         scatterCorrelation: "Korelacja r = {r} (n = {n})",
         scatterInsufficientData: "Zbyt mało wspólnych danych, aby obliczyć korelację.",
         closeChart: "Zamknij",
+        ilActivityOpenBtn: "Zobacz szczegóły działalności programu →",
+        ilModalTitle: "Działalność programowa IHDA Illinois FY2025 (pilotaż)",
+        ilFy2026Label: "Prognoza FY2026",
+        ilFy2026Pending: "Oczekuje / częściowe ujawnienie",
+        ilFy2026Closed: "Program zamknięty",
+        ilNotAdditiveNote: "Powyższe źródła finansowania mają nakładające się projekty i nie należy ich sumować.",
+        ilOverlapTooltip: "To źródło finansowania nakłada się na projekty z {others} — nie licz podwójnie.",
+        ilUnitsLegend: "🏠 = jednostki mieszkaniowe",
+        ilHouseholdsLegend: "🧑 = gospodarstwa domowe",
+        ilMapTitle: "Projekty nowego budownictwa/zachowania zasobów wielorodzinnych (tylko zamknięte projekty FY2025; kredyty na zakup domu, naprawy i pomoc awaryjna nie są pokazane na mapie)",
+        ilMapLegendBond: "Obligacje",
+        ilMapLegendCredit: "Ulgi podatkowe",
+        ilMapLegendTrust: "Federalne/stanowe fundusze powiernicze",
+        ilMapLegendCapital: "Capital Bill / finansowanie uzupełniające",
+        ilMapSizeLegend: "Wielkość bąbelka ≈ liczba jednostek",
+        ilMapCount: "{n} projektów",
+        ilProjectOverlapNote: "Finansowanie tego projektu jest również ujęte w raportach zamknięcia dla {sources} — nie licz łącznej liczby jednostek podwójnie.",
+        ilSourceNote: "Źródło: {agency}, „{title}” ({fy}, pobrano {retrieved}). Uwaga dotycząca jednostek: dane wielorodzinne liczone są w jednostkach mieszkaniowych, a dane dot. kredytów/napraw/pomocy awaryjnej w gospodarstwach domowych — te dwie wielkości nie są bezpośrednio sumowalne.",
+        ilLoadError: "Nie udało się wczytać danych o działalności programowej. Spróbuj ponownie później.",
+        ilCat_multifamily_new_preserve: "Nowe budownictwo/zachowanie zasobów wielorodzinnych",
+        ilCat_homebuyer_loans: "Gospodarstwa domowe z kredytami na zakup domu",
+        ilCat_repair_counseling: "Gospodarstwa domowe objęte naprawami/doradztwem",
+        ilCat_covid_emergency: "Gospodarstwa domowe objęte pomocą awaryjną w związku z COVID",
+        ilSub_bonds: "Obligacje",
+        ilSub_lihtc_9: "Federalna ulga LIHTC 9%",
+        ilSub_lihtc_4: "Federalna ulga LIHTC 4%",
+        ilSub_iahtc: "Ulga podatkowa na budownictwo mieszkaniowe stanu Illinois (IAHTC)",
+        ilSub_home: "Program HOME",
+        ilSub_nhtf: "Krajowy Fundusz Powierniczy na Budownictwo Mieszkaniowe (NHTF)",
+        ilSub_trust_fund: "Fundusz Powierniczy na Przystępne Budownictwo Mieszkaniowe Illinois",
+        ilSub_capital_bill: "Programy Capital Bill (HJIIP/H3C)",
+        ilSub_other_multifamily: "Inne finansowanie wielorodzinne/uzupełniające",
+        ilSub_access_4: "Access 4%",
+        ilSub_access_5: "Access 5%",
+        ilSub_access_10: "Access 10%",
+        ilSub_smartbuy: "SmartBuy",
+        ilSub_hrap: "Program Napraw i Dostępności Mieszkań (HRAP)",
+        ilSub_hafhr: "Fundusz Pomocy Właścicielom Domów - Naprawy (HAFHR)",
+        ilSub_ccmfmp: "Program Mediacji ws. Przejęć Hipotecznych hrabstwa Cook (CCMFMP)",
+        ilSub_hcrp: "Program Zasobów Doradztwa Mieszkaniowego (HCRP)",
+        ilSub_ilhaf2: "Fundusz Pomocy Właścicielom Domów Illinois 2 (ILHAF2)",
+        ilSub_state_cbrap: "Stanowy Program Pomocy Czynszowej w Sądzie (State CBRAP)",
+        ilSub_aserap: "Program Pomocy Czynszowej w Nagłych Wypadkach dla Osób Ubiegających się o Azyl (ASERAP)",
+        il_amt_cash_resources: "Środki stanowe/federalne",
+        il_amt_tax_credits: "Ulgi podatkowe",
+        il_amt_first_mortgage: "Pierwsze kredyty hipoteczne",
+        il_amt_second_mortgage: "Drugie kredyty hipoteczne (pomoc na wkład własny/koszty zamknięcia)",
+        il_amt_disbursed: "Wypłacono",
+        ilFy2026AmountLabel: "Prognozowana kwota FY2026",
         closePlay: "Zamknij",
         reportBtn: "Raport analityczny FY2025",
         reportTitle: "Analiza ACFR i sprawozdań finansowych stanowych HFA w USA — FY2025",
@@ -2693,7 +3072,10 @@
         : `<div class="hfa-popup-empty">${t("reportNoLinks")}</div>`;
       const metrics = `<div class="hfa-popup-metrics">${buildMetricRowsHtml(rec)}
         <p class="tt-rank-hint">${t("stateModalRankHint")}</p></div>`;
-      return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${metrics}${body}`;
+      const ilCta = (abbr === "IL" && window.hfaIlActivity?.isAvailable?.())
+        ? `<button type="button" class="hfa-popup-cta" id="btn-il-activity">${t("ilActivityOpenBtn")}</button>`
+        : "";
+      return `<div class="hfa-popup-title">${title}</div><div class="hfa-popup-sub">${sub}</div>${metrics}${body}${ilCta}`;
     }
 
     function renderStateModalBody() {
@@ -3067,6 +3449,9 @@
       }
       if (except !== "charts") {
         window.hfaCharts?.deactivate?.();
+      }
+      if (except !== "il-activity") {
+        window.hfaIlActivity?.deactivate?.();
       }
     }
 
@@ -3939,6 +4324,7 @@
       renderExploreLabels();
       window.hfaPlay?.renderPlayLabels?.();
       window.hfaCharts?.renderChartLabels?.();
+      window.hfaIlActivity?.renderLabels?.();
       renderKbdHelp();
       renderFunFact(false);
       renderRankPanel();
@@ -4053,6 +4439,7 @@
         if (e.key !== "Escape") return;
         if (window.hfaPlay?.onEscape?.()) return;
         if (window.hfaCharts?.onEscape?.()) return;
+        if (window.hfaIlActivity?.onEscape?.()) return;
         if (document.getElementById("feedback-modal")?.classList.contains("open")) {
           closeFeedbackModal();
           return;
@@ -4244,6 +4631,17 @@
           isReportOpen: () => reportOpen,
           clearExclusiveTools,
           reduceMotion,
+        });
+      }
+      if (typeof initIlActivity === "function") {
+        window.hfaIlActivity = initIlActivity({
+          t,
+          getLang: () => lang,
+          clearExclusiveTools,
+          closeMetricsDrawer,
+          isDrawerOpen: () => drawerOpen,
+          closeReport,
+          isReportOpen: () => reportOpen,
         });
       }
       bootFromUrl(bootParams);

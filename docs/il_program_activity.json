@@ -1,0 +1,1530 @@
+{
+  "IL": {
+    "hfa_name": "Illinois Housing Development Authority",
+    "hfa_abbr": "IHDA",
+    "fiscal_year": "FY2025",
+    "source_title": "Report of Activities for FY 2025 and Projected Activities for FY 2026",
+    "source_url": "https://www.ihda.org/wp-content/uploads/2026/03/FY-2025_IHDA_Report-of-Activities.pdf",
+    "source_file": "IL_IHDA_ReportOfActivities_FY2025.pdf",
+    "retrieved": "2026-08-11",
+    "categories": [
+      {
+        "key": "multifamily_new_preserve",
+        "unit_type": "units",
+        "fy2025_actual": 5932,
+        "fy2025_source_quote": "In FY 2025, the Authority financed $291,988,754 in state and federal resources, paired with 88,757,727 in state and federal tax credits for the creation and/or preservation of 5,932 multifamily and single-family housing units in Illinois.",
+        "fy2025_amounts": [
+          {
+            "label_key": "il_amt_cash_resources",
+            "amount": 291988754
+          },
+          {
+            "label_key": "il_amt_tax_credits",
+            "amount": 88757727
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "il_fy26_note_multifamily"
+        },
+        "subprograms": [
+          {
+            "key": "bonds",
+            "fy2025_units": 909,
+            "fy2025_amount": 127551000,
+            "color_group": "bond",
+            "fy2026": {
+              "value": 2132,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_bonds_fy26_note"
+            }
+          },
+          {
+            "key": "lihtc_9",
+            "fy2025_units": 1173,
+            "fy2025_amount": 33794999,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_lihtc9_fy26_note"
+            }
+          },
+          {
+            "key": "lihtc_4",
+            "fy2025_units": 1593,
+            "fy2025_amount": 23558654,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_lihtc4_fy26_note"
+            }
+          },
+          {
+            "key": "iahtc",
+            "fy2025_units": 902,
+            "fy2025_amount": 31404074,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": 38028389,
+              "closed": false,
+              "note_key": "il_iahtc_fy26_note"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": 452,
+            "fy2025_amount": 43145393,
+            "color_group": "trust",
+            "fy2026": {
+              "value": null,
+              "amount": 15500000,
+              "closed": false,
+              "note_key": "il_home_fy26_note"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": 101,
+            "fy2025_amount": 21234706,
+            "color_group": "trust",
+            "fy2026": {
+              "value": null,
+              "amount": 6000000,
+              "closed": false,
+              "note_key": "il_nhtf_fy26_note"
+            }
+          },
+          {
+            "key": "trust_fund",
+            "fy2025_units": 736,
+            "fy2025_amount": 37172268,
+            "color_group": "trust",
+            "fy2026": {
+              "value": null,
+              "amount": 55000000,
+              "closed": false,
+              "note_key": "il_trustfund_fy26_note"
+            }
+          },
+          {
+            "key": "capital_bill",
+            "fy2025_units": 30,
+            "fy2025_amount": 8425000,
+            "color_group": "capital",
+            "fy2026": {
+              "value": 80,
+              "amount": 40000000,
+              "closed": false,
+              "note_key": "il_capitalbill_fy26_note"
+            }
+          },
+          {
+            "key": "other_multifamily",
+            "fy2025_units": 557,
+            "fy2025_amount": 38460387,
+            "color_group": "capital",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_othermf_fy26_note"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_loans",
+        "unit_type": "households",
+        "fy2025_actual": 4915,
+        "fy2025_source_quote": "Under its homeownership programs, IHDA financed $971,134,438 in first mortgage purchases for 4,915 loans, paired with $52,319,641 in second mortgages for down payment and/or closing cost assistance for 4,911 homebuyers.",
+        "fy2025_amounts": [
+          {
+            "label_key": "il_amt_first_mortgage",
+            "amount": 971134438
+          },
+          {
+            "label_key": "il_amt_second_mortgage",
+            "amount": 52319641
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": 42382181,
+          "closed": false,
+          "note_key": "il_fy26_note_homebuyer"
+        },
+        "subprograms": [
+          {
+            "key": "access_4",
+            "fy2025_units": 939,
+            "fy2025_amount": 148094760,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": 7439400,
+              "closed": false,
+              "note_key": "il_access4_fy26_note"
+            }
+          },
+          {
+            "key": "access_5",
+            "fy2025_units": 1705,
+            "fy2025_amount": 356672834,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": 14736281,
+              "closed": false,
+              "note_key": "il_access5_fy26_note"
+            }
+          },
+          {
+            "key": "access_10",
+            "fy2025_units": 1729,
+            "fy2025_amount": 342707251,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": 20206500,
+              "closed": false,
+              "note_key": "il_access10_fy26_note"
+            }
+          },
+          {
+            "key": "smartbuy",
+            "fy2025_units": 542,
+            "fy2025_amount": 123659593,
+            "color_group": "credit",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": true,
+              "note_key": "il_smartbuy_fy26_note"
+            }
+          }
+        ]
+      },
+      {
+        "key": "repair_counseling",
+        "unit_type": "households",
+        "fy2025_actual": 9324,
+        "fy2025_source_quote": "HRAP 251 households + HAFHR 126 properties + CCMFMP 146 households + HCRP 8,801 households counseled (Section I.B.1, I.B.2, I.E.1, I.E.2).",
+        "fy2025_amounts": [
+          {
+            "label_key": "il_amt_disbursed",
+            "amount": 17454175
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": 15086,
+          "amount": null,
+          "closed": false,
+          "note_key": "il_fy26_note_repair"
+        },
+        "subprograms": [
+          {
+            "key": "hrap",
+            "fy2025_units": 251,
+            "fy2025_amount": 8778134,
+            "color_group": "amber",
+            "fy2026": {
+              "value": 181,
+              "amount": 6300000,
+              "closed": false,
+              "note_key": "il_hrap_fy26_note"
+            }
+          },
+          {
+            "key": "hafhr",
+            "fy2025_units": 126,
+            "fy2025_amount": 6860258,
+            "color_group": "amber",
+            "fy2026": {
+              "value": 184,
+              "amount": 10000000,
+              "closed": false,
+              "note_key": "il_hafhr_fy26_note"
+            }
+          },
+          {
+            "key": "ccmfmp",
+            "fy2025_units": 146,
+            "fy2025_amount": 37400,
+            "color_group": "amber",
+            "fy2026": {
+              "value": 121,
+              "amount": 50000,
+              "closed": false,
+              "note_key": "il_ccmfmp_fy26_note"
+            }
+          },
+          {
+            "key": "hcrp",
+            "fy2025_units": 8801,
+            "fy2025_amount": 1778383,
+            "color_group": "amber",
+            "fy2026": {
+              "value": 14600,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_hcrp_fy26_note"
+            }
+          }
+        ]
+      },
+      {
+        "key": "covid_emergency",
+        "unit_type": "households",
+        "fy2025_actual": 7720,
+        "fy2025_source_quote": "Additionally, the Authority financed three COVID-19 emergency rental and mortgage assistance programs which disbursed approximately $64,212,255 to 7,720 approved applicants.",
+        "fy2025_amounts": [
+          {
+            "label_key": "il_amt_disbursed",
+            "amount": 64212255
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": 6500,
+          "amount": 50000000,
+          "closed": false,
+          "note_key": "il_fy26_note_covid"
+        },
+        "subprograms": [
+          {
+            "key": "ilhaf2",
+            "fy2025_units": 35,
+            "fy2025_amount": 451201,
+            "color_group": "rose",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": true,
+              "note_key": "il_ilhaf2_fy26_note"
+            }
+          },
+          {
+            "key": "state_cbrap",
+            "fy2025_units": 7683,
+            "fy2025_amount": 63749173,
+            "color_group": "rose",
+            "fy2026": {
+              "value": 6500,
+              "amount": 50000000,
+              "closed": false,
+              "note_key": "il_cbrap_fy26_note"
+            }
+          },
+          {
+            "key": "aserap",
+            "fy2025_units": 2,
+            "fy2025_amount": 11881,
+            "color_group": "rose",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": true,
+              "note_key": "il_aserap_fy26_note"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "buena-vista-apartments",
+        "name": "Buena Vista Apartments",
+        "address": "1285 Fleetwood Dr",
+        "city": "Elgin",
+        "lat": 42.02081,
+        "lon": -88.31258,
+        "units": 231,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "bonds": 43083000,
+          "lihtc_4": 25865267
+        },
+        "total_amount": 68948267,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "leyden-apartments",
+        "name": "Leyden Apartments",
+        "address": "2506-2516 N Mannheim Rd",
+        "city": "Franklin Park",
+        "lat": 41.94214,
+        "lon": -87.88514,
+        "units": 80,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4",
+          "home",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "bonds": 1960000,
+          "lihtc_4": 13314343,
+          "home": 5982876,
+          "iahtc": 851163
+        },
+        "total_amount": 22108382,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "ravine-terrace",
+        "name": "Ravine Terrace",
+        "address": "200 S Martin Luther King Jr Ave",
+        "city": "Waukegan",
+        "lat": 42.35607,
+        "lon": -87.83406,
+        "units": 98,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "bonds": 32500000,
+          "lihtc_4": 24573992,
+          "iahtc": 6700000
+        },
+        "total_amount": 63773992,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-villager-&-briarwood-west",
+        "name": "The Villager & Briarwood West",
+        "address": "77 S Williams St",
+        "city": "Crystal Lake",
+        "lat": 42.23896,
+        "lon": -88.31877,
+        "units": 116,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "bonds": 15150000,
+          "lihtc_4": 9354119
+        },
+        "total_amount": 24504119,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "walden-oaks",
+        "name": "Walden Oaks",
+        "address": "1155 Walden Oaks Dr",
+        "city": "Woodstock",
+        "lat": 42.30461,
+        "lon": -88.43733,
+        "units": 191,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "bonds": 13173000,
+          "lihtc_4": 12111191,
+          "trust_fund": 3262000
+        },
+        "total_amount": 28546191,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "willa-rawls-manor",
+        "name": "Willa Rawls Manor",
+        "address": "4120 S Indiana Ave",
+        "city": "Chicago",
+        "lat": 41.81975,
+        "lon": -87.62192,
+        "units": 123,
+        "funding_sources": [
+          "bonds",
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "bonds": 19840000,
+          "lihtc_4": 15957065
+        },
+        "total_amount": 35797065,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "casa-yucatan",
+        "name": "Casa Yucatan",
+        "address": "2136 S Ashland Ave",
+        "city": "Chicago",
+        "lat": 41.85381,
+        "lon": -87.66615,
+        "units": 70,
+        "funding_sources": [
+          "bonds",
+          "lihtc_9",
+          "lihtc_4",
+          "home",
+          "trust_fund",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "bonds": 1845000,
+          "lihtc_9": 13403538,
+          "lihtc_4": 12975000,
+          "home": 10252671,
+          "trust_fund": 1880000,
+          "other_multifamily": 3680123
+        },
+        "total_amount": 44036332,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "access-south-cook",
+        "name": "Access South Cook",
+        "address": "364 S Orchard Dr",
+        "city": "Park Forest",
+        "lat": 41.47103,
+        "lon": -87.68392,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_9",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12598740,
+          "nhtf": 5977130
+        },
+        "total_amount": 18575870,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "addison-horizon-senior-living-community",
+        "name": "Addison Horizon Senior Living Community",
+        "address": "150 Green Meadow Dr",
+        "city": "Addison",
+        "lat": 41.93562,
+        "lon": -87.99161,
+        "units": 62,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13573643,
+          "other_multifamily": 3441000
+        },
+        "total_amount": 17014643,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "bristol-place-senior-residences",
+        "name": "Bristol Place Senior Residences",
+        "address": "121 Tower St",
+        "city": "Champaign",
+        "lat": 40.13018,
+        "lon": -88.23716,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 11998800,
+          "other_multifamily": 2800000
+        },
+        "total_amount": 14798800,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "churchview-garden-homes",
+        "name": "Churchview Garden Homes",
+        "address": "909 S Sumner Ave",
+        "city": "Peoria",
+        "lat": 40.67915,
+        "lon": -89.61612,
+        "units": 47,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13198680,
+          "home": 3107076
+        },
+        "total_amount": 16305756,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "earle-school-family-residences",
+        "name": "Earle School Family Residences",
+        "address": "1711 W 61st St",
+        "city": "Chicago",
+        "lat": 41.78299,
+        "lon": -87.66721,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13798620,
+          "other_multifamily": 3253959
+        },
+        "total_amount": 17052579,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "eve-b-lee-place",
+        "name": "Eve B. Lee Place",
+        "address": "500 Peterson Rd",
+        "city": "Libertyville",
+        "lat": 42.30588,
+        "lon": -87.9703,
+        "units": 34,
+        "funding_sources": [
+          "lihtc_9",
+          "iahtc",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12537741,
+          "iahtc": 343331,
+          "other_multifamily": 4924000
+        },
+        "total_amount": 17805072,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "fox-hill-senior-living",
+        "name": "Fox Hill Senior Living",
+        "address": "1536 Sycamore Rd",
+        "city": "Yorkville",
+        "lat": 41.66035,
+        "lon": -88.47315,
+        "units": 48,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13725000,
+          "home": 4252697
+        },
+        "total_amount": 17977697,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "giffords-crossing",
+        "name": "Gifford's Crossing",
+        "address": "36W380 Big Timber Rd",
+        "city": "Elgin",
+        "lat": 42.03726,
+        "lon": -88.2811,
+        "units": 36,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13537676,
+          "home": 7085728
+        },
+        "total_amount": 20623404,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hillside-senior-apartments",
+        "name": "Hillside Senior Apartments",
+        "address": "5207 Ridge Ave",
+        "city": "Hillside",
+        "lat": 41.88098,
+        "lon": -87.91194,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9",
+          "home",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13260030,
+          "home": 1700000,
+          "iahtc": 517500
+        },
+        "total_amount": 15477530,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "humboldt-park-passive-living",
+        "name": "Humboldt Park Passive Living",
+        "address": "3831 W Chicago Ave",
+        "city": "Chicago",
+        "lat": 41.89532,
+        "lon": -87.7221,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "lihtc_9": 14098500
+        },
+        "total_amount": 14098500,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lincoln-senior-flats",
+        "name": "Lincoln Senior Flats",
+        "address": "1405 Castle Manor Dr",
+        "city": "Lincoln",
+        "lat": 40.14813,
+        "lon": -89.36366,
+        "units": 57,
+        "funding_sources": [
+          "lihtc_9",
+          "trust_fund",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12139225,
+          "trust_fund": 670000,
+          "other_multifamily": 3338365
+        },
+        "total_amount": 16147590,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mchenry-senior-commons",
+        "name": "McHenry Senior Commons",
+        "address": "3717 Municipal Dr",
+        "city": "McHenry",
+        "lat": 42.32306,
+        "lon": -88.27044,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_9": 16862315,
+          "iahtc": 209500
+        },
+        "total_amount": 17071815,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "north-bend-fairview-heights-residences",
+        "name": "North Bend Fairview Heights Residences",
+        "address": "301 N Monticello Pl",
+        "city": "Fairview Heights",
+        "lat": 38.59416,
+        "lon": -89.97085,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13198680,
+          "other_multifamily": 2842107
+        },
+        "total_amount": 16040787,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "oc-living-phase-a-2",
+        "name": "OC Living Phase A-2",
+        "address": "1301 S Washtenaw Ave",
+        "city": "Chicago",
+        "lat": 41.86484,
+        "lon": -87.69325,
+        "units": 75,
+        "funding_sources": [
+          "lihtc_9",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_9": 14623540,
+          "iahtc": 525000
+        },
+        "total_amount": 15148540,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "parker-glen-ii",
+        "name": "Parker Glen II",
+        "address": "2617 JT Coffman Dr",
+        "city": "Champaign",
+        "lat": 40.11648,
+        "lon": -88.24309,
+        "units": 56,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12346169,
+          "home": 2714096
+        },
+        "total_amount": 15060265,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "poupard-place",
+        "name": "Poupard Place",
+        "address": "1657 Shermer Rd",
+        "city": "Northbrook",
+        "lat": 42.12282,
+        "lon": -87.82916,
+        "units": 48,
+        "funding_sources": [
+          "lihtc_9",
+          "iahtc",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13648635,
+          "iahtc": 1135000,
+          "trust_fund": 3690000
+        },
+        "total_amount": 18473635,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "rimini-place",
+        "name": "Rimini Place",
+        "address": "600 Rimini Dr",
+        "city": "Virden",
+        "lat": 39.50197,
+        "lon": -89.75957,
+        "units": 28,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 7755288,
+          "other_multifamily": 2394470
+        },
+        "total_amount": 10149758,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "starling-senior-apartments",
+        "name": "Starling Senior Apartments",
+        "address": "0 Deep Lake Rd",
+        "city": "Lake Villa",
+        "lat": 42.43843,
+        "lon": -88.06257,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13648499,
+          "other_multifamily": 3953000
+        },
+        "total_amount": 17601499,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "steer-place-apartments",
+        "name": "Steer Place Apartments",
+        "address": "1202 E Harding Dr",
+        "city": "Urbana",
+        "lat": 40.09418,
+        "lon": -88.19363,
+        "units": 108,
+        "funding_sources": [
+          "lihtc_9",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12336266,
+          "iahtc": 3190000
+        },
+        "total_amount": 15526266,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "stevens-apartments",
+        "name": "Stevens Apartments",
+        "address": "118 N Haller St",
+        "city": "Wood River",
+        "lat": 38.86204,
+        "lon": -90.1001,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 10510060,
+          "other_multifamily": 4063608
+        },
+        "total_amount": 14573668,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "taylor-place-apartments",
+        "name": "Taylor Place Apartments",
+        "address": "4103 W Crystal Lake Rd",
+        "city": "McHenry",
+        "lat": 42.34371,
+        "lon": -88.27845,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_9",
+          "other_multifamily"
+        ],
+        "source_amounts": {
+          "lihtc_9": 13648635,
+          "other_multifamily": 3769755
+        },
+        "total_amount": 17418390,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "timber-trails-apartments",
+        "name": "Timber Trails Apartments",
+        "address": "50 Small St",
+        "city": "Harrisburg",
+        "lat": 37.74629,
+        "lon": -88.52604,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9": 12131248,
+          "home": 3686963
+        },
+        "total_amount": 15818211,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "brainerd-senior-preservation",
+        "name": "Brainerd Senior Preservation",
+        "address": "8915 S Loomis St",
+        "city": "Chicago",
+        "lat": 41.73159,
+        "lon": -87.65797,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_4",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4": 8433162,
+          "trust_fund": 2610000
+        },
+        "total_amount": 11043162,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "deerfield-supportive-living",
+        "name": "Deerfield Supportive Living",
+        "address": "1101 Lake Cook Rd",
+        "city": "Deerfield",
+        "lat": 42.15295,
+        "lon": -87.85468,
+        "units": 147,
+        "funding_sources": [
+          "lihtc_4",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_4": 22872963,
+          "iahtc": 3550000
+        },
+        "total_amount": 26422963,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "heart-of-uptown-apartments",
+        "name": "Heart of Uptown Apartments",
+        "address": "Multiple Addresses",
+        "city": "Chicago",
+        "lat": 41.87556,
+        "lon": -87.62442,
+        "units": 103,
+        "funding_sources": [
+          "lihtc_4",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4": 20693524,
+          "trust_fund": 1772500
+        },
+        "total_amount": 22466024,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lincoln-terrace",
+        "name": "Lincoln Terrace",
+        "address": "2825 W Ann St",
+        "city": "Peoria",
+        "lat": 40.67972,
+        "lon": -89.63767,
+        "units": 92,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 13218121
+        },
+        "total_amount": 13218121,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lincoln-towers-bloomington-&-downtowner",
+        "name": "Lincoln Towers Bloomington & Downtowner",
+        "address": "109 W Market St",
+        "city": "Bloomington",
+        "lat": 40.48257,
+        "lon": -88.99455,
+        "units": 137,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 13678620
+        },
+        "total_amount": 13678620,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lincoln-towers-freeport",
+        "name": "Lincoln Towers Freeport",
+        "address": "320 N Harlem Ave",
+        "city": "Freeport",
+        "lat": 42.30031,
+        "lon": -89.6402,
+        "units": 101,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 6370360
+        },
+        "total_amount": 6370360,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "new-holland-apartments",
+        "name": "New Holland Apartments",
+        "address": "324 N Vermilion St",
+        "city": "Danville",
+        "lat": 40.12942,
+        "lon": -87.63011,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_4",
+          "trust_fund",
+          "iahtc"
+        ],
+        "source_amounts": {
+          "lihtc_4": 5248065,
+          "trust_fund": 4776000,
+          "iahtc": 827500
+        },
+        "total_amount": 10851565,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "building-communities-2024",
+        "name": "Building Communities 2024",
+        "address": "2004 Herbert Dr",
+        "city": "Waukegan",
+        "lat": 42.41482,
+        "lon": -87.8582,
+        "units": 5,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 539076
+        },
+        "total_amount": 539076,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "eap-phase-xii",
+        "name": "EAP Phase XII",
+        "address": "Scattered Site",
+        "city": "Rock Island",
+        "lat": 41.44118,
+        "lon": -90.57661,
+        "units": 0,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 560000
+        },
+        "total_amount": 560000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "evanston-community-land-trust",
+        "name": "Evanston Community Land Trust",
+        "address": "1808 Hovland Ct",
+        "city": "Evanston",
+        "lat": 42.05058,
+        "lon": -87.70155,
+        "units": 1,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 205000
+        },
+        "total_amount": 205000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "expansion-of-hope",
+        "name": "Expansion of Hope",
+        "address": "1308 Sunset Dr",
+        "city": "Rantoul",
+        "lat": 40.30892,
+        "lon": -88.14022,
+        "units": 8,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 903250
+        },
+        "total_amount": 903250,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "forest-downs",
+        "name": "Forest Downs",
+        "address": null,
+        "city": "Harvard",
+        "lat": 42.42224,
+        "lon": -88.61371,
+        "units": 4,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 314646
+        },
+        "total_amount": 314646,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "garden-apartments",
+        "name": "Garden Apartments",
+        "address": "7019 W Crandall Ave",
+        "city": "Worth",
+        "lat": 41.69097,
+        "lon": -87.79356,
+        "units": 16,
+        "funding_sources": [
+          "iahtc",
+          "nhtf",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "iahtc": 118500,
+          "nhtf": 4172968,
+          "trust_fund": 3674951
+        },
+        "total_amount": 7966419,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "hodc-lcha-preservation",
+        "name": "HODC LCHA Preservation",
+        "address": "212 E IL Route 22",
+        "city": "Lake Zurich",
+        "lat": 42.19697,
+        "lon": -88.09341,
+        "units": 10,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 294800
+        },
+        "total_amount": 294800,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "parkside-phase-iii",
+        "name": "Parkside Phase III",
+        "address": "500-520 W Hobbie St",
+        "city": "Chicago",
+        "lat": 41.90116,
+        "lon": -87.64535,
+        "units": 99,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 5450000
+        },
+        "total_amount": 5450000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "providing-stable-foundations-2025",
+        "name": "Providing Stable Foundations 2025",
+        "address": "825 Pleasant St",
+        "city": "DeKalb",
+        "lat": 41.933,
+        "lon": -88.7428,
+        "units": 1,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 276486
+        },
+        "total_amount": 276486,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "reclaiming-chicago",
+        "name": "Reclaiming Chicago",
+        "address": "Scattered Sites",
+        "city": "Chicago",
+        "lat": 41.87556,
+        "lon": -87.62442,
+        "units": 25,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "unlocking-doors-2024",
+        "name": "Unlocking Doors 2024",
+        "address": "733 Eletson Dr",
+        "city": "Crystal Lake",
+        "lat": 42.22088,
+        "lon": -88.3352,
+        "units": 3,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 231971
+        },
+        "total_amount": 231971,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "woodland-court",
+        "name": "Woodland Court",
+        "address": "Main St and Woodland Ct",
+        "city": "West Chicago",
+        "lat": 41.88475,
+        "lon": -88.20396,
+        "units": 14,
+        "funding_sources": [
+          "iahtc"
+        ],
+        "source_amounts": {
+          "iahtc": 2161351
+        },
+        "total_amount": 2161351,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hamlin-avenue-apartments",
+        "name": "Hamlin Avenue Apartments",
+        "address": "12000 S Hamlin Ave",
+        "city": "Alsip",
+        "lat": 41.67487,
+        "lon": -87.715,
+        "units": 25,
+        "funding_sources": [
+          "nhtf",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "nhtf": 7650720,
+          "trust_fund": 4211150
+        },
+        "total_amount": 11861870,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "vivians-village-psh",
+        "name": "Vivian's Village PSH",
+        "address": "5708 Bond Ave",
+        "city": "Cahokia Heights",
+        "lat": 38.57045,
+        "lon": -90.19132,
+        "units": 16,
+        "funding_sources": [
+          "nhtf",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "nhtf": 3433888,
+          "trust_fund": 1516112
+        },
+        "total_amount": 4950000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "1237-n-california-avenue-family-apartments",
+        "name": "1237 N California Avenue Family Apartments",
+        "address": "1237 N California Ave",
+        "city": "Chicago",
+        "lat": 41.90405,
+        "lon": -87.6965,
+        "units": 40,
+        "funding_sources": [
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "trust_fund": 2978954
+        },
+        "total_amount": 2978954,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "sacred-apts",
+        "name": "Sacred Apts",
+        "address": "3211-3227 E 92nd St",
+        "city": "Chicago",
+        "lat": 41.87556,
+        "lon": -87.62442,
+        "units": 81,
+        "funding_sources": [
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "trust_fund": 4019153
+        },
+        "total_amount": 4019153,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mason-street-apartments",
+        "name": "Mason Street Apartments",
+        "address": "229 W Mason St",
+        "city": "Springfield",
+        "lat": 39.8054,
+        "lon": -89.65737,
+        "units": 23,
+        "funding_sources": [
+          "home",
+          "trust_fund"
+        ],
+        "source_amounts": {
+          "home": 4363286,
+          "trust_fund": 2111448
+        },
+        "total_amount": 6474734,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "ciic-empowerment-estates-site-2",
+        "name": "CIIC Empowerment Estates Site 2",
+        "address": "214 Gale St",
+        "city": "Aurora",
+        "lat": 41.75531,
+        "lon": -88.3252,
+        "units": 1,
+        "funding_sources": [
+          "capital_bill"
+        ],
+        "source_amounts": {
+          "capital_bill": 475000
+        },
+        "total_amount": 475000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "southwest-reentry-expansion",
+        "name": "Southwest Reentry Expansion",
+        "address": null,
+        "city": "Chicago Ridge",
+        "lat": 41.70142,
+        "lon": -87.77922,
+        "units": 4,
+        "funding_sources": [
+          "capital_bill"
+        ],
+        "source_amounts": {
+          "capital_bill": 475000
+        },
+        "total_amount": 475000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "ywca-justice-project-2",
+        "name": "YWCA Justice Project 2",
+        "address": "428 Maine St",
+        "city": "Quincy",
+        "lat": 39.93183,
+        "lon": -91.40953,
+        "units": 1,
+        "funding_sources": [
+          "capital_bill"
+        ],
+        "source_amounts": {
+          "capital_bill": 475000
+        },
+        "total_amount": 475000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "hope-village",
+        "name": "Hope Village",
+        "address": "1799 Federal Dr",
+        "city": "Urbana",
+        "lat": 40.13249,
+        "lon": -88.2264,
+        "units": 24,
+        "funding_sources": [
+          "capital_bill"
+        ],
+        "source_amounts": {
+          "capital_bill": 7000000
+        },
+        "total_amount": 7000000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "ok"
+      }
+    ]
+  }
+}
