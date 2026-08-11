@@ -1868,7 +1868,7 @@ def main() -> None:
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "sources": {
-            "hfa_financials": "FY2024/FY2025 State Housing Finance Authority ACFR reports",
+            "hfa_financials": "FY2024/FY2025 State Housing Finance Authority audited financial reports",
             "hfa_staff_acfr": "HFA ACFR full-time employee/FTE disclosures when reported",
             "hfa_staff_linkedin": "LinkedIn company pages (HFA staff counts when not in ACFR)",
             "hfa_staff_other": "Agency websites and state budget sources (hfa_staff_counts.json)",
