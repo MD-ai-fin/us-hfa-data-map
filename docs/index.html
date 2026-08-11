@@ -1187,6 +1187,10 @@
       color: #fbbf24;
       font-size: 0.72rem;
     }
+    .il-fund-flag {
+      cursor: help;
+      font-size: 0.72rem;
+    }
     .il-chip-note {
       font-size: 0.66rem;
       color: var(--muted);
@@ -1230,7 +1234,8 @@
     }
     .il-legend-units {
       display: flex;
-      gap: 1rem;
+      flex-wrap: wrap;
+      gap: 0.3rem 1rem;
       font-size: 0.7rem;
       color: var(--muted);
       margin-top: 0.3rem;
@@ -1927,6 +1932,12 @@
         il_amt_second_mortgage: "二笔贷款（首付/过户费援助）",
         il_amt_disbursed: "已发放金额",
         ilFy2026AmountLabel: "FY2026 预测金额",
+        ilFundLegend: "资金性质：",
+        ilFundGovernmental: "政府性基金（州/联邦拨款或转付）",
+        ilFundProprietary: "企业性基金（自营发债/自负盈亏）",
+        ilFundOffBalance: "不在IHDA自身资产负债表内（仅代理分配税收抵免）",
+        ilFundMixed: "视具体项目而定，可能混用政府性/企业性基金",
+        ilFundNameLabel: "对应基金",
         closePlay: "关闭",
         reportBtn: "FY2025 综合分析报告",
         reportTitle: "FY2025 美国州级住房金融机构综合年报与财务报表分析",
@@ -2091,6 +2102,12 @@
         il_amt_second_mortgage: "Second mortgages (down payment/closing cost assistance)",
         il_amt_disbursed: "Disbursed",
         ilFy2026AmountLabel: "FY2026 projected amount",
+        ilFundLegend: "Fund type:",
+        ilFundGovernmental: "Governmental fund (state/federal appropriation or pass-through)",
+        ilFundProprietary: "Proprietary/enterprise fund (self-supporting, bond-financed)",
+        ilFundOffBalance: "Not on IHDA's own balance sheet (tax-credit allocation only)",
+        ilFundMixed: "Draws from a mix of governmental and proprietary funds depending on the deal",
+        ilFundNameLabel: "Fund",
         closePlay: "Close",
         reportBtn: "FY2025 Analysis Report",
         reportTitle: "FY2025 U.S. State HFA ACFR and Financial Statement Analysis",
@@ -2255,6 +2272,12 @@
         il_amt_second_mortgage: "Segundas hipotecas (asistencia para pago inicial/costos de cierre)",
         il_amt_disbursed: "Desembolsado",
         ilFy2026AmountLabel: "Monto proyectado FY2026",
+        ilFundLegend: "Tipo de fondo:",
+        ilFundGovernmental: "Fondo gubernamental (asignación estatal/federal o de transferencia)",
+        ilFundProprietary: "Fondo propietario/empresarial (autosostenible, financiado con bonos)",
+        ilFundOffBalance: "No figura en el balance propio de IHDA (solo asignación de créditos fiscales)",
+        ilFundMixed: "Combina fondos gubernamentales y propietarios según el proyecto",
+        ilFundNameLabel: "Fondo",
         closePlay: "Cerrar",
         reportBtn: "Informe de análisis FY2025",
         reportTitle: "Análisis del ACFR y los estados financieros de las HFA estatales de EE. UU. — FY2025",
@@ -2419,6 +2442,12 @@
         il_amt_second_mortgage: "Drugie kredyty hipoteczne (pomoc na wkład własny/koszty zamknięcia)",
         il_amt_disbursed: "Wypłacono",
         ilFy2026AmountLabel: "Prognozowana kwota FY2026",
+        ilFundLegend: "Rodzaj funduszu:",
+        ilFundGovernmental: "Fundusz rządowy (środki stanowe/federalne lub przekazywane dalej)",
+        ilFundProprietary: "Fundusz własny/przedsiębiorstwa (samofinansujący się, finansowany obligacjami)",
+        ilFundOffBalance: "Nie figuruje w bilansie IHDA (wyłącznie administrowanie ulgami podatkowymi)",
+        ilFundMixed: "W zależności od projektu łączy fundusze rządowe i własne",
+        ilFundNameLabel: "Fundusz",
         closePlay: "Zamknij",
         reportBtn: "Raport analityczny FY2025",
         reportTitle: "Analiza ACFR i sprawozdań finansowych stanowych HFA w USA — FY2025",

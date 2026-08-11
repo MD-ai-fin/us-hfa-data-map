@@ -36,8 +36,27 @@
       covid_emergency: "🆘",
     };
     const UNIT_ICON = { units: "🏠", households: "🧑" };
+    // GASB fund-type classification, sourced from IHDA's own FY2025 ACFR
+    // (Note 2 + the nonmajor governmental funds combining schedule), not
+    // from the Report of Activities -- see build_il_program_activity.py's
+    // module docstring for the full methodology and page citations.
+    const FUND_TYPE_ICON = {
+      governmental: "🏛️", proprietary: "🏢", off_balance_sheet: "🧾", mixed: "🔀",
+    };
+    const FUND_TYPE_LABEL_KEY = {
+      governmental: "ilFundGovernmental", proprietary: "ilFundProprietary",
+      off_balance_sheet: "ilFundOffBalance", mixed: "ilFundMixed",
+    };
 
     function $(id) { return document.getElementById(id); }
+
+    function fundTypeBadge(sp) {
+      if (!sp.fund_type) return "";
+      const icon = FUND_TYPE_ICON[sp.fund_type] || "";
+      let tip = t(FUND_TYPE_LABEL_KEY[sp.fund_type] || "");
+      if (sp.fund_name) tip += ` — ${t("ilFundNameLabel")}: ${sp.fund_name}`;
+      return `<span class="il-fund-flag" tabindex="0" title="${escapeHtml(tip)}">${icon}</span>`;
+    }
 
     function escapeHtml(str) {
       return String(str).replace(/[&<>"']/g, c => ({
@@ -139,7 +158,7 @@
         const legend = cat.subprograms.map((sp, i) => {
           const f = n > 1 ? 1 - (i / (n - 1)) * 0.55 : 1;
           const amt = fmtUsd(sp.fy2025_amount);
-          return `<span class="il-sub-chip"><span class="il-dot" style="background:${shade(base, f)}"></span>${escapeHtml(t(`ilSub_${sp.key}`))} ${fmtNum(sp.fy2025_units)}${amt ? " · " + amt : ""}</span>`;
+          return `<span class="il-sub-chip"><span class="il-dot" style="background:${shade(base, f)}"></span>${escapeHtml(t(`ilSub_${sp.key}`))} ${fmtNum(sp.fy2025_units)}${amt ? " · " + amt : ""}${fundTypeBadge(sp)}</span>`;
         }).join("");
         subHtml = `<div class="il-stack-track">${segs}</div><div class="il-sub-legend">${legend}</div>`;
       } else {
@@ -153,7 +172,7 @@
           }
           const hex = COLOR_GROUP_HEX[sp.color_group] || "#94a3b8";
           const amt = fmtUsd(sp.fy2025_amount);
-          return `<span class="il-ref-chip"><span class="il-dot" style="background:${hex}"></span>${escapeHtml(t(`ilSub_${sp.key}`))} ${fmtNum(sp.fy2025_units)} ${uIcon}${amt ? " · " + amt : ""}${warn}</span>`;
+          return `<span class="il-ref-chip"><span class="il-dot" style="background:${hex}"></span>${escapeHtml(t(`ilSub_${sp.key}`))} ${fmtNum(sp.fy2025_units)} ${uIcon}${amt ? " · " + amt : ""}${fundTypeBadge(sp)}${warn}</span>`;
         }).join("");
         subHtml = `<div class="il-chip-row">${chips}</div><p class="il-chip-note">${escapeHtml(t("ilNotAdditiveNote"))}</p>`;
       }
@@ -243,9 +262,17 @@
         .replace("{title}", escapeHtml(data.source_title || ""))
         .replace("{fy}", escapeHtml(data.fiscal_year || ""))
         .replace("{retrieved}", escapeHtml(retrieved));
+      const fundLegend = `<div class="il-legend-units">
+        <span>${escapeHtml(t("ilFundLegend"))}</span>
+        <span>${FUND_TYPE_ICON.governmental} ${escapeHtml(t("ilFundGovernmental"))}</span>
+        <span>${FUND_TYPE_ICON.proprietary} ${escapeHtml(t("ilFundProprietary"))}</span>
+        <span>${FUND_TYPE_ICON.off_balance_sheet} ${escapeHtml(t("ilFundOffBalance"))}</span>
+        <span>${FUND_TYPE_ICON.mixed} ${escapeHtml(t("ilFundMixed"))}</span>
+      </div>`;
       body.innerHTML = `
         <div class="il-kpi-grid">${cards}</div>
         <div class="il-legend-units"><span>${escapeHtml(t("ilUnitsLegend"))}</span><span>${escapeHtml(t("ilHouseholdsLegend"))}</span></div>
+        ${fundLegend}
         <div class="il-section-title">${escapeHtml(t("ilMapTitle"))}</div>
         <div class="il-map-wrap"><div id="il-bubble-map"></div>${mapLegend}</div>
         <p class="il-footnote">${sourceNote}<br><a href="${data.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(data.source_file || data.source_url)}</a></p>

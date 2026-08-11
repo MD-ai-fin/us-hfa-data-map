@@ -27,6 +27,42 @@ NOT have this problem (each loan/household belongs to exactly one
 subprogram), which is why their subprograms are additive and Category 1's
 are not -- see each category's "additive" flag below.
 
+Fund-type classification (fund_type/fund_name on each subprogram) comes from
+a SEPARATE source document -- IHDA's own FY2025 audited financial statements
+(FY2025/pdf/IL_IHDA_FY2025_ACFR.pdf), Note 2 "Summary of Significant
+Accounting Policies" (pages 43-45, naming the 7 major governmental funds and
+4 major proprietary/enterprise funds) and the Combining Balance Sheet --
+Nonmajor Governmental Funds (pages 100-101, naming the 14 smaller
+governmental funds). This is the Report of Activities' cousin document, not
+itself -- the Report of Activities never states which GASB fund type backs
+each program, so this mapping is done by matching each subprogram's own
+"funded by ..." language (already present in the Report of Activities' prose)
+against the ACFR's named funds:
+  - "governmental": a GASB governmental fund (modified-accrual, funded by
+    state appropriation, HUD/federal pass-through, or other grant revenue --
+    IHDA administers the money but doesn't carry entrepreneurial risk on it).
+  - "proprietary": one of IHDA's 4 GASB enterprise funds (full-accrual,
+    self-supporting through bond issuance and mortgage interest/fees).
+  - "off_balance_sheet": confirmed NOT to appear as a named fund anywhere in
+    the ACFR (checked against all 7 major governmental + 4 proprietary + 14
+    nonmajor governmental fund names) -- LIHTC and IAHTC are tax-credit
+    *allocation* programs where IHDA administers federal/state credits that
+    are issued directly to private developers/investors; the credit value
+    and syndication equity never sit on IHDA's own balance sheet as fund
+    assets, so neither GASB fund category applies.
+  - "mixed": the subprogram itself draws from more than one fund type
+    depending on the specific deal (documented per entry below).
+Confidence is high for names taken verbatim from the ACFR (Illinois
+Affordable Housing Trust Fund, HOME Program Fund, National Housing Trust
+Fund, Cook County Mortgage Foreclosure Mediation Program Fund, Housing
+Counseling Resource Program Fund, Illinois General Revenue Fund, COVID-19
+Homeowner Assistance Fund, Mortgage Loan Program Fund, Single Family Program
+Fund); lower (marked "inferred") where the Report of Activities' "funded by
+the Capital Bill" language was matched to the ACFR's "Build Illinois Bond
+Program Fund" without an exact program-name cross-reference in either
+document, or where a program (ASERAP) is DHS-administered and never appears
+as an IHDA-carried fund at all in the ACFR.
+
 Category-1 project-level detail (used only for the geographic bubble map)
 was manually transcribed from Appendix II's closing-report exhibits
 (Exhibits XIV, XV, XVI, XVII, XVIII, XIX, XXII, XXIII -- pages A.19-A.27 of
@@ -108,38 +144,47 @@ CATEGORIES = [
         "subprograms": [
             {"key": "bonds", "fy2025_units": 909, "fy2025_amount": 127551000,
              "color_group": "bond",
+             "fund_type": "proprietary", "fund_name": "Mortgage Loan Program Fund",
              "fy2026": {"value": 2132, "amount": None, "closed": False,
                         "note_key": "il_bonds_fy26_note"}},
             {"key": "lihtc_9", "fy2025_units": 1173, "fy2025_amount": 33794999,
              "color_group": "credit",
+             "fund_type": "off_balance_sheet", "fund_name": None,
              "fy2026": {"value": None, "amount": None, "closed": False,
                         "note_key": "il_lihtc9_fy26_note"}},
             {"key": "lihtc_4", "fy2025_units": 1593, "fy2025_amount": 23558654,
              "color_group": "credit",
+             "fund_type": "off_balance_sheet", "fund_name": None,
              "fy2026": {"value": None, "amount": None, "closed": False,
                         "note_key": "il_lihtc4_fy26_note"}},
             {"key": "iahtc", "fy2025_units": 902, "fy2025_amount": 31404074,
              "color_group": "credit",
+             "fund_type": "off_balance_sheet", "fund_name": None,
              "fy2026": {"value": None, "amount": 38028389, "closed": False,
                         "note_key": "il_iahtc_fy26_note"}},
             {"key": "home", "fy2025_units": 452, "fy2025_amount": 43145393,
              "color_group": "trust",
+             "fund_type": "governmental", "fund_name": "HOME Program Fund",
              "fy2026": {"value": None, "amount": 15500000, "closed": False,
                         "note_key": "il_home_fy26_note"}},
             {"key": "nhtf", "fy2025_units": 101, "fy2025_amount": 21234706,
              "color_group": "trust",
+             "fund_type": "governmental", "fund_name": "National Housing Trust Fund (nonmajor)",
              "fy2026": {"value": None, "amount": 6000000, "closed": False,
                         "note_key": "il_nhtf_fy26_note"}},
             {"key": "trust_fund", "fy2025_units": 736, "fy2025_amount": 37172268,
              "color_group": "trust",
+             "fund_type": "governmental", "fund_name": "Illinois Affordable Housing Trust Fund",
              "fy2026": {"value": None, "amount": 55000000, "closed": False,
                         "note_key": "il_trustfund_fy26_note"}},
             {"key": "capital_bill", "fy2025_units": 30, "fy2025_amount": 8425000,
              "color_group": "capital",
+             "fund_type": "governmental", "fund_name": "Build Illinois Bond Program Fund (inferred)",
              "fy2026": {"value": 80, "amount": 40000000, "closed": False,
                         "note_key": "il_capitalbill_fy26_note"}},
             {"key": "other_multifamily", "fy2025_units": 557, "fy2025_amount": 38460387,
              "color_group": "capital",
+             "fund_type": "mixed", "fund_name": None,
              "fy2026": {"value": None, "amount": None, "closed": False,
                         "note_key": "il_othermf_fy26_note"}},
         ],
@@ -166,18 +211,22 @@ CATEGORIES = [
         "subprograms": [
             {"key": "access_4", "fy2025_units": 939, "fy2025_amount": 148094760,
              "color_group": "credit",
+             "fund_type": "proprietary", "fund_name": "Single Family Program Fund",
              "fy2026": {"value": None, "amount": 7439400, "closed": False,
                         "note_key": "il_access4_fy26_note"}},
             {"key": "access_5", "fy2025_units": 1705, "fy2025_amount": 356672834,
              "color_group": "credit",
+             "fund_type": "proprietary", "fund_name": "Single Family Program Fund",
              "fy2026": {"value": None, "amount": 14736281, "closed": False,
                         "note_key": "il_access5_fy26_note"}},
             {"key": "access_10", "fy2025_units": 1729, "fy2025_amount": 342707251,
              "color_group": "credit",
+             "fund_type": "proprietary", "fund_name": "Single Family Program Fund",
              "fy2026": {"value": None, "amount": 20206500, "closed": False,
                         "note_key": "il_access10_fy26_note"}},
             {"key": "smartbuy", "fy2025_units": 542, "fy2025_amount": 123659593,
              "color_group": "credit",
+             "fund_type": "governmental", "fund_name": "Build Illinois Bond Program Fund (inferred)",
              "fy2026": {"value": None, "amount": None, "closed": True,
                         "note_key": "il_smartbuy_fy26_note"}},
         ],
@@ -203,18 +252,22 @@ CATEGORIES = [
         "subprograms": [
             {"key": "hrap", "fy2025_units": 251, "fy2025_amount": 8778134,
              "color_group": "amber",
+             "fund_type": "governmental", "fund_name": "Illinois Affordable Housing Trust Fund",
              "fy2026": {"value": 181, "amount": 6300000, "closed": False,
                         "note_key": "il_hrap_fy26_note"}},
             {"key": "hafhr", "fy2025_units": 126, "fy2025_amount": 6860258,
              "color_group": "amber",
+             "fund_type": "governmental", "fund_name": "COVID-19 Homeowner Assistance Fund (nonmajor)",
              "fy2026": {"value": 184, "amount": 10000000, "closed": False,
                         "note_key": "il_hafhr_fy26_note"}},
             {"key": "ccmfmp", "fy2025_units": 146, "fy2025_amount": 37400,
              "color_group": "amber",
+             "fund_type": "governmental", "fund_name": "Cook County Mortgage Foreclosure Mediation Program Fund (nonmajor)",
              "fy2026": {"value": 121, "amount": 50000, "closed": False,
                         "note_key": "il_ccmfmp_fy26_note"}},
             {"key": "hcrp", "fy2025_units": 8801, "fy2025_amount": 1778383,
              "color_group": "amber",
+             "fund_type": "governmental", "fund_name": "Housing Counseling Resource Program Fund (nonmajor)",
              "fy2026": {"value": 14600, "amount": None, "closed": False,
                         "note_key": "il_hcrp_fy26_note"}},
         ],
@@ -238,14 +291,17 @@ CATEGORIES = [
         "subprograms": [
             {"key": "ilhaf2", "fy2025_units": 35, "fy2025_amount": 451201,
              "color_group": "rose",
+             "fund_type": "governmental", "fund_name": "COVID-19 Homeowner Assistance Fund (nonmajor)",
              "fy2026": {"value": None, "amount": None, "closed": True,
                         "note_key": "il_ilhaf2_fy26_note"}},
             {"key": "state_cbrap", "fy2025_units": 7683, "fy2025_amount": 63749173,
              "color_group": "rose",
+             "fund_type": "governmental", "fund_name": "Illinois General Revenue Fund",
              "fy2026": {"value": 6500, "amount": 50000000, "closed": False,
                         "note_key": "il_cbrap_fy26_note"}},
             {"key": "aserap", "fy2025_units": 2, "fy2025_amount": 11881,
              "color_group": "rose",
+             "fund_type": "governmental", "fund_name": None,
              "fy2026": {"value": None, "amount": None, "closed": True,
                         "note_key": "il_aserap_fy26_note"}},
         ],
