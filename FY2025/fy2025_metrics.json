@@ -688,24 +688,24 @@
   },
   {
     "state": "NY",
-    "name": "New York State Homes and Community Renewal",
-    "abbr": "HCR",
-    "source_file": "",
+    "name": "New York State Housing Finance Agency",
+    "abbr": "NYSHFA",
+    "source_file": "NY_NYHFA.pdf",
     "source_url": "",
-    "status": "missing",
-    "net_position_2025": null,
-    "net_position_2024": null,
-    "net_position_change": null,
-    "net_position_change_pct": null,
-    "total_assets_2025": null,
-    "total_assets_2024": null,
-    "total_liabilities_2025": null,
-    "total_liabilities_2024": null,
+    "status": "downloaded",
+    "net_position_2025": 1707870000,
+    "net_position_2024": 1584539000,
+    "net_position_change": 123331000,
+    "net_position_change_pct": 7.8,
+    "total_assets_2025": 21306725000,
+    "total_assets_2024": 21290111000,
+    "total_liabilities_2025": 19572610000,
+    "total_liabilities_2024": 19671999000,
     "revenues_2025": null,
     "expenses_2025": null,
-    "net_position_ratio": null,
+    "net_position_ratio": 8.015638255057969,
     "notes": [
-      "未找到FY2025 PDF链接"
+      "已根据NYS HFA FY2025 MD&A（Condensed Financial Information – Statements of Net Position, October 31 2025/2024）人工补充核心指标"
     ]
   },
   {

@@ -764,9 +764,12 @@ def _report_copy(language: str) -> dict:
             "prototypes": [
                 (
                     "Bond-financed large agencies",
-                    "Examples include Virginia, Minnesota, Colorado, Connecticut, Michigan, and Illinois: "
-                    "large asset bases with liabilities expanding in parallel, and heavy reliance on "
-                    "multifamily and single-family bond programs and GSE channels.",
+                    "Examples include New York, Virginia, Minnesota, Colorado, Connecticut, Michigan, and "
+                    "Illinois: large asset bases with liabilities expanding in parallel, and heavy reliance "
+                    "on multifamily and single-family bond programs and GSE channels. New York State HFA is "
+                    "the largest by a wide margin, reporting FY2025 total assets of about $21.31 billion "
+                    "and total liabilities of about $19.57 billion -- roughly 1.7 times the total assets of "
+                    "Virginia, the next-largest agency in this group.",
                 ),
                 (
                     "High-growth mid-to-large agencies",
@@ -781,10 +784,10 @@ def _report_copy(language: str) -> dict:
                 ),
                 (
                     "High-cost coastal markets",
-                    "California and Washington are illustrative (New York entity-level filings remain limited). "
-                    "Results track home prices, construction costs, and project pipelines closely. In FY2025, "
-                    "CalHFA reported net position of about $3.44 billion and total assets near $5.0 billion, "
-                    "remaining among the largest state housing finance agencies.",
+                    "California and Washington are illustrative. Results track home prices, construction "
+                    "costs, and project pipelines closely. In FY2025, CalHFA reported net position of about "
+                    "$3.44 billion and total assets near $5.0 billion, remaining among the largest state "
+                    "housing finance agencies.",
                 ),
                 (
                     "Resource and low-density states",
@@ -798,7 +801,10 @@ def _report_copy(language: str) -> dict:
                     "Scale does not guarantee safety",
                     "The largest asset bases often carry the highest liabilities and derivative exposure. "
                     "While interest-rate paths remain uncertain, net position ratio and cash-flow capacity "
-                    "deserve as much attention as asset rankings.",
+                    "deserve as much attention as asset rankings. New York illustrates the point: it is now "
+                    "the largest agency by total assets, yet its net position ratio is only about 8%, "
+                    "thinner than most of its top-10-by-assets peers, which otherwise range roughly from "
+                    "16% to 98%.",
                 ),
                 (
                     "Net position growth is not housing production",
@@ -881,6 +887,7 @@ def _report_copy(language: str) -> dict:
             "note_me_mdna": "Total assets/liabilities added from MaineHousing FY2025 MD&A (Statement of Net Position, in millions, FYE Dec 31 2025/2024), replacing a previous inaccurate estimate",
             "note_md_scope": "Full CDA scope: deduplicated sum of the 4 non-overlapping published bond fund statements at dhcd.maryland.gov (Revenue Obligation Funds -- itself a combination of Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund -- plus Multi-Family Mortgage Revenue Bonds, Single Family Housing Revenue Bonds, and Local Government Infrastructure Bonds)",
             "note_nh_mdna": "Core metrics manually verified against NH Housing FY2025 MD&A (Condensed Financial Information -- Statement of Net Position, June 30 2025/2024)",
+            "note_ny_mdna": "Core metrics manually verified against NYS HFA FY2025 MD&A (Condensed Financial Information -- Statements of Net Position, October 31 2025/2024)",
         }
 
     return {
@@ -940,8 +947,10 @@ def _report_copy(language: str) -> dict:
         "prototypes": [
             (
                 "债券融资型大型机构",
-                "以弗吉尼亚、明尼苏达、科罗拉多、康涅狄格、密歇根、伊利诺伊等为代表："
-                "资产规模较大，负债大体同步扩张，高度依赖多户／单户债券计划及政府支持企业（GSE）渠道。",
+                "以纽约、弗吉尼亚、明尼苏达、科罗拉多、康涅狄格、密歇根、伊利诺伊等为代表："
+                "资产规模较大，负债大体同步扩张，高度依赖多户／单户债券计划及政府支持企业（GSE）渠道。"
+                "纽约州住房金融机构（NYS HFA）规模远超同组其他机构，FY2025 总资产约 213.1 亿美元、"
+                "总负债约 195.7 亿美元，约为该组第二大机构（弗吉尼亚）总资产的 1.7 倍。",
             ),
             (
                 "增速较快的中大型机构",
@@ -956,7 +965,7 @@ def _report_copy(language: str) -> dict:
             ),
             (
                 "高成本沿海市场",
-                "加利福尼亚与华盛顿较具代表性（纽约州机构层面专项披露仍较有限）。"
+                "加利福尼亚与华盛顿较具代表性。"
                 "财务结果与房价、营造成本及项目储备联系紧密。"
                 "FY2025，加州住房金融局（CalHFA）净资产约 34.4 亿美元、总资产近 50 亿美元，"
                 "仍属全美规模最大的州级住房金融机构之列。",
@@ -973,6 +982,8 @@ def _report_copy(language: str) -> dict:
                 "规模并不等于安全",
                 "资产规模最大的机构，往往也承担更高负债与衍生品敞口。"
                 "在利率路径仍不确定的背景下，净资产率与现金流能力应与资产排名同等重视。"
+                "纽约即是一例：其总资产已居全美首位，但净资产率仅约 8%，"
+                "明显低于总资产前十机构中的大多数（其余机构大致在 16% 至 98% 区间）。"
             ),
             (
                 "净资产增长不等于住房增产",
@@ -1050,6 +1061,7 @@ def _report_copy(language: str) -> dict:
         "note_me_mdna": "已根据 MaineHousing FY2025 MD&A（Statement of Net Position, in millions, FYE Dec 31 2025/2024）补充总资产／总负债，替换此前不准确的估算值",
         "note_md_scope": "CDA 全部业务范围：对 dhcd.maryland.gov 发布的 4 份互不重叠债券基金报表去重后汇总（Revenue Obligation Funds 本身已合并 Housing Revenue Bonds + Residential Revenue Bonds + General Bond Reserve Fund，再加上 Multi-Family Mortgage Revenue Bonds、Single Family Housing Revenue Bonds 与 Local Government Infrastructure Bonds）",
         "note_nh_mdna": "已根据 NH Housing FY2025 MD&A（Condensed Financial Information – Statement of Net Position, June 30 2025/2024）人工核验核心指标",
+        "note_ny_mdna": "已根据 NYS HFA FY2025 MD&A（Condensed Financial Information – Statements of Net Position, October 31 2025/2024）人工核验核心指标",
     }
 
 
@@ -1076,6 +1088,8 @@ def _translate_notes(notes: list[str], language: str) -> str:
             translated.append(t["note_md_scope"])
         elif "nh housing fy2025 md&a" in low:
             translated.append(t["note_nh_mdna"])
+        elif "nys hfa fy2025 md&a" in low:
+            translated.append(t["note_ny_mdna"])
         elif "州级ACFR" in note or "州级综合年报" in note or "state-level acfr" in low:
             translated.append(t["note_state_acfr"])
         elif "未能自动提取" in note or "not auto-extracted" in low:

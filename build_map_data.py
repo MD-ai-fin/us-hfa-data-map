@@ -1073,6 +1073,20 @@ MANUAL_OVERRIDES: dict[str, dict] = {
         "total_liabilities_2024": 955_725_000,
         "net_position_change_pct": 8.7,
     },
+    # NYS HFA "Condensed Financial Information -- Statements of Net Position"
+    # (MD&A), October 31, 2025 and 2024; the audited financial statements
+    # PDF is gated behind a BondLink investor-portal login, so this was
+    # sourced from a copy the user supplied directly (NY_NYHFA.pdf) and
+    # cross-checked figure-for-figure against that PDF's own MD&A table.
+    "NY": {
+        "net_position_2025": 1_707_870_000,
+        "net_position_2024": 1_584_539_000,
+        "total_assets_2025": 21_306_725_000,
+        "total_assets_2024": 21_290_111_000,
+        "total_liabilities_2025": 19_572_610_000,
+        "total_liabilities_2024": 19_671_999_000,
+        "net_position_change_pct": 7.8,
+    },
 }
 
 
