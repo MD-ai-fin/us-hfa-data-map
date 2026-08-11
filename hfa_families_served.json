@@ -1,0 +1,343 @@
+{
+  "_note": "Whole-agency families/households served, from each agency's own Annual Report, Performance Report, ACFR MD&A, or public impact page -- never a single sub-program/grant figure (e.g. not 'X households under the FHPAP grant program', not 'X counseling clients under the NMS settlement fund'). 'annual' = a figure the agency itself reports as covering one fiscal year (preferably FY2025, else the most recent year reported); 'cumulative' = a figure the agency itself reports as a since-inception/all-time running total through 'cumulative_as_of'. States may have one, both, or neither. Populated via manual research, not the automatic ACFR-text regex extractor in build_map_data.py's extract_from_text().",
+  "MA": {
+    "annual": 3000,
+    "annual_year": "2025",
+    "annual_scope": null,
+    "cumulative": 93000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "MassHousing FY2025 ACFR MD&A; MassHousing.com since-inception statistic",
+    "source_url": "https://www.masshousing.com/"
+  },
+  "AL": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 90000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "AHFA \"About Us\" page",
+    "source_url": "https://www.ahfa.com/about-us"
+  },
+  "WI": {
+    "annual": 2900,
+    "annual_year": "2024",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "WHEDA FY2024 ACFR MD&A",
+    "source_url": ""
+  },
+  "CO": {
+    "annual": 5400,
+    "annual_year": "2025",
+    "annual_scope": "homeownership",
+    "cumulative": 160992,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "CHFA 2025 Community Report",
+    "source_url": "https://www.chfainfo.com/2025-chfa-community-report"
+  },
+  "CT": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 145000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "CHFA (Connecticut) \"About Us\" page",
+    "source_url": "https://www.chfa.org/about-us/"
+  },
+  "VA": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 240000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "Virginia Housing public statistics",
+    "source_url": "https://www.virginiahousing.com/en"
+  },
+  "PA": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 210310,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "PHFA \"About\" / history page",
+    "source_url": "https://www.phfa.org/about/"
+  },
+  "WA": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 80000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "Washington State Housing Finance Commission public statistics",
+    "source_url": "https://www.wshfc.org/"
+  },
+  "MI": {
+    "annual": 45000,
+    "annual_year": "2025",
+    "annual_scope": null,
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "MSHDA FY2025 press release (Michigan.gov)",
+    "source_url": "https://www.michigan.gov/mshda/about/press-releases/2026/01/13/mshda-invests-2-billion-to-expand-housing-opportunities-for-nearly-45000-michiganders-in-fy-2025"
+  },
+  "OH": {
+    "annual": 6664,
+    "annual_year": "2025",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "OHFA FY2025 accomplishments",
+    "source_url": "https://ohiohome.org/"
+  },
+  "NC": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 321320,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "NCHFA \"About Us\" page",
+    "source_url": "https://www.nchfa.com/about-us"
+  },
+  "AR": {
+    "annual": 1448,
+    "annual_year": "2025",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "ADFA Annual Report of Program Activity FY2025 (Move-Up + StartSmart first-mortgage loan counts combined)",
+    "source_url": "https://adfa.arkansas.gov/wp-content/uploads/2026/02/Annual-Report-of-Program-Activity-FY-2025.pdf"
+  },
+  "HI": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 10696,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "rental",
+    "source": "HHFDC \"About HHFDC\" page (workforce/affordable units facilitated since 2006)",
+    "source_url": "https://dbedt.hawaii.gov/hhfdc/about/"
+  },
+  "IN": {
+    "annual": 6514,
+    "annual_year": "2025",
+    "annual_scope": "rental",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "IHCDA 2025 rental assistance figures",
+    "source_url": "https://www.in.gov/ihcda/"
+  },
+  "IA": {
+    "annual": 2908,
+    "annual_year": "2025",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "Iowa Finance Authority FY25 homeownership results",
+    "source_url": "https://opportunityiowa.gov/about/iowa-finance-authority/impact"
+  },
+  "KY": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 94000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "Kentucky Housing Corporation \"About KHC\" page",
+    "source_url": "https://www.kyhousing.org/About-KHC/Pages/default.aspx"
+  },
+  "ME": {
+    "annual": 90000,
+    "annual_year": "2025",
+    "annual_scope": null,
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "MaineHousing Accomplishments page (assists >90,000 households annually across buy/heat/rent/repair programs)",
+    "source_url": "https://mainehousing.org/about/accomplishments"
+  },
+  "MD": {
+    "annual": 3500,
+    "annual_year": "2024",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "Maryland DHCD FY2024 economic impact release (Maryland Mortgage Program)",
+    "source_url": "https://mmp.maryland.gov/news/dhcd-generates-65b-economic-impact-supports-nearly-28000-jobs-fy2024"
+  },
+  "NE": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 96000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "NIFA public homeownership milestone statistics",
+    "source_url": "https://www.nifa.org/about"
+  },
+  "NM": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 500000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "Housing New Mexico (MFA) public impact statistics",
+    "source_url": "https://housingnm.org/about-us/housing-new-mexico"
+  },
+  "OK": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 70000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "OHFA 50th anniversary report (down payment/closing cost assistance homebuyers)",
+    "source_url": "https://www.ohfa.org/about/"
+  },
+  "SC": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 41000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "SC Housing public statistics (affordable homes financed since 1971)",
+    "source_url": "https://schousing.sc.gov/"
+  },
+  "SD": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 80000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "SD Housing public statistics (First-time and Repeat Homebuyer Loan program)",
+    "source_url": "https://www.sdhousing.org/about-us"
+  },
+  "TN": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 134000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "THDA \"About THDA\" page",
+    "source_url": "https://thda.org/about-thda/"
+  },
+  "UT": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 112000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "Utah Housing Corporation public impact statistics",
+    "source_url": "https://utahhousingcorp.org/about/"
+  },
+  "VT": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 136000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "VHFA 50th anniversary statistics (Vermonters assisted through VHFA)",
+    "source_url": "https://vhfa.org/about"
+  },
+  "WV": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 123000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "WVHDF public statistics (homes funded)",
+    "source_url": "https://www.wvhdf.com/about/"
+  },
+  "WY": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 5000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "rental",
+    "source": "WCDA \"About\" page (LIHTC/NHTF/HOME-funded rental units)",
+    "source_url": "https://www.wyomingcda.com/about/"
+  },
+  "DC": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 50000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "DCHFA public statistics (units of affordable housing funded since 1979)",
+    "source_url": "https://dchfa.org/"
+  },
+  "NH": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 55000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "New Hampshire Housing public statistics",
+    "source_url": "https://www.nhhousing.org/about/"
+  },
+  "NJ": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 70000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "rental",
+    "source": "NJHMFA public statistics (LIHTC-financed apartments)",
+    "source_url": "https://www.nj.gov/dca/hmfa/about/investorinfo/2025_AnnualReport.shtml"
+  },
+  "NY": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 26000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": null,
+    "source": "NYS Homes and Community Renewal public statistics (affordable housing units financed since 2011)",
+    "source_url": "https://hcr.ny.gov/"
+  },
+  "OR": {
+    "annual": 954,
+    "annual_year": "2025",
+    "annual_scope": "homeownership",
+    "cumulative": null,
+    "cumulative_as_of": null,
+    "cumulative_scope": null,
+    "source": "OHCS Flex Lending 2025 results (NCSHA)",
+    "source_url": "https://www.ncsha.org/hfa-news/ohcs-lending-products-helped-almost-1000-oregon-households-buy-a-home-in-2025/"
+  },
+  "RI": {
+    "annual": null,
+    "annual_year": null,
+    "annual_scope": null,
+    "cumulative": 82000,
+    "cumulative_as_of": "2025",
+    "cumulative_scope": "homeownership",
+    "source": "RIHousing public statistics",
+    "source_url": "https://www.rihousing.com/"
+  }
+}

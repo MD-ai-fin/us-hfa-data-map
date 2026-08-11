@@ -141,6 +141,8 @@
       flex-shrink: 0;
     }
     .metric-option .opt-label {
+      flex: 1 1 auto;
+      min-width: 0;
       font-size: 0.8rem;
       line-height: 1.35;
       cursor: pointer;
@@ -1649,6 +1651,9 @@
         sceneTopCapita: "人均净资产",
         stateModalTitle: "州详情",
         stateModalRankHint: "排名按数值从高到低排序，第 1 名为最高；分母反映数据可得性：/51 为全部州与特区，较小分母为具有该指标数据的机构数。",
+        familiesServedCumulative: "累计服务家庭数（成立以来）",
+        familiesServedScopeHomeownership: "仅购房业务",
+        familiesServedScopeRental: "仅出租/多户住房业务",
         compareBtn: "对比各州",
         compareBtnActive: "点选 1~5 个州…",
         compareBtnView: "已选 {n}/{max} 个州 · 点击查看",
@@ -1728,6 +1733,7 @@
           total_liabilities: "总负债规模",
           leverage_ratio: "杠杆率（负债/资产）",
           families_served: "服务家庭数量",
+          families_served_cumulative: "累计历史服务家庭数量",
           staff_count: "住房管理局工作人员总数",
           population: "州总人口",
           personal_income_total: "个人收入总金额",
@@ -1760,6 +1766,9 @@
         sceneTopCapita: "Net Position Per Capita",
         stateModalTitle: "State details",
         stateModalRankHint: "Ranked by value, highest to lowest (rank 1 = highest); denominators reflect data availability: /51 = all states & D.C., smaller denominators = agencies with data for that metric.",
+        familiesServedCumulative: "Cumulative Families Served (Since Inception)",
+        familiesServedScopeHomeownership: "homeownership only",
+        familiesServedScopeRental: "rental/multifamily only",
         compareBtn: "Compare states",
         compareBtnActive: "Pick 1–5 states…",
         compareBtnView: "{n}/{max} selected · tap to view",
@@ -1839,6 +1848,7 @@
           total_liabilities: "Total Liabilities",
           leverage_ratio: "Leverage (Liabilities / Assets)",
           families_served: "Families Served",
+          families_served_cumulative: "Cumulative Families Served (Since Inception)",
           staff_count: "HFA Total Staff",
           population: "State Population",
           personal_income_total: "Total Personal Income",
@@ -1871,6 +1881,9 @@
         sceneTopCapita: "Activo neto per cápita",
         stateModalTitle: "Detalles del estado",
         stateModalRankHint: "Clasificado por valor, de mayor a menor (puesto 1 = el más alto); los denominadores reflejan la disponibilidad de datos: /51 = todos los estados y D.C., denominadores menores = agencias con datos para ese indicador.",
+        familiesServedCumulative: "Familias atendidas acumuladas (desde su creación)",
+        familiesServedScopeHomeownership: "solo compra de vivienda",
+        familiesServedScopeRental: "solo alquiler/multifamiliar",
         compareBtn: "Comparar estados",
         compareBtnActive: "Elija de 1 a 5 estados…",
         compareBtnView: "{n}/{max} seleccionados · toque para ver",
@@ -1950,6 +1963,7 @@
           total_liabilities: "Pasivo total",
           leverage_ratio: "Apalancamiento (pasivo / activo)",
           families_served: "Familias atendidas",
+          families_served_cumulative: "Familias atendidas acumuladas (desde su creación)",
           staff_count: "Personal total de la HFA",
           population: "Población del estado",
           personal_income_total: "Ingreso personal total",
@@ -1982,6 +1996,9 @@
         sceneTopCapita: "Aktywa netto na mieszkańca",
         stateModalTitle: "Szczegóły stanu",
         stateModalRankHint: "Ranking według wartości, od najwyższej do najniższej (miejsce 1 = najwyższe); mianowniki odzwierciedlają dostępność danych: /51 = wszystkie stany i D.C., mniejsze mianowniki = agencje z danymi dla danego wskaźnika.",
+        familiesServedCumulative: "Łączna liczba obsłużonych rodzin (od powstania)",
+        familiesServedScopeHomeownership: "tylko własność domów",
+        familiesServedScopeRental: "tylko najem/wielorodzinne",
         compareBtn: "Porównaj stany",
         compareBtnActive: "Wybierz 1–5 stanów…",
         compareBtnView: "Wybrano {n}/{max} · dotknij, aby zobaczyć",
@@ -2061,6 +2078,7 @@
           total_liabilities: "Zobowiązania ogółem",
           leverage_ratio: "Dźwignia (zobowiązania / aktywa)",
           families_served: "Liczba obsłużonych rodzin",
+          families_served_cumulative: "Łączna liczba obsłużonych rodzin (od powstania)",
           staff_count: "Łączna liczba pracowników HFA",
           population: "Ludność stanu",
           personal_income_total: "Łączny dochód osobisty",
@@ -2075,6 +2093,7 @@
 
     const SOURCE_ORDER = [
       "hfa_financials", "hfa_staff_acfr", "hfa_staff_linkedin", "hfa_staff_other",
+      "families_served",
       "population", "personal_income", "unemployment", "poverty_median_home",
       "homeless_count",
     ];
@@ -2085,6 +2104,7 @@
         hfa_staff_acfr: "HFA ACFR 全职员工/FTE 披露（如报告中有）",
         hfa_staff_linkedin: "LinkedIn 机构主页（ACFR 未披露时的员工人数）",
         hfa_staff_other: "机构官网、州预算等（hfa_staff_counts.json）",
+        families_served: "机构年报／业绩报告及公开影响力数据（hfa_families_served.json）；仅收录机构整体口径的当年或成立以来累计数字，不采用单一子项目/子项目受益人数",
         population: "美国 Census Bureau 人口估计 (2024/2025)",
         personal_income: "美国经济分析局 SAINC4（州个人收入）",
         unemployment: "美国劳工统计局 LAUS（2023–2024 年平均）",
@@ -2096,6 +2116,7 @@
         hfa_staff_acfr: "HFA ACFR full-time employee/FTE disclosures when reported",
         hfa_staff_linkedin: "LinkedIn company pages (HFA staff counts when not in ACFR)",
         hfa_staff_other: "Agency websites and state budget sources (hfa_staff_counts.json)",
+        families_served: "Agency annual/performance reports and public impact statistics (hfa_families_served.json); whole-agency annual or since-inception cumulative totals only, never a single sub-program figure",
         population: "U.S. Census Bureau Population Estimates Program (Vintage 2024/2025)",
         personal_income: "U.S. Bureau of Economic Analysis SAINC4 (State Personal Income)",
         unemployment: "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
@@ -2107,6 +2128,7 @@
         hfa_staff_acfr: "Divulgaciones de empleados de tiempo completo/FTE en el ACFR de la HFA (cuando se reportan)",
         hfa_staff_linkedin: "Páginas de empresa en LinkedIn (personal de la HFA cuando no consta en el ACFR)",
         hfa_staff_other: "Sitios web de las agencias y fuentes presupuestarias estatales (hfa_staff_counts.json)",
+        families_served: "Informes anuales/de desempeño de la agencia y estadísticas públicas de impacto (hfa_families_served.json); solo totales anuales o acumulados desde su creación a nivel de toda la agencia, nunca la cifra de un solo subprograma",
         population: "Programa de Estimaciones de Población de la Oficina del Censo de EE. UU. (edición 2024/2025)",
         personal_income: "Oficina de Análisis Económico de EE. UU., SAINC4 (Ingreso Personal Estatal)",
         unemployment: "Oficina de Estadísticas Laborales de EE. UU., LAUS (promedios anuales 2023–2024)",
@@ -2118,6 +2140,7 @@
         hfa_staff_acfr: "Ujawnienia liczby pracowników pełnoetatowych/FTE w ACFR danej HFA (jeśli podano)",
         hfa_staff_linkedin: "Strony firmowe na LinkedIn (liczba pracowników HFA, gdy brak danych w ACFR)",
         hfa_staff_other: "Strony internetowe agencji i stanowe źródła budżetowe (hfa_staff_counts.json)",
+        families_served: "Raporty roczne/wynikowe agencji oraz publiczne statystyki oddziaływania (hfa_families_served.json); wyłącznie roczne lub skumulowane od powstania wartości dla całej agencji, nigdy dane pojedynczego podprogramu",
         population: "Program szacunków ludności Biura Spisu Ludności USA (edycja 2024/2025)",
         personal_income: "Biuro Analiz Ekonomicznych USA, SAINC4 (dochód osobisty w stanach)",
         unemployment: "Biuro Statystyki Pracy USA, LAUS (średnie roczne za lata 2023–2024)",
@@ -2129,7 +2152,7 @@
     const METRIC_KEYS = [
       "net_position", "net_position_growth_pct", "net_position_per_capita",
       "total_assets", "total_liabilities", "leverage_ratio",
-      "families_served", "staff_count", "population",
+      "families_served", "families_served_cumulative", "staff_count", "population",
       "personal_income_total", "personal_income_per_capita",
       "unemployment_rate", "poverty_rate", "median_home_price",
       "homeless_count",
@@ -2195,6 +2218,7 @@
       total_liabilities: "#fb7185",
       leverage_ratio: "#f43f5e",
       families_served: "#a78bfa",
+      families_served_cumulative: "#c4b5fd",
       staff_count: "#fb923c",
       population: "#4ade80",
       personal_income_total: "#facc15",
@@ -2618,7 +2642,19 @@
       return reportLinks?.[abbr] || null;
     }
 
+    // A families-served figure limited to one product line (e.g. homeownership
+    // loans only, excluding the agency's rental/multifamily business) is still
+    // usable, but must say so -- see hfa_families_served.json's _note.
+    function scopeLabel(scopeKey) {
+      if (!scopeKey) return "";
+      const key = "familiesServedScope" + scopeKey.charAt(0).toUpperCase() + scopeKey.slice(1);
+      const label = t(key);
+      if (!label || label === key) return "";
+      return lang === "zh" ? `（${label}）` : ` (${label})`;
+    }
+
     function buildMetricRowsHtml(rec) {
+      const yd = yearMetrics(rec);
       const rows = METRIC_KEYS.map(k => {
         const val = metricValueForState(rec, k);
         const color = METRIC_COLORS[k] || "#94a3b8";
@@ -2628,9 +2664,12 @@
           const idx = ranked.findIndex(r => r.state === rec.state);
           if (idx >= 0) rankText = `${idx + 1}/${ranked.length}`;
         }
+        let scopeSuffix = "";
+        if (k === "families_served") scopeSuffix = scopeLabel(yd.families_served_scope);
+        else if (k === "families_served_cumulative") scopeSuffix = scopeLabel(yd.families_served_cumulative_scope);
         return `<div class="tt-row">
           <span class="tt-dot" style="background:${color}"></span>
-          <span class="tt-label">${tMetric(k)}</span>
+          <span class="tt-label">${tMetric(k)}${scopeSuffix}</span>
           <span class="tt-value">${fmt(val, k)}</span>
           <span class="tt-rank">${rankText}</span>
         </div>`;
@@ -3674,6 +3713,24 @@
       document.getElementById("legend-max").textContent = fmt(max, mkey);
     }
 
+    // Some metric names (mainly long EN/ES/PL translations like "Cumulative
+    // Families Served (Since Inception)") don't fit the fixed-width sidebar
+    // column at the base font-size. Rather than wrapping to a second line
+    // (which was tried and reverted per user feedback), shrink just that
+    // label's font-size in 0.5px steps until it fits on one line, down to a
+    // floor so text never becomes illegible.
+    function fitMetricOptionLabels(container) {
+      const MIN_FONT_PX = 9;
+      container.querySelectorAll(".opt-label").forEach(el => {
+        el.style.fontSize = "";
+        let fs = parseFloat(getComputedStyle(el).fontSize);
+        while (el.scrollWidth > el.clientWidth + 0.5 && fs > MIN_FONT_PX) {
+          fs -= 0.5;
+          el.style.fontSize = `${fs}px`;
+        }
+      });
+    }
+
     function renderMetricOptions() {
       const container = document.getElementById("metric-options");
       container.innerHTML = METRIC_KEYS.map(k => {
@@ -3685,6 +3742,7 @@
           <span class="opt-label">${tMetric(k)}</span>
         </label>`;
       }).join("");
+      fitMetricOptionLabels(container);
 
       container.querySelectorAll(".metric-option").forEach(el => {
         const k = el.dataset.key;

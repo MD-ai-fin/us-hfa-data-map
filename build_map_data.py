@@ -18,6 +18,7 @@ FY2025_METRICS = BASE / "FY2025" / "fy2025_metrics.json"
 FY2024_METRICS = BASE / "FY2024" / "fy2024_metrics.json"
 CATALOG = BASE / "FY2025" / "state_hfa_catalog.json"
 HFA_STAFF_COUNTS = BASE / "hfa_staff_counts.json"
+HFA_FAMILIES_SERVED = BASE / "hfa_families_served.json"
 OUT = BASE / "docs" / "state_data.json"
 
 FIPS_TO_STATE = {
@@ -1082,6 +1083,9 @@ def empty_hfa_year() -> dict:
         "total_liabilities": None,
         "net_position_growth_pct": None,
         "families_served": None,
+        "families_served_scope": None,
+        "families_served_cumulative": None,
+        "families_served_cumulative_scope": None,
         "staff_count": None,
     }
 
@@ -1347,6 +1351,46 @@ def apply_hfa_staff_counts(by_state: dict[str, dict], staff_ref: dict[str, dict]
         if filled_any and not rec.get("staff_count_source"):
             rec["staff_count_source"] = meta.get("source")
             rec["staff_count_source_url"] = meta.get("source_url")
+
+
+def load_hfa_families_served() -> dict[str, dict]:
+    if not HFA_FAMILIES_SERVED.exists():
+        return {}
+    raw = json.loads(HFA_FAMILIES_SERVED.read_text(encoding="utf-8"))
+    out: dict[str, dict] = {}
+    for st, entry in raw.items():
+        if st.startswith("_") or not isinstance(entry, dict):
+            continue
+        out[st] = entry
+    return out
+
+
+def apply_hfa_families_served(by_state: dict[str, dict], ref: dict[str, dict]) -> None:
+    """Fill families_served (annual) / families_served_cumulative from manual research,
+    only where the automatic ACFR-text extractor did not already provide an annual value.
+    'scope' fields record when a figure is limited to one product line (e.g.
+    "homeownership") rather than the whole agency, so the frontend can label it --
+    see hfa_families_served.json's _note for what counts as usable vs. excluded."""
+    for st, meta in ref.items():
+        rec = by_state.get(st)
+        if not rec:
+            continue
+        annual = meta.get("annual")
+        annual_year = str(meta.get("annual_year") or "")
+        ykey = annual_year if annual_year in ("2024", "2025") else "2025"
+        if annual and rec[ykey].get("families_served") is None:
+            rec[ykey]["families_served"] = annual
+            rec[ykey]["families_served_scope"] = meta.get("annual_scope")
+            rec[ykey]["families_served_source"] = meta.get("source")
+            rec[ykey]["families_served_source_url"] = meta.get("source_url")
+        cumulative = meta.get("cumulative")
+        cum_as_of = str(meta.get("cumulative_as_of") or "")
+        cum_ykey = cum_as_of if cum_as_of in ("2024", "2025") else "2025"
+        if cumulative and rec[cum_ykey].get("families_served_cumulative") is None:
+            rec[cum_ykey]["families_served_cumulative"] = cumulative
+            rec[cum_ykey]["families_served_cumulative_scope"] = meta.get("cumulative_scope")
+            rec[cum_ykey]["families_served_cumulative_source"] = meta.get("source")
+            rec[cum_ykey]["families_served_cumulative_source_url"] = meta.get("source_url")
 
 
 def _years_in_block(block: str) -> list[int] | None:
@@ -1738,6 +1782,7 @@ def build_hfa_metrics() -> dict[str, dict]:
 
     apply_manual_overrides(by_state)
     apply_hfa_staff_counts(by_state, load_hfa_staff_counts())
+    apply_hfa_families_served(by_state, load_hfa_families_served())
     compute_liabilities(by_state)
     fix_scale_errors(by_state)
     reconcile_balance_sheet(by_state)
@@ -1788,6 +1833,9 @@ def main() -> None:
                 "total_assets": hfa_y.get("total_assets"),
                 "total_liabilities": hfa_y.get("total_liabilities"),
                 "families_served": hfa_y.get("families_served"),
+                "families_served_scope": hfa_y.get("families_served_scope"),
+                "families_served_cumulative": hfa_y.get("families_served_cumulative"),
+                "families_served_cumulative_scope": hfa_y.get("families_served_cumulative_scope"),
                 "staff_count": hfa_y.get("staff_count"),
                 "staff_count_source": hfa_y.get("staff_count_source"),
                 "population": pop_val,
@@ -1824,6 +1872,7 @@ def main() -> None:
             "hfa_staff_acfr": "HFA ACFR full-time employee/FTE disclosures when reported",
             "hfa_staff_linkedin": "LinkedIn company pages (HFA staff counts when not in ACFR)",
             "hfa_staff_other": "Agency websites and state budget sources (hfa_staff_counts.json)",
+            "families_served": "Agency annual/performance reports and public impact statistics (hfa_families_served.json); whole-agency annual or since-inception cumulative totals only, never a single sub-program figure",
             "population": "U.S. Census Bureau Population Estimates Program (Vintage 2024/2025)",
             "personal_income": "U.S. Bureau of Economic Analysis SAINC4 (State Personal Income)",
             "unemployment": "U.S. Bureau of Labor Statistics LAUS (2023-2024 annual averages)",
