@@ -1,0 +1,2056 @@
+{
+  "OH": {
+    "hfa_name": "Ohio Housing Finance Agency",
+    "hfa_abbr": "OHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "OHFA Fiscal Year 2025 Annual Report -- Housing production summary, Appendix A, and Appendix C",
+    "source_url": "https://ohiohome.org/news/documents/annualreport_25.pdf",
+    "source_file": "OH_OHFA_AnnualReport_FY2025.pdf",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_developments",
+        "unit_type": "units",
+        "fy2025_actual": 8183,
+        "fy2025_source_quote": "\"In fiscal year 2025, OHFA allocated $1.2 billion for the creation or preservation of 8,183 affordable housing units through the federal 9% and 4% Low-Income Housing Tax Credit (LIHTC) programs. These funds will be claimed over the next 10 years.\" Breakdown of Affordable Housing Units: 5,286 New construction or adaptive reuse units + 2,897 Preserved through rehab of existing units = 8,183 Total Units Funded (6,114 General occupancy / 1,353 Senior / 164 Permanent supportive housing / 552 Assisted living). \"In order to make affordable housing developments financially feasible, OHFA may provide a single project funding from more than one program ... The total number of developments OHFA funded in FY25 is 116.\" (Annual Report, pp.18-19)",
+        "fy2025_amounts": [
+          {
+            "label_key": "oh_amt_federal_lihtc",
+            "amount": 1200000000
+          },
+          {
+            "label_key": "oh_amt_ohio_lihtc",
+            "amount": 109000000
+          },
+          {
+            "label_key": "oh_amt_hdap",
+            "amount": 52000000
+          },
+          {
+            "label_key": "oh_amt_mf_bonds",
+            "amount": 596000000
+          },
+          {
+            "label_key": "oh_amt_hdl",
+            "amount": 101000000
+          },
+          {
+            "label_key": "oh_amt_mf_lending",
+            "amount": 5400000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ohFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9",
+            "fy2025_units": 1271,
+            "fy2025_amount": 30552000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4",
+            "fy2025_units": 6141,
+            "fy2025_amount": 75307000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "olihtc",
+            "fy2025_units": 989,
+            "fy2025_amount": 10895000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "mf_bonds",
+            "fy2025_units": 2014,
+            "fy2025_amount": 382500000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "hdl",
+            "fy2025_units": 3291,
+            "fy2025_amount": 100300000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Fund (Housing Development Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "mf_lending",
+            "fy2025_units": null,
+            "fy2025_amount": 5400000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Fund (Multifamily Loan Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "hdap_home",
+            "fy2025_units": 437,
+            "fy2025_amount": 20700000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Program Fund (HOME/HOME-ARPA)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "hdap_nhtf",
+            "fy2025_units": 314,
+            "fy2025_amount": 12312000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Program Fund (National Housing Trust Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "hdap_ohtf",
+            "fy2025_units": 249,
+            "fy2025_amount": 17325000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Fund (Housing Development Assistance Program – Ohio Housing Trust Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_loans",
+        "unit_type": "households",
+        "fy2025_actual": 6664,
+        "fy2025_source_quote": "\"With more than $1.3 billion in loans financed -- up from $813 million in fiscal year 2024 -- ... 6,664 borrowers used OHFA's homebuyer programs and of those, 5,000 used the Agency's down payment assistance program.\" Appendix A (\"Homebuyer Program Lenders by Total Loan Volume, Fiscal Year 2025\") Grand Total row: 6,664 loans, $1,320,664,985 total loan volume, $198,179 average loan amount. \"465 Grants for Grads loans financed in FY25\"; \"1,300 Ohio Heroes loans financed in FY25\" (pp.8-9, 23-26).",
+        "fy2025_amounts": [
+          {
+            "label_key": "oh_amt_total_financed",
+            "amount": 1320664985
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ohFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_mortgages",
+            "fy2025_units": 6664,
+            "fy2025_amount": 1320664985,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Mortgage Revenue Program Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "downpayment_assistance",
+            "fy2025_units": 5000,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Mortgage Revenue Program Fund (Down Payment Assistance)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "grants_for_grads",
+            "fy2025_units": 465,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          },
+          {
+            "key": "ohio_heroes",
+            "fy2025_units": 1300,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Mortgage Revenue Program Fund (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ohFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "arlington-senior-housing",
+        "name": "Arlington Senior Housing",
+        "address": null,
+        "city": "Toledo",
+        "lat": 41.65291,
+        "lon": -83.53782,
+        "units": 57,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "channing-street-redevelopment",
+        "name": "Channing Street Redevelopment",
+        "address": null,
+        "city": "Delaware Township",
+        "lat": 40.25776,
+        "lon": -83.08844,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "carol-crossing",
+        "name": "Carol Crossing",
+        "address": null,
+        "city": "Washington Township",
+        "lat": 40.02459,
+        "lon": -81.95022,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1000000,
+          "hdl": 1800000
+        },
+        "total_amount": 2800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "sunrise-homes",
+        "name": "Sunrise Homes",
+        "address": null,
+        "city": "Lorain",
+        "lat": 41.46732,
+        "lon": -82.17819,
+        "units": 35,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 142000
+        },
+        "total_amount": 142000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cedar-redevelopment-phase-iv",
+        "name": "Cedar Redevelopment Phase IV",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 950000,
+          "mf_bonds": 12000000
+        },
+        "total_amount": 12950000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kinship-family-housing",
+        "name": "Kinship Family Housing",
+        "address": null,
+        "city": "Dayton",
+        "lat": 39.75895,
+        "lon": -84.19161,
+        "units": 26,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 693000,
+          "hdl": 2000000,
+          "mf_bonds": 8000000
+        },
+        "total_amount": 10693000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "nelson-court-rehabilitation-phase-ii",
+        "name": "Nelson Court Rehabilitation Phase II",
+        "address": null,
+        "city": "Lakewood",
+        "lat": 41.48199,
+        "lon": -81.79819,
+        "units": 5,
+        "funding_sources": [
+          "hdap_nhtf"
+        ],
+        "source_amounts": {
+          "hdap_nhtf": 487000
+        },
+        "total_amount": 487000,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pc-plumly-townhomes",
+        "name": "PC Plumly Townhomes",
+        "address": null,
+        "city": "Warren Township",
+        "lat": 39.99617,
+        "lon": -81.17651,
+        "units": 31,
+        "funding_sources": [
+          "lihtc_4",
+          "hdap_nhtf",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 264000,
+          "hdap_nhtf": 3000000,
+          "hdl": 2000000,
+          "mf_bonds": 4100000
+        },
+        "total_amount": 9364000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gates-mills-villa",
+        "name": "Gates Mills Villa",
+        "address": null,
+        "city": "Mayfield Heights",
+        "lat": 41.51922,
+        "lon": -81.4579,
+        "units": 191,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1700000
+        },
+        "total_amount": 1700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "foster-senior-lofts",
+        "name": "Foster Senior Lofts",
+        "address": null,
+        "city": "Elyria Township",
+        "lat": 41.39184,
+        "lon": -82.14522,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_4",
+          "hdap_home",
+          "hdap_nhtf",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 635000,
+          "hdap_home": 2000000,
+          "hdap_nhtf": 2500000,
+          "hdl": 2000000,
+          "mf_bonds": 8000000
+        },
+        "total_amount": 15135000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "olympia-building",
+        "name": "Olympia Building",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 20,
+        "funding_sources": [
+          "hdap_nhtf",
+          "hdap_ohtf"
+        ],
+        "source_amounts": {
+          "hdap_nhtf": 525000,
+          "hdap_ohtf": 925000
+        },
+        "total_amount": 1450000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pc-st-clairsville-courtyard",
+        "name": "PC St. Clairsville Courtyard",
+        "address": null,
+        "city": "Richland Township",
+        "lat": 40.04905,
+        "lon": -80.91809,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_4",
+          "hdap_home",
+          "hdap_ohtf",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 210000,
+          "hdap_home": 1400000,
+          "hdap_ohtf": 1700000,
+          "hdl": 1000000,
+          "mf_bonds": 3800000
+        },
+        "total_amount": 8110000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-caravel",
+        "name": "The Caravel",
+        "address": null,
+        "city": "Franklin Township",
+        "lat": 39.92526,
+        "lon": -83.02865,
+        "units": 234,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "westerville-crossing",
+        "name": "Westerville Crossing",
+        "address": null,
+        "city": "Mifflin Township",
+        "lat": 40.02226,
+        "lon": -82.88437,
+        "units": 264,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 4200000
+        },
+        "total_amount": 4200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "nobility-court",
+        "name": "Nobility Court",
+        "address": null,
+        "city": "Cleveland Heights",
+        "lat": 41.52005,
+        "lon": -81.55624,
+        "units": 52,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1600000,
+          "lihtc_9": 1200000
+        },
+        "total_amount": 2800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-reserve-at-chatford",
+        "name": "The Reserve at Chatford",
+        "address": null,
+        "city": "Truro Township",
+        "lat": 39.95521,
+        "lon": -82.80699,
+        "units": 192,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2700000
+        },
+        "total_amount": 2700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "fairview-i-and-ii",
+        "name": "Fairview I & II",
+        "address": null,
+        "city": "Marion Township",
+        "lat": 40.60125,
+        "lon": -83.16888,
+        "units": 124,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1200000,
+          "mf_bonds": 16000000
+        },
+        "total_amount": 17200000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "havens-edge-apartments",
+        "name": "Havens Edge Apartments",
+        "address": null,
+        "city": "Truro Township",
+        "lat": 39.95521,
+        "lon": -82.80699,
+        "units": 246,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 4400000,
+          "mf_bonds": 56500000
+        },
+        "total_amount": 60900000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "norwalk-north-apartments",
+        "name": "Norwalk North Apartments",
+        "address": null,
+        "city": "Norwalk Township",
+        "lat": 41.24953,
+        "lon": -82.55328,
+        "units": 72,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 457000,
+          "mf_bonds": 8800000
+        },
+        "total_amount": 9257000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wyandot-square-apartments",
+        "name": "Wyandot Square Apartments",
+        "address": null,
+        "city": "Polk Township",
+        "lat": 40.73433,
+        "lon": -82.83666,
+        "units": 62,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 444000,
+          "mf_bonds": 6000000
+        },
+        "total_amount": 6444000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "beechwood-apartments",
+        "name": "Beechwood Apartments",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 149,
+        "funding_sources": [
+          "lihtc_9",
+          "hdap_nhtf",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_9": 2100000,
+          "hdap_nhtf": 3000000,
+          "mf_bonds": 25000000
+        },
+        "total_amount": 30100000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "marquette-manor",
+        "name": "Marquette Manor",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 140,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2200000,
+          "hdl": 2000000,
+          "mf_bonds": 25500000
+        },
+        "total_amount": 29700000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "allerton-apartments",
+        "name": "Allerton Apartments",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 199,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1500000,
+          "hdl": 2000000
+        },
+        "total_amount": 3500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "asbury-apartments",
+        "name": "Asbury Apartments",
+        "address": null,
+        "city": "Dayton",
+        "lat": 39.75895,
+        "lon": -84.19161,
+        "units": 119,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "at-main",
+        "name": "At Main",
+        "address": null,
+        "city": "Trotwood",
+        "lat": 39.79728,
+        "lon": -84.31133,
+        "units": 63,
+        "funding_sources": [
+          "lihtc_4",
+          "hdap_home",
+          "hdap_nhtf",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1200000,
+          "hdap_home": 2000000,
+          "hdap_nhtf": 2800000,
+          "hdl": 1500000,
+          "mf_bonds": 15000000
+        },
+        "total_amount": 22500000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "berkshire-commons",
+        "name": "Berkshire Commons",
+        "address": null,
+        "city": "Berkshire Township",
+        "lat": 40.2453,
+        "lon": -82.9074,
+        "units": 58,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "northcrest-gardens-apartments",
+        "name": "Northcrest Gardens Apartments",
+        "address": null,
+        "city": "Harrison Township",
+        "lat": 39.81047,
+        "lon": -84.23186,
+        "units": 182,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1900000
+        },
+        "total_amount": 1900000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mad-river-manor",
+        "name": "Mad River Manor",
+        "address": null,
+        "city": "Riverside",
+        "lat": 39.7794,
+        "lon": -84.12464,
+        "units": 74,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 773000
+        },
+        "total_amount": 773000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "albright-apartments",
+        "name": "Albright Apartments",
+        "address": null,
+        "city": "Trotwood",
+        "lat": 39.79728,
+        "lon": -84.31133,
+        "units": 112,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1000000
+        },
+        "total_amount": 1000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "silver-birch-of-mansfield",
+        "name": "Silver Birch of Mansfield",
+        "address": null,
+        "city": "Mansfield",
+        "lat": 40.75839,
+        "lon": -82.51545,
+        "units": 120,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1600000,
+          "mf_bonds": 26000000
+        },
+        "total_amount": 27600000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pinewood-gardens-apartments",
+        "name": "Pinewood Gardens Apartments",
+        "address": null,
+        "city": "Trotwood",
+        "lat": 39.79728,
+        "lon": -84.31133,
+        "units": 80,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 630000
+        },
+        "total_amount": 630000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "arrowhead-lofts",
+        "name": "Arrowhead Lofts",
+        "address": null,
+        "city": "Maumee",
+        "lat": 41.56283,
+        "lon": -83.65382,
+        "units": 58,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1700000
+        },
+        "total_amount": 3500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "artem-on-gay",
+        "name": "Artem on Gay",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 71,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1800000
+        },
+        "total_amount": 3600000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "senior-village-at-valle-greene",
+        "name": "Senior Village at Valle Greene",
+        "address": null,
+        "city": "Bath Township",
+        "lat": 39.80978,
+        "lon": -84.06166,
+        "units": 70,
+        "funding_sources": [
+          "hdap_home",
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdap_home": 1400000,
+          "hdl": 1800000,
+          "lihtc_9": 1800000
+        },
+        "total_amount": 5000000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "aspire-columbus",
+        "name": "Aspire COLUMBUS",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 82,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1800000
+        },
+        "total_amount": 3600000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "beaumont-greene",
+        "name": "Beaumont Greene",
+        "address": null,
+        "city": "Canaan Township",
+        "lat": 39.30819,
+        "lon": -82.0102,
+        "units": 40,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 773000
+        },
+        "total_amount": 2573000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "blackburn-landing",
+        "name": "Blackburn Landing",
+        "address": null,
+        "city": "Athens Township",
+        "lat": 39.3189,
+        "lon": -82.12452,
+        "units": 50,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1300000
+        },
+        "total_amount": 3100000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bowling-green-senior-housing",
+        "name": "Bowling Green Senior Housing",
+        "address": null,
+        "city": "Plain Township",
+        "lat": 41.38958,
+        "lon": -83.72805,
+        "units": 66,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1700000
+        },
+        "total_amount": 3500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "brookside-place-apartments",
+        "name": "Brookside Place Apartments",
+        "address": null,
+        "city": "Harrison Township",
+        "lat": 39.98776,
+        "lon": -82.61851,
+        "units": 32,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 543000
+        },
+        "total_amount": 2343000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "churchill-gateway-phase-ii",
+        "name": "Churchill Gateway Phase II",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 70,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1800000
+        },
+        "total_amount": 3600000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cleveland-west-veterans-housing",
+        "name": "Cleveland West Veterans Housing",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 62,
+        "funding_sources": [
+          "hdap_home",
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdap_home": 1000000,
+          "hdl": 2500000,
+          "lihtc_9": 1800000
+        },
+        "total_amount": 5300000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "divinity-landing",
+        "name": "Divinity Landing",
+        "address": null,
+        "city": "Twinsburg Township",
+        "lat": 41.29435,
+        "lon": -81.40848,
+        "units": 54,
+        "funding_sources": [
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdl": 1800000,
+          "lihtc_9": 1600000
+        },
+        "total_amount": 3400000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "emerald-senior",
+        "name": "Emerald Senior",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 62,
+        "funding_sources": [
+          "lihtc_9",
+          "hdap_home",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1100000,
+          "hdap_home": 1900000,
+          "hdl": 1800000
+        },
+        "total_amount": 4800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "knoll-view-place",
+        "name": "Knoll View Place",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 50,
+        "funding_sources": [
+          "hdap_home",
+          "hdl",
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "hdap_home": 5500000,
+          "hdl": 2500000,
+          "lihtc_9": 1500000
+        },
+        "total_amount": 9500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "roberts-run-landing",
+        "name": "Roberts Run Landing",
+        "address": null,
+        "city": "Richland Township",
+        "lat": 40.04905,
+        "lon": -80.91809,
+        "units": 76,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "scioto-rise-place",
+        "name": "Scioto Rise Place",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9",
+          "hdap_home",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_9": 1800000,
+          "hdap_home": 5500000,
+          "hdl": 2500000
+        },
+        "total_amount": 9800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "edgemont-colony",
+        "name": "Edgemont Colony",
+        "address": null,
+        "city": "St. Joseph Township",
+        "lat": 41.46965,
+        "lon": -84.74773,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {
+          "lihtc_9": 436000
+        },
+        "total_amount": 436000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "stow-kent-gardens",
+        "name": "Stow Kent Gardens",
+        "address": null,
+        "city": "Stow",
+        "lat": 41.15963,
+        "lon": -81.44063,
+        "units": 47,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "thornville-manor",
+        "name": "Thornville Manor",
+        "address": null,
+        "city": "Thorn Township",
+        "lat": 39.88052,
+        "lon": -82.4104,
+        "units": 24,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "commons-at-grant",
+        "name": "Commons at Grant",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 100,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "georgetown-village",
+        "name": "Georgetown Village",
+        "address": null,
+        "city": "Harrison Township",
+        "lat": 39.81047,
+        "lon": -84.23186,
+        "units": 101,
+        "funding_sources": [
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "mf_bonds": 13000000
+        },
+        "total_amount": 13000000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cedarwood-commons",
+        "name": "Cedarwood Commons",
+        "address": null,
+        "city": "Madison Township",
+        "lat": 39.84153,
+        "lon": -82.86748,
+        "units": 223,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "meadow-creek",
+        "name": "Meadow Creek",
+        "address": null,
+        "city": "Madison Township",
+        "lat": 39.84153,
+        "lon": -82.86748,
+        "units": 252,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kinsey-greene",
+        "name": "Kinsey Greene",
+        "address": null,
+        "city": "Xenia Township",
+        "lat": 39.70017,
+        "lon": -83.86126,
+        "units": 110,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 973000
+        },
+        "total_amount": 973000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "community-and-pendleton-apartments",
+        "name": "Community and Pendleton Apartments",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 61,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 960000,
+          "hdl": 2000000,
+          "mf_bonds": 15000000
+        },
+        "total_amount": 17960000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pebble-brooke",
+        "name": "Pebble Brooke",
+        "address": null,
+        "city": "Miami Township",
+        "lat": 39.19696,
+        "lon": -84.2391,
+        "units": 260,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2700000,
+          "mf_bonds": 49000000
+        },
+        "total_amount": 51700000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "seton-portsmouth",
+        "name": "Seton Portsmouth",
+        "address": null,
+        "city": "Washington Township",
+        "lat": 38.73807,
+        "lon": -83.05373,
+        "units": 57,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 922000,
+          "hdl": 2000000,
+          "mf_bonds": 11000000
+        },
+        "total_amount": 13922000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "belmar-trail-of-lebanon",
+        "name": "Belmar Trail of Lebanon",
+        "address": null,
+        "city": "Lebanon",
+        "lat": 39.43534,
+        "lon": -84.20299,
+        "units": 44,
+        "funding_sources": [
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "mf_bonds": 8000000
+        },
+        "total_amount": 8000000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "brentnell-pointe",
+        "name": "Brentnell Pointe",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 844000,
+          "hdl": 2000000,
+          "mf_bonds": 11300000
+        },
+        "total_amount": 14144000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-blair",
+        "name": "The Blair",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 49,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 727000,
+          "hdl": 2000000
+        },
+        "total_amount": 2727000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "emerald-glen-apartments",
+        "name": "Emerald Glen Apartments",
+        "address": null,
+        "city": "Prairie Township",
+        "lat": 39.93518,
+        "lon": -83.19411,
+        "units": 130,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hom-flats-at-forest-avenue",
+        "name": "HoM Flats at Forest Avenue",
+        "address": null,
+        "city": "Harrison Township",
+        "lat": 39.81047,
+        "lon": -84.23186,
+        "units": 260,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 3300000
+        },
+        "total_amount": 3300000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wirthman-yard",
+        "name": "Wirthman Yard",
+        "address": null,
+        "city": "Truro Township",
+        "lat": 39.95521,
+        "lon": -82.80699,
+        "units": 315,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 4700000
+        },
+        "total_amount": 4700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "belmar-hill-of-mt-washington",
+        "name": "Belmar Hill of Mt. Washington",
+        "address": null,
+        "city": "Anderson Township",
+        "lat": 39.08705,
+        "lon": -84.34199,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 540000,
+          "olihtc": 523000,
+          "hdl": 2500000
+        },
+        "total_amount": 3563000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "booth-pointe",
+        "name": "Booth Pointe",
+        "address": null,
+        "city": "Steubenville Township",
+        "lat": 40.32167,
+        "lon": -80.62318,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdap_ohtf",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 876000,
+          "olihtc": 876000,
+          "hdap_ohtf": 4000000,
+          "hdl": 2500000
+        },
+        "total_amount": 8252000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cornerstone-at-eclipse-run",
+        "name": "Cornerstone at Eclipse Run",
+        "address": null,
+        "city": "Athens Township",
+        "lat": 39.3189,
+        "lon": -82.12452,
+        "units": 58,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdap_ohtf",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 956000,
+          "olihtc": 955000,
+          "hdap_ohtf": 2800000,
+          "hdl": 2500000
+        },
+        "total_amount": 7211000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "easton-place-homes-iii",
+        "name": "Easton Place Homes III",
+        "address": null,
+        "city": "Mifflin Township",
+        "lat": 40.02226,
+        "lon": -82.88437,
+        "units": 50,
+        "funding_sources": [
+          "hdl",
+          "olihtc"
+        ],
+        "source_amounts": {
+          "hdl": 2500000,
+          "olihtc": 609000
+        },
+        "total_amount": 3109000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gateway66",
+        "name": "Gateway66",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 80,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hamilton-place",
+        "name": "Hamilton Place",
+        "address": null,
+        "city": "Plain Township",
+        "lat": 40.09036,
+        "lon": -82.79257,
+        "units": 60,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "harding-heights-apartments",
+        "name": "Harding Heights Apartments",
+        "address": null,
+        "city": "Marion Township",
+        "lat": 40.60125,
+        "lon": -83.16888,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdap_ohtf",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 562000,
+          "olihtc": 541000,
+          "hdap_ohtf": 3900000,
+          "hdl": 2500000
+        },
+        "total_amount": 7503000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kinsey-lofts",
+        "name": "Kinsey Lofts",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 845000,
+          "olihtc": 556000,
+          "hdl": 2500000
+        },
+        "total_amount": 3901000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "reserve-at-maryland-avenue",
+        "name": "Reserve at Maryland Avenue",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 84,
+        "funding_sources": [
+          "lihtc_4",
+          "hdl",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1400000,
+          "hdl": 2000000,
+          "mf_bonds": 16000000
+        },
+        "total_amount": 19400000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "silver-birch-of-bedford-heights",
+        "name": "Silver Birch of Bedford Heights",
+        "address": null,
+        "city": "Bedford Heights",
+        "lat": 41.41438,
+        "lon": -81.50611,
+        "units": 120,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1600000,
+          "mf_bonds": 30000000
+        },
+        "total_amount": 31600000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-heights",
+        "name": "The Heights",
+        "address": null,
+        "city": "Springfield Township",
+        "lat": 41.06342,
+        "lon": -81.40986,
+        "units": 160,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 2200000,
+          "olihtc": 997000,
+          "hdl": 2500000
+        },
+        "total_amount": 5697000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-lofts-on-first",
+        "name": "The Lofts on First",
+        "address": null,
+        "city": "Athens Township",
+        "lat": 39.3189,
+        "lon": -82.12452,
+        "units": 51,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdap_ohtf",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 949000,
+          "olihtc": 949000,
+          "hdap_ohtf": 4000000,
+          "hdl": 2500000
+        },
+        "total_amount": 8398000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "springfield-aal",
+        "name": "Springfield AAL",
+        "address": null,
+        "city": "Springfield Township",
+        "lat": 39.93705,
+        "lon": -83.73472,
+        "units": 124,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1900000
+        },
+        "total_amount": 1900000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "vivera-northbrook",
+        "name": "Vivera Northbrook",
+        "address": null,
+        "city": "Colerain Township",
+        "lat": 39.2585,
+        "lon": -84.63293,
+        "units": 118,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1900000
+        },
+        "total_amount": 1900000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gateway-plaza",
+        "name": "Gateway Plaza",
+        "address": null,
+        "city": "Cincinnati",
+        "lat": 39.10128,
+        "lon": -84.51274,
+        "units": 349,
+        "funding_sources": [
+          "lihtc_4"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1600000
+        },
+        "total_amount": 1600000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hub-27",
+        "name": "HUB 27",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 53,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 955000,
+          "olihtc": 955000,
+          "hdl": 2500000
+        },
+        "total_amount": 4410000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lofts-at-40-long",
+        "name": "Lofts at 40 Long",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 121,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1800000,
+          "olihtc": 1000000,
+          "hdl": 2500000
+        },
+        "total_amount": 5300000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "residences-at-ascend",
+        "name": "Residences at Ascend",
+        "address": null,
+        "city": "Akron",
+        "lat": 41.08306,
+        "lon": -81.51848,
+        "units": 71,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1000000,
+          "olihtc": 934000,
+          "hdl": 2500000
+        },
+        "total_amount": 4434000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-heights-on-main",
+        "name": "The Heights on Main",
+        "address": null,
+        "city": "Truro Township",
+        "lat": 39.95521,
+        "lon": -82.80699,
+        "units": 103,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1300000,
+          "olihtc": 1000000,
+          "hdl": 2500000
+        },
+        "total_amount": 4800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-scarborough",
+        "name": "The Scarborough",
+        "address": null,
+        "city": "Columbus",
+        "lat": 39.96226,
+        "lon": -83.00071,
+        "units": 84,
+        "funding_sources": [
+          "lihtc_4",
+          "mf_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1300000,
+          "mf_bonds": 14500000
+        },
+        "total_amount": 15800000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "walton-senior-apartments",
+        "name": "Walton Senior Apartments",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 52,
+        "funding_sources": [
+          "hdl"
+        ],
+        "source_amounts": {
+          "hdl": 1800000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "midtown-lofts",
+        "name": "Midtown Lofts",
+        "address": null,
+        "city": "Cleveland",
+        "lat": 41.49966,
+        "lon": -81.69368,
+        "units": 120,
+        "funding_sources": [
+          "lihtc_4",
+          "olihtc",
+          "hdl"
+        ],
+        "source_amounts": {
+          "lihtc_4": 1700000,
+          "olihtc": 1000000,
+          "hdl": 2500000
+        },
+        "total_amount": 5200000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

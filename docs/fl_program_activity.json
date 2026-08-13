@@ -1,0 +1,2054 @@
+{
+  "FL": {
+    "hfa_name": "Florida Housing Finance Corporation",
+    "hfa_abbr": "Florida Housing",
+    "fiscal_year": "CY2025",
+    "source_title": "2025 Annual Report",
+    "source_url": "https://www.floridahousing.org/docs/default-source/data-docs-and-reports/annual-reports/2025-annual-report.pdf",
+    "source_file": "FL_FloridaHousing_AnnualReport_2025.pdf",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "rental_multifamily",
+        "unit_type": "units",
+        "fy2025_actual": 12007,
+        "fy2025_source_quote": "\"RENTAL PROPERTIES AWARDED FUNDING IN 2025\" table (pp.47-56), TOTALS row: Total Units 12,007, Set-Aside Units 11,762, Estimated Total Development Cost $4,316,107,548, across 81 named developments. (The separate \"SUMMARY OF PROGRAMS\" table, pp.8-9, prints a different Total Units Funded of 13,196 / Set-Aside 12,951, built by a different rolling, multi-year, partial-overlap-adjusted calculation with no per-development detail -- footnote 6 explains the two totals do not reconcile. This script uses 12,007, the fully project-verifiable figure -- see module docstring.)",
+        "fy2025_amounts": [
+          {
+            "label_key": "fl_amt_total_allocated",
+            "amount": 2728587908
+          },
+          {
+            "label_key": "fl_amt_total_dev_cost",
+            "amount": 4316107548
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "flFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hc9",
+            "fy2025_units": 373,
+            "fy2025_amount": 12665630,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hc4",
+            "fy2025_units": 11022,
+            "fy2025_amount": 167954503,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "mmrb",
+            "fy2025_units": 4400,
+            "fy2025_amount": 920440000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Mortgage Revenue Bond program (bond-programs subfund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "sail",
+            "fy2025_units": 565,
+            "fy2025_amount": 35484704,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State Apartment Incentive Loan Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "live_local_sail",
+            "fy2025_units": 2714,
+            "fy2025_amount": 183051021,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State Apartment Incentive Loan Program (Live Local Act variant, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": 115,
+            "fy2025_amount": 26550000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME Investment Partnerships Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "home_arp",
+            "fy2025_units": 258,
+            "fy2025_amount": 6061400,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME Investment Partnerships Program (ARP supplemental allocation, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": 326,
+            "fy2025_amount": 8375000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "National Housing Trust Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "dev_disab",
+            "fy2025_units": 60,
+            "fy2025_amount": 2800000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Legislative Initiatives (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "cdbg_dr",
+            "fy2025_units": 353,
+            "fy2025_amount": 38400000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Community Development Block Grant - Disaster Recovery",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "local_bonds",
+            "fy2025_units": 6016,
+            "fy2025_amount": 1326805650,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_dpa",
+        "unit_type": "households",
+        "fy2025_actual": 8427,
+        "fy2025_source_quote": "\"SUMMARY OF PROGRAMS\" (p.8): Total Homeowners Served or Units Funded 8,427. Footnote 3: \"In order to serve lower income households, resources from more than one program may be combined. Because of this the Total Homeowners Served or Units Funded is not equal to the sum of each program.\" -- Florida Housing's own statement that this category is not additive.",
+        "fy2025_amounts": [
+          {
+            "label_key": "fl_amt_first_mortgage_total",
+            "amount": 1582166593
+          },
+          {
+            "label_key": "fl_amt_dpa_total",
+            "amount": 69891417
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "flFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homebuyer_loans",
+            "fy2025_units": 5843,
+            "fy2025_amount": 1582166593,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Homebuyer Loan Program (Single Family bond program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hap_fl_assist",
+            "fy2025_units": 3866,
+            "fy2025_amount": 38655880,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State/Local Government Housing Trust Fund (documentary stamp tax)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hlp_second_mortgage",
+            "fy2025_units": 79,
+            "fy2025_amount": 890000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Homeownership Loan Program bond subfund (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hfa_preferred_plus",
+            "fy2025_units": 88,
+            "fy2025_amount": 1034882,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hometown_heroes",
+            "fy2025_units": 1808,
+            "fy2025_amount": 29310655,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Florida Hometown Heroes Program (state general revenue)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "hop",
+            "fy2025_units": 129,
+            "fy2025_amount": 3384500,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Homeownership Pool (HOP) Program (Housing Trust Funds)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "ship",
+            "fy2025_units": 2455,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          },
+          {
+            "key": "predevelopment_loan",
+            "fy2025_units": 99,
+            "fy2025_amount": 2768333,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Predevelopment Loan Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "pine-grove-gainesville",
+        "name": "Pine Grove - Gainesville",
+        "address": null,
+        "city": "Alachua County",
+        "lat": 29.67557,
+        "lon": -82.36401,
+        "units": 97,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 584058,
+          "local_bonds": 9000000
+        },
+        "total_amount": 9584058,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "williston-pointe",
+        "name": "Williston Pointe",
+        "address": null,
+        "city": "Alachua County",
+        "lat": 29.67557,
+        "lon": -82.36401,
+        "units": 80,
+        "funding_sources": [
+          "nhtf"
+        ],
+        "source_amounts": {
+          "nhtf": 1925000
+        },
+        "total_amount": 1925000,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "ekos-at-rockledge-park",
+        "name": "Ekos at Rockledge Park",
+        "address": null,
+        "city": "Brevard County",
+        "lat": 28.21002,
+        "lon": -80.79972,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "cdbg_dr"
+        ],
+        "source_amounts": {
+          "hc4": 1620807,
+          "mmrb": 20250000,
+          "cdbg_dr": 10000000
+        },
+        "total_amount": 31870807,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "freedom-point-apartments",
+        "name": "Freedom Point Apartments",
+        "address": null,
+        "city": "Brevard County",
+        "lat": 28.21002,
+        "lon": -80.79972,
+        "units": 90,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 1267527,
+          "mmrb": 14500000,
+          "live_local_sail": 9500000
+        },
+        "total_amount": 25267527,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "aspire-1650",
+        "name": "Aspire 1650",
+        "address": null,
+        "city": "Broward County",
+        "lat": 26.15981,
+        "lon": -80.46236,
+        "units": 90,
+        "funding_sources": [
+          "hc9",
+          "sail",
+          "home_arp"
+        ],
+        "source_amounts": {
+          "hc9": 3300000,
+          "sail": 6100000,
+          "home_arp": 1150000
+        },
+        "total_amount": 10550000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "palms-of-deerfield-townhomes",
+        "name": "Palms of Deerfield Townhomes",
+        "address": null,
+        "city": "Broward County",
+        "lat": 26.15981,
+        "lon": -80.46236,
+        "units": 56,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1569419,
+          "local_bonds": 19000000
+        },
+        "total_amount": 20569419,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "vista-at-springtree",
+        "name": "Vista at Springtree",
+        "address": null,
+        "city": "Broward County",
+        "lat": 26.15981,
+        "lon": -80.46236,
+        "units": 96,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 1385478,
+          "mmrb": 18860000,
+          "live_local_sail": 5952000
+        },
+        "total_amount": 26197478,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "woodsdale-oaks",
+        "name": "Woodsdale Oaks",
+        "address": null,
+        "city": "Broward County",
+        "lat": 26.15981,
+        "lon": -80.46236,
+        "units": 172,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1586534,
+          "local_bonds": 22000000
+        },
+        "total_amount": 23586534,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "vincentian-villas-ii",
+        "name": "Vincentian Villas II",
+        "address": null,
+        "city": "Charlotte County",
+        "lat": 26.90133,
+        "lon": -81.91568,
+        "units": 17,
+        "funding_sources": [
+          "sail",
+          "home_arp"
+        ],
+        "source_amounts": {
+          "sail": 4271804,
+          "home_arp": 1395800
+        },
+        "total_amount": 5667604,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "clara-landings-an-ekos-community",
+        "name": "Clara Landings - an Ekos Community",
+        "address": null,
+        "city": "Collier County",
+        "lat": 26.08796,
+        "lon": -81.37949,
+        "units": 84,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 957604
+        },
+        "total_amount": 957604,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "arbors-pointe",
+        "name": "Arbors Pointe",
+        "address": null,
+        "city": "Columbia County",
+        "lat": 30.20974,
+        "lon": -82.62636,
+        "units": 24,
+        "funding_sources": [
+          "live_local_sail",
+          "home"
+        ],
+        "source_amounts": {
+          "live_local_sail": 1500000,
+          "home": 7000000
+        },
+        "total_amount": 8500000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "sweetwater-apartments-phase-iii",
+        "name": "Sweetwater Apartments Phase III",
+        "address": null,
+        "city": "Columbia County",
+        "lat": 30.20974,
+        "lon": -82.62636,
+        "units": 24,
+        "funding_sources": [
+          "live_local_sail",
+          "home"
+        ],
+        "source_amounts": {
+          "live_local_sail": 1750000,
+          "home": 6625000
+        },
+        "total_amount": 8375000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "huron-sophia-and-capri-villas",
+        "name": "Huron Sophia and Capri Villas",
+        "address": null,
+        "city": "Duval County",
+        "lat": 30.35401,
+        "lon": -81.66321,
+        "units": 151,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1147185,
+          "local_bonds": 16410000
+        },
+        "total_amount": 17557185,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "riverside-park-apartments",
+        "name": "Riverside Park Apartments",
+        "address": null,
+        "city": "Duval County",
+        "lat": 30.35401,
+        "lon": -81.66321,
+        "units": 90,
+        "funding_sources": [
+          "hc4",
+          "sail",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1220771,
+          "sail": 3675000,
+          "local_bonds": 20000000
+        },
+        "total_amount": 24895771,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "gadsden-arms",
+        "name": "Gadsden Arms",
+        "address": null,
+        "city": "Gadsden County",
+        "lat": 30.59373,
+        "lon": -84.63899,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 908851,
+          "mmrb": 12000000
+        },
+        "total_amount": 12908851,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "grove-at-theater-road",
+        "name": "Grove at Theater Road",
+        "address": null,
+        "city": "Hardee County",
+        "lat": 27.48563,
+        "lon": -81.81968,
+        "units": 24,
+        "funding_sources": [
+          "live_local_sail",
+          "home"
+        ],
+        "source_amounts": {
+          "live_local_sail": 1500000,
+          "home": 6025000
+        },
+        "total_amount": 7525000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "cortaro-heights",
+        "name": "Cortaro Heights",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "cdbg_dr",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1559758,
+          "cdbg_dr": 10000000,
+          "local_bonds": 18925000
+        },
+        "total_amount": 30484758,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "country-oaks",
+        "name": "Country Oaks",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 148,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2337676,
+          "local_bonds": 31307000
+        },
+        "total_amount": 33644676,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "gallery-at-rome-yards",
+        "name": "Gallery at Rome Yards",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 234,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 3616472,
+          "mmrb": 64000000
+        },
+        "total_amount": 67616472,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "garrison-flats",
+        "name": "Garrison Flats",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "live_local_sail",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1904134,
+          "live_local_sail": 11000000,
+          "local_bonds": 26500000
+        },
+        "total_amount": 39404134,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "loop-the",
+        "name": "Loop (The)",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 77,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1334810,
+          "local_bonds": 16000000
+        },
+        "total_amount": 17334810,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "rpv-parcel-d",
+        "name": "RPV Parcel D",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 220,
+        "funding_sources": [
+          "hc4",
+          "live_local_sail",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 5049471,
+          "live_local_sail": 13300000,
+          "local_bonds": 60000000
+        },
+        "total_amount": 78349471,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "zion-village",
+        "name": "Zion Village",
+        "address": null,
+        "city": "Hillsborough County",
+        "lat": 27.91845,
+        "lon": -82.34881,
+        "units": 75,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1493045,
+          "local_bonds": 20000000
+        },
+        "total_amount": 21493045,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "crossings-at-cape-coral",
+        "name": "Crossings at Cape Coral",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 168,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1790549,
+          "local_bonds": 30000000
+        },
+        "total_amount": 31790549,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "reserve-at-eastwood-i",
+        "name": "Reserve at Eastwood I",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 288,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 3148910,
+          "mmrb": 44000000
+        },
+        "total_amount": 47148910,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "southward-village-cni-ii",
+        "name": "Southward Village CNI II",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 151,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 2302984,
+          "mmrb": 36000000
+        },
+        "total_amount": 38302984,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "the-residences-fort-myers",
+        "name": "The Residences - Fort Myers",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 60,
+        "funding_sources": [
+          "hc9",
+          "dev_disab"
+        ],
+        "source_amounts": {
+          "hc9": 2286370,
+          "dev_disab": 2800000
+        },
+        "total_amount": 5086370,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "wave-at-chana",
+        "name": "Wave at Chana",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 378,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 5341012,
+          "mmrb": 61980000
+        },
+        "total_amount": 67321012,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "wave-at-colonial",
+        "name": "Wave at Colonial",
+        "address": null,
+        "city": "Lee County",
+        "lat": 26.59993,
+        "lon": -81.88231,
+        "units": 358,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 4736730,
+          "mmrb": 61810000
+        },
+        "total_amount": 66546730,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lake-ella-manor",
+        "name": "Lake Ella Manor",
+        "address": null,
+        "city": "Leon County",
+        "lat": 30.46831,
+        "lon": -84.25491,
+        "units": 73,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "sail"
+        ],
+        "source_amounts": {
+          "hc4": 534245,
+          "mmrb": 9525000,
+          "sail": 1000000
+        },
+        "total_amount": 11059245,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "desoto-apartments",
+        "name": "Desoto Apartments",
+        "address": null,
+        "city": "Manatee County",
+        "lat": 27.52139,
+        "lon": -82.38016,
+        "units": 140,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2113306,
+          "local_bonds": 29000000
+        },
+        "total_amount": 31113306,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "carrfour-apartments",
+        "name": "Carrfour Apartments",
+        "address": null,
+        "city": "Marion County",
+        "lat": 29.21825,
+        "lon": -82.06269,
+        "units": 57,
+        "funding_sources": [
+          "hc9",
+          "sail",
+          "home_arp"
+        ],
+        "source_amounts": {
+          "hc9": 2250000,
+          "sail": 2664300,
+          "home_arp": 788000
+        },
+        "total_amount": 5702300,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "caribbean-isles",
+        "name": "Caribbean Isles",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 142,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 3002313,
+          "local_bonds": 34000000
+        },
+        "total_amount": 37002313,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "flagler-villas",
+        "name": "Flagler Villas",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 60,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1315672,
+          "local_bonds": 18000000
+        },
+        "total_amount": 19315672,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "gallery-at-lummus-parc",
+        "name": "Gallery at Lummus Parc",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 256,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 2072704,
+          "mmrb": 71000000,
+          "live_local_sail": 12750000
+        },
+        "total_amount": 85822704,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "gallery-at-wagner-creek",
+        "name": "Gallery at Wagner Creek",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 460,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 7280025,
+          "mmrb": 122750000,
+          "live_local_sail": 22000000
+        },
+        "total_amount": 152030025,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "haley-sofge-750-apartments",
+        "name": "Haley Sofge 750 Apartments",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 220,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 4563605,
+          "local_bonds": 50000000
+        },
+        "total_amount": 54563605,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "hibiscus-grove",
+        "name": "Hibiscus Grove",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 270,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 3710343,
+          "local_bonds": 52000000
+        },
+        "total_amount": 55710343,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "homestead-gardens-phase-1",
+        "name": "Homestead Gardens Phase 1",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 162,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 4307988,
+          "local_bonds": 44640000
+        },
+        "total_amount": 48947988,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "pinnacle-commons",
+        "name": "Pinnacle Commons",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 1686000,
+          "mmrb": 21000000,
+          "live_local_sail": 9000000
+        },
+        "total_amount": 31686000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "princeton-manor",
+        "name": "Princeton Manor",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 132,
+        "funding_sources": [
+          "nhtf"
+        ],
+        "source_amounts": {
+          "nhtf": 3700000
+        },
+        "total_amount": 3700000,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "residences-at-palm-court",
+        "name": "Residences at Palm Court",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 316,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 6334419,
+          "local_bonds": 82000000
+        },
+        "total_amount": 88334419,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "royal-pointe",
+        "name": "Royal Pointe",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 102,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1628851,
+          "local_bonds": 18000000
+        },
+        "total_amount": 19628851,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "tml-homestead-residences",
+        "name": "TML Homestead Residences",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 100,
+        "funding_sources": [
+          "hc4",
+          "live_local_sail",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2550000,
+          "live_local_sail": 3545000,
+          "local_bonds": 32961000
+        },
+        "total_amount": 39056000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "wynwood-works",
+        "name": "Wynwood Works",
+        "address": null,
+        "city": "Miami-Dade County",
+        "lat": 25.63642,
+        "lon": -80.49895,
+        "units": 120,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2728044,
+          "local_bonds": 32070000
+        },
+        "total_amount": 34798044,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "landings-at-sugarloaf-key",
+        "name": "Landings at Sugarloaf Key",
+        "address": null,
+        "city": "Monroe County",
+        "lat": 25.04051,
+        "lon": -80.83372,
+        "units": 56,
+        "funding_sources": [
+          "sail"
+        ],
+        "source_amounts": {
+          "sail": 4900400
+        },
+        "total_amount": 4900400,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lofts-at-tavernier",
+        "name": "Lofts at Tavernier",
+        "address": null,
+        "city": "Monroe County",
+        "lat": 25.04051,
+        "lon": -80.83372,
+        "units": 86,
+        "funding_sources": [
+          "hc9",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc9": 1629260,
+          "live_local_sail": 13084700
+        },
+        "total_amount": 14713960,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "catchlight-crossings-live-local-workforce",
+        "name": "Catchlight Crossings Live Local Workforce",
+        "address": null,
+        "city": "Orange County",
+        "lat": 28.49516,
+        "lon": -81.31117,
+        "units": 84,
+        "funding_sources": [
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "live_local_sail": 12185521
+        },
+        "total_amount": 12185521,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "citrus-glen",
+        "name": "Citrus Glen",
+        "address": null,
+        "city": "Orange County",
+        "lat": 28.49516,
+        "lon": -81.31117,
+        "units": 272,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 3689009,
+          "mmrb": 51400000
+        },
+        "total_amount": 55089009,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "mira-the",
+        "name": "Mira (The)",
+        "address": null,
+        "city": "Orange County",
+        "lat": 28.49516,
+        "lon": -81.31117,
+        "units": 300,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 5147461,
+          "mmrb": 60000000
+        },
+        "total_amount": 65147461,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "reserve-at-pomelo",
+        "name": "Reserve at Pomelo",
+        "address": null,
+        "city": "Orange County",
+        "lat": 28.49516,
+        "lon": -81.31117,
+        "units": 528,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 9686824,
+          "mmrb": 122000000,
+          "live_local_sail": 26000000
+        },
+        "total_amount": 157686824,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "stillwaters-the",
+        "name": "Stillwaters (The)",
+        "address": null,
+        "city": "Orange County",
+        "lat": 28.49516,
+        "lon": -81.31117,
+        "units": 180,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2871365,
+          "local_bonds": 37000000
+        },
+        "total_amount": 39871365,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "amberwood-lofts",
+        "name": "Amberwood Lofts",
+        "address": null,
+        "city": "Osceola County",
+        "lat": 28.04438,
+        "lon": -81.14375,
+        "units": 88,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 1773752
+        },
+        "total_amount": 1773752,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kissimmee-cove",
+        "name": "Kissimmee Cove",
+        "address": null,
+        "city": "Osceola County",
+        "lat": 28.04438,
+        "lon": -81.14375,
+        "units": 73,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "cdbg_dr"
+        ],
+        "source_amounts": {
+          "hc4": 1209213,
+          "mmrb": 13000000,
+          "cdbg_dr": 8400000
+        },
+        "total_amount": 22609213,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "boynton-bay-apartments",
+        "name": "Boynton Bay Apartments",
+        "address": null,
+        "city": "Palm Beach County",
+        "lat": 26.62798,
+        "lon": -80.44942,
+        "units": 240,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 4791629,
+          "local_bonds": 58000000
+        },
+        "total_amount": 62791629,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "drexel-senior-apartments",
+        "name": "Drexel Senior Apartments",
+        "address": null,
+        "city": "Palm Beach County",
+        "lat": 26.62798,
+        "lon": -80.44942,
+        "units": 188,
+        "funding_sources": [
+          "hc4",
+          "live_local_sail",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 3500000,
+          "live_local_sail": 11656000,
+          "local_bonds": 49000000
+        },
+        "total_amount": 64156000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lake-shore",
+        "name": "Lake Shore",
+        "address": null,
+        "city": "Palm Beach County",
+        "lat": 26.62798,
+        "lon": -80.44942,
+        "units": 192,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2335559,
+          "local_bonds": 28600000
+        },
+        "total_amount": 30935559,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "quiet-waters",
+        "name": "Quiet Waters",
+        "address": null,
+        "city": "Palm Beach County",
+        "lat": 26.62798,
+        "lon": -80.44942,
+        "units": 93,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 782650,
+          "local_bonds": 9369000
+        },
+        "total_amount": 10151650,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "anchor-at-gulf-harbors",
+        "name": "Anchor at Gulf Harbors",
+        "address": null,
+        "city": "Pasco County",
+        "lat": 28.29885,
+        "lon": -82.45267,
+        "units": 388,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 6890429,
+          "local_bonds": 85000000
+        },
+        "total_amount": 91890429,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "cobia-cove",
+        "name": "Cobia Cove",
+        "address": null,
+        "city": "Pasco County",
+        "lat": 28.29885,
+        "lon": -82.45267,
+        "units": 228,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 4325579,
+          "local_bonds": 48430000
+        },
+        "total_amount": 52755579,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "ekos-at-bayonet-point-fka-bayonet-gardens",
+        "name": "Ekos at Bayonet Point (fka Bayonet Gardens)",
+        "address": null,
+        "city": "Pasco County",
+        "lat": 28.29885,
+        "lon": -82.45267,
+        "units": 114,
+        "funding_sources": [
+          "nhtf"
+        ],
+        "source_amounts": {
+          "nhtf": 2750000
+        },
+        "total_amount": 2750000,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "citrus-grove-apartments",
+        "name": "Citrus Grove Apartments",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 84,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1646465,
+          "local_bonds": 22000000
+        },
+        "total_amount": 23646465,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "creekside-manor",
+        "name": "Creekside Manor",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 92,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1297389,
+          "local_bonds": 155000000
+        },
+        "total_amount": 156297389,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "cypress-grove-apartments-largo",
+        "name": "Cypress Grove Apartments - Largo",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 84,
+        "funding_sources": [
+          "hc4",
+          "mmrb"
+        ],
+        "source_amounts": {
+          "hc4": 1535429,
+          "mmrb": 18000000
+        },
+        "total_amount": 19535429,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "independence-place-ii",
+        "name": "Independence Place II",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 14,
+        "funding_sources": [
+          "sail",
+          "home_arp"
+        ],
+        "source_amounts": {
+          "sail": 4200000,
+          "home_arp": 1599100
+        },
+        "total_amount": 5799100,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "indigo-apartments",
+        "name": "Indigo Apartments",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 208,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1958768,
+          "local_bonds": 24000000
+        },
+        "total_amount": 25958768,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "largo-station",
+        "name": "Largo Station",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 168,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 2450000
+        },
+        "total_amount": 2450000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "skyway-lofts-ii",
+        "name": "Skyway Lofts II",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 66,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 1179529
+        },
+        "total_amount": 1179529,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "tomlinson-at-mirror-lake-the",
+        "name": "Tomlinson at Mirror Lake (The)",
+        "address": null,
+        "city": "Pinellas County",
+        "lat": 27.87789,
+        "lon": -82.73293,
+        "units": 195,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 1399650,
+          "mmrb": 43740000,
+          "live_local_sail": 17707800
+        },
+        "total_amount": 62847450,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "highland-creek",
+        "name": "Highland Creek",
+        "address": null,
+        "city": "Polk County",
+        "lat": 27.94485,
+        "lon": -81.72688,
+        "units": 120,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 1700000
+        },
+        "total_amount": 1700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "3-mccown-tower",
+        "name": "3 McCown Tower",
+        "address": null,
+        "city": "Sarasota County",
+        "lat": 27.18136,
+        "lon": -82.36092,
+        "units": 96,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "live_local_sail"
+        ],
+        "source_amounts": {
+          "hc4": 1597628,
+          "mmrb": 30000000,
+          "live_local_sail": 9120000
+        },
+        "total_amount": 40717628,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "carisbrooke-terrace",
+        "name": "Carisbrooke Terrace",
+        "address": null,
+        "city": "Seminole County",
+        "lat": 28.72258,
+        "lon": -81.23537,
+        "units": 80,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "cdbg_dr"
+        ],
+        "source_amounts": {
+          "hc4": 1465241,
+          "mmrb": 15000000,
+          "cdbg_dr": 10000000
+        },
+        "total_amount": 26465241,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "harwick-place",
+        "name": "Harwick Place",
+        "address": null,
+        "city": "Seminole County",
+        "lat": 28.72258,
+        "lon": -81.23537,
+        "units": 80,
+        "funding_sources": [
+          "hc4"
+        ],
+        "source_amounts": {
+          "hc4": 1465241
+        },
+        "total_amount": 1465241,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "huntington-reserve",
+        "name": "Huntington Reserve",
+        "address": null,
+        "city": "Seminole County",
+        "lat": 28.72258,
+        "lon": -81.23537,
+        "units": 168,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2561929,
+          "local_bonds": 34373650
+        },
+        "total_amount": 36935579,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "oaks-at-st-johns",
+        "name": "Oaks at St. Johns",
+        "address": null,
+        "city": "St. Johns County",
+        "lat": 29.90323,
+        "lon": -81.41455,
+        "units": 160,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 1755831,
+          "local_bonds": 21500000
+        },
+        "total_amount": 23255831,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "live-oak-villas-i-ii",
+        "name": "Live Oak Villas I & II",
+        "address": null,
+        "city": "St. Lucie County",
+        "lat": 27.39009,
+        "lon": -80.4579,
+        "units": 184,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2068878,
+          "local_bonds": 20720000
+        },
+        "total_amount": 22788878,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "clyde-morris-landings-v",
+        "name": "Clyde Morris Landings V",
+        "address": null,
+        "city": "Volusia County",
+        "lat": 29.05334,
+        "lon": -81.13108,
+        "units": 227,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2595258,
+          "local_bonds": 24000000
+        },
+        "total_amount": 26595258,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "magnolia-gardens-volusia",
+        "name": "Magnolia Gardens - Volusia",
+        "address": null,
+        "city": "Volusia County",
+        "lat": 29.05334,
+        "lon": -81.13108,
+        "units": 88,
+        "funding_sources": [
+          "hc4",
+          "mmrb",
+          "sail"
+        ],
+        "source_amounts": {
+          "hc4": 943957,
+          "mmrb": 9625000,
+          "sail": 3725000
+        },
+        "total_amount": 14293957,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "shores-the-daytona-beach",
+        "name": "Shores (The) - Daytona Beach",
+        "address": null,
+        "city": "Volusia County",
+        "lat": 29.05334,
+        "lon": -81.13108,
+        "units": 80,
+        "funding_sources": [
+          "hc9",
+          "sail",
+          "home_arp"
+        ],
+        "source_amounts": {
+          "hc9": 3200000,
+          "sail": 4948200,
+          "home_arp": 1128500
+        },
+        "total_amount": 9276700,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "wm-at-the-river",
+        "name": "WM at the River",
+        "address": null,
+        "city": "Volusia County",
+        "lat": 29.05334,
+        "lon": -81.13108,
+        "units": 298,
+        "funding_sources": [
+          "hc4",
+          "local_bonds"
+        ],
+        "source_amounts": {
+          "hc4": 2638540,
+          "local_bonds": 28000000
+        },
+        "total_amount": 30638540,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "fannie-lou-hamer-commons",
+        "name": "Fannie Lou Hamer Commons",
+        "address": null,
+        "city": "Wakulla County",
+        "lat": 30.148,
+        "lon": -84.35435,
+        "units": 43,
+        "funding_sources": [
+          "live_local_sail",
+          "home"
+        ],
+        "source_amounts": {
+          "live_local_sail": 1500000,
+          "home": 6900000
+        },
+        "total_amount": 8400000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      }
+    ]
+  }
+}
