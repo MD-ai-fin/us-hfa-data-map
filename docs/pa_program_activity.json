@@ -1,0 +1,1154 @@
+{
+  "PA": {
+    "hfa_name": "Pennsylvania Housing Finance Agency",
+    "hfa_abbr": "PHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "PHFA 2025 Annual Report -- Homeownership, HEMAP, PHARE and Multifamily Award tables",
+    "source_url": "https://annualreport.phfa.org/2025-report/",
+    "source_file": "PA_PHFA_MapDoc_FY2025.pdf (+ 3 companion FY2025 program tables)",
+    "retrieved": "2026-08-12",
+    "categories": [
+      {
+        "key": "multifamily_awards",
+        "unit_type": "units",
+        "fy2025_actual": 1900,
+        "fy2025_source_quote": "\"PHFA Announces $66.5 Million in Low-Income Housing Tax Credits for Affordable Multifamily Developments in Pennsylvania ... The Pennsylvania Housing Finance Agency has awarded $66.5 million in low-income housing tax credits to support the construction of 1,900 new and rehabilitated affordable multifamily housing units statewide ... 41 new developments will provide an additional 1,946 rental housing units, including 1,900 affordable units for Pennsylvania residents.\" (PHFA press release, PRNewswire release 302580249, October 9, 2025) -- cross-checked against the per-development \"2024 Low Income Housing Tax Credit, PennHOMES, National Housing Trust Fund and PA Housing Tax Credit Awards\" list (Map Doc, same date): 41 rows, LI Units column sums to 1,900, Total Units column sums to 1,946, Federal Tax Credit (LIHTC) column sums to $66,473,105.",
+        "fy2025_amounts": [
+          {
+            "label_key": "pa_amt_lihtc",
+            "amount": 66473105
+          },
+          {
+            "label_key": "pa_amt_pennhomes",
+            "amount": 11114133
+          },
+          {
+            "label_key": "pa_amt_nhtf",
+            "amount": 21492957
+          },
+          {
+            "label_key": "pa_amt_phtc",
+            "amount": 19000000
+          },
+          {
+            "label_key": "pa_amt_hfh",
+            "amount": 1650000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "paFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 1946,
+            "fy2025_amount": 66473105,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "phtc",
+            "fy2025_units": 847,
+            "fy2025_amount": 19000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "pennhomes",
+            "fy2025_units": 264,
+            "fy2025_amount": 11114133,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Housing Program (Penn HOMES designation)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": 1089,
+            "fy2025_amount": 21492957,
+            "color_group": "trust",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "hfh",
+            "fy2025_units": 109,
+            "fy2025_amount": 1650000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 6643,
+        "fy2025_source_quote": "\"Homeownership - 2025 Fiscal Year\" county table, TOTALS row: Total # Purchased Loans 6,643, Total $ Purchased Loans $1,458,750,346.00, Total # K-FIT 4,222, Total $ K-FIT $47,813,854.92, Total # Advantage 65, Total $ Advantage $353,623.00, Total # PENNVEST 102, Total $ PENNVEST $2,374,895.00. K-FIT/Advantage/PENNVEST are down-payment/closing-cost assistance loans layered on top of a SUBSET of the 6,643 purchase loans (a homebuyer receives at most one of the three), not a partition of the full 6,643 -- most purchase loans close with no PHFA-sourced second-mortgage assistance.",
+        "fy2025_amounts": [
+          {
+            "label_key": "pa_amt_purchase_loans",
+            "amount": 1458750346
+          },
+          {
+            "label_key": "pa_amt_downpayment_assist",
+            "amount": 50542372.92
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "paFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "kfit",
+            "fy2025_units": 4222,
+            "fy2025_amount": 47813854.92,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Loan Program (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "advantage",
+            "fy2025_units": 65,
+            "fy2025_amount": 353623,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Loan Program (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "pennvest",
+            "fy2025_units": 102,
+            "fy2025_amount": 2374895,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "hemap_foreclosure_prevention",
+        "unit_type": "households",
+        "fy2025_actual": 211,
+        "fy2025_source_quote": "\"HEMAP Loans - 2025 Fiscal Year\" county table, TOTALS row: 211 loans, $2,758,612.00 total loan amount, $13,074.00 average loan amount.",
+        "fy2025_amounts": [
+          {
+            "label_key": "pa_amt_hemap_loans",
+            "amount": 2758612
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "paFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hemap_loans",
+            "fy2025_units": 211,
+            "fy2025_amount": 2758612,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "HEMAP",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "phare_funding",
+        "unit_type": "dollars",
+        "fy2025_actual": null,
+        "fy2025_source_quote": "\"PHARE Fund - 2025 Fiscal Year\" county table footer rows: Grand Total Realty Transfer Tax Funding $66,950,000 + Marcellus Shale Funding $6,500,000 = Total PHARE Funding $73,450,000; plus separately-printed Regional $6,260,000 and Statewide $2,080,000 allocations (not part of the county-level Grand Total row). No household/unit count is disclosed for PHARE anywhere in the source table -- it is purely a dollar-allocation program, so none is shown here.",
+        "fy2025_amounts": [
+          {
+            "label_key": "pa_amt_phare_total",
+            "amount": 81790000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "paFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "phare_rtt",
+            "fy2025_units": null,
+            "fy2025_amount": 75290000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          },
+          {
+            "key": "phare_marcellus",
+            "fy2025_units": null,
+            "fy2025_amount": 6500000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "paFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "421seventh-ave-apts",
+        "name": "421Seventh Ave Apts",
+        "address": "421 Seventh Avenue",
+        "city": "Pittsburgh",
+        "lat": 40.44273,
+        "lon": -79.99589,
+        "units": 40,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 877141,
+          "phtc": 1000000,
+          "lihtc": 1136407
+        },
+        "total_amount": 3013548,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "carrick-sr-apts",
+        "name": "Carrick Sr Apts",
+        "address": "2531 Brownsville Road",
+        "city": "Pittsburgh",
+        "lat": 40.38635,
+        "lon": -79.97962,
+        "units": 52,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1653863
+        },
+        "total_amount": 3653863,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "chartiers-ave-apts",
+        "name": "Chartiers Ave. Apts.",
+        "address": "704-708 Chartiers Avenue",
+        "city": "McKees Rocks",
+        "lat": 40.46586,
+        "lon": -80.06508,
+        "units": 44,
+        "funding_sources": [
+          "pennhomes",
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 2170000,
+          "nhtf": 624147,
+          "phtc": 1000000,
+          "lihtc": 1850000
+        },
+        "total_amount": 5644147,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "gable-ridge",
+        "name": "Gable Ridge",
+        "address": "8000 Beacon Hill Drive",
+        "city": "Wilkinsburg",
+        "lat": 40.44281,
+        "lon": -79.86345,
+        "units": 50,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 992686
+        },
+        "total_amount": 992686,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "hg-blair",
+        "name": "HG Blair",
+        "address": "Blair Street at Eliza Street",
+        "city": "Pittsburgh",
+        "lat": 40.4407,
+        "lon": -80.00257,
+        "units": 46,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1850000
+        },
+        "total_amount": 3850000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hill-top-villas",
+        "name": "Hill Top Villas",
+        "address": null,
+        "city": "Pittsburgh",
+        "lat": 40.4407,
+        "lon": -80.00257,
+        "units": 48,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1668218
+        },
+        "total_amount": 3668218,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "riverview-manor",
+        "name": "Riverview Manor",
+        "address": "1500 LeTort Street",
+        "city": "Pittsburgh",
+        "lat": 40.47987,
+        "lon": -80.03791,
+        "units": 98,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1662042
+        },
+        "total_amount": 1662042,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "ross-lofts",
+        "name": "Ross Lofts",
+        "address": "100 Ross St.",
+        "city": "Pittsburgh",
+        "lat": 40.43675,
+        "lon": -79.99674,
+        "units": 46,
+        "funding_sources": [
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "phtc": 1000000,
+          "lihtc": 1628804
+        },
+        "total_amount": 2628804,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "shannon-heights-sr-living",
+        "name": "Shannon Heights Sr. Living",
+        "address": "200 Penn Drive",
+        "city": "Verona",
+        "lat": 40.49246,
+        "lon": -79.83426,
+        "units": 48,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 998944,
+          "lihtc": 1700000
+        },
+        "total_amount": 2698944,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "legacy-bricks",
+        "name": "Legacy Bricks",
+        "address": "6 Parcels at the corner of Carroll St. and Temple St.",
+        "city": "Aliquippa",
+        "lat": 40.61024,
+        "lon": -80.26773,
+        "units": 40,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 416098,
+          "phtc": 1000000,
+          "lihtc": 1700000
+        },
+        "total_amount": 3116098,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "st-cecilia-senior",
+        "name": "St. Cecilia Senior",
+        "address": "303 Jackson Street",
+        "city": "Rochester",
+        "lat": 40.70207,
+        "lon": -80.28206,
+        "units": 45,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 998944,
+          "lihtc": 1684800
+        },
+        "total_amount": 2683744,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "cornerstone-at-6th-and-chestnut",
+        "name": "Cornerstone at 6th & Chestnut",
+        "address": "201 S. 6th Street",
+        "city": "Reading",
+        "lat": 40.33202,
+        "lon": -75.9259,
+        "units": 46,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1700000
+        },
+        "total_amount": 3700000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "bensalem-presbyterian-apts",
+        "name": "Bensalem Presbyterian Apts",
+        "address": "1900 Byberry Road",
+        "city": "Bensalem",
+        "lat": 40.10755,
+        "lon": -74.9322,
+        "units": 53,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1203272
+        },
+        "total_amount": 1203272,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "doylestown-senior-veterans",
+        "name": "Doylestown Senior Veterans",
+        "address": "280 N. Broad Street",
+        "city": "Doylestown",
+        "lat": 40.31592,
+        "lon": -75.13494,
+        "units": 60,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "lihtc": 1850000
+        },
+        "total_amount": 2850000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "nathaniel-hickman-house",
+        "name": "Nathaniel Hickman House",
+        "address": "400 N. Walnut St.",
+        "city": "West Chester",
+        "lat": 39.96415,
+        "lon": -75.60671,
+        "units": 32,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 815142,
+          "phtc": 1000000,
+          "lihtc": 1056137
+        },
+        "total_amount": 2871279,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "flemington-manor",
+        "name": "Flemington Manor",
+        "address": "826 Linden St.",
+        "city": "Flemington Borough",
+        "lat": 41.12303,
+        "lon": -77.47154,
+        "units": 46,
+        "funding_sources": [
+          "pennhomes",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 1544133,
+          "lihtc": 1700000
+        },
+        "total_amount": 3244133,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "letort-lofts",
+        "name": "LeTort Lofts",
+        "address": "759 Hamilton Street",
+        "city": "Carlisle",
+        "lat": 40.21166,
+        "lon": -77.18289,
+        "units": 48,
+        "funding_sources": [
+          "pennhomes",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 2600000,
+          "phtc": 1000000,
+          "lihtc": 1530767
+        },
+        "total_amount": 5130767,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tlc-capstone",
+        "name": "TLC Capstone",
+        "address": null,
+        "city": "Harrisburg",
+        "lat": 40.26631,
+        "lon": -76.88611,
+        "units": 34,
+        "funding_sources": [
+          "pennhomes",
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 1000000,
+          "nhtf": 660000,
+          "lihtc": 1458756
+        },
+        "total_amount": 3118756,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "greenhill-court",
+        "name": "Greenhill Court",
+        "address": "1300 Clifton Avenue",
+        "city": "Sharon Hill",
+        "lat": 39.89694,
+        "lon": -75.26745,
+        "units": 45,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1680552
+        },
+        "total_amount": 1680552,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "carriage-house",
+        "name": "Carriage House",
+        "address": "1300 Oakland Avenue",
+        "city": "Indiana",
+        "lat": 40.61524,
+        "lon": -79.16721,
+        "units": 47,
+        "funding_sources": [
+          "pennhomes",
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 2300000,
+          "nhtf": 777450,
+          "lihtc": 1700000
+        },
+        "total_amount": 4777450,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-apartments-at-college-avenue",
+        "name": "The Apartments at College Avenue",
+        "address": "210 College Avenue",
+        "city": "Lancaster",
+        "lat": 40.03989,
+        "lon": -76.321,
+        "units": 49,
+        "funding_sources": [
+          "hfh",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "hfh": 1250000,
+          "lihtc": 1408034
+        },
+        "total_amount": 2658034,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "little-lehigh-ii",
+        "name": "Little Lehigh II",
+        "address": "Portion of 246 Lehigh St.",
+        "city": "Allentown",
+        "lat": 40.60226,
+        "lon": -75.47161,
+        "units": 35,
+        "funding_sources": [
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "phtc": 1000000,
+          "lihtc": 1561289
+        },
+        "total_amount": 2561289,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "taylor-way",
+        "name": "Taylor Way",
+        "address": "Taylor Way",
+        "city": "Pittston",
+        "lat": 41.32591,
+        "lon": -75.78936,
+        "units": 40,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1700000
+        },
+        "total_amount": 1700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "laudenslager-school-apts",
+        "name": "Laudenslager School Apts",
+        "address": "2600 Cowpath Road (aka 200 N. Main St.)",
+        "city": "Hatfield",
+        "lat": 40.27964,
+        "lon": -75.29958,
+        "units": 38,
+        "funding_sources": [
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "phtc": 1000000,
+          "lihtc": 1622768
+        },
+        "total_amount": 2622768,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gateway-on-4th",
+        "name": "Gateway on 4th",
+        "address": "1400 E. 4th Street & 1414 E. 4th Street",
+        "city": "Bethlehem",
+        "lat": -1.45056,
+        "lon": -48.46825,
+        "units": 60,
+        "funding_sources": [
+          "hfh",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "hfh": 400000,
+          "phtc": 1000000,
+          "lihtc": 1800000
+        },
+        "total_amount": 3200000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bretz-court",
+        "name": "Bretz Court",
+        "address": "Bretz Court",
+        "city": "Newport",
+        "lat": 40.47786,
+        "lon": -77.13054,
+        "units": 45,
+        "funding_sources": [
+          "pennhomes",
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "pennhomes": 1500000,
+          "nhtf": 917651,
+          "lihtc": 1684800
+        },
+        "total_amount": 4102451,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "11th-and-berks",
+        "name": "11th & Berks",
+        "address": "1915 N. 11th St.",
+        "city": "Philadelphia",
+        "lat": 39.9816,
+        "lon": -75.15168,
+        "units": 40,
+        "funding_sources": [
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "phtc": 1000000,
+          "lihtc": 1672008
+        },
+        "total_amount": 2672008,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "20th-and-cbm-sr-housing",
+        "name": "20th & CBM Sr. Housing",
+        "address": "2004-2034 Cecil B. Moore Avenue",
+        "city": "Philadelphia",
+        "lat": 39.95272,
+        "lon": -75.16353,
+        "units": 63,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "lihtc": 1850000
+        },
+        "total_amount": 2850000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "4912-griscom-street",
+        "name": "4912 Griscom Street",
+        "address": "4912 Griscom Street",
+        "city": "Philadelphia",
+        "lat": 40.01986,
+        "lon": -75.08227,
+        "units": 44,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 907440,
+          "lihtc": 1850000
+        },
+        "total_amount": 2757440,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "camino-de-oro-ii",
+        "name": "Camino De Oro II",
+        "address": "1802-25 North 8th Street",
+        "city": "Philadelphia",
+        "lat": 39.95697,
+        "lon": -75.15232,
+        "units": 38,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 500000,
+          "phtc": 1000000,
+          "lihtc": 1622831
+        },
+        "total_amount": 3122831,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "fairhill-and-st-hugh-lofts",
+        "name": "Fairhill & St. Hugh Lofts",
+        "address": "Scattered Sites",
+        "city": "Philadelphia",
+        "lat": 39.95272,
+        "lon": -75.16353,
+        "units": 40,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1705860
+        },
+        "total_amount": 3705860,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "help-philadelphia-vii-plus",
+        "name": "Help Philadelphia VII +",
+        "address": "2601-31 N. 28th Street",
+        "city": "Philadelphia",
+        "lat": 39.99594,
+        "lon": -75.17715,
+        "units": 50,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1772076
+        },
+        "total_amount": 3772076,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "media-flats",
+        "name": "Media Flats",
+        "address": "6435 Media Street",
+        "city": "Philadelphia",
+        "lat": 39.97415,
+        "lon": -75.24887,
+        "units": 33,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1414894
+        },
+        "total_amount": 1414894,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "nayda-cintron",
+        "name": "Nayda Cintron",
+        "address": "Various sites on W. Cumberland St., N. Resse St., and Fairhill St.",
+        "city": "Philadelphia",
+        "lat": 39.95272,
+        "lon": -75.16353,
+        "units": 40,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "lihtc": 1698675
+        },
+        "total_amount": 2698675,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pathways-17th-street-community-corridor",
+        "name": "Pathways 17th Street Community Corridor",
+        "address": "Scattered Sites",
+        "city": "Philadelphia",
+        "lat": 39.95272,
+        "lon": -75.16353,
+        "units": 38,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "lihtc": 1615597
+        },
+        "total_amount": 2615597,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "philly-house-residences",
+        "name": "Philly House Residences",
+        "address": "1310 Pearl Street",
+        "city": "Philadelphia",
+        "lat": 39.95841,
+        "lon": -75.16043,
+        "units": 70,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1850000
+        },
+        "total_amount": 3850000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "west-philadelphia-preservation",
+        "name": "West Philadelphia Preservation",
+        "address": "Scattered Sites",
+        "city": "Philadelphia",
+        "lat": 39.95272,
+        "lon": -75.16353,
+        "units": 45,
+        "funding_sources": [
+          "nhtf",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "lihtc": 1676177
+        },
+        "total_amount": 2676177,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "westbrook-community-apartments",
+        "name": "Westbrook Community Apartments",
+        "address": "3901 Germantown Ave.",
+        "city": "Philadelphia",
+        "lat": 40.01268,
+        "lon": -75.15211,
+        "units": 34,
+        "funding_sources": [
+          "nhtf",
+          "phtc",
+          "lihtc"
+        ],
+        "source_amounts": {
+          "nhtf": 1000000,
+          "phtc": 1000000,
+          "lihtc": 1457808
+        },
+        "total_amount": 3457808,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "westpark-redevelopment",
+        "name": "Westpark Redevelopment",
+        "address": "4401 Holden St.",
+        "city": "Philadelphia",
+        "lat": 39.95887,
+        "lon": -75.20948,
+        "units": 42,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1643053
+        },
+        "total_amount": 1643053,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-ridgevue",
+        "name": "The RidgeVue",
+        "address": "5000 Walker's Trail",
+        "city": "Greensburg",
+        "lat": 40.30245,
+        "lon": -79.54433,
+        "units": 84,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1760931
+        },
+        "total_amount": 1760931,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "willowbrook-commons",
+        "name": "Willowbrook Commons",
+        "address": null,
+        "city": "Belle Vernon",
+        "lat": 40.12507,
+        "lon": -79.86644,
+        "units": 50,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1700000
+        },
+        "total_amount": 1700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      }
+    ]
+  }
+}
