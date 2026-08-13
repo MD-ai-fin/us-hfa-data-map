@@ -38,7 +38,7 @@
   "OH": {"staff_count": 112, "source": "LinkedIn", "source_url": "https://www.linkedin.com/company/ohio-housing-finance-agency"},
   "OK": {"staff_count": 60, "source": "LinkedIn", "source_url": "https://www.linkedin.com/company/oklahoma-housing-finance-agency"},
   "OR": {"staff_count": 184, "source": "LinkedIn", "source_url": "https://www.linkedin.com/company/oregonhcs"},
-  "PA": {"staff_count": 94, "source": "LinkedIn", "source_url": "https://www.linkedin.com/company/pa-housing-finance-agency"},
+  "PA": {"staff_count": 342, "source": "PHFA 2025 Annual Report", "source_url": "https://annualreport.phfa.org/2025-report/"},
   "RI": {"staff_count": 129, "source": "LinkedIn", "source_url": "https://www.linkedin.com/company/rihousing"},
   "SC": {"staff_count": 140, "source": "South Carolina Housing", "source_url": "https://schousing.sc.gov/career-opportunities"},
   "SD": {"staff_count": 71, "source": "South Dakota Housing annual report", "source_url": "https://mylrc.sdlegislature.gov/api/Documents/RequiredReport/284665.pdf?Year=2023"},
