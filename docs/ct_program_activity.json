@@ -1,0 +1,713 @@
+{
+  "CT": {
+    "hfa_name": "Connecticut Housing Finance Authority",
+    "hfa_abbr": "CHFA",
+    "fiscal_year": "CY2025",
+    "source_title": "CHFA 2025 Annual Report (calendar-year reporting period)",
+    "source_url": "https://www.chfa.org/assets/1/6/2025_Annual_Report_.pdf",
+    "source_file": "CT_CHFA_AnnualReport_2025.pdf",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily",
+        "unit_type": "units",
+        "fy2025_actual": 1804,
+        "fy2025_source_quote": "\"Appendix C: 2025 Multifamily Initial Closings\" (pp.37-38), 23 named developments, Total Units column sums to 1,804 (independently computed by this script -- the appendix prints no Total row of its own). The Annual Report's separate p.3/p.14 stat-panel figure of \"3,150 Units Reaching Initial Closings\" is a broader, differently-footnoted aggregate that also folds in Build For CT (a separate category below, 1,192 units) and an undocumented \"SSHP Priority Needs\" slice (~154 units) with no appendix table anywhere in this report -- this script uses 1,804, the only fully project-verifiable figure, and records the gap rather than forcing a reconciliation. Stat-panel dollar figures (p.14): \"$14,841,228 9% Tax Credits Awarded\" (= Appendix A's own printed Total, 10 developments/550 units, a 2025 AWARDS list -- a different vintage of developments than this category's 2025 CLOSINGS list), \"$23,820,954 4% Tax Credits Awarded\" (p.18 narrative promises \"a full list... in the appendix\" but no such appendix exists in this 39-page report -- unverifiable against any per-development detail, unlike the other two figures here), and \"$9,670,675 HTCC Credits Awarded\" (= Appendix B's own printed Total, 22 developments/548 units).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ct_amt_9pct_awarded",
+            "amount": 14841228
+          },
+          {
+            "label_key": "ct_amt_4pct_awarded",
+            "amount": 23820954
+          },
+          {
+            "label_key": "ct_amt_htcc_awarded",
+            "amount": 9670675
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ctFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_4pct",
+            "fy2025_units": 1181,
+            "fy2025_amount": 197057571,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 465,
+            "fy2025_amount": 90558306,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "chfa_taxable_bonds",
+            "fy2025_units": 304,
+            "fy2025_amount": 17709644,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Special Obligation Bond and Other Bond Funds (MFSOB)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "chfa_tax_exempt_bonds",
+            "fy2025_units": 610,
+            "fy2025_amount": 54678000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Revenue Bond Fund (HRB) / MFSOB",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "chfa_opportunity_fund",
+            "fy2025_units": 522,
+            "fy2025_amount": 7158000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "CHFA Opportunity Fund (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "doh_sshp_grant",
+            "fy2025_units": 158,
+            "fy2025_amount": 11678685,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "doh_hud_cdbg",
+            "fy2025_units": 158,
+            "fy2025_amount": 4833298,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "build_for_ct",
+        "unit_type": "units",
+        "fy2025_actual": 1192,
+        "fy2025_source_quote": "\"Appendix D: Build For CT Closings\" (p.39), printed Total row: Total M.I. Units 362, Total Units 1,192, Funding Provided $41,125,000, across 13 closings -- independently re-summed from all 13 of the appendix's own rows and matched exactly on all three totals (see verify_build_for_ct_totals()). Program description (p.20): \"Build For CT is a Connecticut Department of Housing (DOH) program administered by [CHFA] that leverages more than $300 million of State bonding to increase the supply of market rate and middle-income rental housing.\" Per this build's task brief, Appendix D is used only for this category-level verification, not exploded into individual map markers -- this category has no `projects`/map presence.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ct_amt_build_for_ct_total",
+            "amount": 41125000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ctFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "build_for_ct_closings",
+            "fy2025_units": 1192,
+            "fy2025_amount": 41125000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 3788,
+        "fy2025_source_quote": "\"Homeownership\" (p.9): \"3,788 Number of Homebuyer First Mortgages\" / \"$1.063B Total First Mortgages Financed\" -- \"In 2025, CHFA assisted nearly 3,800 first-time homebuyers... 153 [Connecticut towns]... over 2,700 homebuyers received forgivable down payment assistance through the Department of Housing's Time to Own Program... 818 borrowers took advantage of CHFA's Down Payment Assistance Program (DAP).\" Per p.11: \"In early 2024, CHFA revised its policy to disallow the use of DAP in combination with the Time To Own (TTO) Program. Borrowers are now limited to selecting one form of CHFA subordinate financing\" -- DAP and TTO are mutually exclusive of each other, but their sum (3,502) is intentionally smaller than the 3,788 first-mortgage headline -- most first mortgages close with no CHFA/DOH-sourced second-mortgage assistance at all.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ct_amt_first_mortgages",
+            "amount": 1063000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ctFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "dap",
+            "fy2025_units": 818,
+            "fy2025_amount": 9548887,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Down Payment Assistance Program (DAP), Housing Mortgage General Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          },
+          {
+            "key": "tto",
+            "fy2025_units": 2684,
+            "fy2025_amount": 65058000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Time To Own (TTO), Grant Programs (Note 16), DOH-funded pass-through",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ctFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "hartford-trinity-street",
+        "name": "Hartford Trinity Street",
+        "address": null,
+        "city": "Hartford",
+        "lat": 41.76458,
+        "lon": -72.69085,
+        "units": 21,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3614294
+        },
+        "total_amount": 3614294,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "northeast-hartford-affordable-housing",
+        "name": "Northeast Hartford Affordable Housing",
+        "address": null,
+        "city": "Hartford",
+        "lat": 41.76458,
+        "lon": -72.69085,
+        "units": 78,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 6814573,
+          "chfa_tax_exempt_bonds": 3325000
+        },
+        "total_amount": 10139573,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "enfield-manor-extension",
+        "name": "Enfield Manor & Extension",
+        "address": null,
+        "city": "Enfield",
+        "lat": 41.97677,
+        "lon": -72.59171,
+        "units": 99,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 19757617,
+          "chfa_tax_exempt_bonds": 5210000
+        },
+        "total_amount": 24967617,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "west-hartford-fellowship-housing-redv-phase-ii",
+        "name": "West Hartford Fellowship Housing Redv. Phase II",
+        "address": null,
+        "city": "West Hartford",
+        "lat": 41.76204,
+        "lon": -72.74204,
+        "units": 77,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_taxable_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 18925107,
+          "chfa_taxable_bonds": 1971150
+        },
+        "total_amount": 20896257,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "240-deming",
+        "name": "240 Deming",
+        "address": null,
+        "city": "South Windsor",
+        "lat": 41.83524,
+        "lon": -72.55627,
+        "units": 55,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_taxable_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 11768553,
+          "chfa_taxable_bonds": 4730000,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 17498553,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-windward-apartments-phase-ii",
+        "name": "The Windward Apartments, Phase II",
+        "address": null,
+        "city": "Bridgeport",
+        "lat": 41.17927,
+        "lon": -73.18879,
+        "units": 51,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 14122932,
+          "chfa_tax_exempt_bonds": 4362000,
+          "chfa_opportunity_fund": 500000
+        },
+        "total_amount": 18984932,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "waltersville-commons",
+        "name": "Waltersville Commons",
+        "address": null,
+        "city": "Bridgeport",
+        "lat": 41.17927,
+        "lon": -73.18879,
+        "units": 70,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 13953448,
+          "chfa_tax_exempt_bonds": 4725000,
+          "chfa_opportunity_fund": 250000
+        },
+        "total_amount": 18928448,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "laurel-estates-apartments",
+        "name": "Laurel Estates Apartments",
+        "address": null,
+        "city": "Waterbury",
+        "lat": 41.55411,
+        "lon": -73.04356,
+        "units": 276,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 32712002
+        },
+        "total_amount": 32712002,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "oak-woods-apartments",
+        "name": "Oak Woods Apartments",
+        "address": null,
+        "city": "Terryville",
+        "lat": 41.67777,
+        "lon": -73.00785,
+        "units": 47,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_taxable_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 12571641,
+          "chfa_taxable_bonds": 2400000,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 15971641,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "parcel-b-phase-i",
+        "name": "Parcel B Phase I",
+        "address": null,
+        "city": "Naugatuck",
+        "lat": 41.49076,
+        "lon": -73.05566,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_taxable_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 12238776,
+          "chfa_taxable_bonds": 875000,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 14113776,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "west-ridge",
+        "name": "West Ridge",
+        "address": null,
+        "city": "New Haven",
+        "lat": 41.30821,
+        "lon": -72.92505,
+        "units": 65,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_taxable_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 13258666,
+          "chfa_taxable_bonds": 7733494,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 21992160,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "brewery-square-apartments",
+        "name": "Brewery Square Apartments",
+        "address": null,
+        "city": "New Haven",
+        "lat": 41.30821,
+        "lon": -72.92505,
+        "units": 104,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 10175448
+        },
+        "total_amount": 10175448,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "10-liberty",
+        "name": "10 Liberty",
+        "address": null,
+        "city": "New Haven",
+        "lat": 41.30821,
+        "lon": -72.92505,
+        "units": 150,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 29637342,
+          "chfa_tax_exempt_bonds": 16085000
+        },
+        "total_amount": 45722342,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "2980-state-street",
+        "name": "2980 State Street",
+        "address": null,
+        "city": "Hamden",
+        "lat": 41.38362,
+        "lon": -72.90201,
+        "units": 64,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 9523552,
+          "chfa_tax_exempt_bonds": 1127000,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 11650552,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "horizon-view",
+        "name": "Horizon View",
+        "address": null,
+        "city": "Montville",
+        "lat": 41.44882,
+        "lon": -72.12949,
+        "units": 57,
+        "funding_sources": [
+          "lihtc_9pct",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 11620115,
+          "chfa_opportunity_fund": 1000000
+        },
+        "total_amount": 12620115,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rotary-commons",
+        "name": "Rotary Commons",
+        "address": null,
+        "city": "Stamford",
+        "lat": 41.05343,
+        "lon": -73.53873,
+        "units": 39,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 8364281,
+          "chfa_tax_exempt_bonds": 4750000
+        },
+        "total_amount": 13114281,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "meadow-gardens",
+        "name": "Meadow Gardens",
+        "address": null,
+        "city": "Norwalk",
+        "lat": 41.1176,
+        "lon": -73.4079,
+        "units": 59,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_tax_exempt_bonds"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 15549297,
+          "chfa_tax_exempt_bonds": 15094000
+        },
+        "total_amount": 30643297,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "augustus-manor",
+        "name": "Augustus Manor",
+        "address": null,
+        "city": "Stamford",
+        "lat": 41.05343,
+        "lon": -73.53873,
+        "units": 105,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 18677360
+        },
+        "total_amount": 18677360,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kimberly-place-apartments",
+        "name": "Kimberly Place Apartments",
+        "address": null,
+        "city": "Danbury",
+        "lat": 41.39482,
+        "lon": -73.45401,
+        "units": 116,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 15805065
+        },
+        "total_amount": 15805065,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "leonard-street-apartments",
+        "name": "Leonard Street Apartments",
+        "address": null,
+        "city": "Norwalk",
+        "lat": 41.1176,
+        "lon": -73.4079,
+        "units": 53,
+        "funding_sources": [
+          "lihtc_4pct",
+          "chfa_opportunity_fund"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 8525808,
+          "chfa_opportunity_fund": 408000
+        },
+        "total_amount": 8933808,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-rocky-hill-seniors",
+        "name": "The Rocky Hill Seniors",
+        "address": null,
+        "city": "Rocky Hill",
+        "lat": 41.66482,
+        "lon": -72.63926,
+        "units": 40,
+        "funding_sources": [
+          "doh_hud_cdbg",
+          "doh_sshp_grant"
+        ],
+        "source_amounts": {
+          "doh_hud_cdbg": 2000000,
+          "doh_sshp_grant": 3170374
+        },
+        "total_amount": 5170374,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "terry-court",
+        "name": "Terry Court",
+        "address": null,
+        "city": "Windham",
+        "lat": 41.69935,
+        "lon": -72.15782,
+        "units": 68,
+        "funding_sources": [
+          "doh_hud_cdbg",
+          "doh_sshp_grant"
+        ],
+        "source_amounts": {
+          "doh_hud_cdbg": 1244684,
+          "doh_sshp_grant": 3000000
+        },
+        "total_amount": 4244684,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "father-honan-terrace",
+        "name": "Father Honan Terrace",
+        "address": null,
+        "city": "Windham",
+        "lat": 41.69935,
+        "lon": -72.15782,
+        "units": 50,
+        "funding_sources": [
+          "doh_hud_cdbg",
+          "doh_sshp_grant"
+        ],
+        "source_amounts": {
+          "doh_hud_cdbg": 1588614,
+          "doh_sshp_grant": 5508311
+        },
+        "total_amount": 7096925,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "MN": {
+    "hfa_name": "Minnesota Housing Finance Agency",
+    "hfa_abbr": "MN Housing",
+    "fiscal_year": "FFY2025",
+    "source_title": "Minnesota Housing 2025 Program Assessment Report (Table 3) + 2025 Multifamily Consolidated RFP/2026 HTC Round 1 Detailed Report and Selected Applications",
+    "source_url": "https://mnhousing.gov/documents/53435/2025_program_assessment_report/view",
+    "source_file": "MN_MNHousing_ProgramAssessmentReport_2025.pdf (+ 2025 Multifamily Consolidated RFP/2026 HTC Round 1 Detailed Report and Selected Applications)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "rental_production",
+        "unit_type": "units",
+        "fy2025_actual": 3026,
+        "fy2025_source_quote": "Table 3: \"Rental Production - New Construction and Rehabilitation (unduplicated count) $295,415,416 3,026\". Printed subtotals: New Construction Subtotal $194,609,019 / 900; Rehabilitation Subtotal $85,972,086 / 1,764; Refinance Only Subtotal $14,079,311 / 295 -- these three sum to only 2,959 units / $294,660,416, 67 units and ~$755K short of the printed 3,026/$295,415,416 headline. Neither footnote near this line (7 or 3) explains the gap (footnote 7 covers a demographic-table exclusion for Section-8-Project-Based units, unrelated to this unit count). This script uses the report's own printed headline (3,026/$295,415,416) as fy2025_actual and does not force a reconciliation of the unexplained gap -- see module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_new_construction",
+            "amount": 194609019
+          },
+          {
+            "label_key": "mn_amt_rehabilitation",
+            "amount": 85972086
+          },
+          {
+            "label_key": "mn_amt_refinance_only",
+            "amount": 14079311
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "new_construction",
+            "fy2025_units": 900,
+            "fy2025_amount": 194609019,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": "Multiple bond/state/federal programs (LMIR, HIB, HOME, NHTF, EDHC, PARIF, LIHTC and others; program-level breakdown not separately disclosed in this table)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "rehabilitation",
+            "fy2025_units": 1764,
+            "fy2025_amount": 85972086,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": "Multiple bond/state/federal programs (LMIR, HIB, HOME, NHTF, EDHC, PARIF, LIHTC and others; program-level breakdown not separately disclosed in this table)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "refinance_only",
+            "fy2025_units": 295,
+            "fy2025_amount": 14079311,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": "Multiple bond/state/federal programs (LMIR, HIB, HOME, NHTF, EDHC, PARIF, LIHTC and others; program-level breakdown not separately disclosed in this table)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "lmir",
+        "unit_type": "units",
+        "fy2025_actual": 877,
+        "fy2025_source_quote": "Table 3: \"Low and Moderate Income Rental (LMIR) $107,629,000 877 $122,724 $27,403 50.9%\" -- Minnesota Housing's disbursed FFY2025 LMIR first-mortgage lending, used verbatim. NOTE: this is a different, larger, differently-scoped figure than the lmir_award subprogram under multifamily_awards below ($19,670,000 across 8 of the 20 newly-selected 2025 projects) -- disbursed-FFY2025 vs. selected-but-not-yet-disbursed 2025 awards -- never added together.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_lmir_disbursed",
+            "amount": 107629000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lmir_disbursed",
+            "fy2025_units": 877,
+            "fy2025_amount": 107629000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 308,
+        "fy2025_source_quote": "Table 3: \"Low-Income Housing Tax Credits (LIHTC) $9,426,276 308 $30,605 $24,760 50.2% - Tax Credit Allocation Amount\" (footnote 8: \"reported for developments with loans that closed in the reporting year\"), used verbatim. Table 3 separately, immediately below, prints \"Syndication Proceeds ($s excluded from Rental Production Total) $85,537,959 308 $277,721\" -- the report's OWN table explicitly labels this larger syndication-proceeds figure as excluded from the Rental Production Total, so it is shown here only as a reference amount, never as fy2025_actual or added to the $9,426,276 allocation amount.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_lihtc_allocation",
+            "amount": 9426276
+          },
+          {
+            "label_key": "mn_amt_lihtc_syndication_proceeds",
+            "amount": 85537959
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_disbursed",
+            "fy2025_units": 308,
+            "fy2025_amount": 9426276,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 5619,
+        "fy2025_source_quote": "Table 3: \"Homebuyer and Home Refinance (unduplicated count) $1,041,376,126 5,619\", used verbatim. Subprograms: \"Home Mortgage Loans - Start Up $748,385,139 3,374\"; \"Home Mortgage Loans - Step Up $147,704,023 551\"; \"Deferred Payment Loans (DPL) (second mortgage) $41,818,598 2,644\"; \"Monthly Payment Loans (MPL) (second mortgage) $15,387,302 1,087\"; \"First-Generation Homebuyer Assistance Program - Minnesota Housing (second mortgage) $30,112,077 871\"; \"Community-Based First-Generation Homebuyers Assistance $50,668,987 1,693\". DPL/MPL/First-Generation are all second-mortgage assistance layered on top of a subset of the Start Up/Step Up first mortgages (Table 3 labels DPL and MPL \"(second mortgage)\" directly) -- the six subprograms' naive sum (10,220) is nearly double the 5,619-household headline, so they are shown as non-additive reference chips, not stacked.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_homebuyer_total",
+            "amount": 1041376126
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "start_up",
+            "fy2025_units": 3374,
+            "fy2025_amount": 748385139,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Residential Housing Finance / Homeownership Finance (bond-financed first mortgages)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "step_up",
+            "fy2025_units": 551,
+            "fy2025_amount": 147704023,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Residential Housing Finance / Homeownership Finance (bond-financed first mortgages)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "dpl",
+            "fy2025_units": 2644,
+            "fy2025_amount": 41818598,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "mpl",
+            "fy2025_units": 1087,
+            "fy2025_amount": 15387302,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "first_gen_mn",
+            "fy2025_units": 871,
+            "fy2025_amount": 30112077,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (First-Generation Homebuyer Loan Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "first_gen_community",
+            "fy2025_units": 1693,
+            "fy2025_amount": 50668987,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (First-Generation Downpayment Assistance via CDFIs)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_awards",
+        "unit_type": "units",
+        "fy2025_actual": 1145,
+        "fy2025_source_quote": "\"2025 Multifamily Consolidated RFP/2026 HTC Round 1, Summary of Recommendations: Detailed Report\", printed \"STATE TOTALS\" row: 1,145 units, $218,384,571 estimated total development cost, across 20 newly-selected developments (GREATER MINNESOTA TOTALS 435 units / METROPOLITAN TOTALS 710 units). This is a SEPARATE, smaller, differently-scoped figure from the rental_production category above (3,026 units) -- these 20 developments are 2025 AWARDS (selected but not yet disbursed), not the FFY2025 DISBURSED total; see module docstring's awards-vs-disbursed note. Never added to or reconciled against rental_production.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_award_total_dev_cost",
+            "amount": 218384571
+          },
+          {
+            "label_key": "mn_amt_award_9pct_htc",
+            "amount": 12651138
+          },
+          {
+            "label_key": "mn_amt_award_deferred_loans_total",
+            "amount": 107915235
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "9pct_htc",
+            "fy2025_units": 322,
+            "fy2025_amount": 12651138,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "edhc_mf",
+            "fy2025_units": 398,
+            "fy2025_amount": 13717100,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "hib_preservation",
+            "fy2025_units": 88,
+            "fy2025_amount": 21369000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Infrastructure Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "hib_senior",
+            "fy2025_units": 189,
+            "fy2025_amount": 28631000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Infrastructure Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "hib_repayments",
+            "fy2025_units": 31,
+            "fy2025_amount": 3572000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Infrastructure Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "home_mf",
+            "fy2025_units": 342,
+            "fy2025_amount": 20005000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": 48,
+            "fy2025_amount": 2820935,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "National Housing Trust Fund (NHTF)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "parif",
+            "fy2025_units": 255,
+            "fy2025_amount": 17800200,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "lmir_award",
+            "fy2025_units": 382,
+            "fy2025_amount": 19670000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "bbl_teb",
+            "fy2025_units": 94,
+            "fy2025_amount": 9640000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Residential Housing Finance / Pool 2 (bridge loan financing, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "hud811",
+            "fy2025_units": 39,
+            "fy2025_amount": 668748,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "third-rapids-apartments",
+        "name": "Third Rapids Apartments",
+        "address": null,
+        "city": "Sartell",
+        "lat": 45.62163,
+        "lon": -94.20694,
+        "units": 48,
+        "funding_sources": [
+          "9pct_htc",
+          "edhc_mf",
+          "lmir_award",
+          "hud811"
+        ],
+        "source_amounts": {
+          "9pct_htc": 1950000,
+          "edhc_mf": 2963000,
+          "lmir_award": 1400000,
+          "hud811": 55140
+        },
+        "total_amount": 6368140,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hilltop-square-apartments",
+        "name": "Hilltop Square Apartments",
+        "address": "405 Main St",
+        "city": "Eagle Bend",
+        "lat": 46.1649,
+        "lon": -95.04146,
+        "units": 23,
+        "funding_sources": [
+          "hib_senior"
+        ],
+        "source_amounts": {
+          "hib_senior": 4308000
+        },
+        "total_amount": 4308000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "freeport-square-apartments",
+        "name": "Freeport Square Apartments",
+        "address": "109 3rd Ave NE",
+        "city": "Freeport",
+        "lat": 45.66262,
+        "lon": -94.68697,
+        "units": 19,
+        "funding_sources": [
+          "9pct_htc",
+          "parif"
+        ],
+        "source_amounts": {
+          "9pct_htc": 425666,
+          "parif": 1606200
+        },
+        "total_amount": 2031866,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "missabe-manor",
+        "name": "Missabe Manor",
+        "address": null,
+        "city": "Hibbing",
+        "lat": 47.42715,
+        "lon": -92.93769,
+        "units": 48,
+        "funding_sources": [
+          "9pct_htc",
+          "lmir_award"
+        ],
+        "source_amounts": {
+          "9pct_htc": 2647213,
+          "lmir_award": 735000
+        },
+        "total_amount": 3382213,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kendall-pointe",
+        "name": "Kendall Pointe",
+        "address": "18th Ave NW & 55th St NW",
+        "city": "Rochester",
+        "lat": 44.02344,
+        "lon": -92.46302,
+        "units": 40,
+        "funding_sources": [
+          "9pct_htc",
+          "home_mf",
+          "lmir_award",
+          "hud811"
+        ],
+        "source_amounts": {
+          "9pct_htc": 1850000,
+          "home_mf": 4001000,
+          "lmir_award": 1431000,
+          "hud811": 90840
+        },
+        "total_amount": 7372840,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "innsbruck-townhomes",
+        "name": "Innsbruck Townhomes",
+        "address": "1530 50th St NW",
+        "city": "Rochester",
+        "lat": 44.07435,
+        "lon": -92.48579,
+        "units": 40,
+        "funding_sources": [
+          "hib_preservation",
+          "parif",
+          "lmir_award"
+        ],
+        "source_amounts": {
+          "hib_preservation": 9269000,
+          "parif": 218000,
+          "lmir_award": 2710000
+        },
+        "total_amount": 12197000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "west-transit-village-ph-1",
+        "name": "West Transit Village Ph. 1",
+        "address": "2905 2nd St SW",
+        "city": "Rochester",
+        "lat": 44.02156,
+        "lon": -92.48983,
+        "units": 75,
+        "funding_sources": [
+          "hib_senior",
+          "lmir_award"
+        ],
+        "source_amounts": {
+          "hib_senior": 9700000,
+          "lmir_award": 7808000
+        },
+        "total_amount": 17508000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "cedar-view-apartments",
+        "name": "Cedar View Apartments",
+        "address": "300 15 Ave NE",
+        "city": "Austin",
+        "lat": 43.68072,
+        "lon": -92.96344,
+        "units": 40,
+        "funding_sources": [
+          "edhc_mf",
+          "home_mf",
+          "lmir_award",
+          "bbl_teb"
+        ],
+        "source_amounts": {
+          "edhc_mf": 2700000,
+          "home_mf": 5716000,
+          "lmir_award": 721000,
+          "bbl_teb": 5160000
+        },
+        "total_amount": 14297000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "henry-hill-apartments",
+        "name": "Henry Hill Apartments",
+        "address": "150 7th Ave",
+        "city": "Granite Falls",
+        "lat": 44.8114,
+        "lon": -95.53894,
+        "units": 54,
+        "funding_sources": [
+          "parif",
+          "bbl_teb"
+        ],
+        "source_amounts": {
+          "parif": 10476000,
+          "bbl_teb": 4480000
+        },
+        "total_amount": 14956000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "white-earth-homes-vi",
+        "name": "White Earth Homes VI",
+        "address": null,
+        "city": "Mahnomen",
+        "lat": 47.33136,
+        "lon": -95.81429,
+        "units": 48,
+        "funding_sources": [
+          "hib_preservation"
+        ],
+        "source_amounts": {
+          "hib_preservation": 12100000
+        },
+        "total_amount": 12100000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lindquist-apartments",
+        "name": "Lindquist Apartments",
+        "address": null,
+        "city": "Minneapolis",
+        "lat": 44.9773,
+        "lon": -93.26547,
+        "units": 26,
+        "funding_sources": [
+          "9pct_htc"
+        ],
+        "source_amounts": {
+          "9pct_htc": 679550
+        },
+        "total_amount": 679550,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "logan-avenue-flats-senior",
+        "name": "Logan Avenue Flats Senior",
+        "address": "529 - 535 Logan Ave North",
+        "city": "Minneapolis",
+        "lat": 44.98242,
+        "lon": -93.30326,
+        "units": 48,
+        "funding_sources": [
+          "hib_senior"
+        ],
+        "source_amounts": {
+          "hib_senior": 8083000
+        },
+        "total_amount": 8083000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "zaria",
+        "name": "Zaria",
+        "address": "3030 Nicollet Ave S",
+        "city": "Minneapolis",
+        "lat": 44.8902,
+        "lon": -93.27812,
+        "units": 90,
+        "funding_sources": [
+          "edhc_mf",
+          "home_mf"
+        ],
+        "source_amounts": {
+          "edhc_mf": 2097500,
+          "home_mf": 3444500
+        },
+        "total_amount": 5542000,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "flour-exchange",
+        "name": "Flour Exchange",
+        "address": "310 Fourth Avenue South",
+        "city": "Minneapolis",
+        "lat": 44.97829,
+        "lon": -93.26397,
+        "units": 110,
+        "funding_sources": [
+          "edhc_mf",
+          "hud811"
+        ],
+        "source_amounts": {
+          "edhc_mf": 2267000,
+          "hud811": 108072
+        },
+        "total_amount": 2375072,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "torre-de-san-miguel",
+        "name": "Torre de San Miguel",
+        "address": null,
+        "city": "Saint Paul",
+        "lat": 44.94975,
+        "lon": -93.0931,
+        "units": 142,
+        "funding_sources": [
+          "parif"
+        ],
+        "source_amounts": {
+          "parif": 5500000
+        },
+        "total_amount": 5500000,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hamm-s-brewery-east-end-apartments",
+        "name": "Hamm's Brewery - East End Apartments",
+        "address": "694 Minnehaha Avenue East",
+        "city": "Saint Paul",
+        "lat": 44.96294,
+        "lon": -93.07022,
+        "units": 110,
+        "funding_sources": [
+          "edhc_mf",
+          "home_mf",
+          "hud811"
+        ],
+        "source_amounts": {
+          "edhc_mf": 3689600,
+          "home_mf": 5832500,
+          "hud811": 225588
+        },
+        "total_amount": 9747688,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "trails-edge-senior-apartments",
+        "name": "Trails Edge Senior Apartments",
+        "address": "905 Airport Road",
+        "city": "Waconia",
+        "lat": 44.84366,
+        "lon": -93.76532,
+        "units": 43,
+        "funding_sources": [
+          "hib_senior",
+          "lmir_award"
+        ],
+        "source_amounts": {
+          "hib_senior": 6540000,
+          "lmir_award": 1646000
+        },
+        "total_amount": 8186000,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-community-corner",
+        "name": "The Community Corner",
+        "address": "1500 69th Ave",
+        "city": "Brooklyn Center",
+        "lat": 45.08013,
+        "lon": -93.30039,
+        "units": 31,
+        "funding_sources": [
+          "9pct_htc",
+          "hib_repayments"
+        ],
+        "source_amounts": {
+          "9pct_htc": 1344050,
+          "hib_repayments": 3572000
+        },
+        "total_amount": 4916050,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "terrano-apts",
+        "name": "Terrano Apts",
+        "address": "111 99th Ave NE",
+        "city": "Blaine",
+        "lat": 45.14986,
+        "lon": -93.26261,
+        "units": 48,
+        "funding_sources": [
+          "9pct_htc",
+          "nhtf",
+          "lmir_award",
+          "hud811"
+        ],
+        "source_amounts": {
+          "9pct_htc": 1904659,
+          "nhtf": 2820935,
+          "lmir_award": 3219000,
+          "hud811": 101160
+        },
+        "total_amount": 8045754,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "heights-ridge-apartments",
+        "name": "Heights Ridge Apartments",
+        "address": "1515 44th Avenue NE",
+        "city": "Columbia Heights",
+        "lat": 45.0483,
+        "lon": -93.2382,
+        "units": 62,
+        "funding_sources": [
+          "9pct_htc",
+          "home_mf",
+          "hud811"
+        ],
+        "source_amounts": {
+          "9pct_htc": 1850000,
+          "home_mf": 1011000,
+          "hud811": 87948
+        },
+        "total_amount": 2948948,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "ok"
+      }
+    ]
+  }
+}

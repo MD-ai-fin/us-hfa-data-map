@@ -1,0 +1,1755 @@
+{
+  "MI": {
+    "hfa_name": "Michigan State Housing Development Authority",
+    "hfa_abbr": "MSHDA",
+    "fiscal_year": "FY2025",
+    "source_title": "FY 2025 Production Goals Report",
+    "source_url": "https://www.michigan.gov/mshda/about/transparency-and-reports",
+    "source_file": "MI_MSHDA_ProductionGoalsReport_FY2025.pdf (FY 2025 Production Goals Report)",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_rental_development",
+        "unit_type": "units",
+        "fy2025_actual": 5324,
+        "fy2025_source_quote": "\"Multifamily Rental Development Production Goal Achievement\" table: FY 2024-2025 Production, Total MSHDA Dollars $1,417,752,404, Total Units Developed 5,324, TDC of MSHDA Projects $1,566,223,402. Summing this category's own 6 financing-program subprograms' unit figures reproduces 5,324 exactly (1,137+1,290+1,989+478+380+50); summing their dollar figures gives $1,027,530,854, NOT $1,417,752,404 -- the $390,221,550 gap is the 10-year LIHTC credit VALUE of the 4% Pass-Through ($129,885,890) and Direct Lending ($260,335,660) deals, which MSHDA's own headline adds on top of the loan dollars for those same deals (a deliberate double-lens \"total investment\" figure, not a data error -- see module docstring).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_multifamily_dollars",
+            "amount": 1417752404
+          },
+          {
+            "label_key": "mi_amt_multifamily_tdc",
+            "amount": 1566223402
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": 5456,
+          "amount": 1226870021,
+          "closed": false,
+          "note_key": "mi_fy26_multifamily"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 1137,
+            "fy2025_amount": 314483080,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": 1150,
+              "amount": 340000000,
+              "closed": false,
+              "note_key": "mi_fy26_lihtc9"
+            }
+          },
+          {
+            "key": "lihtc_4pct_pass_through",
+            "fy2025_units": 1290,
+            "fy2025_amount": 160516518,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing Revenue Bonds (multifamily mortgage loans receivable)",
+            "fy2026": {
+              "value": 2300,
+              "amount": 350000000,
+              "closed": false,
+              "note_key": "mi_fy26_lihtc4pt"
+            }
+          },
+          {
+            "key": "lihtc_4pct_direct_lending",
+            "fy2025_units": 1989,
+            "fy2025_amount": 499931256,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing Revenue Bonds (multifamily mortgage loans receivable)",
+            "fy2026": {
+              "value": 2006,
+              "amount": 350000000,
+              "closed": false,
+              "note_key": "mi_fy26_lihtc4dl"
+            }
+          },
+          {
+            "key": "missing_middle",
+            "fy2025_units": 478,
+            "fy2025_amount": 38800000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (SLFRF - Missing Middle Housing program, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": true,
+              "note_key": "mi_fy26_missing_middle_closed"
+            }
+          },
+          {
+            "key": "eahf",
+            "fy2025_units": 380,
+            "fy2025_amount": 4500000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": 4610000,
+              "closed": false,
+              "note_key": "mi_fy26_eahf"
+            }
+          },
+          {
+            "key": "htif",
+            "fy2025_units": 50,
+            "fy2025_amount": 9300000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 5245,
+        "fy2025_source_quote": "\"Single-Family Homeownership Mortgages Production Goal Achievement\" table, FY 2024-2025 Production: # of DPA Loans 4,767, DPA $'s Loaned $49,298,627, Total # of Loans 5,245, Total $'s Loaned $775,416,034. The table's own 4 sub-rows (MI 10K DPA, MSHDA First-Generation DPA, MSHDA Rate-Relief Mortgage Program, Single-Family Loans w/ no DPA or Rate-Relief) are a clean, mutually-exclusive partition of these same 5,245 loans -- their Total # of Loans and Total $'s Loaned columns sum EXACTLY to 5,245 / $775,416,034 (verify_homeownership_totals()).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_home_total",
+            "amount": 775416034
+          },
+          {
+            "label_key": "mi_amt_home_dpa_total",
+            "amount": 49298627
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": 5225,
+          "amount": 821569895,
+          "closed": false,
+          "note_key": "mi_fy26_homeownership"
+        },
+        "subprograms": [
+          {
+            "key": "mi10k",
+            "fy2025_units": 4334,
+            "fy2025_amount": 666134529,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-family Mortgage Revenue Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "first_gen_dpa",
+            "fy2025_units": 241,
+            "fy2025_amount": 33092081,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-family Mortgage Revenue Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "rate_relief",
+            "fy2025_units": 300,
+            "fy2025_amount": 41704260,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-family Mortgage Revenue Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "no_dpa",
+            "fy2025_units": 370,
+            "fy2025_amount": 34485164,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-family Mortgage Revenue Bonds",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 32595,
+        "fy2025_source_quote": "\"Rental Assistance Programs\" table, \"Total Number and Dollar Amounts of Rental Assistance\" row: 32,595 households, $287,224,953. This script's own 9-row resum matches 32,595 households exactly but sums to $288,082,211 in dollars -- $857,258 (exactly Key to Own's own dollar figure) more than the table's own printed $287,224,953, an apparent arithmetic slip in MSHDA's own table (see module docstring). The report's own front-page executive-summary box separately states 32,459 households served for this same $287,224,953 -- exactly this table's first 8 rows (all but Key to Own, 136 households). MSHDA does not explain either discrepancy; this script uses 32,595 (the fully-itemized table's own printed household total) as fy2025_actual and records 32,459 here for transparency, without forcing either figure to reconcile.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_rental_assist_total",
+            "amount": 287224953
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "miFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hcv",
+            "fy2025_units": 24105,
+            "fy2025_amount": 219821618,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (Section 8 Program, Note 2)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "pbv",
+            "fy2025_units": 5514,
+            "fy2025_amount": 44618691,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (Section 8 Program, Note 2)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "ehv",
+            "fy2025_units": 657,
+            "fy2025_amount": 6675328,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (federal rental assistance programs, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "vash",
+            "fy2025_units": 1315,
+            "fy2025_amount": 9026852,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (Section 8 Program, Note 2)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "ned",
+            "fy2025_units": 317,
+            "fy2025_amount": 2457166,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (federal rental assistance programs, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "mainstream",
+            "fy2025_units": 173,
+            "fy2025_amount": 1374752,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (Section 8 Program, Note 2)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "fup",
+            "fy2025_units": 223,
+            "fy2025_amount": 1915546,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (Section 8 Program, Note 2)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "section811",
+            "fy2025_units": 155,
+            "fy2025_amount": 1335000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (federal rental assistance programs, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "key_to_own",
+            "fy2025_units": 136,
+            "fy2025_amount": 857258,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Funds activity (federal rental assistance programs, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeless_prevention_grants",
+        "unit_type": "dollars",
+        "fy2025_actual": null,
+        "fy2025_source_quote": "\"Homeless Grants funded by MSHDA\" table, \"Total Number and Dollar Amount of Homeless Grants funded by MSHDA\" row: $28,826,165 across 140 grants -- the sum of this table's own 9 grant-type rows, verified exactly on both grant count and dollars (verify_homeless_grant_totals()). No household/unit count is disclosed for any of these programs.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_homeless_total",
+            "amount": 28826165
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "miFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "esg",
+            "fy2025_units": null,
+            "fy2025_amount": 10833372,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "sp_ha",
+            "fy2025_units": null,
+            "fy2025_amount": 313175,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "hmis",
+            "fy2025_units": null,
+            "fy2025_amount": 1232805,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "rhp",
+            "fy2025_units": null,
+            "fy2025_amount": 1726208,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "rhip",
+            "fy2025_units": null,
+            "fy2025_amount": 1924860,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "ces",
+            "fy2025_units": null,
+            "fy2025_amount": 795745,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "home_arp_hnp",
+            "fy2025_units": null,
+            "fy2025_amount": 3000000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "home_arp_hpp",
+            "fy2025_units": null,
+            "fy2025_amount": 5000000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "homeless_hcdf_sdp",
+            "fy2025_units": null,
+            "fy2025_amount": 4000000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing and Community Development Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "neighborhood_development",
+        "unit_type": "units",
+        "fy2025_actual": 1404,
+        "fy2025_source_quote": "\"FY 2024-2025 Dollars and Unit production in Neighborhood Development in Michigan\" header: 116 grants, $50,721,396, 1,404 units (1,201 rehab + 203 new). This equals \"MI Neighborhood Grants\" (112 grants, $50,261,085, 1,199 rehab + 199 new = 1,398 units, itself the sum of CHILL + MI Neighborhood 1.0 + MI Neighborhood 2.0) plus the discontinued \"MSHDA Investing in Community Housing (MICH)\" legacy line (4 grants, $460,311, 2 rehab + 4 new = 6 units) -- both levels of this rollup verified exactly (verify_neighborhood_totals()).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_neighborhood_total",
+            "amount": 50721396
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "miFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "chill",
+            "fy2025_units": 86,
+            "fy2025_amount": 2303150,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing and Community Development Fund (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "mi_neighborhood_1_0",
+            "fy2025_units": 846,
+            "fy2025_amount": 35041685,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing and Community Development Fund (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "mi_neighborhood_2_0",
+            "fy2025_units": 466,
+            "fy2025_amount": 12916250,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing and Community Development Fund (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "mich_legacy",
+            "fy2025_units": 6,
+            "fy2025_amount": 460311,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_solutions",
+        "unit_type": "units",
+        "fy2025_actual": 441,
+        "fy2025_source_quote": "\"FY 2024-2025 Dollars and Units towards Housing Solutions Grants in Michigan\" header: 88 grants, $49,794,351, 441 units -- the exact sum of this section's own 5 grant-type rows (verify_housing_solutions_totals()).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mi_amt_housing_solutions_total",
+            "amount": 49794351
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "miFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "legislative_enhancement",
+            "fy2025_units": 441,
+            "fy2025_amount": 44210000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Legislative Enhancement Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "housing_readiness",
+            "fy2025_units": 0,
+            "fy2025_amount": 2326850,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "hdf_collaborative",
+            "fy2025_units": 0,
+            "fy2025_amount": 1567981,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "hcdf_grants",
+            "fy2025_units": 0,
+            "fy2025_amount": 1200020,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing and Community Development Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          },
+          {
+            "key": "tnhdap",
+            "fy2025_units": 0,
+            "fy2025_amount": 489500,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "miFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "725-amsterdam-affordable",
+        "name": "725 Amsterdam - Affordable",
+        "address": "725 Amsterdam St",
+        "city": "Detroit",
+        "lat": 42.36484,
+        "lon": -83.076,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "centennial-arms-i",
+        "name": "Centennial Arms I",
+        "address": "601 W 1st St",
+        "city": "Evart",
+        "lat": 43.90775,
+        "lon": -85.26595,
+        "units": 80,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "centennial-arms-ii",
+        "name": "Centennial Arms II",
+        "address": "601 W 1st St",
+        "city": "Evart",
+        "lat": 43.90775,
+        "lon": -85.26595,
+        "units": 65,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "flats-on-bridge",
+        "name": "Flats on Bridge",
+        "address": "401 S Bridge St",
+        "city": "Elk Rapids",
+        "lat": 44.89906,
+        "lon": -85.41168,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "gesu-senior-housing",
+        "name": "Gesu Senior Housing",
+        "address": "17181 Birchcrest Dr",
+        "city": "Detroit",
+        "lat": 42.41799,
+        "lon": -83.13706,
+        "units": 36,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lincoln-avenue-lofts",
+        "name": "Lincoln Avenue Lofts",
+        "address": "810 Lincoln Ave",
+        "city": "Port Huron",
+        "lat": 42.98521,
+        "lon": -82.42795,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lvd-lihtc-i",
+        "name": "LVD LIHTC I",
+        "address": "3rd St & 4th St",
+        "city": "Watersmeet",
+        "lat": 46.26773,
+        "lon": -89.17792,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "nelson-school-apartments",
+        "name": "Nelson School Apartments",
+        "address": "550 W Grand Ave",
+        "city": "Muskegon",
+        "lat": 43.22664,
+        "lon": -86.25744,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "orchardview",
+        "name": "Orchardview",
+        "address": "10200 E Carter Rd",
+        "city": "Traverse City",
+        "lat": 44.78242,
+        "lon": -85.65022,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "paw-paw-arms-apartments",
+        "name": "Paw Paw Arms Apartments",
+        "address": "146 Lake St",
+        "city": "Paw Paw",
+        "lat": 42.22681,
+        "lon": -85.89694,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "rivercrest-apartments",
+        "name": "Rivercrest Apartments",
+        "address": "125 W Harrington St",
+        "city": "Croswell",
+        "lat": 43.27558,
+        "lon": -82.62104,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "shea-ravines-ii",
+        "name": "Shea Ravines II",
+        "address": "2929 Burlingame Ave SW",
+        "city": "Wyoming",
+        "lat": 42.91155,
+        "lon": -85.70531,
+        "units": 56,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-preserve-on-ash-ii",
+        "name": "The Preserve on Ash II",
+        "address": "Butternut St & 14th St",
+        "city": "Detroit",
+        "lat": 42.33257,
+        "lon": -83.09051,
+        "units": 31,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "villages-of-parkside-phase-iii-oct-24-round",
+        "name": "Villages of Parkside Phase III (Oct-24 Round)",
+        "address": "5000 Conner St",
+        "city": "Detroit",
+        "lat": 42.40369,
+        "lon": -82.99594,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "vineyard-villas",
+        "name": "Vineyard Villas",
+        "address": "675 Hazen St",
+        "city": "Paw Paw",
+        "lat": 42.22388,
+        "lon": -85.89814,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "130-e-grand-boulevard-apartments",
+        "name": "130 E Grand Boulevard Apartments",
+        "address": "130 E Grand Blvd",
+        "city": "Detroit",
+        "lat": 42.34927,
+        "lon": -83.00318,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "allen-crossing-iii",
+        "name": "Allen Crossing III",
+        "address": "162 E Apple Ave",
+        "city": "Muskegon",
+        "lat": 43.23434,
+        "lon": -86.23979,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "alpine-senior-apartments",
+        "name": "Alpine Senior Apartments",
+        "address": "1625 Alpine Ave NW",
+        "city": "Grand Rapids",
+        "lat": 42.99335,
+        "lon": -85.68882,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "brown-city-homes",
+        "name": "Brown City Homes",
+        "address": "5111 Hawthorne Dr",
+        "city": "Brown City",
+        "lat": 43.21225,
+        "lon": -82.98966,
+        "units": 27,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "froebel-place",
+        "name": "Froebel Place",
+        "address": "417 Jackson Ave",
+        "city": "Muskegon",
+        "lat": 43.24377,
+        "lon": -86.23433,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lighthouse-ridge-apartments",
+        "name": "Lighthouse Ridge Apartments",
+        "address": "09010 73rd St",
+        "city": "South Haven Township",
+        "lat": 44.34575,
+        "lon": -84.40133,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "northern-pines",
+        "name": "Northern Pines",
+        "address": "240 E Michigan Ave",
+        "city": "Battle Creek",
+        "lat": 42.31539,
+        "lon": -85.17623,
+        "units": 56,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "union-suites-on-coit-ii",
+        "name": "Union Suites on Coit II",
+        "address": "628 Coit Ave NE",
+        "city": "Grand Rapids",
+        "lat": 42.97416,
+        "lon": -85.66429,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "villages-of-parkside-phase-iv",
+        "name": "Villages of Parkside - Phase IV",
+        "address": "5000 Conner St",
+        "city": "Detroit",
+        "lat": 42.40369,
+        "lon": -82.99594,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "villages-of-parkside-phase-iii-apr-25-round",
+        "name": "Villages of Parkside Phase III (Apr-25 Round)",
+        "address": "5000 Conner St",
+        "city": "Detroit",
+        "lat": 42.40369,
+        "lon": -82.99594,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "4401-rosa-parks",
+        "name": "4401 Rosa Parks",
+        "address": "4401 Rosa Parks",
+        "city": "Detroit",
+        "lat": 42.34758,
+        "lon": -83.08133,
+        "units": 36,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "avon-towers",
+        "name": "Avon Towers",
+        "address": "435 S Livernois Rd",
+        "city": "Rochester Hills",
+        "lat": 42.67749,
+        "lon": -83.15157,
+        "units": 125,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "cambridge-towers",
+        "name": "Cambridge Towers",
+        "address": "19101 Evergreen Rd",
+        "city": "Detroit",
+        "lat": 42.42969,
+        "lon": -83.23898,
+        "units": 250,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "kalamazoo-community-courtyard",
+        "name": "Kalamazoo Community Courtyard",
+        "address": "3405 Duke St",
+        "city": "Kalamazoo",
+        "lat": 42.25766,
+        "lon": -85.5944,
+        "units": 19,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "lee-plaza-4",
+        "name": "Lee Plaza 4",
+        "address": "2240 W Grand Blvd",
+        "city": "Detroit",
+        "lat": 42.35908,
+        "lon": -83.10175,
+        "units": 65,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "midblock",
+        "name": "Midblock",
+        "address": "444 Watson St",
+        "city": "Detroit",
+        "lat": 42.34667,
+        "lon": -83.05122,
+        "units": 184,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "north-port",
+        "name": "North Port",
+        "address": "2631 Krafft Rd",
+        "city": "Port Huron",
+        "lat": 43.02575,
+        "lon": -82.4351,
+        "units": 251,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "old-mill-pond-apartments",
+        "name": "Old Mill Pond Apartments",
+        "address": "100 E Mill Pond St",
+        "city": "Brooklyn",
+        "lat": 42.10587,
+        "lon": -84.24828,
+        "units": 48,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "plymouth-square",
+        "name": "Plymouth Square",
+        "address": "20201 Plymouth Rd",
+        "city": "Detroit",
+        "lat": 42.37179,
+        "lon": -83.23832,
+        "units": 280,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "westbury-apartments",
+        "name": "Westbury Apartments",
+        "address": "201 Hickory Ct",
+        "city": "Wayland",
+        "lat": 42.67339,
+        "lon": -85.63726,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_4pct_pass_through"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "1309-madison",
+        "name": "1309 Madison",
+        "address": "1309 Madison Ave SE",
+        "city": "Grand Rapids",
+        "lat": 42.93913,
+        "lon": -85.65896,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "206-north-washington",
+        "name": "206 North Washington",
+        "address": "206 N Washington St",
+        "city": "Ypsilanti",
+        "lat": 42.24384,
+        "lon": -83.61444,
+        "units": 22,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "annika-place-ii",
+        "name": "Annika Place II",
+        "address": "1020 Hastings St",
+        "city": "Traverse City",
+        "lat": 44.74923,
+        "lon": -85.59291,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "auburn-place",
+        "name": "Auburn Place",
+        "address": "454 Auburn Ave",
+        "city": "Pontiac",
+        "lat": 42.63452,
+        "lon": -83.27416,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "beacon-place",
+        "name": "Beacon Place",
+        "address": "101 Mechanic St",
+        "city": "Pontiac",
+        "lat": 42.63953,
+        "lon": -83.28432,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "buersmeyer-manor",
+        "name": "Buersmeyer Manor",
+        "address": "8520 Wyoming Ave",
+        "city": "Detroit",
+        "lat": 42.33155,
+        "lon": -83.04664,
+        "units": 35,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "calumet",
+        "name": "Calumet",
+        "address": "4387 Third Ave",
+        "city": "Detroit",
+        "lat": 42.33155,
+        "lon": -83.04664,
+        "units": 104,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "carriage-towne-place",
+        "name": "Carriage Towne Place",
+        "address": "204 E Williams St",
+        "city": "Ovid",
+        "lat": 43.00653,
+        "lon": -84.3693,
+        "units": 24,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "corner-at-wall-street",
+        "name": "Corner at Wall Street",
+        "address": "126 W Wall St",
+        "city": "Benton Harbor",
+        "lat": 42.11453,
+        "lon": -86.45693,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "crossroads-apartments",
+        "name": "Crossroads Apartments",
+        "address": "848 Chestnut St",
+        "city": "Reed City",
+        "lat": 43.86441,
+        "lon": -85.50935,
+        "units": 39,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "elmdale-apartments",
+        "name": "Elmdale Apartments",
+        "address": "1361 Elmdale St NE",
+        "city": "Grand Rapids",
+        "lat": 43.02468,
+        "lon": -85.63535,
+        "units": 18,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "grand-vista-place",
+        "name": "Grand Vista Place",
+        "address": "220 E Kalamazoo St",
+        "city": "Lansing",
+        "lat": 42.72993,
+        "lon": -84.55026,
+        "units": 63,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "henry-street-redevelopment-4pct",
+        "name": "Henry Street Redevelopment (4%)",
+        "address": "447 Henry St",
+        "city": "Detroit",
+        "lat": 42.33843,
+        "lon": -83.05778,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "higginbotham-school-development",
+        "name": "Higginbotham School Development",
+        "address": "20119 Wisconsin St",
+        "city": "Detroit",
+        "lat": 42.44164,
+        "lon": -83.15849,
+        "units": 100,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "highland-park-housing-commission",
+        "name": "Highland Park Housing Commission",
+        "address": null,
+        "city": "Highland Park",
+        "lat": 42.4056,
+        "lon": -83.09658,
+        "units": 164,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "hive-on-russell",
+        "name": "Hive on Russell",
+        "address": "2105 Russell St",
+        "city": "Detroit",
+        "lat": 42.34266,
+        "lon": -83.038,
+        "units": 73,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "legacy-senior-housing-the-4pct",
+        "name": "Legacy Senior Housing, The (4%)",
+        "address": "120 E North St",
+        "city": "Kalamazoo",
+        "lat": 42.29782,
+        "lon": -85.58299,
+        "units": 34,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "martin-gardens",
+        "name": "Martin Gardens",
+        "address": null,
+        "city": "Detroit",
+        "lat": 42.33155,
+        "lon": -83.04664,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "minock-park",
+        "name": "Minock Park",
+        "address": "19505 Grand River Ave",
+        "city": "Detroit",
+        "lat": 42.40703,
+        "lon": -83.23425,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "mystic-view",
+        "name": "Mystic View",
+        "address": "928 Ryan St",
+        "city": "Pullman",
+        "lat": 42.48957,
+        "lon": -86.08326,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "peterboro-place",
+        "name": "Peterboro Place",
+        "address": "8 Peterboro St",
+        "city": "Detroit",
+        "lat": 42.34536,
+        "lon": -83.05688,
+        "units": 70,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "preston-townhomes",
+        "name": "Preston Townhomes",
+        "address": "7200 Mack Ave",
+        "city": "Detroit",
+        "lat": 42.36422,
+        "lon": -83.0124,
+        "units": 31,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "rivers-edge",
+        "name": "Rivers Edge",
+        "address": "508 Harrison St",
+        "city": "Kalamazoo",
+        "lat": 42.29656,
+        "lon": -85.57461,
+        "units": 226,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "royal-oak-cottages-i",
+        "name": "Royal Oak Cottages I",
+        "address": null,
+        "city": "Royal Oak",
+        "lat": 42.48948,
+        "lon": -83.14465,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "russell-woods-4pct",
+        "name": "Russell Woods 4%",
+        "address": "11421 Dexter Ave",
+        "city": "Detroit",
+        "lat": 42.37802,
+        "lon": -83.1231,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "sanctuary-at-brewster-the",
+        "name": "Sanctuary at Brewster, The",
+        "address": "2900 St Antoine St",
+        "city": "Detroit",
+        "lat": 42.34636,
+        "lon": -83.04798,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "union-at-a2",
+        "name": "Union at A2",
+        "address": "2050 Commerce Blvd",
+        "city": "Ann Arbor",
+        "lat": 42.28137,
+        "lon": -83.74846,
+        "units": 256,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "verne-barry-place",
+        "name": "Verne Barry Place",
+        "address": "60 S Division Ave",
+        "city": "Grand Rapids",
+        "lat": 42.96092,
+        "lon": -85.66792,
+        "units": 116,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "villa-esperanza",
+        "name": "Villa Esperanza",
+        "address": "1446 44th St SW",
+        "city": "Wyoming",
+        "lat": 42.88427,
+        "lon": -85.70109,
+        "units": 39,
+        "funding_sources": [
+          "lihtc_4pct_direct_lending"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "ok"
+      }
+    ]
+  }
+}
