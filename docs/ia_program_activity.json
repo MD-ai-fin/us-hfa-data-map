@@ -1,0 +1,515 @@
+{
+  "IA": {
+    "hfa_name": "Iowa Finance Authority",
+    "hfa_abbr": "IFA",
+    "fiscal_year": "FY2025",
+    "source_title": "IFA FY2025 Performance Report + 2025 9%/4% Housing Tax Credit Award Lists",
+    "source_url": "https://opportunityiowa.gov/about/iowa-finance-authority/financial-reports",
+    "source_file": "IA_IFA_PerformanceReport_FY2025.pdf (+ 2025 9% and 4% Housing Tax Credit Award Lists)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 2908,
+        "fy2025_source_quote": "\"2,908 Iowans purchased a home through an IFA homeownership program in FY25, a 9% increase over the previous year and the second most homebuyers assisted in a single year in IFA's 50-year history.\" (Performance Report p.5); KPI table (p.6): \"Number of Homebuyers assisted with mortgages: Target 2,200, Actual 2,908, Yes\" and \"Number of Iowans assisted with down payment: Target 1,870, Actual 2,722, Yes.\" IFA's own FY2025 ACFR Transmittal Letter (p.2) independently confirms: \"The single-family program assisted 2,908 home buyers by funding nearly $509 million in mortgage-backed securities during fiscal year 2025. Approximately 94% of these home buyers also benefitted from the Authority's down payment and closing cost assistance.\" No per-loan or county-level list is published for this program anywhere IFA discloses, so this category stays at the KPI level (no RAW_PROJECTS entries).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ia_amt_mbs_financed",
+            "amount": 509000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "iaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "mortgage_loans",
+            "fy2025_units": 2908,
+            "fy2025_amount": 509000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Single-Family Bond Programs (1991 MB / 2009 MRB)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "dpa",
+            "fy2025_units": 2722,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Single-Family Bond Programs (Deferred Down Payment Assistance)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "lihtc_awards",
+        "unit_type": "units",
+        "fy2025_actual": 889,
+        "fy2025_source_quote": "\"889 Iowa families will have access to affordable housing through more than $15.5 million in federal 9% and 4% housing tax credits.\" (Performance Report p.5); KPI table (p.5): \"Number of units awarded tax credits: Target 1,000, Actual 889, No\" and \"Percent of available tax credits awarded: Target 100%, Actual 99%, No.\" This script's own two award lists -- \"2025 9% Federal Housing Tax Credit with HOME & NHTF Award Listing\" (TOTAL row: 10 projects, 286 Total Units, $8,320,433 Credit Award, $2,664,999 [State] HOME, $1,000,000 NHTF) and \"2025 4% Federal Housing Tax Credit (LIHTC) Awards\" (TOTAL row: 4 Projects, 621 Total Units, $58,902,467 Tax-Exempt Bond Amount, $8,065,137 Credit Award) -- sum to 286+621=907 units, about 2% above the official 889 headline; this ~2% gap is not reconciled (see module docstring). CATEGORIES uses 889 (the official KPI headline); RAW_PROJECTS and each subprogram's own fy2025_units use the two award lists' own independently-verified 286/621 totals.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ia_amt_lihtc_9pct_credit",
+            "amount": 8320433
+          },
+          {
+            "label_key": "ia_amt_lihtc_4pct_credit",
+            "amount": 8065137
+          },
+          {
+            "label_key": "ia_amt_home",
+            "amount": 2664999
+          },
+          {
+            "label_key": "ia_amt_nhtf",
+            "amount": 1000000
+          },
+          {
+            "label_key": "ia_amt_tax_exempt_bond",
+            "amount": 58902467
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "iaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 286,
+            "fy2025_amount": 8320433,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4pct",
+            "fy2025_units": 621,
+            "fy2025_amount": 8065137,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": null,
+            "fy2025_amount": 2664999,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "tax_exempt_bond",
+            "fy2025_units": null,
+            "fy2025_amount": 58902467,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "state_housing_trust_fund",
+        "unit_type": "households",
+        "fy2025_actual": 2636,
+        "fy2025_source_quote": "KPI table (p.6): \"Number of units created/preserved through the Local Housing Trust Fund Program: Target 2,300, Actual 2,636, Yes\" and \"Percent of Local Housing Trust Fund Program Funds Appropriated: Target 100%, Actual 100%, Yes.\" The executive-summary narrative (p.5) separately states \"More than 2,600 families will be assisted through more than $12.6 million in State Housing Trust Fund grants to help finance affordable housing activities, the most in a single year in program history\" -- consistent with, though less precise than, the KPI table's 2,636. No per-grant or county-level list is published for this program anywhere IFA discloses, so this category stays at the KPI level (no RAW_PROJECTS entries).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ia_amt_shtf_total",
+            "amount": 12600000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "iaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "local_htf_grants",
+            "fy2025_units": 2636,
+            "fy2025_amount": 12600000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeless_prevention",
+        "unit_type": "households",
+        "fy2025_actual": null,
+        "fy2025_source_quote": "\"5,124 households and 6,088 households were assisted through the Emergency Solutions Grant and Shelter Assistance Funds programs respectively to help avoid homelessness or get rapidly rehoused in their time of need.\" (Performance Report p.5). No combined headline is published for these two programs together, so fy2025_actual is None here (not invented as 5,124+6,088). The KPI table (p.5) separately tracks each program by PROJECT count, a different unit of measure: \"Emergency Solutions Grant (ESG): Number of projects assisted, Target 27, Actual 27, Yes\"; \"Shelter Assistance Fund (SAF): Number of projects assisted, Target 27, Actual 30, Yes.\" No dollar figure for either program appears in the Performance Report; ESG's fy2025_amount below ($3,264,506) instead comes from IFA's own FY2025 ACFR Schedule of Expenditures of Federal Awards (SEFA, p.88): \"Emergency Solutions Grants Program 14.231 ... $3,264,506\" of FY2025 federal expenditures -- a genuine, audited IFA-disclosed dollar figure for the same program/year, but from a different document/accounting concept than the 5,124-households figure, so it is not claimed to equal \"dollars per ESG household.\" SAF is a state-only (non-federal) program with no dollar figure disclosed anywhere in the ACFR (it is not a SEFA line), so saf's fy2025_amount is None.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ia_amt_esg_total",
+            "amount": 3264506
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "iaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "esg",
+            "fy2025_units": 5124,
+            "fy2025_amount": 3264506,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          },
+          {
+            "key": "saf",
+            "fy2025_units": 6088,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "goldfinch-lofts",
+        "name": "Goldfinch Lofts",
+        "address": "3404 Ingersoll Avenue",
+        "city": "Des Moines",
+        "county": "Polk",
+        "lat": 41.58622,
+        "lon": -93.66366,
+        "units": 28,
+        "funding_sources": [
+          "lihtc_9pct",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1000000,
+          "home": 500000
+        },
+        "total_amount": 1500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "maplecrest-apartments",
+        "name": "Maplecrest Apartments",
+        "address": "2205 Central Avenue",
+        "city": "Hawarden",
+        "county": "Sioux",
+        "lat": 43.01059,
+        "lon": -96.48522,
+        "units": 20,
+        "funding_sources": [
+          "lihtc_9pct",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 514800,
+          "home": 564999
+        },
+        "total_amount": 1079799,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "brockton-place",
+        "name": "Brockton Place",
+        "address": "S. 15th Avenue W.",
+        "city": "Newton",
+        "county": "Jasper",
+        "lat": 41.68615,
+        "lon": -93.0739,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_9pct",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1300000,
+          "home": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "river-district",
+        "name": "River District",
+        "address": "801 3rd Avenue NW",
+        "city": "Fort Dodge",
+        "county": "Webster",
+        "lat": 42.51521,
+        "lon": -94.21122,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1195346
+        },
+        "total_amount": 1195346,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "foundry-lofts",
+        "name": "Foundry Lofts",
+        "address": "509 SE 6th Street",
+        "city": "Des Moines",
+        "county": "Polk",
+        "lat": 41.58235,
+        "lon": -93.60648,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9pct",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1300000,
+          "home": 500000,
+          "nhtf": 1000000
+        },
+        "total_amount": 2800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-iris",
+        "name": "The Iris",
+        "address": "60 Act Pl",
+        "city": "Iowa City",
+        "county": "Johnson",
+        "lat": 41.67732,
+        "lon": -91.50131,
+        "units": 44,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1300000
+        },
+        "total_amount": 1300000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-residence-at-carter-lake",
+        "name": "The Residence at Carter Lake",
+        "address": "NE Corner N. 9th St and Ave K",
+        "city": "Carter Lake",
+        "county": "Pottawattamie",
+        "lat": 41.28513,
+        "lon": -95.91716,
+        "units": 54,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1300000
+        },
+        "total_amount": 1300000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "manor-20",
+        "name": "Manor 2.0",
+        "address": "215 E 37th Street",
+        "city": "Davenport",
+        "county": "Scott",
+        "lat": 41.55737,
+        "lon": -90.5715,
+        "units": 10,
+        "funding_sources": [
+          "lihtc_9pct",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 316250,
+          "home": 600000
+        },
+        "total_amount": 916250,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "martin-tower-apartments",
+        "name": "Martin Tower Apartments",
+        "address": "410 Pierce Street",
+        "city": "Sioux City",
+        "county": "Woodbury",
+        "lat": 42.49443,
+        "lon": -96.40464,
+        "units": 86,
+        "funding_sources": [
+          "lihtc_4pct",
+          "tax_exempt_bond"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 685182,
+          "tax_exempt_bond": 5215000
+        },
+        "total_amount": 5900182,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-atheneum",
+        "name": "The Atheneum",
+        "address": "4010 20th Ave SW",
+        "city": "Cedar Rapids",
+        "county": "Linn",
+        "lat": 41.96025,
+        "lon": -91.72301,
+        "units": 192,
+        "funding_sources": [
+          "lihtc_4pct",
+          "tax_exempt_bond"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2881783,
+          "tax_exempt_bond": 20282551
+        },
+        "total_amount": 23164334,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "central-at-orchard-court",
+        "name": "Central at Orchard Court",
+        "address": "204 W. Benton Street",
+        "city": "Iowa City",
+        "county": "Johnson",
+        "lat": 41.65053,
+        "lon": -91.54188,
+        "units": 183,
+        "funding_sources": [
+          "lihtc_4pct",
+          "tax_exempt_bond"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2708050,
+          "tax_exempt_bond": 19794458
+        },
+        "total_amount": 22502508,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "sioux-city-3",
+        "name": "Sioux City 3",
+        "address": null,
+        "city": "Sioux City",
+        "county": "Woodbury",
+        "lat": 42.49668,
+        "lon": -96.40588,
+        "units": 160,
+        "funding_sources": [
+          "lihtc_4pct",
+          "tax_exempt_bond"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 1790122,
+          "tax_exempt_bond": 13610458
+        },
+        "total_amount": 15400580,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      }
+    ]
+  }
+}

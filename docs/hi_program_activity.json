@@ -1,0 +1,661 @@
+{
+  "HI": {
+    "hfa_name": "Hawaii Housing Finance and Development Corporation",
+    "hfa_abbr": "HHFDC",
+    "fiscal_year": "FY2025",
+    "source_title": "HHFDC FY 2025 Annual Report -- Housing Production Summary (Table 10), 2025 LIHTC Award Reservations (Table 1), and HMMF financing narrative",
+    "source_url": "https://dbedt.hawaii.gov/hhfdc/files/2026/01/2025-Annual-Report.pdf",
+    "source_file": "HI_HHFDC_AnnualReport_FY2025.pdf",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "units_completed",
+        "unit_type": "units",
+        "fy2025_actual": 1460,
+        "fy2025_source_quote": "\"HHFDC assisted in the delivery of 1,460 units that were placed in service and provided financing or development assistance for 10,875 units that are expected to come online in the coming years.\" (Executive Director's Welcome, p.4) Table 10, \"Projects Completed in FY 2025\" (p.38): 14 projects, Number of Units column sums to 1,460. The \"Summary of Projects Completed in FY 2025\" box directly below it (p.39) prints: New Construction 1,189 | Preservation 523 | For Rent 1,460 | For Sale 0 | Total 1,460 -- HHFDC's own New Construction (1,189) + Preservation (523) = 1,712 does NOT equal its own printed Total (1,460); this script reproduces HHFDC's own printed figures verbatim and does not attempt to force a reconciliation (see module docstring, \"The 1,189 + 523 vs. 1,460 discrepancy\").",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": 1546,
+          "amount": null,
+          "closed": false,
+          "note_key": null
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 1356,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "rhrf",
+            "fy2025_units": 724,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing Revolving Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "hmmf",
+            "fy2025_units": 657,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": 237,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "HOME Investment Partnership Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "htf",
+            "fy2025_units": 237,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Housing Trust Fund Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "get",
+            "fy2025_units": 1192,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "durf",
+            "fy2025_units": 317,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Dwelling Unit Revolving Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "201h",
+            "fy2025_units": 72,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "ep",
+            "fy2025_units": 169,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "home_arp",
+            "fy2025_units": 32,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "HOME Investment Partnership Program (HOME-ARP, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          },
+          {
+            "key": "land",
+            "fy2025_units": 200,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "lihtc_reservations",
+        "unit_type": "units",
+        "fy2025_actual": 1234,
+        "fy2025_source_quote": "\"During 2025, HHFDC awarded LIHTC reservations to 8 affordable housing projects, supporting the new construction or rehabilitation of 1,234 units\" (p.13-14). Table 1, \"2025 Low-Income Housing Tax Credit Award Reservations\" (p.14): 8 projects, Total Units column sums to 1,234. NOTE: unlike \"units_completed\" (a fiscal-year, July 2024-June 2025 figure), Table 1 covers CALENDAR year 2025 (Jan-Dec 2025) -- \"When presenting facts on financing awards, HHFDC adheres to a calendar year schedule\" (p.13) -- a different, only partially overlapping 12-month window (see module docstring).",
+        "fy2025_amounts": [
+          {
+            "label_key": "hi_amt_lihtc_allocation",
+            "amount": 4988856
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "hiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_award",
+            "fy2025_units": 1234,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "hmmf_financing",
+        "unit_type": "units",
+        "fy2025_actual": 1333,
+        "fy2025_source_quote": "\"In 2025, HHFDC awarded $357,006,367 in HMMF financing, which will assist with the construction of 1,333 affordable housing units statewide.\" (p.16) NOTE: like \"lihtc_reservations\" above, this is a CALENDAR year 2025 figure, not a fiscal-year one (see module docstring). No per-project table in this report ties precisely to this $357,006,367/1,333-unit figure -- Table 6, \"Issuance of Bonds for Construction\" (p.18), is the closest candidate but covers a narrower/different population (bonds actually issued during FY2025, not awarded during CY2025): 8 projects, 1,279 units, $335,332,934. This category therefore carries no project-level detail of its own rather than force an unverifiable mapping (see module docstring).",
+        "fy2025_amounts": [
+          {
+            "label_key": "hi_amt_hmmf_financing",
+            "amount": 357006367
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "hiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hmmf_award",
+            "fy2025_units": 1333,
+            "fy2025_amount": 357006367,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "hale-na-koa-o-hanakahi-fka-west-kawili-street-senior-veteran-housing",
+        "name": "Hale Na Koa O Hanakahi (fka West Kawili Street Senior/Veteran Housing)",
+        "address": null,
+        "city": "Hawaii",
+        "lat": 19.62733,
+        "lon": -155.56456,
+        "units": 92,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "hmmf",
+          "home",
+          "htf",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "hocking-hale-hocking-building",
+        "name": "Hocking Hale (Hocking Building)",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 40,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "jack-hall-waipahu-apartments",
+        "name": "Jack Hall Waipahu Apartments",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 144,
+        "funding_sources": [
+          "lihtc",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kai-olino-phase-1-bldg-b",
+        "name": "Kai Olino Phase 1 Bldg B",
+        "address": null,
+        "city": "Kauai",
+        "lat": 22.05572,
+        "lon": -159.49451,
+        "units": 24,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kai-olino-phase-2",
+        "name": "Kai Olino Phase 2",
+        "address": null,
+        "city": "Kauai",
+        "lat": 22.05572,
+        "lon": -159.49451,
+        "units": 27,
+        "funding_sources": [
+          "lihtc",
+          "rhrf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kauhale-i-ke-kula-uka-fka-kaloko-heights",
+        "name": "Kauhale I Ke Kula Uka (fka Kaloko Heights)",
+        "address": null,
+        "city": "Hawaii",
+        "lat": 19.62733,
+        "lon": -155.56456,
+        "units": 100,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "hmmf",
+          "home",
+          "htf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "koa-vista-1",
+        "name": "Koa Vista 1",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 96,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "hmmf",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lima-ola-phase-1---lot-1---permanently-supportive-housing-project-mf-rh-units",
+        "name": "Lima Ola, Phase 1 - Lot 1 - Permanently Supportive Housing Project (MF RH Units)",
+        "address": null,
+        "city": "Kauai",
+        "lat": 22.05572,
+        "lon": -159.49451,
+        "units": 32,
+        "funding_sources": [
+          "home_arp",
+          "durf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lima-ola-phase-1---lot-2-senior-mf-rh-units",
+        "name": "Lima Ola, Phase 1 - Lot 2 Senior MF RH Units",
+        "address": null,
+        "city": "Kauai",
+        "lat": 22.05572,
+        "lon": -159.49451,
+        "units": 40,
+        "funding_sources": [
+          "lihtc",
+          "durf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "lima-ola-phase-1---lot-45-family-mf-rh-units",
+        "name": "Lima Ola, Phase 1 - Lot 45 Family MF RH Units",
+        "address": null,
+        "city": "Kauai",
+        "lat": 22.05572,
+        "lon": -159.49451,
+        "units": 45,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "htf",
+          "durf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "maunakea-tower-apartments",
+        "name": "Maunakea Tower Apartments",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 379,
+        "funding_sources": [
+          "lihtc",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "parkway-village-at-kapolei---lot-7",
+        "name": "Parkway Village at Kapolei - Lot 7",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 169,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "hmmf",
+          "ep",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "villages-of-leialii-vol-kaiaulu-o-kukuia-fka-keawe-street-apartments",
+        "name": "Villages of Leialii (VOL): Kaiaulu O Kukuia (fka Keawe Street Apartments)",
+        "address": null,
+        "city": "Maui",
+        "lat": 20.75806,
+        "lon": -156.31052,
+        "units": 200,
+        "funding_sources": [
+          "lihtc",
+          "rhrf",
+          "hmmf",
+          "durf",
+          "land",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "wailuku-apartments-aka-kaulana-mahina-workforce-housing",
+        "name": "Wailuku Apartments (aka Kaulana Mahina Workforce Housing)",
+        "address": null,
+        "city": "Maui",
+        "lat": 20.75806,
+        "lon": -156.31052,
+        "units": 72,
+        "funding_sources": [
+          "201h",
+          "get"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "aikanaha-residences",
+        "name": "Aikanaha Residences",
+        "address": null,
+        "city": "Maui",
+        "lat": 20.75806,
+        "lon": -156.31052,
+        "units": 212,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "honuaula-living-community",
+        "name": "Honuaula Living Community",
+        "address": null,
+        "city": "Hawaii",
+        "lat": 19.62733,
+        "lon": -155.56456,
+        "units": 105,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "hoonanea---phase-1-at-hoopili-gateway",
+        "name": "Hoonanea - Phase 1 at Hoopili Gateway",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 191,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kehalani-apartments",
+        "name": "Kehalani Apartments",
+        "address": null,
+        "city": "Maui",
+        "lat": 20.75806,
+        "lon": -156.31052,
+        "units": 35,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "laulima-ph-4---maluhia",
+        "name": "Laulima Ph 4 - Maluhia",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 70,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "vok-northwest-corner-leiwili-kapolei-buildings-bandc",
+        "name": "VOK: Northwest Corner (Leiwili Kapolei) Buildings B&C",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 344,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "melia",
+        "name": "Melia",
+        "address": null,
+        "city": "Honolulu",
+        "lat": 21.46815,
+        "lon": -157.96051,
+        "units": 247,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "villages-of-laiopua---v4-hema-rp",
+        "name": "Villages of Laiopua - V4 Hema RP",
+        "address": null,
+        "city": "Hawaii",
+        "lat": 19.62733,
+        "lon": -155.56456,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_award"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      }
+    ]
+  }
+}

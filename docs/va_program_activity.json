@@ -1,0 +1,214 @@
+{
+  "VA": {
+    "hfa_name": "Virginia Housing",
+    "hfa_abbr": "Virginia Housing",
+    "fiscal_year": "FY2025",
+    "source_title": "Virginia Housing 2025 Annual Report -- \"By the Numbers\" (Homeownership, Rental Housing, Federal Assistance Programs Reports) and REACH Virginia Impact",
+    "source_url": "https://www.virginiahousing.com/en/about/strategic-direction-annual-reports",
+    "source_file": "VA_VirginiaHousing_AnnualReport_FY2025.pdf (downloaded from the CMS endpoint https://virginiahousing.stylelabs.cloud/api/public/content/Annual-Report_FY25 linked from the landing page above; verified live 2026-08-14, HTTP 200, 31,694,457 bytes, 44 pages)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 4852,
+        "fy2025_source_quote": "\"HOMEOWNERSHIP REPORT: 4,852 home loans for a total of $1.4B. Since our beginning, we have provided 255,272 home loans [historical cumulative, not used as a FY2025 figure]. $11.5M Down Payment Assistance grants to 1,758 homebuyers. $2.7M Closing Cost Assistance grants to 491 homebuyers. 45.94% of our home loans were for minorities.\" (Virginia Housing 2025 Annual Report, \"By the Numbers\", p.30). \"$1.4B\" is Virginia Housing's own rounded phrasing -- no more precise figure is disclosed anywhere in the document -- and is used as-is, not re-derived.",
+        "fy2025_amounts": [
+          {
+            "label_key": "va_amt_home_loans_total",
+            "amount": 1400000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "down_payment_assistance",
+            "fy2025_units": 1758,
+            "fy2025_amount": 11500000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "REACH Virginia (internally generated funds)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          },
+          {
+            "key": "closing_cost_assistance",
+            "fy2025_units": 491,
+            "fy2025_amount": 2700000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "REACH Virginia (internally generated funds, inferred -- not verbatim named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_housing",
+        "unit_type": "units",
+        "fy2025_actual": 4599,
+        "fy2025_source_quote": "\"RENTAL HOUSING REPORT: 4,599 rental units financed for a total of $834.7M. Since our beginning, we have financed 153,048 rental units [historical cumulative, not used]. 574 units are in mixed-income developments. 4,025 are for low- to moderate-income and hard-to-serve populations. $60M allocated in annual state and federal tax credits.\" (Virginia Housing 2025 Annual Report, \"By the Numbers\", p.32). 574 + 4,025 = 4,599, an exact partition of the headline (verified in verify_category_consistency()). The $60M tax-credit figure is shown only as a reference amount below -- it is a separate, fee-administered (LIHTC/HOTC) program, not part of the $834.7M mortgage-financing total and not modeled as its own subprogram -- see module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "va_amt_rental_total",
+            "amount": 834700000
+          },
+          {
+            "label_key": "va_amt_rental_tax_credits",
+            "amount": 60000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "mixed_income",
+            "fy2025_units": 574,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing Program (multifamily mortgage loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          },
+          {
+            "key": "low_mod_hard_to_serve",
+            "fy2025_units": 4025,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Housing Program (multifamily mortgage loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "federal_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 9220,
+        "fy2025_source_quote": "\"FEDERAL ASSISTANCE PROGRAMS REPORT: $105.8M federally allocated funding. 9,220 households served. 26 local program agencies across the Commonwealth.\" (Virginia Housing 2025 Annual Report, \"By the Numbers\", p.31). No further breakdown by funding source or sub-program is disclosed in this report. Cross-referenced against the ACFR's Note 1(s) \"Pass-Through Revenues and Expenses\", which separately discloses a FY2025 U.S. HUD Tenant Based Section 8 Housing Choice Voucher pass-through figure of $109,963,261 -- a similarly-scoped but not numerically identical federal pass-through program; the two are not assumed to be the same figure and are never reconciled or added together, per this project's standing rule -- see module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "va_amt_federal_grants",
+            "amount": 105800000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "federal_assistance_total",
+            "fy2025_units": 9220,
+            "fy2025_amount": 105800000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Pass-Through Revenues and Expenses (ACFR Note 1(s); scope not exactly reconciled to this report's own figure)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "reach_virginia",
+        "unit_type": "dollars",
+        "fy2025_actual": null,
+        "fy2025_source_quote": "\"REACH VIRGINIA PROGRAM: In FY25, we allocated $144,401,518 from REACH Virginia: $53,115,000 Making communities more stable. $63,461,518 Making rentals more affordable. $27,825,000 Making homeownership more attainable. $1,027,661,399 In allocations since its inception [historical cumulative, NOT used as a FY2025 figure].\" (Virginia Housing 2025 Annual Report, \"REACH Virginia Impact\", p.28). 53,115,000 + 63,461,518 + 27,825,000 = 144,401,518 exactly (verified in verify_category_consistency()). No household/unit count is disclosed for any of the three allocation buckets -- REACH Virginia is purely a dollar-allocation program at this level of disclosure, so none is shown here (fy2025_actual is None, matching PA's phare_funding category pattern).",
+        "fy2025_amounts": [
+          {
+            "label_key": "va_amt_reach_total",
+            "amount": 144401518
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "community_stability",
+            "fy2025_units": null,
+            "fy2025_amount": 53115000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "REACH Virginia (internally generated funds)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          },
+          {
+            "key": "rental_affordability",
+            "fy2025_units": null,
+            "fy2025_amount": 63461518,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "REACH Virginia (internally generated funds)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          },
+          {
+            "key": "homeownership_access",
+            "fy2025_units": null,
+            "fy2025_amount": 27825000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "REACH Virginia (internally generated funds)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vaFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

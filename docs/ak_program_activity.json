@@ -1,0 +1,177 @@
+{
+  "AK": {
+    "hfa_name": "Alaska Housing Finance Corporation",
+    "hfa_abbr": "AHFC",
+    "fiscal_year": "FY2025",
+    "source_title": "AHFC 2025 Annual Report -- \"People Building Communities: Investing in Alaska\"",
+    "source_url": "https://www.ahfc.us/about-us/reports/2025-annual-report",
+    "source_file": "2025 Annual Report -- \"People Building Communities: Investing in Alaska\" (Issuu flip-book, no downloadable PDF; https://issuu.com/geretactical/docs/2025-ahfc-annual-report; pages captured individually from Issuu's page-image CDN) + FY2025/txt/AK_AHFC_FY2025_ACFR.txt (fund-type cross-check)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "mortgage_operations",
+        "unit_type": "households",
+        "fy2025_actual": 1703,
+        "fy2025_source_quote": "\"Mortgage Operations\" KPI page (2025 Annual Report, p.15): \"1,703 Residential loans purchased\" / \"$648,329,443 Value of residential loans purchased.\" The same page separately shows AHFC's FY25-end portfolio STOCK (not this year's flow): \"15,670 Residential loans in AHFC's portfolio at the end of FY25\" / \"$3,876,582,729 Value of total residential loans\", and \"7,963 Total number of first-time homebuyer loans in AHFC's portfolio at the end of FY25\" (\"50.82% Percentage of AHFC's portfolio comprised of first-time homebuyer loans\"), plus a distinct FY2025 renovation-loan flow: \"37 Renovation loans purchased\" / \"$11,715,297 Value of renovation loans purchased.\" None of the portfolio-stock or renovation-loan figures is added into this category's own 1,703/$648,329,443 flow headline -- the portfolio figures are a snapshot as of 6/30/2025, not FY2025-only activity, and renovation loans are a separate loan product on the same page, not a subset of the 1,703 residential purchases.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ak_amt_residential_loans_purchased",
+            "amount": 648329443
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "akFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "residential_loans_purchased",
+            "fy2025_units": 1703,
+            "fy2025_amount": 648329443,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Mortgage and Bond Funds (business-type/enterprise fund activities)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "public_housing_rental_assistance",
+        "unit_type": "units",
+        "fy2025_actual": 6314,
+        "fy2025_source_quote": "\"Rental Assistance\" KPI block (2025 Annual Report, p.21): \"1,607 Statewide rental units owned by AHFC\" and \"4,707 Private rental units assisted through vouchers.\" The same block also reports \"447 Units for Sponsor Based Rental Assistance\" and \"12,000 Average number of individuals housed each night in all programs\" -- both noted here for context but not modeled as their own subprogram: p.11's own \"Statewide Housing Development\" narrative describes Sponsor-Based Rental Assistance as itself a form of voucher support tied to specific ACAH developments (e.g. \"Every unit is supported by public housing's Sponsor-Based Rental Assistance\" for The Meadows and Borealis Park), so it is not clearly disjoint from the 4,707 voucher figure and adding it as a third additive subprogram risks double-counting; no individuals-housed dollar/unit breakdown is disclosed either. No dollar figure is disclosed for either of the two subprograms modeled below.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "akFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "ahfc_owned_units",
+            "fy2025_units": 1607,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Other Funds and Programs (Low Rent Program / AHFC-owned housing)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          },
+          {
+            "key": "voucher_assisted_units",
+            "fy2025_units": 4707,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Grant Programs Fund (Section 8 Voucher Programs)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "weatherization",
+        "unit_type": "units",
+        "fy2025_actual": 234,
+        "fy2025_source_quote": "\"Weatherization\" KPI block (2025 Annual Report, p.27): \"$3,772,828 Allocated for Weatherization (federal & state funds)\" / \"234 Homes improved through AHFC Weatherization funds.\" AHFC's own FY2025 ACFR Note 20 (\"Housing Grants and Subsidies Expenses\", .txt line 1716) separately lists \"Energy Efficient Weatherization $2,265[thousand]\" as a booked FY2025 grant-expense line -- a different figure from this page's $3,772,828 (likely a paid-during-the-year-vs.-allocated-for-the-year scope difference between AHFC's two publications, not explained by either document); this script uses the Annual Report's own $3,772,828/234 headline figures (the source this category's KPI is drawn from) and flags the Note 20 gap here rather than silently picking one number.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ak_amt_weatherization",
+            "amount": 3772828
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "akFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "weatherization_homes",
+            "fy2025_units": 234,
+            "fy2025_amount": 3772828,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Grant Programs Fund (Energy Programs)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "supplemental_housing_grant",
+        "unit_type": "units",
+        "fy2025_actual": 198,
+        "fy2025_source_quote": "\"Supplemental Housing Development Grant\" KPI block (2025 Annual Report, p.28): \"10 Regional Housing Authorities received funding\" / \"$4,000,000 Grant funding\" / \"78 New units\" / \"120 Rehabilitated units.\" The \"10 Regional Housing Authorities\" figure counts grantee organizations, not housing units, so it is noted here for context but not modeled as a subprogram. AHFC's own FY2025 ACFR Note 20 separately lists \"Supplemental Housing Grant $4,362[thousand]\" as a booked FY2025 grant-expense line (.txt line 1745) -- close to, but not identical to, this page's $4,000,000 grant-funding figure (likely the same paid-vs.-allocated scope gap noted for Weatherization above); this script uses the Annual Report's own $4,000,000/78/120 headline figures and flags the Note 20 gap here rather than silently picking one number.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ak_amt_shdg",
+            "amount": 4000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "akFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "shdg_new_units",
+            "fy2025_units": 78,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Grant Programs Fund (Other Grants -- Supplemental Housing Grant)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          },
+          {
+            "key": "shdg_rehab_units",
+            "fy2025_units": 120,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Grant Programs Fund (Other Grants -- Supplemental Housing Grant)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "akFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

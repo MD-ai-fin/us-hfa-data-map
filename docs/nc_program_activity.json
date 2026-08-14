@@ -1,0 +1,1246 @@
+{
+  "NC": {
+    "hfa_name": "North Carolina Housing Finance Agency",
+    "hfa_abbr": "NCHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "2025 Housing Credit Awards (+ housingbuildsnc.com 2025 Home Ownership figures)",
+    "source_url": "https://www.nchfa.com/sites/default/files/forms_resources/2025-08/2025%20Awards%20List.pdf",
+    "source_file": "NC_NCHFA_2025_Awards_List.pdf (+ housingbuildsnc.com homepage 2025 Home Ownership figures)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "housing_credit_awards",
+        "unit_type": "units",
+        "fy2025_actual": 4942,
+        "fy2025_source_quote": "\"2025 Housing Credit Awards\" (published August 21, 2025). Table 1 (9% competitive credits) TOTALS row: Housing Credits $31,416,430, RPP $12,222,000, WHLP Amount $32,777,415, Total Units 1,503, across 29 developments. Table 2 (4% credits + tax-exempt bonds) TOTALS row: Bond Volume $542,682,000, Total Units 3,439, across 20 developments (this table prints no separate Housing Credits dollar total; this script's own resummed $43,333,208 is shown as computed, not a quoted PDF figure). 4,942 = 1,503 + 3,439. A separate one-project \"Forward Commitment of 2026 Housing Credits\" row (Winston-Salem CNI Phase V, 70 units) is excluded from this total -- it is explicitly 2026 credits, not FY2025 production.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nc_amt_hc9",
+            "amount": 31416430
+          },
+          {
+            "label_key": "nc_amt_rpp",
+            "amount": 12222000
+          },
+          {
+            "label_key": "nc_amt_whlp",
+            "amount": 32777415
+          },
+          {
+            "label_key": "nc_amt_hc4",
+            "amount": 43333208
+          },
+          {
+            "label_key": "nc_amt_bond",
+            "amount": 542682000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ncFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hc9",
+            "fy2025_units": 1503,
+            "fy2025_amount": 31416430,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "rpp",
+            "fy2025_units": 654,
+            "fy2025_amount": 12222000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Production Program (loans receivable, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "whlp",
+            "fy2025_units": 1419,
+            "fy2025_amount": 32777415,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Workforce Housing Loan Program (loans receivable, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "hc4",
+            "fy2025_units": 3439,
+            "fy2025_amount": 43333208,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "bond",
+            "fy2025_units": 3439,
+            "fy2025_amount": 542682000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 5140,
+        "fy2025_source_quote": "housingbuildsnc.com homepage (root URL only, NOT the /home-ownership/ subpage -- see module docstring), \"Home Ownership\" section: \"With more than $1.2 billion in mortgage financing provided by the Agency statewide in 2025, 5,140 North Carolinians made their dreams of home ownership come true.\" Subprogram figures from the same homepage section: NC Home Advantage Mortgage 4,760 households, NC 1st Home Advantage Down Payment 3,930 home buyers, Community Partners Loan Pool 310 home buyers assisted, Self-Help Loan Pool 130 home buyers assisted -- these sum to 9,130, far more than the 5,140 headline, indicating most buyers combine 2+ of these products (non-additive).",
+        "fy2025_amounts": [
+          {
+            "label_key": "nc_amt_mortgage_financing",
+            "amount": 1200000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ncFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homead",
+            "fy2025_units": 4760,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Home Ownership Bond Programs (1998 Housing Revenue Bonds Trust Agreement)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "first_home_dpa",
+            "fy2025_units": 3930,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Home Ownership Bond Programs (1998 Housing Revenue Bonds Trust Agreement)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "cplp",
+            "fy2025_units": 310,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Programs (loans receivable, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          },
+          {
+            "key": "shlp",
+            "fy2025_units": 130,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal and State Programs (loans receivable, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ncFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "greyson-reserve",
+        "name": "Greyson Reserve",
+        "address": null,
+        "city": "Burlington, Alamance County",
+        "lat": 36.09569,
+        "lon": -79.4378,
+        "units": 60,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 825000,
+          "whlp": 1500000
+        },
+        "total_amount": 3625000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "southport-green-rehab",
+        "name": "Southport Green Rehab",
+        "address": null,
+        "city": "Southport, Brunswick County",
+        "lat": 33.92156,
+        "lon": -78.02027,
+        "units": 44,
+        "funding_sources": [
+          "hc9",
+          "rpp"
+        ],
+        "source_amounts": {
+          "hc9": 501059,
+          "rpp": 682000
+        },
+        "total_amount": 1183059,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-villas-at-haywood",
+        "name": "The Villas at Haywood",
+        "address": null,
+        "city": "Asheville, Buncombe County",
+        "lat": 35.59536,
+        "lon": -82.55084,
+        "units": 52,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "archer-commons",
+        "name": "Archer Commons",
+        "address": null,
+        "city": "Morganton, Burke County",
+        "lat": 35.74543,
+        "lon": -81.68708,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1250000,
+          "whlp": 1100000
+        },
+        "total_amount": 2350000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "blue-point-bay-apartments",
+        "name": "Blue Point Bay Apartments",
+        "address": null,
+        "city": "Newport, Carteret County",
+        "lat": 34.78655,
+        "lon": -76.85911,
+        "units": 64,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 704525,
+          "whlp": 710000
+        },
+        "total_amount": 1414525,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "aspen-pointe",
+        "name": "Aspen Pointe",
+        "address": null,
+        "city": "Fayetteville, Cumberland County",
+        "lat": 35.05258,
+        "lon": -78.87829,
+        "units": 32,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 660929,
+          "whlp": 710000
+        },
+        "total_amount": 1370929,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tulip-commons-at-old-vineyard",
+        "name": "Tulip Commons at Old Vineyard",
+        "address": null,
+        "city": "Winston-Salem, Forsyth County",
+        "lat": 36.09981,
+        "lon": -80.24405,
+        "units": 60,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 2000000
+        },
+        "total_amount": 3300000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "preserve-at-forest-heights",
+        "name": "Preserve at Forest Heights",
+        "address": null,
+        "city": "Gastonia, Gaston County",
+        "lat": 35.26227,
+        "lon": -81.18382,
+        "units": 52,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "overland-place-apartments",
+        "name": "Overland Place Apartments",
+        "address": null,
+        "city": "Greensboro, Guilford County",
+        "lat": 36.07264,
+        "lon": -79.79198,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 2000000
+        },
+        "total_amount": 3300000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-grayson",
+        "name": "The Grayson",
+        "address": null,
+        "city": "Greensboro, Guilford County",
+        "lat": 36.07264,
+        "lon": -79.79198,
+        "units": 84,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 1600000,
+          "whlp": 2000000
+        },
+        "total_amount": 4900000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maynard-crossing-apartments",
+        "name": "Maynard Crossing Apartments",
+        "address": null,
+        "city": "Erwin, Harnett County",
+        "lat": 35.32683,
+        "lon": -78.67613,
+        "units": 64,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 1280000,
+          "whlp": 2000000
+        },
+        "total_amount": 4580000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "countryside-apartments",
+        "name": "Countryside Apartments",
+        "address": null,
+        "city": "Raeford, Hoke County",
+        "lat": 34.981,
+        "lon": -79.2242,
+        "units": 40,
+        "funding_sources": [
+          "hc9"
+        ],
+        "source_amounts": {
+          "hc9": 450067
+        },
+        "total_amount": 450067,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "palmer-green-apartments-rehab",
+        "name": "Palmer Green Apartments (Rehab)",
+        "address": null,
+        "city": "Raeford, Hoke County",
+        "lat": 34.981,
+        "lon": -79.2242,
+        "units": 40,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 486625,
+          "whlp": 1350000
+        },
+        "total_amount": 1836625,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "keystone-landing",
+        "name": "Keystone Landing",
+        "address": null,
+        "city": "Mooresville, Iredell County",
+        "lat": 35.58486,
+        "lon": -80.81007,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1096540,
+          "whlp": 500000
+        },
+        "total_amount": 1596540,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "spaulding-woods-i",
+        "name": "Spaulding Woods I",
+        "address": null,
+        "city": "Marion, McDowell County",
+        "lat": 35.6841,
+        "lon": -82.0091,
+        "units": 44,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 727820,
+          "whlp": 1655990
+        },
+        "total_amount": 2383810,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "baker-crossing",
+        "name": "Baker Crossing",
+        "address": null,
+        "city": "Charlotte, Mecklenburg County",
+        "lat": 35.22721,
+        "lon": -80.84308,
+        "units": 58,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 870000,
+          "whlp": 500000
+        },
+        "total_amount": 2670000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "long-creek-commons",
+        "name": "Long Creek Commons",
+        "address": null,
+        "city": "Huntersville, Mecklenburg County",
+        "lat": 35.41083,
+        "lon": -80.84293,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "onyx-place",
+        "name": "Onyx Place",
+        "address": null,
+        "city": "Wilmington, New Hanover County",
+        "lat": 34.23529,
+        "lon": -77.94873,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1110000,
+          "rpp": 720000,
+          "whlp": 500000
+        },
+        "total_amount": 2330000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maddry-meadows",
+        "name": "Maddry Meadows",
+        "address": null,
+        "city": "Chapel Hill, Orange County",
+        "lat": 35.91315,
+        "lon": -79.05578,
+        "units": 53,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 1600000,
+          "whlp": 500000
+        },
+        "total_amount": 3400000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "park-ridge-trace",
+        "name": "Park Ridge Trace",
+        "address": null,
+        "city": "Greenville, Pitt County",
+        "lat": 35.61322,
+        "lon": -77.37246,
+        "units": 72,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 1440000,
+          "whlp": 2000000
+        },
+        "total_amount": 4740000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-reserve-at-fairmont",
+        "name": "The Reserve at Fairmont",
+        "address": null,
+        "city": "Fairmont, Robeson County",
+        "lat": 34.49683,
+        "lon": -79.1142,
+        "units": 64,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 1600000,
+          "whlp": 3000000
+        },
+        "total_amount": 5900000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "norman-court",
+        "name": "Norman Court",
+        "address": null,
+        "city": "Eden, Rockingham County",
+        "lat": 36.48847,
+        "lon": -79.7667,
+        "units": 30,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 383754,
+          "whlp": 1535000
+        },
+        "total_amount": 1918754,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "uwharrie-trail-phase-ii",
+        "name": "Uwharrie Trail Phase II",
+        "address": null,
+        "city": "Albemarle, Stanly County",
+        "lat": 35.35014,
+        "lon": -80.20006,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1028816,
+          "whlp": 1470000
+        },
+        "total_amount": 2498816,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "abbey-spring",
+        "name": "Abbey Spring",
+        "address": null,
+        "city": "Apex, Wake County",
+        "lat": 35.73254,
+        "lon": -78.85055,
+        "units": 56,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 840000,
+          "whlp": 500000
+        },
+        "total_amount": 2640000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-canopy",
+        "name": "The Canopy",
+        "address": null,
+        "city": "Cary, Wake County",
+        "lat": 35.78829,
+        "lon": -78.78121,
+        "units": 51,
+        "funding_sources": [
+          "hc9",
+          "rpp",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "rpp": 765000,
+          "whlp": 500000
+        },
+        "total_amount": 2565000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "heritage-park-senior-phase-1b",
+        "name": "Heritage Park Senior Phase 1B",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 51,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-villas-at-south-fork",
+        "name": "The Villas at South Fork",
+        "address": null,
+        "city": "Boone, Watauga County",
+        "lat": 36.21879,
+        "lon": -81.684,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1300000,
+          "whlp": 500000
+        },
+        "total_amount": 1800000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "central-garden-phase-ii",
+        "name": "Central Garden Phase II",
+        "address": null,
+        "city": "Goldsboro, Wayne County",
+        "lat": 35.38488,
+        "lon": -77.99277,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1105014,
+          "whlp": 1500000
+        },
+        "total_amount": 2605014,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "waverly-trace",
+        "name": "Waverly Trace",
+        "address": null,
+        "city": "Wilson, Wilson County",
+        "lat": 35.72417,
+        "lon": -77.91152,
+        "units": 48,
+        "funding_sources": [
+          "hc9",
+          "whlp"
+        ],
+        "source_amounts": {
+          "hc9": 1111281,
+          "whlp": 2746425
+        },
+        "total_amount": 3857706,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rocky-river-apartments",
+        "name": "Rocky River Apartments",
+        "address": null,
+        "city": "Woodfin, Buncombe County",
+        "lat": 35.63344,
+        "lon": -82.58207,
+        "units": 120,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2153232,
+          "bond": 24000000
+        },
+        "total_amount": 26153232,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "902-s-briggs-avenue",
+        "name": "902 S. Briggs Avenue",
+        "address": null,
+        "city": "Durham, Durham County",
+        "lat": 35.99665,
+        "lon": -78.90181,
+        "units": 124,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1791425,
+          "bond": 20000000
+        },
+        "total_amount": 21791425,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "dha-fayette-place-phase-i",
+        "name": "DHA Fayette Place Phase I",
+        "address": null,
+        "city": "Durham, Durham County",
+        "lat": 35.99665,
+        "lon": -78.90181,
+        "units": 252,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2795264,
+          "bond": 44000000
+        },
+        "total_amount": 46795264,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "page-road-development",
+        "name": "Page Road Development",
+        "address": null,
+        "city": "Morrisville, Durham County",
+        "lat": 35.86772,
+        "lon": -78.84996,
+        "units": 160,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2475253,
+          "bond": 29000000
+        },
+        "total_amount": 31475253,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-lofts-at-motor-road",
+        "name": "The Lofts at Motor Road",
+        "address": null,
+        "city": "Winston-Salem, Forsyth County",
+        "lat": 36.09981,
+        "lon": -80.24405,
+        "units": 216,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1592703,
+          "bond": 23000000
+        },
+        "total_amount": 24592703,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-residences-at-indiana-avenue",
+        "name": "The Residences at Indiana Avenue",
+        "address": null,
+        "city": "Winston-Salem, Forsyth County",
+        "lat": 36.09981,
+        "lon": -80.24405,
+        "units": 180,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1865579,
+          "bond": 20500000
+        },
+        "total_amount": 22365579,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bolding-street-lofts",
+        "name": "Bolding Street Lofts",
+        "address": null,
+        "city": "Gastonia, Gaston County",
+        "lat": 35.26227,
+        "lon": -81.18382,
+        "units": 168,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1830993,
+          "bond": 22000000
+        },
+        "total_amount": 23830993,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "shotwell-apartments",
+        "name": "Shotwell Apartments",
+        "address": null,
+        "city": "Clayton, Johnston County",
+        "lat": 35.65071,
+        "lon": -78.45639,
+        "units": 90,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1320301,
+          "bond": 14500000
+        },
+        "total_amount": 15820301,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "avenue-flats",
+        "name": "Avenue Flats",
+        "address": null,
+        "city": "Wilmington, New Hanover County",
+        "lat": 34.23529,
+        "lon": -77.94873,
+        "units": 184,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2324828,
+          "bond": 28000000
+        },
+        "total_amount": 30324828,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "walker-landing",
+        "name": "Walker Landing",
+        "address": null,
+        "city": "Elizabeth City, Pasquotank County",
+        "lat": 36.30102,
+        "lon": -76.22037,
+        "units": 155,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1852011,
+          "bond": 22000000
+        },
+        "total_amount": 23852011,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "barton-oaks",
+        "name": "Barton Oaks",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 152,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1518796,
+          "bond": 23000000
+        },
+        "total_amount": 24518796,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "battle-bridge",
+        "name": "Battle Bridge",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 200,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1776232,
+          "bond": 25000000
+        },
+        "total_amount": 26776232,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "garner-apartments",
+        "name": "Garner Apartments",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 224,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 3027355,
+          "bond": 36000000
+        },
+        "total_amount": 39027355,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hoke-street",
+        "name": "Hoke Street",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 120,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1212000,
+          "bond": 15000000
+        },
+        "total_amount": 16212000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maple-ridge",
+        "name": "Maple Ridge",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 146,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2063318,
+          "bond": 24500000
+        },
+        "total_amount": 26563318,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "moore-square-commons",
+        "name": "Moore Square Commons",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 160,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2272125,
+          "bond": 31682000
+        },
+        "total_amount": 33954125,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "old-poole-place",
+        "name": "Old Poole Place",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 181,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 2819097,
+          "bond": 32500000
+        },
+        "total_amount": 35319097,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-pointe-at-town-center",
+        "name": "The Pointe at Town Center",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 192,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 3101351,
+          "bond": 35000000
+        },
+        "total_amount": 38101351,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tryon-flats",
+        "name": "Tryon Flats",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 220,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 3583799,
+          "bond": 43000000
+        },
+        "total_amount": 46583799,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "union-at-capital",
+        "name": "Union at Capital",
+        "address": null,
+        "city": "Raleigh, Wake County",
+        "lat": 35.7804,
+        "lon": -78.6391,
+        "units": 195,
+        "funding_sources": [
+          "hc4",
+          "bond"
+        ],
+        "source_amounts": {
+          "hc4": 1957546,
+          "bond": 30000000
+        },
+        "total_amount": 31957546,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

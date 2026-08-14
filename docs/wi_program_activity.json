@@ -1,0 +1,773 @@
+{
+  "WI": {
+    "hfa_name": "Wisconsin Housing and Economic Development Authority",
+    "hfa_abbr": "WHEDA",
+    "fiscal_year": "FY2025",
+    "source_title": "WHEDA Annual Report Fiscal Year 2024-2025 -- \"WHEDA By The Numbers\" plus 2025 9%/4% HTC Award Lists",
+    "source_url": "https://www.wheda.com/about-wheda/annual-report--financials/annual-report-2025",
+    "source_file": "WI_WHEDA_AnnualReport_FY2025.pdf (+ 2025 9%/4% HTC Award List pages)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "single_family_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 2323,
+        "fy2025_source_quote": "\"WHEDA BY THE NUMBERS ... Single Family Housing: Mortgage lending $481,116,311; Down payment assistance $10,948,456; Mortgages closed 2,323.\" (Annual Report Fiscal Year 2024-2025, p.6). Down payment assistance is a dollar amount only -- no separate loan count is disclosed -- and rides on a subset of the 2,323 closed mortgages, not a partition of it.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wi_amt_sf_mortgage_lending",
+            "amount": 481116311
+          },
+          {
+            "label_key": "wi_amt_sf_downpayment_assist",
+            "amount": 10948456
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "sf_mortgage_loans",
+            "fy2025_units": 2323,
+            "fy2025_amount": 481116311,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Home Ownership Mortgage Loan Program (Single Family Bond Programs)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          },
+          {
+            "key": "sf_downpayment_assistance",
+            "fy2025_units": null,
+            "fy2025_amount": 10948456,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Fund Programs (Easy Close Advantage, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_housing",
+        "unit_type": "units",
+        "fy2025_actual": 1410,
+        "fy2025_source_quote": "\"WHEDA BY THE NUMBERS ... Multifamily Housing: Multifamily Lending $173,559,662.48; Developments financed 28; Loans closed 83; Housing units created 1,410.\" (Annual Report Fiscal Year 2024-2025, p.6). No per-development list is published for this category (unlike Housing Tax Credits below), so no project-level bubble-map detail is shown for it -- only the KPI card.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wi_amt_mf_lending",
+            "amount": 173559662.48
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "mf_lending",
+            "fy2025_units": 1410,
+            "fy2025_amount": 173559662.48,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Mortgage Loan Program (Multifamily/Housing Revenue Bond Programs)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_tax_credits",
+        "unit_type": "units",
+        "fy2025_actual": 1731,
+        "fy2025_source_quote": "\"In total, 27 developments will provide 1,731 new affordable housing units in 23 communities across our state.\" (Governor's and Executive Director's messages, pp.4-5); \"Housing tax credits allocated $36,351,697; Developments supported 27; Housing units supported 1,731\" (p.6). Cross-checked against the live 2025 9% and 4% HTC Award List pages: 19 funded 9% projects (957 of 967 total units affordable, $19,157,556 Federal Credits) + 8 funded 4% projects (774 of 774 total units affordable, $10,591,203 Federal + $6,902,938 State Credits) = 27 developments, 1,731 affordable units -- both EXACTLY matching the headline. The combined dollar total of the two award lists ($36,651,697) is $300,000 higher than the headline's $36,351,697; neither source explains the gap, so it is reported here rather than forced to reconcile.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wi_amt_htc_federal_9pct",
+            "amount": 19157556
+          },
+          {
+            "label_key": "wi_amt_htc_federal_4pct",
+            "amount": 10591203
+          },
+          {
+            "label_key": "wi_amt_htc_state_4pct",
+            "amount": 6902938
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "htc_9pct",
+            "fy2025_units": 957,
+            "fy2025_amount": 19157556,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          },
+          {
+            "key": "htc_4pct_federal",
+            "fy2025_units": 774,
+            "fy2025_amount": 10591203,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          },
+          {
+            "key": "htc_4pct_state",
+            "fy2025_units": 774,
+            "fy2025_amount": 6902938,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "legislative_loans",
+        "unit_type": "units",
+        "fy2025_actual": 608,
+        "fy2025_source_quote": "\"Legislative Loans: Infrastructure Access, Restore Main Street, and Vacancy-to-Vitality ... Competitive lending 13 loans awarded; Financing $11,957,068 allocated; Housing units 608 supported; Communities 27 served.\" (Annual Report Fiscal Year 2024-2025, p.6). No breakdown of the 13 loans across the three named programs is disclosed, so a single combined subprogram is shown rather than three invented ones.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wi_amt_legislative_loans",
+            "amount": 11957068
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "legislative_competitive_loans",
+            "fy2025_units": 608,
+            "fy2025_amount": 11957068,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State of Wisconsin Programs (Legislative Programs investment portfolio -- Act 14/15/18)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "more_like_home_repair_renew",
+        "unit_type": "households",
+        "fy2025_actual": 508,
+        "fy2025_source_quote": "\"More Like Home(R) Repair & Renew Loan: Loans Amount $20,791,757; Households 508 repaired.\" (Annual Report Fiscal Year 2024-2025, p.6). Modeled as a category separate from Legislative Loans above because it discloses a household count, not a housing-unit count, and this project's category schema carries one unit_type per category.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wi_amt_more_like_home",
+            "amount": 20791757
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "more_like_home_loans",
+            "fy2025_units": 508,
+            "fy2025_amount": 20791757,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State of Wisconsin Programs (Legislative Programs investment portfolio -- Act 17 More Like Home)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wiFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "brillion-housing-redevelopment-phase-2-llc",
+        "name": "Brillion Housing Redevelopment Phase 2, LLC",
+        "address": null,
+        "city": "Brillion",
+        "lat": 44.17722,
+        "lon": -88.06426,
+        "units": 47,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 681655
+        },
+        "total_amount": 681655,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "broadway-senior",
+        "name": "Broadway Senior",
+        "address": null,
+        "city": "Monona",
+        "lat": 43.06222,
+        "lon": -89.33401,
+        "units": 55,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1172800
+        },
+        "total_amount": 1172800,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "brookstone-townhomes",
+        "name": "Brookstone Townhomes",
+        "address": null,
+        "city": "Fitchburg",
+        "lat": 43.00209,
+        "lon": -89.42382,
+        "units": 28,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 399138
+        },
+        "total_amount": 399138,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "corner-view-cottages",
+        "name": "Corner View Cottages",
+        "address": null,
+        "city": "Kiel",
+        "lat": 43.91249,
+        "lon": -88.03565,
+        "units": 44,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1023373
+        },
+        "total_amount": 1023373,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "driftless-lofts",
+        "name": "Driftless Lofts",
+        "address": null,
+        "city": "Baraboo",
+        "lat": 43.4704,
+        "lon": -89.74378,
+        "units": 56,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "fairview-crossing-apartments",
+        "name": "Fairview Crossing Apartments",
+        "address": null,
+        "city": "Plymouth",
+        "lat": 43.74861,
+        "lon": -87.97704,
+        "units": 64,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 999771
+        },
+        "total_amount": 999771,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hearthside-commons-apartments",
+        "name": "Hearthside Commons Apartments",
+        "address": null,
+        "city": "Neenah",
+        "lat": 44.18582,
+        "lon": -88.46261,
+        "units": 60,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 764462
+        },
+        "total_amount": 764462,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hilltop-apartments",
+        "name": "Hilltop Apartments",
+        "address": null,
+        "city": "DeForest",
+        "lat": 43.24777,
+        "lon": -89.34373,
+        "units": 50,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1077749
+        },
+        "total_amount": 1077749,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "oak-ridge-fitchburg",
+        "name": "Oak Ridge Fitchburg",
+        "address": null,
+        "city": "Fitchburg",
+        "lat": 43.00209,
+        "lon": -89.42382,
+        "units": 80,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "oregon-main-apartments",
+        "name": "Oregon Main Apartments",
+        "address": null,
+        "city": "Oregon",
+        "lat": 42.92597,
+        "lon": -89.38428,
+        "units": 57,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rivers-crossing-apartment-homes",
+        "name": "Rivers Crossing Apartment Homes",
+        "address": null,
+        "city": "Portage",
+        "lat": 43.53949,
+        "lon": -89.46133,
+        "units": 52,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "riverside-apartments",
+        "name": "Riverside Apartments",
+        "address": null,
+        "city": "Beloit",
+        "lat": 42.50833,
+        "lon": -89.03178,
+        "units": 55,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "riverview-senior-living",
+        "name": "Riverview Senior Living",
+        "address": null,
+        "city": "Rhinelander",
+        "lat": 45.63662,
+        "lon": -89.41208,
+        "units": 48,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1126121
+        },
+        "total_amount": 1126121,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "somerset-eco-cottages",
+        "name": "Somerset Eco-Cottages",
+        "address": null,
+        "city": "Somerset",
+        "lat": 45.12489,
+        "lon": -92.67304,
+        "units": 40,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 840535
+        },
+        "total_amount": 840535,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "stageline-eco-llc",
+        "name": "Stageline Eco, LLC",
+        "address": null,
+        "city": "Hudson",
+        "lat": 44.9751,
+        "lon": -92.75547,
+        "units": 38,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 804960
+        },
+        "total_amount": 804960,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-avenue",
+        "name": "The Avenue",
+        "address": null,
+        "city": "Sturgeon Bay",
+        "lat": 44.83416,
+        "lon": -87.37704,
+        "units": 39,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 927244
+        },
+        "total_amount": 927244,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "valley-view",
+        "name": "Valley View",
+        "address": null,
+        "city": "River Falls",
+        "lat": 45.15608,
+        "lon": -92.70909,
+        "units": 50,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1071800
+        },
+        "total_amount": 1071800,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wauwatosa-north-apartments",
+        "name": "Wauwatosa North Apartments",
+        "address": null,
+        "city": "Wauwatosa",
+        "lat": 43.04941,
+        "lon": -88.00793,
+        "units": 55,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1200000
+        },
+        "total_amount": 1200000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "white-label-lofts",
+        "name": "White Label Lofts",
+        "address": null,
+        "city": "Oshkosh",
+        "lat": 44.02069,
+        "lon": -88.54086,
+        "units": 49,
+        "funding_sources": [
+          "htc_9pct"
+        ],
+        "source_amounts": {
+          "htc_9pct": 1067948
+        },
+        "total_amount": 1067948,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "2711-w-wells",
+        "name": "2711 W Wells",
+        "address": null,
+        "city": "Milwaukee",
+        "lat": 43.03865,
+        "lon": -87.90908,
+        "units": 124,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1775029,
+          "htc_4pct_state": 874388
+        },
+        "total_amount": 2649417,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "4220-35th",
+        "name": "4220 35th",
+        "address": null,
+        "city": "Kenosha",
+        "lat": 42.58468,
+        "lon": -87.82123,
+        "units": 94,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1163827,
+          "htc_4pct_state": 851600
+        },
+        "total_amount": 2015427,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "austin-commons",
+        "name": "Austin Commons",
+        "address": null,
+        "city": "Milwaukee",
+        "lat": 43.03865,
+        "lon": -87.90908,
+        "units": 100,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1064006,
+          "htc_4pct_state": 797851
+        },
+        "total_amount": 1861857,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "fox-meadowview",
+        "name": "Fox Meadowview",
+        "address": null,
+        "city": "Kenosha",
+        "lat": 42.58468,
+        "lon": -87.82123,
+        "units": 144,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1859920,
+          "htc_4pct_state": 1200000
+        },
+        "total_amount": 3059920,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maritime-flats",
+        "name": "Maritime Flats",
+        "address": null,
+        "city": "Manitowoc",
+        "lat": 44.08861,
+        "lon": -87.65758,
+        "units": 59,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 975873,
+          "htc_4pct_state": 541332
+        },
+        "total_amount": 1517205,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "midtown-commons",
+        "name": "Midtown Commons",
+        "address": null,
+        "city": "Milwaukee",
+        "lat": 43.03865,
+        "lon": -87.90908,
+        "units": 100,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1429173,
+          "htc_4pct_state": 915905
+        },
+        "total_amount": 2345078,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-argus-apartments",
+        "name": "The Argus Apartments",
+        "address": null,
+        "city": "Verona",
+        "lat": 42.99055,
+        "lon": -89.53356,
+        "units": 60,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 716109,
+          "htc_4pct_state": 537082
+        },
+        "total_amount": 1253191,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "timberline-terrace",
+        "name": "Timberline Terrace",
+        "address": null,
+        "city": "Madison",
+        "lat": 43.07469,
+        "lon": -89.38417,
+        "units": 93,
+        "funding_sources": [
+          "htc_4pct_federal",
+          "htc_4pct_state"
+        ],
+        "source_amounts": {
+          "htc_4pct_federal": 1607266,
+          "htc_4pct_state": 1184780
+        },
+        "total_amount": 2792046,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

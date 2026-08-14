@@ -72,6 +72,34 @@
       file: "mn_program_activity.json", prefix: "mn",
       modalTitleKey: "mnModalTitle", mapCenter: [46.0, -94.3], mapZoom: 6,
     },
+    IA: {
+      file: "ia_program_activity.json", prefix: "ia",
+      modalTitleKey: "iaModalTitle", mapCenter: [42.0, -93.5], mapZoom: 7,
+    },
+    WI: {
+      file: "wi_program_activity.json", prefix: "wi",
+      modalTitleKey: "wiModalTitle", mapCenter: [44.5, -89.5], mapZoom: 6.5,
+    },
+    HI: {
+      file: "hi_program_activity.json", prefix: "hi",
+      modalTitleKey: "hiModalTitle", mapCenter: [20.5, -157.5], mapZoom: 6.5,
+    },
+    VA: {
+      file: "va_program_activity.json", prefix: "va",
+      modalTitleKey: "vaModalTitle", mapCenter: [37.5, -78.5], mapZoom: 6.8,
+    },
+    AK: {
+      file: "ak_program_activity.json", prefix: "ak",
+      modalTitleKey: "akModalTitle", mapCenter: [64.0, -153.0], mapZoom: 4,
+    },
+    CO: {
+      file: "co_program_activity.json", prefix: "co",
+      modalTitleKey: "coModalTitle", mapCenter: [39.0, -105.5], mapZoom: 7,
+    },
+    NC: {
+      file: "nc_program_activity.json", prefix: "nc",
+      modalTitleKey: "ncModalTitle", mapCenter: [35.5, -79.0], mapZoom: 7,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
