@@ -2,7 +2,7 @@
   "MN": {
     "hfa_name": "Minnesota Housing Finance Agency",
     "hfa_abbr": "MN Housing",
-    "fiscal_year": "FFY2025",
+    "fiscal_year": "FY2025",
     "source_title": "Minnesota Housing 2025 Program Assessment Report (Table 3) + 2025 Multifamily Consolidated RFP/2026 HTC Round 1 Detailed Report and Selected Applications",
     "source_url": "https://mnhousing.gov/documents/53435/2025_program_assessment_report/view",
     "source_file": "MN_MNHousing_ProgramAssessmentReport_2025.pdf (+ 2025 Multifamily Consolidated RFP/2026 HTC Round 1 Detailed Report and Selected Applications)",
@@ -582,8 +582,8 @@
         "name": "West Transit Village Ph. 1",
         "address": "2905 2nd St SW",
         "city": "Rochester",
-        "lat": 44.02156,
-        "lon": -92.48983,
+        "lat": 44.02167,
+        "lon": -92.49374,
         "units": 75,
         "funding_sources": [
           "hib_senior",
@@ -687,8 +687,8 @@
         "name": "Logan Avenue Flats Senior",
         "address": "529 - 535 Logan Ave North",
         "city": "Minneapolis",
-        "lat": 44.98242,
-        "lon": -93.30326,
+        "lat": 44.97849,
+        "lon": -93.30328,
         "units": 48,
         "funding_sources": [
           "hib_senior"
@@ -790,8 +790,8 @@
         "name": "Trails Edge Senior Apartments",
         "address": "905 Airport Road",
         "city": "Waconia",
-        "lat": 44.84366,
-        "lon": -93.76532,
+        "lat": 44.84383,
+        "lon": -93.76487,
         "units": 43,
         "funding_sources": [
           "hib_senior",

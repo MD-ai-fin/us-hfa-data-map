@@ -44,9 +44,15 @@ are in play for Minnesota and are never mixed in this script's output
     "Minnesota Housing made [awards] during program year 2025 (October 1,
     2024 through September 30, 2025)" (Program Assessment Report, p.36) --
     i.e. FFY2025 = Oct 1, 2024 - Sep 30, 2025. This script labels every
-    Program-Assessment-sourced figure "FFY2025" and sets the payload's own
-    top-level fiscal_year to "FFY2025" accordingly (per this build's task
-    brief -- do not silently relabel this "FY2025").
+    Program-Assessment-sourced figure "FFY2025" in its own fy2025_source_quote
+    text (so the Oct-Sep window is never silently lost). The payload's
+    top-level fiscal_year field itself is "FY2025" -- shortened for display
+    consistency with the other 11 states' top-level label (which feeds the
+    {fy} placeholder in the shared ilSourceNote/ilMapTitle i18n strings) --
+    but the full "Federal Fiscal Year: Oct 2024 - Sep 2025" clarification is
+    preserved in mnModalTitle (see docs/index.html) instead, per user
+    confirmation on 2026-08-14 (see git history: "MN弹窗标题'FFY2025'改为
+    'FY2025'").
   - The Consolidated RFP / Selected Applications tables (source 2, used for
     RAW_PROJECTS) are undated by fiscal year in their own text but are
     fielded under the same FFY2025 Program Assessment umbrella (the
@@ -1051,7 +1057,17 @@ def main():
         "MN": {
             "hfa_name": "Minnesota Housing Finance Agency",
             "hfa_abbr": "MN Housing",
-            "fiscal_year": "FFY2025",
+            # "FY2025" here for display consistency with the other 11 states'
+            # top-level fiscal_year label (which feeds the {fy} placeholder in
+            # the shared ilSourceNote/ilMapTitle i18n strings) -- it is still
+            # the *federal* fiscal year (Oct 1, 2024 - Sep 30, 2025), not the
+            # Jul-Jun state fiscal year most other states use. That
+            # distinction is preserved in full in mnModalTitle (see
+            # docs/index.html) and in every fy2025_source_quote above, which
+            # spell out "FFY2025"/the Oct-Sep window explicitly -- only this
+            # single top-level label was shortened, not the underlying data
+            # or its documented methodology.
+            "fiscal_year": "FY2025",
             "source_title": "Minnesota Housing 2025 Program Assessment Report (Table 3) "
                              "+ 2025 Multifamily Consolidated RFP/2026 HTC Round 1 "
                              "Detailed Report and Selected Applications",
