@@ -60,6 +60,18 @@
       file: "ca_program_activity.json", prefix: "ca",
       modalTitleKey: "caModalTitle", mapCenter: [37.2, -119.5], mapZoom: 6,
     },
+    CT: {
+      file: "ct_program_activity.json", prefix: "ct",
+      modalTitleKey: "ctModalTitle", mapCenter: [41.6, -72.7], mapZoom: 8.5,
+    },
+    MI: {
+      file: "mi_program_activity.json", prefix: "mi",
+      modalTitleKey: "miModalTitle", mapCenter: [44.3, -85.6], mapZoom: 6.3,
+    },
+    MN: {
+      file: "mn_program_activity.json", prefix: "mn",
+      modalTitleKey: "mnModalTitle", mapCenter: [46.0, -94.3], mapZoom: 6,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
