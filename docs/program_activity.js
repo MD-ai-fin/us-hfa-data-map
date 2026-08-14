@@ -119,17 +119,45 @@
     let bubbleMapAbbr = null;   // which state's data the reused instance was last framed for
 
     const COLOR_GROUP_HEX = { bond: "#38bdf8", credit: "#4ade80", trust: "#a78bfa", capital: "#fb923c" };
-    const CATEGORY_BASE_HEX = {
-      homebuyer_loans: "#22c55e",
-      repair_counseling: "#f59e0b",
-      covid_emergency: "#f43f5e",
-    };
-    const CATEGORY_ICON = {
+    // Per-category icon/color used to originally be a flat lookup keyed on
+    // IL's own 4 category keys (multifamily_new_preserve/homebuyer_loans/
+    // repair_counseling/covid_emergency), so every other state's categories
+    // silently fell back to a generic "📊"/blue stacked-bar regardless of
+    // what the category was actually about. Kept those 4 explicit entries
+    // (exact, curated) but added a keyword-based fallback below so any
+    // state's category key -- past or future -- gets a semantically
+    // reasonable icon/color instead of the generic default. Checked in
+    // order; first matching bucket wins.
+    const CATEGORY_ICON_OVERRIDE = {
       multifamily_new_preserve: "🏗️",
       homebuyer_loans: "🏡",
       repair_counseling: "🔧",
       covid_emergency: "🆘",
     };
+    const CATEGORY_HEX_OVERRIDE = {
+      homebuyer_loans: "#22c55e",
+      repair_counseling: "#f59e0b",
+      covid_emergency: "#f43f5e",
+    };
+    const CATEGORY_KEYWORD_BUCKETS = [
+      { re: /homeown|homebuyer|single_family|downpayment|sonyma|covenant/, icon: "🏡", hex: "#22c55e" },
+      { re: /repair|renew|rehab|counsel/, icon: "🔧", hex: "#f59e0b" },
+      { re: /covid|emergency|foreclosure|homeless/, icon: "🆘", hex: "#f43f5e" },
+      { re: /weatheriz/, icon: "⚡", hex: "#eab308" },
+      { re: /lihtc|tax_credit|credit_award|hmmf|lmir|legislative_loan|mortgage/, icon: "🏦", hex: "#4ade80" },
+      { re: /trust_fund|phare|grant|reach_virginia|federal_assistance|home_program/, icon: "💰", hex: "#fb923c" },
+      { re: /multifamily|rental|units_completed|build_for|neighborhood|housing_solutions|voucher|public_housing/, icon: "🏗️", hex: "#38bdf8" },
+    ];
+    function categoryIcon(key) {
+      if (CATEGORY_ICON_OVERRIDE[key]) return CATEGORY_ICON_OVERRIDE[key];
+      const hit = CATEGORY_KEYWORD_BUCKETS.find(b => b.re.test(key));
+      return hit ? hit.icon : "📊";
+    }
+    function categoryBaseHex(key) {
+      if (CATEGORY_HEX_OVERRIDE[key]) return CATEGORY_HEX_OVERRIDE[key];
+      const hit = CATEGORY_KEYWORD_BUCKETS.find(b => b.re.test(key));
+      return hit ? hit.hex : "#38bdf8";
+    }
     const UNIT_ICON = { units: "🏠", households: "🧑" };
     // GASB fund-type classification, sourced from each state's own FY2025
     // ACFR (fund descriptions in Note 2 + combining schedules), not from the
@@ -241,7 +269,7 @@
         .join("");
       let subHtml;
       if (cat.additive) {
-        const base = CATEGORY_BASE_HEX[cat.key] || "#38bdf8";
+        const base = categoryBaseHex(cat.key);
         const total = cat.subprograms.reduce((s, sp) => s + sp.fy2025_units, 0) || 1;
         let acc = 0;
         const n = cat.subprograms.length;
@@ -275,7 +303,7 @@
         subHtml = `<div class="il-chip-row">${chips}</div><p class="il-chip-note">${escapeHtml(t("ilNotAdditiveNote"))}</p>`;
       }
       return `<div class="il-kpi-card">
-        <div class="il-kpi-head"><span class="il-kpi-icon">${CATEGORY_ICON[cat.key] || "📊"}</span><span class="il-kpi-title">${title}</span></div>
+        <div class="il-kpi-head"><span class="il-kpi-icon">${categoryIcon(cat.key)}</span><span class="il-kpi-title">${title}</span></div>
         <div class="il-kpi-value">${fmtNum(cat.fy2025_actual)} <span class="il-unit-icon">${uIcon}</span></div>
         ${amountsHtml ? `<div class="il-amount-row">${amountsHtml}</div>` : ""}
         <div class="il-kpi-fy26">${badge}</div>
