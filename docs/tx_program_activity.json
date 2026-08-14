@@ -1,0 +1,1615 @@
+{
+  "TX": {
+    "hfa_name": "Texas Department of Housing and Community Affairs",
+    "hfa_abbr": "TDHCA",
+    "fiscal_year": "SFY2025",
+    "source_title": "2026 State of Texas Low Income Housing Plan and Annual Report (SLIHP) -- reports SFY2025 actuals",
+    "source_url": "https://www.tdhca.texas.gov/sites/default/files/housing-center/docs/26-SLIHP.pdf",
+    "source_file": "TX_TDHCA_SLIHP_2026.pdf (+ TX_TDHCA_9pctHTC_AwardList_2025.xlsx, Version Date January 14, 2026)",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_rental_production",
+        "unit_type": "households",
+        "fy2025_actual": 18695,
+        "fy2025_source_quote": "\"Total Funding by Program, FY 2025\" (p.58): Housing Tax Credits 4% $133,790,422 (7.39%), Housing Tax Credits 9% $76,968,809 (4.25%), Multifamily Bond $142,452,000 (7.87%), Multifamily Direct Loan $24,417,856 (1.35%). \"Households Served by Activity and Housing Program, FY 2025\" (p.56): 9% HTC 4,554 + 4% HTC 14,141 = 18,695 households -- footnote: \"MF Bond and MF Direct Loan are included in 9% and 4% HTC figures and will not be included in HH totals,\" so their own published counts (MF Bond 1,108; MF Direct Loan 197) are shown on their own subprogram chips but excluded from this headline to avoid double-counting, per TDHCA's own convention.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tx_amt_htc9",
+            "amount": 76968809
+          },
+          {
+            "label_key": "tx_amt_htc4",
+            "amount": 133790422
+          },
+          {
+            "label_key": "tx_amt_mf_bond",
+            "amount": 142452000
+          },
+          {
+            "label_key": "tx_amt_mf_direct_loan",
+            "amount": 24417856
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tx_fy26_note_pending"
+        },
+        "subprograms": [
+          {
+            "key": "htc9",
+            "fy2025_units": 4554,
+            "fy2025_amount": 76968809,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "htc4",
+            "fy2025_units": 14141,
+            "fy2025_amount": 133790422,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "mf_bond",
+            "fy2025_units": 1108,
+            "fy2025_amount": 142452000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "mf_direct_loan",
+            "fy2025_units": 197,
+            "fy2025_amount": 24417856,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (HOME/TCAP RF/NSP1 PI/NHTF)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "single_family_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 4683,
+        "fy2025_source_quote": "\"Total Funding by Program, FY 2025\" (p.58): Single Family Homeownership Program $1,141,090,180 (63.07%). \"Households Served by Activity and Housing Program, FY 2025\" (p.56): SF Homeownership 4,683 households, all under \"Owner Financing & Down Payment.\"",
+        "fy2025_amounts": [
+          {
+            "label_key": "tx_amt_sf_homeownership",
+            "amount": 1141090180
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tx_fy26_note_pending"
+        },
+        "subprograms": [
+          {
+            "key": "sf_homeownership_loans",
+            "fy2025_units": 4683,
+            "fy2025_amount": 1141090180,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Revenue Bond program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "home_program",
+        "unit_type": "households",
+        "fy2025_actual": 1788,
+        "fy2025_source_quote": "\"Total Funding by Program, FY 2025\" (p.58): HOME Investment Partnerships Program $32,416,833 (1.79%). \"Households Served by Activity and Housing Program, FY 2025\" (p.56): HOME 1,788 households (Rental Assistance 1,664 + Owner Rehabilitation Assistance 124). \"Funding by Housing Activity and Program, FY 2025\" (p.61): HOME Rental Assistance $12,767,070 + Owner Rehabilitation Assistance $19,649,763 = $32,416,833.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tx_amt_home_total",
+            "amount": 32416833
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tx_fy26_note_pending"
+        },
+        "subprograms": [
+          {
+            "key": "home_tbra",
+            "fy2025_units": 1664,
+            "fy2025_amount": 12767070,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (HOME Tenant-Based Rental Assistance)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "home_owner_rehab",
+            "fy2025_units": 124,
+            "fy2025_amount": 19649763,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (HOME Owner Rehabilitation Assistance)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_trust_fund",
+        "unit_type": "households",
+        "fy2025_actual": 126,
+        "fy2025_source_quote": "\"Total Funding by Program, FY 2025\" (p.58): Housing Trust Fund $3,757,247 (0.21%). \"Households Served by Activity and Housing Program, FY 2025\" (p.56): HTF 126 households (Owner Rehabilitation Assistance 78 + Single Family Development 48). \"Funding by Housing Activity and Program, FY 2025\" (p.61): HTF Owner Rehabilitation Assistance $1,634,347 + Single Family Development $2,122,900 = $3,757,247.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tx_amt_htf_total",
+            "amount": 3757247
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tx_fy26_note_pending"
+        },
+        "subprograms": [
+          {
+            "key": "htf_owner_rehab",
+            "fy2025_units": 78,
+            "fy2025_amount": 1634347,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State of Texas Housing Trust Fund (unrestricted, proprietary fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "htf_sf_development",
+            "fy2025_units": 48,
+            "fy2025_amount": 2122900,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State of Texas Housing Trust Fund (unrestricted, proprietary fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance_community_affairs",
+        "unit_type": "households",
+        "fy2025_actual": 349398,
+        "fy2025_source_quote": "\"Total Funding by Program, FY 2025\" (p.58): Comprehensive Energy Assistance Program $155,819,774 (8.61%), Community Services Block Grant $31,177,126 (1.72%), Weatherization Assistance Program $31,082,983 (1.72%), Section 8 $15,548,802 (0.86%), Emergency Solutions Grants Program $10,509,885 (0.58%), Homeless Housing and Services Program $6,016,081 (0.33%), Section 811 PRA $4,314,218 (0.24%). Households/individuals served: Section 8 HCV 1,227 + Section 811 PRA 442 (p.56) + CEAP 81,424 households + WAP 1,801 households + CSBG 222,641 individuals + ESG 32,260 individuals + HHSP 9,603 individuals (p.62) = 349,398. TDHCA's own report adds households and individuals together for its totals (\"households and individuals have been added together for totals, though one household can contain multiple individuals,\" p.63); this category follows that same convention.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tx_amt_ceap",
+            "amount": 155819774
+          },
+          {
+            "label_key": "tx_amt_csbg",
+            "amount": 31177126
+          },
+          {
+            "label_key": "tx_amt_wap",
+            "amount": 31082983
+          },
+          {
+            "label_key": "tx_amt_section8",
+            "amount": 15548802
+          },
+          {
+            "label_key": "tx_amt_esg",
+            "amount": 10509885
+          },
+          {
+            "label_key": "tx_amt_hhsp",
+            "amount": 6016081
+          },
+          {
+            "label_key": "tx_amt_section811",
+            "amount": 4314218
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tx_fy26_note_pending"
+        },
+        "subprograms": [
+          {
+            "key": "ceap",
+            "fy2025_units": 81424,
+            "fy2025_amount": 155819774,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Comprehensive Energy Assistance Program, LIHEAP-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_ceap_pending"
+            }
+          },
+          {
+            "key": "csbg",
+            "fy2025_units": 222641,
+            "fy2025_amount": 31177126,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Community Services Block Grant)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_csbg_pending"
+            }
+          },
+          {
+            "key": "wap",
+            "fy2025_units": 1801,
+            "fy2025_amount": 31082983,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Weatherization Assistance Program, DOE/LIHEAP-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "section8_hcv",
+            "fy2025_units": 1227,
+            "fy2025_amount": 15548802,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Section 8 Housing Choice Voucher, HUD-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "esg",
+            "fy2025_units": 32260,
+            "fy2025_amount": 10509885,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Emergency Solutions Grants, HUD-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": 10308471,
+              "closed": false,
+              "note_key": "tx_fy26_note_esg"
+            }
+          },
+          {
+            "key": "hhsp",
+            "fy2025_units": 9603,
+            "fy2025_amount": 6016081,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Homeless Housing and Services Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          },
+          {
+            "key": "section811_pra",
+            "fy2025_units": 442,
+            "fy2025_amount": 4314218,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "General Revenue Fund (Section 811 Project Rental Assistance, HUD-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tx_fy26_note_pending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "tx-25001-pathways-at-santa-rita-courts-west",
+        "name": "Pathways at Santa Rita Courts West",
+        "address": "Approx. 2210 E. 2nd",
+        "city": "Austin (Travis County)",
+        "lat": 30.27113,
+        "lon": -97.7437,
+        "units": 96,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25004-avenue-at-lancaster",
+        "name": "Avenue at Lancaster",
+        "address": "5733 Craig Street",
+        "city": "Fort Worth (Tarrant County)",
+        "lat": 32.73784,
+        "lon": -97.23174,
+        "units": 81,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25013-palo-verde-senior-apartments",
+        "name": "Palo Verde Senior Apartments",
+        "address": "5501 Huntwick Ave",
+        "city": "Corpus Christi (Nueces County)",
+        "lat": 27.76353,
+        "lon": -97.40332,
+        "units": 75,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1948110
+        },
+        "total_amount": 1948110,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25016-pebble-hills-place",
+        "name": "Pebble Hills Place",
+        "address": "SWC of N Zaragoza Rd and Pebble Hills Blvd",
+        "city": "El Paso (El Paso County)",
+        "lat": 31.7601,
+        "lon": -106.48705,
+        "units": 70,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25017-reserve-at-corsicana",
+        "name": "Reserve at Corsicana",
+        "address": "300 N 45th St",
+        "city": "Corsicana (Navarro County)",
+        "lat": 32.07911,
+        "lon": -96.5128,
+        "units": 36,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1154115
+        },
+        "total_amount": 1154115,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25022-reserve-at-kilgore",
+        "name": "Reserve at Kilgore",
+        "address": "SWC Utzman St and Parkview St",
+        "city": "Kilgore (Gregg County)",
+        "lat": 32.38668,
+        "lon": -94.87546,
+        "units": 59,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1436803.45
+        },
+        "total_amount": 1436803.45,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25025-union-grove",
+        "name": "Union Grove",
+        "address": "2911 Old Union Rd",
+        "city": "Lufkin (Angelina County)",
+        "lat": 31.32103,
+        "lon": -94.7646,
+        "units": 60,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1714742.93
+        },
+        "total_amount": 1714742.93,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25031-hartwood-at-windstone",
+        "name": "Hartwood at Windstone",
+        "address": "19735 Clay Rd.",
+        "city": "Houston (Harris County)",
+        "lat": 29.8323,
+        "lon": -95.54509,
+        "units": 123,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25035-fredericksburg-senior-apartments",
+        "name": "Fredericksburg Senior Apartments",
+        "address": "591 E. Highway St",
+        "city": "Fredericksburg (Gillespie County)",
+        "lat": 30.26203,
+        "lon": -98.86971,
+        "units": 48,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 603701.27
+        },
+        "total_amount": 603701.27,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25038-azle-oaks-apartments",
+        "name": "Azle Oaks Apartments",
+        "address": "700 Jarvis Lane",
+        "city": "Azle (Tarrant County)",
+        "lat": 32.8942,
+        "lon": -97.53384,
+        "units": 116,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25042-villas-at-augusta",
+        "name": "Villas at Augusta",
+        "address": "SWC of Augusta Dr and Zaragoza Road",
+        "city": "El Paso (El Paso County)",
+        "lat": 31.7601,
+        "lon": -106.48705,
+        "units": 60,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25046-tecovas-terrace",
+        "name": "Tecovas Terrace",
+        "address": "1601 SE 28th Avenue",
+        "city": "Amarillo (Potter County)",
+        "lat": 35.18405,
+        "lon": -101.82063,
+        "units": 80,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1926703
+        },
+        "total_amount": 1926703,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25051-mandalay",
+        "name": "Mandalay",
+        "address": "Approximately the south side of the 600 Block of West Veterans Blvd.",
+        "city": "Palmview (Hidalgo County)",
+        "lat": 26.23341,
+        "lon": -98.37085,
+        "units": 104,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25053-las-fuentes",
+        "name": "Las Fuentes",
+        "address": "2801 Leonor Street",
+        "city": "Mission (Hidalgo County)",
+        "lat": 26.21591,
+        "lon": -98.32529,
+        "units": 105,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25055-lantana-villas",
+        "name": "Lantana Villas",
+        "address": "Approximately the 600 Block of East Coma Avenue",
+        "city": "Hidalgo (Hidalgo County)",
+        "lat": 26.35303,
+        "lon": -98.21644,
+        "units": 52,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1166816
+        },
+        "total_amount": 1166816,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25060-abbington-station",
+        "name": "Abbington Station",
+        "address": "SEC of 7th Street and Austin Street",
+        "city": "Pleasanton (Atascosa County)",
+        "lat": 37.66243,
+        "lon": -121.87468,
+        "units": 48,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25064-heritage-park",
+        "name": "Heritage Park",
+        "address": "581 Acres Lane",
+        "city": "Sealy (Austin County)",
+        "lat": 29.75879,
+        "lon": -96.15689,
+        "units": 56,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25066-historic-lofts-of-waco-high",
+        "name": "Historic Lofts of Waco High",
+        "address": "815 Columbus Ave",
+        "city": "Waco (McLennan County)",
+        "lat": 31.55618,
+        "lon": -97.13743,
+        "units": 104,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1530000
+        },
+        "total_amount": 1530000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25067-the-knox-fka-the-watson-and-watson-apartments",
+        "name": "The Knox (fka The Watson and Watson Apartments)",
+        "address": "1401 S Watson Rd",
+        "city": "Arlington (Tarrant County)",
+        "lat": 32.72221,
+        "lon": -97.06185,
+        "units": 82,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25070-6802-marbach-lofts",
+        "name": "6802 Marbach Lofts",
+        "address": "Approx 6832 Marbach Rd",
+        "city": "San Antonio (Bexar County)",
+        "lat": 29.4246,
+        "lon": -98.49514,
+        "units": 78,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25071-tezel-road-apartments",
+        "name": "Tezel Road Apartments",
+        "address": "Approximately 6054 Tezel Rd",
+        "city": "San Antonio (Bexar County)",
+        "lat": 29.4246,
+        "lon": -98.49514,
+        "units": 78,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25072-eberhart-place",
+        "name": "Eberhart Place",
+        "address": "808 Eberhart Lane",
+        "city": "Austin (Travis County)",
+        "lat": 30.20225,
+        "lon": -97.78772,
+        "units": 38,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 702210.15
+        },
+        "total_amount": 702210.15,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25073-the-ashbourne",
+        "name": "The Ashbourne",
+        "address": "9677 S Kirkwood Rd",
+        "city": "Houston (Harris County)",
+        "lat": 29.67389,
+        "lon": -95.58717,
+        "units": 72,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25074-cedar-brook-village",
+        "name": "Cedar Brook Village",
+        "address": "Approx 7401 Little York Rd",
+        "city": "Houston (Harris County)",
+        "lat": 29.75894,
+        "lon": -95.3677,
+        "units": 96,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25077-conway-village",
+        "name": "Conway Village",
+        "address": "2699 Conway Ave",
+        "city": "Mission (Hidalgo County)",
+        "lat": 26.24566,
+        "lon": -98.32079,
+        "units": 72,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1868000
+        },
+        "total_amount": 1868000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25088-early-pioneer-crossing",
+        "name": "Early Pioneer Crossing",
+        "address": "401 Old Comanche Rd.",
+        "city": "Early (Brown County)",
+        "lat": 31.74,
+        "lon": -98.95953,
+        "units": 52,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25090-trinity-east-senior",
+        "name": "Trinity East Senior",
+        "address": "2620 Live Oak Street",
+        "city": "Houston (Harris County)",
+        "lat": 29.73697,
+        "lon": -95.3606,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25093-north-crest-apartments",
+        "name": "North Crest Apartments",
+        "address": "4200 N 19th St & 2005 Steward Dr",
+        "city": "Waco (McLennan County)",
+        "lat": 31.54919,
+        "lon": -97.14746,
+        "units": 196,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25107-st-george-s-court",
+        "name": "St. George's Court",
+        "address": "1443 Coronado Hills",
+        "city": "Austin (Travis County)",
+        "lat": 30.32782,
+        "lon": -97.68909,
+        "units": 60,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1022755
+        },
+        "total_amount": 1022755,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25112-heritage-estates-at-medina",
+        "name": "Heritage Estates at Medina",
+        "address": "SWC I-410 and Medina Base Rd",
+        "city": "San Antonio (Bexar County)",
+        "lat": 29.4246,
+        "lon": -98.49514,
+        "units": 86,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25114-pecan-bend",
+        "name": "Pecan Bend",
+        "address": "501 Kings Way Dr",
+        "city": "Mansfield (Tarrant County)",
+        "lat": 32.55996,
+        "lon": -97.12613,
+        "units": 32,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 532600
+        },
+        "total_amount": 532600,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25116-mckinney-ranch-senior-living",
+        "name": "McKinney Ranch Senior Living",
+        "address": "5353 McKinney Ranch Parkway",
+        "city": "McKinney (Collin County)",
+        "lat": 33.15249,
+        "lon": -96.7024,
+        "units": 109,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25118-oakcrest-south",
+        "name": "Oakcrest South",
+        "address": "1415 W. Norris St.",
+        "city": "El Campo (Wharton County)",
+        "lat": 29.20108,
+        "lon": -96.29275,
+        "units": 72,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 997550
+        },
+        "total_amount": 997550,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25123-oakleaf-estates",
+        "name": "Oakleaf Estates",
+        "address": "1195 TX-327",
+        "city": "Silsbee (Hardin County)",
+        "lat": 30.34033,
+        "lon": -94.16152,
+        "units": 80,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 902266.05
+        },
+        "total_amount": 902266.05,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25126-silverleaf-senior-living",
+        "name": "Silverleaf Senior Living",
+        "address": "SEC of Blackhawk Blvd and Texas Sage Drive",
+        "city": "Houston (Harris County)",
+        "lat": 29.75894,
+        "lon": -95.3677,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25128-riverside-garden-villas",
+        "name": "Riverside Garden Villas",
+        "address": "SWC of Riverside Grove and Addicks Clodine Road",
+        "city": "Houston (Fort Bend County)",
+        "lat": 29.75894,
+        "lon": -95.3677,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25133-riva-ridge",
+        "name": "Riva Ridge",
+        "address": "SEQ Concord Rd & Gober Rd",
+        "city": "Beaumont (Jefferson County)",
+        "lat": 30.08293,
+        "lon": -94.09843,
+        "units": 63,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1661816
+        },
+        "total_amount": 1661816,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25145-avenue-u-villas",
+        "name": "Avenue U Villas",
+        "address": "8401 Avenue U",
+        "city": "Lubbock (Lubbock County)",
+        "lat": 33.51735,
+        "lon": -101.86165,
+        "units": 80,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1366814.08
+        },
+        "total_amount": 1366814.08,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25150-kingfield-trails",
+        "name": "Kingfield Trails",
+        "address": "15606 Kingfield",
+        "city": "Houston (Harris County)",
+        "lat": 29.75894,
+        "lon": -95.3677,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25155-hillsboro-trails",
+        "name": "Hillsboro Trails",
+        "address": "NEQ Old Brandon Rd and Dynasty Dr",
+        "city": "Hillsboro (Hill County)",
+        "lat": 32.01085,
+        "lon": -97.13037,
+        "units": 36,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25158-waverly-north",
+        "name": "Waverly North",
+        "address": "3710 Cedar Street",
+        "city": "Austin (Travis County)",
+        "lat": 30.3006,
+        "lon": -97.73524,
+        "units": 76,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1990204
+        },
+        "total_amount": 1990204,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25160-mcadams-haven",
+        "name": "McAdams Haven",
+        "address": "NWC Lindsey St and Bernard St",
+        "city": "Denton (Denton County)",
+        "lat": 33.18388,
+        "lon": -97.14134,
+        "units": 84,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25162-envoy64",
+        "name": "Envoy64",
+        "address": "1415 W Airport Fwy",
+        "city": "Irving (Dallas County)",
+        "lat": 32.83738,
+        "lon": -96.96409,
+        "units": 111,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25163-landmark-on-cypress",
+        "name": "Landmark on Cypress",
+        "address": "301 Cypress St",
+        "city": "Abilene (Taylor County)",
+        "lat": 32.45173,
+        "lon": -99.73398,
+        "units": 49,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1109841
+        },
+        "total_amount": 1109841,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25164-irving-lofts",
+        "name": "Irving Lofts",
+        "address": "1108 N Anglin St",
+        "city": "Cleburne (Johnson County)",
+        "lat": 32.36314,
+        "lon": -97.38965,
+        "units": 34,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1176446.58
+        },
+        "total_amount": 1176446.58,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25165-landmark-601",
+        "name": "Landmark 601",
+        "address": "601 W Lewis St",
+        "city": "Conroe (Montgomery County)",
+        "lat": 30.31533,
+        "lon": -95.46139,
+        "units": 71,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1997438
+        },
+        "total_amount": 1997438,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25167-landmark-on-pine",
+        "name": "Landmark on Pine",
+        "address": "SWC W 4th St and Pine St",
+        "city": "Texarkana (Bowie County)",
+        "lat": 33.44662,
+        "lon": -94.07657,
+        "units": 40,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25170-carthage-senior-estates",
+        "name": "Carthage Senior Estates",
+        "address": "100-101 Senior Ave",
+        "city": "Carthage (Panola County)",
+        "lat": 32.1452,
+        "lon": -94.3577,
+        "units": 56,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 854285
+        },
+        "total_amount": 854285,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25171-edgewood-senior-apartments",
+        "name": "Edgewood Senior Apartments",
+        "address": "300 E Elm St",
+        "city": "Edgewood (Van Zandt County)",
+        "lat": 32.69922,
+        "lon": -95.88569,
+        "units": 24,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 418013
+        },
+        "total_amount": 418013,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25172-linden-senior-estates",
+        "name": "Linden Senior Estates",
+        "address": "700 W Broad St",
+        "city": "Linden (Cass County)",
+        "lat": 33.01404,
+        "lon": -94.37104,
+        "units": 24,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 419052
+        },
+        "total_amount": 419052,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25175-the-james-at-wheatland",
+        "name": "The James at Wheatland",
+        "address": "7100 W Wheatland Rd.",
+        "city": "Dallas (Dallas County)",
+        "lat": 32.64711,
+        "lon": -96.94523,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25177-the-lantern-at-robstown",
+        "name": "The Lantern at Robstown",
+        "address": "NWC of CR 44 and CR 69",
+        "city": "Robstown (Nueces County)",
+        "lat": 27.7903,
+        "lon": -97.66888,
+        "units": 39,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1258361
+        },
+        "total_amount": 1258361,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25178-connect-hillcroft",
+        "name": "Connect Hillcroft",
+        "address": "6420 Hillcroft Avenue",
+        "city": "Houston (Harris County)",
+        "lat": 29.63243,
+        "lon": -95.49308,
+        "units": 90,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25185-gardenwalk-of-west-columbia",
+        "name": "GardenWalk of West Columbia",
+        "address": "431 Lamar St.",
+        "city": "West Columbia (Brazoria County)",
+        "lat": 29.14969,
+        "lon": -95.64391,
+        "units": 56,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 680807
+        },
+        "total_amount": 680807,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25187-crossroads-redevelopment",
+        "name": "Crossroads Redevelopment",
+        "address": "8801 McCann Dr.",
+        "city": "Austin (Travis County)",
+        "lat": 30.37223,
+        "lon": -97.72989,
+        "units": 110,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25196-victoria-gardens",
+        "name": "Victoria Gardens",
+        "address": "1809 Grant St",
+        "city": "Brownsville (Cameron County)",
+        "lat": 25.90769,
+        "lon": -97.48397,
+        "units": 83,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25201-pine-creek-apartments",
+        "name": "Pine Creek Apartments",
+        "address": "Hwy 71 & Lovers Lane (108 Lovers Lane)",
+        "city": "Bastrop (Bastrop County)",
+        "lat": 30.05411,
+        "lon": -97.38878,
+        "units": 52,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25204-melody-grove-ii",
+        "name": "Melody Grove II",
+        "address": "1809 JJ Flewellen Road",
+        "city": "Waco (McLennan County)",
+        "lat": 31.54919,
+        "lon": -97.14746,
+        "units": 70,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25214-villas-at-primrose",
+        "name": "Villas at Primrose",
+        "address": "SEQ of Buddy Owens Blvd. & N. Ware Rd.",
+        "city": "McAllen (Hidalgo County)",
+        "lat": 26.20411,
+        "lon": -98.23006,
+        "units": 104,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25217-meadowbrook-apartments",
+        "name": "Meadowbrook Apartments",
+        "address": "510 N Old. Robinson Rd",
+        "city": "Robinson (McLennan County)",
+        "lat": 31.47653,
+        "lon": -97.12421,
+        "units": 93,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25239-the-meadow",
+        "name": "The Meadow",
+        "address": "8130 Meadow Rd",
+        "city": "Dallas (Dallas County)",
+        "lat": 32.88737,
+        "lon": -96.76676,
+        "units": 75,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25240-the-magnolia",
+        "name": "The Magnolia",
+        "address": "1401 Commerce Street",
+        "city": "Dallas (Dallas County)",
+        "lat": 32.78014,
+        "lon": -96.79907,
+        "units": 130,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 2000000
+        },
+        "total_amount": 2000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tx-25261-mount-pleasant-trails",
+        "name": "Mount Pleasant Trails",
+        "address": "N side of Tennison Rd, Approx 2150 ft East of S Jefferson Ave",
+        "city": "Mount Pleasant (Titus County)",
+        "lat": 33.15706,
+        "lon": -94.9694,
+        "units": 52,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1164000
+        },
+        "total_amount": 1164000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25270-the-rosie",
+        "name": "The Rosie",
+        "address": "SEQ of Cap Carter Rd and Doniphan Dr",
+        "city": "Vinton (El Paso County)",
+        "lat": 39.27444,
+        "lon": -82.47403,
+        "units": 40,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tx-25271-lofts-at-birdwell",
+        "name": "Lofts at Birdwell",
+        "address": "130 ft. N. of NWC of Sunset Ave. & Birdwell Ln.",
+        "city": "Big Spring (Howard County)",
+        "lat": 32.2504,
+        "lon": -101.47874,
+        "units": 39,
+        "funding_sources": [
+          "htc9"
+        ],
+        "source_amounts": {
+          "htc9": 1125000
+        },
+        "total_amount": 1125000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}
