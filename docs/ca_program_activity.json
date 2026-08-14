@@ -1,0 +1,464 @@
+{
+  "CA": {
+    "hfa_name": "California Housing Finance Agency",
+    "hfa_abbr": "CalHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "2024-25 Popular Annual Financial Report (PAFR); California Dream For All Annual Report FY2024-25; FY2025 ACFR Statistical Section (Multifamily Programs)",
+    "source_url": "https://www.calhfa.ca.gov/about/financials/reports/24-25/2024-2025-pafr.pdf",
+    "source_file": "CA_CalHFA_PAFR_2024-2025.pdf (+ CA_CalHFA_DFA_Report_FY2025.pdf, + CA_CalHFA_FY2025_ACFR.txt Statistical Section \"Multifamily Programs\")",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_rental",
+        "unit_type": "units",
+        "fy2025_actual": 2779,
+        "fy2025_source_quote": "PAFR \"Multifamily Highlights\" Statistical Snapshot: \"2,779 units* ... $1.1 billion IN LENDING AND BOND ISSUANCE\" (* \"Represents all units in CalHFA-financed affordable housing developments\"); AMI tiers 10% 80 AMI+ / 19% 70 AMI / 31% 60 AMI / 15% 50 AMI / 2% 40 AMI / 23% 30 AMI or below. Cross-checked against the FY2025 ACFR Statistical Section's own \"Net Lending and Unit Production Total\": \"$1,115,923,982 ... 2,779 ... 1,120\" (p.189) -- rounds to the identical $1.1B and matches 2,779 exactly. (The CDD transmittal letter separately states \"more than $1.4 billion in lending and bond issuance to create and preserve more than 2,700 affordable rental units\" -- a rounder figure not used here; see module docstring for why $1.1B/2,779 is treated as authoritative.)",
+        "fy2025_amounts": [
+          {
+            "label_key": "ca_amt_multifamily_lending",
+            "amount": 1115923982
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "caFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "conduit",
+            "fy2025_units": 2554,
+            "fy2025_amount": 962358000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Rental Housing Programs (Conduit — SOMHRB/MHRB/AHRB)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "caFy26NotePending"
+            }
+          },
+          {
+            "key": "snhp",
+            "fy2025_units": 99,
+            "fy2025_amount": 500000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Contract Administration Programs — Special Needs Housing Program (SNHP)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "caFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 6955,
+        "fy2025_source_quote": "PAFR \"Single Family Highlights\" Statistical Snapshot: \"6,955 homebuyers helped ... $3.1 billion IN FIRST MORTGAGE LENDING ... $278 million IN DOWN PAYMENT & CLOSING COST ASSISTANCE\"; loan types 46% FHA / 53% Conventional / 0.4% VA / 0.2% USDA. CDD transmittal letter: \"CalHFA helped 6,955 low- and moderate-income families achieve the dream of homeownership with more than $3.14 billion in first mortgage loans.\" California Dream For All Annual Report, FY2024-25: \"From July 1, 2024 through June 30, 2025, the Dream For All program helped 1,732 new homeowners purchase a home. This corresponds to $200 million in down payment assistance, leveraging nearly $1 billion in first mortgage secondary market capital.\" Every Dream For All loan is paired with a CalHFA first mortgage (DFA Annual Report, \"Overview of Shared Appreciation Loans\": \"The shared appreciation loan must be paired with a CalHFA first mortgage\"), so DFA's 1,732 borrowers are a SUBSET of the 6,955 total homebuyers helped, not an additional/parallel population.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ca_amt_first_mortgage",
+            "amount": 3140000000
+          },
+          {
+            "label_key": "ca_amt_dpa_total",
+            "amount": 278000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "caFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "dream_for_all",
+            "fy2025_units": 1732,
+            "fy2025_amount": 200000000,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "caFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "all-hallows-apartments",
+        "name": "All Hallows Apartments",
+        "address": null,
+        "city": "San Francisco County",
+        "lat": 37.76273,
+        "lon": -122.45826,
+        "units": 157,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 76500000
+        },
+        "total_amount": 76500000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "la-salle-apartments",
+        "name": "La Salle Apartments",
+        "address": null,
+        "city": "San Francisco County",
+        "lat": 37.76273,
+        "lon": -122.45826,
+        "units": 145,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 68000000
+        },
+        "total_amount": 68000000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "u-s-vets-wlava-building-210",
+        "name": "U.S. VETS-WLAVA Building 210",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 38,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 19562000
+        },
+        "total_amount": 19562000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "bayview-apartments",
+        "name": "Bayview Apartments",
+        "address": null,
+        "city": "San Francisco County",
+        "lat": 37.76273,
+        "lon": -122.45826,
+        "units": 146,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 63000000
+        },
+        "total_amount": 63000000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "sisal-apartments",
+        "name": "Sisal Apartments",
+        "address": null,
+        "city": "San Diego County",
+        "lat": 32.96378,
+        "lon": -116.77063,
+        "units": 120,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 32100000
+        },
+        "total_amount": 32100000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "the-pardes-2",
+        "name": "The Pardes 2",
+        "address": null,
+        "city": "Sacramento County",
+        "lat": 38.47323,
+        "lon": -121.29807,
+        "units": 140,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 59169000
+        },
+        "total_amount": 59169000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "the-trails-at-carmel-mountain-ranch",
+        "name": "The Trails at Carmel Mountain Ranch",
+        "address": null,
+        "city": "San Diego County",
+        "lat": 32.96378,
+        "lon": -116.77063,
+        "units": 125,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 50233000
+        },
+        "total_amount": 50233000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "st-luke-s-affordable",
+        "name": "St. Luke's Affordable",
+        "address": null,
+        "city": "San Diego County",
+        "lat": 32.96378,
+        "lon": -116.77063,
+        "units": 78,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 20000000
+        },
+        "total_amount": 20000000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "holt-main",
+        "name": "Holt & Main",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 160,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 70858000
+        },
+        "total_amount": 70858000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "kindred-apartments",
+        "name": "Kindred Apartments",
+        "address": null,
+        "city": "San Diego County",
+        "lat": 32.96378,
+        "lon": -116.77063,
+        "units": 126,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 71958000
+        },
+        "total_amount": 71958000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "6018-brynhurst",
+        "name": "6018 Brynhurst",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 50,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 11887000
+        },
+        "total_amount": 11887000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "121-n-mathews",
+        "name": "121 N. Mathews",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 40,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 9540000
+        },
+        "total_amount": 9540000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "north-city-affordable",
+        "name": "North City Affordable",
+        "address": null,
+        "city": "San Diego County",
+        "lat": 32.96378,
+        "lon": -116.77063,
+        "units": 224,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 62130000
+        },
+        "total_amount": 62130000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "monarch",
+        "name": "Monarch",
+        "address": null,
+        "city": "Sacramento County",
+        "lat": 38.47323,
+        "lon": -121.29807,
+        "units": 241,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 73272000
+        },
+        "total_amount": 73272000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "busd-workforce-housing",
+        "name": "BUSD Workforce Housing",
+        "address": null,
+        "city": "Alameda County",
+        "lat": 37.60903,
+        "lon": -121.89914,
+        "units": 110,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 44549000
+        },
+        "total_amount": 44549000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "maison-s-village-phase-ii",
+        "name": "Maison's Village Phase II",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 191,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 40020000
+        },
+        "total_amount": 40020000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "westside-village",
+        "name": "Westside Village",
+        "address": null,
+        "city": "Santa Cruz County",
+        "lat": 37.0501,
+        "lon": -121.99059,
+        "units": 38,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 30747000
+        },
+        "total_amount": 30747000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "300-de-haro",
+        "name": "300 De Haro",
+        "address": null,
+        "city": "San Francisco County",
+        "lat": 37.76273,
+        "lon": -122.45826,
+        "units": 425,
+        "funding_sources": [
+          "conduit"
+        ],
+        "source_amounts": {
+          "conduit": 118050000
+        },
+        "total_amount": 118050000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      },
+      {
+        "id": "snhp-flor-401-lofts",
+        "name": "SNHP Flor 401 Lofts",
+        "address": null,
+        "city": "Los Angeles County",
+        "lat": 34.31551,
+        "lon": -118.20968,
+        "units": 99,
+        "funding_sources": [
+          "snhp"
+        ],
+        "source_amounts": {
+          "snhp": 500000
+        },
+        "total_amount": 500000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "county_center"
+      }
+    ]
+  }
+}

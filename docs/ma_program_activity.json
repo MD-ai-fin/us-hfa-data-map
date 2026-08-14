@@ -1,0 +1,84 @@
+{
+  "MA": {
+    "hfa_name": "MassHousing",
+    "hfa_abbr": "MassHousing",
+    "fiscal_year": "FY2025",
+    "source_title": "MassHousing Annual Disclosure Report for Fiscal Year 2025 (Exhibit B: Annual Report of MassHousing)",
+    "source_url": "https://www.masshousing.com/-/media/Files/Financials/Annual-Disclosure-Report.pdf",
+    "source_file": "MA_MassHousing_AnnualDisclosureReport_FY2025.pdf",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_rental",
+        "unit_type": "units",
+        "fy2025_actual": 1400,
+        "fy2025_source_quote": "\"Our Multifamily business line supported the creation or preservation of close to 1,400 rental homes, with $310.9 million in financing. At the close of FY25, we serviced over 1,800 loans with an outstanding balance of $7.6 billion.\" (Message from the Chair and Chief Executive Officer, MassHousing FY2025 Annual Disclosure Report, Exhibit B). \"Close to 1,400\" is MassHousing's own approximate phrasing -- not an exact count -- and is used as-is, not rounded or adjusted further. The \"1,800 loans / $7.6 billion\" figure is MassHousing's entire serviced loan portfolio outstanding as of 06/30/2025 (a stock), not this year's new/preserved activity (a flow); it is shown here only as context and is not used as this category's own KPI number.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ma_amt_multifamily_financing",
+            "amount": 310900000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "maFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_total",
+            "fy2025_units": 1400,
+            "fy2025_amount": 310900000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Development / Housing Bond Program (business-type activities)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "maFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 1893,
+        "fy2025_source_quote": "\"In Fiscal 2025, MassHousing helped 1,893 Massachusetts homebuyers buy a home, of whom 73 percent earned less than 100 percent of their Area Median Income, 54 percent were buyers of color and 51 percent of the loans were made in Gateway Cities ... In FY 25, through all its partner lenders, MassHousing provided a total of $659.4 million in mortgage financing loans ... in 299 of the 351 cities and towns ... 89 percent of loans had down payment assistance attached.\" (\"MassHousing Announces Fiscal Year 2025 Top Partner Lenders\", MassHousing press release, July 17, 2025). This figure differs from the Annual Disclosure Report's own Chair's-letter figure of \"$608.7 million in first mortgage financing to help over 2,500 people buy a home\" -- the two MassHousing publications do not reconcile with each other and neither document explains the gap (likely a different counting methodology or as-of date between the two releases). This script uses the press release's figures because only they include the AMI/buyers-of-color/Gateway-Cities/down-payment-assistance breakdown; the discrepancy is flagged here rather than silently picking one number.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ma_amt_mortgage_financing",
+            "amount": 659400000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "maFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homeownership_total",
+            "fy2025_units": 1893,
+            "fy2025_amount": 659400000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Housing Bond Programs (SFHRB/RMRB, business-type activities)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "maFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

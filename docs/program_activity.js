@@ -48,6 +48,18 @@
       file: "tx_program_activity.json", prefix: "tx",
       modalTitleKey: "txModalTitle", mapCenter: [31.0, -99.3], mapZoom: 6,
     },
+    MA: {
+      file: "ma_program_activity.json", prefix: "ma",
+      modalTitleKey: "maModalTitle", mapCenter: [42.2, -71.5], mapZoom: 8,
+    },
+    NY: {
+      file: "ny_program_activity.json", prefix: "ny",
+      modalTitleKey: "nyModalTitle", mapCenter: [42.9, -75.5], mapZoom: 6.3,
+    },
+    CA: {
+      file: "ca_program_activity.json", prefix: "ca",
+      modalTitleKey: "caModalTitle", mapCenter: [37.2, -119.5], mapZoom: 6,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
