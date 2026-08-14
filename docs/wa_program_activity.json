@@ -1,0 +1,410 @@
+{
+  "WA": {
+    "hfa_name": "Washington State Housing Finance Commission",
+    "hfa_abbr": "WSHFC",
+    "fiscal_year": "FY2025",
+    "source_title": "2024-25 Data Report (+ 9% Housing Tax Credit Program 2025 Allocation List)",
+    "source_url": "https://wshfc.org/admin/WSHFCAR2025Updater12.pdf",
+    "source_file": "WA_WSHFC_DataReport_FY2025.pdf (+ WA_WSHFC_9pctHTC_AllocationList_2025.pdf)",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "multifamily_housing",
+        "unit_type": "units",
+        "fy2025_actual": 2952,
+        "fy2025_source_quote": "\"2025 MULTIFAMILY HOUSING HIGHLIGHTS\" (Data Report p.6): \"2,952 affordable apartments created or preserved ... 36 affordable apartment projects financed statewide in 13 counties ... $395.6 million total bonds issued ... $543.5 million in equity generated from Low Income Housing Tax Credits.\" Subcategory breakdown (p.7): Combined Bonds and 4% Tax Credits -- 23 projects, 2,292 units, $395.6M bonds, $375M equity; 9% Housing Tax Credits -- 13 projects, 660 units, $168M equity; Nonprofit Senior Housing -- 3 projects, 522 units/beds, $167M bonds. 23+13=36 projects, 2,292+660=2,952 units and 375+168=543(.5)M equity all reconcile exactly to the overview -- Nonprofit Senior Housing's 3 projects/522 units/$167M bonds sit OUTSIDE the overview totals entirely (see module docstring).",
+        "fy2025_amounts": [
+          {
+            "label_key": "wa_amt_total_bonds",
+            "amount": 395600000
+          },
+          {
+            "label_key": "wa_amt_total_lihtc_equity",
+            "amount": 543500000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "waFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "combined_bonds_4pct",
+            "fy2025_units": 2292,
+            "fy2025_amount": 395600000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          },
+          {
+            "key": "pct9_credits",
+            "fy2025_units": 660,
+            "fy2025_amount": 168000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          },
+          {
+            "key": "nonprofit_senior_housing",
+            "fy2025_units": 522,
+            "fy2025_amount": 167000000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 5247,
+        "fy2025_source_quote": "\"2025 HOMEOWNERSHIP HIGHLIGHTS\" (Data Report p.4): \"5,247 households served (4,638 Home Advantage loans and 609 House Key loans) ... $2.04B in first-mortgage loans.\" 4,638 + 609 = 5,247 exactly; the $2.04B total is not broken out by product in the source, so it is shown only as a category-level amount, not split between the two subprograms.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wa_amt_first_mortgage_total",
+            "amount": 2040000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "waFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "home_advantage",
+            "fy2025_units": 4638,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Homeownership Program (Bond Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          },
+          {
+            "key": "house_key",
+            "fy2025_units": 609,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Homeownership Program (Bond Fund) — House Key Opportunity",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "downpayment_closing_cost_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 5124,
+        "fy2025_source_quote": "\"2025 HOMEOWNERSHIP HIGHLIGHTS\" (Data Report p.4), \"Down Payment and Closing-cost Loans\" panel: \"5,124 homebuyers served (buyers using our home loans) ... $126M.\" A separate metric from the 5,247-household first-mortgage figure above -- the Data Report never states the two nest or sum, so this is kept as its own category rather than folded into Homeownership Loans.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wa_amt_dpa_closing_cost_total",
+            "amount": 126000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "waFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "downpayment_closing_cost",
+            "fy2025_units": 5124,
+            "fy2025_amount": 126000000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Down Payment Assistance and Other Loans Supporting Homeownership (Note 5)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "covenant_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 547,
+        "fy2025_source_quote": "\"COVENANT HOMEOWNERSHIP PROGRAM\" (Data Report p.5): \"This groundbreaking program launched July 1, 2024 ... Funded by a new document recording fee ... 547 Homebuyers served, 1,236 Total household members, $60.2M Total downpayment loans.\" (The 1,236 total-household-members figure is a person-count, not a homebuyer/loan count, and is not otherwise surfaced in this file's numeric fields.)",
+        "fy2025_amounts": [
+          {
+            "label_key": "wa_amt_covenant_downpayment_loans",
+            "amount": 60200000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "waFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "covenant_downpayment_loans",
+            "fy2025_units": 547,
+            "fy2025_amount": 60200000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Covenant Homeownership Program forgivable down payment loans (Note 5)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "waFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "skyway-mixed-use",
+        "name": "Skyway Mixed Use",
+        "address": null,
+        "city": "Seattle",
+        "lat": 47.60383,
+        "lon": -122.33006,
+        "units": 53,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1529520
+        },
+        "total_amount": 1529520,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lexington-concord",
+        "name": "Lexington & Concord",
+        "address": null,
+        "city": "Seattle",
+        "lat": 47.60383,
+        "lon": -122.33006,
+        "units": 83,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 2294120
+        },
+        "total_amount": 2294120,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "housing-hope-eucc-aka-rainbow-terrace",
+        "name": "Housing Hope - EUCC (AKA Rainbow Terrace)",
+        "address": null,
+        "city": "Everett",
+        "lat": 47.97934,
+        "lon": -122.2127,
+        "units": 66,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1824058
+        },
+        "total_amount": 1824058,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "south-yakima-senior-housing",
+        "name": "South Yakima Senior Housing",
+        "address": null,
+        "city": "Tacoma",
+        "lat": 47.2455,
+        "lon": -122.43833,
+        "units": 62,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1712360
+        },
+        "total_amount": 1712360,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bellis-fair-senior-housing",
+        "name": "Bellis Fair Senior Housing",
+        "address": null,
+        "city": "Bellingham",
+        "lat": 48.7544,
+        "lon": -122.47884,
+        "units": 64,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1768960
+        },
+        "total_amount": 1768960,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "claudia-s-place",
+        "name": "Claudia's Place",
+        "address": null,
+        "city": "Vancouver",
+        "lat": 45.6307,
+        "lon": -122.67446,
+        "units": 40,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1097786
+        },
+        "total_amount": 1097786,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lewis-spruce-sixth",
+        "name": "Lewis, Spruce, & Sixth",
+        "address": null,
+        "city": "Yakima",
+        "lat": 46.60156,
+        "lon": -120.51084,
+        "units": 50,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1378777
+        },
+        "total_amount": 1378777,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pathways-place",
+        "name": "Pathways Place",
+        "address": null,
+        "city": "Ellensburg",
+        "lat": 46.99706,
+        "lon": -120.54512,
+        "units": 78,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 2155920
+        },
+        "total_amount": 2155920,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "catlin-and-main",
+        "name": "Catlin and Main",
+        "address": null,
+        "city": "Kelso",
+        "lat": 46.14212,
+        "lon": -122.9053,
+        "units": 40,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1105600
+        },
+        "total_amount": 1105600,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "franz-anderson-psh",
+        "name": "Franz Anderson PSH",
+        "address": null,
+        "city": "Olympia",
+        "lat": 47.0451,
+        "lon": -122.89501,
+        "units": 71,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 1928539
+        },
+        "total_amount": 1928539,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "farmview-family-housing",
+        "name": "Farmview Family Housing",
+        "address": null,
+        "city": "Burlington",
+        "lat": 48.47381,
+        "lon": -122.33045,
+        "units": 30,
+        "funding_sources": [
+          "pct9_credits"
+        ],
+        "source_amounts": {
+          "pct9_credits": 872727
+        },
+        "total_amount": 872727,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

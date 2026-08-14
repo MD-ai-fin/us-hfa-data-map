@@ -91,7 +91,14 @@ NAME_TO_STATE["District of Columbia"] = "DC"
 
 
 def fetch_url(url: str, timeout: int = 60) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    # A bare "Mozilla/5.0" (no OS/engine/version tokens) reads as an obvious
+    # script to some sites' bot-management (seen intermittently rejecting
+    # census.gov population requests with a 200-status Cloudflare challenge
+    # page instead of the CSV) -- a fuller, realistic UA reduces that.
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    })
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return resp.read()
 
@@ -1591,24 +1598,60 @@ def extract_from_text(text: str, year: int) -> dict:
 
 def load_population() -> dict[str, dict[str, int | None]]:
     result = {s: {"2024": None, "2025": None} for s in STATE_NAMES}
-    for url in (
-        "https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/state/totals/NST-EST2024-ALLDATA.csv",
-        "https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv",
+    got_year: dict[str, bool] = {"2024": False, "2025": False}
+    for url, col, ykey in (
+        ("https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/state/totals/NST-EST2024-ALLDATA.csv",
+         "POPESTIMATE2024", "2024"),
+        ("https://www2.census.gov/programs-surveys/popest/datasets/2020-2025/state/totals/NST-EST2025-ALLDATA.csv",
+         "POPESTIMATE2025", "2025"),
     ):
         try:
             text = fetch_url(url).decode("utf-8")
-            for row in csv.DictReader(io.StringIO(text)):
+            reader = csv.DictReader(io.StringIO(text))
+            # census.gov sometimes serves a Cloudflare "Request Rejected" bot-
+            # check HTML page with a 200 status instead of the CSV (no
+            # exception raised, and every row lacks SUMLEV so the loop below
+            # would silently produce zero matches) -- detect that up front
+            # instead of quietly writing null population for all 51 states.
+            if col not in (reader.fieldnames or []):
+                raise ValueError(f"response missing {col!r} column -- likely blocked/bot-check page, not the CSV")
+            for row in reader:
                 if row.get("SUMLEV") != "040":
                     continue
                 st = FIPS_TO_STATE.get(row["STATE"].zfill(2))
                 if not st:
                     continue
-                if row.get("POPESTIMATE2024"):
-                    result[st]["2024"] = int(row["POPESTIMATE2024"])
-                if row.get("POPESTIMATE2025"):
-                    result[st]["2025"] = int(row["POPESTIMATE2025"])
+                if row.get(col):
+                    result[st][ykey] = int(row[col])
+                    got_year[ykey] = True
         except Exception as exc:
-            print(f"WARN population: {exc}", file=sys.stderr)
+            print(f"WARN population {ykey}: {exc}", file=sys.stderr)
+    # Fall back to the last-known-good snapshot for any year the live fetch
+    # didn't actually populate, rather than overwriting real data with null
+    # (population_fallback.json is refreshed from a successful run's own
+    # output -- see bottom of this function).
+    if not all(got_year.values()):
+        fallback = BASE / "docs" / "population_fallback.json"
+        if fallback.exists():
+            data = json.loads(fallback.read_text(encoding="utf-8"))
+            for st, vals in data.items():
+                if st not in result:
+                    continue
+                for ykey in ("2024", "2025"):
+                    if not got_year[ykey] and result[st][ykey] is None:
+                        result[st][ykey] = vals.get(f"population_{ykey}")
+        else:
+            print("WARN population: no docs/population_fallback.json to fall back to", file=sys.stderr)
+    # Keep the fallback snapshot fresh whenever a live fetch actually worked.
+    if all(got_year.values()):
+        fallback = BASE / "docs" / "population_fallback.json"
+        fallback.write_text(
+            json.dumps(
+                {st: {"population_2024": v["2024"], "population_2025": v["2025"]} for st, v in result.items()},
+                indent=2, ensure_ascii=False,
+            ),
+            encoding="utf-8",
+        )
     return result
 
 
@@ -1861,13 +1904,25 @@ def main() -> None:
                 "homeless_count": hm.get(homeless_key),
             }
 
+        # "status" from fy2025_metrics.json only means "do we have an FY2025-
+        # dated report" -- some states (e.g. OR/NV/NJ) never get one but do
+        # have real FY2024 figures layered in via MANUAL_OVERRIDES, so a raw
+        # copy of that flag understates what data is actually present (and
+        # previously required a hand-edit of docs/state_data.json per state
+        # to correct, which a later rebuild would silently discard). Derive
+        # it instead from whether any financial figure actually exists.
+        has_financials = any(
+            h.get(yr, {}).get(field) is not None
+            for yr in ("2024", "2025")
+            for field in ("net_position", "total_assets", "total_liabilities")
+        )
         states_out.append({
             "state": st,
             "name_en": names["en"],
             "name_zh": names["zh"],
             "hfa_name": h.get("hfa_name"),
             "hfa_abbr": h.get("hfa_abbr"),
-            "hfa_status": h.get("status"),
+            "hfa_status": "downloaded" if has_financials else "missing",
             "staff_count_source": (
                 h.get("2025", {}).get("staff_count_source")
                 or h.get("2024", {}).get("staff_count_source")

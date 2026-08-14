@@ -40,6 +40,14 @@
       file: "oh_program_activity.json", prefix: "oh",
       modalTitleKey: "ohModalTitle", mapCenter: [40.3, -82.8], mapZoom: 6.8,
     },
+    WA: {
+      file: "wa_program_activity.json", prefix: "wa",
+      modalTitleKey: "waModalTitle", mapCenter: [47.4, -120.5], mapZoom: 6.7,
+    },
+    TX: {
+      file: "tx_program_activity.json", prefix: "tx",
+      modalTitleKey: "txModalTitle", mapCenter: [31.0, -99.3], mapZoom: 6,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
