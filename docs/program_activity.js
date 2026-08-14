@@ -146,7 +146,13 @@
       { re: /weatheriz/, icon: "⚡", hex: "#eab308" },
       { re: /lihtc|tax_credit|credit_award|hmmf|lmir|legislative_loan|mortgage/, icon: "🏦", hex: "#4ade80" },
       { re: /trust_fund|phare|grant|reach_virginia|federal_assistance|home_program/, icon: "💰", hex: "#fb923c" },
-      { re: /multifamily|rental|units_completed|build_for|neighborhood|housing_solutions|voucher|public_housing/, icon: "🏗️", hex: "#38bdf8" },
+      // Ongoing rental assistance/vouchers/public-housing operating support
+      // -- checked before the general multifamily/rental bucket below so it
+      // doesn't get lumped in with new-construction categories just because
+      // both keys happen to contain "rental" (e.g. TX's own
+      // multifamily_rental_production vs. rental_assistance_community_affairs).
+      { re: /rental_assistance|community_affairs|voucher|public_housing/, icon: "🏘️", hex: "#a78bfa" },
+      { re: /multifamily|rental|units_completed|build_for|neighborhood|housing_solutions/, icon: "🏗️", hex: "#38bdf8" },
     ];
     function categoryIcon(key) {
       if (CATEGORY_ICON_OVERRIDE[key]) return CATEGORY_ICON_OVERRIDE[key];
