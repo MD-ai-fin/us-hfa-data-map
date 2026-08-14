@@ -1,0 +1,715 @@
+{
+  "CO": {
+    "hfa_name": "Colorado Housing and Finance Authority",
+    "hfa_abbr": "CHFA",
+    "fiscal_year": "CY2025",
+    "source_title": "2025 CHFA Community Report (calendar-year reporting period)",
+    "source_url": "https://www.chfainfo.com/2025-chfa-community-report",
+    "source_file": "CO_CHFA_CommunityReport_2025.pdf (+ embedded properties-map API + Federal 4% Award Report cross-reference)",
+    "retrieved": "2026-08-14",
+    "categories": [
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 5491,
+        "fy2025_source_quote": "\"2025 Investment\" stat panel (p.4): \"$2B invested in first mortgage loans\", \"$86M invested in down payment assistance\", \"8,722 households served with CHFA-sponsored homebuyer education\", \"5,491 customers served with CHFA home mortgage purchase loans.\" Narrative (p.4): \"CHFA supported more than 5,400 households in achieving homeownership and served more than 8,700 homebuyer education customers in 2025.\" Cross-confirmed by CHFA's own FY2025 ACFR Executive Letter: \"5,491 Colorado households achieved homeownership through CHFA's Home Finance programs.\" Down payment assistance rides on top of an undisclosed subset of the 5,491 purchase loans (no separate DAP loan count is disclosed, only the $86M total); homebuyer education (8,722) is an explicitly separate cohort, not a subset of the 5,491 -- neither subprogram is additive against the 5,491 headline.",
+        "fy2025_amounts": [
+          {
+            "label_key": "co_amt_first_mortgages",
+            "amount": 2000000000
+          },
+          {
+            "label_key": "co_amt_downpayment_assist",
+            "amount": 86000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "coFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "downpayment_assistance",
+            "fy2025_units": null,
+            "fy2025_amount": 86000000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Opportunity Fund (HOF Program), Community Impact Fund (CIF), General Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          },
+          {
+            "key": "homebuyer_education",
+            "fy2025_units": 8722,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "affordable_rental_housing",
+        "unit_type": "units",
+        "fy2025_actual": 5732,
+        "fy2025_source_quote": "\"2025 Investment\" stat panel (p.5): \"$555M total loan production\", \"$44.6M federal 4 percent Housing Tax Credits awarded\", \"$19.2M federal 9 percent Housing Tax Credits awarded\", \"$31.6M state Housing Tax Credits awarded\", \"5,732 units supported.\" Narrative (p.5): \"CHFA supported the construction or preservation of more than 5,700 affordable rental housing units.\" Cross-confirmed by CHFA's own FY2025 ACFR Executive Letter: \"5,732 affordable rental housing units were supported through the allocation of Housing Tax Credits and/or CHFA's Multifamily Lending programs.\" The three credit figures cross-check exactly against the Community Report's separate overview panel (p.3): \"$95.4M awarded in federal and state Housing Tax Credits\" = $44.6M + $19.2M + $31.6M = $95,400,000 (see verify_rental_housing_credit_totals()). RAW_PROJECTS below (32 developments, 2,907 total units, from CHFA's own \"Developments Supported with Housing Tax Credits\" map/API) is a narrower universe than this 5,732-unit headline -- CHFA's own headline also includes non-HTC Multifamily Lending-only closings with no marker on that map -- not forced to reconcile, per this project's 'never fabricate a bridging number' rule.",
+        "fy2025_amounts": [
+          {
+            "label_key": "co_amt_total_loan_production",
+            "amount": 555000000
+          },
+          {
+            "label_key": "co_amt_federal_4pct",
+            "amount": 44600000
+          },
+          {
+            "label_key": "co_amt_federal_9pct",
+            "amount": 19200000
+          },
+          {
+            "label_key": "co_amt_state_htc",
+            "amount": 31600000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "coFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "federal_4pct",
+            "fy2025_units": 820,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          },
+          {
+            "key": "state_federal_4pct",
+            "fy2025_units": 522,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          },
+          {
+            "key": "state_federal_4pct_noncomp",
+            "fy2025_units": 666,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          },
+          {
+            "key": "state_federal_9pct",
+            "fy2025_units": 679,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          },
+          {
+            "key": "mihtc",
+            "fy2025_units": 220,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "coFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "crossbar-commons",
+        "name": "Crossbar Commons",
+        "address": null,
+        "city": "Aurora",
+        "lat": 39.74099,
+        "lon": -104.80213,
+        "units": 104,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "elmwood-north",
+        "name": "Elmwood North",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.84206,
+        "lon": -105.00545,
+        "units": 70,
+        "funding_sources": [
+          "mihtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "ravenfield",
+        "name": "Ravenfield",
+        "address": null,
+        "city": "Brighton",
+        "lat": 39.97705,
+        "lon": -104.78877,
+        "units": 46,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "tierra-azul",
+        "name": "Tierra Azul",
+        "address": null,
+        "city": "Alamosa",
+        "lat": 37.46479,
+        "lon": -105.89709,
+        "units": 46,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "wagoner-on-the-creek",
+        "name": "Wagoner on the Creek",
+        "address": null,
+        "city": "Aurora",
+        "lat": 39.74623,
+        "lon": -104.80974,
+        "units": 60,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "34th-street",
+        "name": "34th Street",
+        "address": "3125 34th St.",
+        "city": "Boulder",
+        "lat": 40.03219,
+        "lon": -105.25034,
+        "units": 44,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "atwood-commons",
+        "name": "Atwood Commons",
+        "address": null,
+        "city": "Longmont",
+        "lat": 40.16427,
+        "lon": -105.09608,
+        "units": 72,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "kite-route-crossing",
+        "name": "Kite Route Crossing",
+        "address": null,
+        "city": "Superior",
+        "lat": 39.9497,
+        "lon": -105.16223,
+        "units": 50,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "1001-lincoln-street",
+        "name": "1001 Lincoln Street",
+        "address": "1001 Lincoln Street",
+        "city": "Denver",
+        "lat": 39.73241,
+        "lon": -104.98651,
+        "units": 118,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "1139-delaware-street",
+        "name": "1139 Delaware Street",
+        "address": "1139 Delaware Street",
+        "city": "Denver",
+        "lat": 39.73461,
+        "lon": -104.99337,
+        "units": 80,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "4965-washington-street",
+        "name": "4965 Washington Street",
+        "address": "4965 Washington Street",
+        "city": "Denver",
+        "lat": 39.78665,
+        "lon": -104.97831,
+        "units": 170,
+        "funding_sources": [
+          "federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "central-park-station-phase-i",
+        "name": "Central Park Station Phase I",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.77006,
+        "lon": -104.89545,
+        "units": 156,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "cole-train",
+        "name": "Cole Train",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.76591,
+        "lon": -104.96753,
+        "units": 63,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "ford-apartments",
+        "name": "Ford Apartments",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.72427,
+        "lon": -104.98997,
+        "units": 60,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "loretto-heights-family-apartments",
+        "name": "Loretto Heights Family Apartments",
+        "address": "2934 S Pancratia Street",
+        "city": "Denver",
+        "lat": 39.66271,
+        "lon": -105.02684,
+        "units": 100,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "park-avenue-apartments",
+        "name": "Park Avenue Apartments",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.74616,
+        "lon": -104.97652,
+        "units": 60,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "park-place-apartments",
+        "name": "Park Place Apartments",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.73601,
+        "lon": -105.02214,
+        "units": 80,
+        "funding_sources": [
+          "mihtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "tapestry-lihtc",
+        "name": "Tapestry LIHTC",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.74454,
+        "lon": -104.98187,
+        "units": 72,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "university-building-lofts",
+        "name": "University Building Lofts",
+        "address": null,
+        "city": "Denver",
+        "lat": 39.74658,
+        "lon": -104.9944,
+        "units": 120,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "ponderosa-pines",
+        "name": "Ponderosa Pines",
+        "address": "6793 Scott Avenue",
+        "city": "Parker",
+        "lat": 39.45031,
+        "lon": -104.76014,
+        "units": 204,
+        "funding_sources": [
+          "state_federal_4pct_noncomp"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "eagle-villas",
+        "name": "Eagle Villas",
+        "address": "405 Nogal Road",
+        "city": "Eagle",
+        "lat": 39.65885,
+        "lon": -106.82103,
+        "units": 120,
+        "funding_sources": [
+          "federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "bradley-ridge",
+        "name": "Bradley Ridge",
+        "address": "Legacy Hill Drive & Bradley Landing Blvd",
+        "city": "Colorado Springs",
+        "lat": 38.75628,
+        "lon": -104.66987,
+        "units": 336,
+        "funding_sources": [
+          "federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "flats-at-sand-creek",
+        "name": "Flats at Sand Creek",
+        "address": "NEC Peterson Rd & N Carefree Cir",
+        "city": "Colorado Springs",
+        "lat": 38.88664,
+        "lon": -104.70341,
+        "units": 144,
+        "funding_sources": [
+          "federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "st-louis-landing-building-c",
+        "name": "St. Louis Landing Building C",
+        "address": null,
+        "city": "Fraser",
+        "lat": 39.95036,
+        "lon": -105.817,
+        "units": 70,
+        "funding_sources": [
+          "mihtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "blossom-commons",
+        "name": "Blossom Commons",
+        "address": null,
+        "city": "Westminster",
+        "lat": 39.86264,
+        "lon": -105.05964,
+        "units": 50,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "ives-ii",
+        "name": "Ives II",
+        "address": "7525 W. 44th Avenue",
+        "city": "Wheat Ridge",
+        "lat": 39.77731,
+        "lon": -105.08013,
+        "units": 98,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "switchgrass-crossing",
+        "name": "Switchgrass Crossing",
+        "address": null,
+        "city": "Fort Collins",
+        "lat": 40.53479,
+        "lon": -105.07909,
+        "units": 45,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "village-on-eastbrook",
+        "name": "Village on Eastbrook",
+        "address": null,
+        "city": "Fort Collins",
+        "lat": 40.543,
+        "lon": -105.0419,
+        "units": 73,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "windtrail-park",
+        "name": "Windtrail Park",
+        "address": "2120 Bridgefield Ln",
+        "city": "Fort Collins",
+        "lat": 40.55954,
+        "lon": -105.09392,
+        "units": 50,
+        "funding_sources": [
+          "federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "marq",
+        "name": "Marq",
+        "address": null,
+        "city": "Trinidad",
+        "lat": 37.18549,
+        "lon": -104.507,
+        "units": 40,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "sugar-commons",
+        "name": "Sugar Commons",
+        "address": null,
+        "city": "Sterling",
+        "lat": 40.63239,
+        "lon": -103.20509,
+        "units": 54,
+        "funding_sources": [
+          "state_federal_4pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      },
+      {
+        "id": "101-main",
+        "name": "101 Main",
+        "address": null,
+        "city": "Frisco",
+        "lat": 39.57583,
+        "lon": -106.1062,
+        "units": 52,
+        "funding_sources": [
+          "state_federal_9pct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "official"
+      }
+    ]
+  }
+}
