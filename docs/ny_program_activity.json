@@ -1,0 +1,215 @@
+{
+  "NY": {
+    "hfa_name": "New York State Homes and Community Renewal",
+    "hfa_abbr": "HCR",
+    "fiscal_year": "CY2025 (HFA/SONYMA) / SFY2025-26 (HTFC)",
+    "source_title": "List of Measurements for Calendar Year 2025 (HFA/SONYMA/MIF) + HTFC Operations and Accomplishments Fiscal Year 2025-26",
+    "source_url": "https://hcr.ny.gov/system/files/documents/2026/01/list-of-measurements-for-cy-2025-final_1.pdf",
+    "source_file": "NY_HCR_ListOfMeasurements_CY2025.pdf (HFA/SONYMA/MIF, CY2025) + NY_HTFC_OperationsAccomplishments_FY2025-26.pdf (HTFC, SFY2025-26; https://hcr.ny.gov/system/files/documents/2026/07/fy-25-26-htfc-operations-and-accomplishments-final-no-watermark.pdf)",
+    "retrieved": "2026-08-13",
+    "categories": [
+      {
+        "key": "hfa_multifamily",
+        "unit_type": "units",
+        "fy2025_actual": 9382,
+        "fy2025_source_quote": "\"List of Measurements for Calendar Year 2025\" (HFA section, p.1): \"HFA created and preserved 9,382 affordable housing units in 2025 compared to 5,554 in 2024; 4,970 in 2023; 5,073 in 2022 and 4,577 units in 2021. HFA financed a total of 41 projects, including 15 new construction projects that created 2,744 affordable units, 25 preservation projects that preserved 6,542 affordable units and one project that included both the new construction of 54 units and the preservation of 42 units.\" Reporting period: calendar year 2025 (Jan-Dec). New construction (2,744 + 54 = 2,798) + preservation (6,542 + 42 = 6,584) = 9,382, matching the headline exactly -- see verify_hfa_reconciliation().",
+        "fy2025_amounts": [
+          {
+            "label_key": "ny_amt_sustainability_bonds",
+            "amount": 1230000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "new_construction",
+            "fy2025_units": 2798,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "New York State Housing Finance Agency (single business-type reporting entity)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "preservation",
+            "fy2025_units": 6584,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "New York State Housing Finance Agency (single business-type reporting entity)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "sonyma_homebuyer",
+        "unit_type": "households",
+        "fy2025_actual": 1384,
+        "fy2025_source_quote": "\"List of Measurements for Calendar Year 2025\" (SONYMA section, p.6): \"The Agency purchased 1,384 mortgages in 2025, compared to 1,694 in 2024, and 1,701 in 2023.\" Total loan volume from the MIF section (p.12): \"The MIF provided pool insurance for 1,384 single family loans purchased by SONYMA with a loan amount of $358,285,339.\" Reporting period: calendar year 2025. Subprograms below are OVERLAPPING borrower-eligibility subsets of this same 1,384-loan pool (not distinct funding sources), so this category is not additive -- see module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ny_amt_sonyma_loan_volume",
+            "amount": 358285339
+          },
+          {
+            "label_key": "ny_amt_sonyma_minority_volume",
+            "amount": 187600000
+          },
+          {
+            "label_key": "ny_amt_sonyma_minority_dpa",
+            "amount": 9190000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "achieving_dream",
+            "fy2025_units": 1129,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "low_income",
+            "fy2025_units": 998,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "minority",
+            "fy2025_units": 619,
+            "fy2025_amount": 187600000,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "htfc_multifamily_awards",
+        "unit_type": "units",
+        "fy2025_actual": 1935,
+        "fy2025_source_quote": "\"Housing Trust Fund Corporation -- Operations and Accomplishments Fiscal Year April 1, 2025 to March 31, 2026\" (p.9): \"HTFC has made multifamily development awards totaling over $217 million which have leveraged approximately $70 million in private and public investment... and assisted in the creation or rehabilitation of 1,935 units of affordable housing.\" Reporting period: NYS fiscal year 2025-26 (Apr 2025-Mar 2026) -- NOT the same calendar window as HFA/SONYMA above, and NOT summed with them. The \"over\"/\"approximately\" wording is the source's own imprecision, not introduced here.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ny_amt_htfc_awards",
+            "amount": 217000000
+          },
+          {
+            "label_key": "ny_amt_htfc_leveraged",
+            "amount": 70000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtf",
+            "fy2025_units": 622,
+            "fy2025_amount": 43000000,
+            "color_group": "trust",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "senior_housing",
+            "fy2025_units": 204,
+            "fy2025_amount": 12252462,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "rucif",
+            "fy2025_units": 584,
+            "fy2025_amount": 10514342,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "shop",
+            "fy2025_units": 796,
+            "fy2025_amount": 65000000,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}
