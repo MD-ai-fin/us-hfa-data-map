@@ -247,6 +247,41 @@
             }
           }
         ]
+      },
+      {
+        "key": "rental_assistance_program",
+        "unit_type": "units",
+        "fy2025_actual": 1215,
+        "fy2025_source_quote": "\"The Rental Assistance Revolving Fund (RARF) funds the Rental Assistance Program (RAP), which was created by the Legislature in 1981 to encourage the development of new or existing rental properties while maintaining rental rates for low and moderate-income families. The fund's purpose is to provide monthly rental subsidies. As of June 30, 2025, there are seven projects comprised of 1,215 rental units with RAP commitments totaling $29,324,009. Although the program is no longer accepting new projects or funding, it continues to honor existing commitments until they sunset.\" (p.25-26). No per-project table is published for RAP's 7 projects anywhere in this report -- unlike Table 1/Table 10, this program gets only this one narrative paragraph -- so this category carries no RAW_PROJECTS of its own. HHFDC's own separately-issued FY2025 ACFR gives a DIFFERENT commitment total for the same fund (Note 13: \"approximately $18,911,000\" of outstanding rental subsidy commitments at June 30, 2025) and a third, differently-scoped figure (Statement of Activities: $1,276 thousand of FY2025 \"Rental assistance program\" business-type-activity EXPENSE, a one-year flow figure, not a commitment stock) -- neither is forced to reconcile with the Annual Report's own $29,324,009 headline used here; see module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "hi_amt_rap_commitments",
+            "amount": 29324009
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "hiFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rap",
+            "fy2025_units": 1215,
+            "fy2025_amount": 29324009,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Rental Assistance Revolving Fund (RARF)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "hiFy26NotePending"
+            }
+          }
+        ]
       }
     ],
     "projects": [

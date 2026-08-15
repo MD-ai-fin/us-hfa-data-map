@@ -440,6 +440,160 @@
             }
           }
         ]
+      },
+      {
+        "key": "section8_contract_administration",
+        "unit_type": "units",
+        "fy2025_actual": 34148,
+        "fy2025_source_quote": "Table 3 (\"Funding and Household Characteristics by Program, FFY 2025\"), p.19: \"Rental Assistance Contract Administration $305,113,535 34,148\" / \"Project-Based Section 8 Contract Administration $305,113,535 34,148 $8,935 $14,269 44.2%\" -- the section header and its single sub-row carry identical totals. MD&A, \"General Reserve\" fund description: \"contract administration of the Section 8 program for developments not financed by Minnesota Housing.\"",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_section8_hap",
+            "amount": 305113535
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "section8_hap",
+            "fy2025_units": 34148,
+            "fy2025_amount": 305113535,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Reserve – Funds Held for Others (Section 8 subsidy funds held/reimbursable to HUD; only administration fee income is Minnesota Housing's own revenue)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_stability_extra_support",
+        "unit_type": "households",
+        "fy2025_actual": 16654,
+        "fy2025_source_quote": "Table 3, p.19-20: \"Housing Stability for Populations Needing Extra Support $69,851,726 16,654\", comprising \"Housing Trust Fund – Rental Assistance (HTF-RA) $10,204,343 1,080\"; \"Housing Trust Fund – Operating Subsidies $978,762 468\"; \"Homework Starts with Home $2,185,769 170\"; \"Bridges $4,097,970 579\"; \"Section 811 $1,473,007 178\"; \"Family Homeless Prevention and Assistance Program (FHPAP) $50,661,310 14,045\"; \"Housing Opportunities for Persons with AIDS (HOPWA) $250,565 134\" -- these 7 rows' own dollar and household columns sum EXACTLY to the printed $69,851,726/16,654 header (verified below); a following row, \"Strengthen the Supportive Housing System $318,000\", is confirmed NOT part of this subtotal by the same arithmetic check and is excluded. HTF-RA, Homework Starts with Home, Bridges and Section 811 are each independently tagged \"Rent Assistance\" in Table 3's own companion Table 1 (Activity column) -- the most literal rental-assistance match of the 7; FHPAP and HOPWA are broader housing-stability/homelessness-prevention services that Minnesota Housing's own table nonetheless groups under this same header (see module docstring).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mn_amt_housing_stability_total",
+            "amount": 69851726
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "htf_ra",
+            "fy2025_units": 1080,
+            "fy2025_amount": 10204343,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "htf_operating_subsidies",
+            "fy2025_units": 468,
+            "fy2025_amount": 978762,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "homework_starts_with_home",
+            "fy2025_units": 170,
+            "fy2025_amount": 2185769,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "bridges",
+            "fy2025_units": 579,
+            "fy2025_amount": 4097970,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "section_811",
+            "fy2025_units": 178,
+            "fy2025_amount": 1473007,
+            "color_group": "capital",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "fhpap",
+            "fy2025_units": 14045,
+            "fy2025_amount": 50661310,
+            "color_group": "amber",
+            "fund_type": "proprietary",
+            "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          },
+          {
+            "key": "hopwa",
+            "fy2025_units": 134,
+            "fy2025_amount": 250565,
+            "color_group": "amber",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Appropriated (named alongside NHTF in Note 4's loans-receivable table)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mnFy26NotePending"
+            }
+          }
+        ]
       }
     ],
     "projects": [
@@ -790,8 +944,8 @@
         "name": "Trails Edge Senior Apartments",
         "address": "905 Airport Road",
         "city": "Waconia",
-        "lat": 44.84366,
-        "lon": -93.76532,
+        "lat": 44.84383,
+        "lon": -93.76487,
         "units": 43,
         "funding_sources": [
           "hib_senior",

@@ -151,7 +151,7 @@
       // doesn't get lumped in with new-construction categories just because
       // both keys happen to contain "rental" (e.g. TX's own
       // multifamily_rental_production vs. rental_assistance_community_affairs).
-      { re: /rental_assistance|community_affairs|voucher|public_housing/, icon: "🏘️", hex: "#a78bfa" },
+      { re: /rental_assistance|community_affairs|voucher|public_housing|section_?8|tbra|housing_stability/, icon: "🏘️", hex: "#a78bfa" },
       { re: /multifamily|rental|units_completed|build_for|neighborhood|housing_solutions/, icon: "🏗️", hex: "#38bdf8" },
     ];
     function categoryIcon(key) {

@@ -92,9 +92,14 @@ and MMRB (4,400 vs. 4,280) diverge, by 120 units each, consistent with the
 SUMMARY table's own stated "minus units funded in a prior year" adjustment
 applying differently to those two columns. "Housing Stability for
 Schoolchildren" (HSS, 44 units in the SUMMARY table) has no column at all
-in the RENTAL PROPERTIES table and so has no subprogram entry here -- it is
-omitted, not folded into another source, to avoid fabricating a funding
-breakdown FL never published for it.
+in the RENTAL PROPERTIES table and so has no subprogram entry in THIS
+category -- it is a structurally different population (ongoing per-
+household rental subsidy payments to already-housed tenants, not one-time
+development financing) and is instead modeled as its own category
+(Category 3 below), per user request (2026-08-14) to add any state's
+independent, per-unit/per-household "persistent rental assistance/
+operating subsidy" program that was previously scanned for but omitted for
+lack of a verifiable breakdown.
 
 Category 2 -- Homebuyer/Down-Payment Assistance: the category headline
 (8,427, "Total Homeowners Served or Units Funded", p.8) is FL's own
@@ -142,6 +147,41 @@ from three underlying data tables and cross-checked against each other:
     unit count would not be a number FL ever actually published -- so
     fy2025_amount for the ship subprogram below is left None rather than
     inventing a $109M "half-total" FL never stated.
+
+Category 3 -- Housing Stability for Schoolchildren (HSS) Tenant-Based
+Rental Assistance (TBRA): identified during a 2026-08-14 re-scan of this
+report's full text for "rental assistance"/"voucher"/"Section 8"/"operating
+subsidy"/"tenant-based" keywords (per user request to check every pilot
+state's existing report for an independent, ongoing per-unit/per-household
+rental subsidy program distinct from one-time development financing). The
+Annual Report's own narrative (p.19, inside the HOME Investment
+Partnerships Program section): "Florida Housing utilizes HOME funding to
+provide short- and medium-term Tenant Based Rental Assistance (TBRA) to
+families with school-aged children experiencing homelessness. The Housing
+Stability for Schoolchildren Program is targeted to counties with small
+and rural communities..." -- structurally a per-household, ongoing rent
+subsidy (not construction/preservation financing), the same category of
+program IL modeled as "rental_assistance_operations" for IHDA's Section 811
+PRA/RHSP. A dedicated table, "HOUSING STABILITY FOR SCHOOLCHILDREN PROGRAM
+TENANT-BASED RENTAL ASSISTANCE (TBRA)" (p.44), gives a full per-county
+breakdown with its own printed TOTALS row: Charlotte 11 households/$79,641,
+Hernando 15 households/$110,443, Santa Rosa 18 households/$77,967, TOTALS
+44 households/$268,051 -- independently re-summed here and verified exactly
+(see verify_hss_tbra_totals()). This 44-household total is a THIRD
+independent match (after live_local_sail=2,714, home=115, home_arp=258,
+nhtf=326, dev_disab=60, cdbg_dr=353 in Category 1 above) between this
+table and the separate "SUMMARY OF PROGRAMS" table's own per-program line
+("Housing Stability for Schoolchildren 44...44", p.9) -- despite the two
+tables being visually and structurally unrelated. The same table also
+prints an AMI-tier breakdown (0-30% AMI 25 + 31-50% AMI 17 + 51-80% AMI 2 =
+44) that independently sums to the same 44, a fourth cross-check. Because
+this is a per-household subsidy program with no associated physical
+development/address of its own (the table is county-level, not project-
+level, and describes payments to landlords on behalf of already-housed
+families, not a financed construction project), this category has no
+`projects`/bubble-map presence, matching how CT's Build For CT and IL's
+Section 811 PRA/RHSP are also KPI-only. fy2026: not disclosed (no
+forward-looking figure anywhere in this table or its surrounding section).
 
 Fund-type classification (fund_type/fund_name on each subprogram)
 ---------------------------------------------------------------------------
@@ -211,6 +251,14 @@ Housing-carried asset/liability in the ACFR at all).
         federal HOME Investment Partnerships Program authority as `home`;
         presumed folded into Note 12's single "HOME Investment
         Partnerships Program" figure.
+      * tbra (Category 3, Housing Stability for Schoolchildren) -- the
+        Annual Report's own narrative states this program is funded with
+        "HOME funding" (same federal authority as `home`/`home_arp` above);
+        Note 12's "HOME Investment Partnerships Program $23,351,606" balance
+        is not broken out between multifamily construction loans and this
+        rental-subsidy use, so this is presumed folded into that same
+        figure rather than being off Florida Housing's balance sheet --
+        same inference logic as `home_arp`, confidence: medium.
       * dev_disab (Grants for Persons with Developmental Disabilities) --
         Note 3 (p.23) describes "Legislative Initiatives" as appropriations
         that "target a specific segment of the affordable housing
@@ -425,6 +473,49 @@ CATEGORIES = [
             {"key": "predevelopment_loan", "fy2025_units": 99, "fy2025_amount": 2768333,
              "color_group": "capital",
              "fund_type": "proprietary", "fund_name": "Predevelopment Loan Program",
+             "fy2026": _FY26_PENDING},
+        ],
+    },
+    {
+        # Housing Stability for Schoolchildren (HSS) -- Tenant-Based Rental
+        # Assistance (TBRA). An ongoing, per-household rent subsidy paid to
+        # landlords on behalf of already-housed families, structurally
+        # different from Category 1's one-time development financing --
+        # same distinction IL draws for IHDA's Section 811 PRA/RHSP
+        # "rental_assistance_operations" category. See module docstring's
+        # "Category 3" section for the full methodology and page citations.
+        "key": "hss_tbra",
+        "unit_type": "households",
+        "fy2025_actual": 44,
+        "fy2025_source_quote": (
+            "\"Housing Stability for Schoolchildren Program\" narrative (p.19): "
+            "\"Florida Housing utilizes HOME funding to provide short- and "
+            "medium-term Tenant Based Rental Assistance (TBRA) to families with "
+            "school-aged children experiencing homelessness.\" \"HOUSING "
+            "STABILITY FOR SCHOOLCHILDREN PROGRAM TENANT-BASED RENTAL ASSISTANCE "
+            "(TBRA)\" table (p.44), printed TOTALS row: Charlotte 11 households/"
+            "$79,641, Hernando 15 households/$110,443, Santa Rosa 18 households/"
+            "$77,967, TOTALS 44 households/$268,051 -- independently re-summed "
+            "and matched exactly (see verify_hss_tbra_totals()), and cross-"
+            "checked against the separate SUMMARY OF PROGRAMS table's own "
+            "\"Housing Stability for Schoolchildren 44...44\" line (p.9) and "
+            "this table's own AMI-tier breakdown (0-30% AMI 25 + 31-50% AMI 17 "
+            "+ 51-80% AMI 2 = 44)."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "fl_amt_tbra_total", "amount": 268051},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "tbra", "fy2025_units": 44, "fy2025_amount": 268051,
+             "color_group": "trust",
+             # HOME-funded, same federal authority as `home`/`home_arp` in
+             # Category 1; not separately broken out in the ACFR's Note 12
+             # "HOME Investment Partnerships Program $23,351,606" balance --
+             # see module docstring's Fund-type classification section.
+             "fund_type": "proprietary",
+             "fund_name": "HOME Investment Partnerships Program (Tenant-Based Rental Assistance, inferred)",
              "fy2026": _FY26_PENDING},
         ],
     },
@@ -780,6 +871,49 @@ def verify_homebuyer_totals():
           "$69,891,417 DPA dollars, SHIP 4,910 x 50%=2,455.")
 
 
+# Cross-checks the "HOUSING STABILITY FOR SCHOOLCHILDREN PROGRAM
+# TENANT-BASED RENTAL ASSISTANCE (TBRA)" table's own printed TOTALS row
+# (p.44) against an independent re-sum of its 3 county rows, plus the
+# table's own AMI-tier breakdown row, plus the category's own
+# fy2025_actual/fy2025_amounts fields (CATEGORIES, hand-entered) -- and
+# separately notes the match against the unrelated SUMMARY OF PROGRAMS
+# table's own "44" line (p.9), which is not re-verified here since that
+# table is not independently re-summed anywhere in this script (its
+# figures are taken as given, same as every other SUMMARY-sourced category
+# headline in this file).
+def verify_hss_tbra_totals():
+    county_rows = [
+        ("Charlotte", 11, 79641),
+        ("Hernando", 15, 110443),
+        ("Santa Rosa", 18, 77967),
+    ]
+    ami_tiers = [25, 17, 2]
+    households = sum(u for _c, u, _a in county_rows)
+    dollars = sum(a for _c, _u, a in county_rows)
+    ami_total = sum(ami_tiers)
+    errors = []
+    if households != 44:
+        errors.append(f"county rows household sum: expected 44, got {households}")
+    if dollars != 268051:
+        errors.append(f"county rows dollar sum: expected $268,051, got ${dollars:,}")
+    if ami_total != 44:
+        errors.append(f"AMI-tier row sum: expected 44, got {ami_total}")
+    cat = next(c for c in CATEGORIES if c["key"] == "hss_tbra")
+    if cat["fy2025_actual"] != households:
+        errors.append(f"category fy2025_actual: expected {households}, got {cat['fy2025_actual']}")
+    if cat["fy2025_amounts"][0]["amount"] != dollars:
+        errors.append(f"category fy2025_amounts: expected {dollars}, got {cat['fy2025_amounts'][0]['amount']}")
+    sp = cat["subprograms"][0]
+    if sp["fy2025_units"] != households or sp["fy2025_amount"] != dollars:
+        errors.append("tbra subprogram units/amount do not match the re-summed county totals")
+    if errors:
+        raise SystemExit("HSS/TBRA total mismatch(es):\n" + "\n".join(errors))
+    print("HSS/TBRA table verified: Charlotte 11/$79,641 + Hernando 15/$110,443 + "
+          "Santa Rosa 18/$77,967 = 44 households/$268,051, matching the table's own "
+          "printed TOTALS row, its own AMI-tier breakdown (25+17+2=44), and the "
+          "separate SUMMARY OF PROGRAMS table's own \"44\" line (p.9).")
+
+
 def slugify(name):
     slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     return slug
@@ -835,6 +969,7 @@ def main():
     verify_amount_totals()
     verify_unit_totals()
     verify_homebuyer_totals()
+    verify_hss_tbra_totals()
     print("Geocoding project counties via Nominatim (county-center precision)...")
     projects = build_projects()
     unresolved = [p["name"] for p in projects if p["geocode_status"] == "unresolved"]

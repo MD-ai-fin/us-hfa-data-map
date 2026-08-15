@@ -321,6 +321,58 @@ development -- when no single street address can be queried. Self-throttled
 to <=1 request/second with an identifying User-Agent per Nominatim's usage
 policy.
 
+5. Section 8 Project-Based Rental Assistance: per user request (2026-08-14),
+   IFA's own FY2025 ACFR was re-searched for an independent, ongoing
+   per-unit rental-subsidy program administered by IFA (as distinct from
+   the four development/homeownership-financing categories above). Two
+   figures, printed in two DIFFERENT tables of the SAME audited document
+   and covering the SAME federal program (CFDA 14.195) for the SAME fiscal
+   year (year ended June 30, 2025), independently corroborate each other:
+     - Statistical Section, "Operating Indicators" table (p.86): "Section 8
+       project-based rental units" -- a 10-year trend row (FY2016-FY2025)
+       whose FY2025 (rightmost) column reads 11,440.
+     - Schedule of Expenditures of Federal Awards (SEFA, p.87), "Section 8
+       Project-Based Cluster": "Section 8 Housing Assistance Payments
+       Program 14.195 ... $75,309,895" of FY2025 federal expenditures, with
+       $0 passed through to subrecipients (i.e. IFA itself disburses the
+       full amount directly, not via a sub-grantee) -- "Total Section 8
+       Project-Based Cluster $75,309,895".
+   Note 1(a) describes the underlying activity in exactly the terms this
+   task is looking for: "The Authority has contracted with [HUD] to serve
+   as contract administrator for Section 8 Housing Assistance Payment (HAP)
+   contracts. The Authority disburses subsidy payments monthly to the
+   multi-family projects and monitors the individual units and projects for
+   compliance with HUD regulations" -- an ONGOING, per-unit monthly rental
+   subsidy to already-occupied units, structurally different from
+   lihtc_awards' one-time construction-financing subprograms.
+   The Performance Report separately discloses two SMALLER, differently-
+   scoped, per-household (not per-unit) rental-assistance KPI lines that
+   this script does NOT incorporate because neither discloses a dollar
+   figure anywhere (checked the full Performance Report and the ACFR;
+   per this project's "never fabricate a number" rule, a unit/household
+   count alone is not sufficient to build a category): "Home and
+   Community-Based Services Rent Subsidy: Number of households assisted,
+   Target 415, Actual 338" (p.5) and, under "HOME Program": "Number of
+   renters provided tenant-based rental assistance: Target 550, Actual 592"
+   (p.6) -- both genuinely appear to be ongoing per-household rental
+   subsidies (the former literally named "Rent Subsidy"; the latter is
+   HOME-funded Tenant-Based Rental Assistance, TBRA), but with no
+   corroborating dollar figure in either source document, they are
+   recorded here as "found but not included" rather than assigned an
+   invented amount.
+   additive=True: section_8_hap is this category's only subprogram (no
+   overlap concern).
+   Fund-type classification: "proprietary", medium confidence -- MD&A p.10's
+   "Federal and State Programs" paragraph block separately lists "Section 8
+   Project HAP Program" among the Authority's own non-operating revenues
+   and expenses (Notes p.32-33, same sentence as HOME/NHTF/ESG/State
+   Housing Trust Fund, all classified "proprietary" above by the same
+   textual-proximity precedent) -- Section 8 itself is never named as its
+   own dedicated Combining-Schedule column (unlike HOME/NHTF, which sit
+   inside the "Federal and State Programs" column with a disclosed
+   dollar balance), so this is grouped with that same column, not a
+   literal named-balance match.
+
 fy2026
 ---------------------------------------------------------------------------
 The Performance Report is a KPI/goals document (FY2025 targets vs. FY2025
@@ -558,6 +610,52 @@ CATEGORIES = [
              "fy2026": _FY26_PENDING},
         ],
     },
+    {
+        # Section 8 Project-Based Rental Assistance -- an ongoing, per-unit
+        # monthly rental subsidy program IFA administers as HUD's contracted
+        # Section 8 HAP contract administrator, structurally different from
+        # every other category above (all one-time development/homeownership
+        # financing). See module docstring's item 5 for the full two-table
+        # cross-check and the two smaller, dollar-figure-less KPI lines
+        # found but not incorporated (HCBS Rent Subsidy, HOME TBRA).
+        "key": "section_8_project_based",
+        "unit_type": "units",
+        "fy2025_actual": 11440,
+        "fy2025_source_quote": (
+            "IFA's own FY2025 ACFR, Statistical Section \"Operating Indicators\" "
+            "table (p.86), \"Compliance Monitoring\" row \"Section 8 project-based "
+            "rental units\": 11,440 for the fiscal year ended June 30, 2025 (a "
+            "10-year trend row, FY2016-FY2025). The Schedule of Expenditures of "
+            "Federal Awards (SEFA, p.87), \"Section 8 Project-Based Cluster\": "
+            "\"Section 8 Housing Assistance Payments Program 14.195 ... "
+            "$75,309,895\" of FY2025 federal expenditures, $0 passed through to "
+            "subrecipients. Note 1(a): \"The Authority has contracted with [HUD] "
+            "to serve as contract administrator for Section 8 Housing Assistance "
+            "Payment (HAP) contracts. The Authority disburses subsidy payments "
+            "monthly to the multi-family projects and monitors the individual "
+            "units and projects for compliance with HUD regulations.\" Both "
+            "figures are independently printed in the same audited document, for "
+            "the same fiscal year and the same CFDA 14.195 program."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "ia_amt_section8_hap", "amount": 75309895},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "section_8_hap", "fy2025_units": 11440, "fy2025_amount": 75309895,
+             "color_group": "trust",
+             # MD&A p.10's "Federal and State Programs" paragraph names
+             # "Section 8 Project HAP Program" among the Authority's own
+             # non-operating revenues and expenses, the same sentence block as
+             # HOME/NHTF/ESG/State Housing Trust Fund above -- grouped with the
+             # same Combining Schedule column by textual proximity, not a
+             # literal named-balance match. Confidence: medium.
+             "fund_type": "proprietary",
+             "fund_name": "Housing Agency Fund – Federal and State Programs (Section 8 Project HAP Program)",
+             "fy2026": _FY26_PENDING},
+        ],
+    },
 ]
 
 # ---------------------------------------------------------------------------
@@ -694,6 +792,31 @@ def verify_combined_lihtc_gap():
           f"docstring, not reconciled.")
 
 
+def verify_section8_totals():
+    """Cross-checks the section_8_project_based category's own headline
+    figures against its single subprogram (a trivial 1:1 check, since this
+    program has no per-project exhibit to sum) -- documents that both
+    figures are independently printed in two different tables of the same
+    audited ACFR (see module docstring item 5)."""
+    cat = next(c for c in CATEGORIES if c["key"] == "section_8_project_based")
+    sp = cat["subprograms"][0]
+    errors = []
+    if sp["fy2025_units"] != cat["fy2025_actual"]:
+        errors.append(f"section_8_hap units: category says {cat['fy2025_actual']}, subprogram says {sp['fy2025_units']}")
+    if sp["fy2025_amount"] != cat["fy2025_amounts"][0]["amount"]:
+        errors.append(
+            f"section_8_hap amount: category says {cat['fy2025_amounts'][0]['amount']}, subprogram says {sp['fy2025_amount']}"
+        )
+    if errors:
+        raise SystemExit("Section 8 total mismatch(es):\n" + "\n".join(errors))
+    print(
+        "Section 8 Project-Based Rental Assistance verified: 11,440 units (ACFR "
+        "Statistical Section, Operating Indicators table, p.86) / $75,309,895 "
+        "(ACFR SEFA, p.87, CFDA 14.195) -- both figures independently printed in "
+        "the same audited document for the same fiscal year and program."
+    )
+
+
 def geocode(query, cache):
     if query in cache:
         return cache[query]
@@ -764,6 +887,7 @@ def main():
     verify_9pct_totals()
     verify_4pct_totals()
     verify_combined_lihtc_gap()
+    verify_section8_totals()
     print("Geocoding project addresses via Nominatim...")
     projects = build_projects()
     unresolved = [p["name"] for p in projects if p["geocode_status"] == "unresolved"]

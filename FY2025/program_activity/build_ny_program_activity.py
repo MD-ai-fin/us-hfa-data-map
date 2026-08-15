@@ -5,7 +5,11 @@ entities operate, each with its OWN reporting cadence and fiscal-year
 convention. Unlike IL/PA/FL/OH/WA/TX (one HFA, one ACFR, one fiscal year),
 NY's housing activity is legally fragmented, so this script deliberately
 does NOT force the three entities' numbers into one reconciled total -- see
-"Why three categories, three time windows" below.
+"Why three entities, two time windows" below. (Four CATEGORIES are modeled
+in total -- HFA Multifamily, SONYMA Homebuyer, and two separate HTFC
+categories, Multifamily Awards and Rental Assistance, covering HTFC's two
+distinct offices -- but only two fiscal-year windows, since both HTFC
+categories share the same SFY2025-26 source document.)
 
 Sources
 ---------------------------------------------------------------------------
@@ -31,7 +35,7 @@ Sources
    appendices) -- INVESTIGATED, NOT USED. See "Why RAW_PROJECTS is empty"
    below.
 
-Why three categories, three time windows -- not one reconciled total
+Why three entities, two time windows -- not one reconciled total
 ---------------------------------------------------------------------------
 HFA, SONYMA and HTFC are three separate legal public-benefit corporations
 (HTFC is technically an HFA subsidiary, but reports on its own fiscal-year
@@ -181,6 +185,84 @@ justification either way. fund_type is None for all four HTFC
 subprograms, matching SONYMA's above: HTFC is again a legally distinct
 entity (a subsidiary corporation, not HFA itself) with no HTFC-specific
 audited financial statements in this project's FY2025 corpus.
+
+Category 4 -- HTFC Rental Assistance (htfc_rental_assistance, unit_type=units)
+---------------------------------------------------------------------------
+Per user request (2026-08-14): a fourth category, structurally separate from
+Category 3's construction/rehabilitation awards (Office of Finance and
+Development), covering HTFC's Office of Housing Preservation ("OHP")
+programs that pay ONGOING, per-unit rental assistance to tenants/landlords
+at ALREADY-EXISTING developments -- not one-time construction financing.
+Source #2, p.4 (Housing Preservation section): "HTFC administers both
+tenant-based and project-based rental assistance through federal contracts
+for Section 8 Performance-Based Contract Administration ('PBCA') and
+Housing Choice Vouchers ('HCVs'). Furthermore, HTFC utilizes State funding
+to provide rental assistance to federally-financed rural properties through
+New York State's Rural Rental Assistance Program ('RRAP')... Together,
+these three programs provide over $3 billion annually in Housing Assistance
+Payments." This headline sentence is the category's own dual-verification
+anchor (see verify_htfc_rental_assistance_totals()): the three subprograms'
+own dollar figures, each independently disclosed elsewhere in the same
+report, sum to $3,008,331,349 -- reconciling almost exactly to the
+narrative's own "over $3 billion" statement, the same reconciliation
+discipline IHDA's Exhibit XX/XXI totals are held to.
+  - pbca (fy2025_units=101,958, fy2025_amount=$2,202,699,905): p.4, "Section
+    8 Performance-Based Contract Administration" -- "HTFC is the only Public
+    Housing Authority in New York with a state-wide portfolio. Through a
+    PBCA contract with HUD, HTFC administers rental assistance and provides
+    oversight for the country's largest Section 8 multi-family, project-
+    based portfolio, which includes 974 contracts with 101,958 units."
+    Units from the narrative; the $2,202,699,905 dollar figure is the
+    "Section 8 Project Based Contract Administration" row of the
+    ACCOMPLISHMENTS OVERVIEW table (p.12) -- the table gives no unit count
+    of its own for this row (N/A), so narrative and table are complementary,
+    not contradictory, here.
+  - hcv (fy2025_units=43,540, fy2025_amount=$783,921,444): p.5, "HTFC
+    administers approximately 43,000 Section 8 HCVs that can be used to
+    lease apartments in the private sector" -- narrative's rounded "~43,000"
+    is consistent with the ACCOMPLISHMENTS OVERVIEW table's own precise
+    "Section 8 Housing Choice Voucher" row (p.12): "$783,921,444 ... 43,540
+    Vouchers", which this script uses for both figures (more precise than
+    the narrative's own rounding).
+  - rrap (fy2025_units=5,046, fy2025_amount=$21,710,000): p.5, "Rural Rental
+    Assistance Program" -- "HTFC works closely with the U.S. Department of
+    Agriculture's Rural Development Office to provide State-funded rental
+    assistance through RRAP to 247 properties with 5,046 units located
+    across rural regions of the State ... New York is the only state that
+    provides rental assistance to these federally-assisted properties."
+    Units from the narrative; the $21,710,000 dollar figure is the "Rural
+    Rental Assistance Program" row of the same table (p.12): "Provides
+    direct rent subsidies to project owner for low-income elderly and
+    family tenants living in Rural Development-financed projects" -- the
+    single closest structural analog in this project's FY2025 corpus to
+    IHDA's own RHS-LAA subprogram (a state-funded, ongoing, per-unit rental
+    operating subsidy to already-built developments).
+additive=True: PBCA (HUD project-based Section 8 contracts at specific
+developments), HCV (tenant-based vouchers usable at any qualifying private
+unit), and RRAP (USDA Rural Development-financed rural properties) are
+three legally and programmatically distinct populations with no unit-level
+overlap by construction (a household cannot simultaneously be a PBCA-
+covered unit, a mobile HCV holder, and an RRAP-subsidized rural tenant for
+the same subsidy). fund_type is None for all three subprograms, matching
+Category 3's HTFC subprograms above: HTFC is a subsidiary legally distinct
+from HFA with no HTFC-specific audited financial statements in this
+project's FY2025 corpus, so fund_type is intentionally left unclassified.
+Two related items were investigated and deliberately EXCLUDED:
+  - HAVP (Housing Access Voucher Program, p.4: "$50 million... of which
+    HTFC will receive $17.5 million to serve approximately 700 unhoused
+    families"): brand-new this fiscal year, correctly not part of the
+    "over $3 billion" figure (source #2's own three-programs sentence
+    predates/excludes it), and has no ACCOMPLISHMENTS OVERVIEW table row to
+    cross-check its own $17.5M/~700-family figures against -- so it is left
+    out rather than added on unverified single-source numbers.
+  - The HOME Investment Partnership -- Local Programs table row (p.11:
+    "$32,881,699 ... 271 Residential Units / 558 Households - Rent
+    Assistance") blends new-construction units and rent-assistance
+    households into ONE undivided dollar figure with no way to split how
+    much of the $32.9M is rent assistance versus construction financing --
+    guessing a split would fabricate a number this table does not itself
+    provide, so this row is excluded entirely (neither Category 3 nor
+    Category 4 uses it).
 
 Why RAW_PROJECTS is empty -- no per-development bubble map for NY
 ---------------------------------------------------------------------------
@@ -381,6 +463,59 @@ CATEGORIES = [
              "fy2026": _FY26_PENDING},
         ],
     },
+    {
+        # Source #2, p.4-5, "Housing Preservation" / Office of Housing
+        # Preservation -- ongoing, per-unit/per-voucher rental assistance to
+        # ALREADY-EXISTING developments and tenants, structurally distinct
+        # from Category 3's one-time construction/rehabilitation awards
+        # (Office of Finance and Development) -- see module docstring.
+        "key": "htfc_rental_assistance",
+        "unit_type": "units",
+        "fy2025_actual": 150544,
+        "fy2025_source_quote": (
+            "\"Housing Trust Fund Corporation -- Operations and Accomplishments "
+            "Fiscal Year April 1, 2025 to March 31, 2026\" (p.4): \"HTFC administers "
+            "both tenant-based and project-based rental assistance through federal "
+            "contracts for Section 8 Performance-Based Contract Administration "
+            "('PBCA') and Housing Choice Vouchers ('HCVs'). Furthermore, HTFC "
+            "utilizes State funding to provide rental assistance to federally-"
+            "financed rural properties through New York State's Rural Rental "
+            "Assistance Program ('RRAP')... Together, these three programs provide "
+            "over $3 billion annually in Housing Assistance Payments.\" (p.4) PBCA: "
+            "\"974 contracts with 101,958 units.\" (p.5) HCV: \"approximately 43,000 "
+            "Section 8 HCVs\" (narrative) / \"43,540 Vouchers\", \"$783,921,444\" "
+            "(ACCOMPLISHMENTS OVERVIEW table, p.12). (p.5) RRAP: \"247 properties "
+            "with 5,046 units... New York is the only state that provides rental "
+            "assistance to these federally-assisted properties\" (narrative) / "
+            "\"$21,710,000\" (same table, p.12). Reporting period: NYS fiscal year "
+            "2025-26 (Apr 2025-Mar 2026), same window as Category 3. Subprogram "
+            "dollar figures sum to $3,008,331,349, reconciling to the narrative's "
+            "own \"over $3 billion\" -- see verify_htfc_rental_assistance_totals()."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "ny_amt_hap_total", "amount": 3008331349},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "pbca", "fy2025_units": 101958, "fy2025_amount": 2202699905,
+             "color_group": "capital",
+             # HTFC is a subsidiary corporation legally distinct from HFA;
+             # no HTFC-specific audited financial statements are present in
+             # this project's FY2025 corpus, so fund_type is left
+             # unclassified -- see module docstring.
+             "fund_type": None, "fund_name": None,
+             "fy2026": _FY26_PENDING},
+            {"key": "hcv", "fy2025_units": 43540, "fy2025_amount": 783921444,
+             "color_group": "capital",
+             "fund_type": None, "fund_name": None,
+             "fy2026": _FY26_PENDING},
+            {"key": "rrap", "fy2025_units": 5046, "fy2025_amount": 21710000,
+             "color_group": "trust",
+             "fund_type": None, "fund_name": None,
+             "fy2026": _FY26_PENDING},
+        ],
+    },
 ]
 
 # No per-development detail -- see module docstring, "Why RAW_PROJECTS is
@@ -451,10 +586,52 @@ def verify_htfc_table_subset():
           "(pp.10-14 of the FY2025-26 Operations and Accomplishments report).")
 
 
+def verify_htfc_rental_assistance_totals():
+    cat = next(c for c in CATEGORIES if c["key"] == "htfc_rental_assistance")
+    subs = cat["subprograms"]
+    units_sum = sum(sp["fy2025_units"] for sp in subs)
+    amount_sum = sum(sp["fy2025_amount"] for sp in subs)
+    errors = []
+    if units_sum != cat["fy2025_actual"]:
+        errors.append(f"htfc_rental_assistance units: expected {cat['fy2025_actual']}, got {units_sum}")
+    headline_amount = cat["fy2025_amounts"][0]["amount"]
+    if amount_sum != headline_amount:
+        errors.append(f"htfc_rental_assistance amount: expected {headline_amount}, got {amount_sum}")
+    # Cross-check against the source's own independently-stated "over $3
+    # billion annually" sentence (p.4) -- the dollar sum must be >= $3.0B
+    # (matching "over") and not implausibly far past it (sanity bound, not
+    # a second precise figure to match exactly, since the source itself
+    # only commits to "over").
+    if not (3_000_000_000 <= amount_sum < 3_100_000_000):
+        errors.append(
+            f"htfc_rental_assistance amount sum (${amount_sum:,}) does not fall in the "
+            f"expected 'over $3 billion' range implied by the source's own headline sentence"
+        )
+    # HCV cross-check: table's precise 43,540 vouchers vs. narrative's own
+    # rounded "approximately 43,000" -- must be within a few hundred of each
+    # other to count as the same figure restated at different precision.
+    hcv = next(sp for sp in subs if sp["key"] == "hcv")
+    if abs(hcv["fy2025_units"] - 43000) > 1000:
+        errors.append(
+            f"hcv units ({hcv['fy2025_units']}) is not close to the narrative's own "
+            f"'approximately 43,000' restatement"
+        )
+    if errors:
+        raise SystemExit("HTFC rental assistance total mismatch(es):\n" + "\n".join(errors))
+    print(
+        "HTFC rental assistance subprogram totals verified: PBCA (101,958 units/"
+        "$2,202,699,905) + HCV (43,540 vouchers/$783,921,444) + RRAP (5,046 units/"
+        f"$21,710,000) = {units_sum:,} units / ${amount_sum:,} -- reconciles to the "
+        "report's own \"over $3 billion annually in Housing Assistance Payments\" "
+        "sentence."
+    )
+
+
 def main():
     verify_hfa_reconciliation()
     verify_sonyma_totals()
     verify_htfc_table_subset()
+    verify_htfc_rental_assistance_totals()
 
     payload = {
         "NY": {

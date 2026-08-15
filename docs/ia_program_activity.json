@@ -247,6 +247,41 @@
             }
           }
         ]
+      },
+      {
+        "key": "section_8_project_based",
+        "unit_type": "units",
+        "fy2025_actual": 11440,
+        "fy2025_source_quote": "IFA's own FY2025 ACFR, Statistical Section \"Operating Indicators\" table (p.86), \"Compliance Monitoring\" row \"Section 8 project-based rental units\": 11,440 for the fiscal year ended June 30, 2025 (a 10-year trend row, FY2016-FY2025). The Schedule of Expenditures of Federal Awards (SEFA, p.87), \"Section 8 Project-Based Cluster\": \"Section 8 Housing Assistance Payments Program 14.195 ... $75,309,895\" of FY2025 federal expenditures, $0 passed through to subrecipients. Note 1(a): \"The Authority has contracted with [HUD] to serve as contract administrator for Section 8 Housing Assistance Payment (HAP) contracts. The Authority disburses subsidy payments monthly to the multi-family projects and monitors the individual units and projects for compliance with HUD regulations.\" Both figures are independently printed in the same audited document, for the same fiscal year and the same CFDA 14.195 program.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ia_amt_section8_hap",
+            "amount": 75309895
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "iaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "section_8_hap",
+            "fy2025_units": 11440,
+            "fy2025_amount": 75309895,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Agency Fund – Federal and State Programs (Section 8 Project HAP Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "iaFy26NotePending"
+            }
+          }
+        ]
       }
     ],
     "projects": [
@@ -300,8 +335,8 @@
         "address": "S. 15th Avenue W.",
         "city": "Newton",
         "county": "Jasper",
-        "lat": 41.68615,
-        "lon": -93.0739,
+        "lat": 41.68605,
+        "lon": -93.06564,
         "units": 44,
         "funding_sources": [
           "lihtc_9pct",
@@ -366,8 +401,8 @@
         "address": "60 Act Pl",
         "city": "Iowa City",
         "county": "Johnson",
-        "lat": 41.67732,
-        "lon": -91.50131,
+        "lat": 41.67832,
+        "lon": -91.50059,
         "units": 44,
         "funding_sources": [
           "lihtc_9pct"

@@ -323,6 +323,41 @@
             }
           }
         ]
+      },
+      {
+        "key": "hss_tbra",
+        "unit_type": "households",
+        "fy2025_actual": 44,
+        "fy2025_source_quote": "\"Housing Stability for Schoolchildren Program\" narrative (p.19): \"Florida Housing utilizes HOME funding to provide short- and medium-term Tenant Based Rental Assistance (TBRA) to families with school-aged children experiencing homelessness.\" \"HOUSING STABILITY FOR SCHOOLCHILDREN PROGRAM TENANT-BASED RENTAL ASSISTANCE (TBRA)\" table (p.44), printed TOTALS row: Charlotte 11 households/$79,641, Hernando 15 households/$110,443, Santa Rosa 18 households/$77,967, TOTALS 44 households/$268,051 -- independently re-summed and matched exactly (see verify_hss_tbra_totals()), and cross-checked against the separate SUMMARY OF PROGRAMS table's own \"Housing Stability for Schoolchildren 44...44\" line (p.9) and this table's own AMI-tier breakdown (0-30% AMI 25 + 31-50% AMI 17 + 51-80% AMI 2 = 44).",
+        "fy2025_amounts": [
+          {
+            "label_key": "fl_amt_tbra_total",
+            "amount": 268051
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "flFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "tbra",
+            "fy2025_units": 44,
+            "fy2025_amount": 268051,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME Investment Partnerships Program (Tenant-Based Rental Assistance, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "flFy26NotePending"
+            }
+          }
+        ]
       }
     ],
     "projects": [

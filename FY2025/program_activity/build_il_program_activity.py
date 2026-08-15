@@ -67,11 +67,22 @@ Category-1 project-level detail (used only for the geographic bubble map)
 was manually transcribed from Appendix II's closing-report exhibits
 (Exhibits XIV, XV, XVI, XVII, XVIII, XIX, XXII, XXIII -- pages A.19-A.27 of
 the PDF). Rental-assistance/operating-subsidy exhibits (Section 811 PRA,
-Exhibit XX; Rental Housing Support, Exhibit XXI) were intentionally
-excluded from Category 1, because IHDA's own "5,932 units" sentence is
-followed by a *separate* sentence describing the "465 affordable rental
-units" financed under its rental-assistance-and-operations programs -- i.e.
-IHDA itself does not count those units inside the 5,932 figure.
+Exhibit XX; Rental Housing Support, Exhibit XXI) are kept OUT of Category
+1's project list, because IHDA's own "5,932 units" sentence is followed by
+a *separate* sentence describing the "465 affordable rental units"
+financed under its rental-assistance-and-operations programs -- i.e. IHDA
+itself does not count those units inside the 5,932 figure. Per user
+request (2026-08-14), those same two exhibits are now modeled as their own
+"rental_assistance_operations" category (see CATEGORIES below) instead of
+being omitted from the dataset entirely -- they are KPI-only (no
+RAW_PROJECTS/bubble-map entry), both because they represent a materially
+different population (ongoing per-unit operating subsidy vs. one-time
+construction/preservation financing) and because at least one physical
+property (Casa Yucatan) receives both a Category-1 construction award AND
+a Section 811 PRA operating award, so plotting both on the same bubble map
+would either double-count the marker or require a scope-blurring second
+marker at the same coordinates; the map's own legend text already states
+that non-Category-1 activity is not mapped.
 
 Every exhibit's project list below was cross-checked against that exhibit's
 own printed subtotal row (e.g. "7 Developments Closed ... 909") before
@@ -304,6 +315,68 @@ CATEGORIES = [
              "fund_type": "governmental", "fund_name": None,
              "fy2026": {"value": None, "amount": None, "closed": True,
                         "note_key": "il_aserap_fy26_note"}},
+        ],
+    },
+    {
+        # Section I.A.7 "Rental Assistance and Operations Programs" -- ongoing
+        # per-unit rental subsidy/operating-support contracts, structurally
+        # different from Category 1's one-time construction/preservation
+        # financing (which is why IHDA's own "5,932 units" sentence does NOT
+        # include these 465 units -- see module docstring). Historically
+        # excluded from this script entirely; now modeled as its own
+        # category using the same four NEW-award subprograms that IHDA's own
+        # summary sentence sums to (Exhibit XX + Exhibit XXI).
+        "key": "rental_assistance_operations",
+        "unit_type": "units",
+        "fy2025_actual": 465,
+        "fy2025_source_quote": (
+            "Under its rental assistance and operations programs, the Authority "
+            "provided 24 awards/contract renewals totaling $19,918,197 in "
+            "assistance for 465 affordable rental units, including units "
+            "targeted at re-entry populations."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "il_amt_rental_assistance_awards", "amount": 19918197},
+        ],
+        "additive": True,
+        # No single combined FY2026 figure is stated anywhere in the report
+        # for this category (unlike Category 1's per-subprogram FY2026
+        # figures, which ARE given individually below) -- left None rather
+        # than summed from the subprograms' own FY2026 projections, matching
+        # this script's practice elsewhere of never deriving a headline
+        # number IHDA itself did not state.
+        "fy2026": {"value": None, "amount": None, "closed": False,
+                   "note_key": "il_fy26_note_rental_assistance"},
+        "subprograms": [
+            # Exhibit XX: 6 properties, $2,793,360, 36 units (3 "closed" +
+            # 3 "pending close" rows -- IHDA's own table counts all 6 toward
+            # the same $2,793,360/36-unit subtotal regardless of close status).
+            {"key": "section_811_pra", "fy2025_units": 36, "fy2025_amount": 2793360,
+             "color_group": "trust",
+             "fund_type": "governmental",
+             "fund_name": "Section 811 Project Rental Assistance Program Fund (nonmajor)",
+             "fy2026": {"value": 5, "amount": None, "closed": False,
+                        "note_key": "il_811pra_fy26_note"}},
+            # Exhibit XXI rows 1-11 (Local Administering Agency grants).
+            {"key": "rhs_laa", "fy2025_units": 316, "fy2025_amount": 10919324,
+             "color_group": "trust",
+             "fund_type": "governmental", "fund_name": "Rental Housing Support Program Fund",
+             "fy2026": {"value": 350, "amount": 11000000, "closed": False,
+                        "note_key": "il_rhslaa_fy26_note"}},
+            # Exhibit XXI rows 12-14 (Long Term Operating Support grants).
+            {"key": "ltos", "fy2025_units": 38, "fy2025_amount": 3424588,
+             "color_group": "trust",
+             "fund_type": "governmental",
+             "fund_name": "Rental Housing Support Program Fund (Long Term Operating Support sub-program)",
+             "fy2026": {"value": 30, "amount": 3000000, "closed": False,
+                        "note_key": "il_ltos_fy26_note"}},
+            # Exhibit XXI rows 15-18 (Re-Entry Rental Assistance grants).
+            {"key": "re_entry", "fy2025_units": 75, "fy2025_amount": 2780925,
+             "color_group": "trust",
+             "fund_type": "governmental",
+             "fund_name": "Rental Housing Support Program Fund (Re-Entry Rental Assistance sub-program)",
+             "fy2026": {"value": 100, "amount": 5000000, "closed": False,
+                        "note_key": "il_reentry_fy26_note"}},
         ],
     },
 ]
@@ -601,6 +674,36 @@ def verify_amount_totals():
     print("All 9 exhibit dollar-amount subtotals verified against PDF-printed/quoted totals.")
 
 
+# Exhibit XX + Exhibit XXI's own printed subtotal rows (independently
+# cross-checked against the report's row-level closing-report tables --
+# 11 LAA rows sum to $10,919,324/316 units, 3 LTOS rows sum to $3,424,588/38
+# units, 4 Re-Entry rows sum to $2,780,925/75 units, and Exhibit XX's own "6
+# Projects ... Total" row is $2,793,360/36 units) -- verified to equal the
+# category's own summary-sentence headline (24 awards, $19,918,197, 465
+# units) before writing the JSON.
+def verify_rental_assistance_totals():
+    cat = next(c for c in CATEGORIES if c["key"] == "rental_assistance_operations")
+    subs = cat["subprograms"]
+    units_sum = sum(sp["fy2025_units"] for sp in subs)
+    amount_sum = sum(sp["fy2025_amount"] for sp in subs)
+    errors = []
+    if units_sum != cat["fy2025_actual"]:
+        errors.append(f"rental_assistance_operations units: expected {cat['fy2025_actual']}, got {units_sum}")
+    if amount_sum != cat["fy2025_amounts"][0]["amount"]:
+        errors.append(
+            f"rental_assistance_operations amount: expected {cat['fy2025_amounts'][0]['amount']}, got {amount_sum}"
+        )
+    if errors:
+        raise SystemExit("Rental assistance total mismatch(es):\n" + "\n".join(errors))
+    print(
+        "Rental assistance & operations subprogram totals verified: "
+        f"Section 811 PRA (36u/$2,793,360) + RHS-LAA (316u/$10,919,324) + "
+        f"LTOS (38u/$3,424,588) + Re-Entry (75u/$2,780,925) = "
+        f"{units_sum} units / ${amount_sum:,} -- matches the report's own "
+        "\"24 awards ... 465 affordable rental units\" summary sentence."
+    )
+
+
 def geocode(query, cache):
     if query in cache:
         return cache[query]
@@ -653,6 +756,7 @@ def build_projects():
 def main():
     verify_exhibit_totals()
     verify_amount_totals()
+    verify_rental_assistance_totals()
     print("Geocoding project addresses via US Census Geocoder...")
     projects = build_projects()
     unresolved = [p["name"] for p in projects if p["geocode_status"] == "unresolved"]

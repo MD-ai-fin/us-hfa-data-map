@@ -208,6 +208,69 @@
             }
           }
         ]
+      },
+      {
+        "key": "htfc_rental_assistance",
+        "unit_type": "units",
+        "fy2025_actual": 150544,
+        "fy2025_source_quote": "\"Housing Trust Fund Corporation -- Operations and Accomplishments Fiscal Year April 1, 2025 to March 31, 2026\" (p.4): \"HTFC administers both tenant-based and project-based rental assistance through federal contracts for Section 8 Performance-Based Contract Administration ('PBCA') and Housing Choice Vouchers ('HCVs'). Furthermore, HTFC utilizes State funding to provide rental assistance to federally-financed rural properties through New York State's Rural Rental Assistance Program ('RRAP')... Together, these three programs provide over $3 billion annually in Housing Assistance Payments.\" (p.4) PBCA: \"974 contracts with 101,958 units.\" (p.5) HCV: \"approximately 43,000 Section 8 HCVs\" (narrative) / \"43,540 Vouchers\", \"$783,921,444\" (ACCOMPLISHMENTS OVERVIEW table, p.12). (p.5) RRAP: \"247 properties with 5,046 units... New York is the only state that provides rental assistance to these federally-assisted properties\" (narrative) / \"$21,710,000\" (same table, p.12). Reporting period: NYS fiscal year 2025-26 (Apr 2025-Mar 2026), same window as Category 3. Subprogram dollar figures sum to $3,008,331,349, reconciling to the narrative's own \"over $3 billion\" -- see verify_htfc_rental_assistance_totals().",
+        "fy2025_amounts": [
+          {
+            "label_key": "ny_amt_hap_total",
+            "amount": 3008331349
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "pbca",
+            "fy2025_units": 101958,
+            "fy2025_amount": 2202699905,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "hcv",
+            "fy2025_units": 43540,
+            "fy2025_amount": 783921444,
+            "color_group": "capital",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          },
+          {
+            "key": "rrap",
+            "fy2025_units": 5046,
+            "fy2025_amount": 21710000,
+            "color_group": "trust",
+            "fund_type": null,
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nyFy26NotePending"
+            }
+          }
+        ]
       }
     ],
     "projects": []
