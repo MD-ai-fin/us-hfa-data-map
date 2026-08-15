@@ -286,6 +286,110 @@ transcription artifact here), so this script treats Third Rapids as
 address=None (city-center fallback) rather than fabricate or geocode a
 placeholder as if it were real.
 
+"section8_contract_administration" and "housing_stability_extra_support"
+(added per user request, 2026-08-14) -- Table 3's own "Rental Assistance
+Contract Administration" and "Housing Stability for Populations Needing
+Extra Support" sections
+---------------------------------------------------------------------------
+Re-searched the Program Assessment Report (the same Table 3 already used
+for rental_production/lmir/lihtc/homeownership above) for an independent,
+ongoing per-household rental-subsidy program family, as distinct from the
+construction/homeownership-financing categories above. Table 3 itself
+(pp.19-20) prints TWO further section headers, each with its own printed
+subtotal row, that this script had not yet incorporated:
+  - "Rental Assistance Contract Administration $305,113,535 34,148"
+    (single sub-row: "Project-Based Section 8 Contract Administration
+    $305,113,535 34,148 $8,935 $14,269 44.2%") -- Minnesota Housing
+    administers Section 8 project-based Housing Assistance Payment
+    contracts statewide (including for developments it did not itself
+    finance -- MD&A, "General Reserve" fund description: "contract
+    administration of the Section 8 program for developments not financed
+    by Minnesota Housing"), an ongoing per-unit monthly subsidy to
+    already-occupied units. This is, by dollar volume, the single largest
+    program anywhere in Table 3 after Homeownership.
+  - "Housing Stability for Populations Needing Extra Support $69,851,726
+    16,654" (7 sub-rows: Housing Trust Fund – Rental Assistance/HTF-RA,
+    Housing Trust Fund – Operating Subsidies, Homework Starts with Home,
+    Bridges, Section 811, Family Homeless Prevention and Assistance
+    Program/FHPAP, Housing Opportunities for Persons with AIDS/HOPWA).
+    "Strengthen the Supportive Housing System" ($318,000, households NA) is
+    printed immediately after this block but is confirmed NOT part of its
+    subtotal -- summing the 7 sub-rows' own dollar and household columns
+    reproduces the $69,851,726/16,654 header EXACTLY (verified in
+    verify_housing_stability_totals() below), while including the 8th row
+    would overshoot by exactly $318,000 -- the header total itself is the
+    double-verification gate here (the same "printed subtotal row" check
+    this project uses everywhere), and this script therefore keeps
+    "Strengthen the Supportive Housing System" out of RAW subprograms.
+    Not every one of these 7 rows is a strict per-unit rental subsidy in
+    the narrowest sense -- FHPAP and HOPWA are broader housing-stability/
+    homelessness-prevention services, not pure ongoing rent payments -- but
+    Minnesota Housing's own Table 3 groups all 7 under one printed header
+    and one printed subtotal with no further public breakdown, so this
+    script reproduces the agency's own category boundary rather than
+    inventing a narrower one; the mix is flagged here for transparency.
+    HTF-RA, Homework Starts with Home, Section 811 and Bridges are each
+    independently tagged "Rent Assistance" (not just "Housing Stability")
+    in Table 3's own companion Table 1 ("Median Incomes...", Activity
+    column) -- the clearest, most literal "rental assistance" match of the
+    7. Two smaller Commissioner's-Message bullets corroborate this same
+    program family from a second document (the ACFR's own front matter,
+    p.1-2): "Housing Trust Fund Rental Assistance, 50 grants totaling $24.9
+    million to provide rental assistance for 902 households per month" and
+    "Family Homeless Prevention and Assistance Program (FHPAP), 20 grants
+    totaling $28 million ... to assist 7,300 households" -- BOTH are
+    different, non-overlapping reporting windows from Table 3's own FFY2025
+    figures (the Commissioner's Message narrates FY2025 committed/awarded
+    grants using the state's own July-June fiscal year, not Table 3's
+    October-September FFY2025 disbursed-household-served figures) and are
+    NOT used as this script's own fy2025_actual/fy2025_amounts for this
+    reason -- recorded here only as corroboration that HTF-RA and FHPAP are
+    real, independently-documented Minnesota Housing programs, consistent
+    with (not identical to) Table 3's own numbers.
+  Neither section has a per-grant/per-project list published anywhere in
+  the Program Assessment Report or the two Consolidated RFP documents
+  (checked) -- unlike multifamily_awards, these categories carry no
+  RAW_PROJECTS of their own (household-level rental assistance, not
+  development-level awards).
+  Fund-type classification:
+    - section8_hap ("proprietary", medium confidence): the ACFR's own Note
+      2 states funds held for, and reimbursable to, HUD -- "such as Section
+      8 payments" -- are carried as a genuine "Funds Held for Others"
+      balance-sheet liability in General Reserve (Note 2, "Funds Held for
+      Others": "Also included in funds held for others are ... funds held
+      for, and reimbursable to, HUD, such as Section 8 payments. In
+      addition, investment income on unspent Section 8 funds is credited
+      directly to funds held for others"); General Reserve's own "Fees
+      Earned and Other Income" note separately states its fee income
+      "consists mainly of fees related to the financing and administration
+      of Section 8 properties." I.e. Section 8 subsidy cash genuinely
+      passes through and is disclosed on Minnesota Housing's own Statement
+      of Net Position (unlike LIHTC, which never appears there at all), but
+      as a custodial/fiduciary liability owed to HUD, not a Minnesota-
+      Housing-owned program asset -- fund_name reflects this custodial
+      nuance rather than treating it as an ordinary program fund balance.
+    - htf_ra, htf_operating_subsidies, homework_starts_with_home, fhpap
+      ("proprietary", medium confidence, same "State Appropriated"
+      precedent already used for dpl/mpl/first_gen_mn/first_gen_community
+      above): all four are named as Minnesota-legislature-appropriated
+      grant programs in the Commissioner's Message and "State Legislative
+      Actions" section (p.1-2, p.27-28) -- e.g. "$8.4 million to the Family
+      Homeless Prevention and Assistance Program (FHPAP)" as part of the
+      2025 legislative session's state-appropriated housing bill.
+    - section_811 ("off_balance_sheet"): same classification, and the same
+      "never appears in the ACFR" reasoning, as the "hud811" subprogram
+      already established under multifamily_awards above -- HUD's own
+      federally-administered program, not carried as a Minnesota Housing
+      fund asset.
+    - hopwa ("proprietary", high confidence -- literal same-sentence match):
+      Note 4's loans-receivable table states the Agency "has deferred
+      and/or forgivable loans with net carrying values of $0 in the Federal
+      Appropriated, HOMES(SM), National Housing Trust Fund (NHTF) and
+      Housing Opportunities for Persons with A[I]DS (HOPWA) programs" --
+      HOPWA is named in the exact same sentence as NHTF (already classified
+      "proprietary" above), so it receives the same classification and the
+      same Federal Appropriated fund association.
+
 Fund-type classification (fund_type/fund_name on each subprogram)
 ---------------------------------------------------------------------------
 Minnesota Housing's own FY2025 (year ended June 30, 2025) audited
@@ -734,6 +838,125 @@ CATEGORIES = [
              "fy2026": _FY26_PENDING},
         ],
     },
+    {
+        # Table 3's own "Rental Assistance Contract Administration" section
+        # (pp.19-20) -- Minnesota Housing administers Section 8 project-based
+        # HAP contracts statewide, an ongoing per-unit monthly rental subsidy
+        # to already-occupied units. See module docstring for the fund-type
+        # nuance (Funds Held for Others custodial liability, not a program
+        # asset) and the FHPAP-comparison note on differing fiscal windows.
+        "key": "section8_contract_administration",
+        "unit_type": "units",
+        "fy2025_actual": 34148,
+        "fy2025_source_quote": (
+            "Table 3 (\"Funding and Household Characteristics by Program, FFY "
+            "2025\"), p.19: \"Rental Assistance Contract Administration "
+            "$305,113,535 34,148\" / \"Project-Based Section 8 Contract "
+            "Administration $305,113,535 34,148 $8,935 $14,269 44.2%\" -- the "
+            "section header and its single sub-row carry identical totals. "
+            "MD&A, \"General Reserve\" fund description: \"contract "
+            "administration of the Section 8 program for developments not "
+            "financed by Minnesota Housing.\""
+        ),
+        "fy2025_amounts": [
+            {"label_key": "mn_amt_section8_hap", "amount": 305113535},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "section8_hap", "fy2025_units": 34148, "fy2025_amount": 305113535,
+             "color_group": "trust",
+             # ACFR Note 2, "Funds Held for Others": "funds held for, and
+             # reimbursable to, HUD, such as Section 8 payments" -- a genuine
+             # custodial/fiduciary balance-sheet liability in General Reserve,
+             # not a Minnesota-Housing-owned program asset. "Fees Earned and
+             # Other Income" note: fee income "consists mainly of fees related
+             # to the financing and administration of Section 8 properties."
+             "fund_type": "proprietary",
+             "fund_name": "General Reserve – Funds Held for Others (Section 8 subsidy funds held/reimbursable to HUD; only administration fee income is Minnesota Housing's own revenue)",
+             "fy2026": _FY26_PENDING},
+        ],
+    },
+    {
+        # Table 3's own "Housing Stability for Populations Needing Extra
+        # Support" section (pp.19-20) -- 7 of its 8 printed rows (excludes
+        # "Strengthen the Supportive Housing System", confirmed NOT part of
+        # this header's own subtotal, see module docstring and
+        # verify_housing_stability_totals() below).
+        "key": "housing_stability_extra_support",
+        "unit_type": "households",
+        "fy2025_actual": 16654,
+        "fy2025_source_quote": (
+            "Table 3, p.19-20: \"Housing Stability for Populations Needing "
+            "Extra Support $69,851,726 16,654\", comprising \"Housing Trust "
+            "Fund – Rental Assistance (HTF-RA) $10,204,343 1,080\"; \"Housing "
+            "Trust Fund – Operating Subsidies $978,762 468\"; \"Homework Starts "
+            "with Home $2,185,769 170\"; \"Bridges $4,097,970 579\"; \"Section "
+            "811 $1,473,007 178\"; \"Family Homeless Prevention and Assistance "
+            "Program (FHPAP) $50,661,310 14,045\"; \"Housing Opportunities for "
+            "Persons with AIDS (HOPWA) $250,565 134\" -- these 7 rows' own "
+            "dollar and household columns sum EXACTLY to the printed "
+            "$69,851,726/16,654 header (verified below); a following row, "
+            "\"Strengthen the Supportive Housing System $318,000\", is "
+            "confirmed NOT part of this subtotal by the same arithmetic check "
+            "and is excluded. HTF-RA, Homework Starts with Home, Bridges and "
+            "Section 811 are each independently tagged \"Rent Assistance\" in "
+            "Table 3's own companion Table 1 (Activity column) -- the most "
+            "literal rental-assistance match of the 7; FHPAP and HOPWA are "
+            "broader housing-stability/homelessness-prevention services that "
+            "Minnesota Housing's own table nonetheless groups under this same "
+            "header (see module docstring)."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "mn_amt_housing_stability_total", "amount": 69851726},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "htf_ra", "fy2025_units": 1080, "fy2025_amount": 10204343,
+             "color_group": "trust",
+             "fund_type": "proprietary",
+             "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+             "fy2026": _FY26_PENDING},
+            {"key": "htf_operating_subsidies", "fy2025_units": 468, "fy2025_amount": 978762,
+             "color_group": "trust",
+             "fund_type": "proprietary",
+             "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+             "fy2026": _FY26_PENDING},
+            {"key": "homework_starts_with_home", "fy2025_units": 170, "fy2025_amount": 2185769,
+             "color_group": "capital",
+             "fund_type": "proprietary",
+             "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+             "fy2026": _FY26_PENDING},
+            {"key": "bridges", "fy2025_units": 579, "fy2025_amount": 4097970,
+             "color_group": "capital",
+             "fund_type": "proprietary",
+             "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+             "fy2026": _FY26_PENDING},
+            {"key": "section_811", "fy2025_units": 178, "fy2025_amount": 1473007,
+             "color_group": "capital",
+             # Same off_balance_sheet reasoning as the "hud811" subprogram
+             # under multifamily_awards above -- HUD's own federal program,
+             # never carried as a Minnesota Housing fund asset.
+             "fund_type": "off_balance_sheet", "fund_name": None,
+             "fy2026": _FY26_PENDING},
+            {"key": "fhpap", "fy2025_units": 14045, "fy2025_amount": 50661310,
+             "color_group": "amber",
+             "fund_type": "proprietary",
+             "fund_name": "State Appropriated (inferred, not separately named in the ACFR)",
+             "fy2026": _FY26_PENDING},
+            {"key": "hopwa", "fy2025_units": 134, "fy2025_amount": 250565,
+             "color_group": "amber",
+             # Note 4's loans-receivable table names HOPWA verbatim in the
+             # same sentence as NHTF ("net carrying values of $0 in the
+             # Federal Appropriated, HOMES(SM), National Housing Trust Fund
+             # (NHTF) and Housing Opportunities for Persons with AIDS (HOPWA)
+             # programs") -- same classification as nhtf/lmir_disbursed above.
+             "fund_type": "proprietary",
+             "fund_name": "Federal Appropriated (named alongside NHTF in Note 4's loans-receivable table)",
+             "fy2026": _FY26_PENDING},
+        ],
+    },
 ]
 
 # ---------------------------------------------------------------------------
@@ -957,6 +1180,56 @@ def verify_rental_production_subtotals():
           "the 3,026/$295,415,416 printed headline is intentional -- see module docstring.")
 
 
+def verify_section8_and_housing_stability_totals():
+    """Cross-checks section8_contract_administration's trivial 1:1
+    header/subprogram match, and -- the real double-verification gate for
+    this addition -- that housing_stability_extra_support's 7 subprogram
+    rows sum EXACTLY to Table 3's own printed $69,851,726/16,654 header,
+    while explicitly confirming "Strengthen the Supportive Housing System"
+    ($318,000) is NOT part of that subtotal (see module docstring)."""
+    errors = []
+
+    s8_cat = next(c for c in CATEGORIES if c["key"] == "section8_contract_administration")
+    s8_sp = s8_cat["subprograms"][0]
+    if s8_sp["fy2025_units"] != s8_cat["fy2025_actual"]:
+        errors.append(f"section8_hap units: category says {s8_cat['fy2025_actual']}, subprogram says {s8_sp['fy2025_units']}")
+    if s8_sp["fy2025_amount"] != s8_cat["fy2025_amounts"][0]["amount"]:
+        errors.append(f"section8_hap amount: category says {s8_cat['fy2025_amounts'][0]['amount']}, subprogram says {s8_sp['fy2025_amount']}")
+
+    hs_cat = next(c for c in CATEGORIES if c["key"] == "housing_stability_extra_support")
+    hs_subs = hs_cat["subprograms"]
+    if len(hs_subs) != 7:
+        errors.append(f"housing_stability_extra_support subprogram count: expected 7, got {len(hs_subs)}")
+    units_sum = sum(sp["fy2025_units"] for sp in hs_subs)
+    amount_sum = sum(sp["fy2025_amount"] for sp in hs_subs)
+    if units_sum != hs_cat["fy2025_actual"]:
+        errors.append(f"housing_stability_extra_support units: expected {hs_cat['fy2025_actual']}, got {units_sum}")
+    if amount_sum != hs_cat["fy2025_amounts"][0]["amount"]:
+        errors.append(f"housing_stability_extra_support amount: expected {hs_cat['fy2025_amounts'][0]['amount']}, got {amount_sum}")
+    # Confirm "Strengthen the Supportive Housing System" ($318,000) would
+    # overshoot the printed header if wrongly included -- documents the
+    # exclusion is deliberate, not an oversight.
+    strengthen_shs_amount = 318000
+    if amount_sum + strengthen_shs_amount == hs_cat["fy2025_amounts"][0]["amount"]:
+        errors.append(
+            "Strengthen the Supportive Housing System ($318,000) appears to belong "
+            "inside the housing_stability_extra_support subtotal after all -- "
+            "re-check module docstring's exclusion reasoning"
+        )
+
+    if errors:
+        raise SystemExit("Section 8 / Housing Stability total mismatch(es):\n" + "\n".join(errors))
+    print(
+        "section8_contract_administration verified: 34,148 units / $305,113,535 "
+        "(Table 3's own header and single sub-row are identical). "
+        "housing_stability_extra_support verified: 7 subprogram rows "
+        "(HTF-RA + HTF-Operating Subsidies + Homework Starts with Home + Bridges + "
+        "Section 811 + FHPAP + HOPWA) sum to 16,654 households / $69,851,726, "
+        "matching Table 3's own printed header EXACTLY -- confirming 'Strengthen "
+        "the Supportive Housing System' ($318,000) is correctly excluded."
+    )
+
+
 def slugify(name):
     return re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
 
@@ -1038,6 +1311,7 @@ def main():
     verify_state_totals()
     verify_category_subprogram_totals()
     verify_rental_production_subtotals()
+    verify_section8_and_housing_stability_totals()
     print("Geocoding project addresses via Nominatim...")
     projects = build_projects()
     unresolved = [p["name"] for p in projects if p["geocode_status"] == "unresolved"]

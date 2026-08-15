@@ -279,6 +279,54 @@ and County of Honolulu"). Self-throttled to <=1 request/second with an
 identifying User-Agent per Nominatim's usage policy; only 4 distinct county
 queries are ever made for this state's 22 projects.
 
+Rental Assistance Revolving Fund (RARF) / Rental Assistance Program (RAP)
+------------------------------------------------------------------------
+Per user request (2026-08-14), the Annual Report was re-searched for an
+independent, ongoing per-unit rental-subsidy program (as distinct from the
+three development-financing categories above). Section III.A.5, "RENTAL
+ASSISTANCE REVOLVING FUND (RARF)" (p.25-26), states in full: "The Rental
+Assistance Revolving Fund (RARF) funds the Rental Assistance Program (RAP),
+which was created by the Legislature in 1981 to encourage the development
+of new or existing rental properties while maintaining rental rates for low
+and moderate-income families. The fund's purpose is to provide monthly
+rental subsidies. As of June 30, 2025, there are seven projects comprised
+of 1,215 rental units with RAP commitments totaling $29,324,009. Although
+the program is no longer accepting new projects or funding, it continues
+to honor existing commitments until they sunset." This is a genuinely
+different population from "units_completed"/"lihtc_reservations"/
+"hmmf_financing" above (all one-time construction/preservation financing)
+-- RAP pays ongoing MONTHLY rental subsidies to existing tenants of already
+-built projects, matching this pilot series' IL Section 811 PRA/RHS
+precedent. No per-project table of the 7 RAP projects is published
+anywhere in this report (checked; unlike Table 1/Table 10, RARF/RAP gets
+only this one narrative paragraph), so this category carries no
+RAW_PROJECTS of its own, the same "single-sentence-only" treatment already
+used here for hmmf_financing.
+IMPORTANT unreconciled conflict across HHFDC's own documents: HHFDC's
+separately-issued FY2025 financial statements (FY2025/txt/HI_HHFDC_FY2025_
+ACFR.txt) give a DIFFERENT dollar figure for what is described as the same
+underlying commitment: Note 13, "Commitments and Contingencies" -> "Rental
+Subsidy Commitments" states "At June 30, 2025, the Rental Assistance
+Revolving Fund had aggregate outstanding rental subsidy commitments of
+approximately $18,911,000" -- about 35% below the Annual Report's own
+$29,324,009. The ACFR's Statement of Activities (condensed, MD&A) gives a
+THIRD, differently-scoped figure: the "Rental assistance program"
+business-type activity's own FY2025 EXPENSE line is $1,276 thousand (a
+one-year expense/flow figure, not a stock of outstanding commitments -- not
+comparable to either of the other two numbers). None of these three
+figures is forced to reconcile with another, per this project's "never
+force a reconciliation" rule -- fy2025_actual/fy2025_amounts below use the
+Annual Report's own headline sentence (this category's primary source,
+matching how "units_completed" also draws from the Annual Report rather
+than the ACFR), and the conflicting ACFR figures are recorded here for
+transparency only.
+Fund-type classification: "proprietary", high confidence -- the Rental
+Assistance Revolving Fund is named verbatim as one of HHFDC's 5 non-major
+proprietary (enterprise) funds (MD&A p.12-13, Note 1 p.30-31, already
+documented in this docstring's "Fund-type classification" section above),
+and independently corroborated by the ACFR's own Note 13 quote above (same
+fund name, verbatim).
+
 fy2026
 ------------------------------------------------------------------------
 Unlike PA/OH/FL, HHFDC's own report DOES disclose a genuine FY2026 forecast
@@ -497,6 +545,55 @@ CATEGORIES = [
              "fy2026": _FY26_PENDING},
         ],
     },
+    {
+        # Section III.A.5, "RENTAL ASSISTANCE REVOLVING FUND (RARF)" -- an
+        # ongoing, per-unit MONTHLY rental subsidy program, structurally
+        # different from the three development-financing categories above
+        # (see module docstring's "Rental Assistance Revolving Fund (RARF) /
+        # Rental Assistance Program (RAP)" section for the full narrative
+        # quote and the unreconciled $18,911,000/$1,276,000 ACFR figures).
+        "key": "rental_assistance_program",
+        "unit_type": "units",
+        "fy2025_actual": 1215,
+        "fy2025_source_quote": (
+            "\"The Rental Assistance Revolving Fund (RARF) funds the Rental "
+            "Assistance Program (RAP), which was created by the Legislature in "
+            "1981 to encourage the development of new or existing rental "
+            "properties while maintaining rental rates for low and moderate-"
+            "income families. The fund's purpose is to provide monthly rental "
+            "subsidies. As of June 30, 2025, there are seven projects comprised "
+            "of 1,215 rental units with RAP commitments totaling $29,324,009. "
+            "Although the program is no longer accepting new projects or "
+            "funding, it continues to honor existing commitments until they "
+            "sunset.\" (p.25-26). No per-project table is published for RAP's 7 "
+            "projects anywhere in this report -- unlike Table 1/Table 10, this "
+            "program gets only this one narrative paragraph -- so this category "
+            "carries no RAW_PROJECTS of its own. HHFDC's own separately-issued "
+            "FY2025 ACFR gives a DIFFERENT commitment total for the same fund "
+            "(Note 13: \"approximately $18,911,000\" of outstanding rental "
+            "subsidy commitments at June 30, 2025) and a third, differently-"
+            "scoped figure (Statement of Activities: $1,276 thousand of FY2025 "
+            "\"Rental assistance program\" business-type-activity EXPENSE, a "
+            "one-year flow figure, not a commitment stock) -- neither is forced "
+            "to reconcile with the Annual Report's own $29,324,009 headline "
+            "used here; see module docstring."
+        ),
+        "fy2025_amounts": [
+            {"label_key": "hi_amt_rap_commitments", "amount": 29324009},
+        ],
+        "additive": True,
+        "fy2026": _FY26_PENDING,
+        "subprograms": [
+            {"key": "rap", "fy2025_units": 1215, "fy2025_amount": 29324009,
+             "color_group": "trust",
+             # Rental Assistance Revolving Fund, one of HHFDC's own 5
+             # non-major proprietary (enterprise) funds (MD&A p.12-13, Note 1
+             # p.30-31; independently corroborated by the ACFR's own Note 13,
+             # "Rental Subsidy Commitments" -- same fund name verbatim).
+             "fund_type": "proprietary", "fund_name": "Rental Assistance Revolving Fund (RARF)",
+             "fy2026": _FY26_PENDING},
+        ],
+    },
 ]
 
 # ---------------------------------------------------------------------------
@@ -653,6 +750,34 @@ def verify_tag_tallies():
           f"pre-computed EXPECTED_TAG_TALLIES.")
 
 
+def verify_rental_assistance_program():
+    """Cross-checks the rental_assistance_program category's own headline
+    figures against its single subprogram (a trivial 1:1 check, since RAP
+    has no per-project exhibit to sum) -- and documents, without forcing a
+    reconciliation, HHFDC's own conflicting ACFR figures (see module
+    docstring)."""
+    cat = next(c for c in CATEGORIES if c["key"] == "rental_assistance_program")
+    sp = cat["subprograms"][0]
+    errors = []
+    if sp["fy2025_units"] != cat["fy2025_actual"]:
+        errors.append(f"rap units: category says {cat['fy2025_actual']}, subprogram says {sp['fy2025_units']}")
+    if sp["fy2025_amount"] != cat["fy2025_amounts"][0]["amount"]:
+        errors.append(
+            f"rap amount: category says {cat['fy2025_amounts'][0]['amount']}, subprogram says {sp['fy2025_amount']}"
+        )
+    if errors:
+        raise SystemExit("Rental assistance program mismatch(es):\n" + "\n".join(errors))
+    print(
+        "Rental Assistance Program (RARF/RAP) verified: 1,215 units / $29,324,009 "
+        "commitments, matching the Annual Report's own Section III.A.5 headline "
+        "sentence. NOTE (not reconciled, per module docstring): HHFDC's own FY2025 "
+        "ACFR Note 13 separately states approximately $18,911,000 of outstanding "
+        "rental subsidy commitments for the same fund, and its Statement of "
+        "Activities separately gives $1,276 thousand of FY2025 'Rental assistance "
+        "program' business-type-activity expense (a different, flow-based figure)."
+    )
+
+
 def geocode(query, cache):
     if query in cache:
         return cache[query]
@@ -708,6 +833,7 @@ def main():
     verify_units_completed()
     verify_lihtc_reservations()
     verify_tag_tallies()
+    verify_rental_assistance_program()
     print("Geocoding project counties via Nominatim...")
     projects = build_projects()
     unresolved = [p["name"] for p in projects if p["geocode_status"] == "unresolved"]

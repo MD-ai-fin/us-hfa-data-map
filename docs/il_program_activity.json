@@ -379,6 +379,83 @@
             }
           }
         ]
+      },
+      {
+        "key": "rental_assistance_operations",
+        "unit_type": "units",
+        "fy2025_actual": 465,
+        "fy2025_source_quote": "Under its rental assistance and operations programs, the Authority provided 24 awards/contract renewals totaling $19,918,197 in assistance for 465 affordable rental units, including units targeted at re-entry populations.",
+        "fy2025_amounts": [
+          {
+            "label_key": "il_amt_rental_assistance_awards",
+            "amount": 19918197
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "il_fy26_note_rental_assistance"
+        },
+        "subprograms": [
+          {
+            "key": "section_811_pra",
+            "fy2025_units": 36,
+            "fy2025_amount": 2793360,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Section 811 Project Rental Assistance Program Fund (nonmajor)",
+            "fy2026": {
+              "value": 5,
+              "amount": null,
+              "closed": false,
+              "note_key": "il_811pra_fy26_note"
+            }
+          },
+          {
+            "key": "rhs_laa",
+            "fy2025_units": 316,
+            "fy2025_amount": 10919324,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Rental Housing Support Program Fund",
+            "fy2026": {
+              "value": 350,
+              "amount": 11000000,
+              "closed": false,
+              "note_key": "il_rhslaa_fy26_note"
+            }
+          },
+          {
+            "key": "ltos",
+            "fy2025_units": 38,
+            "fy2025_amount": 3424588,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Rental Housing Support Program Fund (Long Term Operating Support sub-program)",
+            "fy2026": {
+              "value": 30,
+              "amount": 3000000,
+              "closed": false,
+              "note_key": "il_ltos_fy26_note"
+            }
+          },
+          {
+            "key": "re_entry",
+            "fy2025_units": 75,
+            "fy2025_amount": 2780925,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Rental Housing Support Program Fund (Re-Entry Rental Assistance sub-program)",
+            "fy2026": {
+              "value": 100,
+              "amount": 5000000,
+              "closed": false,
+              "note_key": "il_reentry_fy26_note"
+            }
+          }
+        ]
       }
     ],
     "projects": [
