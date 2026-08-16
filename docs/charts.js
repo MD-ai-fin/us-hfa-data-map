@@ -94,6 +94,7 @@
       const zeroPct = ((0 - domMin) / span) * 100;
       const color = METRIC_COLORS[metric] || "var(--accent)";
       const options = METRIC_KEYS
+        .filter(k => k !== "staff_count")
         .map(k => `<option value="${k}" ${k === metric ? "selected" : ""}>${tMetric(k)}</option>`)
         .join("");
       const hint = t("rankChartHint").replace("{n}", String(rows.length));
@@ -272,6 +273,7 @@
         ? t("scatterCorrelation").replace("{r}", fit.r.toFixed(2)).replace("{n}", String(fit.n))
         : t("scatterInsufficientData");
       const optionsFor = key => METRIC_KEYS
+        .filter(k => k !== "staff_count")
         .map(k => `<option value="${k}" ${k === key ? "selected" : ""}>${tMetric(k)}</option>`)
         .join("");
       body.innerHTML = `
