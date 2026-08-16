@@ -265,6 +265,29 @@
       const hit = CATEGORY_KEYWORD_BUCKETS.find(b => b.re.test(key));
       return hit ? hit.hex : "#38bdf8";
     }
+
+    // Cross-state category aggregation for the right-hand metrics panel.
+    // The modal's CATEGORY_KEYWORD_BUCKETS (above) colors each category by
+    // keyword, but that mapping shunts LIHTC/tax-credit/HMMF/LMIR financing into
+    // its own 🏦 bucket and routes "mortgage" there too. For the five
+    // business categories the metrics panel compares across states, LIHTC/
+    // tax-credit/HMMF/LMIR awards are *multifamily* production and a
+    // "mortgage_operations" category is *homeownership*, so this separate
+    // first-match-wins table re-buckets those keys accordingly. Only these five
+    // buckets feed the panel; weatherization, energy assistance, trust funds and
+    // other grant programs are intentionally excluded. Order matters:
+    // rental_assistance is matched before the broad multifamily/rental bucket,
+    // mirroring the icon buckets above.
+    const PROGRAM_ACTIVITY_METRIC_BUCKETS = [
+      { metric: "pa_homeownership", unitsKey: "pa_homeownership_households", amountKey: "pa_homeownership_amount", re: /homeown|homebuyer|single_family|downpayment|covenant|sonyma|mortgage_operations/ },
+      { metric: "pa_repair", unitsKey: "pa_repair_households", amountKey: "pa_repair_amount", re: /repair|renew|rehab|counsel/ },
+      { metric: "pa_covid", unitsKey: "pa_covid_households", amountKey: "pa_covid_amount", re: /covid|emergency|foreclosure|homeless/ },
+      { metric: "pa_rental", unitsKey: "pa_rental_units", amountKey: "pa_rental_amount", re: /rental_assistance|community_affairs|voucher|public_housing|section_?8|tbra|housing_stability/ },
+      { metric: "pa_multifamily", unitsKey: "pa_multifamily_units", amountKey: "pa_multifamily_amount", re: /multifamily|rental|units_completed|placed_in_service|build_for|neighborhood|housing_solutions|lihtc|tax_credit|credit_award|hmmf|lmir|legislative_loan/ },
+      { metric: "pa_energy", unitsKey: "pa_energy_households", amountKey: "pa_energy_amount", re: /weatheriz|energy|liheap/ },
+      { metric: "pa_grants", unitsKey: "pa_grants_units", amountKey: "pa_grants_amount", re: /trust_fund|phare|grant|reach_virginia|federal_assistance|home_program/ },
+    ];
+
     const UNIT_ICON = { units: "🏠", households: "🧑" };
     // GASB fund-type classification, sourced from each state's own FY2025
     // ACFR (fund descriptions in Note 2 + combining schedules), not from the
@@ -338,6 +361,43 @@
         });
       return loadPromises[abbr];
     }
+
+    const aggregateCache = {}; // abbr -> { pa_*_units, pa_*_amount } once loaded
+
+    function bucketMetricForCategory(catKey) {
+      const hit = PROGRAM_ACTIVITY_METRIC_BUCKETS.find(b => b.re.test(catKey));
+      return hit ? hit.metric : null;
+    }
+
+    function aggregateState(abbr) {
+      const d = dataCache[abbr];
+      if (!d) return null;
+      const cats = d.categories || [];
+      const out = {};
+      for (const b of PROGRAM_ACTIVITY_METRIC_BUCKETS) {
+        const matched = cats.filter(c => bucketMetricForCategory(c.key) === b.metric);
+        let units = null, amount = null;
+        for (const c of matched) {
+          const rawQ = c.fy2025_actual;
+          const q = (rawQ == null || rawQ === "") ? NaN : Number(rawQ);
+          if (!Number.isNaN(q)) units = (units == null ? 0 : units) + q;
+          const amts = (c.fy2025_amounts || []).map(a => (a.amount == null || a.amount === "") ? NaN : Number(a.amount)).filter(v => !Number.isNaN(v));
+          if (amts.length) amount = (amount == null ? 0 : amount) + amts.reduce((s, v) => s + v, 0);
+        }
+        out[b.unitsKey] = units;
+        out[b.amountKey] = amount;
+      }
+      return out;
+    }
+
+    function loadAllAggregates() {
+      const abbrs = Object.keys(STATE_CONFIGS);
+      return Promise.all(abbrs.map(abbr =>
+        loadData(abbr).then(() => { aggregateCache[abbr] = aggregateState(abbr); })
+      )).then(() => aggregateCache);
+    }
+
+    function getAggregate() { return aggregateCache; }
 
     // fy2026 shape: { value, amount, closed, note_key }. `value` (units/
     // households) and `amount` ($) are disclosed independently by the
@@ -611,6 +671,6 @@
       }
     });
 
-    return { deactivate, onEscape, renderLabels, isAvailable };
+    return { deactivate, onEscape, renderLabels, isAvailable, loadAllAggregates, getAggregate };
   };
 })();

@@ -116,7 +116,19 @@
     .metric-options {
       display: flex;
       flex-direction: column;
+      gap: 0.9rem;
+    }
+    .metric-group {
+      display: flex;
+      flex-direction: column;
       gap: 0.35rem;
+    }
+    .metric-group-title {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--muted);
     }
     .metric-option {
       display: flex;
@@ -215,6 +227,7 @@
       height: 12px;
       border-radius: 4px;
       margin-bottom: 0.35rem;
+      border: 1px solid #64748b;
       background: linear-gradient(90deg, #440154 0%, #3b528b 25%, #21908c 50%, #5dc963 75%, #fde725 100%);
     }
     .legend-labels {
@@ -762,6 +775,22 @@
       flex-direction: column;
       gap: 0.24rem;
     }
+    .tt-header {
+      font-size: 0.6rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+      padding-bottom: 0.18rem;
+      margin-bottom: 0.1rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .tt-header .tt-label,
+    .tt-header .tt-value,
+    .tt-header .tt-rank {
+      color: var(--muted);
+      font-weight: 600;
+    }
     .tt-row {
       display: flex;
       align-items: baseline;
@@ -787,7 +816,6 @@
     .tt-rank {
       font-variant-numeric: tabular-nums;
       color: var(--muted);
-      font-size: 0.88em;
       white-space: nowrap;
       min-width: 2.6em;
       text-align: right;
@@ -1842,6 +1870,12 @@
         sceneTopGrowth: "增速最快",
         sceneTopCapita: "人均净资产",
         stateModalTitle: "州详情",
+        colMetric: "指标",
+        colValue: "数值",
+        colRank: "排行",
+        grpFinancial: "财务",
+        grpPopulation: "人口",
+        grpHousing: "住房活动",
         stateModalRankHint: "排名按数值从高到低排序，第 1 名为最高；分母反映数据可得性：/51 为全部州与特区，较小分母为具有该指标数据的机构数。",
         familiesServedCumulative: "累计服务家庭数（成立以来）",
         familiesServedScopeHomeownership: "仅购房业务",
@@ -2804,6 +2838,20 @@
           poverty_rate: "贫困率",
           median_home_price: "中位房价",
           homeless_count: "流浪人员人数（2025年1月）",
+          pa_multifamily_units: "多住户新建/保留住房单元",
+          pa_multifamily_amount: "多住户资助金额",
+          pa_homeownership_households: "购房贷款家庭数",
+          pa_homeownership_amount: "购房贷款金额",
+          pa_repair_households: "维修/咨询家庭数",
+          pa_repair_amount: "维修/咨询金额",
+          pa_covid_households: "COVID应急家庭数",
+          pa_covid_amount: "COVID应急金额",
+          pa_rental_units: "租赁援助数量",
+          pa_rental_amount: "租赁援助金额",
+          pa_energy_households: "能源/节能援助数量",
+          pa_energy_amount: "能源/节能援助金额",
+          pa_grants_units: "拨款/信托基金数量",
+          pa_grants_amount: "拨款/信托基金金额",
         },
       },
       en: {
@@ -2827,6 +2875,12 @@
         sceneTopGrowth: "Fastest Growth",
         sceneTopCapita: "Net Position Per Capita",
         stateModalTitle: "State details",
+        colMetric: "Metric",
+        colValue: "Value",
+        colRank: "Rank",
+        grpFinancial: "Financial",
+        grpPopulation: "Population",
+        grpHousing: "Housing Activity",
         stateModalRankHint: "Ranked by value, highest to lowest (rank 1 = highest); denominators reflect data availability: /51 = all states & D.C., smaller denominators = agencies with data for that metric.",
         familiesServedCumulative: "Cumulative Families Served (Since Inception)",
         familiesServedScopeHomeownership: "homeownership only",
@@ -3789,6 +3843,20 @@
           poverty_rate: "Poverty Rate",
           median_home_price: "Median Home Value",
           homeless_count: "Homeless Persons (Jan 2025 PIT)",
+          pa_multifamily_units: "Multifamily New/Preserve Units",
+          pa_multifamily_amount: "Multifamily Funding",
+          pa_homeownership_households: "Homeownership Loan Households",
+          pa_homeownership_amount: "Homeownership Loan Amount",
+          pa_repair_households: "Repair/Counseling Households",
+          pa_repair_amount: "Repair/Counseling Amount",
+          pa_covid_households: "COVID Emergency Households",
+          pa_covid_amount: "COVID Emergency Amount",
+          pa_rental_units: "Rental Assistance Count",
+          pa_rental_amount: "Rental Assistance Amount",
+          pa_energy_households: "Energy/Weatherization Count",
+          pa_energy_amount: "Energy/Weatherization Amount",
+          pa_grants_units: "Grants/Trust Fund Count",
+          pa_grants_amount: "Grants/Trust Fund Amount",
         },
       },
       es: {
@@ -3812,6 +3880,12 @@
         sceneTopGrowth: "Crecimiento más rápido",
         sceneTopCapita: "Activo neto per cápita",
         stateModalTitle: "Detalles del estado",
+        colMetric: "Indicador",
+        colValue: "Valor",
+        colRank: "Puesto",
+        grpFinancial: "Finanzas",
+        grpPopulation: "Población",
+        grpHousing: "Actividad de vivienda",
         stateModalRankHint: "Clasificado por valor, de mayor a menor (puesto 1 = el más alto); los denominadores reflejan la disponibilidad de datos: /51 = todos los estados y D.C., denominadores menores = agencias con datos para ese indicador.",
         familiesServedCumulative: "Familias atendidas acumuladas (desde su creación)",
         familiesServedScopeHomeownership: "solo compra de vivienda",
@@ -4774,6 +4848,20 @@
           poverty_rate: "Tasa de pobreza",
           median_home_price: "Valor mediano de la vivienda",
           homeless_count: "Personas sin hogar (recuento puntual, enero de 2025)",
+          pa_multifamily_units: "Unidades multifamiliares nuevas/preservadas",
+          pa_multifamily_amount: "Financiación multifamiliar",
+          pa_homeownership_households: "Hogares con préstamo hipotecario",
+          pa_homeownership_amount: "Monto de préstamos hipotecarios",
+          pa_repair_households: "Hogares de reparación/asesoría",
+          pa_repair_amount: "Monto de reparación/asesoría",
+          pa_covid_households: "Hogares de emergencia COVID",
+          pa_covid_amount: "Monto de emergencia COVID",
+          pa_rental_units: "Cantidad de asistencia de alquiler",
+          pa_rental_amount: "Monto de asistencia de alquiler",
+          pa_energy_households: "Cantidad de asistencia energética",
+          pa_energy_amount: "Monto de asistencia energética",
+          pa_grants_units: "Cantidad de subvenciones/fondos fiduciarios",
+          pa_grants_amount: "Monto de subvenciones/fondos fiduciarios",
         },
       },
       pl: {
@@ -4797,6 +4885,12 @@
         sceneTopGrowth: "Najszybszy wzrost",
         sceneTopCapita: "Aktywa netto na mieszkańca",
         stateModalTitle: "Szczegóły stanu",
+        colMetric: "Wskaźnik",
+        colValue: "Wartość",
+        colRank: "Miejsce",
+        grpFinancial: "Finanse",
+        grpPopulation: "Ludność",
+        grpHousing: "Działalność mieszkaniowa",
         stateModalRankHint: "Ranking według wartości, od najwyższej do najniższej (miejsce 1 = najwyższe); mianowniki odzwierciedlają dostępność danych: /51 = wszystkie stany i D.C., mniejsze mianowniki = agencje z danymi dla danego wskaźnika.",
         familiesServedCumulative: "Łączna liczba obsłużonych rodzin (od powstania)",
         familiesServedScopeHomeownership: "tylko własność domów",
@@ -5759,6 +5853,20 @@
           poverty_rate: "Stopa ubóstwa",
           median_home_price: "Mediana wartości domu",
           homeless_count: "Liczba osób bezdomnych (stan na styczeń 2025)",
+          pa_multifamily_units: "Jednostki wielorodzinne nowe/zachowane",
+          pa_multifamily_amount: "Finansowanie wielorodzinne",
+          pa_homeownership_households: "Gospodarstwa z kredytem hipotecznym",
+          pa_homeownership_amount: "Kwota kredytów hipotecznych",
+          pa_repair_households: "Gospodarstwa napraw/doradztwa",
+          pa_repair_amount: "Kwota napraw/doradztwa",
+          pa_covid_households: "Gospodarstwa pomocy COVID",
+          pa_covid_amount: "Kwota pomocy COVID",
+          pa_rental_units: "Liczba pomocy czynszowej",
+          pa_rental_amount: "Kwota pomocy czynszowej",
+          pa_energy_households: "Liczba pomocy energetycznej",
+          pa_energy_amount: "Kwota pomocy energetycznej",
+          pa_grants_units: "Liczba dotacji/funduszy powierniczych",
+          pa_grants_amount: "Kwota dotacji/funduszy powierniczych",
         },
       },
     };
@@ -5827,6 +5935,44 @@
       "personal_income_total", "personal_income_per_capita",
       "unemployment_rate", "poverty_rate", "median_home_price",
       "homeless_count",
+      "pa_multifamily_units", "pa_multifamily_amount",
+      "pa_homeownership_households", "pa_homeownership_amount",
+      "pa_repair_households", "pa_repair_amount",
+      "pa_covid_households", "pa_covid_amount",
+      "pa_rental_units", "pa_rental_amount",
+      "pa_energy_households", "pa_energy_amount",
+      "pa_grants_units", "pa_grants_amount",
+    ];
+
+    // Metric groups for the right-hand panel. METRIC_KEYS remains the single
+    // source of truth for ordering/selection; this only drives grouped rendering.
+    const METRIC_GROUPS = [
+      {
+        key: "grpFinancial",
+        metrics: [
+          "net_position", "net_position_growth_pct", "net_position_per_capita",
+          "total_assets", "total_liabilities", "leverage_ratio",
+        ],
+      },
+      {
+        key: "grpPopulation",
+        metrics: [
+          "population", "personal_income_total", "personal_income_per_capita",
+          "unemployment_rate", "poverty_rate", "median_home_price", "homeless_count",
+        ],
+      },
+      {
+        key: "grpHousing",
+        metrics: [
+          "pa_multifamily_units", "pa_multifamily_amount",
+          "pa_homeownership_households", "pa_homeownership_amount",
+          "pa_repair_households", "pa_repair_amount",
+          "pa_covid_households", "pa_covid_amount",
+          "pa_rental_units", "pa_rental_amount",
+          "pa_energy_households", "pa_energy_amount",
+          "pa_grants_units", "pa_grants_amount",
+        ],
+      },
     ];
 
     const LINE_HEIGHT = 1.15;
@@ -5898,6 +6044,20 @@
       poverty_rate: "#ef4444",
       median_home_price: "#f472b6",
       homeless_count: "#c084fc",
+      pa_multifamily_units: "#38bdf8",
+      pa_multifamily_amount: "#7dd3fc",
+      pa_homeownership_households: "#22c55e",
+      pa_homeownership_amount: "#86efac",
+      pa_repair_households: "#f59e0b",
+      pa_repair_amount: "#fcd34d",
+      pa_covid_households: "#f43f5e",
+      pa_covid_amount: "#fb7185",
+      pa_rental_units: "#8b5cf6",
+      pa_rental_amount: "#a78bfa",
+      pa_energy_households: "#eab308",
+      pa_energy_amount: "#fde047",
+      pa_grants_units: "#fb923c",
+      pa_grants_amount: "#fdba74",
     };
 
     const STATE_ABBR = {
@@ -5997,6 +6157,19 @@
     };
     const MOBILE_MQ = window.matchMedia("(max-width: 900px)");
     const selectedMetrics = new Set(["net_position"]);
+    // Cross-state program-activity aggregates, loaded from the 44 per-state
+    // *_program_activity.json files by program_activity.js (see its
+    // PROGRAM_ACTIVITY_METRIC_BUCKETS). Populated in init(); null until then.
+    let programActivityAggregate = null; // abbr -> { pa_*_units, pa_*_amount }
+    const PROGRAM_ACTIVITY_METRIC_KEYS = new Set([
+      "pa_multifamily_units", "pa_multifamily_amount",
+      "pa_homeownership_households", "pa_homeownership_amount",
+      "pa_repair_households", "pa_repair_amount",
+      "pa_covid_households", "pa_covid_amount",
+      "pa_rental_units", "pa_rental_amount",
+      "pa_energy_households", "pa_energy_amount",
+      "pa_grants_units", "pa_grants_amount",
+    ]);
     const layerByAbbr = new Map();
     const markerLayer = L.layerGroup();
     const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -6275,6 +6448,10 @@
 
     function metricValueForState(rec, mkey) {
       if (!mkey) return null;
+      if (PROGRAM_ACTIVITY_METRIC_KEYS.has(mkey)) {
+        const v = programActivityAggregate?.[rec?.state]?.[mkey];
+        return hasMetricValue(v) ? Number(v) : null;
+      }
       const yd = yearMetrics(rec);
       return hasMetricValue(yd[mkey]) ? Number(yd[mkey]) : null;
     }
@@ -6288,13 +6465,13 @@
       if (!hasMetricValue(val)) return t("na");
       if (key === "leverage_ratio") return `${Number(val).toFixed(2)}×`;
       if (key.includes("rate") || key.includes("pct") || key.includes("growth")) return `${Number(val).toFixed(1)}%`;
-      if (key.includes("population") || key.includes("families") || key.includes("staff") || key.includes("homeless")) {
+      if (key.includes("population") || key.includes("families") || key.includes("households") || key.includes("units") || key.includes("staff") || key.includes("homeless")) {
         const n = Number(val);
         if (n >= 1e6) return `${(n / 1e6).toFixed(1)}M`;
         if (n >= 1e3) return `${(n / 1e3).toFixed(0)}K`;
         return n.toLocaleString(LOCALE_TAG[lang] || "en-US");
       }
-      if (key.includes("income") || key.includes("assets") || key.includes("liabilit") || key.includes("position") || key.includes("price") || key.includes("median")) {
+      if (key.includes("income") || key.includes("assets") || key.includes("amount") || key.includes("liabilit") || key.includes("position") || key.includes("price") || key.includes("median")) {
         const n = Number(val);
         if (Math.abs(n) >= 1e12) return `$${(n / 1e12).toFixed(1)}T`;
         if (Math.abs(n) >= 1e9) return `$${(n / 1e9).toFixed(1)}B`;
@@ -6345,7 +6522,13 @@
           <span class="tt-rank">${rankText}</span>
         </div>`;
       }).join("");
-      return `<div class="tt-body">${rows}</div>`;
+      const header = `<div class="tt-row tt-header" aria-hidden="true">
+        <span class="tt-dot"></span>
+        <span class="tt-label">${t("colMetric")}</span>
+        <span class="tt-value">${t("colValue")}</span>
+        <span class="tt-rank">${t("colRank")}</span>
+      </div>`;
+      return `<div class="tt-body">${header}${rows}</div>`;
     }
 
     function buildReportPopupHtml(abbr) {
@@ -6470,6 +6653,31 @@
       return `linear-gradient(90deg, ${stops.map(s => `rgb(${s[1].join(",")}) ${Math.round(s[0] * 100)}%`).join(", ")})`;
     }
 
+    // WCAG contrast tools for adaptive map-label ink (SC 1.4.3 / 1.4.6).
+    function parseRgb(color) {
+      if (!color) return null;
+      const hex = /^#([0-9a-f]{6})$/i.exec(color);
+      if (hex) { const v = parseInt(hex[1], 16); return [v >> 16 & 255, v >> 8 & 255, v & 255]; }
+      const rgb = /^rgb\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/.exec(color);
+      if (rgb) return [+rgb[1], +rgb[2], +rgb[3]];
+      return null;
+    }
+    function relativeLuminance(color) {
+      const c = parseRgb(color);
+      if (!c) return 0;
+      const f = v => { v /= 255; return v <= 0.03928 ? v / 12.92 : Math.pow((v + 0.055) / 1.055, 2.4); };
+      return 0.2126 * f(c[0]) + 0.7152 * f(c[1]) + 0.0722 * f(c[2]);
+    }
+    function contrastRatio(a, b) {
+      const la = relativeLuminance(a), lb = relativeLuminance(b);
+      const hi = Math.max(la, lb), lo = Math.min(la, lb);
+      return (hi + 0.05) / (lo + 0.05);
+    }
+    // Ink color (near-white vs near-black) that contrasts best on a given fill.
+    function bestTextColor(bg) {
+      return contrastRatio("#e8eaed", bg) >= contrastRatio("#0f172a", bg) ? "#e8eaed" : "#0f172a";
+    }
+
     function flattenPolygonRings(latlngs) {
       const rings = [];
       if (!latlngs || !latlngs.length) return rings;
@@ -6559,12 +6767,12 @@
       if (!selected.length) return null;
 
       const rec = getStateData(abbr);
-      const yd = yearMetrics(rec);
-      const metrics = selected.filter(k => hasMetricValue(yd[k]));
+      const fillColor = styleFeature(layer.feature).fillColor;
+      const metrics = selected.filter(k => hasMetricValue(metricValueForState(rec, k)));
       const showMetricNames = selected.length > 1;
       const valueTexts = metrics
         .map(k => {
-          const text = fmtDisplay(yd[k], k);
+          const text = fmtDisplay(metricValueForState(rec, k), k);
           return text ? formatMetricLine(k, text, showMetricNames) : null;
         })
         .filter(Boolean);
@@ -6597,6 +6805,7 @@
       const chartH = abbrLineH + valueTexts.length * valLineH + 2;
 
       return {
+        fillColor,
         metrics,
         showMetricNames,
         chartW,
@@ -6613,12 +6822,14 @@
     function buildMarkerHtml(abbr, layout) {
       const rec = getStateData(abbr);
       const yd = yearMetrics(rec);
+      const inkColor = bestTextColor(layout.fillColor);
       const rows = layout.metrics.map(k => {
-        const val = yd[k];
+        const val = metricValueForState(rec, k);
         const text = fmtDisplay(val, k);
         if (!text) return "";
         const line = formatMetricLine(k, text, layout.showMetricNames);
-        const color = METRIC_COLORS[k] || "#e8eaed";
+        const preferred = METRIC_COLORS[k] || "#e8eaed";
+        const color = contrastRatio(preferred, layout.fillColor) >= 4.5 ? preferred : inkColor;
         let tip = `${tMetric(k)}: ${text}`;
         if (k === "staff_count") {
           const src = yd.staff_count_source || rec?.staff_count_source;
@@ -6627,7 +6838,7 @@
         return `<div class="st-val" style="color:${color};font-size:${layout.valFs}px;line-height:${layout.valLineH}px;height:${layout.valLineH}px" title="${tip}">${line}</div>`;
       }).join("");
       return `<div class="st-wrap" style="width:${layout.chartW}px;height:${layout.chartH}px;opacity:${layout.opacity}">
-        <div class="st-abbr" style="font-size:${layout.abbrFs}px;line-height:${layout.abbrLineH}px;height:${layout.abbrLineH}px">${abbr}</div>
+        <div class="st-abbr" style="color:${inkColor};font-size:${layout.abbrFs}px;line-height:${layout.abbrLineH}px;height:${layout.abbrLineH}px">${abbr}</div>
         <div class="st-values">${rows}</div>
       </div>`;
     }
@@ -7410,7 +7621,7 @@
 
     function renderMetricOptions() {
       const container = document.getElementById("metric-options");
-      container.innerHTML = METRIC_KEYS.map(k => {
+      const optionHtml = k => {
         const checked = selectedMetrics.has(k);
         const color = METRIC_COLORS[k] || "#94a3b8";
         return `<label class="metric-option ${checked ? "checked" : ""}" data-key="${k}">
@@ -7418,6 +7629,13 @@
           <input type="radio" name="metric-option" value="${k}" ${checked ? "checked" : ""} />
           <span class="opt-label">${tMetric(k)}</span>
         </label>`;
+      };
+      container.innerHTML = METRIC_GROUPS.map(g => {
+        const items = g.metrics.map(optionHtml).join("");
+        return `<div class="metric-group">
+          <div class="metric-group-title">${t(g.key)}</div>
+          ${items}
+        </div>`;
       }).join("");
       fitMetricOptionLabels(container);
 
@@ -7936,6 +8154,13 @@
           closeReport,
           isReportOpen: () => reportOpen,
         });
+      }
+      if (window.hfaProgramActivity?.loadAllAggregates) {
+        try {
+          programActivityAggregate = await window.hfaProgramActivity.loadAllAggregates();
+        } catch (err) {
+          console.error("Program-activity aggregation failed:", err);
+        }
       }
       bootFromUrl(bootParams);
       renderFunFact(true);
