@@ -684,8 +684,6 @@
       letter-spacing: 0.02em;
       -webkit-font-smoothing: antialiased;
       text-shadow:
-        0 0 2px rgba(0, 0, 0, 0.85),
-        0 0 4px rgba(0, 0, 0, 0.65),
         1px 1px 0 rgba(0, 0, 0, 0.55),
         -1px -1px 0 rgba(0, 0, 0, 0.55);
       flex-shrink: 0;
@@ -709,8 +707,6 @@
       max-width: 100%;
       -webkit-font-smoothing: antialiased;
       text-shadow:
-        0 0 2px rgba(0, 0, 0, 0.85),
-        0 0 4px rgba(0, 0, 0, 0.65),
         1px 1px 0 rgba(0, 0, 0, 0.55),
         -1px -1px 0 rgba(0, 0, 0, 0.55);
     }
@@ -5995,7 +5991,7 @@
 
     const LINE_HEIGHT = 1.15;
     const LABEL_PAD = 0.14;
-    const MIN_LABEL_PX = 8;
+    const MIN_LABEL_PX = 10;
     const MAX_LABEL_PX = 18;
     const LABEL_SIZE_RATIO = 0.133;
     const LABEL_EXTENT_POWER = 0.58;
@@ -6715,7 +6711,6 @@
       const light = relativeLuminance(textColor) > 0.5;
       const c = light ? "rgba(0, 0, 0, 0.9)" : "rgba(255, 255, 255, 0.95)";
       return [
-        `0 0 1px ${c}`, `0 0 2px ${c}`,
         `1px 1px 0 ${c}`, `-1px -1px 0 ${c}`,
         `1px -1px 0 ${c}`, `-1px 1px 0 ${c}`,
         `1px 0 0 ${c}`, `-1px 0 0 ${c}`,
