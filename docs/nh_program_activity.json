@@ -1,0 +1,1091 @@
+{
+  "NH": {
+    "hfa_name": "New Hampshire Housing Finance Authority",
+    "hfa_abbr": "NH Housing",
+    "fiscal_year": "FY2025",
+    "source_title": "New Hampshire Housing Annual Report for Fiscal Year 2025 -- Multifamily, Homeownership and Assisted Housing sections",
+    "source_url": "https://www.nhhousing.org/wp-content/uploads/2026/06/NH-Housing-FY25-Annual-Report.pdf",
+    "source_file": "NH_NHHousing_AnnualReport_FY2025.pdf",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_housing",
+        "unit_type": "units",
+        "fy2025_actual": 1915,
+        "fy2025_source_quote": "\"1,915 MULTIFAMILY HOUSING UNITS IN FY25\" ... \"1,636 GENERAL OCCUPANCY UNITS\" ... \"184 AGE-RESTRICTED UNITS\" ... \"95 SUPPORTIVE HOUSING UNITS\" (Annual Report for Fiscal Year 2025, p.4), plus \"In FY 2025, the Multifamily Housing Division supported 20 projects across the state.\" The occupancy breakdown is a true partition (1,636 + 184 + 95 = 1,915) and is independently re-derived from the two project tables (p.7 Commitments & Under Construction: 20 developments / 1,193 units; p.8 Completed Developments: 15 developments / 722 units) -- 35 developments / 1,915 units total, which by occupancy type reconcile to exactly 1,636 general / 184 age-restricted / 95 supportive.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nhFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "general_occupancy",
+            "fy2025_units": 1636,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "age_restricted",
+            "fy2025_units": 184,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "supportive_housing",
+            "fy2025_units": 95,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_financing",
+        "unit_type": "units",
+        "fy2025_actual": 1152,
+        "fy2025_source_quote": "\"IN FY25, 15 PROJECTS WERE FUNDED WITH LIHTC RESULTING IN 1152 UNITS (NEW AND REHABILITATED)\" and \"WE PROVIDED $35.8 MILLION IN TAX-EXEMPT BOND FUNDING IN FY25\" (Annual Report for Fiscal Year 2025, p.5). The 15 LIHTC projects are exactly the 15 LIHTC rows in the p.7 Commitments table (5 x 9% LIHTC = 168 units + 10 x 4% LIHTC = 984 units = 1,152 units; the 9%/4% split is derived from the table's funding-source column and asserted against the printed combined 15/1,152). The other funding sources (AHF/HOME/HOME-ARP/HTF/InvestNH/ARPA/ERAP/Participation Loan/Construction/PBV) disclose no aggregate unit or dollar figure anywhere in the report, so their unit/amount fields are null (an honest taxonomy, not a fabricated number).",
+        "fy2025_amounts": [
+          {
+            "label_key": "nh_amt_tax_exempt_bonds",
+            "amount": 35800000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nhFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9",
+            "fy2025_units": 168,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4",
+            "fy2025_units": 984,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "texb",
+            "fy2025_units": null,
+            "fy2025_amount": 35800000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multi-family Bond Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "ahf",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (state Affordable Housing Fund pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (HOME pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "home_arp",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (HOME-ARP pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "htf",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (Housing Trust Fund pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "investnh",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (InvestNH ARPA SLFRF pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "arpa",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (ARPA pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "erap",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (Emergency Rental Assistance pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "participation_loan",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (participation lending)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "construction",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (construction financing)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "pbv",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal rental assistance programs (administered for HUD)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "single_family_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 1078,
+        "fy2025_source_quote": "\"Single-Family Mortgage Program: $348M TOTAL MORTGAGE LOANS, 1,078 MORTGAGE LOANS, 941 LOANS TO FIRST-TIME HOMEBUYERS\" (Annual Report for Fiscal Year 2025, p.9); \"we helped more than 1,078 households purchase a home in the last year.\" The 941 first-time-homebuyer loans are a SUBSET of the 1,078 total mortgage loans (first-time buyers are a sub-population of all borrowers), not a partition, so additive=False.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nh_amt_mortgage_loans",
+            "amount": 348000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nhFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_mortgages",
+            "fy2025_units": 1078,
+            "fy2025_amount": 348000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Bond Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "first_time_homebuyers",
+            "fy2025_units": 941,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Bond Programs (first-time subset)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "downpayment_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 584,
+        "fy2025_source_quote": "\"Downpayment Assistance (DPA) ... $5.4M TOTAL DPA IN FY25, 584 LOANS WITH DPA, $12.5K AVERAGE DPA PER HOMEOWNER\" (Annual Report for Fiscal Year 2025, p.9); \"we provided over $5.4 million in self-generated downpayment assistance.\" The 1st Generation Homebuyer Program \"assisted 51 new first-generation homeowners in FY25\" (p.10) and \"can be combined with other downpayment assistance programs\", so additive=False. NOTE: $5.4M / 584 = $9,247 per loan, which does not reconcile with the printed $12.5K average (and $12.5K x 584 = $7.3M); this source-internal inconsistency is documented here, not reconciled.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nh_amt_dpa",
+            "amount": 5400000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nhFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "dpa_loans",
+            "fy2025_units": 584,
+            "fy2025_amount": 5400000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (Home First DPA, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          },
+          {
+            "key": "first_generation",
+            "fy2025_units": 51,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "General Funds (1st Generation Homebuyer Program, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_choice_voucher",
+        "unit_type": "households",
+        "fy2025_actual": 4251,
+        "fy2025_source_quote": "\"4,251 HOUSING VOUCHER HOLDERS IN FY25\" / \"4,251 VOUCHERS ALLOCATED TO NH HOUSING AND ISSUED TO HOUSEHOLDS\" and \"$58M PROVIDED IN RENTAL ASSISTANCE\" (Annual Report for Fiscal Year 2025, p.12). This is the persistent per-household Section 8/HCV operating rental subsidy -- a categorically different population from the one-time multifamily capital programs, kept as its own category per this project's rental-assistance convention.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nh_amt_rental_assistance",
+            "amount": 58000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nhFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "vouchers",
+            "fy2025_units": 4251,
+            "fy2025_amount": 58000000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal rental assistance programs (administered for HUD)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nhFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "106-roxbury-street",
+        "name": "106 Roxbury Street",
+        "address": null,
+        "city": "Keene",
+        "lat": 42.9336,
+        "lon": -72.27843,
+        "units": 16,
+        "funding_sources": [
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "6-south-state-street",
+        "name": "6 South State Street",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 8,
+        "funding_sources": [
+          "construction",
+          "ahf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "avery-lane-apartments-phase-i",
+        "name": "Avery Lane Apartments Phase I",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "investnh"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "avery-lane-apartments-phase-ii",
+        "name": "Avery Lane Apartments Phase II",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 63,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "home_arp",
+          "ahf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "concord-and-royal-gardens",
+        "name": "Concord & Royal Gardens",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 300,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "ernie-clark-senior-housing",
+        "name": "Ernie Clark Senior Housing",
+        "address": null,
+        "city": "Newmarket",
+        "lat": 43.07962,
+        "lon": -70.93578,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "home",
+          "htf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "harriman-hill-phase-iii",
+        "name": "Harriman Hill Phase III",
+        "address": null,
+        "city": "Wolfeboro",
+        "lat": 43.60938,
+        "lon": -71.17487,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "ahf",
+          "investnh"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "haven-at-the-falls",
+        "name": "Haven at the Falls",
+        "address": null,
+        "city": "Dover",
+        "lat": 43.19811,
+        "lon": -70.87398,
+        "units": 6,
+        "funding_sources": [
+          "construction",
+          "participation_loan",
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "jameson-street-apartments",
+        "name": "Jameson Street Apartments",
+        "address": null,
+        "city": "Laconia",
+        "lat": 43.52785,
+        "lon": -71.47035,
+        "units": 3,
+        "funding_sources": [
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maynard-homes-redevelopment-phase-i-4pct",
+        "name": "Maynard Homes Redevelopment Phase I 4%",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 133,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "home_arp",
+          "investnh",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "maynard-homes-redevelopment-phase-i-9pct",
+        "name": "Maynard Homes Redevelopment Phase I 9%",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mcintosh-west-apartments",
+        "name": "McIntosh West Apartments",
+        "address": null,
+        "city": "Dover",
+        "lat": 43.19811,
+        "lon": -70.87398,
+        "units": 78,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "province-street-apartments",
+        "name": "Province Street Apartments",
+        "address": null,
+        "city": "Laconia",
+        "lat": 43.52785,
+        "lon": -71.47035,
+        "units": 90,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "home_arp",
+          "htf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "redberry-farm-apartments-phase-ii",
+        "name": "Redberry Farm Apartments Phase II",
+        "address": null,
+        "city": "Epping",
+        "lat": 43.04712,
+        "lon": -71.07584,
+        "units": 8,
+        "funding_sources": [
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "roosevelt-east",
+        "name": "Roosevelt East",
+        "address": null,
+        "city": "Keene",
+        "lat": 42.9336,
+        "lon": -72.27843,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "htf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "roosevelt-west",
+        "name": "Roosevelt West",
+        "address": null,
+        "city": "Keene",
+        "lat": 42.9336,
+        "lon": -72.27843,
+        "units": 30,
+        "funding_sources": [
+          "texb",
+          "construction",
+          "lihtc_4",
+          "participation_loan"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-rapids-on-cocheco",
+        "name": "The Rapids on Cocheco",
+        "address": null,
+        "city": "Rochester",
+        "lat": 43.30508,
+        "lon": -70.9754,
+        "units": 52,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "home",
+          "htf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-residences-at-chestnut--4pct",
+        "name": "The Residences at Chestnut - 4%",
+        "address": null,
+        "city": "Manchester",
+        "lat": 42.99564,
+        "lon": -71.45479,
+        "units": 142,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "home",
+          "home_arp",
+          "erap",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "vose-farm-residences-phase-i",
+        "name": "Vose Farm Residences Phase I",
+        "address": null,
+        "city": "Peterborough",
+        "lat": 42.87762,
+        "lon": -71.94938,
+        "units": 64,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "home_arp",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "woodland-village-phase-ii",
+        "name": "Woodland Village Phase II",
+        "address": null,
+        "city": "Goffstown",
+        "lat": 43.02045,
+        "lon": -71.60026,
+        "units": 32,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "home",
+          "ahf",
+          "arpa"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bay-street-supportive-housing",
+        "name": "Bay Street Supportive Housing",
+        "address": null,
+        "city": "Laconia",
+        "lat": 43.52785,
+        "lon": -71.47035,
+        "units": 12,
+        "funding_sources": [
+          "ahf",
+          "htf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "coliseum-senior-residence-phase-iii",
+        "name": "Coliseum Senior Residence Phase III",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 133,
+        "funding_sources": [
+          "texb",
+          "lihtc_4"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "davis-ridge-fka-sheep-davis",
+        "name": "Davis Ridge (FKA Sheep Davis)",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 48,
+        "funding_sources": [
+          "lihtc_9",
+          "investnh"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "dexter-richards-and-sons-woolen-mill",
+        "name": "Dexter Richards & Sons Woolen Mill",
+        "address": null,
+        "city": "Newport",
+        "lat": 43.36534,
+        "lon": -72.19743,
+        "units": 70,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "investnh",
+          "home_arp",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "elms-farms-housing",
+        "name": "Elms Farms Housing",
+        "address": null,
+        "city": "Franklin",
+        "lat": 43.44424,
+        "lon": -71.6473,
+        "units": 29,
+        "funding_sources": [
+          "texb",
+          "construction",
+          "lihtc_4",
+          "participation_loan",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gafney-home",
+        "name": "Gafney Home",
+        "address": null,
+        "city": "Rochester",
+        "lat": 43.30508,
+        "lon": -70.9754,
+        "units": 21,
+        "funding_sources": [
+          "lihtc_9",
+          "home"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hillsborough-heights",
+        "name": "Hillsborough Heights",
+        "address": null,
+        "city": "Hillsborough",
+        "lat": 42.93734,
+        "lon": -71.75138,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9",
+          "construction",
+          "participation_loan"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "kingston-veterans-housing",
+        "name": "Kingston Veterans Housing",
+        "address": null,
+        "city": "Kingston",
+        "lat": 42.93648,
+        "lon": -71.05339,
+        "units": 6,
+        "funding_sources": [
+          "ahf",
+          "htf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pembroke-road-phase-i",
+        "name": "Pembroke Road Phase I",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 39,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "investnh"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pembroke-road-phase-ii",
+        "name": "Pembroke Road Phase II",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 84,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rail-yard-phase-i",
+        "name": "Rail Yard Phase I",
+        "address": null,
+        "city": "Concord",
+        "lat": 43.20718,
+        "lon": -71.53748,
+        "units": 96,
+        "funding_sources": [
+          "texb",
+          "lihtc_4",
+          "ahf",
+          "htf",
+          "pbv"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "redberry-farm-phase-i",
+        "name": "Redberry Farm Phase I",
+        "address": null,
+        "city": "Epping",
+        "lat": 43.04712,
+        "lon": -71.07584,
+        "units": 7,
+        "funding_sources": [
+          "ahf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "trust",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-apartments-at-249-main",
+        "name": "The Apartments at 249 Main",
+        "address": null,
+        "city": "Nashua",
+        "lat": 42.76563,
+        "lon": -71.4677,
+        "units": 45,
+        "funding_sources": [
+          "lihtc_9",
+          "home",
+          "htf"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "twin-bridge-apartments",
+        "name": "Twin Bridge Apartments",
+        "address": null,
+        "city": "Merrimack",
+        "lat": 43.32604,
+        "lon": -71.68547,
+        "units": 48,
+        "funding_sources": [
+          "texb",
+          "lihtc_4"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "woodland-phase-i",
+        "name": "Woodland Phase I",
+        "address": null,
+        "city": "Goffstown",
+        "lat": 43.02045,
+        "lon": -71.60026,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9",
+          "participation_loan",
+          "home",
+          "arpa"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

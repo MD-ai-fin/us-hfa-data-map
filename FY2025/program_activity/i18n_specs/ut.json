@@ -1,0 +1,77 @@
+{
+  "abbr": "UT",
+  "prefix": "ut",
+  "config": {
+    "file": "ut_program_activity.json",
+    "prefix": "ut",
+    "modalTitleKey": "utModalTitle",
+    "mapCenter": [39.5, -111.5],
+    "mapZoom": 6.5
+  },
+  "i18n": {
+    "zh": {
+      "utModalTitle": "犹他州 Utah Housing FY2025 项目活动（试点）",
+      "utCat_homeownership": "购房援助家庭",
+      "utCat_multifamily_lihtc": "多户住宅低收入住房税收抵免融资",
+      "utSub_fthb": "首次购房者援助",
+      "utSub_law_enforcement": "执法人员及惩教人员援助",
+      "utSub_veteran": "退伍军人补助金",
+      "utSub_lihtc": "联邦低收入住房税收抵免 (LIHTC)",
+      "utSub_stc": "州税收抵免",
+      "utSub_pab": "私人活动债券 (PAB)",
+      "ut_amt_purchase_loans": "首笔购房贷款",
+      "ut_amt_dpa": "首付援助",
+      "ut_amt_lihtc": "LIHTC 净收益",
+      "ut_amt_stc": "州税收抵免净收益",
+      "ut_amt_pab": "私人活动债券 (PAB)"
+    },
+    "en": {
+      "utModalTitle": "Utah Housing FY2025 Program Activity (Pilot)",
+      "utCat_homeownership": "Homeownership Households",
+      "utCat_multifamily_lihtc": "Multifamily LIHTC Financing",
+      "utSub_fthb": "First-Time Homebuyer Assistance",
+      "utSub_law_enforcement": "Law Enforcement & Correctional Officer Assistance",
+      "utSub_veteran": "Veteran Grant",
+      "utSub_lihtc": "Federal Low-Income Housing Tax Credit (LIHTC)",
+      "utSub_stc": "State Tax Credit",
+      "utSub_pab": "Private Activity Bonds (PAB)",
+      "ut_amt_purchase_loans": "First-Mortgage Purchase Loans",
+      "ut_amt_dpa": "Down Payment Assistance",
+      "ut_amt_lihtc": "LIHTC Net Proceeds",
+      "ut_amt_stc": "State Tax Credit Net Proceeds",
+      "ut_amt_pab": "Private Activity Bonds (PAB)"
+    },
+    "es": {
+      "utModalTitle": "Actividad del Programa de Utah Housing FY2025 (Piloto)",
+      "utCat_homeownership": "Hogares con préstamos para compra de vivienda",
+      "utCat_multifamily_lihtc": "Financiamiento Multifamiliar LIHTC",
+      "utSub_fthb": "Asistencia para Compradores de Primera Vivienda",
+      "utSub_law_enforcement": "Asistencia para Agentes de Seguridad y Personal Penitenciario",
+      "utSub_veteran": "Subvención para Veteranos",
+      "utSub_lihtc": "Crédito fiscal federal para vivienda de bajos ingresos (LIHTC)",
+      "utSub_stc": "Crédito Fiscal Estatal",
+      "utSub_pab": "Bonos de Actividad Privada (PAB)",
+      "ut_amt_purchase_loans": "Préstamos de primera hipoteca",
+      "ut_amt_dpa": "Asistencia para el Pago Inicial",
+      "ut_amt_lihtc": "Ingresos Netos LIHTC",
+      "ut_amt_stc": "Ingresos Netos del Crédito Fiscal Estatal",
+      "ut_amt_pab": "Bonos de Actividad Privada (PAB)"
+    },
+    "pl": {
+      "utModalTitle": "Działalność programowa Utah Housing FY2025 (Pilotaż)",
+      "utCat_homeownership": "Gospodarstwa domowe z kredytami na zakup domu",
+      "utCat_multifamily_lihtc": "Finansowanie wielorodzinne LIHTC",
+      "utSub_fthb": "Wsparcie dla kupujących pierwszą nieruchomość",
+      "utSub_law_enforcement": "Wsparcie dla funkcjonariuszy organów ścigania i służby więziennej",
+      "utSub_veteran": "Dotacja dla weteranów",
+      "utSub_lihtc": "Federalna ulga podatkowa na budownictwo mieszkaniowe (LIHTC)",
+      "utSub_stc": "Stanowa ulga podatkowa",
+      "utSub_pab": "Obligacje działalności prywatnej (PAB)",
+      "ut_amt_purchase_loans": "Pożyczki na pierwszą hipotekę",
+      "ut_amt_dpa": "Pomoc w spłacie zaliczki",
+      "ut_amt_lihtc": "Wpływy netto LIHTC",
+      "ut_amt_stc": "Wpływy netto stanowej ulgi podatkowej",
+      "ut_amt_pab": "Obligacje działalności prywatnej (PAB)"
+    }
+  }
+}

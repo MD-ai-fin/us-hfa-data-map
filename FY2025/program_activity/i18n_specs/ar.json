@@ -1,0 +1,53 @@
+{
+  "abbr": "AR",
+  "prefix": "ar",
+  "config": {
+    "file": "ar_program_activity.json",
+    "prefix": "ar",
+    "modalTitleKey": "arModalTitle",
+    "mapCenter": [34.9, -92.3],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "arModalTitle": "阿肯色州 ADFA FY2025 项目活动（试点）",
+      "arCat_multifamily_lihtc": "多户住宅 9% LIHTC 奖项",
+      "arSub_lihtc": "联邦 9% LIHTC（10 年抵免）",
+      "arSub_home": "HOME 投资合作计划",
+      "arSub_nhtf": "国家住房信托基金 (NHTF)",
+      "ar_amt_lihtc": "9% LIHTC（10 年总额）",
+      "ar_amt_home": "HOME 金额",
+      "ar_amt_nhtf": "NHTF 金额"
+    },
+    "en": {
+      "arModalTitle": "Arkansas ADFA FY2025 Program Activity (Pilot)",
+      "arCat_multifamily_lihtc": "Multifamily 9% LIHTC Awards",
+      "arSub_lihtc": "Federal 9% LIHTC (10-year credit)",
+      "arSub_home": "HOME Investment Partnerships Program",
+      "arSub_nhtf": "National Housing Trust Fund (NHTF)",
+      "ar_amt_lihtc": "9% LIHTC (10-year total)",
+      "ar_amt_home": "HOME Amount",
+      "ar_amt_nhtf": "NHTF Amount"
+    },
+    "es": {
+      "arModalTitle": "Actividad del Programa de ADFA de Arkansas FY2025 (Piloto)",
+      "arCat_multifamily_lihtc": "Adjudicaciones multifamiliares LIHTC 9%",
+      "arSub_lihtc": "LIHTC federal 9% (crédito a 10 años)",
+      "arSub_home": "Programa de Asociaciones de Inversión HOME",
+      "arSub_nhtf": "Fondo Fiduciario Nacional de Vivienda (NHTF)",
+      "ar_amt_lihtc": "LIHTC 9% (total a 10 años)",
+      "ar_amt_home": "Monto de HOME",
+      "ar_amt_nhtf": "Monto de NHTF"
+    },
+    "pl": {
+      "arModalTitle": "Działalność programowa ADFA w Arkansas FY2025 (Pilotaż)",
+      "arCat_multifamily_lihtc": "Wielorodzinne dotacje LIHTC 9%",
+      "arSub_lihtc": "Federalna 9% ulga LIHTC (kredyt 10-letni)",
+      "arSub_home": "Program partnerstw inwestycyjnych HOME",
+      "arSub_nhtf": "Krajowy Fundusz Powierniczy na Budownictwo Mieszkaniowe (NHTF)",
+      "ar_amt_lihtc": "LIHTC 9% (łącznie za 10 lat)",
+      "ar_amt_home": "Kwota HOME",
+      "ar_amt_nhtf": "Kwota NHTF"
+    }
+  }
+}

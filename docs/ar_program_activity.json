@@ -1,0 +1,298 @@
+{
+  "AR": {
+    "hfa_name": "Arkansas Development Finance Authority",
+    "hfa_abbr": "ADFA",
+    "fiscal_year": "FY2025",
+    "source_title": "ADFA 2025 Affordable Housing Tax Credit Developments announcement (9% LIHTC award round)",
+    "source_url": "https://adfa.arkansas.gov/arkansas-development-finance-authority-announces-2025-affordable-housing-tax-credit-developments/",
+    "source_file": "AR_ADFA_LIHTC_2025_announcement.html",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 524,
+        "fy2025_source_quote": "\"LITTLE ROCK, Ark. — The Arkansas Development Finance Authority announced today that it will award $104,962,000 in federal 9% Low-Income Housing Tax Credits (LIHTC) to 10 multifamily housing developments across Arkansas. The 2025 awards are expected to generate about $84.5 million in equity from private investors and support the development of 524 affordable rental units. Approximate total development cost is $110 million.\" (ADFA \"2025 Affordable Housing Tax Credit Developments\" announcement, July 30, 2025). The $104,962,000 LIHTC figure is a 10-YEAR TOTAL: the announcement's own per-development list prints ANNUAL \"LIHTC (Federal)\" credits that sum to $10,496,200, which is exactly $104,962,000 ÷ 10. The list (\"2025 Arkansas Low-Income Housing Tax Credit Awardees\") has 10 rows; its own \"Total Units\" column sums to 527, which does NOT reconcile with the headline's \"524 affordable rental units\" (a 3-unit discrepancy the source never explains -- both figures reproduced verbatim, neither adjusted). Summed per-project HOME = $10,652,209 and NHTF = $3,428,631 (neither stated as a headline total, so each is this script's own column sum). Summed per-project Total Development Cost = $108,372,137, consistent with the headline's \"approximate total development cost $110 million.\"",
+        "fy2025_amounts": [
+          {
+            "label_key": "ar_amt_lihtc",
+            "amount": 104962000
+          },
+          {
+            "label_key": "ar_amt_home",
+            "amount": 10652209
+          },
+          {
+            "label_key": "ar_amt_nhtf",
+            "amount": 3428631
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "arFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 527,
+            "fy2025_amount": 104962000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "arFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": 285,
+            "fy2025_amount": 10652209,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Programs (HOME Investment Partnerships Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "arFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": 245,
+            "fy2025_amount": 3428631,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Programs (National Housing Trust Fund Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "arFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "avalon-at-clarksville",
+        "name": "Avalon at Clarksville",
+        "address": null,
+        "city": "Clarksville (Johnson County)",
+        "lat": 35.47131,
+        "lon": -93.46648,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1221000
+        },
+        "total_amount": 1221000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "avalon-at-hope",
+        "name": "Avalon at Hope",
+        "address": null,
+        "city": "Hope (Hempstead County)",
+        "lat": 33.66706,
+        "lon": -93.59157,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1221000
+        },
+        "total_amount": 1221000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "enclave-estates-at-batesville",
+        "name": "Enclave Estates at Batesville",
+        "address": null,
+        "city": "Batesville (Independence County)",
+        "lat": 35.77081,
+        "lon": -91.65311,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1221000
+        },
+        "total_amount": 1221000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "homes-at-willow-bend",
+        "name": "Homes at Willow Bend",
+        "address": null,
+        "city": "Fayetteville (Washington County)",
+        "lat": 36.06258,
+        "lon": -94.15743,
+        "units": 62,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1193500
+        },
+        "total_amount": 1193500,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mount-ida-housing",
+        "name": "Mount Ida Housing",
+        "address": null,
+        "city": "Mount Ida (Montgomery County)",
+        "lat": 34.55762,
+        "lon": -93.63264,
+        "units": 18,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc": 360800,
+          "home": 1125000,
+          "nhtf": 940000
+        },
+        "total_amount": 2425800,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pine-ridge-place",
+        "name": "Pine Ridge Place",
+        "address": null,
+        "city": "Little Rock (Pulaski County)",
+        "lat": 34.74651,
+        "lon": -92.28963,
+        "units": 61,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc": 1235300,
+          "home": 2000000,
+          "nhtf": 466486
+        },
+        "total_amount": 3701786,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "timber-ridge",
+        "name": "Timber Ridge",
+        "address": null,
+        "city": "Sheridan (Grant County)",
+        "lat": 34.3101,
+        "lon": -92.40135,
+        "units": 60,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc": 1201200,
+          "home": 1720000,
+          "nhtf": 1000000
+        },
+        "total_amount": 3921200,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "villas-at-spring-valley-senior",
+        "name": "Villas at Spring Valley (Senior)",
+        "address": null,
+        "city": "Cabot (Lonoke County)",
+        "lat": 34.97453,
+        "lon": -92.01653,
+        "units": 46,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc": 884400,
+          "home": 2000000,
+          "nhtf": 642645
+        },
+        "total_amount": 3527045,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "waystone-batesville-family",
+        "name": "Waystone Batesville Family",
+        "address": null,
+        "city": "Batesville (Independence County)",
+        "lat": 35.77081,
+        "lon": -91.65311,
+        "units": 60,
+        "funding_sources": [
+          "lihtc",
+          "home",
+          "nhtf"
+        ],
+        "source_amounts": {
+          "lihtc": 1188000,
+          "home": 2114431,
+          "nhtf": 379500
+        },
+        "total_amount": 3681931,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "waystone-batesville-senior",
+        "name": "Waystone Batesville Senior",
+        "address": null,
+        "city": "Batesville (Independence County)",
+        "lat": 35.77081,
+        "lon": -91.65311,
+        "units": 40,
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc": 770000,
+          "home": 1692778
+        },
+        "total_amount": 2462778,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

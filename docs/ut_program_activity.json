@@ -1,0 +1,624 @@
+{
+  "UT": {
+    "hfa_name": "Utah Housing Corporation",
+    "hfa_abbr": "Utah Housing",
+    "fiscal_year": "FY2025",
+    "source_title": "Utah Housing Corporation FY2025 Annual Report -- Homeownership, Multifamily LIHTC and Appendix B project list",
+    "source_url": "https://utahhousingcorp.org/about/2025-annual-report/",
+    "source_file": "UT_UtahHousing_AnnualReport_2025.pdf (+ UT_UtahHousing_AuditFS_2025.pdf for fund-type classification)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 3684,
+        "fy2025_source_quote": "\"Utah Housing's Direct Investment in Down Payment Assistance -- FY25, UHC invested nearly $53 million of its resources into down payment assistance and raised $1.44 billion in capital from all sources for the acquisition of single family first mortgages, helping 3,684 low- and moderate-income Utah families to buy their homes.\" (Annual Report, p.5) -- p.8 infographic: \"3,684 families assisted in achieving homeownership\" and \"$1.44 billion in loans funded\"; p.9: \"Down Payment Assistance funded in FY25 $52.7M\". p.9 also lists three named assistance sub-programs -- \"FTHB Assistance 1,244 loans funded, totaling $24,811,427\", \"Law Enforcement & Correctional Officer Assistance 158 loans funded, totaling $3,034,858\", \"Veteran Grant 213 grants funded, totaling $532,500\" -- which are a SUBSET of the 3,684 purchasers (most purchase loans close with no UHC-sourced assistance); their sum (1,615) is therefore smaller than the 3,684 headline. The source does not disclose whether any single household received more than one assistance type; the three are treated as distinct programs.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ut_amt_purchase_loans",
+            "amount": 1440000000
+          },
+          {
+            "label_key": "ut_amt_dpa",
+            "amount": 52700000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "utFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "fthb",
+            "fy2025_units": 1244,
+            "fy2025_amount": 24811427,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Operating Fund (down payment assistance designation)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          },
+          {
+            "key": "law_enforcement",
+            "fy2025_units": 158,
+            "fy2025_amount": 3034858,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Operating Fund (down payment assistance designation)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          },
+          {
+            "key": "veteran",
+            "fy2025_units": 213,
+            "fy2025_amount": 532500,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Operating Fund (down payment assistance designation)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 1666,
+        "fy2025_source_quote": "\"$303,177,309 total net proceeds from 4% and 9% federal tax credits awarded ... $196,335,000 in tax-exempt private activity bonds (PAB) issued ... $43,454,343 Total net proceeds from State Tax Credit awarded ... 1,666 affordable rental units financed.\" (Annual Report, p.12, \"Multifamily Finance & Development\"). Cross-checked against Appendix B (p.24): 23 project rows whose printed \"Totals\" row reads \"1,666\" units (footnote 1: counts only developments whose FEDERAL LIHTC award took place in FY2025), \"$33,424,483\" federal LIHTC (annual credits, footnote 2), \"$7,634,695\" state tax credit (annual credits, footnote 3), and \"$196,335,000\" bonds. NOTE the two LIHTC/STC measures: the subprogram dollar figures below use the report's headline NET PROCEEDS ($303,177,309 / $43,454,343, the p.12/p.24 'net proceeds (approx.)' figures), while each project's source_amounts below use Appendix B's per-project ANNUAL credit allocations ($33,424,483 / $7,634,695 column sums) -- a different, smaller measure (annual credit vs ~10-year net equity).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ut_amt_lihtc",
+            "amount": 303177309
+          },
+          {
+            "label_key": "ut_amt_stc",
+            "amount": 43454343
+          },
+          {
+            "label_key": "ut_amt_pab",
+            "amount": 196335000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "utFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 1666,
+            "fy2025_amount": 303177309,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          },
+          {
+            "key": "stc",
+            "fy2025_units": null,
+            "fy2025_amount": 43454343,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          },
+          {
+            "key": "pab",
+            "fy2025_units": null,
+            "fy2025_amount": 196335000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "utFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "valley-west-apartments",
+        "name": "Valley West Apartments",
+        "address": null,
+        "city": "Gunnison",
+        "lat": 39.15524,
+        "lon": -111.81826,
+        "units": 20,
+        "funding_sources": [
+          "stc"
+        ],
+        "source_amounts": {
+          "stc": 150000
+        },
+        "total_amount": 150000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "44-n-psh",
+        "name": "44 N PSH",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 67,
+        "funding_sources": [
+          "stc"
+        ],
+        "source_amounts": {
+          "stc": 260000
+        },
+        "total_amount": 260000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "iron-falcon-crown",
+        "name": "Iron Falcon CROWN",
+        "address": null,
+        "city": "Enoch",
+        "lat": 37.76451,
+        "lon": -113.04435,
+        "units": 9,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 327607
+        },
+        "total_amount": 327607,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "crown-at-pleasant-creek",
+        "name": "CROWN at Pleasant Creek",
+        "address": null,
+        "city": "Mt. Pleasant",
+        "lat": 39.53868,
+        "lon": -111.44681,
+        "units": 7,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 216207
+        },
+        "total_amount": 216207,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "amasa-apartments",
+        "name": "Amasa Apartments",
+        "address": null,
+        "city": "Moab",
+        "lat": 38.57381,
+        "lon": -109.54621,
+        "units": 50,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 1801816,
+          "stc": 700000
+        },
+        "total_amount": 2501816,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "fairmont-heights",
+        "name": "Fairmont Heights",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 55,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 2375000
+        },
+        "total_amount": 2375000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "switchpoint-fairpark",
+        "name": "Switchpoint Fairpark",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 76,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 963496,
+          "stc": 1000000
+        },
+        "total_amount": 1963496,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "saltair-lofts",
+        "name": "Saltair Lofts",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 68,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 2500000,
+          "stc": 1000000
+        },
+        "total_amount": 3500000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "dominguez-park-iii",
+        "name": "Dominguez Park III",
+        "address": null,
+        "city": "Millcreek",
+        "lat": 40.69929,
+        "lon": -111.85558,
+        "units": 60,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 1144762,
+          "stc": 350000
+        },
+        "total_amount": 1494762,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "sage-meadow-townhomes",
+        "name": "Sage Meadow Townhomes",
+        "address": null,
+        "city": "Fillmore",
+        "lat": 38.96881,
+        "lon": -112.32359,
+        "units": 39,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 1259292,
+          "stc": 474085
+        },
+        "total_amount": 1733377,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "promontory-place",
+        "name": "Promontory Place",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 175,
+        "funding_sources": [
+          "lihtc",
+          "stc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 3209014,
+          "stc": 700000,
+          "pab": 38500000
+        },
+        "total_amount": 42409014,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "latitude---2nd-south-apartments",
+        "name": "Latitude / 2nd South Apartments",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 104,
+        "funding_sources": [
+          "lihtc",
+          "stc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 1561374,
+          "stc": 575000,
+          "pab": 20000000
+        },
+        "total_amount": 22136374,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "liberty-ranch",
+        "name": "Liberty Ranch",
+        "address": null,
+        "city": "Park City",
+        "lat": 40.64609,
+        "lon": -111.498,
+        "units": 40,
+        "funding_sources": [
+          "lihtc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 675721,
+          "pab": 11000000
+        },
+        "total_amount": 11675721,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lotus-riverwalk-iii",
+        "name": "Lotus Riverwalk III",
+        "address": null,
+        "city": "Ogden",
+        "lat": 41.223,
+        "lon": -111.97384,
+        "units": 137,
+        "funding_sources": [
+          "lihtc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 2127408,
+          "pab": 24700000
+        },
+        "total_amount": 26827408,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "moda-griffin",
+        "name": "Moda Griffin",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 110,
+        "funding_sources": [
+          "lihtc",
+          "stc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 1715611,
+          "stc": 450000,
+          "pab": 21500000
+        },
+        "total_amount": 23665611,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "liberty-corner",
+        "name": "Liberty Corner",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 200,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 5327737,
+          "stc": 350000
+        },
+        "total_amount": 5677737,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "waymark-at-folsom-trail",
+        "name": "Waymark at Folsom Trail",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 108,
+        "funding_sources": [
+          "lihtc",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc": 2113030,
+          "stc": 350000
+        },
+        "total_amount": 2463030,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lotus-fluence",
+        "name": "Lotus Fluence",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 225,
+        "funding_sources": [
+          "lihtc",
+          "stc",
+          "pab"
+        ],
+        "source_amounts": {
+          "lihtc": 2836408,
+          "stc": 575610,
+          "pab": 32500000
+        },
+        "total_amount": 35912018,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "daybreak-affordable-phase-i",
+        "name": "Daybreak Affordable Phase I",
+        "address": null,
+        "city": "Daybreak",
+        "lat": 40.55307,
+        "lon": -112.00746,
+        "units": 203,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 3270000
+        },
+        "total_amount": 3270000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "alta-fairpark",
+        "name": "Alta Fairpark",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 147,
+        "funding_sources": [
+          "stc"
+        ],
+        "source_amounts": {
+          "stc": 700000
+        },
+        "total_amount": 700000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "silos-on-500",
+        "name": "Silos on 500",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 180,
+        "funding_sources": [
+          "pab"
+        ],
+        "source_amounts": {
+          "pab": 21335000
+        },
+        "total_amount": 21335000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "new-city-plaza",
+        "name": "New City Plaza",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 299,
+        "funding_sources": [
+          "pab"
+        ],
+        "source_amounts": {
+          "pab": 5500000
+        },
+        "total_amount": 5500000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "9ten-west",
+        "name": "9Ten West",
+        "address": null,
+        "city": "Salt Lake City",
+        "lat": 40.75962,
+        "lon": -111.8868,
+        "units": 175,
+        "funding_sources": [
+          "pab"
+        ],
+        "source_amounts": {
+          "pab": 21300000
+        },
+        "total_amount": 21300000,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}
