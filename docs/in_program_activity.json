@@ -1,0 +1,884 @@
+{
+  "IN": {
+    "hfa_name": "Indiana Housing and Community Development Authority",
+    "hfa_abbr": "IHCDA",
+    "fiscal_year": "CY2025",
+    "source_title": "IHCDA 2025 Annual Report",
+    "source_url": "https://www.in.gov/ihcda/files/2025-Annual-Report.pdf",
+    "source_file": "IN_IHCDA_AnnualReport_2025.pdf",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 4840,
+        "fy2025_source_quote": "\"In total, with state and federal tax credits, tax-exempt bond financing, and additional gap financing through HOME Funds, the National Housing Trust Fund, and the Development Fund, commitments of over $1.1 billion were made which will make possible the development of 41 projects, comprising 4,840 new or preserved units of housing.\" (2025 Annual Report, p.6) -- reconciled against the report's own 'Total 2025 Funding approvals' row (p.7): 41 projects, 4,840 units of housing, $1,106,244,457 from all IHCDA-administered sources, which this script reproduces two ways (tier subtotals and funding-source column sums) -- see verify_multifamily_dollars.",
+        "fy2025_amounts": [
+          {
+            "label_key": "in_amt_lihtc_total",
+            "amount": 1106244457
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "inFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9",
+            "fy2025_units": 1039,
+            "fy2025_amount": 252815580,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": "9% LIHTC credits (off-balance-sheet) + HOME/HTF/Development Fund gap (Program Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4_awhtc",
+            "fy2025_units": 731,
+            "fy2025_amount": 184440563,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": "4% LIHTC + AWHTC credits + conduit bonds (off-balance-sheet) + Development Fund gap (Program Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4_noncompetitive",
+            "fy2025_units": 3070,
+            "fy2025_amount": 668988314,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": "4% LIHTC credits + conduit bonds (off-balance-sheet) + Development Fund gap (Program Fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 3086,
+        "fy2025_source_quote": "\"In 2025, the Homeownership Program assisted 3,086 homebuyers with $33,383,037 in down-payment assistance which facilitated $583,345,844 in total borrowing.\" (2025 Annual Report, p.11). Down-payment assistance is the headline figure; total borrowing is the first-mortgage volume the DPA helped facilitate.",
+        "fy2025_amounts": [
+          {
+            "label_key": "in_amt_dpa",
+            "amount": 33383037
+          },
+          {
+            "label_key": "in_amt_total_borrowing",
+            "amount": 583345844
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "inFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homebuyer_dpa",
+            "fy2025_units": 3086,
+            "fy2025_amount": 33383037,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_choice_vouchers",
+        "unit_type": "households",
+        "fy2025_actual": 6514,
+        "fy2025_source_quote": "\"In 2025, IHCDA provided $46,711,763 in rental assistance to 6,514 households, including several special purpose vouchers: 376 Veterans Affairs Supportive Housing Vouchers, 408 Non-Elderly Disabled Vouchers, 37 Family Unification Program Vouchers, 25 Stability Vouchers, 108 Mainstream Vouchers.\" (2025 Annual Report, p.9). The special-purpose vouchers are a subset of the 6,514 (no per-type dollar split is disclosed), so they are quoted here rather than modeled as separate additive subprograms.",
+        "fy2025_amounts": [
+          {
+            "label_key": "in_amt_hcv_assistance",
+            "amount": 46711763
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "inFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hcv",
+            "fy2025_units": 6514,
+            "fy2025_amount": 46711763,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Program Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "liheap",
+        "unit_type": "households",
+        "fy2025_actual": 114594,
+        "fy2025_source_quote": "\"In 2025, funding from Health and Human Services in the amount of $49,249,453 was used to serve 114,594 Hoosier households.\" (2025 Annual Report, p.12).",
+        "fy2025_amounts": [
+          {
+            "label_key": "in_amt_liheap_funding",
+            "amount": 49249453
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "inFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "liheap",
+            "fy2025_units": 114594,
+            "fy2025_amount": 49249453,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Program Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "inFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "707-north-apartments",
+        "name": "707 North Apartments",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bluffton-senior-villas-ii-bsv-ii",
+        "name": "Bluffton Senior Villas II (BSV II)",
+        "address": null,
+        "city": "Bluffton",
+        "lat": 40.73866,
+        "lon": -85.17164,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "burnett-manor",
+        "name": "Burnett Manor",
+        "address": null,
+        "city": "Rockville",
+        "lat": 39.76254,
+        "lon": -87.22918,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "country-acres",
+        "name": "Country Acres",
+        "address": null,
+        "city": "La Porte",
+        "lat": 41.6106,
+        "lon": -86.72252,
+        "units": 100,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "donald-and-main-apartments",
+        "name": "Donald & Main Apartments",
+        "address": null,
+        "city": "South Bend",
+        "lat": 41.68338,
+        "lon": -86.25001,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "durbin-plaza-senior",
+        "name": "Durbin Plaza Senior",
+        "address": null,
+        "city": "Lawrenceburg",
+        "lat": 39.09089,
+        "lon": -84.84995,
+        "units": 52,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "frankfort-fields",
+        "name": "Frankfort Fields",
+        "address": null,
+        "city": "Frankfort",
+        "lat": 40.27977,
+        "lon": -86.51082,
+        "units": 38,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gc-horizons",
+        "name": "GC Horizons",
+        "address": null,
+        "city": "Plymouth",
+        "lat": 41.34366,
+        "lon": -86.30973,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "historic-jeff-centre",
+        "name": "Historic Jeff Centre",
+        "address": null,
+        "city": "Lafayette",
+        "lat": 40.41912,
+        "lon": -86.8919,
+        "units": 74,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "jackson-square",
+        "name": "Jackson Square",
+        "address": null,
+        "city": "Lebanon",
+        "lat": 40.04837,
+        "lon": -86.46917,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "providence-ridge",
+        "name": "Providence Ridge",
+        "address": null,
+        "city": "Greenwood",
+        "lat": 39.6137,
+        "lon": -86.10954,
+        "units": 41,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "ritchey-woods",
+        "name": "Ritchey Woods",
+        "address": null,
+        "city": "Fishers",
+        "lat": 39.95559,
+        "lon": -86.01387,
+        "units": 65,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "river-city-homes",
+        "name": "River City Homes",
+        "address": null,
+        "city": "Evansville",
+        "lat": 37.97049,
+        "lon": -87.57156,
+        "units": 43,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tanners-creek-manor",
+        "name": "Tanners Creek Manor",
+        "address": null,
+        "city": "Lawrenceburg",
+        "lat": 39.09089,
+        "lon": -84.84995,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-branches",
+        "name": "The Branches",
+        "address": null,
+        "city": "Hobart",
+        "lat": 41.53226,
+        "lon": -87.25504,
+        "units": 36,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "towne-village-apartments",
+        "name": "Towne Village Apartments",
+        "address": null,
+        "city": "Ligonier",
+        "lat": 41.46384,
+        "lon": -85.58753,
+        "units": 28,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "trafalgar-senior-apartments",
+        "name": "Trafalgar Senior Apartments",
+        "address": null,
+        "city": "Trafalgar",
+        "lat": 39.41616,
+        "lon": -86.15082,
+        "units": 46,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tri-day",
+        "name": "Tri Day",
+        "address": null,
+        "city": "South Bend",
+        "lat": 41.68338,
+        "lon": -86.25001,
+        "units": 42,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "village-premier-senior-phase",
+        "name": "Village Premier - Senior Phase",
+        "address": null,
+        "city": "Fort Wayne",
+        "lat": 41.07999,
+        "lon": -85.1386,
+        "units": 50,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "walters-biggs-rd",
+        "name": "Walters-Biggs RD",
+        "address": null,
+        "city": "Scattered",
+        "lat": 38.50828,
+        "lon": -85.76295,
+        "units": 78,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "west-park",
+        "name": "West Park",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 40,
+        "funding_sources": [
+          "lihtc_9"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "allens-place",
+        "name": "Allen's Place",
+        "address": null,
+        "city": "Clarksville",
+        "lat": 38.29678,
+        "lon": -85.76021,
+        "units": 150,
+        "funding_sources": [
+          "lihtc_4_awhtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "trinity-flats",
+        "name": "Trinity Flats",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 169,
+        "funding_sources": [
+          "lihtc_4_awhtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "heritage-trails",
+        "name": "Heritage Trails",
+        "address": null,
+        "city": "South Bend",
+        "lat": 41.68338,
+        "lon": -86.25001,
+        "units": 180,
+        "funding_sources": [
+          "lihtc_4_awhtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "crawford-door",
+        "name": "Crawford Door",
+        "address": null,
+        "city": "Evansville",
+        "lat": 37.97049,
+        "lon": -87.57156,
+        "units": 134,
+        "funding_sources": [
+          "lihtc_4_awhtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-crossing-at-trails-edge",
+        "name": "The Crossing at Trails Edge",
+        "address": null,
+        "city": "Muncie",
+        "lat": 40.19369,
+        "lon": -85.38653,
+        "units": 98,
+        "funding_sources": [
+          "lihtc_4_awhtc"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "new-albany-rad",
+        "name": "New Albany RAD",
+        "address": null,
+        "city": "New Albany",
+        "lat": 38.28562,
+        "lon": -85.82413,
+        "units": 125,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cambridge-square-of-beech-grove",
+        "name": "Cambridge Square of Beech Grove",
+        "address": null,
+        "city": "Beech Grove",
+        "lat": 39.72219,
+        "lon": -86.08942,
+        "units": 126,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "stadium-flats",
+        "name": "Stadium Flats",
+        "address": null,
+        "city": "South Bend",
+        "lat": 41.68338,
+        "lon": -86.25001,
+        "units": 92,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "beacon-heights",
+        "name": "Beacon Heights",
+        "address": null,
+        "city": "Fort Wayne",
+        "lat": 41.07999,
+        "lon": -85.1386,
+        "units": 100,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cambridge-square-of-greenwood",
+        "name": "Cambridge Square of Greenwood",
+        "address": null,
+        "city": "Greenwood",
+        "lat": 39.6137,
+        "lon": -86.10954,
+        "units": 186,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "garfield-towers",
+        "name": "Garfield Towers",
+        "address": null,
+        "city": "Terre Haute",
+        "lat": 39.4667,
+        "lon": -87.41391,
+        "units": 152,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "foulkes-village",
+        "name": "Foulkes Village",
+        "address": null,
+        "city": "Terre Haute",
+        "lat": 39.4667,
+        "lon": -87.41391,
+        "units": 97,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-grove-at-pleasant-run",
+        "name": "The Grove at Pleasant Run",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 160,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "oak-knoll-renaissance",
+        "name": "Oak Knoll Renaissance",
+        "address": null,
+        "city": "Gary",
+        "lat": 41.6021,
+        "lon": -87.33706,
+        "units": 256,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cambridge-square-north",
+        "name": "Cambridge Square North",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 380,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "stone-lake-apartments",
+        "name": "Stone Lake Apartments",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 236,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "karl-king-riverbend-tower",
+        "name": "Karl King Riverbend Tower",
+        "address": null,
+        "city": "South Bend",
+        "lat": 41.68338,
+        "lon": -86.25001,
+        "units": 219,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "eastfield-reserve",
+        "name": "Eastfield Reserve",
+        "address": null,
+        "city": "Evansville",
+        "lat": 37.97049,
+        "lon": -87.57156,
+        "units": 264,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "central-at-old-southside",
+        "name": "Central at Old Southside",
+        "address": null,
+        "city": "Indianapolis",
+        "lat": 39.76833,
+        "lon": -86.15835,
+        "units": 227,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "renaissance-towers",
+        "name": "Renaissance Towers",
+        "address": null,
+        "city": "Hammond",
+        "lat": 41.6174,
+        "lon": -87.52201,
+        "units": 450,
+        "funding_sources": [
+          "lihtc_4_noncompetitive"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

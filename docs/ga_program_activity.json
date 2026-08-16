@@ -1,0 +1,639 @@
+{
+  "GA": {
+    "hfa_name": "Georgia Department of Community Affairs (DCA)",
+    "hfa_abbr": "Georgia DCA",
+    "fiscal_year": "FY2025",
+    "source_title": "Georgia DCA 2025 Nine Percent Housing Credit Award list (9% LIHTC administered by the Georgia Department of Community Affairs, not GHFA)",
+    "source_url": "https://dca.georgia.gov/announcement/2025-09-25/dca-awards-37m-tax-credits",
+    "source_file": "GA_DCA_LIHTC_2025_announcement.html",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 1983,
+        "fy2025_source_quote": "\"Atlanta, Ga. (September 23, 2025) -- The Georgia Department of Community Affairs (DCA) is awarding $37,235,164 in Housing Tax Credits to construct or preserve 31 affordable housing developments across the state.\" ... \"These awards, part of the 2024-2025 Qualified Allocation Plan, are earmarked for 25 new construction properties and six rehabilitation properties. Twenty of these properties are designated for families, 10 exclusively house senior citizens, and one will focus on housing for persons with disabilities.\" ... \"Housing Tax Credit awards support statewide economic growth and will increase the number of affordable homes by 1,983 units.\" (DCA announcement, September 25, 2025, dca.georgia.gov). Cross-check against the announcement's own 31-row '2025 Nine Percent Housing Credit Award' table: the 'Annual Credit Allocation Reserved' column sums exactly to $37,235,164 (matching the headline), but the 'Total Units' column sums to 1,977 -- 6 fewer than the press release's own '1,983 units' sentence. The source prints no table-total row and does not reconcile the two unit figures, so the discrepancy is disclosed here rather than silently adjusted; the category headline keeps the press release's 1,983 while the per-project 'units' below (transcribed verbatim from the table) sum to 1,977.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ga_amt_lihtc",
+            "amount": 37235164
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "gaFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 1983,
+            "fy2025_amount": 37235164,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "gaFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "1700-drayton-st",
+        "name": "1700 Drayton St.",
+        "address": null,
+        "city": "Savannah",
+        "lat": 32.07901,
+        "lon": -81.09213,
+        "units": 41,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 903229
+        },
+        "total_amount": 903229,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "aberdeen-cottages",
+        "name": "Aberdeen Cottages",
+        "address": null,
+        "city": "Thomasville",
+        "lat": 30.83658,
+        "lon": -83.97878,
+        "units": 72,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "catoosa-senior",
+        "name": "Catoosa Senior",
+        "address": null,
+        "city": "Calhoun",
+        "lat": 34.50259,
+        "lon": -84.95105,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1052913
+        },
+        "total_amount": 1052913,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "chattooga-ridge",
+        "name": "Chattooga Ridge",
+        "address": null,
+        "city": "Trion",
+        "lat": 34.54397,
+        "lon": -85.31051,
+        "units": 44,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "classic-city-heights-apartments",
+        "name": "Classic City Heights Apartments",
+        "address": null,
+        "city": "Athens",
+        "lat": 33.95977,
+        "lon": -83.3764,
+        "units": 68,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cosmopolitan-village",
+        "name": "Cosmopolitan Village",
+        "address": null,
+        "city": "Atlanta",
+        "lat": 33.75447,
+        "lon": -84.38982,
+        "units": 70,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "edmund-doraville-ii",
+        "name": "Edmund Doraville II",
+        "address": null,
+        "city": "Doraville",
+        "lat": 33.89816,
+        "lon": -84.28326,
+        "units": 54,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1310000
+        },
+        "total_amount": 1310000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "edmund-gainesville",
+        "name": "Edmund Gainesville",
+        "address": null,
+        "city": "Gainesville",
+        "lat": 34.29788,
+        "lon": -83.82407,
+        "units": 64,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "evergreen",
+        "name": "Evergreen",
+        "address": null,
+        "city": "Marietta",
+        "lat": 33.95285,
+        "lon": -84.54961,
+        "units": 64,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1300000
+        },
+        "total_amount": 1300000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "folio-house",
+        "name": "Folio House",
+        "address": null,
+        "city": "Atlanta",
+        "lat": 33.75447,
+        "lon": -84.38982,
+        "units": 50,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "harding-court-senior",
+        "name": "Harding Court Senior",
+        "address": null,
+        "city": "Albany",
+        "lat": 31.57821,
+        "lon": -84.15568,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1258500
+        },
+        "total_amount": 1258500,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "john-graham-homes",
+        "name": "John Graham Homes",
+        "address": null,
+        "city": "Rome",
+        "lat": 34.25704,
+        "lon": -85.16467,
+        "units": 56,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1224848
+        },
+        "total_amount": 1224848,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lanier-gardens",
+        "name": "Lanier Gardens",
+        "address": null,
+        "city": "Athens",
+        "lat": 33.95977,
+        "lon": -83.3764,
+        "units": 150,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1270000
+        },
+        "total_amount": 1270000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "laurel-pointe",
+        "name": "Laurel Pointe",
+        "address": null,
+        "city": "Statesboro",
+        "lat": 32.44901,
+        "lon": -81.78329,
+        "units": 72,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1145000
+        },
+        "total_amount": 1145000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mcdonald-crossing",
+        "name": "McDonald Crossing",
+        "address": null,
+        "city": "Douglas",
+        "lat": 31.50881,
+        "lon": -82.84987,
+        "units": 48,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "moon-creek-phase-i",
+        "name": "Moon Creek Phase I",
+        "address": null,
+        "city": "Columbus",
+        "lat": 32.46107,
+        "lon": -84.98804,
+        "units": 90,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mountain-view-terrace",
+        "name": "Mountain View Terrace",
+        "address": null,
+        "city": "East Ellijay",
+        "lat": 34.68397,
+        "lon": -84.4727,
+        "units": 50,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "peaks-of-clayton",
+        "name": "Peaks of Clayton",
+        "address": null,
+        "city": "Clayton",
+        "lat": 34.87815,
+        "lon": -83.40099,
+        "units": 48,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pine-forest",
+        "name": "Pine Forest",
+        "address": null,
+        "city": "Cairo",
+        "lat": 30.87733,
+        "lon": -84.20794,
+        "units": 64,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 896008
+        },
+        "total_amount": 896008,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "residences-of-hope",
+        "name": "Residences of Hope",
+        "address": null,
+        "city": "Atlanta",
+        "lat": 33.75447,
+        "lon": -84.38982,
+        "units": 42,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1080000
+        },
+        "total_amount": 1080000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rha-redevelopment-phase-ii",
+        "name": "RHA Redevelopment Phase II",
+        "address": null,
+        "city": "Roswell",
+        "lat": 34.02332,
+        "lon": -84.36002,
+        "units": 102,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "sand-hills-estates",
+        "name": "Sand Hills Estates",
+        "address": null,
+        "city": "Augusta",
+        "lat": 33.47097,
+        "lon": -81.97484,
+        "units": 40,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1070805
+        },
+        "total_amount": 1070805,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "unity-mill",
+        "name": "Unity Mill",
+        "address": null,
+        "city": "LaGrange",
+        "lat": 33.03929,
+        "lon": -85.03133,
+        "units": 104,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "villages-at-meadowbrook-phase-2",
+        "name": "Villages at Meadowbrook Phase 2",
+        "address": null,
+        "city": "Augusta",
+        "lat": 33.47097,
+        "lon": -81.97484,
+        "units": 75,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1350000
+        },
+        "total_amount": 1350000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "vine-street-village",
+        "name": "Vine Street Village",
+        "address": null,
+        "city": "Waycross",
+        "lat": 31.21355,
+        "lon": -82.35402,
+        "units": 53,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wagon-works-phase-ii",
+        "name": "Wagon Works Phase II",
+        "address": null,
+        "city": "East Point",
+        "lat": 33.67955,
+        "lon": -84.43937,
+        "units": 40,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1300000
+        },
+        "total_amount": 1300000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "walnut-village",
+        "name": "Walnut Village",
+        "address": null,
+        "city": "Montezuma",
+        "lat": 32.2998,
+        "lon": -84.03016,
+        "units": 44,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1147600
+        },
+        "total_amount": 1147600,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "west-pine-residences-phase-iii",
+        "name": "West Pine Residences Phase III",
+        "address": null,
+        "city": "Sylvester",
+        "lat": 31.52617,
+        "lon": -83.8366,
+        "units": 48,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1115900
+        },
+        "total_amount": 1115900,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wildwood",
+        "name": "Wildwood",
+        "address": null,
+        "city": "Tifton",
+        "lat": 31.45497,
+        "lon": -83.51083,
+        "units": 88,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1102547
+        },
+        "total_amount": 1102547,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "willow-song-village",
+        "name": "Willow Song Village",
+        "address": null,
+        "city": "Cornelia",
+        "lat": 34.51149,
+        "lon": -83.52712,
+        "units": 60,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 1215000
+        },
+        "total_amount": 1215000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "windcliff-apartments",
+        "name": "Windcliff Apartments",
+        "address": null,
+        "city": "Gainesville",
+        "lat": 34.29788,
+        "lon": -83.82407,
+        "units": 56,
+        "funding_sources": [
+          "lihtc"
+        ],
+        "source_amounts": {
+          "lihtc": 752814
+        },
+        "total_amount": 752814,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

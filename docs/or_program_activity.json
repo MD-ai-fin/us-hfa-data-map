@@ -1,0 +1,1282 @@
+{
+  "OR": {
+    "hfa_name": "Oregon Housing and Community Services",
+    "hfa_abbr": "OHCS",
+    "fiscal_year": "CY2025",
+    "source_title": "OHCS CY2025 affordable-housing funding rounds (Housing Stability Council award packets, Jan-Dec 2025)",
+    "source_url": "https://apps.oregon.gov/oregon-newsroom/OR/OHCS/Posts/Post/oregon-housing-and-community-services-funds-the-creation-and-preservation-of-more-than-4800-affordable-homes-in-2025",
+    "source_file": "OR_OHCS_HSC_Packet_{Feb..Dec}2025.pdf (9 HSC meeting packets) + OHCS year-end and Aug/Sep round news releases",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "affordable_rental_housing",
+        "unit_type": "units",
+        "fy2025_actual": 4806,
+        "fy2025_source_quote": "\"Oregon Housing and Community Services funded the creation or preservation of 4,806 affordable rental homes statewide in 2025, a 50% increase from 2024 [3,208].\" (OHCS year-end news release, retrieved 2026-08-16) -- modeled as 11 Housing Stability Council funding rounds (Jan-Dec 2025) whose per-round project lists are transcribed from OHCS's own HSC meeting packets. Rounds are NOT additive to the headline: a few projects are re-listed across rounds (Barbur Apartments and Jamii Court in both a bond round and the September re-confirmation; Elm Park Apartments in January and April), and OHCS discloses no per-program partition of the 4,806. The deduplicated round sum reconciles to ~4,800 units, within 6 of the 4,806 headline (unit-count drift on individual projects between rounds, e.g. Barbur 149 vs 150, Rose Schnitzer 233 vs 235).",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "orFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "round_jan",
+            "fy2025_units": 108,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_feb",
+            "fy2025_units": 540,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_mar",
+            "fy2025_units": 112,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_apr",
+            "fy2025_units": 130,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_may",
+            "fy2025_units": 1105,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_jul",
+            "fy2025_units": 60,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_aug",
+            "fy2025_units": 740,
+            "fy2025_amount": 160000000,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_sep",
+            "fy2025_units": 925,
+            "fy2025_amount": 291000000,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_oct",
+            "fy2025_units": 340,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_nov",
+            "fy2025_units": 261,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          },
+          {
+            "key": "round_dec",
+            "fy2025_units": 479,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_development",
+        "unit_type": "units",
+        "fy2025_actual": 239,
+        "fy2025_source_quote": "\"In 2025, OHCS funded 239 permanently affordable homeownership units, expected to be completed by 2028.\" (Governor's Homeownership Month release, retrieved 2026-08-16). No dollar total for these 239 units is disclosed in the release, so none is shown.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "orFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "permanent_homeownership",
+            "fy2025_units": 239,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_flex_lending",
+        "unit_type": "households",
+        "fy2025_actual": 1000,
+        "fy2025_source_quote": "\"In 2025, OHCS's Flex Lending program helped nearly 1,000 households purchase a home ... 98 percent were first-time homebuyers.\" (Governor's Homeownership Month release, retrieved 2026-08-16). The release discloses no exact household count (only 'nearly 1,000') and no dollar total, so 1000 is recorded with the 'nearly' qualifier kept verbatim here and no amount is shown.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "orFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "flex_lending",
+            "fy2025_units": 1000,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "orFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "m-carter-commons",
+        "name": "M Carter Commons",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 62,
+        "funding_sources": [
+          "round_jan"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "elm-park-apartments",
+        "name": "Elm Park Apartments",
+        "address": null,
+        "city": "Florence",
+        "lat": 43.98001,
+        "lon": -124.10131,
+        "units": 32,
+        "funding_sources": [
+          "round_jan"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "shelly-cove-apartments",
+        "name": "Shelly Cove Apartments",
+        "address": null,
+        "city": "Port Orford",
+        "lat": 42.74567,
+        "lon": -124.49733,
+        "units": 14,
+        "funding_sources": [
+          "round_jan"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "barbur-apartments",
+        "name": "Barbur Apartments",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 150,
+        "funding_sources": [
+          "round_feb"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "peaceful-villa",
+        "name": "Peaceful Villa",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 166,
+        "funding_sources": [
+          "round_feb"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "orchard-park-apartments",
+        "name": "Orchard Park Apartments",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": 224,
+        "funding_sources": [
+          "round_feb"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "73foster",
+        "name": "73Foster",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 64,
+        "funding_sources": [
+          "round_mar"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "river-road-apartments",
+        "name": "River Road Apartments",
+        "address": null,
+        "city": "Eugene",
+        "lat": 44.05051,
+        "lon": -123.09505,
+        "units": 48,
+        "funding_sources": [
+          "round_mar"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mariposa-village",
+        "name": "Mariposa Village",
+        "address": null,
+        "city": "Hood River",
+        "lat": 45.53116,
+        "lon": -121.64756,
+        "units": 130,
+        "funding_sources": [
+          "round_apr"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "avenue-plaza",
+        "name": "Avenue Plaza",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 78,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "colorado-lake-cooperative",
+        "name": "Colorado Lake Cooperative",
+        "address": null,
+        "city": "Corvallis",
+        "lat": 44.56457,
+        "lon": -123.26204,
+        "units": 45,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "easton-village",
+        "name": "Easton Village",
+        "address": null,
+        "city": "Bend",
+        "lat": 44.05817,
+        "lon": -121.31531,
+        "units": 128,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "el-nido-apartments",
+        "name": "El Nido Apartments",
+        "address": null,
+        "city": "Clackamas",
+        "lat": 45.16088,
+        "lon": -122.2305,
+        "units": 55,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gresham-civic-station",
+        "name": "Gresham Civic Station",
+        "address": null,
+        "city": "Gresham",
+        "lat": 45.49786,
+        "lon": -122.43299,
+        "units": 60,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "jamii-court",
+        "name": "Jamii Court",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 96,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pacifica",
+        "name": "Pacifica",
+        "address": null,
+        "city": "Seaside",
+        "lat": 45.99325,
+        "lon": -123.92021,
+        "units": 69,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "park-place",
+        "name": "Park Place",
+        "address": null,
+        "city": "Oregon City",
+        "lat": 45.35734,
+        "lon": -122.60676,
+        "units": 200,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "park-run",
+        "name": "Park Run",
+        "address": null,
+        "city": "Eugene",
+        "lat": 44.05051,
+        "lon": -123.09505,
+        "units": 158,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "valley-vista",
+        "name": "Valley Vista",
+        "address": null,
+        "city": "McMinnville",
+        "lat": 45.21004,
+        "lon": -123.19446,
+        "units": 96,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "whiteaker-commons",
+        "name": "Whiteaker Commons",
+        "address": null,
+        "city": "Eugene",
+        "lat": 44.05051,
+        "lon": -123.09505,
+        "units": 120,
+        "funding_sources": [
+          "round_may"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "trinity-place",
+        "name": "Trinity Place",
+        "address": null,
+        "city": "Sisters",
+        "lat": 44.29095,
+        "lon": -121.54925,
+        "units": 40,
+        "funding_sources": [
+          "round_jul"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "ellensburg-apartments",
+        "name": "Ellensburg Apartments",
+        "address": null,
+        "city": "Gold Beach",
+        "lat": 42.40745,
+        "lon": -124.42174,
+        "units": 20,
+        "funding_sources": [
+          "round_jul"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rose-schnitzer-tower",
+        "name": "Rose Schnitzer Tower",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 235,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "farmdale-apartments",
+        "name": "Farmdale Apartments",
+        "address": null,
+        "city": "Woodburn",
+        "lat": 45.14373,
+        "lon": -122.85537,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "goose-hollow-lofts",
+        "name": "Goose Hollow Lofts",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hillside-park-buildings-d-and-e",
+        "name": "Hillside Park Buildings D & E",
+        "address": null,
+        "city": "Milwaukie",
+        "lat": 45.44401,
+        "lon": -122.64125,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "olalla-meadows",
+        "name": "Olalla Meadows",
+        "address": null,
+        "city": "Toledo",
+        "lat": 44.62169,
+        "lon": -123.9382,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "phoenix-corner",
+        "name": "Phoenix Corner",
+        "address": null,
+        "city": "Phoenix",
+        "lat": 42.27404,
+        "lon": -122.81533,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "retro-electro",
+        "name": "Retro Electro",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "sheridan-road-manufactured-home-community",
+        "name": "Sheridan Road Manufactured Home Community",
+        "address": null,
+        "city": "Sheridan",
+        "lat": 45.09928,
+        "lon": -123.39483,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-coleman",
+        "name": "The Coleman",
+        "address": null,
+        "city": "Eugene",
+        "lat": 44.05051,
+        "lon": -123.09505,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-lucy",
+        "name": "The Lucy",
+        "address": null,
+        "city": "Eugene",
+        "lat": 44.05051,
+        "lon": -123.09505,
+        "units": null,
+        "funding_sources": [
+          "round_aug"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "quarterdeck-apartments",
+        "name": "Quarterdeck Apartments",
+        "address": null,
+        "city": "Dallas",
+        "lat": 44.91892,
+        "lon": -123.31587,
+        "units": 34,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "allenwood-apartments",
+        "name": "Allenwood Apartments",
+        "address": null,
+        "city": "Grants Pass",
+        "lat": 42.43937,
+        "lon": -123.32725,
+        "units": 116,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "chenowith-affordable-housing",
+        "name": "Chenowith Affordable Housing",
+        "address": null,
+        "city": "The Dalles",
+        "lat": 45.60151,
+        "lon": -121.18416,
+        "units": 76,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "compass-points",
+        "name": "Compass Points",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": 120,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cottages-united",
+        "name": "Cottages United",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": 15,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gussie-belle-ii",
+        "name": "Gussie Belle II",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": 60,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "joseph-street-apartments",
+        "name": "Joseph Street Apartments",
+        "address": null,
+        "city": "Salem",
+        "lat": 44.93916,
+        "lon": -123.03312,
+        "units": 183,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "bull-mountain-apartments",
+        "name": "Bull Mountain Apartments",
+        "address": null,
+        "city": "Tigard",
+        "lat": 45.43075,
+        "lon": -122.77193,
+        "units": 74,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "meadowlark-place",
+        "name": "Meadowlark Place",
+        "address": null,
+        "city": "Beaverton",
+        "lat": 45.48717,
+        "lon": -122.80378,
+        "units": 104,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "flatworks-building",
+        "name": "Flatworks Building",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 143,
+        "funding_sources": [
+          "round_sep"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "333-oak",
+        "name": "333 Oak",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 90,
+        "funding_sources": [
+          "round_oct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "alyssa-daye-gardens",
+        "name": "Alyssa Daye Gardens",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 31,
+        "funding_sources": [
+          "round_oct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cascade-peaks",
+        "name": "Cascade Peaks",
+        "address": null,
+        "city": "Baker City",
+        "lat": 44.77487,
+        "lon": -117.83438,
+        "units": 119,
+        "funding_sources": [
+          "round_oct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "garfield-street",
+        "name": "Garfield Street",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 59,
+        "funding_sources": [
+          "round_oct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "wickiup-station-apartments-ii",
+        "name": "Wickiup Station Apartments II",
+        "address": null,
+        "city": "La Pine",
+        "lat": 43.6704,
+        "lon": -121.50364,
+        "units": 41,
+        "funding_sources": [
+          "round_oct"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "golden-rain-apartments",
+        "name": "Golden Rain Apartments",
+        "address": null,
+        "city": "Grants Pass",
+        "lat": 42.43937,
+        "lon": -123.32725,
+        "units": 38,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "green-family-housing",
+        "name": "Green Family Housing",
+        "address": null,
+        "city": "Green",
+        "lat": 43.15812,
+        "lon": -123.36987,
+        "units": 53,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "henry-street-apartments",
+        "name": "Henry Street Apartments",
+        "address": null,
+        "city": "Beaverton",
+        "lat": 45.48717,
+        "lon": -122.80378,
+        "units": 52,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "horizon-court",
+        "name": "Horizon Court",
+        "address": null,
+        "city": "Hermiston",
+        "lat": 45.84041,
+        "lon": -119.28946,
+        "units": 22,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mississippi-avenue-project",
+        "name": "Mississippi Avenue Project",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 30,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "ochoco-manor",
+        "name": "Ochoco Manor",
+        "address": null,
+        "city": "Prineville",
+        "lat": 44.30349,
+        "lon": -120.84639,
+        "units": 28,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "path-home-family-village",
+        "name": "Path Home Family Village",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 38,
+        "funding_sources": [
+          "round_nov"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "broadway-corridor",
+        "name": "Broadway Corridor",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 229,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "downtown-mcminnville-affordable-housing",
+        "name": "Downtown McMinnville Affordable Housing",
+        "address": null,
+        "city": "McMinnville",
+        "lat": 45.21004,
+        "lon": -123.19446,
+        "units": 72,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "metzger-park",
+        "name": "Metzger Park",
+        "address": null,
+        "city": "Tigard",
+        "lat": 45.43075,
+        "lon": -122.77193,
+        "units": 32,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "minnesota-places-ii",
+        "name": "Minnesota Places II",
+        "address": null,
+        "city": "Portland",
+        "lat": 45.52025,
+        "lon": -122.67419,
+        "units": 57,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "oak-terrace",
+        "name": "Oak Terrace",
+        "address": null,
+        "city": "Florence",
+        "lat": 43.98001,
+        "lon": -124.10131,
+        "units": 48,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pelicans-perch",
+        "name": "Pelican's Perch",
+        "address": null,
+        "city": "Brookings",
+        "lat": 42.05213,
+        "lon": -124.28329,
+        "units": 24,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "veteran-and-elder-village",
+        "name": "Veteran and Elder Village",
+        "address": null,
+        "city": "Pendleton",
+        "lat": 45.67207,
+        "lon": -118.7886,
+        "units": 17,
+        "funding_sources": [
+          "round_dec"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

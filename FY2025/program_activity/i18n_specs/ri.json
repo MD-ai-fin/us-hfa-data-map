@@ -1,0 +1,61 @@
+{
+  "abbr": "RI",
+  "prefix": "ri",
+  "config": {
+    "file": "ri_program_activity.json",
+    "prefix": "ri",
+    "modalTitleKey": "riModalTitle",
+    "mapCenter": [41.7, -71.5],
+    "mapZoom": 9
+  },
+  "i18n": {
+    "zh": {
+      "riModalTitle": "罗德岛州 RIHousing 2025年度项目活动（试点，日历年口径）",
+      "riCat_multifamily_financed": "多户住宅开发融资",
+      "riCat_placed_in_service": "投入使用单元",
+      "riSub_new_production": "新建",
+      "riSub_preservation": "保留",
+      "riSub_rental": "出租",
+      "riSub_homeownership": "自购",
+      "ri_amt_total_dev_cost": "总开发成本",
+      "ri_amt_rih_resources": "RIHousing 投入资源",
+      "ri_amt_pis_total_cost": "总开发成本（投入使用）"
+    },
+    "en": {
+      "riModalTitle": "Rhode Island RIHousing 2025 Program Activity (Pilot, Calendar Year)",
+      "riCat_multifamily_financed": "Multifamily Developments Financed",
+      "riCat_placed_in_service": "Units Placed in Service",
+      "riSub_new_production": "New Construction",
+      "riSub_preservation": "Preservation",
+      "riSub_rental": "Rental",
+      "riSub_homeownership": "Homeownership",
+      "ri_amt_total_dev_cost": "Total Development Cost",
+      "ri_amt_rih_resources": "RIHousing Resources Invested",
+      "ri_amt_pis_total_cost": "Total Development Cost (Placed in Service)"
+    },
+    "es": {
+      "riModalTitle": "Actividad del Programa de RIHousing de Rhode Island 2025 (Piloto, Año Calendario)",
+      "riCat_multifamily_financed": "Desarrollos Multifamiliares Financiados",
+      "riCat_placed_in_service": "Unidades Puestas en Servicio",
+      "riSub_new_production": "Nueva Construcción",
+      "riSub_preservation": "Preservación",
+      "riSub_rental": "Alquiler",
+      "riSub_homeownership": "Compra de Vivienda",
+      "ri_amt_total_dev_cost": "Costo Total de Desarrollo",
+      "ri_amt_rih_resources": "Recursos Invertidos por RIHousing",
+      "ri_amt_pis_total_cost": "Costo Total de Desarrollo (Puestas en Servicio)"
+    },
+    "pl": {
+      "riModalTitle": "Działalność programowa RIHousing Rhode Island za 2025 r. (Pilotaż, rok kalendarzowy)",
+      "riCat_multifamily_financed": "Sfinansowane Inwestycje Wielorodzinne",
+      "riCat_placed_in_service": "Jednostki Oddane do Użytku",
+      "riSub_new_production": "Nowe Budownictwo",
+      "riSub_preservation": "Zachowanie Zasobów",
+      "riSub_rental": "Wynajem",
+      "riSub_homeownership": "Własność Domu",
+      "ri_amt_total_dev_cost": "Całkowity Koszt Inwestycji",
+      "ri_amt_rih_resources": "Środki Zainwestowane przez RIHousing",
+      "ri_amt_pis_total_cost": "Całkowity Koszt Inwestycji (Oddane do Użytku)"
+    }
+  }
+}

@@ -100,6 +100,42 @@
       file: "nc_program_activity.json", prefix: "nc",
       modalTitleKey: "ncModalTitle", mapCenter: [35.5, -79.0], mapZoom: 7,
     },
+    UT: {
+      file: "ut_program_activity.json", prefix: "ut",
+      modalTitleKey: "utModalTitle", mapCenter: [39.5, -111.5], mapZoom: 6.5,
+    },
+    AZ: {
+      file: "az_program_activity.json", prefix: "az",
+      modalTitleKey: "azModalTitle", mapCenter: [34.3, -111.7], mapZoom: 6.5,
+    },
+    NH: {
+      file: "nh_program_activity.json", prefix: "nh",
+      modalTitleKey: "nhModalTitle", mapCenter: [43.7, -71.6], mapZoom: 7,
+    },
+    OR: {
+      file: "or_program_activity.json", prefix: "or",
+      modalTitleKey: "orModalTitle", mapCenter: [44.0, -120.5], mapZoom: 6.6,
+    },
+    RI: {
+      file: "ri_program_activity.json", prefix: "ri",
+      modalTitleKey: "riModalTitle", mapCenter: [41.7, -71.5], mapZoom: 9,
+    },
+    IN: {
+      file: "in_program_activity.json", prefix: "in",
+      modalTitleKey: "inModalTitle", mapCenter: [39.9, -86.2], mapZoom: 6.8,
+    },
+    ME: {
+      file: "me_program_activity.json", prefix: "me",
+      modalTitleKey: "meModalTitle", mapCenter: [45.25, -69.0], mapZoom: 6.5,
+    },
+    AR: {
+      file: "ar_program_activity.json", prefix: "ar",
+      modalTitleKey: "arModalTitle", mapCenter: [34.9, -92.3], mapZoom: 7,
+    },
+    GA: {
+      file: "ga_program_activity.json", prefix: "ga",
+      modalTitleKey: "gaModalTitle", mapCenter: [32.7, -83.4], mapZoom: 7,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
@@ -143,7 +179,7 @@
       { re: /homeown|homebuyer|single_family|downpayment|sonyma|covenant/, icon: "🏡", hex: "#22c55e" },
       { re: /repair|renew|rehab|counsel/, icon: "🔧", hex: "#f59e0b" },
       { re: /covid|emergency|foreclosure|homeless/, icon: "🆘", hex: "#f43f5e" },
-      { re: /weatheriz/, icon: "⚡", hex: "#eab308" },
+      { re: /weatheriz|energy|liheap/, icon: "⚡", hex: "#eab308" },
       { re: /lihtc|tax_credit|credit_award|hmmf|lmir|legislative_loan|mortgage/, icon: "🏦", hex: "#4ade80" },
       { re: /trust_fund|phare|grant|reach_virginia|federal_assistance|home_program/, icon: "💰", hex: "#fb923c" },
       // Ongoing rental assistance/vouchers/public-housing operating support
@@ -152,7 +188,7 @@
       // both keys happen to contain "rental" (e.g. TX's own
       // multifamily_rental_production vs. rental_assistance_community_affairs).
       { re: /rental_assistance|community_affairs|voucher|public_housing|section_?8|tbra|housing_stability/, icon: "🏘️", hex: "#a78bfa" },
-      { re: /multifamily|rental|units_completed|build_for|neighborhood|housing_solutions/, icon: "🏗️", hex: "#38bdf8" },
+      { re: /multifamily|rental|units_completed|placed_in_service|build_for|neighborhood|housing_solutions/, icon: "🏗️", hex: "#38bdf8" },
     ];
     function categoryIcon(key) {
       if (CATEGORY_ICON_OVERRIDE[key]) return CATEGORY_ICON_OVERRIDE[key];

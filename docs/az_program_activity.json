@@ -1,0 +1,854 @@
+{
+  "AZ": {
+    "hfa_name": "Arizona Department of Housing",
+    "hfa_abbr": "ADOH",
+    "fiscal_year": "FY2025",
+    "source_title": "ADOH FY2025 Annual Report + FY2025 LIHTC Reservation Commitments (A.R.S. 35-728(D))",
+    "source_url": "https://housing.az.gov/resources/2025-annual-report",
+    "source_file": "AZ_ADOH_AnnualReport_FY2025.pdf + AZ_ADOH_LIHTC_Projects_Report_FY2025.pdf + AZ_ADOH_HTF_MTHF_Report_FY2025.pdf",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_development",
+        "unit_type": "units",
+        "fy2025_actual": 5225,
+        "fy2025_source_quote": "\"In FY 2025, ADOH's Rental Development Program successfully funded many affordable housing communities statewide. ADOH committed $1.138 billion in tax credits and financing for the development or re-development of 5,225 rental units (5,223 with below market rents for lower income Arizonans). The breakdown is: $205 million awarded to 9 projects through the competitive 9% Low Income Housing Tax Credits (LIHTC) round, $890 million awarded to 25 projects through the non-competitive 4% LIHTC open application round, $30 million awarded through Arizona's State Tax Credit (STC) round, and $12.5 million awarded through Gap financing.\" (FY2025 Annual Report, Rental Programs: Development, p.5) -- the same page's chart splits the total into $74 Million committed to acquire/renovate 460 Existing Units + $1.064 Billion committed to construct 4,765 New Units = $1.138 Billion / 5,225 Rental Units. Executive Summary (p.3) gives the paired unit counts: 9% LIHTC $20.5M enabling 596 units, 4% LIHTC $89M enabling 4,629 units, State LIHTC $3M supporting 351 units, and a gap-financing NOFA supporting 742 units (Phoenix metro).",
+        "fy2025_amounts": [
+          {
+            "label_key": "az_amt_lihtc_9pct",
+            "amount": 205000000
+          },
+          {
+            "label_key": "az_amt_lihtc_4pct",
+            "amount": 890000000
+          },
+          {
+            "label_key": "az_amt_stc",
+            "amount": 30000000
+          },
+          {
+            "label_key": "az_amt_gap",
+            "amount": 12500000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "azFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 596,
+            "fy2025_amount": 205000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4pct",
+            "fy2025_units": 4629,
+            "fy2025_amount": 890000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          },
+          {
+            "key": "stc",
+            "fy2025_units": 351,
+            "fy2025_amount": 30000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          },
+          {
+            "key": "gap",
+            "fy2025_units": 742,
+            "fy2025_amount": 12500000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "State Housing Trust Fund (gap financing)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "hud_rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 8522,
+        "fy2025_source_quote": "\"In Fiscal Year 2025, ADOH administered more than $87 million in Federal funding from the U.S. Department of Housing and Urban Development (HUD) to provide housing assistance to help more than 8,500 low-income Arizonans cover the cost of their rental unit every month ... $87,721,158 in HUD housing assistance payments were used to aid 8,522 extremely low-income Arizonans.\" (FY2025 Annual Report, Rental Programs: HUD Housing Assistance, p.7). The Households Assisted commitment chart (p.17) splits those 8,522 households into Project-Based Section 8 = 8,194 + Section 8 Housing Choice Vouchers = 328, and the Dollar Commitments chart (p.15) into $86,063,223 (Project-Based) + $1,657,935 (HCV) = $87,721,158.",
+        "fy2025_amounts": [
+          {
+            "label_key": "az_amt_hud_assistance",
+            "amount": 87721158
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "azFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "section_8_pbra",
+            "fy2025_units": 8194,
+            "fy2025_amount": 86063223,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          },
+          {
+            "key": "section_8_hcv",
+            "fy2025_units": 328,
+            "fy2025_amount": 1657935,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 704,
+        "fy2025_source_quote": "\"In FY 2025, ADOH began administering a new program to increase homeownership across the state called Arizona is Home (AIH) ... The goal of AIH was to assist approximately 500 homebuyers statewide. That goal was exceeded. In FY 2025, AIH helped 704 first-time homebuyers close on a home with a total of $13,656,162 in financial assistance.\" (FY2025 Annual Report, Homebuyer Assistance, p.11). AIH was funded by $10+ million from the State Housing Trust Fund and $3+ million from an ARPA executive allocation.",
+        "fy2025_amounts": [
+          {
+            "label_key": "az_amt_aih",
+            "amount": 13656162
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "azFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "arizona_is_home",
+            "fy2025_units": 704,
+            "fy2025_amount": 13656162,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "State Housing Trust Fund + ARPA (Arizona is Home)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_rehabilitation",
+        "unit_type": "units",
+        "fy2025_actual": 1157,
+        "fy2025_source_quote": "\"ADOH awarded more than $14.5 million to renovate/repair 1,157 owner-occupied homes statewide in FY 2025. Federal funding sources and programs include: Community Development Block Grants (CDBG), HOME Investment Partnership Program (HOME), Weatherization Assistance Program (WAP), and Low Income Home Energy Assistance Program (LIHEAP) ... Of the total awarded, $8.9 million was in Weatherization Assistance Program (WAP) resources ... The investment empowered the WAP to complete more than 1,029 weatherization improvements ...\" (FY2025 Annual Report, Housing Rehabilitation and Repair Programs, p.8).",
+        "fy2025_amounts": [
+          {
+            "label_key": "az_amt_rehab",
+            "amount": 14500000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "azFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "owner_occupied_rehab",
+            "fy2025_units": 1157,
+            "fy2025_amount": 14500000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "azFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "amazon-flats",
+        "name": "Amazon Flats",
+        "address": "1135 W Miracle Mile",
+        "city": "Tucson",
+        "lat": 32.26045,
+        "lon": -110.98952,
+        "units": 59,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "casa-grande---phase-one-apartments",
+        "name": "Casa Grande - Phase One Apartments",
+        "address": "115 W Main Avenue & 202 S Top and Bottom Street",
+        "city": "Casa Grande",
+        "lat": 32.87728,
+        "lon": -111.75368,
+        "units": 64,
+        "funding_sources": [
+          "lihtc_9pct",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2000000,
+          "stc": 1000000
+        },
+        "total_amount": 3000000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "northern-commons-apartments",
+        "name": "Northern Commons Apartments",
+        "address": "2050 W. Northern Avenue",
+        "city": "Phoenix",
+        "lat": 33.55228,
+        "lon": -112.09963,
+        "units": 60,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "shasta-apartments",
+        "name": "Shasta Apartments",
+        "address": "855 West Prince Road",
+        "city": "Tucson",
+        "lat": 32.27191,
+        "lon": -111.01078,
+        "units": 100,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-granville",
+        "name": "The Granville",
+        "address": "4343 W Thomas Road",
+        "city": "Phoenix",
+        "lat": 33.47969,
+        "lon": -112.15427,
+        "units": 152,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "toka-homes-vii",
+        "name": "TOKA Homes VII",
+        "address": null,
+        "city": "Sells",
+        "lat": 31.92322,
+        "lon": -111.88293,
+        "units": 32,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "toka-homes-viii",
+        "name": "TOKA Homes VIII",
+        "address": "West of Su:Dagi Wo:g Street & S Mission Road",
+        "city": "Tucson",
+        "lat": 32.22288,
+        "lon": -110.97485,
+        "units": 12,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 1000000
+        },
+        "total_amount": 1000000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "vistara-iii",
+        "name": "Vistara III",
+        "address": "606 E. 18th Street",
+        "city": "Yuma",
+        "lat": 32.6944,
+        "lon": -114.68229,
+        "units": 80,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "yavapai-apache-homes-x",
+        "name": "Yavapai-Apache Homes X",
+        "address": "North of East Cherry Creek Road and Old Hwy 279",
+        "city": "Camp Verde",
+        "lat": 34.56364,
+        "lon": -111.85432,
+        "units": 37,
+        "funding_sources": [
+          "lihtc_9pct"
+        ],
+        "source_amounts": {
+          "lihtc_9pct": 2500000
+        },
+        "total_amount": 2500000,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "gunsmoke-ranch-apartments",
+        "name": "Gunsmoke Ranch Apartments",
+        "address": "SWC Honeycutt Rd & N Gunsmoke Rd",
+        "city": "Maricopa",
+        "lat": 33.60419,
+        "lon": -112.21723,
+        "units": 271,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 5593716
+        },
+        "total_amount": 5593716,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "memorial-towers",
+        "name": "Memorial Towers",
+        "address": "1405 South 7th Avenue",
+        "city": "Phoenix",
+        "lat": 33.4064,
+        "lon": -112.08195,
+        "units": 152,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2713355
+        },
+        "total_amount": 2713355,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-acacia-at-youngtown-phase-ii",
+        "name": "The Acacia at Youngtown Phase II",
+        "address": "W Peoria Ave & Nofs Dr",
+        "city": "Youngtown",
+        "lat": 33.57962,
+        "lon": -112.29905,
+        "units": 120,
+        "funding_sources": [
+          "lihtc_4pct",
+          "stc"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2000000,
+          "stc": 1000000
+        },
+        "total_amount": 3000000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "the-acacia-at-youngtown-phase-i",
+        "name": "The Acacia at Youngtown Phase I",
+        "address": "W Peoria Ave & Nofs Dr",
+        "city": "Youngtown",
+        "lat": 33.57962,
+        "lon": -112.29905,
+        "units": 192,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3603285
+        },
+        "total_amount": 3603285,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "saddleback-village-at-stonegate",
+        "name": "Saddleback Village at Stonegate",
+        "address": "Southwest Corner of Alan Stephens Pkwy & Stonegate Rd",
+        "city": "Maricopa",
+        "lat": 33.34883,
+        "lon": -112.49123,
+        "units": 215,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4634678
+        },
+        "total_amount": 4634678,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "jesse-owens-parkway",
+        "name": "Jesse Owens Parkway",
+        "address": "139 East Jesse Owens Parkway",
+        "city": "Phoenix",
+        "lat": 33.38101,
+        "lon": -112.06983,
+        "units": 236,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4049456
+        },
+        "total_amount": 4049456,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "emberwood-apartments",
+        "name": "Emberwood Apartments",
+        "address": "North Peart Road & Oneil Drive",
+        "city": "Casa Grande",
+        "lat": 32.90849,
+        "lon": -111.72253,
+        "units": 176,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2891689
+        },
+        "total_amount": 2891689,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "alma-apartments",
+        "name": "Alma Apartments",
+        "address": "North Peart Road & Oneil Drive",
+        "city": "Casa Grande",
+        "lat": 32.90849,
+        "lon": -111.72253,
+        "units": 216,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4183052
+        },
+        "total_amount": 4183052,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "virata-apartments",
+        "name": "Virata Apartments",
+        "address": "18146 N Alan Stephens Pkwy",
+        "city": "Maricopa",
+        "lat": 33.04918,
+        "lon": -112.02238,
+        "units": 216,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3904515
+        },
+        "total_amount": 3904515,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "calypso-at-ballpark-village",
+        "name": "Calypso at Ballpark Village",
+        "address": "NE Corner of W Yuma Rd and S Estrella Pkwy",
+        "city": "Goodyear",
+        "lat": 33.46723,
+        "lon": -112.38535,
+        "units": 203,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3750142
+        },
+        "total_amount": 3750142,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "glendale-apartments",
+        "name": "Glendale Apartments",
+        "address": "6819 27th St.",
+        "city": "Phoenix",
+        "lat": 33.53652,
+        "lon": -112.07181,
+        "units": 45,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 1004918
+        },
+        "total_amount": 1004918,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "fort-whipple-veterans-housing",
+        "name": "Fort Whipple Veterans Housing",
+        "address": "500 N State Route 89",
+        "city": "Prescott",
+        "lat": 34.73181,
+        "lon": -111.97872,
+        "units": 103,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 1909751
+        },
+        "total_amount": 1909751,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "tecoma-square",
+        "name": "Tecoma Square",
+        "address": "SEC E Bella Vista Road & N Gantzel Road",
+        "city": "San Tan Valley",
+        "lat": 33.17024,
+        "lon": -111.53224,
+        "units": 252,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4633890
+        },
+        "total_amount": 4633890,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "eloy-goy-housing",
+        "name": "Eloy Goy Housing",
+        "address": null,
+        "city": "Eloy",
+        "lat": 32.75517,
+        "lon": -111.55349,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 941178
+        },
+        "total_amount": 941178,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "butterfield-commons",
+        "name": "Butterfield Commons",
+        "address": "44235 Reinsman Blvd",
+        "city": "Maricopa",
+        "lat": 33.34883,
+        "lon": -112.49123,
+        "units": 174,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2825088
+        },
+        "total_amount": 2825088,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-villas-on-shelby",
+        "name": "The Villas on Shelby",
+        "address": "2250 Shelby Drive",
+        "city": "Sedona",
+        "lat": 34.85547,
+        "lon": -111.79966,
+        "units": 30,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 690454
+        },
+        "total_amount": 690454,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "townhomes-on-early",
+        "name": "Townhomes on Early",
+        "address": "1355 E Earley Road",
+        "city": "Casa Grande",
+        "lat": 32.86499,
+        "lon": -111.71422,
+        "units": 278,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 5782018
+        },
+        "total_amount": 5782018,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "emory-heights",
+        "name": "Emory Heights",
+        "address": "5245 and 5307 N 17th Avenue",
+        "city": "Phoenix",
+        "lat": 33.58204,
+        "lon": -112.09531,
+        "units": 62,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 1066816
+        },
+        "total_amount": 1066816,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "everstone-north",
+        "name": "Everstone North",
+        "address": "8211 N 63rd Ave",
+        "city": "Phoenix",
+        "lat": 33.44978,
+        "lon": -112.19519,
+        "units": 228,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4070848
+        },
+        "total_amount": 4070848,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "everstone-south",
+        "name": "Everstone South",
+        "address": "SE Corner of Baseline Rd & 63rd Ave",
+        "city": "Phoenix",
+        "lat": 33.44844,
+        "lon": -112.07414,
+        "units": 180,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3287993
+        },
+        "total_amount": 3287993,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "allasso-ranch",
+        "name": "Allasso Ranch",
+        "address": "SW Happy Valley Rd & 147th Ave",
+        "city": "Surprise",
+        "lat": 33.62925,
+        "lon": -112.36814,
+        "units": 304,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 6981889
+        },
+        "total_amount": 6981889,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "sidney-village",
+        "name": "Sidney Village",
+        "address": "SEC Yuma Rd & Apache Rd",
+        "city": "Buckeye",
+        "lat": 33.37032,
+        "lon": -112.58378,
+        "units": 200,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 4690038
+        },
+        "total_amount": 4690038,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "tanner-terrace",
+        "name": "Tanner Terrace",
+        "address": "7138 North 45th Ave",
+        "city": "Glendale",
+        "lat": 33.53999,
+        "lon": -112.15575,
+        "units": 156,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 2204269
+        },
+        "total_amount": 2204269,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "ok"
+      },
+      {
+        "id": "broadway-farms",
+        "name": "Broadway Farms",
+        "address": "NEC of S. 91st Ave and W. Broadway Rd.",
+        "city": "Phoenix",
+        "lat": 33.44844,
+        "lon": -112.07414,
+        "units": 190,
+        "funding_sources": [
+          "lihtc_4pct"
+        ],
+        "source_amounts": {
+          "lihtc_4pct": 3501479
+        },
+        "total_amount": 3501479,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

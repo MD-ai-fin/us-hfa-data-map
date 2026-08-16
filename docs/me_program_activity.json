@@ -1,0 +1,685 @@
+{
+  "ME": {
+    "hfa_name": "Maine State Housing Authority",
+    "hfa_abbr": "MaineHousing",
+    "fiscal_year": "FY2025",
+    "source_title": "MaineHousing 2025 Accomplishments (By the Numbers) + FY2025 rental award announcements (Rural / June / November)",
+    "source_url": "https://mainehousing.org/about/accomplishments",
+    "source_file": "ME_MaineHousing_Accomplishments_2025.html (+ ME_june_2025.html, ME_nov_2025.html, ME_MaineHousing_RuralAwardTable_2025.jpg)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 1274,
+        "fy2025_source_quote": "\"In 2025, our Homeownership Department, in partnership with financial institutions across the state, helped 1,274 buyers purchase a first home - including 92 veteran households and 256 First Generation Program borrowers.\" Accomplishments page stat block: \"$321,778,689 TOTAL LOANS\" / \"1,274 TOTAL LOANS\" / \"$252,574 AVERAGE MORTGAGE\". The 92 veteran and 256 First Generation households are SUBSETS of the 1,274 (not a partition), so the category carries a single additive subprogram for the headline total.",
+        "fy2025_amounts": [
+          {
+            "label_key": "me_amt_total_loans",
+            "amount": 321778689
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_home",
+            "fy2025_units": 1274,
+            "fy2025_amount": 321778689,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Mortgage Purchase Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_rental_awards",
+        "unit_type": "units",
+        "fy2025_actual": 577,
+        "fy2025_source_quote": "Three FY2025 rental award rounds, summed by this script to 20 developments / 577 units (no single source prints 577): (1) Rural Affordable Rental Housing Program, April 10, 2025 -- \"137 new rental apartment units in nine Maine communities\", \"$23.5 million in funding from the Rural Affordable Rental Housing Program\" plus \"$17.4 million in loans from MaineHousing\"; (2) urban state-subsidy round, June 17, 2025 -- \"awarded $13.4 million in state subsidies that will help create 129 new affordable rental homes in Lewiston and Portland\" (Martel II $5,400,000; Soleil I $5,400,000; Time and Temp Annex $2,593,908); (3) tax-credit round, Nov 21, 2025 -- \"the financing for 311 affordable apartments at eight development sites\", \"supported by $14.3 million in Federal and State affordable housing tax credits\". The Nov release independently re-states rounds 1-2 (\"$23.5 million to build 137 apartments ... through ... the Rural Affordable Rental Housing Program\"; \"$13.4 million to create 129 new apartments in Portland and Lewiston\"), the external cross-check for this category.",
+        "fy2025_amounts": [
+          {
+            "label_key": "me_amt_state_subsidy",
+            "amount": 36900000
+          },
+          {
+            "label_key": "me_amt_tax_credits",
+            "amount": 14300000
+          },
+          {
+            "label_key": "me_amt_rural_loans",
+            "amount": 17400000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rural_rental",
+            "fy2025_units": 137,
+            "fy2025_amount": 23500000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Other Federal and State Programs - Rural Affordable Rental Housing Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "state_subsidy",
+            "fy2025_units": 129,
+            "fy2025_amount": 13400000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "State rental development subsidy (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "tax_credit",
+            "fy2025_units": 311,
+            "fy2025_amount": 14300000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_production",
+        "unit_type": "units",
+        "fy2025_actual": 2253,
+        "fy2025_source_quote": "Accomplishments page \"DEVELOPING AFFORDABLE HOUSING\" stat blocks: \"21 Projects Completed / 656 Units Completed\" and \"34 Projects Under Construction/In Underwriting / 1,597 Units Under Construction/In Underwriting\". 2,253 = 656 + 1,597 is this script's own sum (the page prints no combined total). No name/city/unit breakdown is disclosed for these 55 projects, so this category has no bubble-map projects of its own -- distinct from the 20 award developments in multifamily_rental_awards (see module docstring).",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "completed",
+            "fy2025_units": 656,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "under_construction",
+            "fy2025_units": 1597,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance_hcv",
+        "unit_type": "households",
+        "fy2025_actual": 3525,
+        "fy2025_source_quote": "Accomplishments page \"rental programs\" stat block: \"3,525 AVG HOUSEHOLDS SERVED PER MONTH -- Housing Choice Vouchers Program\" (plus \"96 ACTIVE PARTICIPANTS -- ReStart/Family Self Sufficiency Program\"). This is an average monthly household count, not a construction total; no dollar figure is disclosed on the page.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "hcv",
+            "fy2025_units": 3525,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Section 8 Housing Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "energy_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 45345,
+        "fy2025_source_quote": "Accomplishments page \"heating assistance programs\" stat blocks: \"45,345 HOUSEHOLDS HELPED -- Home Energy Assistance Program (HEAP)\"; \"7,200 HOUSEHOLDS HELPED -- Energy Crisis Intervention Program (ECIP)\"; \"197 HOUSEHOLDS HELPED -- Central Heating Improvement Program (CHIP)\"; \"94 HOUSEHOLDS HELPED -- Heat Pump Program\". No dollar figure is disclosed for any of these on the page.",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "heap",
+            "fy2025_units": 45345,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Low Income Home Energy Assistance Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "ecip",
+            "fy2025_units": 7200,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Low Income Home Energy Assistance Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "chip",
+            "fy2025_units": 197,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Low Income Home Energy Assistance Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "heat_pump",
+            "fy2025_units": 94,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Low Income Home Energy Assistance Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "home_repair",
+        "unit_type": "households",
+        "fy2025_actual": 465,
+        "fy2025_source_quote": "Accomplishments page \"home repair programs\" stat blocks: \"236 HOUSEHOLDS HELPED -- Home Repair Program\"; \"125 HOUSEHOLDS HELPED -- Weatherization Program\"; \"90 HOUSEHOLDS HELPED -- Lead Hazard Repair Program\"; \"14 HOUSEHOLDS HELPED -- Well Water Abatement Program\". 465 = 236 + 125 + 90 + 14 is this script's own sum (the page prints no combined total). No dollar figure is disclosed for any of these on the page.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "meFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "home_repair_program",
+            "fy2025_units": 236,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Other Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "weatherization",
+            "fy2025_units": 125,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Other Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "lead_repair",
+            "fy2025_units": 90,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Other Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          },
+          {
+            "key": "well_water",
+            "fy2025_units": 14,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Other Federal and State Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "meFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "the-j-palmer-merrill-block",
+        "name": "The J Palmer Merrill Block",
+        "address": null,
+        "city": "Skowhegan",
+        "lat": 44.77815,
+        "lon": -69.7122,
+        "units": 5,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "36-cleaves-street",
+        "name": "36 Cleaves Street",
+        "address": null,
+        "city": "Yarmouth",
+        "lat": 43.80382,
+        "lon": -70.18858,
+        "units": 18,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rangeley-workforce-housing",
+        "name": "Rangeley Workforce Housing",
+        "address": null,
+        "city": "Rangeley",
+        "lat": 44.9659,
+        "lon": -70.65215,
+        "units": 18,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rocklands-project-greenhouse",
+        "name": "Rockland's Project Greenhouse",
+        "address": null,
+        "city": "Rockland",
+        "lat": 44.12388,
+        "lon": -69.13045,
+        "units": 12,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "poland-elderly-housing-development",
+        "name": "Poland Elderly Housing Development",
+        "address": null,
+        "city": "Poland",
+        "lat": 44.04811,
+        "lon": -70.39356,
+        "units": 18,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "clark-street",
+        "name": "Clark Street",
+        "address": null,
+        "city": "Thomaston",
+        "lat": 44.08187,
+        "lon": -69.17945,
+        "units": 16,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "55-weston-avenue-phase-ii",
+        "name": "55 Weston Avenue Phase II",
+        "address": null,
+        "city": "Madison",
+        "lat": 44.80779,
+        "lon": -69.85037,
+        "units": 18,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rosas-place",
+        "name": "Rosa's Place",
+        "address": null,
+        "city": "Brunswick",
+        "lat": 43.88745,
+        "lon": -69.94262,
+        "units": 14,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "ashers-village-apartments",
+        "name": "Asher's Village Apartments",
+        "address": null,
+        "city": "Winslow",
+        "lat": 44.55343,
+        "lon": -69.60845,
+        "units": 18,
+        "funding_sources": [
+          "rural_rental"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "martel-ii",
+        "name": "Martel II",
+        "address": null,
+        "city": "Lewiston",
+        "lat": 44.08951,
+        "lon": -70.17209,
+        "units": 44,
+        "funding_sources": [
+          "state_subsidy"
+        ],
+        "source_amounts": {
+          "state_subsidy": 5400000
+        },
+        "total_amount": 5400000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "soleil-i",
+        "name": "Soleil I",
+        "address": null,
+        "city": "Lewiston",
+        "lat": 44.08951,
+        "lon": -70.17209,
+        "units": 44,
+        "funding_sources": [
+          "state_subsidy"
+        ],
+        "source_amounts": {
+          "state_subsidy": 5400000
+        },
+        "total_amount": 5400000,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "time-and-temp-annex",
+        "name": "Time and Temp Annex",
+        "address": null,
+        "city": "Portland",
+        "lat": 43.63316,
+        "lon": -70.1853,
+        "units": 41,
+        "funding_sources": [
+          "state_subsidy"
+        ],
+        "source_amounts": {
+          "state_subsidy": 2593908
+        },
+        "total_amount": 2593908,
+        "primary_color_group": "capital",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "belfast-birches",
+        "name": "Belfast Birches",
+        "address": null,
+        "city": "Belfast",
+        "lat": 44.42587,
+        "lon": -69.02642,
+        "units": 24,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "quebec-commons",
+        "name": "Quebec Commons",
+        "address": null,
+        "city": "Biddeford",
+        "lat": 43.43873,
+        "lon": -70.39294,
+        "units": 45,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-rochambeau",
+        "name": "The Rochambeau",
+        "address": null,
+        "city": "Biddeford",
+        "lat": 43.43873,
+        "lon": -70.39294,
+        "units": 46,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "soleil-apartments-2",
+        "name": "Soleil Apartments 2",
+        "address": null,
+        "city": "Lewiston",
+        "lat": 44.08951,
+        "lon": -70.17209,
+        "units": 28,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-woodbury",
+        "name": "The Woodbury",
+        "address": null,
+        "city": "Portland",
+        "lat": 43.63316,
+        "lon": -70.1853,
+        "units": 51,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cumberland-housing",
+        "name": "Cumberland Housing",
+        "address": null,
+        "city": "Portland",
+        "lat": 43.63316,
+        "lon": -70.1853,
+        "units": 50,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "landry-heights",
+        "name": "Landry Heights",
+        "address": null,
+        "city": "South Portland",
+        "lat": 43.6314,
+        "lon": -70.28599,
+        "units": 38,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mclain-school-housing",
+        "name": "McLain School Housing",
+        "address": null,
+        "city": "Rockland",
+        "lat": 44.12388,
+        "lon": -69.13045,
+        "units": 29,
+        "funding_sources": [
+          "tax_credit"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}

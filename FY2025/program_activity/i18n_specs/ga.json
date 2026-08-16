@@ -1,0 +1,37 @@
+{
+  "abbr": "GA",
+  "prefix": "ga",
+  "config": {
+    "file": "ga_program_activity.json",
+    "prefix": "ga",
+    "modalTitleKey": "gaModalTitle",
+    "mapCenter": [32.7, -83.4],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "gaModalTitle": "佐治亚州 DCA FY2025 项目活动（试点）",
+      "gaCat_multifamily_lihtc": "多户住宅 9% 低收入住房税收抵免授奖",
+      "gaSub_lihtc": "9% 低收入住房税收抵免 (LIHTC)",
+      "ga_amt_lihtc": "LIHTC 抵免金额"
+    },
+    "en": {
+      "gaModalTitle": "Georgia DCA FY2025 Program Activity (Pilot)",
+      "gaCat_multifamily_lihtc": "Multifamily 9% LIHTC Awards",
+      "gaSub_lihtc": "9% Low-Income Housing Tax Credit (LIHTC)",
+      "ga_amt_lihtc": "LIHTC Credit Amount"
+    },
+    "es": {
+      "gaModalTitle": "Actividad del Programa de DCA de Georgia FY2025 (Piloto)",
+      "gaCat_multifamily_lihtc": "Adjudicaciones multifamiliares LIHTC al 9%",
+      "gaSub_lihtc": "Crédito fiscal para vivienda de bajos ingresos al 9% (LIHTC)",
+      "ga_amt_lihtc": "Monto del crédito LIHTC"
+    },
+    "pl": {
+      "gaModalTitle": "Działalność programowa DCA Georgii FY2025 (Pilotaż)",
+      "gaCat_multifamily_lihtc": "Dotacje wielorodzinne LIHTC 9%",
+      "gaSub_lihtc": "Ulga podatkowa na budownictwo mieszkaniowe 9% (LIHTC)",
+      "ga_amt_lihtc": "Kwota ulgi LIHTC"
+    }
+  }
+}

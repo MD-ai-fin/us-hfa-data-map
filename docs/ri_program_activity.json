@@ -1,0 +1,497 @@
+{
+  "RI": {
+    "hfa_name": "Rhode Island Housing and Mortgage Finance Corporation",
+    "hfa_abbr": "RIHousing",
+    "fiscal_year": "CY2025",
+    "source_title": "2026 Report on RIHousing Development Activity and 8% Tax",
+    "source_url": "https://www.rihousing.com/wp-content/uploads/2026/03/2026-8-Percent-Report-Final.pdf",
+    "source_file": "RI_RIHousing_8PercentReport_CY2025.pdf",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_financed",
+        "unit_type": "units",
+        "fy2025_actual": 1183,
+        "fy2025_source_quote": "\"In 2025, RIHousing provided financing for the development or preservation of 20 developments, containing 1,183 units. 871 of these units in 16 projects were new production and 312 units in 4 projects were preservation. These developments were in 8 different municipalities. Of these units, 665 will serve families, 118 will serve the elderly/disabled, and 106 will serve mixed populations.\" (2026 Report, p.1) -- table footer row: Total Development Cost $429,126,324.71, Units 1,183, Deed Restricted Units 901, RIH Resources Invested $254,554,721.68. Population note: the 665/118/106 split counts DEED-RESTRICTED units (665 family + 118 elderly + 106 mixed = 889, plus East Point's 12 deed-restricted-but-100%-AMI units = 901), not total units -- see docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ri_amt_total_dev_cost",
+            "amount": 429126324.71
+          },
+          {
+            "label_key": "ri_amt_rih_resources",
+            "amount": 254554721.68
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "riFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "new_production",
+            "fy2025_units": 871,
+            "fy2025_amount": 308999819.59,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multi-Family Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "riFy26NotePending"
+            }
+          },
+          {
+            "key": "preservation",
+            "fy2025_units": 312,
+            "fy2025_amount": 120126505.12,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multi-Family Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "riFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "placed_in_service",
+        "unit_type": "units",
+        "fy2025_actual": 1119,
+        "fy2025_source_quote": "\"Also in 2025, 1101 rental units, and 18 homeownership units in 20 RIHousing financed developments were placed in service. ... 373 preservation units were placed in service, and 746 new construction units were placed in service. These developments served a mix of populations with 595 units serving families, 348 serving the elderly, and 176 serving special needs populations.\" (2026 Report, p.1) -- table Grand Total row: Multi-Family Units 1,177, HO Units 32, Total Development Cost $351,080,164, Total Units 1,209, Deed Restricted Units 1,014, Units PIS 2025 1,119. Note: the $351.1M cost covers the full 1,209-unit cohort, while the 1,119 headline is the placed-in-service-in-2025 subset (three projects had partial-year placement).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ri_amt_pis_total_cost",
+            "amount": 351080164
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "riFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rental",
+            "fy2025_units": 1101,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multi-Family Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "riFy26NotePending"
+            }
+          },
+          {
+            "key": "homeownership",
+            "fy2025_units": 18,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "riFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "23-central-street",
+        "name": "23 Central Street",
+        "address": null,
+        "city": "Central Falls",
+        "lat": 41.887,
+        "lon": -71.3923,
+        "units": 12,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 5090575.0
+        },
+        "total_amount": 5090575.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "24-inkerman-street",
+        "name": "24 Inkerman Street",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 3,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 890431.0
+        },
+        "total_amount": 890431.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "42-washington-st-apartments",
+        "name": "42 Washington St Apartments",
+        "address": null,
+        "city": "Central Falls",
+        "lat": 41.887,
+        "lon": -71.3923,
+        "units": 3,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 1284680.0
+        },
+        "total_amount": 1284680.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "321-knight-st",
+        "name": "321 Knight St",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 41,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 21096194.05
+        },
+        "total_amount": 21096194.05,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "broad-street-homes",
+        "name": "Broad Street Homes",
+        "address": null,
+        "city": "Central Falls",
+        "lat": 41.887,
+        "lon": -71.3923,
+        "units": 46,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 26651396.0
+        },
+        "total_amount": 26651396.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "center-city-apartments",
+        "name": "Center City Apartments",
+        "address": null,
+        "city": "East Providence",
+        "lat": 41.8137,
+        "lon": -71.3701,
+        "units": 95,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 47476879.0
+        },
+        "total_amount": 47476879.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "crossroads-health-and-housing-371-pine",
+        "name": "Crossroads Health & Housing (371 Pine)",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 35,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 18880248.0
+        },
+        "total_amount": 18880248.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "east-point",
+        "name": "East Point",
+        "address": null,
+        "city": "East Providence",
+        "lat": 41.8137,
+        "lon": -71.3701,
+        "units": 50,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 13345000.0
+        },
+        "total_amount": 13345000.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "frontline-childcare-worker-residence",
+        "name": "Frontline Childcare Worker Residence",
+        "address": null,
+        "city": "Woonsocket",
+        "lat": 42.0029,
+        "lon": -71.5148,
+        "units": 4,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 600000.0
+        },
+        "total_amount": 600000.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-presley",
+        "name": "The Presley",
+        "address": null,
+        "city": "Warwick",
+        "lat": 41.7001,
+        "lon": -71.4162,
+        "units": 190,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 21679501.0
+        },
+        "total_amount": 21679501.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "jenks-park-residences",
+        "name": "Jenks Park Residences",
+        "address": null,
+        "city": "Central Falls",
+        "lat": 41.887,
+        "lon": -71.3923,
+        "units": 28,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 1601816.0
+        },
+        "total_amount": 1601816.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "lippitt-mill",
+        "name": "Lippitt Mill",
+        "address": null,
+        "city": "West Warwick",
+        "lat": 41.6969,
+        "lon": -71.5194,
+        "units": 71,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 23001994.11
+        },
+        "total_amount": 23001994.11,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "omni-newark",
+        "name": "Omni Newark",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 52,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 21836351.31
+        },
+        "total_amount": 21836351.31,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "park-holm-v",
+        "name": "Park Holm V",
+        "address": null,
+        "city": "Newport",
+        "lat": 41.4901,
+        "lon": -71.3128,
+        "units": 45,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 22357666.0
+        },
+        "total_amount": 22357666.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "the-village-at-manville",
+        "name": "The Village at Manville",
+        "address": null,
+        "city": "Lincoln",
+        "lat": 41.9212,
+        "lon": -71.435,
+        "units": 72,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 27270809.0
+        },
+        "total_amount": 27270809.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "walker-lofts",
+        "name": "Walker Lofts",
+        "address": null,
+        "city": "Lincoln",
+        "lat": 41.9212,
+        "lon": -71.435,
+        "units": 124,
+        "funding_sources": [
+          "new_production"
+        ],
+        "source_amounts": {
+          "new_production": 55936279.12
+        },
+        "total_amount": 55936279.12,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "hillside-village",
+        "name": "Hillside Village",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 42,
+        "funding_sources": [
+          "preservation"
+        ],
+        "source_amounts": {
+          "preservation": 27573644.52
+        },
+        "total_amount": 27573644.52,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mt-hope-court-apartments",
+        "name": "Mt. Hope Court Apartments",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 36,
+        "funding_sources": [
+          "preservation"
+        ],
+        "source_amounts": {
+          "preservation": 1855191.0
+        },
+        "total_amount": 1855191.0,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pocasset-manor",
+        "name": "Pocasset Manor",
+        "address": null,
+        "city": "Providence",
+        "lat": 41.824,
+        "lon": -71.4128,
+        "units": 82,
+        "funding_sources": [
+          "preservation"
+        ],
+        "source_amounts": {
+          "preservation": 33727565.82
+        },
+        "total_amount": 33727565.82,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "rock-ridge-apartments",
+        "name": "Rock Ridge Apartments",
+        "address": null,
+        "city": "Woonsocket",
+        "lat": 42.0029,
+        "lon": -71.5148,
+        "units": 152,
+        "funding_sources": [
+          "preservation"
+        ],
+        "source_amounts": {
+          "preservation": 56970103.78
+        },
+        "total_amount": 56970103.78,
+        "primary_color_group": "bond",
+        "overlaps": false,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}
