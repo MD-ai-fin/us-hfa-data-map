@@ -1,0 +1,74 @@
+{
+  "AL": {
+    "hfa_name": "Alabama Housing Finance Authority",
+    "hfa_abbr": "AHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "Alabama Housing Finance Authority 2025 Annual Report (Canva) -- Homeownership & Multifamily program KPIs",
+    "source_url": "https://ahfa.my.canva.site/annual-report-2025/",
+    "source_file": "AHFA 2025 Annual Report (Canva, ahfa.my.canva.site/annual-report-2025); local plain-text extraction archived at C:/Users/may_d/AppData/Local/Temp/al_body_clean.txt (verified 2026-08-16)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 2443,
+        "fy2025_source_quote": "\"Our programs turned 2,443 of our state’s households into homeowners.\" (AHFA 2025 Annual Report, Canva, opening paragraph -- \"FY2025 was a year of elevated performance...\"). The report's HOMEOWNERSHIP PROGRAMS section names the three programs behind this number: \"The First Step Mortgage Revenue Bond (MRB) program provides below-market fixed interest rates and up to $10,000 in down payment assistance... Our Step Up program is for buyers who can afford a mortgage but need extra lift for the down payment... The Affordable Income Subsidy Grant provides an additional boost for our lowest-income borrowers, helping them with closing costs when paired with the First Step or Step Up programs.\" The report does NOT split the 2,443 households across the three programs and discloses no FY2025 homeownership dollar-production total (\"up to $10,000\" is a per-borrower cap, not a total), so this is a single-subprogram category (subprogram = headline) with no dollar amount. The same-section cumulative line (\"Since inception... more than 90,000 Alabama families\") is excluded per the year-discipline rule.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "alFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "single_family_programs",
+            "fy2025_units": 2443,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Revenue Bond Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "alFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_development",
+        "unit_type": "units",
+        "fy2025_actual": 1353,
+        "fy2025_source_quote": "\"We also opened 1,353 units of much-needed multifamily housing for occupancy\" (AHFA 2025 Annual Report, Canva, opening paragraph). The same paragraph's \"and fueled the future construction and repair of 1,890 more\" is EXCLUDED -- the report's own word \"future\" marks it as a pipeline, not FY2025 realized output. The multifamily programs section names the five programs behind the 1,353 units: \"AHFA is Alabama's administrator of the federal HOME Investment Partnerships Program (HOME) and Low Income Housing Tax Credit (LIHTC) program... AHFA also administers Alabama's share of the National Housing Trust Fund (HTF)... AHFA issues Multifamily Housing Revenue Bonds... New this year is AHFA's administration of the Workforce Housing Tax Credit enacted by the Alabama Legislature in 2024.\" The report discloses NO per-program split of the 1,353 units and no FY2025 multifamily dollar-production total, so this is a single-subprogram category (subprogram = headline), no dollar amount. The same-section cumulative block (\"nearly $1.9 billion... 1,065 developments totaling 65,739 units. Another 87 developments, comprising 5,255 units, are in various stages of completion\") is lifetime + pipeline and is excluded.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "alFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_units_opened",
+            "fy2025_units": 1353,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "mixed",
+            "fund_name": "HOME + LIHTC + HTF + Multifamily Revenue Bonds + Workforce Housing Credit (aggregate; no per-program split disclosed)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "alFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

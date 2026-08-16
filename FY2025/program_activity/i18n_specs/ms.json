@@ -1,0 +1,48 @@
+{
+  "abbr": "MS",
+  "prefix": "ms",
+  "config": {
+    "file": "ms_program_activity.json",
+    "prefix": "ms",
+    "modalTitleKey": "msModalTitle",
+    "mapCenter": [
+      32.7,
+      -89.6
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "msModalTitle": "密西西比州 MHC FY2025 项目活动（试点）",
+      "msCat_single_family_loans": "单户家庭购房计划",
+      "msCat_multifamily_lihtc": "多户住宅低收入住房税收抵免 (LIHTC)",
+      "msSub_single_family_mrb": "单户家庭抵押贷款收益债券 (MRB)",
+      "msSub_lihtc_units": "LIHTC 单元",
+      "ms_amt_mrb": "抵押贷款收益债券发行额 (MRB)"
+    },
+    "en": {
+      "msModalTitle": "Mississippi MHC FY2025 Program Activity (Pilot)",
+      "msCat_single_family_loans": "Single-Family Homeownership Programs",
+      "msCat_multifamily_lihtc": "Multifamily Low-Income Housing Tax Credit (LIHTC)",
+      "msSub_single_family_mrb": "Single-Family Mortgage Revenue Bonds (MRB)",
+      "msSub_lihtc_units": "LIHTC Units",
+      "ms_amt_mrb": "Mortgage Revenue Bond Issuance"
+    },
+    "es": {
+      "msModalTitle": "Actividad del Programa de MHC de Misisipi FY2025 (Piloto)",
+      "msCat_single_family_loans": "Programas unifamiliares de compra de vivienda",
+      "msCat_multifamily_lihtc": "Crédito fiscal multifamiliar para vivienda de bajos ingresos (LIHTC)",
+      "msSub_single_family_mrb": "Bonos de ingresos hipotecarios unifamiliares (MRB)",
+      "msSub_lihtc_units": "Unidades LIHTC",
+      "ms_amt_mrb": "Emisión de bonos de ingresos hipotecarios"
+    },
+    "pl": {
+      "msModalTitle": "Działalność programowa MHC w Missisipi FY2025 (Pilotaż)",
+      "msCat_single_family_loans": "Programy jednorodzinnego zakupu mieszkań",
+      "msCat_multifamily_lihtc": "Wielorodzinna ulga podatkowa na mieszkania dla osób o niskich dochodach (LIHTC)",
+      "msSub_single_family_mrb": "Jednorodzinne obligacje przychodowe hipoteczne (MRB)",
+      "msSub_lihtc_units": "Jednostki LIHTC",
+      "ms_amt_mrb": "Emisja obligacji przychodowych hipotecznych"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "abbr": "AL",
+  "prefix": "al",
+  "config": {
+    "file": "al_program_activity.json",
+    "prefix": "al",
+    "modalTitleKey": "alModalTitle",
+    "mapCenter": [
+      32.8,
+      -86.8
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "alModalTitle": "阿拉巴马州 AHFA FY2025 项目活动（试点）",
+      "alCat_homeownership": "购房项目",
+      "alCat_multifamily_development": "多户住宅开发",
+      "alSub_single_family_programs": "单户家庭抵押贷款项目",
+      "alSub_multifamily_units_opened": "多户住宅单元（已投入使用）"
+    },
+    "en": {
+      "alModalTitle": "Alabama AHFA FY2025 Program Activity (Pilot)",
+      "alCat_homeownership": "Homeownership",
+      "alCat_multifamily_development": "Multifamily Development",
+      "alSub_single_family_programs": "Single-Family Mortgage Programs",
+      "alSub_multifamily_units_opened": "Multifamily Units Opened"
+    },
+    "es": {
+      "alModalTitle": "Actividad del Programa de AHFA de Alabama FY2025 (Piloto)",
+      "alCat_homeownership": "Compra de vivienda",
+      "alCat_multifamily_development": "Desarrollo multifamiliar",
+      "alSub_single_family_programs": "Programas hipotecarios unifamiliares",
+      "alSub_multifamily_units_opened": "Unidades multifamiliares abiertas"
+    },
+    "pl": {
+      "alModalTitle": "Działalność programowa AHFA w Alabamie FY2025 (Pilotaż)",
+      "alCat_homeownership": "Zakup mieszkania",
+      "alCat_multifamily_development": "Zabudowa wielorodzinna",
+      "alSub_single_family_programs": "Programy kredytów hipotecznych jednorodzinnych",
+      "alSub_multifamily_units_opened": "Oddane do użytku jednostki wielorodzinne"
+    }
+  }
+}

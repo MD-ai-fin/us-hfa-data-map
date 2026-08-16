@@ -1,0 +1,49 @@
+{
+  "abbr": "WY",
+  "prefix": "wy",
+  "config": {
+    "file": "wy_program_activity.json",
+    "prefix": "wy",
+    "modalTitleKey": "wyModalTitle",
+    "mapCenter": [43.0, -107.5],
+    "mapZoom": 6.5
+  },
+  "i18n": {
+    "zh": {
+      "wyModalTitle": "怀俄明州 WCDA FY2025 项目活动（试点）",
+      "wyCat_homeownership": "购房（低至中收入家庭）",
+      "wyCat_multifamily_development": "多户住宅开发（投入使用）",
+      "wySub_single_family": "单户住宅抵押贷款",
+      "wySub_edge": "EDGE 贷款产品",
+      "wySub_lihtc": "9% LIHTC（联邦低收入住房税收抵免）",
+      "wySub_home": "HOME 投资合作计划"
+    },
+    "en": {
+      "wyModalTitle": "Wyoming WCDA FY2025 Program Activity (Pilot)",
+      "wyCat_homeownership": "Homeownership (Low-to-Moderate Income Families)",
+      "wyCat_multifamily_development": "Multifamily Housing Development (Placed in Service)",
+      "wySub_single_family": "Single-Family Mortgage Loans",
+      "wySub_edge": "EDGE Loan Product",
+      "wySub_lihtc": "9% LIHTC",
+      "wySub_home": "HOME Investment Partnerships Program"
+    },
+    "es": {
+      "wyModalTitle": "Actividad del Programa de WCDA de Wyoming FY2025 (Piloto)",
+      "wyCat_homeownership": "Compra de vivienda (familias de ingresos bajos a moderados)",
+      "wyCat_multifamily_development": "Desarrollo de vivienda multifamiliar (puestas en servicio)",
+      "wySub_single_family": "Préstamos hipotecarios unifamiliares",
+      "wySub_edge": "Producto de préstamo EDGE",
+      "wySub_lihtc": "LIHTC 9%",
+      "wySub_home": "Programa de Asociaciones de Inversión HOME"
+    },
+    "pl": {
+      "wyModalTitle": "Działalność programowa WCDA w Wyoming FY2025 (Pilotaż)",
+      "wyCat_homeownership": "Zakup mieszkania (rodziny o niskich i umiarkowanych dochodach)",
+      "wyCat_multifamily_development": "Wielorodzinne budownictwo mieszkaniowe (oddane do użytku)",
+      "wySub_single_family": "Kredyty hipoteczne jednorodzinne",
+      "wySub_edge": "Produkt kredytowy EDGE",
+      "wySub_lihtc": "LIHTC 9%",
+      "wySub_home": "Program partnerstw inwestycyjnych HOME"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "KS": {
+    "hfa_name": "Kansas Housing Resources Corporation",
+    "hfa_abbr": "KHRC",
+    "fiscal_year": "FY2025",
+    "source_title": "Kansas Housing Resources Corporation 2025 Annual Report -- HOUSING DEVELOPMENT / WEATHERIZATION ASSISTANCE / PROJECT BASED RENTAL ASSISTANCE chapters (homes created, weatherization, PBRA)",
+    "source_url": "https://kshousingcorp.org/wp-content/uploads/2025/12/KHRC-Annual-Report-2025.pdf",
+    "source_file": "KHRC-Annual-Report-2025.pdf (downloaded from the kshousingcorp.org URL above; text extracted for this build to a local temp file, page-by-page via pypdf)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "housing_solutions",
+        "unit_type": "units",
+        "fy2025_actual": 2178,
+        "fy2025_source_quote": "\"2,178 TOTAL HOMES CREATED IN 2025\" (KHRC 2025 Annual Report, HOUSING DEVELOPMENT, PDF p.8). The page's accompanying KPI tiles -- \"SINGLE-FAMILY UNITS CREATED\", \"MULTIFAMILY UNITS CREATED\", \"NEW HOMES CONSTRUCTED\", \"HOMES REHABILITATED\", \"DEVELOPMENTS FUNDED\", \"COUNTIES SERVED\" -- are image-rendered in the PDF (their values are not present in the extracted text), so only the 2,178 total-home headline can be transcribed. The single-family/multifamily/rehab sub-numbers cannot be partitioned and no subprogram unit split is asserted (single subprogram = the headline). No dollar amount is disclosed for this total. NOTE: the report also prints \"Federal and state resources funded 7,206 homes from 2022 to 2025\" (PDF p.5) -- a 4-year cumulative total, NOT a FY2025 figure, and therefore excluded.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ksFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homes_created",
+            "fy2025_units": 2178,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "mixed",
+            "fund_name": "Mixed housing-development portfolio (federal HOME/NHTF pass-through, LIHTC/KAHTC/KHITC tax credits, state MIH/RLF/PAB; no per-program FY2025 unit split disclosed)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ksFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "weatherization",
+        "unit_type": "units",
+        "fy2025_actual": 785,
+        "fy2025_source_quote": "\"785 HOMES WEATHERIZED\" (KHRC 2025 Annual Report, WEATHERIZATION ASSISTANCE, PDF p.7). Accompanying KPI tiles: 528 heating sources installed, 67% of weatherized homes received a new primary heating source, 770,139 square feet of insulation installed, 7,136 LED bulbs installed, 30 ENERGY STAR refrigerators installed, 396 new A/Cs or heat pumps installed. The 785 homes-weatherized headline is the core output KPI; the other tiles are supporting activity metrics with no clean per-home partition, so only the 785-home figure is modeled. No dollar amount is disclosed for the Weatherization Assistance Program on this page.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ksFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homes_weatherized",
+            "fy2025_units": 785,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Weatherization Assistance Program pass-through (recognized in KHRC's self-supporting corporate fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ksFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance_pbra",
+        "unit_type": "units",
+        "fy2025_actual": 10893,
+        "fy2025_source_quote": "\"KHRC's Contract Administration division administers the state's Project Based Rental Assistance contract to ensure that the 10,893 units in 224 properties throughout the state are kept in safe, decent, and sanitary conditions.\" (KHRC 2025 Annual Report, PROJECT BASED RENTAL ASSISTANCE COMPLIANCE, PDF p.9). Accompanying KPI tiles: \"$72M PAID IN HOUSING ASSISTANCE PAYMENTS (HAP) ON BEHALF OF HUD TENANTS\", 386 tenant concerns addressed (38 of which were life-threatening), 133 management occupancy reports completed, 15 contract renewals, 210 rent adjustments, 522 special claims processed. The 10,893 units / $72M HAP pair is the core PBRA KPI; the other tiles are contract-administration activity metrics, not additional units or dollars, and are quoted here for completeness but not modeled. The separately-listed HOUSING COMPLIANCE figures (171 inspections, 148 HOME/HTF rent reviews, 598 annual reports, 145 audits, 124 concerns) are a monitoring function, not rental assistance, and are not modeled.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ks_amt_hap",
+            "amount": 72000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ksFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "pbra",
+            "fy2025_units": 10893,
+            "fy2025_amount": 72000000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HUD Project-Based Rental Assistance contract (HAP pass-through, recognized in KHRC's self-supporting corporate fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ksFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "WY": {
+    "hfa_name": "Wyoming Community Development Authority",
+    "hfa_abbr": "WCDA",
+    "fiscal_year": "FY2025",
+    "source_title": "WCDA 2025 Annual Report (50th anniversary edition) — Homeownership & Lender Partnerships and Housing Development sections",
+    "source_url": "https://www.wyomingcda.com/wp-content/uploads/2025/12/Final_2025_WebPages_AR_WCDA.pdf",
+    "source_file": "Final_2025_WebPages_AR_WCDA.pdf (WCDA 2025 Annual Report, 50th anniversary edition)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 713,
+        "fy2025_source_quote": "\"713 LOW-TO-MODERATE INCOME FAMILIES ACHIEVED HOMEOWNERSHIP. 566 COMPLETED HOMEBUYER EDUCATION.\" (WCDA 2025 Annual Report, \"Accomplishments 2024-2025\", PDF p.10). The 713-family figure is the FY2025 single-family homeownership KPI; the 566 figure is an outreach/training count (not housing production) and is quoted here for completeness only. The report does not disclose a total dollar figure for the 713 families. The EDGE program is a NEW single-family loan product launched in FY2025: \"We launched the EDGE program, a new initiative that makes homeownership accessible by allowing more borrowers to qualify based on expanded income limits and fewer purchase price constraints. In its first year alone, WCDA financed more than $26.6 million in EDGE loans...\" (PDF p.4). EDGE is a SUBSET of the 713 families (the report does not say how many of the 713 were EDGE loans), so the $26.6M is modeled as the edge subprogram's amount with units=None -- NOT as the 713-families total, which the report never states. additive=False because edge is nested inside single_family, not a partition.",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "single_family",
+            "fy2025_units": 713,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program Funds (Housing Revenue Bonds 1994 Indenture)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wyFy26NotePending"
+            }
+          },
+          {
+            "key": "edge",
+            "fy2025_units": null,
+            "fy2025_amount": 26600000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program Funds (Housing Revenue Bonds 1994 Indenture) — EDGE product",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wyFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_development",
+        "unit_type": "units",
+        "fy2025_actual": 48,
+        "fy2025_source_quote": "\"Of the 48 units placed in service in 2025: 8% [Allocated to tenants earning up to 30% AMI]; 33% [up to 30.1-50% AMI]; 58% [up to 50.1-60% AMI]; 50% [Percentage of the units to be located in rural areas].\" (WCDA 2025 Annual Report, \"Housing & Neighborhood Development Update\", PDF p.15). The 48 placed-in-service units map to the two \"Housing Development\" cards on PDF p.16 -- Parker Flats Sheridan (24 units, \"LHTC ALLOCATION: $405,605\", 9%) and Pioneer Village II (24 units, \"LHTC ALLOCATION: $915,000\", 9%) -- whose LIHTC allocations sum to $1,320,605. The report's OTHER cohort, \"Multi-Family Projects Awarded\" (PDF p.17), lists 4 further developments AWARDED in FY2025 but not yet placed in service: Pioneer III (24, Cody), McKinney Crossing (24, Buffalo), Cathy Garden (40-unit rehabilitation, Rawlins) and Meadowlark Place (24, Powell) -- 112 additional units with NO dollar amounts disclosed. These 6 developments total 160 units (48 placed in service + 112 awarded); the two cohorts are disclosed separately (see the projects array's \"cohort\" field), not force-fit into one number. HOME is a co-funding source on every project (p.16 \"OTHER WCDA FINANCING: HOME/NHTF\" and \"HOME\"; p.17 \"Award includes 9% tax credits and HOME funding\"), but no HOME dollar or unit amount is disclosed anywhere in the report, so the home subprogram carries no figures. The AMI/rural breakdowns are KPI-level only (no per-project split disclosed). additive=False: HOME overlaps LIHTC, and the placed-in-service/awarded split is not a unit partition.",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wyFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 48,
+            "fy2025_amount": 1320605,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wyFy26NotePending"
+            }
+          },
+          {
+            "key": "home",
+            "fy2025_units": null,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Housing & Neighborhood Development Fund (HOME Investment Partnerships Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wyFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "id": "parker-flats-sheridan",
+        "name": "Parker Flats Sheridan",
+        "address": "1425 Parker Avenue, Sheridan, Wyoming",
+        "city": "Sheridan",
+        "lat": 44.79719,
+        "lon": -106.95618,
+        "units": 24,
+        "cohort": "placed_in_service",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc": 405605
+        },
+        "total_amount": 405605,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pioneer-village-ii",
+        "name": "Pioneer Village II",
+        "address": "2407 Pioneer Avenue, Cody, Wyoming",
+        "city": "Cody",
+        "lat": 44.52631,
+        "lon": -109.05639,
+        "units": 24,
+        "cohort": "placed_in_service",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {
+          "lihtc": 915000
+        },
+        "total_amount": 915000,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "pioneer-iii",
+        "name": "Pioneer III",
+        "address": "2421 Pioneer Avenue, Cody, Wyoming",
+        "city": "Cody",
+        "lat": 44.52631,
+        "lon": -109.05639,
+        "units": 24,
+        "cohort": "awarded",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "mckinney-crossing",
+        "name": "McKinney Crossing",
+        "address": null,
+        "city": "Buffalo",
+        "lat": 44.34809,
+        "lon": -106.69929,
+        "units": 24,
+        "cohort": "awarded",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "cathy-garden",
+        "name": "Cathy Garden",
+        "address": "548 15th Street, Rawlins, Wyoming",
+        "city": "Rawlins",
+        "lat": 41.79079,
+        "lon": -107.23918,
+        "units": 40,
+        "cohort": "awarded",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      },
+      {
+        "id": "meadowlark-place",
+        "name": "Meadowlark Place",
+        "address": null,
+        "city": "Powell",
+        "lat": 44.75287,
+        "lon": -108.75902,
+        "units": 24,
+        "cohort": "awarded",
+        "funding_sources": [
+          "lihtc",
+          "home"
+        ],
+        "source_amounts": {},
+        "total_amount": null,
+        "primary_color_group": "credit",
+        "overlaps": true,
+        "geocode_status": "city_center"
+      }
+    ]
+  }
+}
