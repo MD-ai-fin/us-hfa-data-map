@@ -491,7 +491,9 @@
         return;
       }
       const cards = d.categories.map(renderCategoryCard).join("");
-      const mfProjects = (d.projects || []).length;
+      const mapProjects = (d.projects || []).filter(p => p.lat != null && p.lon != null);
+      const mfProjects = mapProjects.length;
+      const hasMap = mfProjects > 0;
       const mapLegend = `<div class="il-map-legend">
         <span><span class="il-dot" style="background:${COLOR_GROUP_HEX.bond}"></span>${escapeHtml(t("ilMapLegendBond"))}</span>
         <span><span class="il-dot" style="background:${COLOR_GROUP_HEX.credit}"></span>${escapeHtml(t("ilMapLegendCredit"))}</span>
@@ -517,8 +519,8 @@
         <div class="il-kpi-grid">${cards}</div>
         <div class="il-legend-units"><span>${escapeHtml(t("ilUnitsLegend"))}</span><span>${escapeHtml(t("ilHouseholdsLegend"))}</span></div>
         ${fundLegend}
-        <div class="il-section-title">${escapeHtml(t("ilMapTitle").replace("{fy}", d.fiscal_year || ""))}</div>
-        <div class="il-map-wrap"><div id="il-bubble-map"></div>${mapLegend}</div>
+        ${hasMap ? `<div class="il-section-title">${escapeHtml(t("ilMapTitle").replace("{fy}", d.fiscal_year || ""))}</div>
+        <div class="il-map-wrap"><div id="il-bubble-map"></div>${mapLegend}</div>` : ""}
         <p class="il-footnote">${sourceNote}<br><a href="${d.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(d.source_file || d.source_url)}</a></p>
       `;
       renderMap();
