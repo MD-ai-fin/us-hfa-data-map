@@ -6682,6 +6682,22 @@
       return contrastRatio("#e8eaed", bg) >= contrastRatio("#0f172a", bg) ? "#e8eaed" : "#0f172a";
     }
 
+    // Complementary text outline (halo) so labels stay legible on any fill.
+    // Light text gets a dark halo, dark/colored text gets a light halo — this is
+    // what keeps the abbreviation/value readable on the mid-luminance teal band,
+    // where neither pure black nor pure white alone clears 4.5:1 contrast.
+    function outlineShadowFor(textColor) {
+      const light = relativeLuminance(textColor) > 0.5;
+      const c = light ? "rgba(0, 0, 0, 0.9)" : "rgba(255, 255, 255, 0.95)";
+      return [
+        `0 0 1px ${c}`, `0 0 2px ${c}`,
+        `1px 1px 0 ${c}`, `-1px -1px 0 ${c}`,
+        `1px -1px 0 ${c}`, `-1px 1px 0 ${c}`,
+        `1px 0 0 ${c}`, `-1px 0 0 ${c}`,
+        `0 1px 0 ${c}`, `0 -1px 0 ${c}`,
+      ].join(", ");
+    }
+
     function flattenPolygonRings(latlngs) {
       const rings = [];
       if (!latlngs || !latlngs.length) return rings;
@@ -6827,22 +6843,23 @@
       const rec = getStateData(abbr);
       const yd = yearMetrics(rec);
       const inkColor = bestTextColor(layout.fillColor);
+      const inkOutline = outlineShadowFor(inkColor);
+      const valueColor = "#0f172a";
+      const valueOutline = outlineShadowFor(valueColor);
       const rows = layout.metrics.map(k => {
         const val = metricValueForState(rec, k);
         const text = fmtDisplay(val, k);
         if (!text) return "";
         const line = formatMetricLine(k, text, layout.showMetricNames);
-        const preferred = METRIC_COLORS[k] || "#e8eaed";
-        const color = contrastRatio(preferred, layout.fillColor) >= 4.5 ? preferred : inkColor;
         let tip = `${tMetric(k)}: ${text}`;
         if (k === "staff_count") {
           const src = yd.staff_count_source || rec?.staff_count_source;
           if (src) tip += ` (${src})`;
         }
-        return `<div class="st-val" style="color:${color};font-size:${layout.valFs}px;line-height:${layout.valLineH}px;height:${layout.valLineH}px" title="${tip}">${line}</div>`;
+        return `<div class="st-val" style="color:${valueColor};text-shadow:${valueOutline};font-size:${layout.valFs}px;line-height:${layout.valLineH}px;height:${layout.valLineH}px" title="${tip}">${line}</div>`;
       }).join("");
       return `<div class="st-wrap" style="width:${layout.chartW}px;height:${layout.chartH}px;opacity:${layout.opacity}">
-        <div class="st-abbr" style="color:${inkColor};font-size:${layout.abbrFs}px;line-height:${layout.abbrLineH}px;height:${layout.abbrLineH}px">${abbr}</div>
+        <div class="st-abbr" style="color:${inkColor};text-shadow:${inkOutline};font-size:${layout.abbrFs}px;line-height:${layout.abbrLineH}px;height:${layout.abbrLineH}px">${abbr}</div>
         <div class="st-values">${rows}</div>
       </div>`;
     }
