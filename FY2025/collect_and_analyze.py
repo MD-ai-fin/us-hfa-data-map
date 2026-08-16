@@ -18,6 +18,7 @@ import requests
 from bs4 import BeautifulSoup
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
 from docx.shared import Inches, Pt, RGBColor
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -29,6 +30,7 @@ LOG_PATH = BASE_DIR / "download_log.json"
 REPORT_PATH = BASE_DIR / "FY2025_US_State_HFA_ACFR_Analysis_Report.docx"
 REPORT_PATH_CN = BASE_DIR / "FY2025_美国州级住房金融机构ACFR综合分析报告.docx"
 DIRECT_URLS_PATH = BASE_DIR / "direct_urls.json"
+DOCS_DIR = BASE_DIR.parent / "docs"
 
 HEADERS = {
     "User-Agent": (
@@ -664,6 +666,265 @@ def fmt_pct(val: Optional[float]) -> str:
     return f"{val:+.1f}%"
 
 
+# ---- Enrichment data (population, program activity, data quality) ----
+
+# Mirrors PROGRAM_ACTIVITY_METRIC_BUCKETS in docs/program_activity.js so the
+# report aggregates match the web map's right-hand panel exactly. Order matters:
+# rental_assistance is matched before the broad multifamily/rental bucket.
+PROGRAM_ACTIVITY_BUCKETS: list[tuple] = [
+    ("pa_homeownership", "pa_homeownership_households", "pa_homeownership_amount",
+     re.compile(r"homeown|homebuyer|single_family|downpayment|covenant|sonyma|mortgage_operations")),
+    ("pa_repair", "pa_repair_households", "pa_repair_amount",
+     re.compile(r"repair|renew|rehab|counsel")),
+    ("pa_covid", "pa_covid_households", "pa_covid_amount",
+     re.compile(r"covid|emergency|foreclosure|homeless")),
+    ("pa_rental", "pa_rental_units", "pa_rental_amount",
+     re.compile(r"rental_assistance|community_affairs|voucher|public_housing|section_?8|tbra|housing_stability")),
+    ("pa_multifamily", "pa_multifamily_units", "pa_multifamily_amount",
+     re.compile(r"multifamily|rental|units_completed|placed_in_service|build_for|neighborhood|housing_solutions|lihtc|tax_credit|credit_award|hmmf|lmir|legislative_loan")),
+    ("pa_energy", "pa_energy_households", "pa_energy_amount",
+     re.compile(r"weatheriz|energy|liheap")),
+    ("pa_grants", "pa_grants_units", "pa_grants_amount",
+     re.compile(r"trust_fund|phare|grant|reach_virginia|federal_assistance|home_program")),
+]
+
+
+def _num(v):
+    if v is None or v == "":
+        return None
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return None
+
+
+def _bucket_metric_for_category(key: str) -> Optional[str]:
+    """First-match-wins bucket lookup, mirroring program_activity.js's
+    bucketMetricForCategory so the report aggregates match the web map exactly."""
+    for metric, _units_key, _amount_key, regex in PROGRAM_ACTIVITY_BUCKETS:
+        if regex.search(key):
+            return metric
+    return None
+
+
+def load_population_data() -> dict:
+    """Return {state: state_record} from docs/state_data.json (2025 metrics)."""
+    path = DOCS_DIR / "state_data.json"
+    if not path.exists():
+        return {}
+    data = json.loads(path.read_text(encoding="utf-8"))
+    return {s.get("state"): s for s in data.get("states", []) if s.get("state")}
+
+
+def load_program_activity_aggregates() -> dict:
+    """Aggregate the 7 housing-activity buckets across docs/*_program_activity.json."""
+    result: dict = {}
+    if not DOCS_DIR.exists():
+        return result
+    for f in sorted(DOCS_DIR.glob("*_program_activity.json")):
+        try:
+            raw = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if not isinstance(raw, dict):
+            continue
+        for abbr, body in raw.items():
+            if not isinstance(body, dict):
+                continue
+            cats = body.get("categories") or []
+            out: dict = {}
+            for metric, units_key, amount_key, regex in PROGRAM_ACTIVITY_BUCKETS:
+                matched = [
+                    c for c in cats
+                    if isinstance(c, dict) and _bucket_metric_for_category(c.get("key") or "") == metric
+                ]
+                units = None
+                amount = None
+                for c in matched:
+                    q = _num(c.get("fy2025_actual"))
+                    if q is not None:
+                        units = (units or 0.0) + q
+                    cat_amt = 0.0
+                    has_amt = False
+                    for a in c.get("fy2025_amounts") or []:
+                        av = _num(a.get("amount")) if isinstance(a, dict) else None
+                        if av is not None:
+                            cat_amt += av
+                            has_amt = True
+                    if has_amt:
+                        amount = (amount or 0.0) + cat_amt
+                out[units_key] = units
+                out[amount_key] = amount
+            result[abbr] = out
+    return result
+
+
+def _fmt_int(v: Optional[float]) -> str:
+    return f"{int(v):,}" if v is not None else "—"
+
+
+def _fmt_usd(v: Optional[float]) -> str:
+    if v is None:
+        return "—"
+    if abs(v) >= 1e9:
+        return f"${v/1e9:.2f}B"
+    if abs(v) >= 1e6:
+        return f"${v/1e6:.1f}M"
+    return f"${v:,.0f}"
+
+
+def _enrichment_numbers(metrics: list, language: str) -> dict:
+    """Compute formatted figures for the population / housing-activity / data-quality
+    sections. Returns a dict of pre-formatted strings plus a `housing_table` list."""
+    sep = ", " if language == "en" else "、"
+    op, cp = ("(", ")") if language == "en" else ("（", "）")
+
+    def sv(state: str, val: str) -> str:
+        return f"{state}{op}{val}{cp}"
+
+    pop_data = load_population_data()
+    pa = load_program_activity_aggregates()
+
+    def y2025(rec, key):
+        y = rec.get("2025") or {}
+        return y.get(key)
+
+    states = list(pop_data.items())
+
+    def ranked(key):
+        pairs = [(st, y2025(rec, key)) for st, rec in states if y2025(rec, key) is not None]
+        return sorted(pairs, key=lambda x: x[1] or 0, reverse=True)
+
+    # --- population ---
+    pop_sorted = ranked("population")
+    pop_total = f"{sum(v for _, v in pop_sorted if v)/1e6:.1f}M"
+    pop_top = sep.join(sv(st, f"{v/1e6:.1f}M") for st, v in pop_sorted[:5])
+    pop_bottom = sep.join(sv(st, f"{v/1e6:.1f}M") for st, v in pop_sorted[-5:])
+
+    inc_sorted = ranked("personal_income_per_capita")
+    income_top = sep.join(sv(st, f"${int(v):,}") for st, v in inc_sorted[:3])
+    income_bottom = sep.join(sv(st, f"${int(v):,}") for st, v in inc_sorted[-3:])
+    income_ratio = f"{inc_sorted[0][1]/inc_sorted[-1][1]:.1f}"
+
+    unemp = [v for st, rec in states if (v := y2025(rec, "unemployment_rate")) is not None]
+    unemp_sorted = ranked("unemployment_rate")
+    unemp_avg = f"{sum(unemp)/len(unemp):.1f}%"
+    unemp_high = sv(unemp_sorted[0][0], f"{unemp_sorted[0][1]:.1f}%")
+    unemp_low = sv(unemp_sorted[-1][0], f"{unemp_sorted[-1][1]:.1f}%")
+
+    pov = [v for st, rec in states if (v := y2025(rec, "poverty_rate")) is not None]
+    pov_sorted = ranked("poverty_rate")
+    pov_avg = f"{sum(pov)/len(pov):.1f}%"
+    pov_high = sep.join(sv(st, f"{v:.1f}%") for st, v in pov_sorted[:3])
+    pov_low = sv(pov_sorted[-1][0], f"{pov_sorted[-1][1]:.1f}%")
+
+    price_sorted = ranked("median_home_price")
+    price_high = sv(price_sorted[0][0], f"${int(price_sorted[0][1]):,}")
+    price_low = sv(price_sorted[-1][0], f"${int(price_sorted[-1][1]):,}")
+    price_ratio = f"{price_sorted[0][1]/price_sorted[-1][1]:.1f}"
+
+    homeless_sorted = ranked("homeless_count")
+    homeless_total = _fmt_int(sum(v for _, v in homeless_sorted if v))
+    homeless_top = sep.join(sv(st, f"{int(v):,}") for st, v in homeless_sorted[:2])
+    homeless_low = sv(homeless_sorted[-1][0], f"{int(homeless_sorted[-1][1]):,}")
+
+    # --- program activity ---
+    pa_states = str(len(pa))
+
+    def pa_count(key):
+        return sum(1 for v in pa.values() if v.get(key) is not None)
+
+    def pa_sum(key):
+        return sum(v.get(key) or 0 for v in pa.values())
+
+    def pa_top(key, n=3):
+        ranked_pairs = sorted(
+            [(st, v[key]) for st, v in pa.items() if v.get(key) is not None],
+            key=lambda x: x[1], reverse=True,
+        )
+        return sep.join(sv(st, f"{int(val):,}") for st, val in ranked_pairs[:n])
+
+    mf_amt = _fmt_usd(pa_sum("pa_multifamily_amount"))
+    ho_amt = _fmt_usd(pa_sum("pa_homeownership_amount"))
+    mf_top = pa_top("pa_multifamily_units", 3)
+    ho_top = pa_top("pa_homeownership_households", 3)
+    ra_units = _fmt_int(pa_sum("pa_rental_units"))
+    ra_states = str(pa_count("pa_rental_units"))
+    ra_amt = _fmt_usd(pa_sum("pa_rental_amount"))
+    ra_top = pa_top("pa_rental_units", 2)
+    en_units = _fmt_int(pa_sum("pa_energy_households"))
+    en_top = pa_top("pa_energy_households", 2)
+    en_states = str(pa_count("pa_energy_households"))
+    repair_states = str(pa_count("pa_repair_households"))
+    covid_states = str(pa_count("pa_covid_households"))
+    pa_hi = str(pa_count("pa_multifamily_units"))
+    pa_lo = str(pa_count("pa_repair_households"))
+
+    housing_table = []
+    for metric, units_key, amount_key, _ in PROGRAM_ACTIVITY_BUCKETS:
+        housing_table.append({
+            "n_states": pa_count(units_key),
+            "units": _fmt_int(pa_sum(units_key)),
+            "amount": _fmt_usd(pa_sum(amount_key)),
+        })
+
+    # --- data quality ---
+    downloaded = [m for m in metrics if m.status == "downloaded"]
+    fin_states = str(len(downloaded))
+    fin_pct = f"{len(downloaded)/len(metrics)*100:.0f}%"
+    fin_missing = sep.join(m.state for m in metrics if m.status != "downloaded")
+
+    return {
+        "pop_total": pop_total, "pop_top": pop_top, "pop_bottom": pop_bottom,
+        "income_top": income_top, "income_bottom": income_bottom, "income_ratio": income_ratio,
+        "unemp_avg": unemp_avg, "unemp_high": unemp_high, "unemp_low": unemp_low,
+        "pov_avg": pov_avg, "pov_high": pov_high, "pov_low": pov_low,
+        "price_high": price_high, "price_low": price_low, "price_ratio": price_ratio,
+        "homeless_total": homeless_total, "homeless_top": homeless_top, "homeless_low": homeless_low,
+        "pa_states": pa_states, "mf_amt": mf_amt, "ho_amt": ho_amt,
+        "mf_top": mf_top, "ho_top": ho_top, "ra_units": ra_units, "ra_states": ra_states,
+        "ra_amt": ra_amt, "ra_top": ra_top, "en_units": en_units, "en_top": en_top,
+        "en_states": en_states, "repair_states": repair_states, "covid_states": covid_states,
+        "pa_hi": pa_hi, "pa_lo": pa_lo,
+        "fin_states": fin_states, "fin_pct": fin_pct, "fin_missing": fin_missing,
+        "housing_table": housing_table,
+    }
+
+
+def _set_doc_fonts(doc: Document, language: str) -> None:
+    """Pin a single East Asian font on the base styles so CJK text renders with
+    one consistent font — and one that has a real bold face (Microsoft YaHei).
+
+    Without an explicit ``w:eastAsia``, Word resolves each run's CJK glyphs to
+    whatever default East Asian font the machine is set to (on this box that is
+    MS Mincho / MS-Gothic), which has no matching bold face, so Word applies an
+    uneven synthetic bold. The result is the messy, inconsistent bold the user
+    saw in the exported Chinese PDF."""
+    doc._hfa_lang = language  # read by add_table to set per-cell fonts
+    if language != "zh":
+        return
+    east = "微软雅黑"  # Microsoft YaHei — ships with a true Bold face
+    latin = "Calibri"
+    for style_name in ("Normal", "Heading 1", "Heading 2", "Title",
+                       "List Bullet", "List Number", "Normal Table"):
+        try:
+            st = doc.styles[style_name]
+        except KeyError:
+            continue
+        rpr = st.element.get_or_add_rPr()
+        rfonts = rpr.get_or_add_rFonts()
+        rfonts.set(qn("w:ascii"), latin)
+        rfonts.set(qn("w:hAnsi"), latin)
+        rfonts.set(qn("w:eastAsia"), east)
+        # Drop the theme-based font references (e.g. w:eastAsiaTheme), which Word
+        # otherwise resolves in favour of the machine's theme majorEastAsia font
+        # (here: MS-Gothic) instead of our explicit w:eastAsia above.
+        for attr in ("asciiTheme", "hAnsiTheme", "eastAsiaTheme", "cstheme"):
+            full = qn("w:" + attr)
+            if full in rfonts.attrib:
+                del rfonts.attrib[full]
+
+
 def add_title(doc: Document, text: str) -> None:
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
@@ -677,16 +938,38 @@ def add_heading(doc: Document, text: str, level: int = 1) -> None:
     doc.add_heading(text, level=level)
 
 
+def _apply_run_font(run, language: str) -> None:
+    """Explicitly set the Latin + East Asian fonts on a single run.
+
+    Table cells inherit their font from the table style ("Light Grid Accent 1")
+    rather than from Normal, and that table style has no East Asian font
+    defined, so CJK cell text fell back to MS-Gothic. Setting the font on each
+    run directly sidesteps that fallback."""
+    if language != "zh":
+        return
+    run.font.name = "Calibri"  # sets w:ascii + w:hAnsi
+    rpr = run._element.get_or_add_rPr()
+    rpr.get_or_add_rFonts().set(qn("w:eastAsia"), "微软雅黑")
+
+
 def add_table(doc: Document, headers: list[str], rows: list[list[str]]) -> None:
+    language = getattr(doc, "_hfa_lang", "en")
     table = doc.add_table(rows=1, cols=len(headers))
     table.style = "Light Grid Accent 1"
     hdr = table.rows[0].cells
     for i, h in enumerate(headers):
-        hdr[i].text = h
+        cell = hdr[i]
+        cell.text = h
+        run = cell.paragraphs[0].runs[0]
+        run.bold = True
+        _apply_run_font(run, language)
     for row in rows:
         cells = table.add_row().cells
         for i, val in enumerate(row):
-            cells[i].text = val
+            cell = cells[i]
+            cell.text = val
+            run = cell.paragraphs[0].runs[0]
+            _apply_run_font(run, language)
 
 
 def _report_copy(language: str) -> dict:
@@ -819,7 +1102,111 @@ def _report_copy(language: str) -> dict:
                     "indirectly, support tighter bond spreads.",
                 ),
             ],
-            "s5": "V. Recommendations for FY2026 and Beyond",
+            "s_pop": "V. Population and Socio-Economic Context",
+            "s_pop_intro": (
+                "Total population across the 51 states and the District of Columbia is approximately {pop_total}. "
+                "The five most populous are {pop_top}; the five least populous are {pop_bottom}. Population "
+                "figures come from the Census Bureau's population estimates program and cover all 51 "
+                "states/territories (100% coverage), making this the most consistent of the three data layers."
+            ),
+            "s_pop_income": (
+                "Per-capita personal income (BEA SAINC4) is highest in the District of Columbia (about "
+                "{income_top}) and lowest in Mississippi (about {income_bottom}), roughly {income_ratio} times "
+                "lower. High incomes concentrate in the District of Columbia, New England, the Mid-Atlantic, "
+                "and the West Coast."
+            ),
+            "s_pop_labor": (
+                "The national average unemployment rate is about {unemp_avg}: Nevada is highest ({unemp_high}) "
+                "and South Dakota lowest ({unemp_low}). The average poverty rate is about {pov_avg}: Louisiana, "
+                "Mississippi, and New Mexico are highest ({pov_high}), while New Hampshire is lowest "
+                "({pov_low}). Mississippi, West Virginia, Alabama, Kentucky, and New Mexico generally show both "
+                "lower per-capita income and higher poverty."
+            ),
+            "s_pop_housing": (
+                "Median home prices range from about {price_low} in West Virginia to about {price_high} in "
+                "Hawaii (roughly {price_ratio} times). The HUD January 2025 point-in-time count totals about "
+                "{homeless_total} people: California is highest ({homeless_top}) and Wyoming lowest "
+                "({homeless_low}). High-cost coastal markets (California, Hawaii, the District, Massachusetts, "
+                "Washington) combine the highest prices with the heaviest homelessness burden."
+            ),
+            "s_pop_insight": (
+                "Population size correlates broadly with HFA balance-sheet size, but the distribution of "
+                "per-capita income, home prices, and homelessness reveals two very different demand structures: "
+                "high-cost coastal states face an undersupply-plus-high-price problem, while lower-income "
+                "Southern states face an affordability-plus-concentrated-poverty problem. These two pressure "
+                "profiles call for different HFA product mixes."
+            ),
+            "s_housing": "VI. Housing Program Activity Analysis",
+            "s_housing_intro": (
+                "{pa_states} states and territories have FY2025 housing program-activity modules, compiled "
+                "state-by-state from each HFA's annual report program disclosures. The table below aggregates "
+                "seven business categories, reporting for each the number of disclosing states, volume "
+                "(units/households), and dollar amount to support cross-state comparison."
+            ),
+            "s_housing_table": ["Business Category", "Disclosing States", "Volume (units/households)", "Amount"],
+            "pa_labels": [
+                "Homeownership loans", "Repair/counseling", "COVID emergency", "Rental assistance",
+                "Multifamily new/preserved", "Energy assistance", "Grants/trust fund",
+            ],
+            "s_housing_insights": [
+                (
+                    "Multifamily and homeownership lending dominate capital deployment",
+                    "Multifamily new/preserved and homeownership lending together account for about {mf_amt} and "
+                    "{ho_amt}. Multifamily volume is led by Texas ({mf_top}); homeownership households by "
+                    "Washington ({ho_top}). These two categories form the core of most HFAs' mortgage and "
+                    "development-loan assets."
+                ),
+                (
+                    "Rental assistance reaches the most households at the lowest unit cost",
+                    "Rental assistance totals about {ra_units} households across {ra_states} states, but only "
+                    "about {ra_amt} in amount, reflecting its nature as a recurring small subsidy rather than "
+                    "one-time capital investment; Texas ({ra_top}) leads in scale."
+                ),
+                (
+                    "Several categories have low disclosure coverage, so cross-state comparison needs care",
+                    "Energy assistance ({en_units} households, concentrated in {en_top} among {en_states} states) "
+                    "and grants/trust-fund programs carry meaningful amounts from few states; repair/counseling "
+                    "({repair_states} states) and COVID emergency ({covid_states} states) have the lowest "
+                    "coverage. Because disclosure conventions differ widely, cross-state comparisons should be "
+                    "read as directional rather than precise."
+                ),
+            ],
+            "s_quality": "VII. Data Source and Quality Assessment",
+            "s_quality_intro": (
+                "This report rests on three data layers with different sources and quality gradients, which "
+                "directly affect the robustness of its conclusions."
+            ),
+            "s_quality_insights": [
+                (
+                    "Financial data (high confidence, ~90% coverage)",
+                    "Net position, total assets, and liabilities come from state ACFRs or audited financial "
+                    "statements; {fin_states} states ({fin_pct}) were obtained. {fin_missing} are not included "
+                    "because audits are incomplete or only FY2024 filings were posted. Certain core figures were "
+                    "manually verified and are noted state-by-state in the coverage inventory."
+                ),
+                (
+                    "Population and socio-economic data (highest confidence, 100% coverage)",
+                    "Population, income, unemployment, poverty, home prices, and homelessness all come from "
+                    "federal statistics (Census/BEA/BLS/ACS/HUD), covering all 51 states/territories with "
+                    "uniform definitions and direct cross-state comparability — the highest-quality layer of "
+                    "the three."
+                ),
+                (
+                    "Housing program-activity data (medium confidence, ~86% coverage)",
+                    "Program activity comes from each HFA's annual-report program disclosures; {pa_states} states "
+                    "have modules, but coverage across the seven categories ranges from {pa_hi} states "
+                    "(multifamily) to {pa_lo} states (repair). Unit definitions, amount conventions, and whether "
+                    "tax credits are included vary widely, making this the layer that most requires careful "
+                    "interpretation."
+                ),
+                (
+                    "Conclusion",
+                    "The quality gradient (population/economy ≈ financial > housing activity) determines how "
+                    "robust each conclusion is: population and financial insights are relatively reliable, while "
+                    "housing-activity insights should be treated as directional rather than precise comparisons."
+                ),
+            ],
+            "s5": "VIII. Recommendations for FY2026 and Beyond",
             "recommendations": [
                 (
                     "Adopt a common HFA financial health framework",
@@ -850,8 +1237,8 @@ def _report_copy(language: str) -> dict:
                     "which can leave teachers, nurses, and similar workers underserved.",
                 ),
             ],
-            "s6": "VI. Data Coverage and File Inventory",
-            "s7": "VII. States Without FY2025 Reports",
+            "s6": "IX. Data Coverage and File Inventory",
+            "s7": "X. States Without FY2025 Reports",
             "s7_body": (
                 "As of this report, the following {count} states or territories had no publicly locatable "
                 "FY2025 ACFR or audited financial statement. Common reasons include incomplete audits, "
@@ -998,7 +1385,90 @@ def _report_copy(language: str) -> dict:
                 "有助于降低投资者尽职调查成本，并可能间接支撑更紧的债券利差。"
             ),
         ],
-        "s5": "五、面向 2026 财年及以后的建议",
+        "s_pop": "五、人口与社会经济背景",
+        "s_pop_intro": (
+            "全美 50 个州及哥伦比亚特区人口合计约 {pop_total}。人口最多的五个州为 {pop_top}；"
+            "人口最少的五个为 {pop_bottom}。人口数据来自美国人口普查局人口估计项目，覆盖全部 51 个州／特区"
+            "（100%），是三层数据中口径最统一的一层。"
+        ),
+        "s_pop_income": (
+            "人均个人收入（BEA SAINC4）以哥伦比亚特区最高（约 {income_top}），密西西比最低"
+            "（约 {income_bottom}），前者约为后者的 {income_ratio} 倍。高收入集中在哥伦比亚特区、"
+            "新英格兰、中大西洋与西海岸。"
+        ),
+        "s_pop_labor": (
+            "全美平均失业率约 {unemp_avg}：内华达最高（{unemp_high}），南达科他最低（{unemp_low}）。"
+            "平均贫困率约 {pov_avg}：路易斯安那、密西西比与新墨西哥最高（{pov_high}），新罕布什尔最低"
+            "（{pov_low}）。密西西比、西弗吉尼亚、阿拉巴马、肯塔基、新墨西哥等州普遍同时呈现较低的人均收入"
+            "与较高的贫困率。"
+        ),
+        "s_pop_housing": (
+            "房价中位数从西弗吉尼亚约 {price_low} 到夏威夷约 {price_high}（约 {price_ratio} 倍）。"
+            "无家可归人数（HUD 2025 年 1 月即时统计）合计约 {homeless_total}，加州最多（{homeless_top}），"
+            "怀俄明最少（{homeless_low}）。高成本沿海市场（加州、夏威夷、特区、麻州、华盛顿州）房价最高且"
+            "无家可归负担最重。"
+        ),
+        "s_pop_insight": (
+            "人口规模与 HFA 资产负债表大体正相关，但人均收入、房价与无家可归负担的分布揭示了两种截然不同的"
+            "需求结构：高成本沿海州以「供给不足＋高房价」为主，低收入南方州以「可负担性不足＋贫困集中」为主。"
+            "这两类压力对 HFA 的产品组合提出不同要求。"
+        ),
+        "s_housing": "六、住房项目活动分析",
+        "s_housing_intro": (
+            "共有 {pa_states} 个州／特区建立了 FY2025 住房项目活动（program activity）模块，逐州整理自各 HFA "
+            "综合年报中的项目活动披露。下表按七类业务聚合，每一类同时给出披露州数、数量（套／户）与金额，"
+            "便于跨州观察规模与结构。"
+        ),
+        "s_housing_table": ["业务类别", "披露州数", "数量（套／户）", "金额"],
+        "pa_labels": [
+            "购房贷款", "维修/咨询", "COVID 应急", "租赁援助",
+            "多户新建/保留", "能源", "补助金/信托",
+        ],
+        "s_housing_insights": [
+            (
+                "多户新建与购房贷款是资金投入主体",
+                "多户新建／保留与购房贷款两类金额合计约 {mf_amt} 与 {ho_amt}。多户单位数以得州（{mf_top}）居前；"
+                "购房家庭以华盛顿州（{ho_top}）居前。这两类业务构成多数 HFA 资产端抵押贷款与开发贷款的核心。"
+            ),
+            (
+                "租赁援助覆盖家庭最多、单户成本最低",
+                "租赁援助合计约 {ra_units} 户（覆盖 {ra_states} 州），但金额仅约 {ra_amt}，反映其「持续性小额补贴」"
+                "而非一次性资本投入的性质；得州（{ra_top}）规模领先。"
+            ),
+            (
+                "部分类别披露覆盖率低，横向比较需谨慎",
+                "能源类（{en_units} 户，集中于 {en_top} 等 {en_states} 州）与补助金／信托类金额可观但披露州数少；"
+                "维修／咨询（{repair_states} 州）与 COVID 应急（{covid_states} 州）覆盖率最低。各州 HFA 年报对项目"
+                "活动的披露口径高度不统一，跨州横向比较应视为方向性而非精确值。"
+            ),
+        ],
+        "s_quality": "七、数据来源与质量评估",
+        "s_quality_intro": "本报告依赖三层数据，来源与质量梯度不同，直接影响结论的稳健性。",
+        "s_quality_insights": [
+            (
+                "财务数据（高置信，覆盖率约 90%）",
+                "净资产、总资产与负债来自各州 ACFR／经审计财务报表，{fin_states} 州（{fin_pct}）已取得；"
+                "{fin_missing} 因审计未完成或仅发布 FY2024 而未纳入。部分州核心指标需人工核对，已在本报告"
+                "「数据覆盖与文件清单」逐州标注。"
+            ),
+            (
+                "人口与经济社会数据（最高置信，覆盖率 100%）",
+                "人口、收入、失业、贫困、房价与无家可归均来自联邦官方统计（Census／BEA／BLS／ACS／HUD），"
+                "覆盖全部 51 个州／特区，口径统一、可跨州直接比较，是三层数据中质量最高的。"
+            ),
+            (
+                "住房项目活动数据（中置信，覆盖率约 86%）",
+                "住房项目活动来自各州 HFA 年报的项目活动披露，{pa_states} 州有模块，但七类业务的覆盖率从 "
+                "{pa_hi} 州（多户）到 {pa_lo} 州（维修）不等；单位定义、金额口径、是否含税收抵免等差异较大，"
+                "是最需谨慎解读的一层。"
+            ),
+            (
+                "结论",
+                "三层数据的质量梯度（人口／经济 ≈ 财务 > 住房活动）决定了本报告结论的稳健性：人口与财务洞察较为"
+                "可靠，住房活动洞察应视为方向性而非精确比较。"
+            ),
+        ],
+        "s5": "八、面向 2026 财年及以后的建议",
         "recommendations": [
             (
                 "建立统一的 HFA 财务健康框架",
@@ -1027,8 +1497,8 @@ def _report_copy(language: str) -> dict:
                 "致使教师、护士等群体住房需求持续得不到满足。",
             ),
         ],
-        "s6": "六、数据覆盖与文件清单",
-        "s7": "七、尚未取得 FY2025 报告的州",
+        "s6": "九、数据覆盖与文件清单",
+        "s7": "十、尚未取得 FY2025 报告的州",
         "s7_body": (
             "截至本报告编制时，下列 {count} 个州或特区尚未在公开渠道查得 FY2025 综合年报或经审计财务报表。"
             "常见原因包括：审计尚未完成、仅发布了 FY2024 报告，或文件托管于非常规网站。"
@@ -1119,6 +1589,7 @@ def build_report(metrics: list[AgencyMetrics], language: str = "en", output_path
     section = doc.sections[0]
     section.top_margin = Inches(0.8)
     section.bottom_margin = Inches(0.8)
+    _set_doc_fonts(doc, language)
 
     downloaded = [m for m in metrics if m.status == "downloaded"]
     missing = [m for m in metrics if m.status != "downloaded"]
@@ -1273,6 +1744,42 @@ def build_report(metrics: list[AgencyMetrics], language: str = "en", output_path
         p = doc.add_paragraph()
         p.add_run(f"{title}. ").bold = True
         p.add_run(body)
+
+    nums = _enrichment_numbers(metrics, language)
+
+    add_heading(doc, t["s_pop"], 1)
+    doc.add_paragraph(t["s_pop_intro"].format(**nums))
+    doc.add_paragraph(t["s_pop_income"].format(**nums))
+    doc.add_paragraph(t["s_pop_labor"].format(**nums))
+    doc.add_paragraph(t["s_pop_housing"].format(**nums))
+    doc.add_paragraph(t["s_pop_insight"].format(**nums))
+
+    add_heading(doc, t["s_housing"], 1)
+    doc.add_paragraph(t["s_housing_intro"].format(**nums))
+    add_table(
+        doc,
+        t["s_housing_table"],
+        [
+            [
+                t["pa_labels"][i],
+                str(row["n_states"]),
+                row["units"],
+                row["amount"],
+            ]
+            for i, row in enumerate(nums["housing_table"])
+        ],
+    )
+    for title, body in t["s_housing_insights"]:
+        p = doc.add_paragraph()
+        p.add_run(f"{title}. ").bold = True
+        p.add_run(body.format(**nums))
+
+    add_heading(doc, t["s_quality"], 1)
+    doc.add_paragraph(t["s_quality_intro"].format(**nums))
+    for title, body in t["s_quality_insights"]:
+        p = doc.add_paragraph()
+        p.add_run(f"{title}. ").bold = True
+        p.add_run(body.format(**nums))
 
     add_heading(doc, t["s5"], 1)
     for title, body in t["recommendations"]:
