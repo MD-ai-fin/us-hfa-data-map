@@ -1,0 +1,56 @@
+{
+  "abbr": "KS",
+  "prefix": "ks",
+  "config": {
+    "file": "ks_program_activity.json",
+    "prefix": "ks",
+    "modalTitleKey": "ksModalTitle",
+    "mapCenter": [
+      38.5,
+      -98.0
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "ksModalTitle": "堪萨斯州 KHRC FY2025 项目活动（试点）",
+      "ksCat_housing_solutions": "住房开发（新建住房）",
+      "ksCat_weatherization": "防寒保暖改造（Weatherization）",
+      "ksCat_rental_assistance_pbra": "项目制租赁援助（PBRA）",
+      "ksSub_homes_created": "新建住房总数",
+      "ksSub_homes_weatherized": "防寒保暖改造住房",
+      "ksSub_pbra": "PBRA 单元",
+      "ks_amt_hap": "住房援助支付 (HAP)"
+    },
+    "en": {
+      "ksModalTitle": "Kansas KHRC FY2025 Program Activity (Pilot)",
+      "ksCat_housing_solutions": "Housing Development (Homes Created)",
+      "ksCat_weatherization": "Weatherization",
+      "ksCat_rental_assistance_pbra": "Project-Based Rental Assistance (PBRA)",
+      "ksSub_homes_created": "Total Homes Created",
+      "ksSub_homes_weatherized": "Homes Weatherized",
+      "ksSub_pbra": "PBRA Units",
+      "ks_amt_hap": "Housing Assistance Payments (HAP)"
+    },
+    "es": {
+      "ksModalTitle": "Actividad del Programa de KHRC de Kansas FY2025 (Piloto)",
+      "ksCat_housing_solutions": "Desarrollo de vivienda (viviendas creadas)",
+      "ksCat_weatherization": "Climatización",
+      "ksCat_rental_assistance_pbra": "Asistencia de alquiler basada en proyecto (PBRA)",
+      "ksSub_homes_created": "Total de viviendas creadas",
+      "ksSub_homes_weatherized": "Viviendas climatizadas",
+      "ksSub_pbra": "Unidades PBRA",
+      "ks_amt_hap": "Pagos de asistencia de vivienda (HAP)"
+    },
+    "pl": {
+      "ksModalTitle": "Działalność programowa KHRC w Kansas FY2025 (Pilotaż)",
+      "ksCat_housing_solutions": "Rozwój mieszkalnictwa (utworzone mieszkania)",
+      "ksCat_weatherization": "Termomodernizacja",
+      "ksCat_rental_assistance_pbra": "Pomoc czynszowa oparta na projekcie (PBRA)",
+      "ksSub_homes_created": "Łączna liczba utworzonych mieszkań",
+      "ksSub_homes_weatherized": "Mieszkania poddane termomodernizacji",
+      "ksSub_pbra": "Jednostki PBRA",
+      "ks_amt_hap": "Płatności pomocy mieszkaniowej (HAP)"
+    }
+  }
+}

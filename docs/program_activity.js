@@ -184,6 +184,22 @@
       file: "wv_program_activity.json", prefix: "wv",
       modalTitleKey: "wvModalTitle", mapCenter: [38.6, -80.7], mapZoom: 7,
     },
+    AL: {
+      file: "al_program_activity.json", prefix: "al",
+      modalTitleKey: "alModalTitle", mapCenter: [32.8, -86.8], mapZoom: 7,
+    },
+    KS: {
+      file: "ks_program_activity.json", prefix: "ks",
+      modalTitleKey: "ksModalTitle", mapCenter: [38.5, -98.0], mapZoom: 7,
+    },
+    MS: {
+      file: "ms_program_activity.json", prefix: "ms",
+      modalTitleKey: "msModalTitle", mapCenter: [32.7, -89.6], mapZoom: 7,
+    },
+    WY: {
+      file: "wy_program_activity.json", prefix: "wy",
+      modalTitleKey: "wyModalTitle", mapCenter: [43.0, -107.5], mapZoom: 6.5,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
@@ -199,6 +215,7 @@
     const loadFailedSet = new Set();
     let currentAbbr = null;
     let isOpen = false;
+    let lastFocused = null;    // element holding focus before the modal opened; restored on close
     let bubbleMap = null;       // Leaflet instance, created once and reused
     let bubbleMapAbbr = null;   // which state's data the reused instance was last framed for
 
@@ -523,6 +540,9 @@
       const body = $("il-activity-body");
       if (body) body.innerHTML = "";
       loadData(abbr).then(() => { if (currentAbbr === abbr) renderBody(); });
+      // Keyboard support: remember the trigger element, then move focus into the dialog.
+      lastFocused = document.activeElement;
+      $("btn-il-activity-close")?.focus();
     }
 
     function deactivate() {
@@ -531,6 +551,11 @@
       modal.classList.remove("open");
       modal.setAttribute("aria-hidden", "true");
       isOpen = false;
+      // Keyboard support: return focus to the element that opened the modal.
+      if (lastFocused && typeof lastFocused.focus === "function") {
+        lastFocused.focus();
+        lastFocused = null;
+      }
     }
 
     function closeModal() { deactivate(); }
@@ -557,6 +582,31 @@
     $("btn-il-activity-close")?.addEventListener("click", closeModal);
     $("il-activity-modal")?.addEventListener("click", e => {
       if (e.target.id === "il-activity-modal") closeModal();
+    });
+
+    // Keyboard support: trap Tab / Shift+Tab focus within the open modal so
+    // keyboard users can't tab into the page behind the dialog.
+    document.addEventListener("keydown", e => {
+      if (!isOpen || e.key !== "Tab") return;
+      const modal = $("il-activity-modal");
+      if (!modal) return;
+      const focusables = Array.from(modal.querySelectorAll(
+        'a[href], button:not([disabled]), input:not([disabled]), ' +
+        'select:not([disabled]), textarea:not([disabled]), ' +
+        '[tabindex]:not([tabindex="-1"])'
+      )).filter(el => el.offsetParent !== null);
+      if (!focusables.length) return;
+      const first = focusables[0];
+      const last = focusables[focusables.length - 1];
+      const active = document.activeElement;
+      const inside = modal.contains(active);
+      if (e.shiftKey && (active === first || !inside)) {
+        e.preventDefault();
+        last.focus();
+      } else if (!e.shiftKey && (active === last || !inside)) {
+        e.preventDefault();
+        first.focus();
+      }
     });
 
     return { deactivate, onEscape, renderLabels, isAvailable };

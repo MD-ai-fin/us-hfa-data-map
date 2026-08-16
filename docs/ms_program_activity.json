@@ -1,0 +1,79 @@
+{
+  "MS": {
+    "hfa_name": "Mississippi Home Corporation",
+    "hfa_abbr": "MHC",
+    "fiscal_year": "FY2025",
+    "source_title": "Mississippi Home Corporation 2025 Annual Report -- Single Family Programs & Housing Tax Credits KPI tiles",
+    "source_url": "https://my.visme.co/view/op6gwkz1-2025-mhc-annual-report",
+    "source_file": "MHC 2025 Annual Report (Visme-hosted interactive report; no PDF -- text extracted and archived locally as ms_text.txt for this build)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "single_family_loans",
+        "unit_type": "households",
+        "fy2025_actual": 1836,
+        "fy2025_source_quote": "\"MHC continued its mission to provide affordable housing across the state in 2025. 1,836 homes were financed through our Single Family Programs in 76 counties. MHC issued $361 million in mortgage revenue bonds to provide loans and down payment assistance for homebuyers.\" (MHC 2025 Annual Report, Executive Director 'OUR PROMISE' message). The accompanying KPI tiles read \"Homes Purchased 1836\" and \"Homeowner Spending $23.2 million\". The 1,836-home / $361M-MRB pair is the single-family homeownership KPI; the $23.2M \"Homeowner Spending\" tile is a separate economic/spending metric with no per-loan partition, so it is quoted here for completeness but not modeled as a separate amount (the $361M MRB issuance is the amount that corresponds to the 1,836 financed homes). The \"50% of our loans for FY 2025 took place in the 5 counties... single family products were used in 76 of the 82 counties\" line is geographic/outreach context, not a KPI.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ms_amt_mrb",
+            "amount": 361000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "msFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "single_family_mrb",
+            "fy2025_units": 1836,
+            "fy2025_amount": 361000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Mortgage Revenue Bond Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "msFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 670,
+        "fy2025_source_quote": "KPI tile \"LIHTC Units 670\"; prose: \"Additionally, MHC's Housing Tax Credit Program proved to be a boost to Mississippi's economy producing 634 jobs and $34.4 million in wages for working families.\" (MHC 2025 Annual Report, Executive Director 'OUR PROMISE' message + 'HOUSING TAX CREDITS' tiles). The report's Housing Tax Credit economic-impact tiles further print \"Jobs 275\", \"Wages $16.5 million\", and a \"$35.5 million\" tax-revenue/economy tile (several of these sit in image charts whose labels do not extract cleanly, so only the prose figures are asserted verbatim). Those jobs/wages figures are economic-impact estimates, NOT a dollar amount that corresponds to the 670 LIHTC units, so this category carries no fy2025 amount (fy2025_amounts is empty; the economic-impact numbers are quoted here for completeness but not modeled as a housing-unit amount). The 670-unit figure is the housing-unit KPI.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "msFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_units",
+            "fy2025_units": 670,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "Low Income Housing Tax Credit Program (fee-administered)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "msFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}
