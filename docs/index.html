@@ -826,6 +826,20 @@
       border-top: 1px solid var(--border);
     }
     .hfa-popup-metrics .tt-row { font-size: 0.72rem; }
+    .tt-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.24rem;
+      margin-top: 0.45rem;
+    }
+    .tt-group:first-child { margin-top: 0.15rem; }
+    .tt-group-title {
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
     .tt-rank-hint {
       margin-top: 0.5rem;
       color: var(--muted);
@@ -6507,7 +6521,7 @@
 
     function buildMetricRowsHtml(rec) {
       const yd = yearMetrics(rec);
-      const rows = METRIC_KEYS.filter(k => k !== "staff_count").map(k => {
+      const rowHtml = k => {
         const val = metricValueForState(rec, k);
         const color = METRIC_COLORS[k] || "#94a3b8";
         let rankText = "";
@@ -6525,14 +6539,25 @@
           <span class="tt-value">${fmt(val, k)}</span>
           <span class="tt-rank">${rankText}</span>
         </div>`;
-      }).join("");
+      };
       const header = `<div class="tt-row tt-header" aria-hidden="true">
         <span class="tt-dot"></span>
         <span class="tt-label">${t("colMetric")}</span>
         <span class="tt-value">${t("colValue")}</span>
         <span class="tt-rank">${t("colRank")}</span>
       </div>`;
-      return `<div class="tt-body">${header}${rows}</div>`;
+      // Group the metric rows by the same financial / population / housing
+      // activity sections used by the right-hand panel and the rank/scatter
+      // dropdowns, so the per-state popup reads in three labeled sections
+      // instead of one long flat list.
+      const groups = METRIC_GROUPS.map(g => {
+        const items = g.metrics.filter(k => k !== "staff_count").map(rowHtml).join("");
+        return `<div class="tt-group">
+          <div class="tt-group-title">${t(g.key)}</div>
+          ${items}
+        </div>`;
+      }).join("");
+      return `<div class="tt-body">${header}${groups}</div>`;
     }
 
     function buildReportPopupHtml(abbr) {
