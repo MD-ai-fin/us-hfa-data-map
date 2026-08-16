@@ -6503,7 +6503,7 @@
 
     function buildMetricRowsHtml(rec) {
       const yd = yearMetrics(rec);
-      const rows = METRIC_KEYS.map(k => {
+      const rows = METRIC_KEYS.filter(k => k !== "staff_count").map(k => {
         const val = metricValueForState(rec, k);
         const color = METRIC_COLORS[k] || "#94a3b8";
         let rankText = "";
