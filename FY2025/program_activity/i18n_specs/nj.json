@@ -1,0 +1,64 @@
+{
+  "abbr": "NJ",
+  "prefix": "nj",
+  "config": {
+    "file": "nj_program_activity.json",
+    "prefix": "nj",
+    "modalTitleKey": "njModalTitle",
+    "mapCenter": [
+      40.1,
+      -74.5
+    ],
+    "mapZoom": 8
+  },
+  "i18n": {
+    "zh": {
+      "njModalTitle": "新泽西州 NJHMFA CY2025 项目活动（试点）",
+      "njCat_multifamily_lihtc": "多户住宅低收入住房税收抵免（LIHTC）融资",
+      "njSub_low_mod_income": "中低收入家庭限制单元",
+      "njSub_special_needs": "特殊需求人群住房单元",
+      "nj_amt_lihtc": "LIHTC 抵免分配额",
+      "njCat_homeownership_dpa": "首付援助（DPA）",
+      "njSub_first_generation": "第一代购房者",
+      "njCat_emergency_mortgage_assistance": "紧急房贷援助（ERMA）",
+      "njSub_erma": "ERMA 受助家庭",
+      "nj_amt_erma": "ERMA 援助金额"
+    },
+    "en": {
+      "njModalTitle": "New Jersey NJHMFA CY2025 Program Activity (Pilot)",
+      "njCat_multifamily_lihtc": "Multifamily LIHTC Financing",
+      "njSub_low_mod_income": "Low- to Moderate-Income Units",
+      "njSub_special_needs": "Special-Needs Units",
+      "nj_amt_lihtc": "LIHTC Allocations",
+      "njCat_homeownership_dpa": "Down Payment Assistance",
+      "njSub_first_generation": "First-Generation Homebuyers",
+      "njCat_emergency_mortgage_assistance": "Emergency Mortgage Assistance (ERMA)",
+      "njSub_erma": "ERMA Households",
+      "nj_amt_erma": "ERMA Awards"
+    },
+    "es": {
+      "njModalTitle": "Actividad del Programa de NJHMFA de Nueva Jersey CY2025 (Piloto)",
+      "njCat_multifamily_lihtc": "Financiamiento Multifamiliar LIHTC",
+      "njSub_low_mod_income": "Unidades para ingresos bajos a moderados",
+      "njSub_special_needs": "Unidades para necesidades especiales",
+      "nj_amt_lihtc": "Asignaciones LIHTC",
+      "njCat_homeownership_dpa": "Asistencia para el Pago Inicial",
+      "njSub_first_generation": "Compradores de Primera Generación",
+      "njCat_emergency_mortgage_assistance": "Asistencia Hipotecaria de Emergencia (ERMA)",
+      "njSub_erma": "Hogares ERMA",
+      "nj_amt_erma": "Subvenciones ERMA"
+    },
+    "pl": {
+      "njModalTitle": "Działalność programowa NJHMFA w New Jersey CY2025 (Pilotaż)",
+      "njCat_multifamily_lihtc": "Finansowanie wielorodzinne LIHTC",
+      "njSub_low_mod_income": "Mieszkania dla gospodarstw o niskich i średnich dochodach",
+      "njSub_special_needs": "Mieszkania dla osób ze specjalnymi potrzebami",
+      "nj_amt_lihtc": "Alokacje LIHTC",
+      "njCat_homeownership_dpa": "Pomoc na wkład własny (DPA)",
+      "njSub_first_generation": "Nabywcy pierwszej generacji",
+      "njCat_emergency_mortgage_assistance": "Pomoc hipoteczna w sytuacjach nadzwyczajnych (ERMA)",
+      "njSub_erma": "Gospodarstwa domowe ERMA",
+      "nj_amt_erma": "Wsparcie ERMA"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "abbr": "OK",
+  "prefix": "ok",
+  "config": {
+    "file": "ok_program_activity.json",
+    "prefix": "ok",
+    "modalTitleKey": "okModalTitle",
+    "mapCenter": [
+      35.5,
+      -97.5
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "okModalTitle": "俄克拉何马州 OHFA FY2025 项目活动（试点）",
+      "okCat_single_family_homeownership": "单户住宅购房",
+      "okCat_housing_choice_voucher": "住房选择券 (HCV)",
+      "okCat_pbca_rental_assistance": "PBCA 租金援助",
+      "okSub_single_family_loans": "单户住宅抵押贷款",
+      "okSub_section_8_hcv": "第 8 条住房选择券 (Section 8 HCV)",
+      "okSub_pbca": "基于绩效的合同管理 (PBCA)",
+      "ok_amt_home_loans": "购房贷款融资",
+      "ok_amt_hcv_rental": "HCV 租金援助",
+      "ok_amt_pbca_rental": "PBCA 租金援助"
+    },
+    "en": {
+      "okModalTitle": "Oklahoma OHFA FY2025 Program Activity (Pilot)",
+      "okCat_single_family_homeownership": "Single-Family Homeownership",
+      "okCat_housing_choice_voucher": "Housing Choice Vouchers (HCV)",
+      "okCat_pbca_rental_assistance": "PBCA Rental Assistance",
+      "okSub_single_family_loans": "Single-Family Mortgage Loans",
+      "okSub_section_8_hcv": "Section 8 Housing Choice Vouchers (HCV)",
+      "okSub_pbca": "Performance Based Contract Administration (PBCA)",
+      "ok_amt_home_loans": "Home Loans Financed",
+      "ok_amt_hcv_rental": "HCV Rental Assistance",
+      "ok_amt_pbca_rental": "PBCA Rental Assistance"
+    },
+    "es": {
+      "okModalTitle": "Actividad del Programa de OHFA de Oklahoma FY2025 (Piloto)",
+      "okCat_single_family_homeownership": "Compra de vivienda unifamiliar",
+      "okCat_housing_choice_voucher": "Vales de Elección de Vivienda (HCV)",
+      "okCat_pbca_rental_assistance": "Asistencia de alquiler PBCA",
+      "okSub_single_family_loans": "Préstamos hipotecarios unifamiliares",
+      "okSub_section_8_hcv": "Vales de Elección de Vivienda de la Sección 8 (HCV)",
+      "okSub_pbca": "Administración de Contratos Basada en el Desempeño (PBCA)",
+      "ok_amt_home_loans": "Préstamos hipotecarios financiados",
+      "ok_amt_hcv_rental": "Asistencia de alquiler HCV",
+      "ok_amt_pbca_rental": "Asistencia de alquiler PBCA"
+    },
+    "pl": {
+      "okModalTitle": "Działalność programowa OHFA w Oklahomie FY2025 (Pilotaż)",
+      "okCat_single_family_homeownership": "Nabywanie domów jednorodzinnych",
+      "okCat_housing_choice_voucher": "Bony wyboru mieszkania (HCV)",
+      "okCat_pbca_rental_assistance": "Pomoc czynszowa PBCA",
+      "okSub_single_family_loans": "Kredyty hipoteczne na domy jednorodzinne",
+      "okSub_section_8_hcv": "Bony wyboru mieszkania Sekcji 8 (HCV)",
+      "okSub_pbca": "Administracja kontraktami oparta na wynikach (PBCA)",
+      "ok_amt_home_loans": "Sfinansowane kredyty mieszkaniowe",
+      "ok_amt_hcv_rental": "Pomoc czynszowa HCV",
+      "ok_amt_pbca_rental": "Pomoc czynszowa PBCA"
+    }
+  }
+}

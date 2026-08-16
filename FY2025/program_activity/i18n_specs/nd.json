@@ -1,0 +1,77 @@
+{
+  "abbr": "ND",
+  "prefix": "nd",
+  "config": {
+    "file": "nd_program_activity.json",
+    "prefix": "nd",
+    "modalTitleKey": "ndModalTitle",
+    "mapCenter": [47.5, -100.5],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "ndModalTitle": "北达科他州 NDHFA FY2025 项目活动（试点）",
+      "ndCat_home_program": "HOME 可负担住房计划",
+      "ndCat_housing_trust_fund": "住房信托基金 (HTF)",
+      "ndCat_homeless_assistance": "无家可归援助 (ESG)",
+      "ndSub_multifamily_rental": "多户租赁住房单元",
+      "ndSub_homeowner_rehabilitation": "房主住房修缮",
+      "ndSub_homebuyer_assistance": "购房者援助（首付/社区土地信托）",
+      "ndSub_htf": "HTF 单元（Lantern Light）",
+      "ndSub_rapid_rehousing": "快速再安置",
+      "ndSub_homeless_prevention": "无家可归预防",
+      "nd_amt_home_total": "HOME 支出总额",
+      "nd_amt_htf_total": "HTF 支出总额",
+      "nd_amt_esg_tbra": "ESG 租户基础租金援助",
+      "nd_amt_esg_shelter": "ESG 过夜庇护所"
+    },
+    "en": {
+      "ndModalTitle": "North Dakota NDHFA FY2025 Program Activity (Pilot)",
+      "ndCat_home_program": "HOME Affordable Housing Program",
+      "ndCat_housing_trust_fund": "Housing Trust Fund (HTF)",
+      "ndCat_homeless_assistance": "Homeless Assistance (ESG)",
+      "ndSub_multifamily_rental": "Multifamily Rental Units",
+      "ndSub_homeowner_rehabilitation": "Homeowner Rehabilitation",
+      "ndSub_homebuyer_assistance": "Homebuyer Down Payment Assistance",
+      "ndSub_htf": "HTF Units (Lantern Light)",
+      "ndSub_rapid_rehousing": "Rapid Rehousing",
+      "ndSub_homeless_prevention": "Homelessness Prevention",
+      "nd_amt_home_total": "HOME Total Expended",
+      "nd_amt_htf_total": "HTF Total Expended",
+      "nd_amt_esg_tbra": "ESG Tenant-Based Rental Assistance",
+      "nd_amt_esg_shelter": "ESG Overnight Shelter"
+    },
+    "es": {
+      "ndModalTitle": "Actividad del Programa NDHFA de Dakota del Norte FY2025 (Piloto)",
+      "ndCat_home_program": "Programa HOME de Vivienda Asequible",
+      "ndCat_housing_trust_fund": "Fondo Fiduciario de Vivienda (HTF)",
+      "ndCat_homeless_assistance": "Asistencia a Personas sin Hogar (ESG)",
+      "ndSub_multifamily_rental": "Unidades de Alquiler Multifamiliar",
+      "ndSub_homeowner_rehabilitation": "Rehabilitación de Viviendas de Propietarios",
+      "ndSub_homebuyer_assistance": "Asistencia para el Pago Inicial de Compradores",
+      "ndSub_htf": "Unidades HTF (Lantern Light)",
+      "ndSub_rapid_rehousing": "Realojamiento Rápido",
+      "ndSub_homeless_prevention": "Prevención de la Falta de Vivienda",
+      "nd_amt_home_total": "Total Gastado de HOME",
+      "nd_amt_htf_total": "Total Gastado de HTF",
+      "nd_amt_esg_tbra": "Asistencia de Alquiler Basada en el Inquilino (ESG)",
+      "nd_amt_esg_shelter": "Refugio Nocturno (ESG)"
+    },
+    "pl": {
+      "ndModalTitle": "Działalność programowa NDHFA w Dakocie Północnej FY2025 (Pilotaż)",
+      "ndCat_home_program": "Program HOME – Mieszkania Przystępne",
+      "ndCat_housing_trust_fund": "Fundusz Powierniczy na Budownictwo Mieszkaniowe (HTF)",
+      "ndCat_homeless_assistance": "Pomoc dla osób bezdomnych (ESG)",
+      "ndSub_multifamily_rental": "Wielorodzinne jednostki na wynajem",
+      "ndSub_homeowner_rehabilitation": "Remonty domów własnościowych",
+      "ndSub_homebuyer_assistance": "Pomoc w spłacie zaliczki dla kupujących",
+      "ndSub_htf": "Jednostki HTF (Lantern Light)",
+      "ndSub_rapid_rehousing": "Szybkie ponowne zakwaterowanie",
+      "ndSub_homeless_prevention": "Zapobieganie bezdomności",
+      "nd_amt_home_total": "HOME – wydatki łącznie",
+      "nd_amt_htf_total": "HTF – wydatki łącznie",
+      "nd_amt_esg_tbra": "ESG – pomoc czynszowa dla najemców",
+      "nd_amt_esg_shelter": "ESG – noclegownie"
+    }
+  }
+}

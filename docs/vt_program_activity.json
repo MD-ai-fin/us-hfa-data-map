@@ -1,0 +1,164 @@
+{
+  "VT": {
+    "hfa_name": "Vermont Housing Finance Agency",
+    "hfa_abbr": "VHFA",
+    "fiscal_year": "CY2025",
+    "source_title": "VHFA 2025 Annual Report -- \"2025 VHFA Impact\" (Homeownership, Community Development / Rental Housing)",
+    "source_url": "https://vhfa.org/pubs/2025-annual-report",
+    "source_file": "VT_VHFA_AnnualReport_2025.pdf (downloaded from the landing page above, which resolves to the PDF endpoint https://vhfa.org/pubs/vhfa-annual-report; verified live 2026-08-16, HTTP 200, 4,513,029 bytes, 19 pages)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 381,
+        "fy2025_source_quote": "\"Homebuyers Received VHFA Financing in 2025: 381. ... of those homebuyers, were first generation buyers: 54. ... 2025 Homebuyers by the #'s: 381 homebuyers accessed VHFA loans (317 conventional & 64 govt.). 93% were first time home buyers. 97% attended homebuyer education. $92 million in total loans ($75 million conventional & $17 million govt.). 53% received Down Payment Assistance when using VHFA programs.\" (VHFA 2025 Annual Report, Homeownership, pp. 10-11). 317 + 64 = 381 and $75M + $17M = $92M, an exact partition of the headline (verified in verify_category_consistency). The 381/317/64 are calendar-year-2025 figures; the report separately prints historical cumulatives (e.g. ASSIST's 2,153 households since 2015) that are excluded here.",
+        "fy2025_amounts": [
+          {
+            "label_key": "vt_amt_home_loans_total",
+            "amount": 92000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vtFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "conventional",
+            "fy2025_units": 317,
+            "fy2025_amount": 75000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Mortgage Lending (bond-financed)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          },
+          {
+            "key": "government",
+            "fy2025_units": 64,
+            "fy2025_amount": 17000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-Family Mortgage Lending (bond-financed)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_housing",
+        "unit_type": "units",
+        "fy2025_actual": 329,
+        "fy2025_source_quote": "\"In 2025, VHFA awarded state and federal housing tax credits to affordable rental housing developers raising an estimated $63 million in equity for construction. In 2025, rental housing tax credits and bonds awarded will support the construction, rehabilitation, or preservation of 329 affordable rental apartments in 10 communities across the state. Beyond tax credits, VHFA also closed over $80 million in short-term construction loans and over $4 million in long-term permanent loans in 2025.\" (VHFA 2025 Annual Report, Community Development / 'Federal & State Tax Credits Funding More Rental Housing', p. 5). The 329-apartment figure is a calendar-year-2025 unit count, but no single dollar total for those 329 apartments is disclosed -- the $63M is tax-credit equity only (bonds are not separately dollarized), and the $80M/$4M are separate loan products (the source phrases them 'over $80 million'/'over $4 million'; stored here as the source's own rounded 80,000,000 and 4,000,000). All three are therefore reference amounts, not the category's 'total'. The cumulative '10% for Vermont' figure (1,065 homes/$47.9M allocated) is a to-date allocation, not 2025 activity, and is excluded.",
+        "fy2025_amounts": [
+          {
+            "label_key": "vt_amt_tax_credit_equity",
+            "amount": 63000000
+          },
+          {
+            "label_key": "vt_amt_construction_loans",
+            "amount": 80000000
+          },
+          {
+            "label_key": "vt_amt_permanent_loans",
+            "amount": 4000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vtFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rental_development",
+            "fy2025_units": 329,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "mixed",
+            "fund_name": "Housing tax credits (off-balance-sheet) + bond/loan financing (proprietary)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homebuyer_assistance",
+        "unit_type": "households",
+        "fy2025_actual": null,
+        "fy2025_source_quote": "Down-payment / closing-cost assistance programs disclosed as calendar-year-2025 figures, each layered on a subset of the 381 first-mortgage homebuyers (not a partition of them, so no single headline is shown): \"In 2025, ASSIST helped 217 homebuyers, up from 186 in 2024. Since the program began in 2015, $13,920,611 in down payment assistance loans have been made, assisting 2,153 Vermont households [historical cumulative, NOT used].\" \"In 2025, 31 borrowers were awarded $5,000 grants toward down payment or closing costs through the [Shared Equity Assistance] program vs. 17 borrowers in 2024. So far, the program has provided a total of 48 grants totaling $240,000 [historical cumulative, NOT used].\" \"As of June 2025, $1,979,412 in First Generation Homebuyer Grants had been awarded, assisting 132 Vermonters [historical cumulative, NOT used]...\" with the 2025 cohort printed as \"54 ... first generation buyers\" among the 381. (VHFA 2025 Annual Report, Homeownership, pp. 9-10). Shared Equity's CY2025 amount is 31 x $5,000 = $155,000 (derived; the cumulative 48 x $5,000 = $240,000 confirms the per-grant amount -- checked in verify_category_consistency). ASSIST and First Generation disclose no CY2025 dollar amount (only cumulative totals), so their fy2025_amount is None.",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "vtFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "assist",
+            "fy2025_units": 217,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "ASSIST Down Payment Assistance (0% second mortgage)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          },
+          {
+            "key": "shared_equity",
+            "fy2025_units": 31,
+            "fy2025_amount": 155000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Shared Equity Assistance (IORTA-funded grants)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          },
+          {
+            "key": "first_generation",
+            "fy2025_units": 54,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "First Generation Homebuyer Grants",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "vtFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

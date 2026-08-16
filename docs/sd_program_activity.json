@@ -1,0 +1,217 @@
+{
+  "SD": {
+    "hfa_name": "South Dakota Housing",
+    "hfa_abbr": "South Dakota Housing",
+    "fiscal_year": "FY2025",
+    "source_title": "South Dakota Housing 2025 Annual Report -- Homeownership Programs, Rental Housing Development, and Rental Housing Management (Section 8/811 PRA)",
+    "source_url": "https://www.sdhousing.org/housing-partners/investors/financials-reports",
+    "source_file": "SD_SDHousing_AnnualReport_2025.pdf (downloaded from https://www.sdhousing.org/s/SDH_AnnualReport_2025_V4.pdf, listed on the SD Housing \"Financials & Reports\" page above; verified live 2026-08-16, HTTP 200, 3,454,227 bytes, 42 pages)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 2502,
+        "fy2025_source_quote": "\"HOMEOWNERSHIP PROGRAMS: $587,214,365 -- Mortgage loan funds provided for first-time and repeat homebuyers. 2,502 -- First-time or repeat homebuyers received loans from SD Housing. 2,096 -- Loans for first-time homebuyers totaling $480,451,950. 389 -- Loans for repeat homebuyers totaling $104,123,296. 17 -- Loans for Mortgage Credit Certificate Program totaling $2,639,119. 58 -- Loans for Home Improvement totaling $1,282,903 [separate program, not part of the 2,502-loan headline]. 807 -- Homebuyers received $7,884,841 in downpayment assistance [second-mortgage DPA, separate]. 956 -- Grants received from SD Housing totaling $11,528,507 for downpayment assistance [grant DPA, separate].\" (SD Housing 2025 Annual Report, \"Homeownership Programs\", p.16). 2,096 + 389 + 17 = 2,502 loans and $480,451,950 + $104,123,296 + $2,639,119 = $587,214,365, an exact partition of the headline (verified in verify_category_consistency()). The 58 Home Improvement loans and the two downpayment-assistance figures are separate programs layered on/alongside this headline and are not modeled as subprograms.",
+        "fy2025_amounts": [
+          {
+            "label_key": "sd_amt_home_loans",
+            "amount": 587214365
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "sdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_time_homebuyer",
+            "fy2025_units": 2096,
+            "fy2025_amount": 480451950,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Homeownership Mortgage Bonds (Single Family Housing Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "repeat_homebuyer",
+            "fy2025_units": 389,
+            "fy2025_amount": 104123296,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Homeownership Mortgage Bonds (Single Family Housing Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "mortgage_credit_certificate",
+            "fy2025_units": 17,
+            "fy2025_amount": 2639119,
+            "color_group": "credit",
+            "fund_type": "proprietary",
+            "fund_name": "Mortgage Credit Certificate Program (homeownership mortgage loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_housing_development",
+        "unit_type": "units",
+        "fy2025_actual": 2331,
+        "fy2025_source_quote": "\"RENTAL HOUSING DEVELOPMENT: South Dakota Housing awarded $109,845,684 to develop or preserve 2,331 units of affordable housing. These projects will result in new construction of 546 multifamily rental units, 4 single-family rental units and 43 single-family homes; rehabilitation of 91 multifamily rental units; infrastructure for 797 new single-family lots and 722 multifamily lots; homebuyer assistance for 25 homebuyers; rehab assistance for 36 homeowners and homelessness prevention assistance for 67 individuals/families.\" (SD Housing 2025 Annual Report, \"Rental Housing Development\", p.22; stat cards \"2,331 Total Units Created\" and \"$109,845,684 Total Financing Awarded\"). 593 (new construction) + 91 (rehab) + 1,519 (infrastructure lots) + 25 + 36 + 67 = 2,331, an exact partition of the \"Total Units Created\" headline (verified). NOTE: the report's own \"2,331 units\" is a heterogeneous count (rental units + single-family homes + infrastructure lots + assisted households), mirrored verbatim rather than redefined. Program financing (p.23) is disclosed separately as $15.1M HIFP + $2.7M HOF + $2.9M HTF + $4.3M HOME + $81.5M Bond + $3.3M HTC = $109.8M, consistent with the $109,845,684 total within the report's own $0.1M rounding.",
+        "fy2025_amounts": [
+          {
+            "label_key": "sd_amt_rental_development",
+            "amount": 109845684
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "sdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "new_construction",
+            "fy2025_units": 593,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Housing Revenue Bonds / development financing (enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "rehabilitation",
+            "fy2025_units": 91,
+            "fy2025_amount": null,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multifamily Housing Revenue Bonds / development financing (enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "infrastructure",
+            "fy2025_units": 1519,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Housing Infrastructure Financing Program (HIFP)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "homebuyer_assistance",
+            "fy2025_units": 25,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME / HTF / HOF federal & state grants (enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "homeowner_rehab",
+            "fy2025_units": 36,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME / HTF / HOF federal & state grants (enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          },
+          {
+            "key": "homelessness_prevention",
+            "fy2025_units": 67,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Emergency Solutions Grants (ESG) / federal & state grants (enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance",
+        "unit_type": "units",
+        "fy2025_actual": 4863,
+        "fy2025_source_quote": "\"RENTAL HOUSING MANAGEMENT: SD Housing provided $229,855,780 in Section 8 housing assistance payments for affordable housing. Section 8 and 811 PRA: Total Assistance Paid $29,855,780; Total Number of Units 4,863.\" (SD Housing 2025 Annual Report, \"Rental Housing Management\", p.25). The narrative \"$229,855,780\" carries a spurious leading \"2\" (a typo) -- both this page's own detail box ($29,855,780) and SD Housing's FY2025 audited Statement of Revenues (\"HUD housing assistance payments 29,855,780\", ACFR p.13) confirm $29,855,780, an exact external cross-check (verified in verify_category_consistency()). This build uses $29,855,780, never the typo'd figure.",
+        "fy2025_amounts": [
+          {
+            "label_key": "sd_amt_rental_assistance",
+            "amount": 29855780
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "sdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "section_8_pra",
+            "fy2025_units": 4863,
+            "fy2025_amount": 29855780,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Section 8 Housing Assistance Payments (federal pass-through administered on behalf of HUD)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "sdFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

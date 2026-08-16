@@ -1,0 +1,281 @@
+{
+  "LA": {
+    "hfa_name": "Louisiana Housing Corporation",
+    "hfa_abbr": "LHC",
+    "fiscal_year": "FY2025",
+    "source_title": "Louisiana Housing Corporation 2025 Annual Report -- BUILD/BLOOM/BELIEVE chapters (LIHTC, HOME & NHTF, Rental Assistance, Energy Assistance, Homeownership)",
+    "source_url": "https://www.lhc.la.gov/hubfs/Annual%20Report%20Edits%20II.pdf",
+    "source_file": "LA_LHC_AnnualReport_2025.pdf (downloaded from the hubfs URL above, linked from LHC's 'LHC Reflects on Affordable Housing Progress' press release; verified live 2026-08-16, HTTP 200, 62,875,511 bytes, 46 pages)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 1312,
+        "fy2025_source_quote": "\"In 2025, LHC invested $17.5 million through the Low-Income Housing Tax Credit Program to fund affordable multifamily rental units...\" (LHC 2025 Annual Report, BUILD, PDF p.9). Accompanying table: \"LIHTC (4%) 3 [projects] 268 [units] $2,785,183; LIHTC (9%) 21 [projects] 1,044 [units] $14,783,486; GRAND TOTAL 24 1,312 $17,568,669.\" The 4% and 9% rows are an exact partition of the grand total (268 + 1,044 = 1,312 units; $2,785,183 + $14,783,486 = $17,568,669; 3 + 21 = 24 projects), verified in verify_category_consistency(). The page also prints a second, independent partition -- \"2025 NEW UNITS 557 / 2025 REHABILITATED UNITS 755\" = 1,312 -- verified there too. The dollar column is the report's own \"LIHTC AWARDED\" figure; the report does not state whether it is an annual or 10-year credit total, so it is reported as-printed without that qualifier. \"$17.5 million\" is LHC's own rounded phrasing of the $17,568,669 grand total (also confirmed by the press release).",
+        "fy2025_amounts": [
+          {
+            "label_key": "la_amt_lihtc",
+            "amount": 17568669
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "laFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 1044,
+            "fy2025_amount": 14783486,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "Low-Income Housing Tax Credit Program (fee-administered)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4pct",
+            "fy2025_units": 268,
+            "fy2025_amount": 2785183,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "Low-Income Housing Tax Credit Program (fee-administered)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 805,
+        "fy2025_source_quote": "\"805 Homeownership Loans. $144,003,900 Amount of Loan Production. $66,402 Homeownership Counseling Awarded. 993 Homebuyer Education Graduates. 2,457 people attended LHC's Homebuyer Education courses either in-person or virtually. Over 1,400 Real Estate Professionals participated in LHC's Continuing Education Curriculum Course. 2,345 Loan Officers & Bank Office Closing Personnel participated in LHC's Lender Training Courses.\" (LHC 2025 Annual Report, BELIEVE, PDF p.22). The 805-loan / $144,003,900 loan-production pair is the homeownership KPI; the counseling/education/lender-training figures are outreach metrics with no per-loan partition and are quoted here for completeness but not modeled as subprograms. No per-loan dollar or per-loan subprogram breakdown is disclosed on this page (the Appendix B loan list is parish/city level, not a program split).",
+        "fy2025_amounts": [
+          {
+            "label_key": "la_amt_loan_production",
+            "amount": 144003900
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "laFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "single_family_loans",
+            "fy2025_units": 805,
+            "fy2025_amount": 144003900,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Revenue Bond Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 2009,
+        "fy2025_source_quote": "\"Project Based Vouchers 1,397. Tenant Based Vouchers 357. Non-Elderly Housing Voucher 135. Emergency Housing Voucher 101. Veterans Affairs Supportive Housing 19. Rental Assistance Vouchers Statewide 2,009.\" (LHC 2025 Annual Report, BLOOM, PDF p.17). The five voucher types sum to exactly 2,009 (1,397 + 357 + 135 + 101 + 19 = 2,009), the report's own statewide total -- an exact partition, verified in verify_category_consistency(). No dollar amount is disclosed for these vouchers on this page, so all subprogram amounts are null. (The report's separately-disclosed PBCA / Section 8 contract-administration figures -- 179 contracts, 15,376 PBCA units, $134M payments to owners, PDF p.19 -- are a monitoring/administration function, not part of the voucher award cohort, and are not modeled here.)",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "laFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "project_based",
+            "fy2025_units": 1397,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Choice Voucher pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "tenant_based",
+            "fy2025_units": 357,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Choice Voucher pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "non_elderly_housing",
+            "fy2025_units": 135,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Choice Voucher pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "emergency_housing",
+            "fy2025_units": 101,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Choice Voucher pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "vash",
+            "fy2025_units": 19,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Housing Choice Voucher pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "energy_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 73337,
+        "fy2025_source_quote": "\"2025 Weatherization Assistance Program: Funding $5,356,647; Recipients 652 recipients. 2025 Low Income Home Energy Assistance Program: Funding $48,394,446; Recipients 72,685. Funding Combined: $53,751,113.\" (LHC 2025 Annual Report, BLOOM, PDF p.19). Recipient counts sum cleanly to 73,337 (72,685 + 652) -- the report prints no combined-recipient total, so there is nothing to conflict with. Dollar note: the two printed funding figures sum to $53,751,093, but the report's own \"Funding Combined\" line prints $53,751,113 (a $20 source-side discrepancy, consistent with a $20 typo in one of the two components). Both component figures are independently confirmed by the press release, so each is used as printed and NO combined dollar total is asserted here -- see module docstring.",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "laFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "liheap",
+            "fy2025_units": 72685,
+            "fy2025_amount": 48394446,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal LIHEAP pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "weatherization",
+            "fy2025_units": 652,
+            "fy2025_amount": 5356647,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal Weatherization Assistance pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "home_program",
+        "unit_type": "units",
+        "fy2025_actual": 38,
+        "fy2025_source_quote": "\"In 2025, LHC awarded $6,371,00 [sic] through the HOME program and $2,750,000 through the National Housing Trust Fund Program (NHTF).\" (LHC 2025 Annual Report, BUILD, PDF p.11). The accompanying \"PROJECTS FUNDED THROUGH HOME & NATIONAL HOUSING TRUST FUND\" table prints a total row of 38 HOME/NHTF units, $6,371,000 HOME awards, $2,750,000 NHTF awards. The prose's \"$6,371,00\" is a typo for the table's and press release's \"$6,371,000\". IMPORTANT source-side inconsistency: the table's own visible rows sum to $5,371,000 HOME / 39 units (10 HOME rows: 27 units, $5,371,000; 2 NHTF rows: 12 units, $2,750,000 -- the NHTF side reconciles exactly) rather than the printed $6,371,000 / 38 -- a $1,000,000 / 1-unit gap indicating a likely missing or misprinted HOME row. Because the headline is corroborated in three places (prose, table total, press release), the printed headline is used as-is and no per-program unit split or re-derived total is asserted (subprogram units are null, additive=False). See module docstring.",
+        "fy2025_amounts": [
+          {
+            "label_key": "la_amt_home",
+            "amount": 6371000
+          },
+          {
+            "label_key": "la_amt_nhtf",
+            "amount": 2750000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "laFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "home",
+            "fy2025_units": null,
+            "fy2025_amount": 6371000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal HOME Investment Partnerships pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": null,
+            "fy2025_amount": 2750000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Federal National Housing Trust Fund pass-through (recognized in LHC's single enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "laFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "NE": {
+    "hfa_name": "Nebraska Investment Finance Authority",
+    "hfa_abbr": "NIFA",
+    "fiscal_year": "FY2025",
+    "source_title": "NIFA Fiscal Year 2025 Impact Report -- \"From Vision to Action\" (Affordable Rental Housing, Affordable Homeownership, Workforce Housing, and Emergency Rental Assistance sections)",
+    "source_url": "https://www.nifa.org/annual-report",
+    "source_file": "NE_NIFA_AnnualImpactReport_FY2025.pdf (downloaded from https://www-nifa-org-files.s3.amazonaws.com/88a4-06737177-2025_NIFAImpactReport_FINAL_4.pdf; verified live 2026-08-16, 6,853,615 bytes, 20 pages)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 1237,
+        "fy2025_source_quote": "\"Affordable Rental Housing -- FY25 IMPACT: $213.8M awarded in federal LIHTC and Nebraska's AHTC for 1,237 units. $372.2M stimulated by production of affordable units. 17 affordable rental developments awarded, including: 155 special needs units, 185 elderly units, 897 family units (Note: Some units count in more than one category.) 391 developments (13,798 units) under compliance.\" (NIFA Fiscal Year 2025 Impact Report, p.7). \"Since inception, NIFA has allocated $2 billion of federal LIHTC and $385.4 million of Nebraska AHTC\" is historical-cumulative and NOT used. 155 + 185 + 897 = 1,237, exactly the headline, but additive=False is used because the source explicitly states some units count in more than one category (not a true partition) -- see module docstring. The $372.2M \"stimulated by production\" figure is shown only as a reference amount below (a derived total-development-cost figure with no paired unit count), not modeled as its own subprogram.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ne_amt_lihtc_ahtc",
+            "amount": 213800000
+          },
+          {
+            "label_key": "ne_amt_lihtc_production",
+            "amount": 372200000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "neFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "special_needs",
+            "fy2025_units": 155,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "LIHTC / Nebraska AHTC (NIFA is the statutory allocating agency; credits flow to developers)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          },
+          {
+            "key": "elderly",
+            "fy2025_units": 185,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "LIHTC / Nebraska AHTC (NIFA is the statutory allocating agency; credits flow to developers)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          },
+          {
+            "key": "family",
+            "fy2025_units": 897,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "LIHTC / Nebraska AHTC (NIFA is the statutory allocating agency; credits flow to developers)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 2976,
+        "fy2025_source_quote": "\"Affordable Homeownership -- FY25 IMPACT: 2,976 first mortgage loans ($648M), including: 2,319 First Home loans ($480M), 657 Welcome Home loans ($168M) - including 150 repeat NIFA buyers.\" (NIFA Fiscal Year 2025 Impact Report, p.8). \"Since inception, NIFA has helped 104,501 Nebraska households achieve homeownership, financing nearly $9 billion and providing over $128 million in down payment assistance\" is historical-cumulative and NOT used. 2,319 + 657 = 2,976 loans and $480M + $168M = $648M, an exact partition of the report's own headline (verified in verify_category_consistency()); the 150 repeat NIFA buyers are a subset of Welcome Home, not an additional line.",
+        "fy2025_amounts": [
+          {
+            "label_key": "ne_amt_first_mortgage_total",
+            "amount": 648000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "neFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_home",
+            "fy2025_units": 2319,
+            "fy2025_amount": 480000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (tax-exempt/taxable bond-financed first mortgages)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          },
+          {
+            "key": "welcome_home",
+            "fy2025_units": 657,
+            "fy2025_amount": 168000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (tax-exempt/taxable bond-financed first mortgages)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "downpayment_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 1756,
+        "fy2025_source_quote": "\"Affordable Homeownership -- FY25 IMPACT: 1,756 second mortgage loans ($18.2M), including: 1,238 Homebuyer Assistance ($12M), 518 Welcome Home Assistance ($6.2M).\" (NIFA Fiscal Year 2025 Impact Report, p.8). These are the report's down-payment-assistance second-mortgage products (the same page's cumulative line frames the program as \"over $128 million in down payment assistance\" since inception). 1,238 + 518 = 1,756 loans and $12M + $6.2M = $18.2M, an exact partition of the report's own headline (verified in verify_category_consistency()).",
+        "fy2025_amounts": [
+          {
+            "label_key": "ne_amt_second_mortgage_total",
+            "amount": 18200000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "neFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homebuyer_assistance",
+            "fy2025_units": 1238,
+            "fy2025_amount": 12000000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (second-mortgage down payment assistance loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          },
+          {
+            "key": "welcome_home_assistance",
+            "fy2025_units": 518,
+            "fy2025_amount": 6200000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (second-mortgage down payment assistance loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "workforce_housing_grant",
+        "unit_type": "units",
+        "fy2025_actual": 30,
+        "fy2025_source_quote": "\"Workforce Housing -- FY25 IMPACT: $349,347 Rural Workforce Housing NIFA match funds invested; 8 Rural Workforce Housing units created that meet NIFA's moderate income requirements. $1.2M Urban Workforce Housing NIFA match funds invested; 22 Urban Workforce Housing units created that meet NIFA's moderate income requirements.\" (NIFA Fiscal Year 2025 Impact Report, p.13). The report prints no combined workforce-housing total (rural and urban are separate bullets), so the 30-unit headline is computed here as 8 + 22 and asserted in verify_category_consistency(); the category-level fy2025_amounts is empty because no combined dollar total is printed and the urban figure is rounded (\"$1.2M\", NIFA's own phrasing, expanded to 1,200,000 here).",
+        "fy2025_amounts": [],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "neFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rural_workforce",
+            "fy2025_units": 8,
+            "fy2025_amount": 349347,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Rural Workforce Housing Fund match funds (LB518; enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          },
+          {
+            "key": "urban_workforce",
+            "fy2025_units": 22,
+            "fy2025_amount": 1200000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Middle Income Workforce Housing Fund match funds (LB866; enterprise fund; source prints rounded \"$1.2M\")",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "emergency_rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 2517,
+        "fy2025_source_quote": "\"Emergency Rental Assistance -- FY25 IMPACT: 2,517 applications approved; $17.9M in assistance distributed; 70 Nebraska counties served; 1,433 applications approved for households with incomes below 50% AMI.\" (NIFA Fiscal Year 2025 Impact Report, p.14). The report's raw text prints the amount as \"$17. 9M\" with a stray internal space (an extraction artifact of the source's own number formatting), read as $17.9M. The \"1,433 ... below 50% AMI\" is a subset of the 2,517, not a separate partition; no further breakdown by county or source is disclosed. \"Applications approved\" is used as the household proxy (each application is a renter household); unit_type is \"households\".",
+        "fy2025_amounts": [
+          {
+            "label_key": "ne_amt_era2_distributed",
+            "amount": 17900000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "neFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "era2",
+            "fy2025_units": 2517,
+            "fy2025_amount": 17900000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Emergency Rental Assistance Fund (federal ERA2 subrecipient grant, recognized in the enterprise fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "neFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "abbr": "MT",
+  "prefix": "mt",
+  "config": {
+    "file": "mt_program_activity.json",
+    "prefix": "mt",
+    "modalTitleKey": "mtModalTitle",
+    "mapCenter": [46.9, -110.4],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "mtModalTitle": "蒙大拿州 Montana Housing FY2025 项目活动（试点）",
+      "mtCat_single_family_homeownership": "单户住宅购房贷款",
+      "mtCat_multifamily_rental": "多户住宅租赁单元",
+      "mtSub_sf_whole_loans": "单户住宅整体贷款",
+      "mtSub_lihtc_9pct": "9% 低收入住房税收抵免 (LIHTC)",
+      "mtSub_conduit_bond_financing": "管道债券融资（附 4% 税收抵免）",
+      "mt_amt_sf_whole_loans": "单户整体贷款购买",
+      "mt_amt_sf_mbs": "抵押贷款支持证券 (MBS)",
+      "mt_amt_lihtc_9pct": "9% LIHTC（10 年总额）",
+      "mt_amt_conduit_bonds": "管道债券",
+      "mt_amt_lihtc_4pct": "4% LIHTC（10 年总额）"
+    },
+    "en": {
+      "mtModalTitle": "Montana Housing FY2025 Program Activity (Pilot)",
+      "mtCat_single_family_homeownership": "Single-Family Homeownership",
+      "mtCat_multifamily_rental": "Multifamily Rental Housing",
+      "mtSub_sf_whole_loans": "Single-Family Mortgage Purchases (whole loans)",
+      "mtSub_lihtc_9pct": "9% Low-Income Housing Tax Credit (LIHTC)",
+      "mtSub_conduit_bond_financing": "Conduit Bond Financing (with 4% tax credits)",
+      "mt_amt_sf_whole_loans": "Single-Family Whole-Loan Purchases",
+      "mt_amt_sf_mbs": "Mortgage-Backed Securities (MBS)",
+      "mt_amt_lihtc_9pct": "9% LIHTC (10-year total)",
+      "mt_amt_conduit_bonds": "Conduit Bonds",
+      "mt_amt_lihtc_4pct": "4% LIHTC (10-year total)"
+    },
+    "es": {
+      "mtModalTitle": "Actividad del Programa de Montana Housing FY2025 (Piloto)",
+      "mtCat_single_family_homeownership": "Vivienda unifamiliar en propiedad",
+      "mtCat_multifamily_rental": "Vivienda multifamiliar de alquiler",
+      "mtSub_sf_whole_loans": "Compra de hipotecas unifamiliares (préstamos enteros)",
+      "mtSub_lihtc_9pct": "Crédito fiscal para vivienda de bajos ingresos del 9% (LIHTC)",
+      "mtSub_conduit_bond_financing": "Financiamiento con bonos conducto (con créditos fiscales del 4%)",
+      "mt_amt_sf_whole_loans": "Compra de préstamos enteros unifamiliares",
+      "mt_amt_sf_mbs": "Valores respaldados por hipotecas (MBS)",
+      "mt_amt_lihtc_9pct": "LIHTC 9% (total a 10 años)",
+      "mt_amt_conduit_bonds": "Bonos conducto",
+      "mt_amt_lihtc_4pct": "LIHTC 4% (total a 10 años)"
+    },
+    "pl": {
+      "mtModalTitle": "Działalność programowa Montana Housing FY2025 (Pilotaż)",
+      "mtCat_single_family_homeownership": "Własność domów jednorodzinnych",
+      "mtCat_multifamily_rental": "Wielorodzinne mieszkania na wynajem",
+      "mtSub_sf_whole_loans": "Zakup kredytów jednorodzinnych (pożyczki całościowe)",
+      "mtSub_lihtc_9pct": "9% ulga podatkowa na budownictwo mieszkaniowe (LIHTC)",
+      "mtSub_conduit_bond_financing": "Finansowanie obligacjami conduit (z ulgą podatkową 4%)",
+      "mt_amt_sf_whole_loans": "Zakup kredytów jednorodzinnych (pożyczki całościowe)",
+      "mt_amt_sf_mbs": "Papiery wartościowe zabezpieczone hipoteką (MBS)",
+      "mt_amt_lihtc_9pct": "LIHTC 9% (łącznie za 10 lat)",
+      "mt_amt_conduit_bonds": "Obligacje conduit",
+      "mt_amt_lihtc_4pct": "LIHTC 4% (łącznie za 10 lat)"
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "TN": {
+    "hfa_name": "Tennessee Housing Development Agency",
+    "hfa_abbr": "THDA",
+    "fiscal_year": "CY2025",
+    "source_title": "THDA 2025 Investments and Impacts Report -- 'Tennessee Program Totals' (Homeownership and Maintenance, Rental Development and Assistance, and Homelessness Assistance and Prevention programs)",
+    "source_url": "https://thda.org/research-and-reports/investments-impacts/",
+    "source_file": "TN_THDA_InvestmentsImpacts_2025.pdf (downloaded from https://dogvxws799i6n.cloudfront.net/wp-content/uploads/2025-Investments-and-Impacts-Draft-Final.pdf linked from the landing page above; verified live 2026-08-16, HTTP 200, 7,923,324 bytes, 147 pages)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "homeownership_loans",
+        "unit_type": "households",
+        "fy2025_actual": 1832,
+        "fy2025_source_quote": "\"The Great Choice and New Start Homeownership Loan Programs created 1,802 first time homeowners totaling $423.4M in home loans.\" (2025 Investments and Impacts, 'Homeownership and Maintenance Programs', p.6). The 'Tennessee Program Totals' table (p.9) lists these as two separate rows: 'Great Choice Home Loans ... 1,802 $423.4M' and 'New Start Loan Program ... 30 $5.7M', and the Methodology (pp.133/138) states 'In previous years, New Start Program loans were reported under Great Choice Home Loans, but have been separated out since 2020.' The p.6 sentence's joint 'Great Choice and New Start ... 1,802' phrasing is a stale pre-2020 grouping; this script follows the table + methodology (New Start separated out), so the combined CY2025 homeownership-loan total is 1,802 + 30 = 1,832 households / $423.4M + $5.7M = $429.1M (1,802 and 30 asserted as the source's own separate rows, summed once in verify_category_consistency()). Great Choice Plus DPA (1,766 borrowers / $17.4M) is a second-mortgage product 'not included in the Homeownership Loan Program units and dollars' (p.133) and is NOT a subprogram here.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tn_amt_home_loans_total",
+            "amount": 429100000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "great_choice",
+            "fy2025_units": 1802,
+            "fy2025_amount": 423400000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (first mortgage loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "new_start",
+            "fy2025_units": 30,
+            "fy2025_amount": 5700000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "New Start Loan Program (first mortgage loans)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 38993,
+        "fy2025_source_quote": "\"Section 8 Rental Assistance helped 38,993 households with $377.4M in rent and utility assistance. Of this: Tenant-based Housing Choice Voucher assistance of $60.8M aided 5,991 households living in privately owned rental housing. Through the Section 8 to Homeownership Program, 38 families received housing choice vouchers utilizing $271,517 in voucher assistance to make mortgage payments rather than rental payments. ... Project-based assistance of $316.3M helped 32,964 families pay an affordable rent in properties under contract with the U.S. Department of Housing and Urban Development (HUD).\" (2025 Investments and Impacts, 'Rental Development and Assistance Programs', p.7). 5,991 + 38 + 32,964 = 38,993 exactly (a perfect partition, verified in verify_category_consistency()). The three printed dollar parts sum to $377,371,517, which is the report's own '$377.4M' headline rounded to $0.1M (the '$60.8M' and '$316.3M' parts are themselves rounded).",
+        "fy2025_amounts": [
+          {
+            "label_key": "tn_amt_section8_total",
+            "amount": 377400000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "tenant_based_rental",
+            "fy2025_units": 5991,
+            "fy2025_amount": 60800000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Section 8 Housing Choice Voucher (federal pass-through grant revenue/expense)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "tenant_based_homeownership",
+            "fy2025_units": 38,
+            "fy2025_amount": 271517,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Section 8 to Homeownership (federal pass-through grant revenue/expense)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "project_based",
+            "fy2025_units": 32964,
+            "fy2025_amount": 316300000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Section 8 Project-Based Contract Administration (federal pass-through grant revenue/expense)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 4197,
+        "fy2025_source_quote": "\"Low Income Housing Credits in the amount of $71.6M were allocated to create or rehabilitate 4,197 affordable rental units. Of these, 2,653 units utilized $399.2M in Multi-Family Bond Authority to assist in financing the deal.\" (2025 Investments and Impacts, 'Rental Development and Assistance Programs', p.7). The Methodology (p.136) states 'Starting in the 2025 Investments and Impacts report, THDA will only report the one year value of tax credits' (previously the 10-year value) -- so $71.6M is the ONE-YEAR credit allocation, not a 10-year total. The 2,653 bond units are a SUBSET of the 4,197 LIHC units (footnote 2, p.9: 'The LIHC total unit reported is inclusive of these units'), so this category is non-additive (additive=False). Methodology p.137 notes only $399M of the bond allocation closed in 2025 due to the Oct 1-Nov 12, 2025 partial federal shutdown. Externally cross-checked against THDA's Sept 8, 2025 press release ('over $25 million in annual 9% ... LIHTC' / 988 units / $250M over 10 years) -- the 9% competitive subset of this $71.6M total.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tn_amt_lihtc",
+            "amount": 71600000
+          },
+          {
+            "label_key": "tn_amt_multifamily_bond",
+            "amount": 399200000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc",
+            "fy2025_units": 4197,
+            "fy2025_amount": 71600000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "multifamily_bond",
+            "fy2025_units": 2653,
+            "fy2025_amount": 399200000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Multi-Family Tax-Exempt Bond Authority",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "liheap_energy_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 74438,
+        "fy2025_source_quote": "\"The Low Income Home Energy Assistance Program awarded $17.7M to non-profits serving Tennessee to assist 24,314 low-income homeowners with their heating and cooling expenses.\" (p.6) and \"...awarded $36.6M ... to assist 50,124 low-income renters with paying heating and cooling expenses.\" (p.7) -- 'Tennessee Program Totals' table (p.9): 'Low-Income Home Energy Assistance Program ... 74,438 $54.3M'. 24,314 + 50,124 = 74,438 and $17.7M + $36.6M = $54.3M, an exact partition (verified in verify_category_consistency()). Methodology p.135: CY2025 households are 'lower than they were in previous years' because a vendor-change delayed some 2025 payment records (a documented source caveat, not a transcription issue). The separate, small Weatherization Assistance Program (294 households / $3.8M) is intentionally not folded in here: Methodology pp.135/141 explain THDA transfers part of its LIHEAP allocation into WAP and, in 2025, removed LIHEAP-weatherization households from the WAP count -- an overlap/funding nuance that would blur a clean additive partition.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tn_amt_liheap_total",
+            "amount": 54300000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "liheap_homeownership",
+            "fy2025_units": 24314,
+            "fy2025_amount": 17700000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "LIHEAP (federal grant administered by THDA)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "liheap_rental",
+            "fy2025_units": 50124,
+            "fy2025_amount": 36600000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "LIHEAP (federal grant administered by THDA)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "home_program_grants",
+        "unit_type": "households",
+        "fy2025_actual": 477,
+        "fy2025_source_quote": "\"The HOME Program awarded $19.6M to local governments and non-profit organizations to provide rehabilitation, homeownership, and rental services to 142 households.\" (p.6). \"Tennessee's Housing Trust Fund ... 335 $6.4M\" ('Tennessee Program Totals', p.9) -- composed of Competitive Grants (44 households / $3.5M), Emergency Repair (150 / $2,239,293), Habitat for Humanity of Tennessee (20 / $500,000), and Home Modifications and Ramps (121 / $175,037), per pp.6-7. 142 + 335 = 477 households and $19.6M + $6.4M = $26.0M (verified in verify_category_consistency()). No overlap between HOME and THTF is stated anywhere in the report, so this is treated as a true partition of the two grant programs. The National Housing Trust Fund (18 rental UNITS / $3.5M) is EXCLUDED because the source counts it in rental units, not households -- mixing unit types in one household-counted category would be wrong; it is documented, not silently merged.",
+        "fy2025_amounts": [
+          {
+            "label_key": "tn_amt_home_grants_total",
+            "amount": 26000000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "tnFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "home",
+            "fy2025_units": 142,
+            "fy2025_amount": 19600000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "HOME Investment Partnerships Program (federal formula grant administered by THDA)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          },
+          {
+            "key": "tn_housing_trust_fund",
+            "fy2025_units": 335,
+            "fy2025_amount": 6400000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Tennessee Housing Trust Fund (THDA funds + state appropriations)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "tnFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

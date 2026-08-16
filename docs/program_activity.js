@@ -136,6 +136,54 @@
       file: "ga_program_activity.json", prefix: "ga",
       modalTitleKey: "gaModalTitle", mapCenter: [32.7, -83.4], mapZoom: 7,
     },
+    LA: {
+      file: "la_program_activity.json", prefix: "la",
+      modalTitleKey: "laModalTitle", mapCenter: [31, -92], mapZoom: 7,
+    },
+    MD: {
+      file: "md_program_activity.json", prefix: "md",
+      modalTitleKey: "mdModalTitle", mapCenter: [39, -76.7], mapZoom: 8,
+    },
+    MT: {
+      file: "mt_program_activity.json", prefix: "mt",
+      modalTitleKey: "mtModalTitle", mapCenter: [46.9, -110.4], mapZoom: 7,
+    },
+    ND: {
+      file: "nd_program_activity.json", prefix: "nd",
+      modalTitleKey: "ndModalTitle", mapCenter: [47.5, -100.5], mapZoom: 7,
+    },
+    NE: {
+      file: "ne_program_activity.json", prefix: "ne",
+      modalTitleKey: "neModalTitle", mapCenter: [41.5, -99.8], mapZoom: 7,
+    },
+    NJ: {
+      file: "nj_program_activity.json", prefix: "nj",
+      modalTitleKey: "njModalTitle", mapCenter: [40.1, -74.5], mapZoom: 8,
+    },
+    NM: {
+      file: "nm_program_activity.json", prefix: "nm",
+      modalTitleKey: "nmModalTitle", mapCenter: [34.5, -106], mapZoom: 7,
+    },
+    OK: {
+      file: "ok_program_activity.json", prefix: "ok",
+      modalTitleKey: "okModalTitle", mapCenter: [35.5, -97.5], mapZoom: 7,
+    },
+    SD: {
+      file: "sd_program_activity.json", prefix: "sd",
+      modalTitleKey: "sdModalTitle", mapCenter: [44.4, -100.2], mapZoom: 7,
+    },
+    TN: {
+      file: "tn_program_activity.json", prefix: "tn",
+      modalTitleKey: "tnModalTitle", mapCenter: [35.7, -86], mapZoom: 7,
+    },
+    VT: {
+      file: "vt_program_activity.json", prefix: "vt",
+      modalTitleKey: "vtModalTitle", mapCenter: [44, -72.7], mapZoom: 8,
+    },
+    WV: {
+      file: "wv_program_activity.json", prefix: "wv",
+      modalTitleKey: "wvModalTitle", mapCenter: [38.6, -80.7], mapZoom: 7,
+    },
   };
 
   window.initProgramActivity = function initProgramActivity(api) {
