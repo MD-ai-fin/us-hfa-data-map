@@ -7,7 +7,7 @@
     const {
       t, tMetric, getLang,
       getStateData, stateDisplayName, metricValueForState, fmt,
-      METRIC_KEYS, METRIC_COLORS,
+      METRIC_KEYS, METRIC_COLORS, METRIC_GROUPS,
       rankedStates, metricValues, metricRange,
       flyToState, clearHighlights, highlightAbbrs, refreshMap, applyHighlightClasses,
       getDataset,
@@ -80,6 +80,19 @@
       body?.querySelectorAll(`[data-state="${abbr}"]`).forEach(el => el.classList.add("is-selected"));
     }
 
+    // Shared grouped <optgroup> options for the rank/scatter metric dropdowns,
+    // reusing METRIC_GROUPS (financial / population / housing activity).
+    function groupedMetricOptions(selectedKey) {
+      return METRIC_GROUPS.map(g =>
+        `<optgroup label="${t(g.key)}">` +
+        g.metrics
+          .filter(k => k !== "staff_count")
+          .map(k => `<option value="${k}" ${k === selectedKey ? "selected" : ""}>${tMetric(k)}</option>`)
+          .join("") +
+        `</optgroup>`
+      ).join("");
+    }
+
     // ---------- Ranking chart ----------
 
     function renderRankView() {
@@ -93,10 +106,7 @@
       const span = (domMax - domMin) || 1;
       const zeroPct = ((0 - domMin) / span) * 100;
       const color = METRIC_COLORS[metric] || "var(--accent)";
-      const options = METRIC_KEYS
-        .filter(k => k !== "staff_count")
-        .map(k => `<option value="${k}" ${k === metric ? "selected" : ""}>${tMetric(k)}</option>`)
-        .join("");
+      const options = groupedMetricOptions(metric);
       const hint = t("rankChartHint").replace("{n}", String(rows.length));
       const listHtml = rows.map((r, i) => {
         const name = stateDisplayName(r.rec, r.state);
@@ -272,10 +282,7 @@
       const corrText = fit
         ? t("scatterCorrelation").replace("{r}", fit.r.toFixed(2)).replace("{n}", String(fit.n))
         : t("scatterInsufficientData");
-      const optionsFor = key => METRIC_KEYS
-        .filter(k => k !== "staff_count")
-        .map(k => `<option value="${k}" ${k === key ? "selected" : ""}>${tMetric(k)}</option>`)
-        .join("");
+      const optionsFor = key => groupedMetricOptions(key);
       body.innerHTML = `
         <div class="chart-controls">
           <label class="chart-field">
