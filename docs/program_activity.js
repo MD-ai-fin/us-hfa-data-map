@@ -542,6 +542,20 @@
       setTimeout(() => bubbleMap.invalidateSize({ animate: false }), 50);
     }
 
+    // 把 source_file 里的构建/溯源备注（括号说明、"+ 附加文件"、" -- 说明"、
+    // 下载来源/字节数/本地路径等）裁掉，只保留简洁的主报告文件名或报告名，
+    // 用于卡片尾端的链接文字，避免出现过长的链接名。
+    function shortSourceLabel(d) {
+      const raw = String(d.source_file || "");
+      let s = raw.split(/[(+;]|--/)[0].trim();
+      s = s.split("/").pop().trim();
+      const vague = /^(none|report|annual\s*report|web\s*report|interactive\s*web\s*report|\d{4}\s+annual\s*report)$/i;
+      if (!s || vague.test(s)) {
+        s = String(d.source_title || "").split(/[(]|--/)[0].trim();
+      }
+      return s || d.source_url || "";
+    }
+
     function renderBody() {
       const body = $("il-activity-body");
       const d = data();
@@ -581,7 +595,7 @@
         ${fundLegend}
         ${hasMap ? `<div class="il-section-title">${escapeHtml(t("ilMapTitle").replace("{fy}", d.fiscal_year || ""))}</div>
         <div class="il-map-wrap"><div id="il-bubble-map"></div>${mapLegend}</div>` : ""}
-        <p class="il-footnote">${sourceNote}<br><a href="${d.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(d.source_file || d.source_url)}</a></p>
+        <p class="il-footnote">${sourceNote}<br><a href="${d.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(shortSourceLabel(d))}</a></p>
       `;
       renderMap();
     }
