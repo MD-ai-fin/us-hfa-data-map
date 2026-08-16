@@ -1,0 +1,92 @@
+{
+  "abbr": "NM",
+  "prefix": "nm",
+  "config": {
+    "file": "nm_program_activity.json",
+    "prefix": "nm",
+    "modalTitleKey": "nmModalTitle",
+    "mapCenter": [
+      34.5,
+      -106.0
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "nmModalTitle": "新墨西哥州 MFA FFY2025 项目活动（试点）",
+      "nmCat_multifamily_production": "新建住房生产",
+      "nmCat_housing_rehabilitation": "住房修缮与节能改造",
+      "nmCat_homeownership": "购房置业（首套房按揭与首付援助）",
+      "nmCat_housing_stability": "住房稳定（租金援助与支持性服务）",
+      "nmSub_new_homes": "新建住房",
+      "nmSub_home_rehab": "节能改造或修缮住房",
+      "nmSub_first_mortgages": "首套房按揭",
+      "nmSub_down_payment_assistance": "首付援助",
+      "nmSub_rental_assistance_vouchers": "长期租金援助（代金券）",
+      "nmSub_rental_assistance": "租金援助",
+      "nmSub_homelessness_prevention": "无家可归预防与支持性服务",
+      "nmSub_landlord_incentives": "房东激励",
+      "nm_amt_production": "生产投资",
+      "nm_amt_preservation": "保全投资",
+      "nm_amt_homeownership_total": "首套房贷＋首付援助融资",
+      "nm_amt_housing_stability": "住房稳定资金"
+    },
+    "en": {
+      "nmModalTitle": "New Mexico MFA FFY2025 Program Activity (Pilot)",
+      "nmCat_multifamily_production": "New Housing Production",
+      "nmCat_housing_rehabilitation": "Housing Rehabilitation & Weatherization",
+      "nmCat_homeownership": "Homeownership (First Mortgages & Down Payment Assistance)",
+      "nmCat_housing_stability": "Housing Stability (Rental Assistance & Supportive Services)",
+      "nmSub_new_homes": "New Homes Produced",
+      "nmSub_home_rehab": "Weatherized or Rehabilitated Homes",
+      "nmSub_first_mortgages": "First Mortgages",
+      "nmSub_down_payment_assistance": "Down Payment Assistance",
+      "nmSub_rental_assistance_vouchers": "Long-Term Rental Assistance (Vouchers)",
+      "nmSub_rental_assistance": "Rental Assistance",
+      "nmSub_homelessness_prevention": "Homelessness Prevention & Supportive Services",
+      "nmSub_landlord_incentives": "Landlord Incentives",
+      "nm_amt_production": "Production Investment",
+      "nm_amt_preservation": "Preservation Investment",
+      "nm_amt_homeownership_total": "First Mortgage + DPA Financing",
+      "nm_amt_housing_stability": "Housing Stability Funding"
+    },
+    "es": {
+      "nmModalTitle": "Actividad del programa de MFA de Nuevo México FFY2025 (Piloto)",
+      "nmCat_multifamily_production": "Producción de vivienda nueva",
+      "nmCat_housing_rehabilitation": "Rehabilitación y climatización de vivienda",
+      "nmCat_homeownership": "Acceso a vivienda en propiedad (primeras hipotecas y ayuda al pago inicial)",
+      "nmCat_housing_stability": "Estabilidad de vivienda (asistencia de alquiler y servicios de apoyo)",
+      "nmSub_new_homes": "Viviendas nuevas producidas",
+      "nmSub_home_rehab": "Viviendas climatizadas o rehabilitadas",
+      "nmSub_first_mortgages": "Primeras hipotecas",
+      "nmSub_down_payment_assistance": "Ayuda para el pago inicial",
+      "nmSub_rental_assistance_vouchers": "Asistencia de alquiler a largo plazo (vales)",
+      "nmSub_rental_assistance": "Asistencia de alquiler",
+      "nmSub_homelessness_prevention": "Prevención de la falta de vivienda y servicios de apoyo",
+      "nmSub_landlord_incentives": "Incentivos para arrendadores",
+      "nm_amt_production": "Inversión en producción",
+      "nm_amt_preservation": "Inversión en preservación",
+      "nm_amt_homeownership_total": "Financiación de primeras hipotecas + ayuda al pago inicial",
+      "nm_amt_housing_stability": "Financiación para la estabilidad de vivienda"
+    },
+    "pl": {
+      "nmModalTitle": "Działalność programowa MFA w Nowym Meksyku FFY2025 (Pilotaż)",
+      "nmCat_multifamily_production": "Produkcja nowych mieszkań",
+      "nmCat_housing_rehabilitation": "Remonty i termomodernizacja mieszkań",
+      "nmCat_homeownership": "Własność mieszkaniowa (pierwsze kredyty i pomoc do wkładu własnego)",
+      "nmCat_housing_stability": "Stabilność mieszkaniowa (pomoc czynszowa i usługi wsparcia)",
+      "nmSub_new_homes": "Nowo wyprodukowane domy",
+      "nmSub_home_rehab": "Domy po termomodernizacji lub remoncie",
+      "nmSub_first_mortgages": "Pierwsze kredyty hipoteczne",
+      "nmSub_down_payment_assistance": "Pomoc do wkładu własnego",
+      "nmSub_rental_assistance_vouchers": "Długoterminowa pomoc czynszowa (vouchery)",
+      "nmSub_rental_assistance": "Pomoc czynszowa",
+      "nmSub_homelessness_prevention": "Zapobieganie bezdomności i usługi wsparcia",
+      "nmSub_landlord_incentives": "Zachęty dla wynajmujących",
+      "nm_amt_production": "Inwestycja w produkcję",
+      "nm_amt_preservation": "Inwestycja w zachowanie zasobów",
+      "nm_amt_homeownership_total": "Finansowanie pierwszych kredytów + pomoc do wkładu",
+      "nm_amt_housing_stability": "Finansowanie stabilności mieszkaniowej"
+    }
+  }
+}

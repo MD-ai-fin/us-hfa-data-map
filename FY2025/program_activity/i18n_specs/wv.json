@@ -1,0 +1,80 @@
+{
+  "abbr": "WV",
+  "prefix": "wv",
+  "config": {
+    "file": "wv_program_activity.json",
+    "prefix": "wv",
+    "modalTitleKey": "wvModalTitle",
+    "mapCenter": [
+      38.6,
+      -80.7
+    ],
+    "mapZoom": 7
+  },
+  "i18n": {
+    "zh": {
+      "wvModalTitle": "西弗吉尼亚州 WVHDF FY2025 项目活动（试点）",
+      "wvCat_single_family_homeownership": "单户住房贷款",
+      "wvCat_multifamily_rental_production": "多户租赁住房建设",
+      "wvCat_rental_assistance": "紧急租金援助",
+      "wvSub_homeownership_program": "购房计划（首次购房贷款）",
+      "wvSub_movin_up": "Movin' Up 计划",
+      "wvSub_veterans": "退伍军人住房贷款计划",
+      "wvSub_onsite_systems": "现场污水处理系统贷款计划",
+      "wvSub_multifamily_total": "多户贷款与拨款（合计）",
+      "wvSub_rental_assistance_total": "租金与水电费援助（合计）",
+      "wv_amt_single_family_total": "单户住房贷款总额",
+      "wv_amt_low_down_assistance": "低首付住房贷款（首付/成交费用援助）",
+      "wv_amt_multifamily_total": "多户贷款与拨款总额",
+      "wv_amt_rental_assistance": "直接租金与水电费援助"
+    },
+    "en": {
+      "wvModalTitle": "West Virginia WVHDF FY2025 Program Activity (Pilot)",
+      "wvCat_single_family_homeownership": "Single-Family Homeownership Lending",
+      "wvCat_multifamily_rental_production": "Multifamily Rental Production",
+      "wvCat_rental_assistance": "Emergency Rental Assistance",
+      "wvSub_homeownership_program": "Homeownership Program (first-time homebuyer loans)",
+      "wvSub_movin_up": "Movin' Up Program",
+      "wvSub_veterans": "Veterans' Home Loan Mortgage Program",
+      "wvSub_onsite_systems": "On-Site Systems (septic) Loan Program",
+      "wvSub_multifamily_total": "Multifamily loans and awards (total)",
+      "wvSub_rental_assistance_total": "Rental and utility assistance (total)",
+      "wv_amt_single_family_total": "Single-family production total",
+      "wv_amt_low_down_assistance": "Low Down Home Loan (down payment / closing cost assistance)",
+      "wv_amt_multifamily_total": "Multifamily loans and awards total",
+      "wv_amt_rental_assistance": "Direct rental and utility assistance"
+    },
+    "es": {
+      "wvModalTitle": "Actividad del Programa del WVHDF de Virginia Occidental FY2025 (Piloto)",
+      "wvCat_single_family_homeownership": "Préstamos hipotecarios unifamiliares",
+      "wvCat_multifamily_rental_production": "Producción de viviendas de alquiler multifamiliares",
+      "wvCat_rental_assistance": "Asistencia de emergencia para el alquiler",
+      "wvSub_homeownership_program": "Programa de Vivienda en Propiedad (préstamos a compradores primerizos)",
+      "wvSub_movin_up": "Programa Movin' Up",
+      "wvSub_veterans": "Programa de Préstamos Hipotecarios para Veteranos",
+      "wvSub_onsite_systems": "Programa de Préstamos para Sistemas Sépticos In Situ",
+      "wvSub_multifamily_total": "Préstamos y adjudicaciones multifamiliares (total)",
+      "wvSub_rental_assistance_total": "Asistencia de alquiler y servicios públicos (total)",
+      "wv_amt_single_family_total": "Producción unifamiliar total",
+      "wv_amt_low_down_assistance": "Préstamo de Bajo Enganche (asistencia para la cuota inicial / gastos de cierre)",
+      "wv_amt_multifamily_total": "Total de préstamos y adjudicaciones multifamiliares",
+      "wv_amt_rental_assistance": "Asistencia directa de alquiler y servicios públicos"
+    },
+    "pl": {
+      "wvModalTitle": "Działalność programowa WVHDF w Wirginii Zachodniej FY2025 (Pilotaż)",
+      "wvCat_single_family_homeownership": "Kredyty na zakup domu jednorodzinnego",
+      "wvCat_multifamily_rental_production": "Budowa wielorodzinnych mieszkań na wynajem",
+      "wvCat_rental_assistance": "Pomoc doraźna w opłatach czynszowych",
+      "wvSub_homeownership_program": "Program Własności Domu (kredyty dla pierwszych nabywców)",
+      "wvSub_movin_up": "Program Movin' Up",
+      "wvSub_veterans": "Program kredytów hipotecznych dla weteranów",
+      "wvSub_onsite_systems": "Program kredytów na przydomowe systemy kanalizacyjne",
+      "wvSub_multifamily_total": "Kredyty i dotacje wielorodzinne (łącznie)",
+      "wvSub_rental_assistance_total": "Pomoc czynszowa i opłaty za media (łącznie)",
+      "wv_amt_single_family_total": "Łączna produkcja jednorodzinna",
+      "wv_amt_low_down_assistance": "Kredyt z niskim wkładem własnym (pomoc przy wkładzie / kosztach zamknięcia)",
+      "wv_amt_multifamily_total": "Łączne kredyty i dotacje wielorodzinne",
+      "wv_amt_rental_assistance": "Bezpośrednia pomoc czynszowa i opłaty za media"
+    }
+  }
+}

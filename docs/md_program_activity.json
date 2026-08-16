@@ -1,0 +1,462 @@
+{
+  "MD": {
+    "hfa_name": "Maryland Community Development Administration (CDA), Department of Housing and Community Development",
+    "hfa_abbr": "Maryland CDA",
+    "fiscal_year": "FY2025",
+    "source_title": "Maryland DHCD Fiscal Year 2025 Agency Impact Report (\"FY25 DHCD Annual Report\") -- FY25 Program Investments chapter + official DHCD press release (unit/household headline counts)",
+    "source_url": "https://dhcdannualreport.maryland.gov/fy25",
+    "source_file": "FY25 DHCD Annual Report (dhcdannualreport.maryland.gov/fy25) -- a Framer SPA, not a downloadable PDF; program-dollar figures transcribed from this build's local HTML dump. Unit/household headline counts transcribed from DHCD's official press release news.maryland.gov/dhcd/2026/02/23/maryland-department-of-housing-and-community-development-generates-8-5-billion-in-economic-impact-supports-nearly-31000-jobs-in-fiscal-year-2025/ (the report's own By-the-Numbers cards are image/JS-rendered and do not survive text extraction). Neither is archived as a PDF under FY2025/program_activity/pdf/ because neither is a downloadable PDF.",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "rental_housing",
+        "unit_type": "units",
+        "fy2025_actual": 3997,
+        "fy2025_source_quote": "\"In Fiscal Year 2025, the Department financed 3,997 newly constructed or substantially rehabilitated units for families, seniors and people at all income levels through 36 projects in Maryland.\" (DHCD FY2025 Agency Impact Report press release, Feb 23, 2026; independently corroborated by DHCD's Aug 4, 2025 press release, which also reports 3,997 units / 36 projects.) The report's \"FY25 Program Investments\" chapter prints the dollar side as \"Rental Housing Development -- $1.375 billion\" with a nine-item funding-source breakdown (724+485+78+64+11+6+4+2+1 = $1,375M exactly, verified in verify_category_consistency()). The nine dollar sub-items are FUNDING SOURCES, not a population partition of the 3,997 units (a single development layers several of them), so the category is additive=False and the subprograms are dollar-only reference chips.",
+        "fy2025_amounts": [
+          {
+            "label_key": "md_amt_rental_total",
+            "amount": 1375000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_revenue_bond",
+            "fy2025_units": null,
+            "fy2025_amount": 724000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Community Development Administration Housing Revenue Bonds (proprietary fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_4pct",
+            "fy2025_units": null,
+            "fy2025_amount": 485000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": null,
+            "fy2025_amount": 78000000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "rental_housing_works",
+            "fy2025_units": null,
+            "fy2025_amount": 64000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Rental Housing Works Program (state-funded; not in the CDA Housing Revenue Bonds fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "rental_housing_loans",
+            "fy2025_units": null,
+            "fy2025_amount": 11000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Community Development Administration Housing Revenue Bonds (proprietary fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "home_rental",
+            "fy2025_units": null,
+            "fy2025_amount": 6000000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Federal HOME Investment Partnerships Program (not in the CDA Housing Revenue Bonds fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "shelter_transitional",
+            "fy2025_units": null,
+            "fy2025_amount": 4000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Shelter and Transitional Housing Program (state-funded)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "nhtf",
+            "fy2025_units": null,
+            "fy2025_amount": 2000000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "National Housing Trust Fund (federal; not in the CDA Housing Revenue Bonds fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "partnership_rental",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Partnership Rental Housing Program (CDA multifamily lending)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 3070,
+        "fy2025_source_quote": "\"The program [Maryland Mortgage Program] averages $1 billion in mortgage loan reservations annually and provided 3,070 mortgages for homebuyers in Fiscal Year 2025.\" (DHCD FY2025 Agency Impact Report press release, Feb 23, 2026.) DHCD's earlier Aug 4, 2025 press release had said MMP \"provided mortgages to almost 4,300 Marylanders and their families\" but scoped it \"based on the numbers to date\" -- a mid-year preliminary count; the impact report's 3,070 is the final full-year figure and is the one used here. The report's dollar side is \"Homeownership and Special Needs Housing -- $1.011 billion\" (960+43+4+2+1+1 = $1,011M exactly, verified) -- note this program total also includes ~$8M of special-needs items (single-family rehab, HOME homebuyer, HomeAbility, lead paint) beyond MMP's own $960M mortgage-backed securities + $43M downpayment assistance; the scope is documented, not hidden.",
+        "fy2025_amounts": [
+          {
+            "label_key": "md_amt_homeownership_total",
+            "amount": 1011000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "mmp_mbs",
+            "fy2025_units": null,
+            "fy2025_amount": 960000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Maryland Mortgage Program mortgage revenue bonds (single-family)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "downpayment_assistance",
+            "fy2025_units": null,
+            "fy2025_amount": 43000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Downpayment Assistance Programs (with Maryland Mortgage Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "single_family_rehab",
+            "fy2025_units": null,
+            "fy2025_amount": 4000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Single Family Housing Rehabilitation Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "home_homebuyer",
+            "fy2025_units": null,
+            "fy2025_amount": 2000000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Federal HOME Investment Partnerships Program (homebuyer)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "disability_homeability",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Home Ability Program (housing for individuals with disabilities)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "lead_paint",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Lead Paint Abatement Program (incl. HH4Ks)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "energy_efficiency",
+        "unit_type": "households",
+        "fy2025_actual": 3500,
+        "fy2025_source_quote": "\"The Department's Energy Efficiency programs provided assistance to nearly 3,500 households in Fiscal Year 2025 to make homes safer, more comfortable and accessible to Marylanders.\" (DHCD FY2025 Agency Impact Report press release, Feb 23, 2026.) The source's own \"nearly\" qualifier is preserved here (3500 is used as the headline with the qualifier quoted verbatim). The report's dollar side is \"Housing Energy Efficiency -- $70 million\" (39+19+8+4 = $70M exactly, verified). Dollar sub-items are funding sources, not a partition of the household count, so additive=False.",
+        "fy2025_amounts": [
+          {
+            "label_key": "md_amt_energy_total",
+            "amount": 70000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_energy",
+            "fy2025_units": null,
+            "fy2025_amount": 39000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Multifamily Housing Energy Efficiency Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "empower_md",
+            "fy2025_units": null,
+            "fy2025_amount": 19000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "EmPOWER MD Single Family Energy Efficiency Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "other_single_family_energy",
+            "fy2025_units": null,
+            "fy2025_amount": 8000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Other Single Family Housing Energy Efficiency Programs",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "weatherization_wap",
+            "fy2025_units": null,
+            "fy2025_amount": 4000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Federal Single Family Weatherization Assistance Program (WAP)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeless_solutions",
+        "unit_type": "households",
+        "fy2025_actual": 18423,
+        "fy2025_source_quote": "\"In Fiscal Year 2025, the division supported 21,495 people and 18,423 households.\" (DHCD FY2025 Agency Impact Report press release, Feb 23, 2026, describing the Division of Homeless Solutions.) The report's dollar side is \"Homeless Solutions -- $32 million\" with a seven-item breakdown that sums to $32.3M (18+10+2+1+1+0.2+0.1); the report's own \"$32 million\" headline rounds that sum down -- a source-internal rounding reproduced faithfully (asserted in verify_category_consistency, not silently resolved). Sub-items are funding sources, not a partition of the household count, so additive=False.",
+        "fy2025_amounts": [
+          {
+            "label_key": "md_amt_homeless_total",
+            "amount": 32000000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mdFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homelessness_solutions_program",
+            "fy2025_units": null,
+            "fy2025_amount": 18000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Homelessness Solutions Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "csbg",
+            "fy2025_units": null,
+            "fy2025_amount": 10000000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Community Services Block Grant (federal pass-through)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "housing_counseling",
+            "fy2025_units": null,
+            "fy2025_amount": 2000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Housing Counseling Program (formerly Foreclosure Prevention)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "oahmp",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Older Adult Home Modification Program (OAHMP)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "emergency_rental_assistance",
+            "fy2025_units": null,
+            "fy2025_amount": 1000000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Emergency Rental Assistance Program",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "nhs_oag",
+            "fy2025_units": null,
+            "fy2025_amount": 200000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Neighborhood Housing Services (OAG)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          },
+          {
+            "key": "yshi",
+            "fy2025_units": null,
+            "fy2025_amount": 100000,
+            "color_group": "capital",
+            "fund_type": "governmental",
+            "fund_name": "Youth Homeless Systems Improvement (YSHI)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mdFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

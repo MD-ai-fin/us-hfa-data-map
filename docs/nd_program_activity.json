@@ -1,0 +1,165 @@
+{
+  "ND": {
+    "hfa_name": "North Dakota Housing Finance Agency",
+    "hfa_abbr": "NDHFA",
+    "fiscal_year": "FY2025",
+    "source_title": "North Dakota Consolidated Annual Performance and Evaluation Report (CAPER) -- \"FY2024 Draft\" covering July 1, 2024 - June 30, 2025 (HOME, Housing Trust Fund, and Emergency Solutions Grant / homeless-assistance sections)",
+    "source_url": "https://www.ndhousing.nd.gov/sites/www/files/documents/Plans/2024DraftforPublicCommentPeriod.pdf",
+    "source_file": "ND_NDHFA_CAPER_2024.pdf (downloaded 2026-08-16, HTTP 200, 16,655,160 bytes, 67 pages; listed as 'FY 2024 CAPER Draft for Comment' on the consolidated-plan landing page https://www.ndhousing.nd.gov/consolidated-plan/)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "home_program",
+        "unit_type": "units",
+        "fy2025_actual": 54,
+        "fy2025_source_quote": "\"A total of 54 HOME-assisted units were completed in FY2024.\" (North Dakota CAPER, CR-20 Affordable Housing, p.18; confirmed by CR-20 Table 13 'Number of Households Served -- HOME Actual ... Total 54'). Components (CR-05 Goals and Outcomes, p.2): \"Three multi-family projects were fully completed under the HOME program, Prairie Ridge Residences 120 units (11 HOME Assisted) ... Century View Apartments, 40 units (10 HOME-assisted) ... and Lantern Light a 23 units (23 Home-Assisted) ... A total of 5 units were completed under the HOME Homeowner Rehabilitation program ... A total of 5 units were completed under the HOME Community Land Trust Housing Assistance Program (HOME CHAP).\" 11 + 10 + 23 (multifamily) + 5 (homeowner rehab) + 5 (down-payment/CHAP) = 54 (verified in verify_category_consistency()). \"During the program year, a total of $6,433,618.82 was expended for HOME ... on housing activities\" (CR-05 p.2; CR-15 Table 3 prints 'HOME ... Amount Expended During Program Year 6,433,618').",
+        "fy2025_amounts": [
+          {
+            "label_key": "nd_amt_home_total",
+            "amount": 6433619
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ndFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_rental",
+            "fy2025_units": 44,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (HOME federal grant; HOME loans on the Agency's statement of net position, ACFR Note 5)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          },
+          {
+            "key": "homeowner_rehabilitation",
+            "fy2025_units": 5,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (HOME federal grant program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          },
+          {
+            "key": "homebuyer_assistance",
+            "fy2025_units": 5,
+            "fy2025_amount": null,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (HOME CHAP / down-payment assistance grant program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_trust_fund",
+        "unit_type": "units",
+        "fy2025_actual": 23,
+        "fy2025_source_quote": "\"One project was completed during the program year, Lantern Light, a 23-unit (23 HTF assisted) development for individuals experiencing homelessness located in Fargo, ND.\" (North Dakota CAPER, CR-56 HTF, p.33; CR-56 Table 15 prints 'Rental ... Total Completed Units 23'). CR-20 (p.18) confirms: \"There was 1 HTF-assisted project completed/23 HTF-assisted units.\" \"... a total of $7,088,068.01 for Housing Trust fund on housing activities\" (CR-05 p.2; CR-15 Table 3 prints 'HTF ... Amount Expended During Program Year 7,088,068'). NOTE -- source-internal discrepancy flagged: CR-05's narrative overview prints \"One project was fully completed under the Housing Trust Fund program, Lantern Light, 23 units (9 HTF assisted)\" (i.e. 9 HTF-assisted), but the HTF-specific CR-56 section, CR-56 Table 15, and CR-20's own summary all state 23 HTF-assisted units; this build uses 23 and records the CR-05 '9' as a source inconsistency, not a transcription choice.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nd_amt_htf_total",
+            "amount": 7088068
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ndFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "htf",
+            "fy2025_units": 23,
+            "fy2025_amount": 7088068,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (HTF federal grant; administered by NDHFA, no separate HTF fund in the ACFR)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeless_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 186,
+        "fy2025_source_quote": "\"With the combined Federal, State, and previous year's funding carry over, ESG $364,469 and assisted 186 households/488 persons with rapid rehousing and homeless prevention tenant based rental assistance, utilities, and security deposits, $339,181 for overnight shelter, assisting 987 persons ...\" (North Dakota CAPER, CR-15 p.11; same text at CR-05 p.2). CR-25 splits the TBRA headline: \"ESG and ESG State funds assisted 431 persons/145 households ... for a total of $299,451.87 expended under homeless prevention component activities\" (p.20) and \"ESG and State funds assisted 57 persons/41 households ... for a total of $65,017.70\" rapid rehousing (p.21). 145 + 41 = 186 households and 431 + 57 = 488 persons (exact, verified). The two dollar components sum to $299,451.87 + $65,017.70 = $364,469.57, which the CAPER itself prints as the rounded headline \"$364,469\" -- a 57-cent source-internal rounding (verified with a <$1 tolerance in verify_category_consistency()). The overnight shelter figure (987 persons / $339,181) is a 'persons' count, not units or households, so it is recorded only as the reference amount chip below, not a subprogram.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nd_amt_esg_tbra",
+            "amount": 364469
+          },
+          {
+            "label_key": "nd_amt_esg_shelter",
+            "amount": 339181
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "ndFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rapid_rehousing",
+            "fy2025_units": 41,
+            "fy2025_amount": 65018,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (ESG / ND Homeless Grant federal-state pass-through; MD&A notes FY2023 takeover of administration)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          },
+          {
+            "key": "homeless_prevention",
+            "fy2025_units": 145,
+            "fy2025_amount": 299452,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Agency Operating Funds (ESG / ND Homeless Grant federal-state pass-through; MD&A notes FY2023 takeover of administration)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "ndFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

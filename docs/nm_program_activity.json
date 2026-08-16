@@ -1,0 +1,210 @@
+{
+  "NM": {
+    "hfa_name": "New Mexico Mortgage Finance Authority",
+    "hfa_abbr": "Housing New Mexico (MFA)",
+    "fiscal_year": "FFY2025",
+    "source_title": "Housing New Mexico (New Mexico MFA) FFY2025 Production Highlights -- homepage \"2025 Production Highlights\" + \"Nearly 18,000 New Mexico families and homes impacted by $740 million\" press release (13 Jan 2026)",
+    "source_url": "https://housingnm.org/about-us/news/nearly-18000-new-mexico-families-and-homes-impacted-by-740-million-provided-by-housing-new-mexico-in-fiscal-year-2025",
+    "source_file": "NM_MFA_AnnualReport_2025.pdf (archived from https://housingnm.org/uploads/documents/AnnualReport_2025.pdf; 6 pages, image-only -- pypdf extracts no text; figures transcribed from housingnm.org homepage \"2025 Production Highlights\" and the FY2025 press release, both machine-readable HTML)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_production",
+        "unit_type": "units",
+        "fy2025_actual": 1518,
+        "fy2025_source_quote": "\"Fiscal year 2025 production highlights include: $81.6 million provided to produce 1,518 homes\" (Housing New Mexico press release, 13 Jan 2026). Homepage \"2025 Production Highlights\": \"Created More Housing ... $81.6M Invested ... 1,518 New Homes\". One-to-one match between the two sources (verified in verify_category_consistency()). The report frames this as new housing production; it does not split the 1,518 by multifamily vs. single-family (a photo caption notes \"approximately $6.3 million to produce 145 single-family homes\", a small subset), so a single additive subprogram equal to the headline is used.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nm_amt_production",
+            "amount": 81600000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nmFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "new_homes",
+            "fy2025_units": 1518,
+            "fy2025_amount": 81600000,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": "Production financing (bonds + tax credits + loans + grants)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_rehabilitation",
+        "unit_type": "units",
+        "fy2025_actual": 739,
+        "fy2025_source_quote": "\"Fiscal year 2025 production highlights include: ... $16.8 million provided to preserve 739 homes\" (Housing New Mexico press release, 13 Jan 2026). Homepage \"2025 Production Highlights\": \"Preserved Existing Affordable Housing ... $16.8M Invested ... 739 Weatherized or Rehabilitated Homes\". One-to-one match (verified). The report names the underlying programs elsewhere (\"Housing New Mexico's Energy$mart Weatherization Program\" and the \"HOME Rehabilitation Program\") but prints no unit split between them, so the 739 is carried as a single subprogram.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nm_amt_preservation",
+            "amount": 16800000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nmFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "home_rehab",
+            "fy2025_units": 739,
+            "fy2025_amount": 16800000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Federal grant programs (Energy$mart Weatherization + HOME Rehabilitation, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 2287,
+        "fy2025_source_quote": "\"Fiscal year 2025 production highlights include: ... $583.2 million provided in first mortgage and down payment assistance to 2,287 families\" (Housing New Mexico press release, 13 Jan 2026). Homepage \"2025 Production Highlights\": \"Created Homeownership and Wealth-Building Opportunities through First Mortgages ... $555M In First-Mortgage Financing ... 2,287 Families\" and \"... through Down Payment Assistance ... $28.1M In Assistance Provided ... 3,311 Loans\". The press release's \"2,287 families\" is the FIRST-MORTGAGE family count (the DPA figure is a loan count, not a family count), so the category headline is 2,287 families and the DPA subprogram's 3,311 is the source's own 'loans' number. $555M + $28.1M = $583.1M, which the press release rounds to \"$583.2M\" (a $0.1M rounding artifact, documented not hard-errored).",
+        "fy2025_amounts": [
+          {
+            "label_key": "nm_amt_homeownership_total",
+            "amount": 583200000
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nmFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_mortgages",
+            "fy2025_units": 2287,
+            "fy2025_amount": 555000000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single-family mortgage revenue bonds (MFA core lending)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          },
+          {
+            "key": "down_payment_assistance",
+            "fy2025_units": 3311,
+            "fy2025_amount": 28100000,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "MFA down payment assistance (agency funds, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "housing_stability",
+        "unit_type": "households",
+        "fy2025_actual": 13152,
+        "fy2025_source_quote": "\"Fiscal year 2025 production highlights include: ... $58.2 million provided for housing stability to 13,152 people and families\" (Housing New Mexico press release, 13 Jan 2026). Homepage \"2025 Production Highlights\" breaks this into four items: \"Creating Stable Housing by Administering Long-Term Rental Assistance Through Vouchers ... $47.7M Processed ... 5,873 Families Supported\"; \"Created Stable Housing Environments through Rental Assistance ... $5.3M Invested ... 2,307 Families\"; \"... through Homelessness Prevention or Supportive Services ... $4.5M Invested ... 4,736 Families\"; \"... through Landlord Incentives ... $670,000 Invested ... 236 Families with Housing Vouchers\". 5,873 + 2,307 + 4,736 + 236 = 13,152 EXACTLY (verified). Dollar-wise, $47.7M + $5.3M + $4.5M + $670,000 = $58.17M, which the press release rounds to \"$58.2M\" (rounding artifact, documented not hard-errored).",
+        "fy2025_amounts": [
+          {
+            "label_key": "nm_amt_housing_stability",
+            "amount": 58200000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "nmFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rental_assistance_vouchers",
+            "fy2025_units": 5873,
+            "fy2025_amount": 47700000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "HUD Section 8 Housing Choice Vouchers (pass-through, inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          },
+          {
+            "key": "rental_assistance",
+            "fy2025_units": 2307,
+            "fy2025_amount": 5300000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Rental assistance programs (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          },
+          {
+            "key": "homelessness_prevention",
+            "fy2025_units": 4736,
+            "fy2025_amount": 4500000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Homelessness prevention / supportive services (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          },
+          {
+            "key": "landlord_incentives",
+            "fy2025_units": 236,
+            "fy2025_amount": 670000,
+            "color_group": "trust",
+            "fund_type": "governmental",
+            "fund_name": "Landlord incentive programs (inferred)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "nmFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "NJ": {
+    "hfa_name": "New Jersey Housing and Mortgage Finance Agency",
+    "hfa_abbr": "NJHMFA",
+    "fiscal_year": "CY2025",
+    "source_title": "NJHMFA 2025 Annual Report -- \"Supporting People, Delivering Affordability\" (LIHTC Program, Homeownership/DPA, and ERMA sections)",
+    "source_url": "https://www.nj.gov/dca/hmfa/reports/2025AnnualReport/",
+    "source_file": "None -- the report is a single-page HTML microsite (Mobirise), not a downloadable PDF; no local archive exists. Content captured live 2026-08-16 from the URL above (also linked from the Agency's Investor Information page https://www.nj.gov/dca/hmfa/about/investorinfo/2025_AnnualReport.shtml).",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "multifamily_lihtc",
+        "unit_type": "units",
+        "fy2025_actual": 3059,
+        "fy2025_source_quote": "\"NJHMFA's Low-Income Housing Tax Credit (LIHTC) Program ... In 2025, the $323,372,021 in LIHTC allocations spurred the $1.5 billion in development or redevelopment across 34 projects. Within these 34 projects were 3,059 new and rehabilitated units including 196 special-needs beds and 2,087 units designated for low- to moderate-income households.\" (NJHMFA 2025 Annual Report, '2025 COMMITMENTS TO FINANCING' section). The same 34-project/3,059-unit cohort is independently restated in the report's opening narrative: \"The Agency provided more than $930 million in subsidy and financing to spur $1.45 billion in residential construction across 34 projects ... the development and rehabilitation of 3,059 rental housing units, 2,087 of which are deed restricted for low-to-moderate income families, and the creation of an additional 196 housing opportunities for individuals with special needs.\" 2,087 + 196 = 2,283, which is less than 3,059 -- the source's own word is 'including', i.e. a non-exhaustive income-tier breakdown (the remaining 776 units are not itemized by income tier), so additive=False. Only the exact LIHTC allocation ($323,372,021) is surfaced as an amount; the '$930 million+' total subsidy and $1.45B/$1.5B construction-value figures are rounded or different concepts and are documented here rather than surfaced.",
+        "fy2025_amounts": [
+          {
+            "label_key": "nj_amt_lihtc",
+            "amount": 323372021
+          }
+        ],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "njFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "low_mod_income",
+            "fy2025_units": 2087,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "njFy26NotePending"
+            }
+          },
+          {
+            "key": "special_needs",
+            "fy2025_units": 196,
+            "fy2025_amount": null,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": null,
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "njFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "homeownership_dpa",
+        "unit_type": "households",
+        "fy2025_actual": 2618,
+        "fy2025_source_quote": "\"Down Payment Assistance (DPA) Program ... During 2025, NJHMFA provided 2,618 DPA loans to help 3,684 individuals across New Jersey achieve homeownership.\" and \"First-Generation Down Payment Assistance (DPA) Program ... In 2025, this program helped 1,670 First-Generation homebuyers from 1,216 households purchase their first home.\" (NJHMFA 2025 Annual Report, 'HOMEOWNERSHIP' section). 2,618 DPA loans is the household-level count (one DPA loan per purchase; the 3,684 figure is individuals, which can exceed loans when a purchase serves more than one person). first_generation (1,216 households / 1,670 homebuyers) is a subset of the DPA population, not a partition, so additive=False. The report discloses NO CY2025 dollar total for DPA -- only a per-homebuyer '$51,161 average savings over a 30-year mortgage' and a '$1.1 billion cumulative equity appreciation (2016-2024)' retrospective -- so this category carries no fy2025_amounts entry (honest null, not a missing figure).",
+        "fy2025_amounts": [],
+        "additive": false,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "njFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "first_generation",
+            "fy2025_units": 1216,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Program (Single-Family Housing Revenue Bonds + State DPA contribution)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "njFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "emergency_mortgage_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 300,
+        "fy2025_source_quote": "\"Emergency Rescue Mortgage Assistance (ERMA) ... In 2025, NJHMFA awarded $10,813,490 in ERMA funding to 300 households, with an average award amount of $36,045. Households that received ERMA assistance made 54% of the area median income, on average. Through the end of 2025, the ERMA program has assisted 8,334 households with awards totaling $242,226,072 [historical cumulative since Feb 2022 -- NOT used as a CY2025 figure].\" (NJHMFA 2025 Annual Report, 'ERMA' section). The report's opening narrative independently states the 2025 figure as 'approximately $11 million in relief' to 300 households, consistent with the precise $10,813,490 (300 x the source's rounded $36,045 average = $10,813,500, within rounding of the stated total). No sub-breakdown of ERMA by funding source or assistance type is disclosed, so a single subprogram equal to the headline is used (same pattern as VA's federal_assistance).",
+        "fy2025_amounts": [
+          {
+            "label_key": "nj_amt_erma",
+            "amount": 10813490
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "njFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "erma",
+            "fy2025_units": 300,
+            "fy2025_amount": 10813490,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Emergency Rescue Mortgage Assistance (ERMA) -- ARPA/HAF federal pass-through",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "njFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

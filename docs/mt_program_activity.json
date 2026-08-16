@@ -1,0 +1,110 @@
+{
+  "MT": {
+    "hfa_name": "Montana Board of Housing",
+    "hfa_abbr": "Montana Housing",
+    "fiscal_year": "FY2025",
+    "source_title": "Montana Board of Housing FY2025 Financial Audit -- Management's Discussion & Analysis (\"Summary\" and \"Multifamily Program\"), Legislative Audit Division report 25-07",
+    "source_url": "https://legmt.gov/lad/audit-reports",
+    "source_file": "FY2025/txt/MT_MTHousing_FY2025_ACFR.txt (Montana Board of Housing audited financial statements and Management's Discussion & Analysis for the fiscal year ended June 30, 2025; Legislative Audit Division report 25-07, issued February 2026 -- already archived in this repo's FY2025/txt corpus; the LAD site is a JS SPA with no stable per-report PDF URL, so no separate PDF was re-downloaded)",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "single_family_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 544,
+        "fy2025_source_quote": "\"Summary\" (MD&A, p.A-7): \"544 Single Family Mortgages were purchased with the Bond Program for $82.3 million.\" \"28 Mortgage-Backed Securities were purchased with Single Family Bond Program funds totaling $61.8 million.\" \"Mortgage Credit Certificates were issued for 18 loans with principal balances totaling $5.3 million.\" \"8 Reverse Annuity Mortgage (RAM) loans were originated in FY25. The RAM Program is currently assisting 41 elderly households.\" The 544/$82.3M whole-loan purchase is this category's FY2025 flow headline. The 28 MBS / $61.8M is the securitized form of the same single-family bond program (adopted Nov. 1, 2024 -- see MD&A \"Single Family Program\", p.A-7/A-8) and is shown only as a dollar reference chip because no underlying household count is disclosed for the MBS pools (only the number of securities). MCC (18 loans / $5.3M) and RAM (8 loans; \"41 elderly households\" is a point-in-time STOCK, not FY2025 flow, with no dollar figure) are noted here for context but not modeled as subprograms -- the source does not state either is additive with the 544 whole loans. \"$82.3 million\" is the Board's own rounded phrasing; the Statement of Cash Flows' Single Family \"Cash Payments for Loans\" of $82,342,455 (.txt line 2924) independently corroborates it (rounds to $82.3M).",
+        "fy2025_amounts": [
+          {
+            "label_key": "mt_amt_sf_whole_loans",
+            "amount": 82300000
+          },
+          {
+            "label_key": "mt_amt_sf_mbs",
+            "amount": 61800000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mtFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "sf_whole_loans",
+            "fy2025_units": 544,
+            "fy2025_amount": 82300000,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Single Family Mortgage Program Funds (enterprise/business-type fund)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mtFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_rental",
+        "unit_type": "units",
+        "fy2025_actual": 533,
+        "fy2025_source_quote": "\"Multifamily Program\" (MD&A, p.A-9): \"During FY25, the Board allocated $37.2 million of 9% housing tax credits to be used over ten years to produce 137 rental units in Montana. The Board issued $73.5 million in conduit bonds to produce 396 additional rental units. When 50% of a project's funding is through the issuance of conduit bonds, the project qualifies for 4% tax credits. In FY25, the Board allocated $46.2 million of 4% housing credits to be used over ten years.\" 137 (9% LIHTC) + 396 (conduit bonds) = 533 rental units, an exact partition of the two disclosed production figures (asserted in verify_category_consistency()). The 4% LIHTC ($46.2M) attaches to the same conduit-bond-financed projects and is shown only as a dollar reference chip, not a third unit subprogram. The same section also reports \"The Multifamily Program closed three loans utilizing the Coal Trust Multifamily Homes (CTMH) loan program ... The three loans totaled $10,157,031\" -- noted for context but not modeled (funded by the Montana Board of Investment and administered/serviced by MBOH; a loan count, not a unit count). The $73.5M conduit-bond figure is independently corroborated by Note 15 (\"No-Commitment Debt\", p.A-42/A-43): the original-amount sum of the 2024- and 2025-series no-commitment multifamily bonds is $73,462,000, which rounds to $73.5M.",
+        "fy2025_amounts": [
+          {
+            "label_key": "mt_amt_lihtc_9pct",
+            "amount": 37200000
+          },
+          {
+            "label_key": "mt_amt_conduit_bonds",
+            "amount": 73500000
+          },
+          {
+            "label_key": "mt_amt_lihtc_4pct",
+            "amount": 46200000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "mtFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "lihtc_9pct",
+            "fy2025_units": 137,
+            "fy2025_amount": 37200000,
+            "color_group": "credit",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "Federal 9% Low-Income Housing Tax Credit (allocated, not a Board asset)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mtFy26NotePending"
+            }
+          },
+          {
+            "key": "conduit_bond_financing",
+            "fy2025_units": 396,
+            "fy2025_amount": 73500000,
+            "color_group": "bond",
+            "fund_type": "off_balance_sheet",
+            "fund_name": "No-Commitment (conduit) multifamily revenue bonds (ACFR Note 15)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "mtFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}

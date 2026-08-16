@@ -1,0 +1,77 @@
+{
+  "abbr": "VT",
+  "prefix": "vt",
+  "config": {
+    "file": "vt_program_activity.json",
+    "prefix": "vt",
+    "modalTitleKey": "vtModalTitle",
+    "mapCenter": [44.0, -72.7],
+    "mapZoom": 8
+  },
+  "i18n": {
+    "zh": {
+      "vtModalTitle": "佛蒙特州 VHFA 2025年度项目活动（试点，日历年口径）",
+      "vtCat_homeownership_loans": "购房贷款",
+      "vtCat_rental_housing": "租赁住房开发",
+      "vtCat_homebuyer_assistance": "购房者援助",
+      "vtSub_conventional": "常规贷款",
+      "vtSub_government": "政府担保贷款",
+      "vtSub_rental_development": "租赁公寓（税收抵免与债券）",
+      "vtSub_assist": "ASSIST 首付援助",
+      "vtSub_shared_equity": "共享权益援助（IORTA）",
+      "vtSub_first_generation": "第一代购房者补助金",
+      "vt_amt_home_loans_total": "购房贷款总额",
+      "vt_amt_tax_credit_equity": "税收抵免股权",
+      "vt_amt_construction_loans": "短期建设贷款",
+      "vt_amt_permanent_loans": "长期永久贷款"
+    },
+    "en": {
+      "vtModalTitle": "Vermont VHFA 2025 Program Activity (Pilot, Calendar Year)",
+      "vtCat_homeownership_loans": "Homeownership Loans",
+      "vtCat_rental_housing": "Rental Housing Development",
+      "vtCat_homebuyer_assistance": "Homebuyer Assistance",
+      "vtSub_conventional": "Conventional Loans",
+      "vtSub_government": "Government-Backed Loans",
+      "vtSub_rental_development": "Rental Apartments (Tax Credits & Bonds)",
+      "vtSub_assist": "ASSIST Down Payment Assistance",
+      "vtSub_shared_equity": "Shared Equity Assistance (IORTA)",
+      "vtSub_first_generation": "First Generation Homebuyer Grants",
+      "vt_amt_home_loans_total": "Total Home Loans",
+      "vt_amt_tax_credit_equity": "Tax Credit Equity",
+      "vt_amt_construction_loans": "Short-Term Construction Loans",
+      "vt_amt_permanent_loans": "Long-Term Permanent Loans"
+    },
+    "es": {
+      "vtModalTitle": "Actividad del Programa de VHFA de Vermont 2025 (Piloto, Año Calendario)",
+      "vtCat_homeownership_loans": "Préstamos para Compra de Vivienda",
+      "vtCat_rental_housing": "Desarrollo de Vivienda en Alquiler",
+      "vtCat_homebuyer_assistance": "Asistencia para Compradores de Vivienda",
+      "vtSub_conventional": "Préstamos Convencionales",
+      "vtSub_government": "Préstamos Respaldados por el Gobierno",
+      "vtSub_rental_development": "Apartamentos de Alquiler (Créditos Fiscales y Bonos)",
+      "vtSub_assist": "Asistencia para el Pago Inicial ASSIST",
+      "vtSub_shared_equity": "Asistencia de Capital Compartido (IORTA)",
+      "vtSub_first_generation": "Subvenciones para Compradores de Primera Generación",
+      "vt_amt_home_loans_total": "Total de Préstamos para Vivienda",
+      "vt_amt_tax_credit_equity": "Capital de Créditos Fiscales",
+      "vt_amt_construction_loans": "Préstamos de Construcción a Corto Plazo",
+      "vt_amt_permanent_loans": "Préstamos Permanentes a Largo Plazo"
+    },
+    "pl": {
+      "vtModalTitle": "Działalność programowa VHFA Vermont za 2025 r. (Pilotaż, rok kalendarzowy)",
+      "vtCat_homeownership_loans": "Kredyty na Zakup Domu",
+      "vtCat_rental_housing": "Rozwój Mieszkaniówki Czynszowej",
+      "vtCat_homebuyer_assistance": "Wsparcie dla Kupujących Dom",
+      "vtSub_conventional": "Kredyty Konwencjonalne",
+      "vtSub_government": "Kredyty z Gwarancją Rządową",
+      "vtSub_rental_development": "Mieszkania na Wynajem (Ulgi Podatkowe i Obligacje)",
+      "vtSub_assist": "Wsparcie Zaliczki ASSIST",
+      "vtSub_shared_equity": "Wsparcie Kapitału Wspólnego (IORTA)",
+      "vtSub_first_generation": "Dotacje dla Kupujących z Pierwszego Pokolenia",
+      "vt_amt_home_loans_total": "Łączna Wartość Kredytów Mieszkaniowych",
+      "vt_amt_tax_credit_equity": "Kapitał z Ulg Podatkowych",
+      "vt_amt_construction_loans": "Krótkoterminowe Kredyty Budowlane",
+      "vt_amt_permanent_loans": "Długoterminowe Kredyty Stałe"
+    }
+  }
+}

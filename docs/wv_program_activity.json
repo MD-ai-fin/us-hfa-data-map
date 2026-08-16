@@ -1,0 +1,165 @@
+{
+  "WV": {
+    "hfa_name": "West Virginia Housing Development Fund",
+    "hfa_abbr": "WVHDF",
+    "fiscal_year": "FY2025",
+    "source_title": "West Virginia Housing Development Fund FY2025 Annual Report -- \"Welcome from WVHDF\" summary, Single-Family Programs, Multifamily Programs, and Production Snapshot",
+    "source_url": "https://www.wvhdf.com/annual-report-2025/",
+    "source_file": "Interactive web report (no single downloadable PDF) -- figures transcribed from server-rendered HTML pages under https://www.wvhdf.com/annual-report-2025/ (?ar-page=home / about / single-family-programs-overview / multi-family-programs-overview). Fund-type classification cross-referenced against the Fund's own ACFR, already archived at FY2025/txt/WV_WVHDF_FY2025_ACFR.txt (fiscal year ended June 30, 2025).",
+    "retrieved": "2026-08-16",
+    "categories": [
+      {
+        "key": "single_family_homeownership",
+        "unit_type": "households",
+        "fy2025_actual": 1414,
+        "fy2025_source_quote": "\"Single-Family Production $254,382,975\" / \"Production 1,414 Single-Family Loans\" (Welcome-from-WVHDF stat cards, ar-page=about); \"$254,382,975 Mortgage Loans\", \"$233,339,147 Loaned through the Homeownership Program\", \"$4,204,020 Loaned through the Movin' Up Program\", \"$9,076,415 In down payment assistance through the Low Down Home Loan\" (landing-page cards, ar-page=home). Single-Family Programs page: \"In FY25, the Fund loaned more than $233 million to 1,347 first-time home buyers through the Homeownership Program.\" \"In FY25, the Fund loaned $4.2 million to 21 borrowers through the Movin' Up Program.\" \"This program helped 32 veterans achieve their dreams of affordable homeownership.\" \"In FY25, the program loaned $145,129 to 14 property owners across the state.\" 1,347 + 21 + 32 + 14 = 1,414, an exact partition of the headline (verified in verify_category_consistency()). The Low Down Home Loan (1,192 borrowers / $9,076,415) is a second-position down-payment/closing-cost assistance loan layered on a subset of these first mortgages ('About 86 percent of borrowers took advantage of this loan'), so it is shown only as a reference amount, not part of the 1,414-loan partition. The $254,382,975 total is the report's own headline and is not fully itemized by the subprograms (Veterans loan dollars are not disclosed; only the $8M State funding transfer is), so the subprogram dollar amounts are a partial, non-exhaustive itemization.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wv_amt_single_family_total",
+            "amount": 254382975
+          },
+          {
+            "label_key": "wv_amt_low_down_assistance",
+            "amount": 9076415
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wvFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "homeownership_program",
+            "fy2025_units": 1347,
+            "fy2025_amount": 233339147,
+            "color_group": "bond",
+            "fund_type": "proprietary",
+            "fund_name": "Bond Programs (single-family Housing Finance Bond Program / MRB)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          },
+          {
+            "key": "movin_up",
+            "fy2025_units": 21,
+            "fy2025_amount": 4204020,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Other Loan Programs (Movin' Up Program, self-funding)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          },
+          {
+            "key": "veterans",
+            "fy2025_units": 32,
+            "fy2025_amount": null,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Other Loan Programs (Veteran's Home Loan Mortgage Program; $8M State funding)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          },
+          {
+            "key": "onsite_systems",
+            "fy2025_units": 14,
+            "fy2025_amount": 145129,
+            "color_group": "capital",
+            "fund_type": "proprietary",
+            "fund_name": "Other Loan Programs (On-Site Septic Systems Loan Program)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "multifamily_rental_production",
+        "unit_type": "units",
+        "fy2025_actual": 781,
+        "fy2025_source_quote": "\"781 Total Multifamily units produced\", \"$108,631,601 Total amount loaned and awarded through Multifamily Programs\", \"55 Loans and Awards Through Multifamily Programs\" (landing-page cards, ar-page=home); \"This work resulted in 781 new or rehabilitated rental units financed through our Multifamily Division in fiscal year 2025.\" (ar-page=home). Welcome letter: \"In FY25, we committed roughly $110.4 million in funding to these projects through our slate of housing programs, resulting in 781 safe, affordable rental units in communities across the state.\" (ar-page=about). $108,631,601 is used as the primary amount because it is the precise 'total amount loaned and awarded' and is grouped directly with the '781 Total Multifamily units produced' headline. Two other precisely printed dollar figures exist -- \"Multifamily Production $94,271,508 Including Private Investment\" and \"Multifamily Lending Program $88,383,000 Construction and Permanent Loans\" (ar-page=about) -- plus the narrative 'roughly $110.4 million committed'; all are noted here but not used as the category amount. The report does not provide a clean per-program partition of the 781 units (the interactive Multifamily Programs page's per-program impact cards are ambiguous/duplicated in raw HTML), so this is modeled as a single aggregate subprogram equal to the headline.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wv_amt_multifamily_total",
+            "amount": 108631601
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wvFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "multifamily_total",
+            "fy2025_units": 781,
+            "fy2025_amount": 108631601,
+            "color_group": "bond",
+            "fund_type": "mixed",
+            "fund_name": "Multifamily Lending Program loans (proprietary) + LIHTC/HOME/NHTF/AHF/Home4Good awards (off-balance-sheet credits and federally-administered grants)",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          }
+        ]
+      },
+      {
+        "key": "rental_assistance",
+        "unit_type": "households",
+        "fy2025_actual": 2634,
+        "fy2025_source_quote": "\"In FY25, we provided 2,634 at-risk households with more than $9.2 million in direct rental and utility assistance. This program, which sunset on September 30, 2025, has been vital to providing housing stability for at-risk West Virginia renters.\" (Welcome letter, ar-page=about). The source prints only the rounded 'more than $9.2 million' -- no more precise figure is disclosed -- so 9,200,000 is used as-is (a floor), the same way VA used the report's own rounded '$1.4B'. Funded from remaining Emergency Rental Assistance (ERA1/ERA2, locally the Mountaineer Rental Assistance Program) funds, a federal pass-through the ACFR recognizes as 'pass through grant revenue and pass through grant expense' within the enterprise fund.",
+        "fy2025_amounts": [
+          {
+            "label_key": "wv_amt_rental_assistance",
+            "amount": 9200000
+          }
+        ],
+        "additive": true,
+        "fy2026": {
+          "value": null,
+          "amount": null,
+          "closed": false,
+          "note_key": "wvFy26NotePending"
+        },
+        "subprograms": [
+          {
+            "key": "rental_assistance_total",
+            "fy2025_units": 2634,
+            "fy2025_amount": 9200000,
+            "color_group": "trust",
+            "fund_type": "proprietary",
+            "fund_name": "Emergency Rental Assistance (ERA1/ERA2 - 'Mountaineer Rental Assistance Program'), federal pass-through recognized in the enterprise fund",
+            "fy2026": {
+              "value": null,
+              "amount": null,
+              "closed": false,
+              "note_key": "wvFy26NotePending"
+            }
+          }
+        ]
+      }
+    ],
+    "projects": []
+  }
+}
