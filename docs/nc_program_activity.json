@@ -7,6 +7,16 @@
     "source_url": "https://www.nchfa.com/sites/default/files/forms_resources/2025-08/2025%20Awards%20List.pdf",
     "source_file": "NC_NCHFA_2025_Awards_List.pdf (+ housingbuildsnc.com homepage 2025 Home Ownership figures)",
     "retrieved": "2026-08-14",
+    "source_links": [
+      {
+        "label": "Awards List",
+        "url": "https://www.nchfa.com/sites/default/files/forms_resources/2025-08/2025%20Awards%20List.pdf"
+      },
+      {
+        "label": "Home Ownership figures",
+        "url": "https://2025.housingbuildsnc.com/"
+      }
+    ],
     "categories": [
       {
         "key": "housing_credit_awards",

@@ -7,6 +7,16 @@
     "source_url": "https://utahhousingcorp.org/about/2025-annual-report/",
     "source_file": "UT_UtahHousing_AnnualReport_2025.pdf (+ UT_UtahHousing_AuditFS_2025.pdf for fund-type classification)",
     "retrieved": "2026-08-16",
+    "source_links": [
+      {
+        "label": "Annual Report",
+        "url": "https://utahhousingcorp.org/wp-content/uploads/2025_Annual_Report.pdf"
+      },
+      {
+        "label": "Audit FS 2025",
+        "url": "https://utahhousingcorp.org/pdf/auditfs2025.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "homeownership",

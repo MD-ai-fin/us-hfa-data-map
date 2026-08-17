@@ -7,6 +7,16 @@
     "source_url": "https://www.tdhca.texas.gov/sites/default/files/housing-center/docs/26-SLIHP.pdf",
     "source_file": "TX_TDHCA_SLIHP_2026.pdf (+ TX_TDHCA_9pctHTC_AwardList_2025.xlsx, Version Date January 14, 2026)",
     "retrieved": "2026-08-13",
+    "source_links": [
+      {
+        "label": "SLIHP 2026",
+        "url": "https://www.tdhca.texas.gov/sites/default/files/housing-center/docs/26-SLIHP.pdf"
+      },
+      {
+        "label": "9% HTC Award List",
+        "url": "https://www.tdhca.texas.gov/sites/default/files/multifamily/docs/htc-9pct/25-261014-HTC9pct-AwardWaitingList.xlsx"
+      }
+    ],
     "categories": [
       {
         "key": "multifamily_rental_production",

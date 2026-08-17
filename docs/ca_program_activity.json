@@ -7,6 +7,16 @@
     "source_url": "https://www.calhfa.ca.gov/about/financials/reports/24-25/2024-2025-pafr.pdf",
     "source_file": "CA_CalHFA_PAFR_2024-2025.pdf (+ CA_CalHFA_DFA_Report_FY2025.pdf, + CA_CalHFA_FY2025_ACFR.txt Statistical Section \"Multifamily Programs\")",
     "retrieved": "2026-08-13",
+    "source_links": [
+      {
+        "label": "2024-25 PAFR",
+        "url": "https://www.calhfa.ca.gov/about/financials/reports/24-25/2024-2025-pafr.pdf"
+      },
+      {
+        "label": "DFA Report",
+        "url": "https://www.calhfa.ca.gov/about/press/reports/DFA-Report-2026-01.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "multifamily_rental",

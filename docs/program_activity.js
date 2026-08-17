@@ -589,13 +589,19 @@
         <span>${FUND_TYPE_ICON.off_balance_sheet} ${escapeHtml(t("ilFundOffBalance"))}</span>
         <span>${FUND_TYPE_ICON.mixed} ${escapeHtml(t("ilFundMixed"))}</span>
       </div>`;
+      // 多报告州：d.source_links 是 {label,url}[]，渲染多个独立链接；否则回退单链接。
+      const sourceLinks = (d.source_links && d.source_links.length)
+        ? d.source_links.map(l =>
+            `<a href="${l.url}" target="_blank" rel="noopener noreferrer">${escapeHtml(l.label)}</a>`
+          ).join('<span class="il-link-sep"> · </span>')
+        : `<a href="${d.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(shortSourceLabel(d))}</a>`;
       body.innerHTML = `
         <div class="il-kpi-grid">${cards}</div>
         <div class="il-legend-units"><span>${escapeHtml(t("ilUnitsLegend"))}</span><span>${escapeHtml(t("ilHouseholdsLegend"))}</span></div>
         ${fundLegend}
         ${hasMap ? `<div class="il-section-title">${escapeHtml(t("ilMapTitle").replace("{fy}", d.fiscal_year || ""))}</div>
         <div class="il-map-wrap"><div id="il-bubble-map"></div>${mapLegend}</div>` : ""}
-        <p class="il-footnote">${sourceNote}<br><a href="${d.source_url}" target="_blank" rel="noopener noreferrer">${escapeHtml(shortSourceLabel(d))}</a></p>
+        <p class="il-footnote">${sourceNote}<br>${sourceLinks}</p>
       `;
       renderMap();
     }

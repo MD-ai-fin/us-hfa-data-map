@@ -7,6 +7,16 @@
     "source_url": "https://wshfc.org/admin/WSHFCAR2025Updater12.pdf",
     "source_file": "WA_WSHFC_DataReport_FY2025.pdf (+ WA_WSHFC_9pctHTC_AllocationList_2025.pdf)",
     "retrieved": "2026-08-13",
+    "source_links": [
+      {
+        "label": "Data Report",
+        "url": "https://wshfc.org/admin/WSHFCAR2025Updater12.pdf"
+      },
+      {
+        "label": "9% Allocation List",
+        "url": "https://www.wshfc.org/mhcf/9percent/2025AllocationList.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "multifamily_housing",

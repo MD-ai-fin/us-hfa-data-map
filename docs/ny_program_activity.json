@@ -7,6 +7,16 @@
     "source_url": "https://hcr.ny.gov/system/files/documents/2026/01/list-of-measurements-for-cy-2025-final_1.pdf",
     "source_file": "NY_HCR_ListOfMeasurements_CY2025.pdf (HFA/SONYMA/MIF, CY2025) + NY_HTFC_OperationsAccomplishments_FY2025-26.pdf (HTFC, SFY2025-26; https://hcr.ny.gov/system/files/documents/2026/07/fy-25-26-htfc-operations-and-accomplishments-final-no-watermark.pdf)",
     "retrieved": "2026-08-13",
+    "source_links": [
+      {
+        "label": "List of Measurements",
+        "url": "https://hcr.ny.gov/system/files/documents/2026/01/list-of-measurements-for-cy-2025-final_1.pdf"
+      },
+      {
+        "label": "HTFC Operations",
+        "url": "https://hcr.ny.gov/system/files/documents/2026/07/fy-25-26-htfc-operations-and-accomplishments-final-no-watermark.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "hfa_multifamily",

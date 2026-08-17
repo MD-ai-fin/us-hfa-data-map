@@ -7,6 +7,20 @@
     "source_url": "https://www.wheda.com/about-wheda/annual-report--financials/annual-report-2025",
     "source_file": "WI_WHEDA_AnnualReport_FY2025.pdf (+ 2025 9%/4% HTC Award List pages)",
     "retrieved": "2026-08-14",
+    "source_links": [
+      {
+        "label": "Annual Report",
+        "url": "https://www.wheda.com/globalassets/documents/annual-reports-and-financials/2025/2025-annual-report.pdf"
+      },
+      {
+        "label": "9% HTC Awards",
+        "url": "https://www.wheda.com/developers-and-property-managers/tax-credits/htc/allocating/2025/9-percent-htc-awards"
+      },
+      {
+        "label": "4% HTC Awards",
+        "url": "https://www.wheda.com/developers-and-property-managers/tax-credits/htc/allocating/2025/4-percent-htc-awards"
+      }
+    ],
     "categories": [
       {
         "key": "single_family_homeownership",

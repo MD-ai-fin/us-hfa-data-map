@@ -7,6 +7,16 @@
     "source_url": "https://www.ahfc.us/about-us/reports/2025-annual-report",
     "source_file": "2025 Annual Report -- \"People Building Communities: Investing in Alaska\" (Issuu flip-book, no downloadable PDF; https://issuu.com/geretactical/docs/2025-ahfc-annual-report; pages captured individually from Issuu's page-image CDN) + FY2025/txt/AK_AHFC_FY2025_ACFR.txt (fund-type cross-check)",
     "retrieved": "2026-08-14",
+    "source_links": [
+      {
+        "label": "Annual Report (landing)",
+        "url": "https://www.ahfc.us/about-us/reports/2025-annual-report"
+      },
+      {
+        "label": "Issuu flip-book",
+        "url": "https://issuu.com/geretactical/docs/2025-ahfc-annual-report"
+      }
+    ],
     "categories": [
       {
         "key": "mortgage_operations",

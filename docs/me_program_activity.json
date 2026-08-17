@@ -7,6 +7,24 @@
     "source_url": "https://mainehousing.org/about/accomplishments",
     "source_file": "ME_MaineHousing_Accomplishments_2025.html (+ ME_june_2025.html, ME_nov_2025.html, ME_MaineHousing_RuralAwardTable_2025.jpg)",
     "retrieved": "2026-08-16",
+    "source_links": [
+      {
+        "label": "Accomplishments",
+        "url": "https://mainehousing.org/about/accomplishments"
+      },
+      {
+        "label": "Rural award (Apr)",
+        "url": "https://mainehousing.org/news/news-detail/2025/04/10/mainehousing-awards--24.5-million-in-rural-affordable-rental-housing-for-137-new-rental-units"
+      },
+      {
+        "label": "Urban round (Jun)",
+        "url": "https://mainehousing.org/news/news-detail/2025/06/17/mainehousing-awards--13.9-million-in-state-funding-for-129-new-affordable-housing-units-in-lewiston-and-portland"
+      },
+      {
+        "label": "Tax-credit round (Nov)",
+        "url": "https://mainehousing.org/news/news-detail/2025/11/21/governor-mills--mainehousing-announce-300--new-affordable-apartments-in-cities-across-maine"
+      }
+    ],
     "categories": [
       {
         "key": "homeownership_loans",

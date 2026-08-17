@@ -7,6 +7,20 @@
     "source_url": "https://housing.az.gov/resources/2025-annual-report",
     "source_file": "AZ_ADOH_AnnualReport_FY2025.pdf + AZ_ADOH_LIHTC_Projects_Report_FY2025.pdf + AZ_ADOH_HTF_MTHF_Report_FY2025.pdf",
     "retrieved": "2026-08-16",
+    "source_links": [
+      {
+        "label": "Annual Report",
+        "url": "https://housing.az.gov/sites/default/files/2025-12/ADOH_2025_Annual_Report.pdf"
+      },
+      {
+        "label": "LIHTC Projects Report",
+        "url": "https://housing.az.gov/sites/default/files/2025-10/FY2025-LIHTC-Projects-Report.pdf"
+      },
+      {
+        "label": "HTF & MTHF Report",
+        "url": "https://housing.az.gov/sites/default/files/2025-09/FY2025%20HTF%20%26%20MTHF%20Report.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "multifamily_development",

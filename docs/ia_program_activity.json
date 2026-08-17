@@ -7,6 +7,20 @@
     "source_url": "https://opportunityiowa.gov/about/iowa-finance-authority/financial-reports",
     "source_file": "IA_IFA_PerformanceReport_FY2025.pdf (+ 2025 9% and 4% Housing Tax Credit Award Lists)",
     "retrieved": "2026-08-14",
+    "source_links": [
+      {
+        "label": "Performance Report",
+        "url": "https://opportunityiowa.gov/media/7574/download?inline"
+      },
+      {
+        "label": "9% HTC Award List",
+        "url": "https://opportunityiowa.gov/media/6512/download?inline"
+      },
+      {
+        "label": "4% HTC Award List",
+        "url": "https://opportunityiowa.gov/media/7457/download?inline"
+      }
+    ],
     "categories": [
       {
         "key": "homeownership_loans",

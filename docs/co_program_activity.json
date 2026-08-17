@@ -7,6 +7,16 @@
     "source_url": "https://www.chfainfo.com/2025-chfa-community-report",
     "source_file": "CO_CHFA_CommunityReport_2025.pdf (+ embedded properties-map API + Federal 4% Award Report cross-reference)",
     "retrieved": "2026-08-14",
+    "source_links": [
+      {
+        "label": "Community Report",
+        "url": "https://www.chfainfo.com/getattachment/e22a8383-74ab-4be1-9cb1-559332222096/2025-CHFA-Community-Report.pdf"
+      },
+      {
+        "label": "4% HTC Award Report",
+        "url": "https://www.chfainfo.com/getattachment/34a30942-e08d-494a-8bc7-f236ebf01e98/federal-4-housing-tax-credit-award-report.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "homeownership",

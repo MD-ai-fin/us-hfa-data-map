@@ -7,6 +7,24 @@
     "source_url": "https://annualreport.phfa.org/2025-report/",
     "source_file": "PA_PHFA_MapDoc_FY2025.pdf (+ 3 companion FY2025 program tables)",
     "retrieved": "2026-08-12",
+    "source_links": [
+      {
+        "label": "Homeownership",
+        "url": "https://annualreport.phfa.org/wp-content/uploads/2026/03/Homeownership-2025-Fiscal-Year.pdf"
+      },
+      {
+        "label": "HEMAP Loans",
+        "url": "https://annualreport.phfa.org/wp-content/uploads/2026/03/HEMAP-Loans-2025-Fiscal-Year-FINAL.pdf"
+      },
+      {
+        "label": "PHARE Funding",
+        "url": "https://annualreport.phfa.org/wp-content/uploads/2026/03/2025-PHARE-Funding-by-County.pdf"
+      },
+      {
+        "label": "Map Doc",
+        "url": "https://annualreport.phfa.org/wp-content/uploads/2026/03/2025-Final-Map-Doc-for-PPOS.pdf"
+      }
+    ],
     "categories": [
       {
         "key": "multifamily_awards",
